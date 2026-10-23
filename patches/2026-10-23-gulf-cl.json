@@ -1,0 +1,36 @@
+{
+  "run": "2026-10-23T10:00:00Z",
+  "changes": [
+    { "op": "fixture", "competition": "gulf-club-cl", "season": "2026-27", "stage": { "key": "groups", "type": "group", "group": "A", "round": 1 },
+      "home": "sa-neom", "away": "ye-shaab-hadramaut", "kickoff": "2026-10-13T15:00:00Z", "timeConfirmed": false,
+      "sources": ["https://www.raya.com/2026/10/12/غدا-انطلاق-النسخة-الثالثة-من-دوري-أبطال-الخليج-للأندية-بمشاركة-12-فريقا", "https://www.okaz.com.sa/sport/na/2270625"] },
+    { "op": "fixture", "competition": "gulf-club-cl", "season": "2026-27", "stage": { "key": "groups", "type": "group", "group": "B", "round": 1 },
+      "home": "qa-qatar-sc", "away": "iq-al-zawraa", "kickoff": "2026-10-13T15:00:00Z", "timeConfirmed": false,
+      "sources": ["https://www.raya.com/2026/10/12/غدا-انطلاق-النسخة-الثالثة-من-دوري-أبطال-الخليج-للأندية-بمشاركة-12-فريقا", "https://qna.org.qa/en/News-Area/News/2026-10/13/gulf-club-champions-league-qatar-sc-draw-1-1-with-iraqs-al-zawraa"] },
+    { "op": "fixture", "competition": "gulf-club-cl", "season": "2026-27", "stage": { "key": "groups", "type": "group", "group": "A", "round": 1 },
+      "home": "qa-al-duhail", "away": "om-al-shabab-oman", "kickoff": "2026-10-14T15:00:00Z", "timeConfirmed": false,
+      "sources": ["https://www.raya.com/2026/10/12/غدا-انطلاق-النسخة-الثالثة-من-دوري-أبطال-الخليج-للأندية-بمشاركة-12-فريقا", "https://www.omanobserver.om/article/1197885/sports/football/al-duhail-blank-al-shabab-in-gulf-opener"] },
+    { "op": "fixture", "competition": "gulf-club-cl", "season": "2026-27", "stage": { "key": "groups", "type": "group", "group": "C", "round": 1 },
+      "home": "sa-al-ettifaq", "away": "kw-kazma", "kickoff": "2026-10-14T15:00:00Z", "timeConfirmed": false,
+      "sources": ["https://www.raya.com/2026/10/12/غدا-انطلاق-النسخة-الثالثة-من-دوري-أبطال-الخليج-للأندية-بمشاركة-12-فريقا", "https://sabq.org/article/2onqi43"] },
+
+    { "op": "result", "competition": "gulf-club-cl", "season": "2026-27", "home": "sa-neom", "away": "ye-shaab-hadramaut", "date": "2026-10-13", "status": "FT", "score": [4, 0],
+      "sources": ["https://www.raya.com/2026/10/14/الدحيل-يستهل-مشواره-بدوري-أبطال-الخليج-للأندية-بثلاثية-عمانية", "https://www.omanobserver.om/article/1197885/sports/football/al-duhail-blank-al-shabab-in-gulf-opener"] },
+    { "op": "result", "competition": "gulf-club-cl", "season": "2026-27", "home": "qa-qatar-sc", "away": "iq-al-zawraa", "date": "2026-10-13", "status": "FT", "score": [1, 1],
+      "sources": ["https://qna.org.qa/en/News-Area/News/2026-10/13/gulf-club-champions-league-qatar-sc-draw-1-1-with-iraqs-al-zawraa", "https://www.qatar-tribune.com/article/259004/sports/qatar-sc-in-1-1-draw-with-iraqs-al-zawraa"] },
+    { "op": "result", "competition": "gulf-club-cl", "season": "2026-27", "home": "qa-al-duhail", "away": "om-al-shabab-oman", "date": "2026-10-14", "status": "FT", "score": [3, 0],
+      "sources": ["https://www.omanobserver.om/article/1197885/sports/football/al-duhail-blank-al-shabab-in-gulf-opener", "https://www.qatar-tribune.com/article/259245/sports/gulf-club-champions-league-al-duhail-make-winning-start", "https://www.raya.com/2026/10/14/الدحيل-يستهل-مشواره-بدوري-أبطال-الخليج-للأندية-بثلاثية-عمانية"] },
+    { "op": "result", "competition": "gulf-club-cl", "season": "2026-27", "home": "sa-al-ettifaq", "away": "kw-kazma", "date": "2026-10-14", "status": "FT", "score": [2, 0],
+      "sources": ["https://sabq.org/article/2onqi43", "https://kuwaittimes.com/article/51657/sports/kuwait-sc-beat-al-khalidiya-in-afc-champions-league-two-kazma-lose-to-ettifaq/"] },
+    { "op": "result", "match": "gulf-club-cl-2026-27-groups-gb-r01-ae-al-nasr-bh-al-riffa", "status": "FT", "score": [3, 0],
+      "sources": ["https://www.emaratalyoum.com/sports/local/2026-10-13-1.2092245", "https://www.gdnonline.com/Details/1409602/Riffa-off-to-losing-start"] },
+
+    { "op": "fixture", "competition": "gulf-club-cl", "season": "2026-27", "stage": { "key": "groups", "type": "group", "group": "A", "round": 2 },
+      "home": "om-al-shabab-oman", "away": "sa-neom", "kickoff": "2026-10-27T14:00:00Z", "timeConfirmed": false,
+      "sources": ["https://www.omanobserver.om/article/1197885/sports/football/al-duhail-blank-al-shabab-in-gulf-opener"] },
+    { "op": "fixture", "competition": "gulf-club-cl", "season": "2026-27", "stage": { "key": "groups", "type": "group", "group": "B", "round": 2 },
+      "home": "bh-al-riffa", "away": "qa-qatar-sc", "kickoff": "2026-10-27T14:00:00Z", "timeConfirmed": false,
+      "sources": ["https://www.gdnonline.com/Details/1409602/Riffa-off-to-losing-start"] }
+  ],
+  "unconfirmed": []
+}

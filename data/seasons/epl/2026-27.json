@@ -1,0 +1,3080 @@
+{
+ "competition": "epl",
+ "season": "2026-27",
+ "matches": [
+  {
+   "id": "epl-2026-27-regular-r01-gb-eng-arsenal-gb-eng-coventry-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-21T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-arsenal",
+   "away": "gb-eng-coventry-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260821",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r01-gb-eng-hull-city-gb-eng-manchester-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-22T11:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-hull-city",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r01-gb-eng-everton-gb-eng-crystal-palace",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-22T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-everton",
+   "away": "gb-eng-crystal-palace",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r01-gb-eng-ipswich-town-gb-eng-sunderland",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-22T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-ipswich-town",
+   "away": "gb-eng-sunderland",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r01-gb-eng-nottingham-forest-gb-eng-leeds-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-22T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-nottingham-forest",
+   "away": "gb-eng-leeds-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r01-gb-eng-brentford-gb-eng-tottenham-hotspur",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-22T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brentford",
+   "away": "gb-eng-tottenham-hotspur",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r01-gb-eng-brighton-gb-eng-aston-villa",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-23T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brighton",
+   "away": "gb-eng-aston-villa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260823",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r01-gb-eng-manchester-city-gb-eng-bournemouth",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-23T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "gb-eng-bournemouth",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260823",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r01-gb-eng-newcastle-united-gb-eng-liverpool",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-23T15:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-newcastle-united",
+   "away": "gb-eng-liverpool",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260823",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r01-gb-eng-fulham-gb-eng-chelsea",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-24T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-fulham",
+   "away": "gb-eng-chelsea",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r02-gb-eng-crystal-palace-gb-eng-manchester-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-28T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-crystal-palace",
+   "away": "gb-eng-manchester-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260828"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r02-gb-eng-liverpool-gb-eng-nottingham-forest",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-29T11:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "gb-eng-nottingham-forest",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r02-gb-eng-bournemouth-gb-eng-everton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-29T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-bournemouth",
+   "away": "gb-eng-everton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r02-gb-eng-coventry-city-gb-eng-hull-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-29T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-coventry-city",
+   "away": "gb-eng-hull-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r02-gb-eng-tottenham-hotspur-gb-eng-newcastle-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-29T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-tottenham-hotspur",
+   "away": "gb-eng-newcastle-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r02-gb-eng-chelsea-gb-eng-brighton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-30T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-chelsea",
+   "away": "gb-eng-brighton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-08-30&l=4328"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r02-gb-eng-leeds-united-gb-eng-brentford",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-30T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-leeds-united",
+   "away": "gb-eng-brentford",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-08-30&l=4328"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r02-gb-eng-sunderland-gb-eng-fulham",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-30T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-sunderland",
+   "away": "gb-eng-fulham",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/lookupevent.php?id=2494018"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r02-gb-eng-manchester-united-gb-eng-ipswich-town",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-30T15:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-united",
+   "away": "gb-eng-ipswich-town",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-08-30&l=4328",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r02-gb-eng-aston-villa-gb-eng-arsenal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-31T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260831"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r03-gb-eng-ipswich-town-gb-eng-liverpool",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-09-04T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-ipswich-town",
+   "away": "gb-eng-liverpool",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r03-gb-eng-newcastle-united-gb-eng-bournemouth",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-09-05T11:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-newcastle-united",
+   "away": "gb-eng-bournemouth",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r03-gb-eng-brentford-gb-eng-sunderland",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-09-05T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brentford",
+   "away": "gb-eng-sunderland",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r03-gb-eng-brighton-gb-eng-leeds-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-09-05T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brighton",
+   "away": "gb-eng-leeds-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r03-gb-eng-fulham-gb-eng-crystal-palace",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-09-05T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-fulham",
+   "away": "gb-eng-crystal-palace",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r03-gb-eng-manchester-city-gb-eng-coventry-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-09-05T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "gb-eng-coventry-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r03-gb-eng-nottingham-forest-gb-eng-tottenham-hotspur",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-09-05T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-nottingham-forest",
+   "away": "gb-eng-tottenham-hotspur",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r03-gb-eng-hull-city-gb-eng-aston-villa",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-09-05T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-hull-city",
+   "away": "gb-eng-aston-villa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r03-gb-eng-everton-gb-eng-manchester-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-09-06T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-everton",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r03-gb-eng-arsenal-gb-eng-chelsea",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-09-06T15:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-arsenal",
+   "away": "gb-eng-chelsea",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r04-gb-eng-aston-villa-gb-eng-nottingham-forest",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-12T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "gb-eng-nottingham-forest",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r04-gb-eng-bournemouth-gb-eng-brentford",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-12T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-bournemouth",
+   "away": "gb-eng-brentford",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r04-gb-eng-chelsea-gb-eng-hull-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-12T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-chelsea",
+   "away": "gb-eng-hull-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r04-gb-eng-crystal-palace-gb-eng-ipswich-town",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-12T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-crystal-palace",
+   "away": "gb-eng-ipswich-town",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r04-gb-eng-liverpool-gb-eng-fulham",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-12T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "gb-eng-fulham",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r04-gb-eng-tottenham-hotspur-gb-eng-everton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-12T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-tottenham-hotspur",
+   "away": "gb-eng-everton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r04-gb-eng-sunderland-gb-eng-arsenal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-12T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-sunderland",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r04-gb-eng-coventry-city-gb-eng-brighton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-13T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-coventry-city",
+   "away": "gb-eng-brighton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 5
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-09-13&l=4328",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r04-gb-eng-manchester-united-gb-eng-manchester-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-13T15:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-united",
+   "away": "gb-eng-manchester-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-09-13&l=4328",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r04-gb-eng-leeds-united-gb-eng-newcastle-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-14T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-leeds-united",
+   "away": "gb-eng-newcastle-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-09-14&l=4328"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r05-gb-eng-brentford-gb-eng-chelsea",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-18T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brentford",
+   "away": "gb-eng-chelsea",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r05-gb-eng-tottenham-hotspur-gb-eng-aston-villa",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-19T11:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-tottenham-hotspur",
+   "away": "gb-eng-aston-villa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r05-gb-eng-brighton-gb-eng-arsenal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-19T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brighton",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r05-gb-eng-everton-gb-eng-ipswich-town",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-19T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-everton",
+   "away": "gb-eng-ipswich-town",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r05-gb-eng-newcastle-united-gb-eng-hull-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-19T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-newcastle-united",
+   "away": "gb-eng-hull-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r05-gb-eng-nottingham-forest-gb-eng-coventry-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-19T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-nottingham-forest",
+   "away": "gb-eng-coventry-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r05-gb-eng-bournemouth-gb-eng-liverpool",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-20T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-bournemouth",
+   "away": "gb-eng-liverpool",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r05-gb-eng-leeds-united-gb-eng-crystal-palace",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-20T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-leeds-united",
+   "away": "gb-eng-crystal-palace",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r05-gb-eng-manchester-city-gb-eng-sunderland",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-20T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "gb-eng-sunderland",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r05-gb-eng-fulham-gb-eng-manchester-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-20T15:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-fulham",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r06-gb-eng-arsenal-gb-eng-leeds-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-10-10T11:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-arsenal",
+   "away": "gb-eng-leeds-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r06-gb-eng-aston-villa-gb-eng-brentford",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-10-10T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "gb-eng-brentford",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r06-gb-eng-chelsea-gb-eng-bournemouth",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-10-10T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-chelsea",
+   "away": "gb-eng-bournemouth",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r06-gb-eng-ipswich-town-gb-eng-fulham",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-10-10T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-ipswich-town",
+   "away": "gb-eng-fulham",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r06-gb-eng-sunderland-gb-eng-brighton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-10-10T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-sunderland",
+   "away": "gb-eng-brighton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r06-gb-eng-manchester-united-gb-eng-tottenham-hotspur",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-10-10T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-united",
+   "away": "gb-eng-tottenham-hotspur",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r06-gb-eng-crystal-palace-gb-eng-nottingham-forest",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-10-11T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-crystal-palace",
+   "away": "gb-eng-nottingham-forest",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r06-gb-eng-hull-city-gb-eng-everton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-10-11T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-hull-city",
+   "away": "gb-eng-everton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r06-gb-eng-liverpool-gb-eng-manchester-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-10-11T15:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "gb-eng-manchester-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r06-gb-eng-coventry-city-gb-eng-newcastle-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-10-12T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-coventry-city",
+   "away": "gb-eng-newcastle-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261012",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r07-gb-eng-everton-gb-eng-chelsea",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-17T11:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-everton",
+   "away": "gb-eng-chelsea",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-10-17&l=4328"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r07-gb-eng-brentford-gb-eng-liverpool",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-17T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brentford",
+   "away": "gb-eng-liverpool",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/lookupevent.php?id=2494067"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r07-gb-eng-fulham-gb-eng-hull-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-17T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-fulham",
+   "away": "gb-eng-hull-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-10-17&l=4328"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r07-gb-eng-manchester-city-gb-eng-ipswich-town",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-17T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "gb-eng-ipswich-town",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/lookupevent.php?id=2494065"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r07-gb-eng-newcastle-united-gb-eng-aston-villa",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-17T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-newcastle-united",
+   "away": "gb-eng-aston-villa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-10-17&l=4328"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r07-gb-eng-bournemouth-gb-eng-sunderland",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-18T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-bournemouth",
+   "away": "gb-eng-sunderland",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r07-gb-eng-brighton-gb-eng-crystal-palace",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-18T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brighton",
+   "away": "gb-eng-crystal-palace",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r07-gb-eng-leeds-united-gb-eng-manchester-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-18T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-leeds-united",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r07-gb-eng-nottingham-forest-gb-eng-arsenal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-18T15:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-nottingham-forest",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r07-gb-eng-tottenham-hotspur-gb-eng-coventry-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-19T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-tottenham-hotspur",
+   "away": "gb-eng-coventry-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventspastleague.php?id=4328"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "epl-2026-27-regular-r08-gb-eng-ipswich-town-gb-eng-nottingham-forest",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-23T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-ipswich-town",
+   "away": "gb-eng-nottingham-forest",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r08-gb-eng-aston-villa-gb-eng-manchester-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-24T11:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "gb-eng-manchester-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r08-gb-eng-arsenal-gb-eng-everton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-24T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-arsenal",
+   "away": "gb-eng-everton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r08-gb-eng-coventry-city-gb-eng-fulham",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-24T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-coventry-city",
+   "away": "gb-eng-fulham",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r08-gb-eng-chelsea-gb-eng-tottenham-hotspur",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-24T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-chelsea",
+   "away": "gb-eng-tottenham-hotspur",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r08-gb-eng-crystal-palace-gb-eng-newcastle-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-25T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-crystal-palace",
+   "away": "gb-eng-newcastle-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r08-gb-eng-hull-city-gb-eng-brentford",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-25T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-hull-city",
+   "away": "gb-eng-brentford",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r08-gb-eng-liverpool-gb-eng-brighton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-25T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "gb-eng-brighton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r08-gb-eng-manchester-united-gb-eng-bournemouth",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-25T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-united",
+   "away": "gb-eng-bournemouth",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r08-gb-eng-sunderland-gb-eng-leeds-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-25T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-sunderland",
+   "away": "gb-eng-leeds-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r09-gb-eng-chelsea-gb-eng-manchester-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-31T12:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-chelsea",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r09-gb-eng-bournemouth-gb-eng-leeds-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-31T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-bournemouth",
+   "away": "gb-eng-leeds-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r09-gb-eng-brentford-gb-eng-nottingham-forest",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-31T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brentford",
+   "away": "gb-eng-nottingham-forest",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r09-gb-eng-coventry-city-gb-eng-sunderland",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-31T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-coventry-city",
+   "away": "gb-eng-sunderland",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r09-gb-eng-hull-city-gb-eng-ipswich-town",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-31T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-hull-city",
+   "away": "gb-eng-ipswich-town",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r09-gb-eng-manchester-city-gb-eng-brighton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-31T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "gb-eng-brighton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r09-gb-eng-tottenham-hotspur-gb-eng-crystal-palace",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-31T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-tottenham-hotspur",
+   "away": "gb-eng-crystal-palace",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r09-gb-eng-aston-villa-gb-eng-fulham",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-31T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "gb-eng-fulham",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r09-gb-eng-liverpool-gb-eng-arsenal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-11-01T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r09-gb-eng-newcastle-united-gb-eng-everton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-11-02T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-newcastle-united",
+   "away": "gb-eng-everton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r10-gb-eng-everton-gb-eng-coventry-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-11-06T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-everton",
+   "away": "gb-eng-coventry-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r10-gb-eng-leeds-united-gb-eng-tottenham-hotspur",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-11-07T12:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-leeds-united",
+   "away": "gb-eng-tottenham-hotspur",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r10-gb-eng-arsenal-gb-eng-hull-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-11-07T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-arsenal",
+   "away": "gb-eng-hull-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r10-gb-eng-fulham-gb-eng-newcastle-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-11-07T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-fulham",
+   "away": "gb-eng-newcastle-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r10-gb-eng-nottingham-forest-gb-eng-manchester-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-11-07T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-nottingham-forest",
+   "away": "gb-eng-manchester-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r10-gb-eng-brighton-gb-eng-brentford",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-11-08T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brighton",
+   "away": "gb-eng-brentford",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r10-gb-eng-crystal-palace-gb-eng-liverpool",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-11-08T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-crystal-palace",
+   "away": "gb-eng-liverpool",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r10-gb-eng-ipswich-town-gb-eng-bournemouth",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-11-08T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-ipswich-town",
+   "away": "gb-eng-bournemouth",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r10-gb-eng-sunderland-gb-eng-chelsea",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-11-08T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-sunderland",
+   "away": "gb-eng-chelsea",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r10-gb-eng-manchester-united-gb-eng-aston-villa",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-11-08T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-united",
+   "away": "gb-eng-aston-villa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r11-gb-eng-manchester-city-gb-eng-fulham",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-21T12:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "gb-eng-fulham",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r11-gb-eng-aston-villa-gb-eng-sunderland",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-21T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "gb-eng-sunderland",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r11-gb-eng-bournemouth-gb-eng-nottingham-forest",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-21T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-bournemouth",
+   "away": "gb-eng-nottingham-forest",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r11-gb-eng-chelsea-gb-eng-leeds-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-21T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-chelsea",
+   "away": "gb-eng-leeds-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r11-gb-eng-coventry-city-gb-eng-crystal-palace",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-21T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-coventry-city",
+   "away": "gb-eng-crystal-palace",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r11-gb-eng-tottenham-hotspur-gb-eng-ipswich-town",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-21T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-tottenham-hotspur",
+   "away": "gb-eng-ipswich-town",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r11-gb-eng-newcastle-united-gb-eng-arsenal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-21T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-newcastle-united",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r11-gb-eng-hull-city-gb-eng-brighton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-22T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-hull-city",
+   "away": "gb-eng-brighton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r11-gb-eng-liverpool-gb-eng-manchester-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-22T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r11-gb-eng-brentford-gb-eng-everton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-23T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brentford",
+   "away": "gb-eng-everton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r12-gb-eng-nottingham-forest-gb-eng-chelsea",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-nottingham-forest",
+   "away": "gb-eng-chelsea",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r12-gb-eng-leeds-united-gb-eng-coventry-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-leeds-united",
+   "away": "gb-eng-coventry-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r12-gb-eng-manchester-united-gb-eng-brentford",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-united",
+   "away": "gb-eng-brentford",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r12-gb-eng-ipswich-town-gb-eng-aston-villa",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-28T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-ipswich-town",
+   "away": "gb-eng-aston-villa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r12-gb-eng-everton-gb-eng-liverpool",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-29T12:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-everton",
+   "away": "gb-eng-liverpool",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261129"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r12-gb-eng-brighton-gb-eng-newcastle-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-29T14:05:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brighton",
+   "away": "gb-eng-newcastle-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261129"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r12-gb-eng-crystal-palace-gb-eng-hull-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-29T14:05:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-crystal-palace",
+   "away": "gb-eng-hull-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261129"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r12-gb-eng-fulham-gb-eng-bournemouth",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-29T14:05:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-fulham",
+   "away": "gb-eng-bournemouth",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261129"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r12-gb-eng-sunderland-gb-eng-tottenham-hotspur",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-29T14:05:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-sunderland",
+   "away": "gb-eng-tottenham-hotspur",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261129"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r12-gb-eng-arsenal-gb-eng-manchester-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-29T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-arsenal",
+   "away": "gb-eng-manchester-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261129"
+   ]
+  }
+ ]
+}

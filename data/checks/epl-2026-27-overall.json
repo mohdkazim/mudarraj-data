@@ -1,0 +1,111 @@
+{
+ "competition": "epl",
+ "season": "2026-27",
+ "table": "overall",
+ "asOf": "2026-10-23T08:55:00Z",
+ "rows": [
+  {
+   "team": "gb-eng-manchester-city",
+   "played": 7,
+   "points": 21
+  },
+  {
+   "team": "gb-eng-arsenal",
+   "played": 7,
+   "points": 18
+  },
+  {
+   "team": "gb-eng-brighton",
+   "played": 7,
+   "points": 16
+  },
+  {
+   "team": "gb-eng-chelsea",
+   "played": 7,
+   "points": 13
+  },
+  {
+   "team": "gb-eng-liverpool",
+   "played": 7,
+   "points": 12
+  },
+  {
+   "team": "gb-eng-brentford",
+   "played": 7,
+   "points": 10
+  },
+  {
+   "team": "gb-eng-leeds-united",
+   "played": 7,
+   "points": 10
+  },
+  {
+   "team": "gb-eng-everton",
+   "played": 7,
+   "points": 10
+  },
+  {
+   "team": "gb-eng-hull-city",
+   "played": 7,
+   "points": 9
+  },
+  {
+   "team": "gb-eng-ipswich-town",
+   "played": 7,
+   "points": 9
+  },
+  {
+   "team": "gb-eng-newcastle-united",
+   "played": 7,
+   "points": 8
+  },
+  {
+   "team": "gb-eng-aston-villa",
+   "played": 7,
+   "points": 8
+  },
+  {
+   "team": "gb-eng-manchester-united",
+   "played": 7,
+   "points": 7
+  },
+  {
+   "team": "gb-eng-crystal-palace",
+   "played": 7,
+   "points": 7
+  },
+  {
+   "team": "gb-eng-bournemouth",
+   "played": 7,
+   "points": 6
+  },
+  {
+   "team": "gb-eng-tottenham-hotspur",
+   "played": 7,
+   "points": 6
+  },
+  {
+   "team": "gb-eng-coventry-city",
+   "played": 7,
+   "points": 6
+  },
+  {
+   "team": "gb-eng-fulham",
+   "played": 7,
+   "points": 5
+  },
+  {
+   "team": "gb-eng-nottingham-forest",
+   "played": 7,
+   "points": 5
+  },
+  {
+   "team": "gb-eng-sunderland",
+   "played": 7,
+   "points": 4
+  }
+ ],
+ "sources": [
+  "https://www.skysports.com/premier-league-table"
+ ]
+}

@@ -1,0 +1,10 @@
+{
+  "run": "2026-10-23T10:20:00Z",
+  "changes": [
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r06-ae-shabab-al-ahli-ae-al-ain", "status": "FT", "score": [2, 0],
+      "sources": ["https://www.alkhaleej.ae/2026-10-20/رياضة/رياضة-الإمارات/دوري-أدنوك-يشتعل-ونقطتان-بين-الأول-والسادس"] },
+    { "op": "result", "competition": "uae-pro-league", "season": "2026-27", "home": "ae-al-wasl", "away": "ae-shabab-al-ahli", "date": "2026-08-28", "status": "FT", "score": [0, 1],
+      "sources": ["https://www.alkhaleej.ae/2026-10-20/رياضة/رياضة-الإمارات/دوري-أدنوك-يشتعل-ونقطتان-بين-الأول-والسادس"] }
+  ],
+  "unconfirmed": []
+}

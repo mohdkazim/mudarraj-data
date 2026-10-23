@@ -1,0 +1,2374 @@
+{
+ "competition": "acl2",
+ "season": "2026-27",
+ "matches": [
+  {
+   "id": "acl2-2026-27-groups-gb-r01-ir-gol-gohar-sirjan-ae-al-jazira",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 1
+   },
+   "kickoff": "2026-09-15T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "ir-gol-gohar-sirjan",
+   "away": "ae-al-jazira",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912819/competitions/401912819/competitors/132926/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912819/competitions/401912819/competitors/8364/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912819/competitions/401912819/status?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gb-r01-tm-arkadag-bh-al-muharraq",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 1
+   },
+   "kickoff": "2026-09-15T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "tm-arkadag",
+   "away": "bh-al-muharraq",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912818/competitions/401912818/competitors/131374/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912818/competitions/401912818/competitors/21006/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-ge-r01-kr-fc-seoul-id-persib-bandung",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 1
+   },
+   "kickoff": "2026-09-16T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-fc-seoul",
+   "away": "id-persib-bandung",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912817/competitions/401912817/competitors/6972/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912817/competitions/401912817/competitors/8293/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-ge-r01-vn-the-cong-viettel-au-melbourne-victory",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 1
+   },
+   "kickoff": "2026-09-16T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "vn-the-cong-viettel",
+   "away": "au-melbourne-victory",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912816/competitions/401912816/competitors/20863/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912816/competitions/401912816/competitors/5328/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912816/competitions/401912816/status?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-ga-r01-ae-al-wahda-kw-kuwait-sc",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 1
+   },
+   "kickoff": "2026-09-16T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-wahda",
+   "away": "kw-kuwait-sc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912815/competitions/401912815/competitors/7134/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912815/competitions/401912815/competitors/21008/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-ga-r01-bh-al-khaldiya-uz-nasaf",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 1
+   },
+   "kickoff": "2026-09-16T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "bh-al-khaldiya",
+   "away": "uz-nasaf",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912814/competitions/401912814/competitors/22354/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912814/competitions/401912814/competitors/8217/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912814/competitions/401912814/status?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gc-r01-om-al-nahda-sa-al-taawoun",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 1
+   },
+   "kickoff": "2026-09-16T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "om-al-nahda",
+   "away": "sa-al-taawoun",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912813/competitions/401912813/competitors/21994/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912813/competitions/401912813/competitors/18459/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912813/competitions/401912813/status?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gd-r01-jo-al-hussein-in-east-bengal",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 1
+   },
+   "kickoff": "2026-09-16T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "jo-al-hussein",
+   "away": "in-east-bengal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912812/competitions/401912812/competitors/22355/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912812/competitions/401912812/competitors/8897/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912812/competitions/401912812/status?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gc-r01-qa-al-rayyan-jo-al-faisaly",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 1
+   },
+   "kickoff": "2026-09-16T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-rayyan",
+   "away": "jo-al-faisaly",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912811/competitions/401912811/competitors/7527/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912811/competitions/401912811/competitors/21024/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gd-r01-iq-al-shorta-om-al-seeb",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 1
+   },
+   "kickoff": "2026-09-16T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "iq-al-shorta",
+   "away": "om-al-seeb",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912810/competitions/401912810/competitors/9655/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912810/competitions/401912810/competitors/21438/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gf-r01-au-adelaide-united-hk-tai-po",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 1
+   },
+   "kickoff": "2026-09-17T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "au-adelaide-united",
+   "away": "hk-tai-po",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912808/competitions/401912808/competitors/5321/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912808/competitions/401912808/competitors/131377/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gf-r01-sg-lion-city-sailors-th-bg-pathum-united",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 1
+   },
+   "kickoff": "2026-09-17T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "sg-lion-city-sailors",
+   "away": "th-bg-pathum-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912809/competitions/401912809/competitors/8040/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912809/competitions/401912809/competitors/8519/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912809/competitions/401912809/status?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gg-r01-jp-machida-zelvia-kh-pkr-svay-rieng",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "G",
+    "round": 1
+   },
+   "kickoff": "2026-09-17T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-machida-zelvia",
+   "away": "kh-pkr-svay-rieng",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912807/competitions/401912807/competitors/22167/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912807/competitions/401912807/competitors/133293/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gg-r01-cn-shanghai-shenhua-sg-tampines-rovers",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "G",
+    "round": 1
+   },
+   "kickoff": "2026-09-17T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "cn-shanghai-shenhua",
+   "away": "sg-tampines-rovers",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912806/competitions/401912806/competitors/977/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912806/competitions/401912806/competitors/7998/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gh-r01-hk-kitchee-kr-gangwon-fc",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "H",
+    "round": 1
+   },
+   "kickoff": "2026-09-17T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "hk-kitchee",
+   "away": "kr-gangwon-fc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912805/competitions/401912805/competitors/17686/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912805/competitions/401912805/competitors/131373/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912805/competitions/401912805/status?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gh-r01-kh-phnom-penh-crown-my-kuching-city",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "H",
+    "round": 1
+   },
+   "kickoff": "2026-09-17T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "kh-phnom-penh-crown",
+   "away": "my-kuching-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912804/competitions/401912804/competitors/21432/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912804/competitions/401912804/competitors/21844/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gd-r02-in-east-bengal-iq-al-shorta",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 2
+   },
+   "kickoff": "2026-10-13T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "in-east-bengal",
+   "away": "iq-al-shorta",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912803/competitions/401912803/competitors/8897/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912803/competitions/401912803/competitors/9655/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gd-r02-om-al-seeb-jo-al-hussein",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 2
+   },
+   "kickoff": "2026-10-13T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "om-al-seeb",
+   "away": "jo-al-hussein",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912802/competitions/401912802/competitors/21438/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912802/competitions/401912802/competitors/22355/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-ge-r02-au-melbourne-victory-kr-fc-seoul",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 2
+   },
+   "kickoff": "2026-10-14T07:45:00Z",
+   "timeConfirmed": true,
+   "home": "au-melbourne-victory",
+   "away": "kr-fc-seoul",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261014",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-ge-r02-id-persib-bandung-vn-the-cong-viettel",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 2
+   },
+   "kickoff": "2026-10-14T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "id-persib-bandung",
+   "away": "vn-the-cong-viettel",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261014",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-ga-r02-uz-nasaf-ae-al-wahda",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 2
+   },
+   "kickoff": "2026-10-14T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "uz-nasaf",
+   "away": "ae-al-wahda",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912799/competitions/401912799/competitors/8217/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912799/competitions/401912799/competitors/7134/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912799/competitions/401912799/status?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-ga-r02-kw-kuwait-sc-bh-al-khaldiya",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 2
+   },
+   "kickoff": "2026-10-14T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "kw-kuwait-sc",
+   "away": "bh-al-khaldiya",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912795/competitions/401912795/competitors/21008/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912795/competitions/401912795/competitors/22354/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gb-r02-ae-al-jazira-tm-arkadag",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 2
+   },
+   "kickoff": "2026-10-14T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-jazira",
+   "away": "tm-arkadag",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912798/competitions/401912798/competitors/8364/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912798/competitions/401912798/competitors/131374/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gb-r02-bh-al-muharraq-ir-gol-gohar-sirjan",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 2
+   },
+   "kickoff": "2026-10-14T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "bh-al-muharraq",
+   "away": "ir-gol-gohar-sirjan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912797/competitions/401912797/competitors/21006/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912797/competitions/401912797/competitors/132926/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gc-r02-sa-al-taawoun-qa-al-rayyan",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 2
+   },
+   "kickoff": "2026-10-14T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-taawoun",
+   "away": "qa-al-rayyan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912796/competitions/401912796/competitors/18459/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912796/competitions/401912796/competitors/7527/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gc-r02-jo-al-faisaly-om-al-nahda",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 2
+   },
+   "kickoff": "2026-10-14T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "jo-al-faisaly",
+   "away": "om-al-nahda",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912794/competitions/401912794/competitors/21024/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912794/competitions/401912794/competitors/21994/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gf-r02-hk-tai-po-sg-lion-city-sailors",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 2
+   },
+   "kickoff": "2026-10-15T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "hk-tai-po",
+   "away": "sg-lion-city-sailors",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261015",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gh-r02-kr-gangwon-fc-kh-phnom-penh-crown",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "H",
+    "round": 2
+   },
+   "kickoff": "2026-10-15T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-gangwon-fc",
+   "away": "kh-phnom-penh-crown",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261015",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gf-r02-th-bg-pathum-united-au-adelaide-united",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 2
+   },
+   "kickoff": "2026-10-15T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "th-bg-pathum-united",
+   "away": "au-adelaide-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261015",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gg-r02-kh-pkr-svay-rieng-cn-shanghai-shenhua",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "G",
+    "round": 2
+   },
+   "kickoff": "2026-10-15T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "kh-pkr-svay-rieng",
+   "away": "cn-shanghai-shenhua",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261015",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gg-r02-sg-tampines-rovers-jp-machida-zelvia",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "G",
+    "round": 2
+   },
+   "kickoff": "2026-10-15T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "sg-tampines-rovers",
+   "away": "jp-machida-zelvia",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261015",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gh-r02-my-kuching-city-hk-kitchee",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "H",
+    "round": 2
+   },
+   "kickoff": "2026-10-15T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "my-kuching-city",
+   "away": "hk-kitchee",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261015",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acl2-2026-27-groups-gd-r03-om-al-seeb-in-east-bengal",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 3
+   },
+   "kickoff": "2026-10-27T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "om-al-seeb",
+   "away": "in-east-bengal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261027",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gd-r03-iq-al-shorta-jo-al-hussein",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 3
+   },
+   "kickoff": "2026-10-27T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "iq-al-shorta",
+   "away": "jo-al-hussein",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261027",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ge-r03-id-persib-bandung-au-melbourne-victory",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 3
+   },
+   "kickoff": "2026-10-28T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "id-persib-bandung",
+   "away": "au-melbourne-victory",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ge-r03-vn-the-cong-viettel-kr-fc-seoul",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 3
+   },
+   "kickoff": "2026-10-28T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "vn-the-cong-viettel",
+   "away": "kr-fc-seoul",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ga-r03-uz-nasaf-kw-kuwait-sc",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 3
+   },
+   "kickoff": "2026-10-28T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "uz-nasaf",
+   "away": "kw-kuwait-sc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gb-r03-ir-gol-gohar-sirjan-tm-arkadag",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 3
+   },
+   "kickoff": "2026-10-28T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "ir-gol-gohar-sirjan",
+   "away": "tm-arkadag",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gb-r03-ae-al-jazira-bh-al-muharraq",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 3
+   },
+   "kickoff": "2026-10-28T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-jazira",
+   "away": "bh-al-muharraq",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gc-r03-om-al-nahda-qa-al-rayyan",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 3
+   },
+   "kickoff": "2026-10-28T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "om-al-nahda",
+   "away": "qa-al-rayyan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ga-r03-bh-al-khaldiya-ae-al-wahda",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 3
+   },
+   "kickoff": "2026-10-28T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "bh-al-khaldiya",
+   "away": "ae-al-wahda",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gc-r03-jo-al-faisaly-sa-al-taawoun",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 3
+   },
+   "kickoff": "2026-10-28T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "jo-al-faisaly",
+   "away": "sa-al-taawoun",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gf-r03-au-adelaide-united-sg-lion-city-sailors",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 3
+   },
+   "kickoff": "2026-10-29T07:45:00Z",
+   "timeConfirmed": true,
+   "home": "au-adelaide-united",
+   "away": "sg-lion-city-sailors",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gg-r03-sg-tampines-rovers-kh-pkr-svay-rieng",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "G",
+    "round": 3
+   },
+   "kickoff": "2026-10-29T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "sg-tampines-rovers",
+   "away": "kh-pkr-svay-rieng",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gh-r03-kr-gangwon-fc-my-kuching-city",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "H",
+    "round": 3
+   },
+   "kickoff": "2026-10-29T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-gangwon-fc",
+   "away": "my-kuching-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gf-r03-hk-tai-po-th-bg-pathum-united",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 3
+   },
+   "kickoff": "2026-10-29T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "hk-tai-po",
+   "away": "th-bg-pathum-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gg-r03-cn-shanghai-shenhua-jp-machida-zelvia",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "G",
+    "round": 3
+   },
+   "kickoff": "2026-10-29T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "cn-shanghai-shenhua",
+   "away": "jp-machida-zelvia",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gh-r03-kh-phnom-penh-crown-hk-kitchee",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "H",
+    "round": 3
+   },
+   "kickoff": "2026-10-29T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "kh-phnom-penh-crown",
+   "away": "hk-kitchee",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gd-r04-in-east-bengal-om-al-seeb",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 4
+   },
+   "kickoff": "2026-11-03T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "in-east-bengal",
+   "away": "om-al-seeb",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gd-r04-jo-al-hussein-iq-al-shorta",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 4
+   },
+   "kickoff": "2026-11-03T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "jo-al-hussein",
+   "away": "iq-al-shorta",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ge-r04-au-melbourne-victory-id-persib-bandung",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 4
+   },
+   "kickoff": "2026-11-04T07:45:00Z",
+   "timeConfirmed": true,
+   "home": "au-melbourne-victory",
+   "away": "id-persib-bandung",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ge-r04-kr-fc-seoul-vn-the-cong-viettel",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 4
+   },
+   "kickoff": "2026-11-04T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-fc-seoul",
+   "away": "vn-the-cong-viettel",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gb-r04-tm-arkadag-ir-gol-gohar-sirjan",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 4
+   },
+   "kickoff": "2026-11-04T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "tm-arkadag",
+   "away": "ir-gol-gohar-sirjan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ga-r04-ae-al-wahda-bh-al-khaldiya",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 4
+   },
+   "kickoff": "2026-11-04T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-wahda",
+   "away": "bh-al-khaldiya",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ga-r04-kw-kuwait-sc-uz-nasaf",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 4
+   },
+   "kickoff": "2026-11-04T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "kw-kuwait-sc",
+   "away": "uz-nasaf",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gc-r04-qa-al-rayyan-om-al-nahda",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 4
+   },
+   "kickoff": "2026-11-04T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-rayyan",
+   "away": "om-al-nahda",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gb-r04-bh-al-muharraq-ae-al-jazira",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 4
+   },
+   "kickoff": "2026-11-04T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "bh-al-muharraq",
+   "away": "ae-al-jazira",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gc-r04-sa-al-taawoun-jo-al-faisaly",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 4
+   },
+   "kickoff": "2026-11-04T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-taawoun",
+   "away": "jo-al-faisaly",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gf-r04-sg-lion-city-sailors-au-adelaide-united",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 4
+   },
+   "kickoff": "2026-11-05T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "sg-lion-city-sailors",
+   "away": "au-adelaide-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gg-r04-jp-machida-zelvia-cn-shanghai-shenhua",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "G",
+    "round": 4
+   },
+   "kickoff": "2026-11-05T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-machida-zelvia",
+   "away": "cn-shanghai-shenhua",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gh-r04-hk-kitchee-kh-phnom-penh-crown",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "H",
+    "round": 4
+   },
+   "kickoff": "2026-11-05T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "hk-kitchee",
+   "away": "kh-phnom-penh-crown",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gf-r04-th-bg-pathum-united-hk-tai-po",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 4
+   },
+   "kickoff": "2026-11-05T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "th-bg-pathum-united",
+   "away": "hk-tai-po",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gg-r04-kh-pkr-svay-rieng-sg-tampines-rovers",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "G",
+    "round": 4
+   },
+   "kickoff": "2026-11-05T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "kh-pkr-svay-rieng",
+   "away": "sg-tampines-rovers",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gh-r04-my-kuching-city-kr-gangwon-fc",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "H",
+    "round": 4
+   },
+   "kickoff": "2026-11-05T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "my-kuching-city",
+   "away": "kr-gangwon-fc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gd-r05-in-east-bengal-jo-al-hussein",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 5
+   },
+   "kickoff": "2026-11-24T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "in-east-bengal",
+   "away": "jo-al-hussein",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gd-r05-om-al-seeb-iq-al-shorta",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 5
+   },
+   "kickoff": "2026-11-24T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "om-al-seeb",
+   "away": "iq-al-shorta",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ge-r05-au-melbourne-victory-vn-the-cong-viettel",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 5
+   },
+   "kickoff": "2026-11-25T07:45:00Z",
+   "timeConfirmed": true,
+   "home": "au-melbourne-victory",
+   "away": "vn-the-cong-viettel",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ge-r05-id-persib-bandung-kr-fc-seoul",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 5
+   },
+   "kickoff": "2026-11-25T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "id-persib-bandung",
+   "away": "kr-fc-seoul",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ga-r05-uz-nasaf-bh-al-khaldiya",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 5
+   },
+   "kickoff": "2026-11-25T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "uz-nasaf",
+   "away": "bh-al-khaldiya",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ga-r05-kw-kuwait-sc-ae-al-wahda",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 5
+   },
+   "kickoff": "2026-11-25T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "kw-kuwait-sc",
+   "away": "ae-al-wahda",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gb-r05-ae-al-jazira-ir-gol-gohar-sirjan",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 5
+   },
+   "kickoff": "2026-11-25T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-jazira",
+   "away": "ir-gol-gohar-sirjan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gb-r05-bh-al-muharraq-tm-arkadag",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 5
+   },
+   "kickoff": "2026-11-25T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "bh-al-muharraq",
+   "away": "tm-arkadag",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gc-r05-jo-al-faisaly-qa-al-rayyan",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 5
+   },
+   "kickoff": "2026-11-25T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "jo-al-faisaly",
+   "away": "qa-al-rayyan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gc-r05-sa-al-taawoun-om-al-nahda",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 5
+   },
+   "kickoff": "2026-11-25T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-taawoun",
+   "away": "om-al-nahda",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gg-r05-sg-tampines-rovers-cn-shanghai-shenhua",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "G",
+    "round": 5
+   },
+   "kickoff": "2026-11-26T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "sg-tampines-rovers",
+   "away": "cn-shanghai-shenhua",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gh-r05-kr-gangwon-fc-hk-kitchee",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "H",
+    "round": 5
+   },
+   "kickoff": "2026-11-26T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-gangwon-fc",
+   "away": "hk-kitchee",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gh-r05-my-kuching-city-kh-phnom-penh-crown",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "H",
+    "round": 5
+   },
+   "kickoff": "2026-11-26T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "my-kuching-city",
+   "away": "kh-phnom-penh-crown",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gf-r05-hk-tai-po-au-adelaide-united",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 5
+   },
+   "kickoff": "2026-11-26T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "hk-tai-po",
+   "away": "au-adelaide-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gf-r05-th-bg-pathum-united-sg-lion-city-sailors",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 5
+   },
+   "kickoff": "2026-11-26T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "th-bg-pathum-united",
+   "away": "sg-lion-city-sailors",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gg-r05-kh-pkr-svay-rieng-jp-machida-zelvia",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "G",
+    "round": 5
+   },
+   "kickoff": "2026-11-26T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "kh-pkr-svay-rieng",
+   "away": "jp-machida-zelvia",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ge-r06-kr-fc-seoul-au-melbourne-victory",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 6
+   },
+   "kickoff": "2026-12-02T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-fc-seoul",
+   "away": "au-melbourne-victory",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261202",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ge-r06-vn-the-cong-viettel-id-persib-bandung",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 6
+   },
+   "kickoff": "2026-12-02T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "vn-the-cong-viettel",
+   "away": "id-persib-bandung",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261202",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gf-r06-au-adelaide-united-th-bg-pathum-united",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 6
+   },
+   "kickoff": "2026-12-03T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "au-adelaide-united",
+   "away": "th-bg-pathum-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261203",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gf-r06-sg-lion-city-sailors-hk-tai-po",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 6
+   },
+   "kickoff": "2026-12-03T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "sg-lion-city-sailors",
+   "away": "hk-tai-po",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261203",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gg-r06-cn-shanghai-shenhua-kh-pkr-svay-rieng",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "G",
+    "round": 6
+   },
+   "kickoff": "2026-12-03T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "cn-shanghai-shenhua",
+   "away": "kh-pkr-svay-rieng",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261203",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gg-r06-jp-machida-zelvia-sg-tampines-rovers",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "G",
+    "round": 6
+   },
+   "kickoff": "2026-12-03T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-machida-zelvia",
+   "away": "sg-tampines-rovers",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261203",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gh-r06-hk-kitchee-my-kuching-city",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "H",
+    "round": 6
+   },
+   "kickoff": "2026-12-03T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "hk-kitchee",
+   "away": "my-kuching-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261203",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gh-r06-kh-phnom-penh-crown-kr-gangwon-fc",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "H",
+    "round": 6
+   },
+   "kickoff": "2026-12-03T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "kh-phnom-penh-crown",
+   "away": "kr-gangwon-fc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261203",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gd-r06-iq-al-shorta-in-east-bengal",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 6
+   },
+   "kickoff": "2026-12-08T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "iq-al-shorta",
+   "away": "in-east-bengal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gd-r06-jo-al-hussein-om-al-seeb",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 6
+   },
+   "kickoff": "2026-12-08T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "jo-al-hussein",
+   "away": "om-al-seeb",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gb-r06-ir-gol-gohar-sirjan-bh-al-muharraq",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 6
+   },
+   "kickoff": "2026-12-09T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "ir-gol-gohar-sirjan",
+   "away": "bh-al-muharraq",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gb-r06-tm-arkadag-ae-al-jazira",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 6
+   },
+   "kickoff": "2026-12-09T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "tm-arkadag",
+   "away": "ae-al-jazira",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ga-r06-ae-al-wahda-uz-nasaf",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 6
+   },
+   "kickoff": "2026-12-09T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-wahda",
+   "away": "uz-nasaf",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-ga-r06-bh-al-khaldiya-kw-kuwait-sc",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 6
+   },
+   "kickoff": "2026-12-09T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "bh-al-khaldiya",
+   "away": "kw-kuwait-sc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gc-r06-om-al-nahda-jo-al-faisaly",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 6
+   },
+   "kickoff": "2026-12-09T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "om-al-nahda",
+   "away": "jo-al-faisaly",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acl2-2026-27-groups-gc-r06-qa-al-rayyan-sa-al-taawoun",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 6
+   },
+   "kickoff": "2026-12-09T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-rayyan",
+   "away": "sa-al-taawoun",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ]
+  }
+ ]
+}

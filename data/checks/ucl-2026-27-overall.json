@@ -1,0 +1,191 @@
+{
+ "competition": "ucl",
+ "season": "2026-27",
+ "table": "overall",
+ "asOf": "2026-10-21T19:49:00Z",
+ "rows": [
+  {
+   "team": "fr-paris-saint-germain",
+   "played": 3,
+   "points": 9
+  },
+  {
+   "team": "gb-eng-aston-villa",
+   "played": 3,
+   "points": 9
+  },
+  {
+   "team": "gb-eng-liverpool",
+   "played": 3,
+   "points": 9
+  },
+  {
+   "team": "es-real-madrid",
+   "played": 3,
+   "points": 9
+  },
+  {
+   "team": "es-real-betis",
+   "played": 3,
+   "points": 9
+  },
+  {
+   "team": "de-vfb-stuttgart",
+   "played": 3,
+   "points": 7
+  },
+  {
+   "team": "gb-eng-arsenal",
+   "played": 3,
+   "points": 7
+  },
+  {
+   "team": "es-barcelona",
+   "played": 3,
+   "points": 6
+  },
+  {
+   "team": "it-como",
+   "played": 3,
+   "points": 6
+  },
+  {
+   "team": "gb-eng-manchester-city",
+   "played": 3,
+   "points": 6
+  },
+  {
+   "team": "be-club-brugge",
+   "played": 3,
+   "points": 6
+  },
+  {
+   "team": "pt-sporting-cp",
+   "played": 3,
+   "points": 6
+  },
+  {
+   "team": "de-borussia-dortmund",
+   "played": 3,
+   "points": 6
+  },
+  {
+   "team": "de-bayern-munich",
+   "played": 3,
+   "points": 5
+  },
+  {
+   "team": "it-roma",
+   "played": 3,
+   "points": 4
+  },
+  {
+   "team": "es-atletico-madrid",
+   "played": 3,
+   "points": 4
+  },
+  {
+   "team": "ua-shakhtar-donetsk",
+   "played": 3,
+   "points": 4
+  },
+  {
+   "team": "nl-psv-eindhoven",
+   "played": 3,
+   "points": 4
+  },
+  {
+   "team": "es-villarreal",
+   "played": 3,
+   "points": 3
+  },
+  {
+   "team": "it-inter-milan",
+   "played": 3,
+   "points": 3
+  },
+  {
+   "team": "gb-eng-manchester-united",
+   "played": 3,
+   "points": 3
+  },
+  {
+   "team": "it-napoli",
+   "played": 3,
+   "points": 3
+  },
+  {
+   "team": "tr-galatasaray",
+   "played": 3,
+   "points": 3
+  },
+  {
+   "team": "at-lask",
+   "played": 3,
+   "points": 3
+  },
+  {
+   "team": "az-sabah",
+   "played": 3,
+   "points": 3
+  },
+  {
+   "team": "nl-feyenoord",
+   "played": 3,
+   "points": 3
+  },
+  {
+   "team": "fr-lens",
+   "played": 3,
+   "points": 3
+  },
+  {
+   "team": "no-bod-glimt",
+   "played": 3,
+   "points": 3
+  },
+  {
+   "team": "gr-aek-athens",
+   "played": 3,
+   "points": 3
+  },
+  {
+   "team": "de-rb-leipzig",
+   "played": 3,
+   "points": 3
+  },
+  {
+   "team": "tr-fenerbahce",
+   "played": 3,
+   "points": 2
+  },
+  {
+   "team": "cz-slavia-prague",
+   "played": 3,
+   "points": 1
+  },
+  {
+   "team": "no-viking",
+   "played": 3,
+   "points": 1
+  },
+  {
+   "team": "pt-porto",
+   "played": 3,
+   "points": 0
+  },
+  {
+   "team": "fr-lille",
+   "played": 3,
+   "points": 0
+  },
+  {
+   "team": "sk-slovan-bratislava",
+   "played": 3,
+   "points": 0
+  }
+ ],
+ "sources": [
+  "https://www.skysports.com/champions-league-table"
+ ]
+}

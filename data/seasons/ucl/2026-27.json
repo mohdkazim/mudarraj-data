@@ -1,0 +1,3550 @@
+{
+ "competition": "ucl",
+ "season": "2026-27",
+ "matches": [
+  {
+   "id": "ucl-2026-27-league-phase-r01-be-club-brugge-gb-eng-aston-villa",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-08T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "be-club-brugge",
+   "away": "gb-eng-aston-villa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-gr-aek-athens-at-lask",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-08T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "gr-aek-athens",
+   "away": "at-lask",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-de-borussia-dortmund-es-villarreal",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-08T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-borussia-dortmund",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-es-real-madrid-it-inter-milan",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-08T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-madrid",
+   "away": "it-inter-milan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-fr-lille-es-real-betis",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-08T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "fr-lille",
+   "away": "es-real-betis",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-pt-porto-gb-eng-manchester-city",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-08T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "pt-porto",
+   "away": "gb-eng-manchester-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-de-vfb-stuttgart-no-viking",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-09T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-vfb-stuttgart",
+   "away": "no-viking",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-es-barcelona-nl-feyenoord",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-09T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "es-barcelona",
+   "away": "nl-feyenoord",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-fr-paris-saint-germain-sk-slovan-bratislava",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-09T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "fr-paris-saint-germain",
+   "away": "sk-slovan-bratislava",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 6,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-gb-eng-liverpool-es-atletico-madrid",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-09T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-it-napoli-gb-eng-arsenal",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-09T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-napoli",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-pt-sporting-cp-tr-galatasaray",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-09T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "pt-sporting-cp",
+   "away": "tr-galatasaray",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-nl-psv-eindhoven-ua-shakhtar-donetsk",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-10T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "nl-psv-eindhoven",
+   "away": "ua-shakhtar-donetsk",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-tr-fenerbahce-it-roma",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-10T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "tr-fenerbahce",
+   "away": "it-roma",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-cz-slavia-prague-fr-lens",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-10T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "cz-slavia-prague",
+   "away": "fr-lens",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-de-bayern-munich-no-bod-glimt",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-10T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-bayern-munich",
+   "away": "no-bod-glimt",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-gb-eng-manchester-united-az-sabah",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-10T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-united",
+   "away": "az-sabah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r01-it-como-de-rb-leipzig",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-10T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-como",
+   "away": "de-rb-leipzig",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-az-sabah-cz-slavia-prague",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-13T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "az-sabah",
+   "away": "cz-slavia-prague",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-fr-lens-pt-sporting-cp",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-13T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "fr-lens",
+   "away": "pt-sporting-cp",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-de-rb-leipzig-nl-psv-eindhoven",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-13T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-rb-leipzig",
+   "away": "nl-psv-eindhoven",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-es-atletico-madrid-gb-eng-manchester-united",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-13T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-atletico-madrid",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-es-villarreal-it-napoli",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-13T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-villarreal",
+   "away": "it-napoli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-gb-eng-arsenal-fr-lille",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-13T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-arsenal",
+   "away": "fr-lille",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-it-inter-milan-be-club-brugge",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-13T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-inter-milan",
+   "away": "be-club-brugge",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-no-viking-de-bayern-munich",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-13T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "no-viking",
+   "away": "de-bayern-munich",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-tr-galatasaray-es-barcelona",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-13T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "tr-galatasaray",
+   "away": "es-barcelona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-at-lask-gb-eng-liverpool",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-14T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "at-lask",
+   "away": "gb-eng-liverpool",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 6
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-nl-feyenoord-it-como",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-14T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "nl-feyenoord",
+   "away": "it-como",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-es-real-betis-pt-porto",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-14T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-betis",
+   "away": "pt-porto",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-gb-eng-aston-villa-tr-fenerbahce",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-14T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "tr-fenerbahce",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 6,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-gb-eng-manchester-city-fr-paris-saint-germain",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-14T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "fr-paris-saint-germain",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-it-roma-es-real-madrid",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-14T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-roma",
+   "away": "es-real-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-no-bod-glimt-de-borussia-dortmund",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-14T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "no-bod-glimt",
+   "away": "de-borussia-dortmund",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-sk-slovan-bratislava-de-vfb-stuttgart",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-14T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "sk-slovan-bratislava",
+   "away": "de-vfb-stuttgart",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r02-ua-shakhtar-donetsk-gr-aek-athens",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-14T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "ua-shakhtar-donetsk",
+   "away": "gr-aek-athens",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-az-sabah-de-borussia-dortmund",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-20T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "az-sabah",
+   "away": "de-borussia-dortmund",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-tr-fenerbahce-cz-slavia-prague",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-20T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "tr-fenerbahce",
+   "away": "cz-slavia-prague",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-de-vfb-stuttgart-es-atletico-madrid",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-20T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-vfb-stuttgart",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-fr-paris-saint-germain-es-barcelona",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-20T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "fr-paris-saint-germain",
+   "away": "es-barcelona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-gb-eng-liverpool-es-villarreal",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-20T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-gb-eng-manchester-city-gr-aek-athens",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-20T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "gr-aek-athens",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-it-napoli-no-bod-glimt",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-20T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-napoli",
+   "away": "no-bod-glimt",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-it-roma-sk-slovan-bratislava",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-20T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-roma",
+   "away": "sk-slovan-bratislava",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-pt-porto-nl-psv-eindhoven",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-20T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "pt-porto",
+   "away": "nl-psv-eindhoven",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-fr-lille-tr-galatasaray",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-21T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "fr-lille",
+   "away": "tr-galatasaray",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-it-como-gb-eng-manchester-united",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-21T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "it-como",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-be-club-brugge-fr-lens",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-21T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "be-club-brugge",
+   "away": "fr-lens",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-de-bayern-munich-gb-eng-arsenal",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-21T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-bayern-munich",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-es-real-betis-nl-feyenoord",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-21T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-betis",
+   "away": "nl-feyenoord",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-es-real-madrid-de-rb-leipzig",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-21T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-madrid",
+   "away": "de-rb-leipzig",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-gb-eng-aston-villa-no-viking",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-21T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "no-viking",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-it-inter-milan-ua-shakhtar-donetsk",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-21T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-inter-milan",
+   "away": "ua-shakhtar-donetsk",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r03-pt-sporting-cp-at-lask",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-21T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "pt-sporting-cp",
+   "away": "at-lask",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/champions-league-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-tr-galatasaray-de-vfb-stuttgart",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-03T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "tr-galatasaray",
+   "away": "de-vfb-stuttgart",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-ua-shakhtar-donetsk-pt-sporting-cp",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-03T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "ua-shakhtar-donetsk",
+   "away": "pt-sporting-cp",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-at-lask-sk-slovan-bratislava",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-03T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "at-lask",
+   "away": "sk-slovan-bratislava",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-es-atletico-madrid-de-bayern-munich",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-03T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-atletico-madrid",
+   "away": "de-bayern-munich",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-es-barcelona-gb-eng-aston-villa",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-03T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-barcelona",
+   "away": "gb-eng-aston-villa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-es-villarreal-fr-paris-saint-germain",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-03T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-villarreal",
+   "away": "fr-paris-saint-germain",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-gb-eng-manchester-united-it-roma",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-03T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-united",
+   "away": "it-roma",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-nl-feyenoord-it-inter-milan",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-03T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "nl-feyenoord",
+   "away": "it-inter-milan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-no-bod-glimt-fr-lille",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-03T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "no-bod-glimt",
+   "away": "fr-lille",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-gr-aek-athens-es-real-madrid",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-04T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "gr-aek-athens",
+   "away": "es-real-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-tr-fenerbahce-gb-eng-liverpool",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-04T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "tr-fenerbahce",
+   "away": "gb-eng-liverpool",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-cz-slavia-prague-gb-eng-arsenal",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-04T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "cz-slavia-prague",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-de-borussia-dortmund-es-real-betis",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-04T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-borussia-dortmund",
+   "away": "es-real-betis",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-de-rb-leipzig-gb-eng-manchester-city",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-04T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-rb-leipzig",
+   "away": "gb-eng-manchester-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-fr-lens-it-como",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-04T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "fr-lens",
+   "away": "it-como",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-nl-psv-eindhoven-be-club-brugge",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-04T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "nl-psv-eindhoven",
+   "away": "be-club-brugge",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-no-viking-az-sabah",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-04T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "no-viking",
+   "away": "az-sabah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r04-pt-porto-it-napoli",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-04T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "pt-porto",
+   "away": "it-napoli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-no-bod-glimt-at-lask",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-24T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "no-bod-glimt",
+   "away": "at-lask",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-tr-galatasaray-gb-eng-aston-villa",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-24T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "tr-galatasaray",
+   "away": "gb-eng-aston-villa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-de-rb-leipzig-fr-lens",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-24T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-rb-leipzig",
+   "away": "fr-lens",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-es-real-madrid-nl-psv-eindhoven",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-24T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-madrid",
+   "away": "nl-psv-eindhoven",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-gb-eng-arsenal-de-borussia-dortmund",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-24T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-arsenal",
+   "away": "de-borussia-dortmund",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-gb-eng-manchester-city-it-napoli",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-24T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "it-napoli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-it-como-gr-aek-athens",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-24T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-como",
+   "away": "gr-aek-athens",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-nl-feyenoord-pt-porto",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-24T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "nl-feyenoord",
+   "away": "pt-porto",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-sk-slovan-bratislava-es-real-betis",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-24T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "sk-slovan-bratislava",
+   "away": "es-real-betis",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-az-sabah-es-barcelona",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-25T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "az-sabah",
+   "away": "es-barcelona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-cz-slavia-prague-es-villarreal",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-25T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "cz-slavia-prague",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-be-club-brugge-gb-eng-liverpool",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-25T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "be-club-brugge",
+   "away": "gb-eng-liverpool",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-es-atletico-madrid-no-viking",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-25T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-atletico-madrid",
+   "away": "no-viking",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-fr-lille-de-bayern-munich",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-25T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "fr-lille",
+   "away": "de-bayern-munich",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-fr-paris-saint-germain-it-roma",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-25T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "fr-paris-saint-germain",
+   "away": "it-roma",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-it-inter-milan-de-vfb-stuttgart",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-25T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-inter-milan",
+   "away": "de-vfb-stuttgart",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-pt-sporting-cp-gb-eng-manchester-united",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-25T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "pt-sporting-cp",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r05-ua-shakhtar-donetsk-tr-fenerbahce",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-11-25T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "ua-shakhtar-donetsk",
+   "away": "tr-fenerbahce",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-es-villarreal-az-sabah",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-08T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "es-villarreal",
+   "away": "az-sabah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-no-viking-nl-feyenoord",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-08T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "no-viking",
+   "away": "nl-feyenoord",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-de-bayern-munich-cz-slavia-prague",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-08T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-bayern-munich",
+   "away": "cz-slavia-prague",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-es-barcelona-gb-eng-manchester-city",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-08T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-barcelona",
+   "away": "gb-eng-manchester-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-gb-eng-aston-villa-fr-paris-saint-germain",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-08T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "fr-paris-saint-germain",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-gb-eng-manchester-united-de-rb-leipzig",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-08T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-united",
+   "away": "de-rb-leipzig",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-gr-aek-athens-tr-galatasaray",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-08T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gr-aek-athens",
+   "away": "tr-galatasaray",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-it-napoli-be-club-brugge",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-08T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-napoli",
+   "away": "be-club-brugge",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-it-roma-pt-sporting-cp",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-08T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-roma",
+   "away": "pt-sporting-cp",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-es-real-betis-it-como",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-09T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-betis",
+   "away": "it-como",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-sk-slovan-bratislava-ua-shakhtar-donetsk",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-09T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "sk-slovan-bratislava",
+   "away": "ua-shakhtar-donetsk",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-at-lask-tr-fenerbahce",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-09T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "at-lask",
+   "away": "tr-fenerbahce",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-de-borussia-dortmund-it-inter-milan",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-09T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-borussia-dortmund",
+   "away": "it-inter-milan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-de-vfb-stuttgart-fr-lille",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-09T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-vfb-stuttgart",
+   "away": "fr-lille",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-fr-lens-no-bod-glimt",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-09T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "fr-lens",
+   "away": "no-bod-glimt",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-gb-eng-arsenal-es-real-madrid",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-09T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-arsenal",
+   "away": "es-real-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-gb-eng-liverpool-pt-porto",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-09T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "pt-porto",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r06-nl-psv-eindhoven-es-atletico-madrid",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-12-09T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "nl-psv-eindhoven",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-no-bod-glimt-es-atletico-madrid",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-19T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "no-bod-glimt",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270119",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-tr-galatasaray-nl-feyenoord",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-19T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "tr-galatasaray",
+   "away": "nl-feyenoord",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270119",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-de-vfb-stuttgart-be-club-brugge",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-19T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-vfb-stuttgart",
+   "away": "be-club-brugge",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270119",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-es-real-madrid-at-lask",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-19T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-madrid",
+   "away": "at-lask",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270119",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-fr-lille-sk-slovan-bratislava",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-19T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "fr-lille",
+   "away": "sk-slovan-bratislava",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270119",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-gb-eng-aston-villa-de-borussia-dortmund",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-19T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "de-borussia-dortmund",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270119",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-gr-aek-athens-it-roma",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-19T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gr-aek-athens",
+   "away": "it-roma",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270119",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-it-inter-milan-gb-eng-liverpool",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-19T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-inter-milan",
+   "away": "gb-eng-liverpool",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270119",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-pt-porto-cz-slavia-prague",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-19T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "pt-porto",
+   "away": "cz-slavia-prague",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270119",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-az-sabah-it-napoli",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-20T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "az-sabah",
+   "away": "it-napoli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270120",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-tr-fenerbahce-es-villarreal",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-20T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "tr-fenerbahce",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270120",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-de-rb-leipzig-ua-shakhtar-donetsk",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-20T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-rb-leipzig",
+   "away": "ua-shakhtar-donetsk",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270120",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-es-real-betis-gb-eng-arsenal",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-20T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-betis",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270120",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-fr-lens-gb-eng-manchester-city",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-20T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "fr-lens",
+   "away": "gb-eng-manchester-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270120",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-gb-eng-manchester-united-de-bayern-munich",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-20T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-united",
+   "away": "de-bayern-munich",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270120",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-it-como-fr-paris-saint-germain",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-20T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-como",
+   "away": "fr-paris-saint-germain",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270120",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-no-viking-nl-psv-eindhoven",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-20T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "no-viking",
+   "away": "nl-psv-eindhoven",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270120",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r07-pt-sporting-cp-es-barcelona",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2027-01-20T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "pt-sporting-cp",
+   "away": "es-barcelona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270120",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-at-lask-pt-porto",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "at-lask",
+   "away": "pt-porto",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-be-club-brugge-no-bod-glimt",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "be-club-brugge",
+   "away": "no-bod-glimt",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-cz-slavia-prague-gb-eng-aston-villa",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "cz-slavia-prague",
+   "away": "gb-eng-aston-villa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-de-bayern-munich-es-real-betis",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-bayern-munich",
+   "away": "es-real-betis",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-de-borussia-dortmund-gr-aek-athens",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-borussia-dortmund",
+   "away": "gr-aek-athens",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-es-atletico-madrid-tr-fenerbahce",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-atletico-madrid",
+   "away": "tr-fenerbahce",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-es-barcelona-it-como",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-barcelona",
+   "away": "it-como",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-es-villarreal-gb-eng-manchester-united",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-villarreal",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.champions/events/401915349?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-fr-paris-saint-germain-tr-galatasaray",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "fr-paris-saint-germain",
+   "away": "tr-galatasaray",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-gb-eng-arsenal-az-sabah",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-arsenal",
+   "away": "az-sabah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-gb-eng-liverpool-fr-lens",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "fr-lens",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-gb-eng-manchester-city-pt-sporting-cp",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "pt-sporting-cp",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-it-napoli-no-viking",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-napoli",
+   "away": "no-viking",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-it-roma-fr-lille",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-roma",
+   "away": "fr-lille",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-nl-feyenoord-de-rb-leipzig",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "nl-feyenoord",
+   "away": "de-rb-leipzig",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-nl-psv-eindhoven-de-vfb-stuttgart",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "nl-psv-eindhoven",
+   "away": "de-vfb-stuttgart",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-sk-slovan-bratislava-it-inter-milan",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "sk-slovan-bratislava",
+   "away": "it-inter-milan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.champions/events/401915269?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "ucl-2026-27-league-phase-r08-ua-shakhtar-donetsk-es-real-madrid",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2027-01-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "ua-shakhtar-donetsk",
+   "away": "es-real-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ]
+  }
+ ]
+}

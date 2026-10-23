@@ -1,0 +1,3672 @@
+{
+ "competition": "laliga",
+ "season": "2026-27",
+ "matches": [
+  {
+   "id": "laliga-2026-27-regular-r01-es-alaves-es-getafe",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-15T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-alaves",
+   "away": "es-getafe",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r01-es-sevilla-es-rayo-vallecano",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-15T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-sevilla",
+   "away": "es-rayo-vallecano",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r01-es-racing-santander-es-villarreal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-16T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-racing-santander",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r01-es-espanyol-es-levante",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-16T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-espanyol",
+   "away": "es-levante",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r01-es-deportivo-la-coruna-es-elche",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-17T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-deportivo-la-coruna",
+   "away": "es-elche",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r01-es-atletico-madrid-es-malaga",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-19T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-atletico-madrid",
+   "away": "es-malaga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r02-es-rayo-vallecano-es-alaves",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-20T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-rayo-vallecano",
+   "away": "es-alaves",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r02-es-real-betis-es-real-sociedad",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-21T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-betis",
+   "away": "es-real-sociedad",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r02-es-athletic-club-es-sevilla",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-22T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-athletic-club",
+   "away": "es-sevilla",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r02-es-valencia-es-celta-vigo",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-22T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-valencia",
+   "away": "es-celta-vigo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r02-es-espanyol-es-real-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-22T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-espanyol",
+   "away": "es-real-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r02-es-atletico-madrid-es-villarreal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-23T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-atletico-madrid",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r02-es-getafe-es-racing-santander",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-23T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-getafe",
+   "away": "es-racing-santander",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r02-es-elche-es-barcelona",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-23T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-elche",
+   "away": "es-barcelona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 5
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r02-es-osasuna-es-levante",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-24T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-osasuna",
+   "away": "es-levante",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r02-es-malaga-es-deportivo-la-coruna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-08-24T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-malaga",
+   "away": "es-deportivo-la-coruna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r01-es-valencia-es-real-betis",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-25T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-valencia",
+   "away": "es-real-betis",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r01-es-real-madrid-es-real-sociedad",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-26T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-madrid",
+   "away": "es-real-sociedad",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r01-es-celta-vigo-es-osasuna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-27T18:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-celta-vigo",
+   "away": "es-osasuna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r01-es-barcelona-es-athletic-club",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-08-27T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-barcelona",
+   "away": "es-athletic-club",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r03-es-racing-santander-es-elche",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-08-28T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-racing-santander",
+   "away": "es-elche",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r03-es-alaves-es-villarreal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-08-28T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-alaves",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r03-es-levante-es-real-betis",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-08-29T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-levante",
+   "away": "es-real-betis",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r03-es-real-sociedad-es-espanyol",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-08-29T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-sociedad",
+   "away": "es-espanyol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r03-es-sevilla-es-atletico-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-08-29T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-sevilla",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r03-es-real-madrid-es-malaga",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-08-30T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-madrid",
+   "away": "es-malaga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r03-es-deportivo-la-coruna-es-valencia",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-08-30T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-deportivo-la-coruna",
+   "away": "es-valencia",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r03-es-celta-vigo-es-athletic-club",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-08-30T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-celta-vigo",
+   "away": "es-athletic-club",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r03-es-osasuna-es-getafe",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-08-31T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-osasuna",
+   "away": "es-getafe",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r03-es-barcelona-es-rayo-vallecano",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-08-31T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-barcelona",
+   "away": "es-rayo-vallecano",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r06-es-real-sociedad-es-celta-vigo",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-09-03T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-sociedad",
+   "away": "es-celta-vigo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r04-es-real-betis-es-real-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-04T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-betis",
+   "away": "es-real-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r04-es-athletic-club-es-atletico-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-05T14:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-athletic-club",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r04-es-rayo-vallecano-es-racing-santander",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-05T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-rayo-vallecano",
+   "away": "es-racing-santander",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r04-es-villarreal-es-deportivo-la-coruna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-05T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-villarreal",
+   "away": "es-deportivo-la-coruna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r04-es-valencia-es-barcelona",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-06T14:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-valencia",
+   "away": "es-barcelona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 5
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r04-es-alaves-es-osasuna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-06T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-alaves",
+   "away": "es-osasuna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r04-es-malaga-es-levante",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-06T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-malaga",
+   "away": "es-levante",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r04-es-espanyol-es-sevilla",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-06T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-espanyol",
+   "away": "es-sevilla",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r04-es-getafe-es-celta-vigo",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-07T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-getafe",
+   "away": "es-celta-vigo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r04-es-elche-es-real-sociedad",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-09-07T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-elche",
+   "away": "es-real-sociedad",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r05-es-sevilla-es-valencia",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-11T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-sevilla",
+   "away": "es-valencia",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r05-es-racing-santander-es-alaves",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-12T12:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-racing-santander",
+   "away": "es-alaves",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r05-es-osasuna-es-espanyol",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-12T14:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-osasuna",
+   "away": "es-espanyol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r05-es-athletic-club-es-elche",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-12T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-athletic-club",
+   "away": "es-elche",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r05-es-real-madrid-es-rayo-vallecano",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-12T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-madrid",
+   "away": "es-rayo-vallecano",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r05-es-celta-vigo-es-malaga",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-13T12:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-celta-vigo",
+   "away": "es-malaga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r05-es-levante-es-barcelona",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-13T14:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-levante",
+   "away": "es-barcelona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r05-es-getafe-es-deportivo-la-coruna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-13T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-getafe",
+   "away": "es-deportivo-la-coruna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r05-es-real-sociedad-es-atletico-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-13T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-sociedad",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r05-es-villarreal-es-real-betis",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 5
+   },
+   "kickoff": "2026-09-14T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-villarreal",
+   "away": "es-real-betis",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r06-es-rayo-vallecano-es-espanyol",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-09-15T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-rayo-vallecano",
+   "away": "es-espanyol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r06-es-alaves-es-valencia",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-09-15T18:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-alaves",
+   "away": "es-valencia",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r06-es-elche-es-real-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-09-15T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-elche",
+   "away": "es-real-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r06-es-atletico-madrid-es-osasuna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-09-16T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-atletico-madrid",
+   "away": "es-osasuna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r06-es-deportivo-la-coruna-es-sevilla",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-09-16T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-deportivo-la-coruna",
+   "away": "es-sevilla",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r06-es-barcelona-es-racing-santander",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-09-16T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-barcelona",
+   "away": "es-racing-santander",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 7,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r06-es-real-betis-es-getafe",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-09-17T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-betis",
+   "away": "es-getafe",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r06-es-malaga-es-villarreal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-09-17T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-malaga",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r07-es-espanyol-es-elche",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-09-18T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-espanyol",
+   "away": "es-elche",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r07-es-osasuna-es-rayo-vallecano",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-09-19T12:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-osasuna",
+   "away": "es-rayo-vallecano",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r07-es-athletic-club-es-alaves",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-09-19T14:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-athletic-club",
+   "away": "es-alaves",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r07-es-celta-vigo-es-racing-santander",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-09-19T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-celta-vigo",
+   "away": "es-racing-santander",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r07-es-sevilla-es-barcelona",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-09-19T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-sevilla",
+   "away": "es-barcelona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r07-es-getafe-es-malaga",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-09-20T12:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-getafe",
+   "away": "es-malaga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r07-es-atletico-madrid-es-real-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-09-20T14:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-atletico-madrid",
+   "away": "es-real-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r07-es-deportivo-la-coruna-es-real-betis",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-09-20T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-deportivo-la-coruna",
+   "away": "es-real-betis",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r07-es-villarreal-es-levante",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-09-20T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-villarreal",
+   "away": "es-levante",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r07-es-valencia-es-real-sociedad",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-09-20T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-valencia",
+   "away": "es-real-sociedad",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r08-es-malaga-es-espanyol",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-09T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-malaga",
+   "away": "es-espanyol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-10T12:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-rayo-vallecano",
+   "away": "es-athletic-club",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "ABD",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=8&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-athletic-club-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r08-es-alaves-es-atletico-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-10T14:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-alaves",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r08-es-barcelona-es-getafe",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-10T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-barcelona",
+   "away": "es-getafe",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r08-es-real-madrid-es-villarreal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-10T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-madrid",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r08-es-elche-es-celta-vigo",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-11T12:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-elche",
+   "away": "es-celta-vigo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r08-es-real-sociedad-es-deportivo-la-coruna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-11T14:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-sociedad",
+   "away": "es-deportivo-la-coruna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r08-es-real-betis-es-osasuna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-11T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-betis",
+   "away": "es-osasuna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r08-es-racing-santander-es-valencia",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-11T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-racing-santander",
+   "away": "es-valencia",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r08-es-levante-es-sevilla",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-10-12T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-levante",
+   "away": "es-sevilla",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r09-es-deportivo-la-coruna-es-levante",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-16T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-deportivo-la-coruna",
+   "away": "es-levante",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r09-es-espanyol-es-atletico-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-17T12:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-espanyol",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r09-es-villarreal-es-elche",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-17T14:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-villarreal",
+   "away": "es-elche",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r09-es-real-betis-es-barcelona",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-17T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-betis",
+   "away": "es-barcelona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 5
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r09-es-valencia-es-athletic-club",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-17T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-valencia",
+   "away": "es-athletic-club",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r09-es-osasuna-es-racing-santander",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-18T12:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-osasuna",
+   "away": "es-racing-santander",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r09-es-celta-vigo-es-alaves",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-18T14:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-celta-vigo",
+   "away": "es-alaves",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r09-es-malaga-es-real-sociedad",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-18T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-malaga",
+   "away": "es-real-sociedad",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 5
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r09-es-real-madrid-es-sevilla",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-18T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-madrid",
+   "away": "es-sevilla",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r09-es-getafe-es-rayo-vallecano",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-10-19T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-getafe",
+   "away": "es-rayo-vallecano",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
+    "https://www.skysports.com/la-liga-results"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r06-es-levante-es-athletic-club",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 6
+   },
+   "kickoff": "2026-10-21T18:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-levante",
+   "away": "es-athletic-club",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:07:09.904Z"
+  },
+  {
+   "id": "laliga-2026-27-regular-r10-es-alaves-es-malaga",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-10-23T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-alaves",
+   "away": "es-malaga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261023"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r10-es-rayo-vallecano-es-elche",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-10-24T12:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-rayo-vallecano",
+   "away": "es-elche",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r10-es-racing-santander-es-espanyol",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-10-24T14:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-racing-santander",
+   "away": "es-espanyol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r10-es-valencia-es-villarreal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-10-24T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-valencia",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r10-es-atletico-madrid-es-deportivo-la-coruna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-10-24T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-atletico-madrid",
+   "away": "es-deportivo-la-coruna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r10-es-athletic-club-es-getafe",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-10-25T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-athletic-club",
+   "away": "es-getafe",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r10-es-celta-vigo-es-real-betis",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-10-25T15:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-celta-vigo",
+   "away": "es-real-betis",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r10-es-real-sociedad-es-levante",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-10-25T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-sociedad",
+   "away": "es-levante",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r10-es-barcelona-es-real-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-10-25T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-barcelona",
+   "away": "es-real-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r10-es-sevilla-es-osasuna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 10
+   },
+   "kickoff": "2026-10-26T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-sevilla",
+   "away": "es-osasuna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r11-es-villarreal-es-espanyol",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-10-30T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-villarreal",
+   "away": "es-espanyol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261030"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r11-es-levante-es-atletico-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-10-31T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-levante",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r11-es-rayo-vallecano-es-celta-vigo",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-10-31T15:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-rayo-vallecano",
+   "away": "es-celta-vigo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r11-es-real-betis-es-malaga",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-10-31T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-betis",
+   "away": "es-malaga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r11-es-barcelona-es-alaves",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-10-31T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-barcelona",
+   "away": "es-alaves",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r11-es-getafe-es-sevilla",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-01T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-getafe",
+   "away": "es-sevilla",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r11-es-racing-santander-es-real-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-01T15:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-racing-santander",
+   "away": "es-real-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r11-es-elche-es-valencia",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-01T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-elche",
+   "away": "es-valencia",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r11-es-athletic-club-es-real-sociedad",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-01T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-athletic-club",
+   "away": "es-real-sociedad",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r11-es-deportivo-la-coruna-es-osasuna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 11
+   },
+   "kickoff": "2026-11-02T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-deportivo-la-coruna",
+   "away": "es-osasuna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261102"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r12-es-sevilla-es-alaves",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-06T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-sevilla",
+   "away": "es-alaves",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r12-es-malaga-es-racing-santander",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-07T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-malaga",
+   "away": "es-racing-santander",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r12-es-espanyol-es-deportivo-la-coruna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-07T15:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-espanyol",
+   "away": "es-deportivo-la-coruna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r12-es-osasuna-es-athletic-club",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-07T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-osasuna",
+   "away": "es-athletic-club",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r12-es-valencia-es-real-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-07T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-valencia",
+   "away": "es-real-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r12-es-elche-es-real-betis",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-08T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-elche",
+   "away": "es-real-betis",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r12-es-real-sociedad-es-rayo-vallecano",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-08T15:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-sociedad",
+   "away": "es-rayo-vallecano",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r12-es-celta-vigo-es-levante",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-08T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-celta-vigo",
+   "away": "es-levante",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r12-es-villarreal-es-getafe",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-08T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-villarreal",
+   "away": "es-getafe",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r12-es-atletico-madrid-es-barcelona",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-11-08T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-atletico-madrid",
+   "away": "es-barcelona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r13-es-athletic-club-es-espanyol",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-20T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-athletic-club",
+   "away": "es-espanyol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261120"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r13-es-alaves-es-deportivo-la-coruna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-21T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-alaves",
+   "away": "es-deportivo-la-coruna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261121"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r13-es-rayo-vallecano-es-valencia",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-21T15:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-rayo-vallecano",
+   "away": "es-valencia",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261121"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r13-es-sevilla-es-real-betis",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-21T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-sevilla",
+   "away": "es-real-betis",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261121"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r13-es-real-madrid-es-celta-vigo",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-21T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-madrid",
+   "away": "es-celta-vigo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261121"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r13-es-barcelona-es-villarreal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-22T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-barcelona",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r13-es-racing-santander-es-real-sociedad",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-22T15:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-racing-santander",
+   "away": "es-real-sociedad",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r13-es-osasuna-es-malaga",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-22T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-osasuna",
+   "away": "es-malaga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r13-es-getafe-es-atletico-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-22T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-getafe",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r13-es-levante-es-elche",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-23T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-levante",
+   "away": "es-elche",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261123"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r14-es-celta-vigo-es-villarreal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T16:00:00Z",
+   "timeConfirmed": false,
+   "home": "es-celta-vigo",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r14-es-deportivo-la-coruna-es-barcelona",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T16:00:00Z",
+   "timeConfirmed": false,
+   "home": "es-deportivo-la-coruna",
+   "away": "es-barcelona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r14-es-elche-es-atletico-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T16:00:00Z",
+   "timeConfirmed": false,
+   "home": "es-elche",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r14-es-espanyol-es-getafe",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T16:00:00Z",
+   "timeConfirmed": false,
+   "home": "es-espanyol",
+   "away": "es-getafe",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r14-es-levante-es-racing-santander",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T16:00:00Z",
+   "timeConfirmed": false,
+   "home": "es-levante",
+   "away": "es-racing-santander",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r14-es-malaga-es-athletic-club",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T16:00:00Z",
+   "timeConfirmed": false,
+   "home": "es-malaga",
+   "away": "es-athletic-club",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r14-es-real-betis-es-rayo-vallecano",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T16:00:00Z",
+   "timeConfirmed": false,
+   "home": "es-real-betis",
+   "away": "es-rayo-vallecano",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r14-es-real-madrid-es-alaves",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T16:00:00Z",
+   "timeConfirmed": false,
+   "home": "es-real-madrid",
+   "away": "es-alaves",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r14-es-real-sociedad-es-sevilla",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T16:00:00Z",
+   "timeConfirmed": false,
+   "home": "es-real-sociedad",
+   "away": "es-sevilla",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r14-es-valencia-es-osasuna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T16:00:00Z",
+   "timeConfirmed": false,
+   "home": "es-valencia",
+   "away": "es-osasuna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  }
+ ]
+}

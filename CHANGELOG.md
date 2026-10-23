@@ -1,0 +1,1135 @@
+# Data changelog
+
+One entry per run: what was added or corrected, what was rejected and why.
+
+## 2026-10-23 (2026-10-23T09:00:00Z)
+- 422 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ fixture epl-2026-27-regular-r01-gb-eng-arsenal-gb-eng-coventry-city added
+  - ✓ result epl-2026-27-regular-r01-gb-eng-arsenal-gb-eng-coventry-city 3-0 FT
+  - ✓ fixture epl-2026-27-regular-r01-gb-eng-hull-city-gb-eng-manchester-united added
+  - ✓ result epl-2026-27-regular-r01-gb-eng-hull-city-gb-eng-manchester-united 2-0 FT
+  - ✓ fixture epl-2026-27-regular-r01-gb-eng-everton-gb-eng-crystal-palace added
+  - ✓ result epl-2026-27-regular-r01-gb-eng-everton-gb-eng-crystal-palace 2-0 FT
+  - ✓ fixture epl-2026-27-regular-r01-gb-eng-ipswich-town-gb-eng-sunderland added
+  - ✓ result epl-2026-27-regular-r01-gb-eng-ipswich-town-gb-eng-sunderland 2-1 FT
+  - ✓ fixture epl-2026-27-regular-r01-gb-eng-nottingham-forest-gb-eng-leeds-united added
+  - ✓ result epl-2026-27-regular-r01-gb-eng-nottingham-forest-gb-eng-leeds-united 0-1 FT
+  - ✓ fixture epl-2026-27-regular-r01-gb-eng-brentford-gb-eng-tottenham-hotspur added
+  - ✓ result epl-2026-27-regular-r01-gb-eng-brentford-gb-eng-tottenham-hotspur 3-0 FT
+  - ✓ fixture epl-2026-27-regular-r01-gb-eng-brighton-gb-eng-aston-villa added
+  - ✓ result epl-2026-27-regular-r01-gb-eng-brighton-gb-eng-aston-villa 4-0 FT
+  - ✓ fixture epl-2026-27-regular-r01-gb-eng-manchester-city-gb-eng-bournemouth added
+  - ✓ result epl-2026-27-regular-r01-gb-eng-manchester-city-gb-eng-bournemouth 2-1 FT
+  - ✓ fixture epl-2026-27-regular-r01-gb-eng-newcastle-united-gb-eng-liverpool added
+  - ✓ result epl-2026-27-regular-r01-gb-eng-newcastle-united-gb-eng-liverpool 2-2 FT
+  - ✓ fixture epl-2026-27-regular-r01-gb-eng-fulham-gb-eng-chelsea added
+  - ✓ result epl-2026-27-regular-r01-gb-eng-fulham-gb-eng-chelsea 2-3 FT
+  - ✓ fixture epl-2026-27-regular-r02-gb-eng-crystal-palace-gb-eng-manchester-city added
+  - ✓ result epl-2026-27-regular-r02-gb-eng-crystal-palace-gb-eng-manchester-city 1-4 FT
+  - ✓ fixture epl-2026-27-regular-r02-gb-eng-liverpool-gb-eng-nottingham-forest added
+  - ✓ result epl-2026-27-regular-r02-gb-eng-liverpool-gb-eng-nottingham-forest 2-2 FT
+  - ✓ fixture epl-2026-27-regular-r02-gb-eng-bournemouth-gb-eng-everton added
+  - ✓ result epl-2026-27-regular-r02-gb-eng-bournemouth-gb-eng-everton 1-1 FT
+  - ✓ fixture epl-2026-27-regular-r02-gb-eng-coventry-city-gb-eng-hull-city added
+  - ✓ result epl-2026-27-regular-r02-gb-eng-coventry-city-gb-eng-hull-city 0-1 FT
+  - ✓ fixture epl-2026-27-regular-r02-gb-eng-tottenham-hotspur-gb-eng-newcastle-united added
+  - ✓ result epl-2026-27-regular-r02-gb-eng-tottenham-hotspur-gb-eng-newcastle-united 0-2 FT
+  - ✓ fixture epl-2026-27-regular-r02-gb-eng-chelsea-gb-eng-brighton added
+  - ✓ result epl-2026-27-regular-r02-gb-eng-chelsea-gb-eng-brighton 4-3 FT
+  - ✓ fixture epl-2026-27-regular-r02-gb-eng-leeds-united-gb-eng-brentford added
+  - ✓ result epl-2026-27-regular-r02-gb-eng-leeds-united-gb-eng-brentford 1-1 FT
+  - ✓ fixture epl-2026-27-regular-r02-gb-eng-sunderland-gb-eng-fulham added
+  - ✓ result epl-2026-27-regular-r02-gb-eng-sunderland-gb-eng-fulham 1-0 FT
+  - ✓ fixture epl-2026-27-regular-r02-gb-eng-manchester-united-gb-eng-ipswich-town added
+  - ✓ result epl-2026-27-regular-r02-gb-eng-manchester-united-gb-eng-ipswich-town 5-2 FT
+  - ✓ fixture epl-2026-27-regular-r02-gb-eng-aston-villa-gb-eng-arsenal added
+  - ✓ result epl-2026-27-regular-r02-gb-eng-aston-villa-gb-eng-arsenal 0-1 FT
+  - ✓ fixture epl-2026-27-regular-r03-gb-eng-ipswich-town-gb-eng-liverpool added
+  - ✓ result epl-2026-27-regular-r03-gb-eng-ipswich-town-gb-eng-liverpool 0-2 FT
+  - ✓ fixture epl-2026-27-regular-r03-gb-eng-newcastle-united-gb-eng-bournemouth added
+  - ✓ result epl-2026-27-regular-r03-gb-eng-newcastle-united-gb-eng-bournemouth 2-2 FT
+  - ✓ fixture epl-2026-27-regular-r03-gb-eng-brentford-gb-eng-sunderland added
+  - ✓ result epl-2026-27-regular-r03-gb-eng-brentford-gb-eng-sunderland 1-1 FT
+  - ✓ fixture epl-2026-27-regular-r03-gb-eng-brighton-gb-eng-leeds-united added
+  - ✓ result epl-2026-27-regular-r03-gb-eng-brighton-gb-eng-leeds-united 1-1 FT
+  - ✓ fixture epl-2026-27-regular-r03-gb-eng-fulham-gb-eng-crystal-palace added
+  - ✓ result epl-2026-27-regular-r03-gb-eng-fulham-gb-eng-crystal-palace 2-3 FT
+  - ✓ fixture epl-2026-27-regular-r03-gb-eng-manchester-city-gb-eng-coventry-city added
+  - ✓ result epl-2026-27-regular-r03-gb-eng-manchester-city-gb-eng-coventry-city 1-0 FT
+  - ✓ fixture epl-2026-27-regular-r03-gb-eng-nottingham-forest-gb-eng-tottenham-hotspur added
+  - ✓ result epl-2026-27-regular-r03-gb-eng-nottingham-forest-gb-eng-tottenham-hotspur 0-0 FT
+  - ✓ fixture epl-2026-27-regular-r03-gb-eng-hull-city-gb-eng-aston-villa added
+  - ✓ result epl-2026-27-regular-r03-gb-eng-hull-city-gb-eng-aston-villa 0-0 FT
+  - ✓ fixture epl-2026-27-regular-r03-gb-eng-everton-gb-eng-manchester-united added
+  - ✓ result epl-2026-27-regular-r03-gb-eng-everton-gb-eng-manchester-united 2-2 FT
+  - ✓ fixture epl-2026-27-regular-r03-gb-eng-arsenal-gb-eng-chelsea added
+  - ✓ result epl-2026-27-regular-r03-gb-eng-arsenal-gb-eng-chelsea 2-1 FT
+  - ✓ fixture epl-2026-27-regular-r04-gb-eng-bournemouth-gb-eng-brentford added
+  - ✓ result epl-2026-27-regular-r04-gb-eng-bournemouth-gb-eng-brentford 2-2 FT
+  - ✓ fixture epl-2026-27-regular-r04-gb-eng-aston-villa-gb-eng-nottingham-forest added
+  - ✓ result epl-2026-27-regular-r04-gb-eng-aston-villa-gb-eng-nottingham-forest 1-2 FT
+  - ✓ fixture epl-2026-27-regular-r04-gb-eng-chelsea-gb-eng-hull-city added
+  - ✓ result epl-2026-27-regular-r04-gb-eng-chelsea-gb-eng-hull-city 2-2 FT
+  - ✓ fixture epl-2026-27-regular-r04-gb-eng-crystal-palace-gb-eng-ipswich-town added
+  - ✓ result epl-2026-27-regular-r04-gb-eng-crystal-palace-gb-eng-ipswich-town 2-3 FT
+  - ✓ fixture epl-2026-27-regular-r04-gb-eng-liverpool-gb-eng-fulham added
+  - ✓ result epl-2026-27-regular-r04-gb-eng-liverpool-gb-eng-fulham 0-0 FT
+  - ✓ fixture epl-2026-27-regular-r04-gb-eng-tottenham-hotspur-gb-eng-everton added
+  - ✓ result epl-2026-27-regular-r04-gb-eng-tottenham-hotspur-gb-eng-everton 0-0 FT
+  - ✓ fixture epl-2026-27-regular-r04-gb-eng-sunderland-gb-eng-arsenal added
+  - ✓ result epl-2026-27-regular-r04-gb-eng-sunderland-gb-eng-arsenal 0-2 FT
+  - ✓ fixture epl-2026-27-regular-r04-gb-eng-coventry-city-gb-eng-brighton added
+  - ✓ result epl-2026-27-regular-r04-gb-eng-coventry-city-gb-eng-brighton 0-5 FT
+  - ✓ fixture epl-2026-27-regular-r04-gb-eng-manchester-united-gb-eng-manchester-city added
+  - ✓ result epl-2026-27-regular-r04-gb-eng-manchester-united-gb-eng-manchester-city 0-1 FT
+  - ✓ fixture epl-2026-27-regular-r04-gb-eng-leeds-united-gb-eng-newcastle-united added
+  - ✓ result epl-2026-27-regular-r04-gb-eng-leeds-united-gb-eng-newcastle-united 4-1 FT
+  - ✓ fixture epl-2026-27-regular-r05-gb-eng-brentford-gb-eng-chelsea added
+  - ✓ result epl-2026-27-regular-r05-gb-eng-brentford-gb-eng-chelsea 3-0 FT
+  - ✓ fixture epl-2026-27-regular-r05-gb-eng-tottenham-hotspur-gb-eng-aston-villa added
+  - ✓ result epl-2026-27-regular-r05-gb-eng-tottenham-hotspur-gb-eng-aston-villa 2-3 FT
+  - ✓ fixture epl-2026-27-regular-r05-gb-eng-brighton-gb-eng-arsenal added
+  - ✓ result epl-2026-27-regular-r05-gb-eng-brighton-gb-eng-arsenal 3-0 FT
+  - ✓ fixture epl-2026-27-regular-r05-gb-eng-everton-gb-eng-ipswich-town added
+  - ✓ result epl-2026-27-regular-r05-gb-eng-everton-gb-eng-ipswich-town 1-0 FT
+  - ✓ fixture epl-2026-27-regular-r05-gb-eng-newcastle-united-gb-eng-hull-city added
+  - ✓ result epl-2026-27-regular-r05-gb-eng-newcastle-united-gb-eng-hull-city 2-1 FT
+  - ✓ fixture epl-2026-27-regular-r05-gb-eng-nottingham-forest-gb-eng-coventry-city added
+  - ✓ result epl-2026-27-regular-r05-gb-eng-nottingham-forest-gb-eng-coventry-city 0-1 FT
+  - ✓ fixture epl-2026-27-regular-r05-gb-eng-bournemouth-gb-eng-liverpool added
+  - ✓ result epl-2026-27-regular-r05-gb-eng-bournemouth-gb-eng-liverpool 0-1 FT
+  - ✓ fixture epl-2026-27-regular-r05-gb-eng-leeds-united-gb-eng-crystal-palace added
+  - ✓ result epl-2026-27-regular-r05-gb-eng-leeds-united-gb-eng-crystal-palace 0-0 FT
+  - ✓ fixture epl-2026-27-regular-r05-gb-eng-manchester-city-gb-eng-sunderland added
+  - ✓ result epl-2026-27-regular-r05-gb-eng-manchester-city-gb-eng-sunderland 5-3 FT
+  - ✓ fixture epl-2026-27-regular-r05-gb-eng-fulham-gb-eng-manchester-united added
+  - ✓ result epl-2026-27-regular-r05-gb-eng-fulham-gb-eng-manchester-united 1-1 FT
+  - ✓ fixture epl-2026-27-regular-r06-gb-eng-arsenal-gb-eng-leeds-united added
+  - ✓ result epl-2026-27-regular-r06-gb-eng-arsenal-gb-eng-leeds-united 2-1 FT
+  - ✓ fixture epl-2026-27-regular-r06-gb-eng-aston-villa-gb-eng-brentford added
+  - ✓ result epl-2026-27-regular-r06-gb-eng-aston-villa-gb-eng-brentford 2-2 FT
+  - ✓ fixture epl-2026-27-regular-r06-gb-eng-chelsea-gb-eng-bournemouth added
+  - ✓ result epl-2026-27-regular-r06-gb-eng-chelsea-gb-eng-bournemouth 5-1 FT
+  - ✓ fixture epl-2026-27-regular-r06-gb-eng-ipswich-town-gb-eng-fulham added
+  - ✓ result epl-2026-27-regular-r06-gb-eng-ipswich-town-gb-eng-fulham 2-1 FT
+  - ✓ fixture epl-2026-27-regular-r06-gb-eng-sunderland-gb-eng-brighton added
+  - ✓ result epl-2026-27-regular-r06-gb-eng-sunderland-gb-eng-brighton 0-2 FT
+  - ✓ fixture epl-2026-27-regular-r06-gb-eng-manchester-united-gb-eng-tottenham-hotspur added
+  - ✓ result epl-2026-27-regular-r06-gb-eng-manchester-united-gb-eng-tottenham-hotspur 1-1 FT
+  - ✓ fixture epl-2026-27-regular-r06-gb-eng-crystal-palace-gb-eng-nottingham-forest added
+  - ✓ result epl-2026-27-regular-r06-gb-eng-crystal-palace-gb-eng-nottingham-forest 3-1 FT
+  - ✓ fixture epl-2026-27-regular-r06-gb-eng-hull-city-gb-eng-everton added
+  - ✓ result epl-2026-27-regular-r06-gb-eng-hull-city-gb-eng-everton 2-2 FT
+  - ✓ fixture epl-2026-27-regular-r06-gb-eng-liverpool-gb-eng-manchester-city added
+  - ✓ result epl-2026-27-regular-r06-gb-eng-liverpool-gb-eng-manchester-city 0-3 FT
+  - ✓ fixture epl-2026-27-regular-r06-gb-eng-coventry-city-gb-eng-newcastle-united added
+  - ✓ result epl-2026-27-regular-r06-gb-eng-coventry-city-gb-eng-newcastle-united 4-1 FT
+  - ✓ fixture epl-2026-27-regular-r07-gb-eng-everton-gb-eng-chelsea added
+  - ✓ result epl-2026-27-regular-r07-gb-eng-everton-gb-eng-chelsea 0-2 FT
+  - ✓ fixture epl-2026-27-regular-r07-gb-eng-brentford-gb-eng-liverpool added
+  - ✓ result epl-2026-27-regular-r07-gb-eng-brentford-gb-eng-liverpool 1-2 FT
+  - ✓ fixture epl-2026-27-regular-r07-gb-eng-fulham-gb-eng-hull-city added
+  - ✓ result epl-2026-27-regular-r07-gb-eng-fulham-gb-eng-hull-city 1-0 FT
+  - ✓ fixture epl-2026-27-regular-r07-gb-eng-manchester-city-gb-eng-ipswich-town added
+  - ✓ result epl-2026-27-regular-r07-gb-eng-manchester-city-gb-eng-ipswich-town 3-2 FT
+  - ✓ fixture epl-2026-27-regular-r07-gb-eng-newcastle-united-gb-eng-aston-villa added
+  - ✓ result epl-2026-27-regular-r07-gb-eng-newcastle-united-gb-eng-aston-villa 0-1 FT
+  - ✓ fixture epl-2026-27-regular-r07-gb-eng-bournemouth-gb-eng-sunderland added
+  - ✓ result epl-2026-27-regular-r07-gb-eng-bournemouth-gb-eng-sunderland 2-0 FT
+  - ✓ fixture epl-2026-27-regular-r07-gb-eng-brighton-gb-eng-crystal-palace added
+  - ✓ result epl-2026-27-regular-r07-gb-eng-brighton-gb-eng-crystal-palace 5-0 FT
+  - ✓ fixture epl-2026-27-regular-r07-gb-eng-leeds-united-gb-eng-manchester-united added
+  - ✓ result epl-2026-27-regular-r07-gb-eng-leeds-united-gb-eng-manchester-united 1-1 FT
+  - ✓ fixture epl-2026-27-regular-r07-gb-eng-nottingham-forest-gb-eng-arsenal added
+  - ✓ result epl-2026-27-regular-r07-gb-eng-nottingham-forest-gb-eng-arsenal 0-1 FT
+  - ✓ fixture epl-2026-27-regular-r07-gb-eng-tottenham-hotspur-gb-eng-coventry-city added
+  - ✓ result epl-2026-27-regular-r07-gb-eng-tottenham-hotspur-gb-eng-coventry-city 3-1 FT
+  - ✓ fixture epl-2026-27-regular-r08-gb-eng-ipswich-town-gb-eng-nottingham-forest added
+  - ✓ fixture epl-2026-27-regular-r08-gb-eng-aston-villa-gb-eng-manchester-city added
+  - ✓ fixture epl-2026-27-regular-r08-gb-eng-arsenal-gb-eng-everton added
+  - ✓ fixture epl-2026-27-regular-r08-gb-eng-coventry-city-gb-eng-fulham added
+  - ✓ fixture epl-2026-27-regular-r08-gb-eng-chelsea-gb-eng-tottenham-hotspur added
+  - ✓ fixture epl-2026-27-regular-r08-gb-eng-crystal-palace-gb-eng-newcastle-united added
+  - ✓ fixture epl-2026-27-regular-r08-gb-eng-hull-city-gb-eng-brentford added
+  - ✓ fixture epl-2026-27-regular-r08-gb-eng-liverpool-gb-eng-brighton added
+  - ✓ fixture epl-2026-27-regular-r08-gb-eng-manchester-united-gb-eng-bournemouth added
+  - ✓ fixture epl-2026-27-regular-r08-gb-eng-sunderland-gb-eng-leeds-united added
+  - ✓ fixture epl-2026-27-regular-r09-gb-eng-chelsea-gb-eng-manchester-united added
+  - ✓ fixture epl-2026-27-regular-r09-gb-eng-bournemouth-gb-eng-leeds-united added
+  - ✓ fixture epl-2026-27-regular-r09-gb-eng-brentford-gb-eng-nottingham-forest added
+  - ✓ fixture epl-2026-27-regular-r09-gb-eng-coventry-city-gb-eng-sunderland added
+  - ✓ fixture epl-2026-27-regular-r09-gb-eng-hull-city-gb-eng-ipswich-town added
+  - ✓ fixture epl-2026-27-regular-r09-gb-eng-manchester-city-gb-eng-brighton added
+  - ✓ fixture epl-2026-27-regular-r09-gb-eng-tottenham-hotspur-gb-eng-crystal-palace added
+  - ✓ fixture epl-2026-27-regular-r09-gb-eng-aston-villa-gb-eng-fulham added
+  - ✓ fixture epl-2026-27-regular-r09-gb-eng-liverpool-gb-eng-arsenal added
+  - ✓ fixture epl-2026-27-regular-r09-gb-eng-newcastle-united-gb-eng-everton added
+  - ✓ fixture epl-2026-27-regular-r10-gb-eng-everton-gb-eng-coventry-city added
+  - ✓ fixture epl-2026-27-regular-r10-gb-eng-leeds-united-gb-eng-tottenham-hotspur added
+  - ✓ fixture epl-2026-27-regular-r10-gb-eng-arsenal-gb-eng-hull-city added
+  - ✓ fixture epl-2026-27-regular-r10-gb-eng-fulham-gb-eng-newcastle-united added
+  - ✓ fixture epl-2026-27-regular-r10-gb-eng-nottingham-forest-gb-eng-manchester-city added
+  - ✓ fixture epl-2026-27-regular-r10-gb-eng-brighton-gb-eng-brentford added
+  - ✓ fixture epl-2026-27-regular-r10-gb-eng-crystal-palace-gb-eng-liverpool added
+  - ✓ fixture epl-2026-27-regular-r10-gb-eng-ipswich-town-gb-eng-bournemouth added
+  - ✓ fixture epl-2026-27-regular-r10-gb-eng-sunderland-gb-eng-chelsea added
+  - ✓ fixture epl-2026-27-regular-r10-gb-eng-manchester-united-gb-eng-aston-villa added
+  - ✓ fixture epl-2026-27-regular-r11-gb-eng-manchester-city-gb-eng-fulham added
+  - ✓ fixture epl-2026-27-regular-r11-gb-eng-aston-villa-gb-eng-sunderland added
+  - ✓ fixture epl-2026-27-regular-r11-gb-eng-bournemouth-gb-eng-nottingham-forest added
+  - ✓ fixture epl-2026-27-regular-r11-gb-eng-chelsea-gb-eng-leeds-united added
+  - ✓ fixture epl-2026-27-regular-r11-gb-eng-coventry-city-gb-eng-crystal-palace added
+  - ✓ fixture epl-2026-27-regular-r11-gb-eng-tottenham-hotspur-gb-eng-ipswich-town added
+  - ✓ fixture epl-2026-27-regular-r11-gb-eng-newcastle-united-gb-eng-arsenal added
+  - ✓ fixture epl-2026-27-regular-r11-gb-eng-hull-city-gb-eng-brighton added
+  - ✓ fixture epl-2026-27-regular-r11-gb-eng-liverpool-gb-eng-manchester-united added
+  - ✓ fixture epl-2026-27-regular-r11-gb-eng-brentford-gb-eng-everton added
+  - ✓ fixture epl-2026-27-regular-r12-gb-eng-nottingham-forest-gb-eng-chelsea added
+  - ✓ fixture epl-2026-27-regular-r12-gb-eng-leeds-united-gb-eng-coventry-city added
+  - ✓ fixture epl-2026-27-regular-r12-gb-eng-manchester-united-gb-eng-brentford added
+  - ✓ fixture epl-2026-27-regular-r12-gb-eng-ipswich-town-gb-eng-aston-villa added
+  - ✓ fixture epl-2026-27-regular-r12-gb-eng-everton-gb-eng-liverpool added
+  - ✓ fixture epl-2026-27-regular-r12-gb-eng-brighton-gb-eng-newcastle-united added
+  - ✓ fixture epl-2026-27-regular-r12-gb-eng-crystal-palace-gb-eng-hull-city added
+  - ✓ fixture epl-2026-27-regular-r12-gb-eng-fulham-gb-eng-bournemouth added
+  - ✓ fixture epl-2026-27-regular-r12-gb-eng-sunderland-gb-eng-tottenham-hotspur added
+  - ✓ fixture epl-2026-27-regular-r12-gb-eng-arsenal-gb-eng-manchester-city added
+  - ✓ fixture laliga-2026-27-regular-r01-es-alaves-es-getafe added
+  - ✓ result laliga-2026-27-regular-r01-es-alaves-es-getafe 3-0 FT
+  - ✓ fixture laliga-2026-27-regular-r01-es-sevilla-es-rayo-vallecano added
+  - ✓ result laliga-2026-27-regular-r01-es-sevilla-es-rayo-vallecano 2-1 FT
+  - ✓ fixture laliga-2026-27-regular-r01-es-racing-santander-es-villarreal added
+  - ✓ result laliga-2026-27-regular-r01-es-racing-santander-es-villarreal 2-2 FT
+  - ✓ fixture laliga-2026-27-regular-r01-es-espanyol-es-levante added
+  - ✓ result laliga-2026-27-regular-r01-es-espanyol-es-levante 3-0 FT
+  - ✓ fixture laliga-2026-27-regular-r01-es-deportivo-la-coruna-es-elche added
+  - ✓ result laliga-2026-27-regular-r01-es-deportivo-la-coruna-es-elche 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r01-es-atletico-madrid-es-malaga added
+  - ✓ result laliga-2026-27-regular-r01-es-atletico-madrid-es-malaga 2-0 FT
+  - ✓ fixture laliga-2026-27-regular-r01-es-valencia-es-real-betis added
+  - ✓ result laliga-2026-27-regular-r01-es-valencia-es-real-betis 0-1 FT
+  - ✓ fixture laliga-2026-27-regular-r01-es-real-madrid-es-real-sociedad added
+  - ✓ result laliga-2026-27-regular-r01-es-real-madrid-es-real-sociedad 4-1 FT
+  - ✓ fixture laliga-2026-27-regular-r01-es-celta-vigo-es-osasuna added
+  - ✓ result laliga-2026-27-regular-r01-es-celta-vigo-es-osasuna 1-2 FT
+  - ✓ fixture laliga-2026-27-regular-r01-es-barcelona-es-athletic-club added
+  - ✓ result laliga-2026-27-regular-r01-es-barcelona-es-athletic-club 2-0 FT
+  - ✓ fixture laliga-2026-27-regular-r02-es-rayo-vallecano-es-alaves added
+  - ✓ result laliga-2026-27-regular-r02-es-rayo-vallecano-es-alaves 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r02-es-real-betis-es-real-sociedad added
+  - ✓ result laliga-2026-27-regular-r02-es-real-betis-es-real-sociedad 1-0 FT
+  - ✓ fixture laliga-2026-27-regular-r02-es-athletic-club-es-sevilla added
+  - ✓ result laliga-2026-27-regular-r02-es-athletic-club-es-sevilla 1-3 FT
+  - ✓ fixture laliga-2026-27-regular-r02-es-valencia-es-celta-vigo added
+  - ✓ result laliga-2026-27-regular-r02-es-valencia-es-celta-vigo 0-0 FT
+  - ✓ fixture laliga-2026-27-regular-r02-es-espanyol-es-real-madrid added
+  - ✓ result laliga-2026-27-regular-r02-es-espanyol-es-real-madrid 1-2 FT
+  - ✓ fixture laliga-2026-27-regular-r02-es-atletico-madrid-es-villarreal added
+  - ✓ result laliga-2026-27-regular-r02-es-atletico-madrid-es-villarreal 2-2 FT
+  - ✓ fixture laliga-2026-27-regular-r02-es-getafe-es-racing-santander added
+  - ✓ result laliga-2026-27-regular-r02-es-getafe-es-racing-santander 1-0 FT
+  - ✓ fixture laliga-2026-27-regular-r02-es-elche-es-barcelona added
+  - ✓ result laliga-2026-27-regular-r02-es-elche-es-barcelona 0-5 FT
+  - ✓ fixture laliga-2026-27-regular-r02-es-osasuna-es-levante added
+  - ✓ result laliga-2026-27-regular-r02-es-osasuna-es-levante 0-0 FT
+  - ✓ fixture laliga-2026-27-regular-r02-es-malaga-es-deportivo-la-coruna added
+  - ✓ result laliga-2026-27-regular-r02-es-malaga-es-deportivo-la-coruna 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r03-es-racing-santander-es-elche added
+  - ✓ result laliga-2026-27-regular-r03-es-racing-santander-es-elche 3-2 FT
+  - ✓ fixture laliga-2026-27-regular-r03-es-alaves-es-villarreal added
+  - ✓ result laliga-2026-27-regular-r03-es-alaves-es-villarreal 1-0 FT
+  - ✓ fixture laliga-2026-27-regular-r03-es-levante-es-real-betis added
+  - ✓ result laliga-2026-27-regular-r03-es-levante-es-real-betis 5-2 FT
+  - ✓ fixture laliga-2026-27-regular-r03-es-real-sociedad-es-espanyol added
+  - ✓ result laliga-2026-27-regular-r03-es-real-sociedad-es-espanyol 2-1 FT
+  - ✓ fixture laliga-2026-27-regular-r03-es-sevilla-es-atletico-madrid added
+  - ✓ result laliga-2026-27-regular-r03-es-sevilla-es-atletico-madrid 1-3 FT
+  - ✓ fixture laliga-2026-27-regular-r03-es-real-madrid-es-malaga added
+  - ✓ result laliga-2026-27-regular-r03-es-real-madrid-es-malaga 4-0 FT
+  - ✓ fixture laliga-2026-27-regular-r03-es-deportivo-la-coruna-es-valencia added
+  - ✓ result laliga-2026-27-regular-r03-es-deportivo-la-coruna-es-valencia 3-1 FT
+  - ✓ fixture laliga-2026-27-regular-r03-es-celta-vigo-es-athletic-club added
+  - ✓ result laliga-2026-27-regular-r03-es-celta-vigo-es-athletic-club 0-2 FT
+  - ✓ fixture laliga-2026-27-regular-r03-es-osasuna-es-getafe added
+  - ✓ result laliga-2026-27-regular-r03-es-osasuna-es-getafe 1-0 FT
+  - ✓ fixture laliga-2026-27-regular-r03-es-barcelona-es-rayo-vallecano added
+  - ✓ result laliga-2026-27-regular-r03-es-barcelona-es-rayo-vallecano 5-2 FT
+  - ✓ fixture laliga-2026-27-regular-r04-es-real-betis-es-real-madrid added
+  - ✓ result laliga-2026-27-regular-r04-es-real-betis-es-real-madrid 1-0 FT
+  - ✓ fixture laliga-2026-27-regular-r04-es-athletic-club-es-atletico-madrid added
+  - ✓ result laliga-2026-27-regular-r04-es-athletic-club-es-atletico-madrid 3-0 FT
+  - ✓ fixture laliga-2026-27-regular-r04-es-rayo-vallecano-es-racing-santander added
+  - ✓ result laliga-2026-27-regular-r04-es-rayo-vallecano-es-racing-santander 3-2 FT
+  - ✓ fixture laliga-2026-27-regular-r04-es-villarreal-es-deportivo-la-coruna added
+  - ✓ result laliga-2026-27-regular-r04-es-villarreal-es-deportivo-la-coruna 2-3 FT
+  - ✓ fixture laliga-2026-27-regular-r04-es-valencia-es-barcelona added
+  - ✓ result laliga-2026-27-regular-r04-es-valencia-es-barcelona 0-5 FT
+  - ✓ fixture laliga-2026-27-regular-r04-es-alaves-es-osasuna added
+  - ✓ result laliga-2026-27-regular-r04-es-alaves-es-osasuna 5-2 FT
+  - ✓ fixture laliga-2026-27-regular-r04-es-malaga-es-levante added
+  - ✓ result laliga-2026-27-regular-r04-es-malaga-es-levante 0-0 FT
+  - ✓ fixture laliga-2026-27-regular-r04-es-espanyol-es-sevilla added
+  - ✓ result laliga-2026-27-regular-r04-es-espanyol-es-sevilla 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r04-es-getafe-es-celta-vigo added
+  - ✓ result laliga-2026-27-regular-r04-es-getafe-es-celta-vigo 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r04-es-elche-es-real-sociedad added
+  - ✓ result laliga-2026-27-regular-r04-es-elche-es-real-sociedad 2-3 FT
+  - ✓ fixture laliga-2026-27-regular-r05-es-sevilla-es-valencia added
+  - ✓ result laliga-2026-27-regular-r05-es-sevilla-es-valencia 1-0 FT
+  - ✓ fixture laliga-2026-27-regular-r05-es-racing-santander-es-alaves added
+  - ✓ result laliga-2026-27-regular-r05-es-racing-santander-es-alaves 2-1 FT
+  - ✓ fixture laliga-2026-27-regular-r05-es-osasuna-es-espanyol added
+  - ✓ result laliga-2026-27-regular-r05-es-osasuna-es-espanyol 0-2 FT
+  - ✓ fixture laliga-2026-27-regular-r05-es-athletic-club-es-elche added
+  - ✓ result laliga-2026-27-regular-r05-es-athletic-club-es-elche 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r05-es-real-madrid-es-rayo-vallecano added
+  - ✓ result laliga-2026-27-regular-r05-es-real-madrid-es-rayo-vallecano 4-1 FT
+  - ✓ fixture laliga-2026-27-regular-r05-es-celta-vigo-es-malaga added
+  - ✓ result laliga-2026-27-regular-r05-es-celta-vigo-es-malaga 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r05-es-levante-es-barcelona added
+  - ✓ result laliga-2026-27-regular-r05-es-levante-es-barcelona 2-4 FT
+  - ✓ fixture laliga-2026-27-regular-r05-es-getafe-es-deportivo-la-coruna added
+  - ✓ result laliga-2026-27-regular-r05-es-getafe-es-deportivo-la-coruna 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r05-es-real-sociedad-es-atletico-madrid added
+  - ✓ result laliga-2026-27-regular-r05-es-real-sociedad-es-atletico-madrid 0-3 FT
+  - ✓ fixture laliga-2026-27-regular-r05-es-villarreal-es-real-betis added
+  - ✓ result laliga-2026-27-regular-r05-es-villarreal-es-real-betis 1-2 FT
+  - ✓ fixture laliga-2026-27-regular-r06-es-real-sociedad-es-celta-vigo added
+  - ✓ result laliga-2026-27-regular-r06-es-real-sociedad-es-celta-vigo 0-0 FT
+  - ✓ fixture laliga-2026-27-regular-r06-es-rayo-vallecano-es-espanyol added
+  - ✓ result laliga-2026-27-regular-r06-es-rayo-vallecano-es-espanyol 2-1 FT
+  - ✓ fixture laliga-2026-27-regular-r06-es-alaves-es-valencia added
+  - ✓ result laliga-2026-27-regular-r06-es-alaves-es-valencia 0-1 FT
+  - ✓ fixture laliga-2026-27-regular-r06-es-elche-es-real-madrid added
+  - ✓ result laliga-2026-27-regular-r06-es-elche-es-real-madrid 2-3 FT
+  - ✓ fixture laliga-2026-27-regular-r06-es-atletico-madrid-es-osasuna added
+  - ✓ result laliga-2026-27-regular-r06-es-atletico-madrid-es-osasuna 4-0 FT
+  - ✓ fixture laliga-2026-27-regular-r06-es-deportivo-la-coruna-es-sevilla added
+  - ✓ result laliga-2026-27-regular-r06-es-deportivo-la-coruna-es-sevilla 0-1 FT
+  - ✓ fixture laliga-2026-27-regular-r06-es-barcelona-es-racing-santander added
+  - ✓ result laliga-2026-27-regular-r06-es-barcelona-es-racing-santander 7-2 FT
+  - ✓ fixture laliga-2026-27-regular-r06-es-real-betis-es-getafe added
+  - ✓ result laliga-2026-27-regular-r06-es-real-betis-es-getafe 1-0 FT
+  - ✓ fixture laliga-2026-27-regular-r06-es-malaga-es-villarreal added
+  - ✓ result laliga-2026-27-regular-r06-es-malaga-es-villarreal 1-3 FT
+  - ✓ fixture laliga-2026-27-regular-r06-es-levante-es-athletic-club added
+  - ✓ result laliga-2026-27-regular-r06-es-levante-es-athletic-club 3-1 FT
+  - ✓ fixture laliga-2026-27-regular-r07-es-espanyol-es-elche added
+  - ✓ result laliga-2026-27-regular-r07-es-espanyol-es-elche 1-3 FT
+  - ✓ fixture laliga-2026-27-regular-r07-es-osasuna-es-rayo-vallecano added
+  - ✓ result laliga-2026-27-regular-r07-es-osasuna-es-rayo-vallecano 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r07-es-athletic-club-es-alaves added
+  - ✓ result laliga-2026-27-regular-r07-es-athletic-club-es-alaves 0-0 FT
+  - ✓ fixture laliga-2026-27-regular-r07-es-celta-vigo-es-racing-santander added
+  - ✓ result laliga-2026-27-regular-r07-es-celta-vigo-es-racing-santander 5-0 FT
+  - ✓ fixture laliga-2026-27-regular-r07-es-sevilla-es-barcelona added
+  - ✓ result laliga-2026-27-regular-r07-es-sevilla-es-barcelona 1-3 FT
+  - ✓ fixture laliga-2026-27-regular-r07-es-getafe-es-malaga added
+  - ✓ result laliga-2026-27-regular-r07-es-getafe-es-malaga 1-0 FT
+  - ✓ fixture laliga-2026-27-regular-r07-es-atletico-madrid-es-real-madrid added
+  - ✓ result laliga-2026-27-regular-r07-es-atletico-madrid-es-real-madrid 2-1 FT
+  - ✓ fixture laliga-2026-27-regular-r07-es-deportivo-la-coruna-es-real-betis added
+  - ✓ result laliga-2026-27-regular-r07-es-deportivo-la-coruna-es-real-betis 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r07-es-villarreal-es-levante added
+  - ✓ result laliga-2026-27-regular-r07-es-villarreal-es-levante 3-1 FT
+  - ✓ fixture laliga-2026-27-regular-r07-es-valencia-es-real-sociedad added
+  - ✓ result laliga-2026-27-regular-r07-es-valencia-es-real-sociedad 2-3 FT
+  - ✓ fixture laliga-2026-27-regular-r08-es-malaga-es-espanyol added
+  - ✓ result laliga-2026-27-regular-r08-es-malaga-es-espanyol 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club added
+  - ✓ status laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club ABD
+  - ✓ fixture laliga-2026-27-regular-r08-es-alaves-es-atletico-madrid added
+  - ✓ result laliga-2026-27-regular-r08-es-alaves-es-atletico-madrid 1-2 FT
+  - ✓ fixture laliga-2026-27-regular-r08-es-barcelona-es-getafe added
+  - ✓ result laliga-2026-27-regular-r08-es-barcelona-es-getafe 3-0 FT
+  - ✓ fixture laliga-2026-27-regular-r08-es-real-madrid-es-villarreal added
+  - ✓ result laliga-2026-27-regular-r08-es-real-madrid-es-villarreal 1-0 FT
+  - ✓ fixture laliga-2026-27-regular-r08-es-elche-es-celta-vigo added
+  - ✓ result laliga-2026-27-regular-r08-es-elche-es-celta-vigo 0-0 FT
+  - ✓ fixture laliga-2026-27-regular-r08-es-real-sociedad-es-deportivo-la-coruna added
+  - ✓ result laliga-2026-27-regular-r08-es-real-sociedad-es-deportivo-la-coruna 3-2 FT
+  - ✓ fixture laliga-2026-27-regular-r08-es-real-betis-es-osasuna added
+  - ✓ result laliga-2026-27-regular-r08-es-real-betis-es-osasuna 5-2 FT
+  - ✓ fixture laliga-2026-27-regular-r08-es-racing-santander-es-valencia added
+  - ✓ result laliga-2026-27-regular-r08-es-racing-santander-es-valencia 2-2 FT
+  - ✓ fixture laliga-2026-27-regular-r08-es-levante-es-sevilla added
+  - ✓ result laliga-2026-27-regular-r08-es-levante-es-sevilla 3-3 FT
+  - ✓ fixture laliga-2026-27-regular-r09-es-deportivo-la-coruna-es-levante added
+  - ✓ result laliga-2026-27-regular-r09-es-deportivo-la-coruna-es-levante 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r09-es-espanyol-es-atletico-madrid added
+  - ✓ result laliga-2026-27-regular-r09-es-espanyol-es-atletico-madrid 0-1 FT
+  - ✓ fixture laliga-2026-27-regular-r09-es-villarreal-es-elche added
+  - ✓ result laliga-2026-27-regular-r09-es-villarreal-es-elche 0-0 FT
+  - ✓ fixture laliga-2026-27-regular-r09-es-real-betis-es-barcelona added
+  - ✓ result laliga-2026-27-regular-r09-es-real-betis-es-barcelona 2-5 FT
+  - ✓ fixture laliga-2026-27-regular-r09-es-valencia-es-athletic-club added
+  - ✓ result laliga-2026-27-regular-r09-es-valencia-es-athletic-club 0-0 FT
+  - ✓ fixture laliga-2026-27-regular-r09-es-osasuna-es-racing-santander added
+  - ✓ result laliga-2026-27-regular-r09-es-osasuna-es-racing-santander 2-0 FT
+  - ✓ fixture laliga-2026-27-regular-r09-es-celta-vigo-es-alaves added
+  - ✓ result laliga-2026-27-regular-r09-es-celta-vigo-es-alaves 2-1 FT
+  - ✓ fixture laliga-2026-27-regular-r09-es-malaga-es-real-sociedad added
+  - ✓ result laliga-2026-27-regular-r09-es-malaga-es-real-sociedad 2-5 FT
+  - ✓ fixture laliga-2026-27-regular-r09-es-real-madrid-es-sevilla added
+  - ✓ result laliga-2026-27-regular-r09-es-real-madrid-es-sevilla 4-1 FT
+  - ✓ fixture laliga-2026-27-regular-r09-es-getafe-es-rayo-vallecano added
+  - ✓ result laliga-2026-27-regular-r09-es-getafe-es-rayo-vallecano 1-1 FT
+  - ✓ fixture laliga-2026-27-regular-r10-es-alaves-es-malaga added
+  - ✓ fixture laliga-2026-27-regular-r10-es-rayo-vallecano-es-elche added
+  - ✓ fixture laliga-2026-27-regular-r10-es-racing-santander-es-espanyol added
+  - ✓ fixture laliga-2026-27-regular-r10-es-valencia-es-villarreal added
+  - ✓ fixture laliga-2026-27-regular-r10-es-atletico-madrid-es-deportivo-la-coruna added
+  - ✓ fixture laliga-2026-27-regular-r10-es-athletic-club-es-getafe added
+  - ✓ fixture laliga-2026-27-regular-r10-es-celta-vigo-es-real-betis added
+  - ✓ fixture laliga-2026-27-regular-r10-es-real-sociedad-es-levante added
+  - ✓ fixture laliga-2026-27-regular-r10-es-barcelona-es-real-madrid added
+  - ✓ fixture laliga-2026-27-regular-r10-es-sevilla-es-osasuna added
+  - ✓ fixture laliga-2026-27-regular-r11-es-villarreal-es-espanyol added
+  - ✓ fixture laliga-2026-27-regular-r11-es-levante-es-atletico-madrid added
+  - ✓ fixture laliga-2026-27-regular-r11-es-rayo-vallecano-es-celta-vigo added
+  - ✓ fixture laliga-2026-27-regular-r11-es-real-betis-es-malaga added
+  - ✓ fixture laliga-2026-27-regular-r11-es-barcelona-es-alaves added
+  - ✓ fixture laliga-2026-27-regular-r11-es-getafe-es-sevilla added
+  - ✓ fixture laliga-2026-27-regular-r11-es-racing-santander-es-real-madrid added
+  - ✓ fixture laliga-2026-27-regular-r11-es-elche-es-valencia added
+  - ✓ fixture laliga-2026-27-regular-r11-es-athletic-club-es-real-sociedad added
+  - ✓ fixture laliga-2026-27-regular-r11-es-deportivo-la-coruna-es-osasuna added
+  - ✓ fixture laliga-2026-27-regular-r12-es-sevilla-es-alaves added
+  - ✓ fixture laliga-2026-27-regular-r12-es-malaga-es-racing-santander added
+  - ✓ fixture laliga-2026-27-regular-r12-es-espanyol-es-deportivo-la-coruna added
+  - ✓ fixture laliga-2026-27-regular-r12-es-osasuna-es-athletic-club added
+  - ✓ fixture laliga-2026-27-regular-r12-es-valencia-es-real-madrid added
+  - ✓ fixture laliga-2026-27-regular-r12-es-elche-es-real-betis added
+  - ✓ fixture laliga-2026-27-regular-r12-es-real-sociedad-es-rayo-vallecano added
+  - ✓ fixture laliga-2026-27-regular-r12-es-celta-vigo-es-levante added
+  - ✓ fixture laliga-2026-27-regular-r12-es-villarreal-es-getafe added
+  - ✓ fixture laliga-2026-27-regular-r12-es-atletico-madrid-es-barcelona added
+  - ✓ fixture laliga-2026-27-regular-r13-es-athletic-club-es-espanyol added
+  - ✓ fixture laliga-2026-27-regular-r13-es-alaves-es-deportivo-la-coruna added
+  - ✓ fixture laliga-2026-27-regular-r13-es-rayo-vallecano-es-valencia added
+  - ✓ fixture laliga-2026-27-regular-r13-es-sevilla-es-real-betis added
+  - ✓ fixture laliga-2026-27-regular-r13-es-real-madrid-es-celta-vigo added
+  - ✓ fixture laliga-2026-27-regular-r13-es-barcelona-es-villarreal added
+  - ✓ fixture laliga-2026-27-regular-r13-es-racing-santander-es-real-sociedad added
+  - ✓ fixture laliga-2026-27-regular-r13-es-osasuna-es-malaga added
+  - ✓ fixture laliga-2026-27-regular-r13-es-getafe-es-atletico-madrid added
+  - ✓ fixture laliga-2026-27-regular-r13-es-levante-es-elche added
+  - ✓ fixture laliga-2026-27-regular-r14-es-real-betis-es-rayo-vallecano added
+  - ✓ fixture laliga-2026-27-regular-r14-es-celta-vigo-es-villarreal added
+  - ✓ fixture laliga-2026-27-regular-r14-es-deportivo-la-coruna-es-barcelona added
+  - ✓ fixture laliga-2026-27-regular-r14-es-elche-es-atletico-madrid added
+  - ✓ fixture laliga-2026-27-regular-r14-es-espanyol-es-getafe added
+  - ✓ fixture laliga-2026-27-regular-r14-es-levante-es-racing-santander added
+  - ✓ fixture laliga-2026-27-regular-r14-es-malaga-es-athletic-club added
+  - ✓ fixture laliga-2026-27-regular-r14-es-real-madrid-es-alaves added
+  - ✓ fixture laliga-2026-27-regular-r14-es-real-sociedad-es-sevilla added
+  - ✓ fixture laliga-2026-27-regular-r14-es-valencia-es-osasuna added
+  - ✓ table-check epl overall reference table epl overall (20 rows)
+  - ✓ table-check laliga overall reference table laliga overall (20 rows)
+
+## 2026-10-23 (2026-10-23T09:14:54Z)
+- 487 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ fixture ucl-2026-27-league-phase-r01-gr-aek-athens-at-lask added
+  - ✓ fixture ucl-2026-27-league-phase-r01-be-club-brugge-gb-eng-aston-villa added
+  - ✓ fixture ucl-2026-27-league-phase-r01-de-borussia-dortmund-es-villarreal added
+  - ✓ fixture ucl-2026-27-league-phase-r01-pt-porto-gb-eng-manchester-city added
+  - ✓ fixture ucl-2026-27-league-phase-r01-fr-lille-es-real-betis added
+  - ✓ fixture ucl-2026-27-league-phase-r01-es-real-madrid-it-inter-milan added
+  - ✓ fixture ucl-2026-27-league-phase-r01-es-barcelona-nl-feyenoord added
+  - ✓ fixture ucl-2026-27-league-phase-r01-de-vfb-stuttgart-no-viking added
+  - ✓ fixture ucl-2026-27-league-phase-r01-gb-eng-liverpool-es-atletico-madrid added
+  - ✓ fixture ucl-2026-27-league-phase-r01-it-napoli-gb-eng-arsenal added
+  - ✓ fixture ucl-2026-27-league-phase-r01-fr-paris-saint-germain-sk-slovan-bratislava added
+  - ✓ fixture ucl-2026-27-league-phase-r01-pt-sporting-cp-tr-galatasaray added
+  - ✓ fixture ucl-2026-27-league-phase-r01-tr-fenerbahce-it-roma added
+  - ✓ fixture ucl-2026-27-league-phase-r01-nl-psv-eindhoven-ua-shakhtar-donetsk added
+  - ✓ fixture ucl-2026-27-league-phase-r01-de-bayern-munich-no-bod-glimt added
+  - ✓ fixture ucl-2026-27-league-phase-r01-it-como-de-rb-leipzig added
+  - ✓ fixture ucl-2026-27-league-phase-r01-gb-eng-manchester-united-az-sabah added
+  - ✓ fixture ucl-2026-27-league-phase-r01-cz-slavia-prague-fr-lens added
+  - ✓ fixture ucl-2026-27-league-phase-r02-fr-lens-pt-sporting-cp added
+  - ✓ fixture ucl-2026-27-league-phase-r02-az-sabah-cz-slavia-prague added
+  - ✓ fixture ucl-2026-27-league-phase-r02-gb-eng-arsenal-fr-lille added
+  - ✓ fixture ucl-2026-27-league-phase-r02-es-atletico-madrid-gb-eng-manchester-united added
+  - ✓ fixture ucl-2026-27-league-phase-r02-tr-galatasaray-es-barcelona added
+  - ✓ fixture ucl-2026-27-league-phase-r02-it-inter-milan-be-club-brugge added
+  - ✓ fixture ucl-2026-27-league-phase-r02-de-rb-leipzig-nl-psv-eindhoven added
+  - ✓ fixture ucl-2026-27-league-phase-r02-no-viking-de-bayern-munich added
+  - ✓ fixture ucl-2026-27-league-phase-r02-es-villarreal-it-napoli added
+  - ✓ fixture ucl-2026-27-league-phase-r02-nl-feyenoord-it-como added
+  - ✓ fixture ucl-2026-27-league-phase-r02-at-lask-gb-eng-liverpool added
+  - ✓ fixture ucl-2026-27-league-phase-r02-it-roma-es-real-madrid added
+  - ✓ fixture ucl-2026-27-league-phase-r02-gb-eng-aston-villa-tr-fenerbahce added
+  - ✓ fixture ucl-2026-27-league-phase-r02-no-bod-glimt-de-borussia-dortmund added
+  - ✓ fixture ucl-2026-27-league-phase-r02-gb-eng-manchester-city-fr-paris-saint-germain added
+  - ✓ fixture ucl-2026-27-league-phase-r02-es-real-betis-pt-porto added
+  - ✓ fixture ucl-2026-27-league-phase-r02-ua-shakhtar-donetsk-gr-aek-athens added
+  - ✓ fixture ucl-2026-27-league-phase-r02-sk-slovan-bratislava-de-vfb-stuttgart added
+  - ✓ fixture ucl-2026-27-league-phase-r03-tr-fenerbahce-cz-slavia-prague added
+  - ✓ fixture ucl-2026-27-league-phase-r03-az-sabah-de-borussia-dortmund added
+  - ✓ fixture ucl-2026-27-league-phase-r03-it-roma-sk-slovan-bratislava added
+  - ✓ fixture ucl-2026-27-league-phase-r03-pt-porto-nl-psv-eindhoven added
+  - ✓ fixture ucl-2026-27-league-phase-r03-gb-eng-liverpool-es-villarreal added
+  - ✓ fixture ucl-2026-27-league-phase-r03-gb-eng-manchester-city-gr-aek-athens added
+  - ✓ fixture ucl-2026-27-league-phase-r03-it-napoli-no-bod-glimt added
+  - ✓ fixture ucl-2026-27-league-phase-r03-fr-paris-saint-germain-es-barcelona added
+  - ✓ fixture ucl-2026-27-league-phase-r03-de-vfb-stuttgart-es-atletico-madrid added
+  - ✓ fixture ucl-2026-27-league-phase-r03-it-como-gb-eng-manchester-united added
+  - ✓ fixture ucl-2026-27-league-phase-r03-fr-lille-tr-galatasaray added
+  - ✓ fixture ucl-2026-27-league-phase-r03-gb-eng-aston-villa-no-viking added
+  - ✓ fixture ucl-2026-27-league-phase-r03-de-bayern-munich-gb-eng-arsenal added
+  - ✓ fixture ucl-2026-27-league-phase-r03-be-club-brugge-fr-lens added
+  - ✓ fixture ucl-2026-27-league-phase-r03-it-inter-milan-ua-shakhtar-donetsk added
+  - ✓ fixture ucl-2026-27-league-phase-r03-es-real-betis-nl-feyenoord added
+  - ✓ fixture ucl-2026-27-league-phase-r03-es-real-madrid-de-rb-leipzig added
+  - ✓ fixture ucl-2026-27-league-phase-r03-pt-sporting-cp-at-lask added
+  - ✓ fixture ucl-2026-27-league-phase-r04-tr-galatasaray-de-vfb-stuttgart added
+  - ✓ fixture ucl-2026-27-league-phase-r04-ua-shakhtar-donetsk-pt-sporting-cp added
+  - ✓ fixture ucl-2026-27-league-phase-r04-es-atletico-madrid-de-bayern-munich added
+  - ✓ fixture ucl-2026-27-league-phase-r04-es-barcelona-gb-eng-aston-villa added
+  - ✓ fixture ucl-2026-27-league-phase-r04-no-bod-glimt-fr-lille added
+  - ✓ fixture ucl-2026-27-league-phase-r04-nl-feyenoord-it-inter-milan added
+  - ✓ fixture ucl-2026-27-league-phase-r04-at-lask-sk-slovan-bratislava added
+  - ✓ fixture ucl-2026-27-league-phase-r04-gb-eng-manchester-united-it-roma added
+  - ✓ fixture ucl-2026-27-league-phase-r04-es-villarreal-fr-paris-saint-germain added
+  - ✓ fixture ucl-2026-27-league-phase-r04-gr-aek-athens-es-real-madrid added
+  - ✓ fixture ucl-2026-27-league-phase-r04-tr-fenerbahce-gb-eng-liverpool added
+  - ✓ fixture ucl-2026-27-league-phase-r04-de-borussia-dortmund-es-real-betis added
+  - ✓ fixture ucl-2026-27-league-phase-r04-pt-porto-it-napoli added
+  - ✓ fixture ucl-2026-27-league-phase-r04-fr-lens-it-como added
+  - ✓ fixture ucl-2026-27-league-phase-r04-nl-psv-eindhoven-be-club-brugge added
+  - ✓ fixture ucl-2026-27-league-phase-r04-de-rb-leipzig-gb-eng-manchester-city added
+  - ✓ fixture ucl-2026-27-league-phase-r04-cz-slavia-prague-gb-eng-arsenal added
+  - ✓ fixture ucl-2026-27-league-phase-r04-no-viking-az-sabah added
+  - ✓ fixture ucl-2026-27-league-phase-r05-no-bod-glimt-at-lask added
+  - ✓ fixture ucl-2026-27-league-phase-r05-tr-galatasaray-gb-eng-aston-villa added
+  - ✓ fixture ucl-2026-27-league-phase-r05-gb-eng-arsenal-de-borussia-dortmund added
+  - ✓ fixture ucl-2026-27-league-phase-r05-it-como-gr-aek-athens added
+  - ✓ fixture ucl-2026-27-league-phase-r05-nl-feyenoord-pt-porto added
+  - ✓ fixture ucl-2026-27-league-phase-r05-gb-eng-manchester-city-it-napoli added
+  - ✓ fixture ucl-2026-27-league-phase-r05-de-rb-leipzig-fr-lens added
+  - ✓ fixture ucl-2026-27-league-phase-r05-es-real-madrid-nl-psv-eindhoven added
+  - ✓ fixture ucl-2026-27-league-phase-r05-sk-slovan-bratislava-es-real-betis added
+  - ✓ fixture ucl-2026-27-league-phase-r05-az-sabah-es-barcelona added
+  - ✓ fixture ucl-2026-27-league-phase-r05-cz-slavia-prague-es-villarreal added
+  - ✓ fixture ucl-2026-27-league-phase-r05-es-atletico-madrid-no-viking added
+  - ✓ fixture ucl-2026-27-league-phase-r05-be-club-brugge-gb-eng-liverpool added
+  - ✓ fixture ucl-2026-27-league-phase-r05-it-inter-milan-de-vfb-stuttgart added
+  - ✓ fixture ucl-2026-27-league-phase-r05-fr-lille-de-bayern-munich added
+  - ✓ fixture ucl-2026-27-league-phase-r05-fr-paris-saint-germain-it-roma added
+  - ✓ fixture ucl-2026-27-league-phase-r05-ua-shakhtar-donetsk-tr-fenerbahce added
+  - ✓ fixture ucl-2026-27-league-phase-r05-pt-sporting-cp-gb-eng-manchester-united added
+  - ✓ fixture ucl-2026-27-league-phase-r06-no-viking-nl-feyenoord added
+  - ✓ fixture ucl-2026-27-league-phase-r06-es-villarreal-az-sabah added
+  - ✓ fixture ucl-2026-27-league-phase-r06-gr-aek-athens-tr-galatasaray added
+  - ✓ fixture ucl-2026-27-league-phase-r06-it-roma-pt-sporting-cp added
+  - ✓ fixture ucl-2026-27-league-phase-r06-gb-eng-aston-villa-fr-paris-saint-germain added
+  - ✓ fixture ucl-2026-27-league-phase-r06-es-barcelona-gb-eng-manchester-city added
+  - ✓ fixture ucl-2026-27-league-phase-r06-de-bayern-munich-cz-slavia-prague added
+  - ✓ fixture ucl-2026-27-league-phase-r06-gb-eng-manchester-united-de-rb-leipzig added
+  - ✓ fixture ucl-2026-27-league-phase-r06-it-napoli-be-club-brugge added
+  - ✓ fixture ucl-2026-27-league-phase-r06-es-real-betis-it-como added
+  - ✓ fixture ucl-2026-27-league-phase-r06-sk-slovan-bratislava-ua-shakhtar-donetsk added
+  - ✓ fixture ucl-2026-27-league-phase-r06-gb-eng-arsenal-es-real-madrid added
+  - ✓ fixture ucl-2026-27-league-phase-r06-de-borussia-dortmund-it-inter-milan added
+  - ✓ fixture ucl-2026-27-league-phase-r06-at-lask-tr-fenerbahce added
+  - ✓ fixture ucl-2026-27-league-phase-r06-fr-lens-no-bod-glimt added
+  - ✓ fixture ucl-2026-27-league-phase-r06-gb-eng-liverpool-pt-porto added
+  - ✓ fixture ucl-2026-27-league-phase-r06-nl-psv-eindhoven-es-atletico-madrid added
+  - ✓ fixture ucl-2026-27-league-phase-r06-de-vfb-stuttgart-fr-lille added
+  - ✓ fixture ucl-2026-27-league-phase-r07-no-bod-glimt-es-atletico-madrid added
+  - ✓ fixture ucl-2026-27-league-phase-r07-tr-galatasaray-nl-feyenoord added
+  - ✓ fixture ucl-2026-27-league-phase-r07-gr-aek-athens-it-roma added
+  - ✓ fixture ucl-2026-27-league-phase-r07-gb-eng-aston-villa-de-borussia-dortmund added
+  - ✓ fixture ucl-2026-27-league-phase-r07-pt-porto-cz-slavia-prague added
+  - ✓ fixture ucl-2026-27-league-phase-r07-it-inter-milan-gb-eng-liverpool added
+  - ✓ fixture ucl-2026-27-league-phase-r07-fr-lille-sk-slovan-bratislava added
+  - ✓ fixture ucl-2026-27-league-phase-r07-es-real-madrid-at-lask added
+  - ✓ fixture ucl-2026-27-league-phase-r07-de-vfb-stuttgart-be-club-brugge added
+  - ✓ fixture ucl-2026-27-league-phase-r07-tr-fenerbahce-es-villarreal added
+  - ✓ fixture ucl-2026-27-league-phase-r07-az-sabah-it-napoli added
+  - ✓ fixture ucl-2026-27-league-phase-r07-it-como-fr-paris-saint-germain added
+  - ✓ fixture ucl-2026-27-league-phase-r07-fr-lens-gb-eng-manchester-city added
+  - ✓ fixture ucl-2026-27-league-phase-r07-gb-eng-manchester-united-de-bayern-munich added
+  - ✓ fixture ucl-2026-27-league-phase-r07-de-rb-leipzig-ua-shakhtar-donetsk added
+  - ✓ fixture ucl-2026-27-league-phase-r07-es-real-betis-gb-eng-arsenal added
+  - ✓ fixture ucl-2026-27-league-phase-r07-pt-sporting-cp-es-barcelona added
+  - ✓ fixture ucl-2026-27-league-phase-r07-no-viking-nl-psv-eindhoven added
+  - ✓ fixture ucl-2026-27-league-phase-r08-gb-eng-arsenal-az-sabah added
+  - ✓ fixture ucl-2026-27-league-phase-r08-it-roma-fr-lille added
+  - ✓ fixture ucl-2026-27-league-phase-r08-es-atletico-madrid-tr-fenerbahce added
+  - ✓ fixture ucl-2026-27-league-phase-r08-es-barcelona-it-como added
+  - ✓ fixture ucl-2026-27-league-phase-r08-de-bayern-munich-es-real-betis added
+  - ✓ fixture ucl-2026-27-league-phase-r08-de-borussia-dortmund-gr-aek-athens added
+  - ✓ fixture ucl-2026-27-league-phase-r08-be-club-brugge-no-bod-glimt added
+  - ✓ fixture ucl-2026-27-league-phase-r08-nl-feyenoord-de-rb-leipzig added
+  - ✓ fixture ucl-2026-27-league-phase-r08-at-lask-pt-porto added
+  - ✓ fixture ucl-2026-27-league-phase-r08-gb-eng-liverpool-fr-lens added
+  - ✓ fixture ucl-2026-27-league-phase-r08-gb-eng-manchester-city-pt-sporting-cp added
+  - ✓ fixture ucl-2026-27-league-phase-r08-it-napoli-no-viking added
+  - ✓ fixture ucl-2026-27-league-phase-r08-fr-paris-saint-germain-tr-galatasaray added
+  - ✓ fixture ucl-2026-27-league-phase-r08-nl-psv-eindhoven-de-vfb-stuttgart added
+  - ✓ fixture ucl-2026-27-league-phase-r08-ua-shakhtar-donetsk-es-real-madrid added
+  - ✓ fixture ucl-2026-27-league-phase-r08-cz-slavia-prague-gb-eng-aston-villa added
+  - ✓ fixture ucl-2026-27-league-phase-r08-sk-slovan-bratislava-it-inter-milan added
+  - ✓ fixture ucl-2026-27-league-phase-r08-es-villarreal-gb-eng-manchester-united added
+  - ✓ fixture acle-2026-27-league-west-gwest-r01-uz-neftchi-fergana-iq-al-quwa-al-jawiya added
+  - ✓ fixture acle-2026-27-league-west-gwest-r01-qa-al-shamal-sa-al-ittihad added
+  - ✓ fixture acle-2026-27-league-west-gwest-r01-ae-shabab-al-ahli-ir-tractor added
+  - ✓ fixture acle-2026-27-league-west-gwest-r01-sa-al-ahli-saudi-uz-pakhtakor added
+  - ✓ fixture acle-2026-27-league-west-gwest-r01-sa-al-qadsiah-ae-al-wasl added
+  - ✓ fixture acle-2026-27-league-west-gwest-r01-ir-esteghlal-qa-al-sadd added
+  - ✓ fixture acle-2026-27-league-west-gwest-r01-ae-al-ain-sa-al-nassr added
+  - ✓ fixture acle-2026-27-league-west-gwest-r01-sa-al-hilal-qa-al-gharafa added
+  - ✓ fixture acle-2026-27-league-east-geast-r01-kr-daejeon-hana-citizen-jp-kyoto-sanga added
+  - ✓ fixture acle-2026-27-league-east-geast-r01-jp-gamba-osaka-vn-cong-an-ha-noi added
+  - ✓ fixture acle-2026-27-league-east-geast-r01-jp-kashima-antlers-au-newcastle-jets added
+  - ✓ fixture acle-2026-27-league-east-geast-r01-th-ratchaburi-cn-shanghai-port added
+  - ✓ fixture acle-2026-27-league-east-geast-r01-cn-beijing-guoan-kr-pohang-steelers added
+  - ✓ fixture acle-2026-27-league-east-geast-r01-my-johor-darul-ta-zim-th-buriram-united added
+  - ✓ fixture acle-2026-27-league-east-geast-r01-kr-jeonbuk-hyundai-motors-jp-kashiwa-reysol added
+  - ✓ fixture acle-2026-27-league-east-geast-r01-th-port-fc-jp-vissel-kobe added
+  - ✓ fixture acle-2026-27-league-west-gwest-r02-uz-pakhtakor-sa-al-qadsiah added
+  - ✓ fixture acle-2026-27-league-west-gwest-r02-ae-al-wasl-sa-al-ahli-saudi added
+  - ✓ fixture acle-2026-27-league-west-gwest-r02-ir-tractor-qa-al-shamal added
+  - ✓ fixture acle-2026-27-league-west-gwest-r02-iq-al-quwa-al-jawiya-ae-al-ain added
+  - ✓ fixture acle-2026-27-league-west-gwest-r02-qa-al-gharafa-ir-esteghlal added
+  - ✓ fixture acle-2026-27-league-west-gwest-r02-sa-al-nassr-uz-neftchi-fergana added
+  - ✓ fixture acle-2026-27-league-west-gwest-r02-qa-al-sadd-sa-al-hilal added
+  - ✓ fixture acle-2026-27-league-west-gwest-r02-sa-al-ittihad-ae-shabab-al-ahli added
+  - ✓ fixture acle-2026-27-league-east-geast-r02-au-newcastle-jets-jp-gamba-osaka added
+  - ✓ fixture acle-2026-27-league-east-geast-r02-jp-kyoto-sanga-th-ratchaburi added
+  - ✓ fixture acle-2026-27-league-east-geast-r02-kr-pohang-steelers-my-johor-darul-ta-zim added
+  - ✓ fixture acle-2026-27-league-east-geast-r02-cn-shanghai-port-kr-daejeon-hana-citizen added
+  - ✓ fixture acle-2026-27-league-east-geast-r02-th-buriram-united-cn-beijing-guoan added
+  - ✓ fixture acle-2026-27-league-east-geast-r02-vn-cong-an-ha-noi-jp-kashima-antlers added
+  - ✓ fixture acle-2026-27-league-east-geast-r02-jp-kashiwa-reysol-th-port-fc added
+  - ✓ fixture acle-2026-27-league-east-geast-r02-jp-vissel-kobe-kr-jeonbuk-hyundai-motors added
+  - ✓ fixture acle-2026-27-league-west-gwest-r03-uz-neftchi-fergana-sa-al-ittihad added
+  - ✓ fixture acle-2026-27-league-west-gwest-r03-sa-al-ahli-saudi-qa-al-gharafa added
+  - ✓ fixture acle-2026-27-league-west-gwest-r03-ae-al-ain-ir-tractor added
+  - ✓ fixture acle-2026-27-league-west-gwest-r03-iq-al-quwa-al-jawiya-uz-pakhtakor added
+  - ✓ fixture acle-2026-27-league-west-gwest-r03-sa-al-nassr-ae-al-wasl added
+  - ✓ fixture acle-2026-27-league-west-gwest-r03-sa-al-qadsiah-qa-al-sadd added
+  - ✓ fixture acle-2026-27-league-west-gwest-r03-ae-shabab-al-ahli-ir-esteghlal added
+  - ✓ fixture acle-2026-27-league-west-gwest-r03-qa-al-shamal-sa-al-hilal added
+  - ✓ fixture acle-2026-27-league-east-geast-r03-kr-daejeon-hana-citizen-jp-vissel-kobe added
+  - ✓ fixture acle-2026-27-league-east-geast-r03-my-johor-darul-ta-zim-th-port-fc added
+  - ✓ fixture acle-2026-27-league-east-geast-r03-jp-kyoto-sanga-au-newcastle-jets added
+  - ✓ fixture acle-2026-27-league-east-geast-r03-cn-shanghai-port-vn-cong-an-ha-noi added
+  - ✓ fixture acle-2026-27-league-east-geast-r03-cn-beijing-guoan-kr-jeonbuk-hyundai-motors added
+  - ✓ fixture acle-2026-27-league-east-geast-r03-th-ratchaburi-jp-kashiwa-reysol added
+  - ✓ fixture acle-2026-27-league-east-geast-r03-jp-gamba-osaka-th-buriram-united added
+  - ✓ fixture acle-2026-27-league-east-geast-r03-jp-kashima-antlers-kr-pohang-steelers added
+  - ✓ fixture acle-2026-27-league-west-gwest-r04-uz-pakhtakor-sa-al-nassr added
+  - ✓ fixture acle-2026-27-league-west-gwest-r04-qa-al-sadd-sa-al-ahli-saudi added
+  - ✓ fixture acle-2026-27-league-west-gwest-r04-ae-al-wasl-iq-al-quwa-al-jawiya added
+  - ✓ fixture acle-2026-27-league-west-gwest-r04-ir-tractor-uz-neftchi-fergana added
+  - ✓ fixture acle-2026-27-league-west-gwest-r04-qa-al-gharafa-sa-al-qadsiah added
+  - ✓ fixture acle-2026-27-league-west-gwest-r04-sa-al-ittihad-ae-al-ain added
+  - ✓ fixture acle-2026-27-league-west-gwest-r04-ir-esteghlal-qa-al-shamal added
+  - ✓ fixture acle-2026-27-league-west-gwest-r04-sa-al-hilal-ae-shabab-al-ahli added
+  - ✓ fixture acle-2026-27-league-east-geast-r04-au-newcastle-jets-cn-shanghai-port added
+  - ✓ fixture acle-2026-27-league-east-geast-r04-kr-jeonbuk-hyundai-motors-my-johor-darul-ta-zim added
+  - ✓ fixture acle-2026-27-league-east-geast-r04-jp-kashiwa-reysol-kr-daejeon-hana-citizen added
+  - ✓ fixture acle-2026-27-league-east-geast-r04-jp-vissel-kobe-th-ratchaburi added
+  - ✓ fixture acle-2026-27-league-east-geast-r04-vn-cong-an-ha-noi-jp-kyoto-sanga added
+  - ✓ fixture acle-2026-27-league-east-geast-r04-th-port-fc-cn-beijing-guoan added
+  - ✓ fixture acle-2026-27-league-east-geast-r04-kr-pohang-steelers-jp-gamba-osaka added
+  - ✓ fixture acle-2026-27-league-east-geast-r04-th-buriram-united-jp-kashima-antlers added
+  - ✓ fixture acle-2026-27-league-west-gwest-r05-uz-neftchi-fergana-sa-al-hilal added
+  - ✓ fixture acle-2026-27-league-west-gwest-r05-ae-al-ain-ir-esteghlal added
+  - ✓ fixture acle-2026-27-league-west-gwest-r05-qa-al-shamal-sa-al-ahli-saudi added
+  - ✓ fixture acle-2026-27-league-west-gwest-r05-ir-tractor-ae-al-wasl added
+  - ✓ fixture acle-2026-27-league-west-gwest-r05-iq-al-quwa-al-jawiya-qa-al-gharafa added
+  - ✓ fixture acle-2026-27-league-west-gwest-r05-sa-al-ittihad-uz-pakhtakor added
+  - ✓ fixture acle-2026-27-league-west-gwest-r05-ae-shabab-al-ahli-sa-al-qadsiah added
+  - ✓ fixture acle-2026-27-league-west-gwest-r05-sa-al-nassr-qa-al-sadd added
+  - ✓ fixture acle-2026-27-league-east-geast-r05-au-newcastle-jets-jp-kashiwa-reysol added
+  - ✓ fixture acle-2026-27-league-east-geast-r05-kr-daejeon-hana-citizen-cn-beijing-guoan added
+  - ✓ fixture acle-2026-27-league-east-geast-r05-jp-kyoto-sanga-kr-pohang-steelers added
+  - ✓ fixture acle-2026-27-league-east-geast-r05-vn-cong-an-ha-noi-jp-vissel-kobe added
+  - ✓ fixture acle-2026-27-league-east-geast-r05-th-ratchaburi-my-johor-darul-ta-zim added
+  - ✓ fixture acle-2026-27-league-east-geast-r05-cn-shanghai-port-th-buriram-united added
+  - ✓ fixture acle-2026-27-league-east-geast-r05-jp-gamba-osaka-th-port-fc added
+  - ✓ fixture acle-2026-27-league-east-geast-r05-jp-kashima-antlers-kr-jeonbuk-hyundai-motors added
+  - ✓ fixture acle-2026-27-league-east-geast-r06-jp-kashiwa-reysol-vn-cong-an-ha-noi added
+  - ✓ fixture acle-2026-27-league-east-geast-r06-kr-pohang-steelers-cn-shanghai-port added
+  - ✓ fixture acle-2026-27-league-east-geast-r06-jp-vissel-kobe-au-newcastle-jets added
+  - ✓ fixture acle-2026-27-league-east-geast-r06-cn-beijing-guoan-th-ratchaburi added
+  - ✓ fixture acle-2026-27-league-east-geast-r06-th-buriram-united-jp-kyoto-sanga added
+  - ✓ fixture acle-2026-27-league-east-geast-r06-my-johor-darul-ta-zim-kr-daejeon-hana-citizen added
+  - ✓ fixture acle-2026-27-league-east-geast-r06-kr-jeonbuk-hyundai-motors-jp-gamba-osaka added
+  - ✓ fixture acle-2026-27-league-east-geast-r06-th-port-fc-jp-kashima-antlers added
+  - ✓ fixture acle-2026-27-league-west-gwest-r06-uz-pakhtakor-ir-tractor added
+  - ✓ fixture acle-2026-27-league-west-gwest-r06-sa-al-qadsiah-qa-al-shamal added
+  - ✓ fixture acle-2026-27-league-west-gwest-r06-ae-al-wasl-sa-al-ittihad added
+  - ✓ fixture acle-2026-27-league-west-gwest-r06-sa-al-hilal-ae-al-ain added
+  - ✓ fixture acle-2026-27-league-west-gwest-r06-qa-al-sadd-iq-al-quwa-al-jawiya added
+  - ✓ fixture acle-2026-27-league-west-gwest-r06-ir-esteghlal-uz-neftchi-fergana added
+  - ✓ fixture acle-2026-27-league-west-gwest-r06-qa-al-gharafa-sa-al-nassr added
+  - ✓ fixture acle-2026-27-league-west-gwest-r06-sa-al-ahli-saudi-ae-shabab-al-ahli added
+  - ✓ fixture acle-2026-27-league-west-gwest-r07-uz-pakhtakor-ir-esteghlal added
+  - ✓ fixture acle-2026-27-league-west-gwest-r07-ae-al-ain-sa-al-qadsiah added
+  - ✓ fixture acle-2026-27-league-west-gwest-r07-ir-tractor-qa-al-sadd added
+  - ✓ fixture acle-2026-27-league-west-gwest-r07-sa-al-ittihad-qa-al-gharafa added
+  - ✓ fixture acle-2026-27-league-west-gwest-r07-sa-al-nassr-qa-al-shamal added
+  - ✓ fixture acle-2026-27-league-west-gwest-r07-iq-al-quwa-al-jawiya-ae-shabab-al-ahli added
+  - ✓ fixture acle-2026-27-league-west-gwest-r07-uz-neftchi-fergana-sa-al-ahli-saudi added
+  - ✓ fixture acle-2026-27-league-west-gwest-r07-ae-al-wasl-sa-al-hilal added
+  - ✓ fixture acle-2026-27-league-east-geast-r07-au-newcastle-jets-my-johor-darul-ta-zim added
+  - ✓ fixture acle-2026-27-league-east-geast-r07-kr-daejeon-hana-citizen-jp-kashima-antlers added
+  - ✓ fixture acle-2026-27-league-east-geast-r07-jp-kyoto-sanga-kr-jeonbuk-hyundai-motors added
+  - ✓ fixture acle-2026-27-league-east-geast-r07-cn-shanghai-port-th-port-fc added
+  - ✓ fixture acle-2026-27-league-east-geast-r07-vn-cong-an-ha-noi-cn-beijing-guoan added
+  - ✓ fixture acle-2026-27-league-east-geast-r07-th-ratchaburi-jp-gamba-osaka added
+  - ✓ fixture acle-2026-27-league-east-geast-r07-jp-kashiwa-reysol-th-buriram-united added
+  - ✓ fixture acle-2026-27-league-east-geast-r07-jp-vissel-kobe-kr-pohang-steelers added
+  - ✓ fixture acle-2026-27-league-west-gwest-r08-sa-al-ahli-saudi-ae-al-ain added
+  - ✓ fixture acle-2026-27-league-west-gwest-r08-sa-al-hilal-uz-pakhtakor added
+  - ✓ fixture acle-2026-27-league-west-gwest-r08-sa-al-qadsiah-uz-neftchi-fergana added
+  - ✓ fixture acle-2026-27-league-west-gwest-r08-qa-al-sadd-sa-al-ittihad added
+  - ✓ fixture acle-2026-27-league-west-gwest-r08-qa-al-gharafa-ir-tractor added
+  - ✓ fixture acle-2026-27-league-west-gwest-r08-qa-al-shamal-iq-al-quwa-al-jawiya added
+  - ✓ fixture acle-2026-27-league-west-gwest-r08-ir-esteghlal-ae-al-wasl added
+  - ✓ fixture acle-2026-27-league-west-gwest-r08-ae-shabab-al-ahli-sa-al-nassr added
+  - ✓ fixture acle-2026-27-league-east-geast-r08-cn-beijing-guoan-au-newcastle-jets added
+  - ✓ fixture acle-2026-27-league-east-geast-r08-th-buriram-united-jp-vissel-kobe added
+  - ✓ fixture acle-2026-27-league-east-geast-r08-jp-gamba-osaka-kr-daejeon-hana-citizen added
+  - ✓ fixture acle-2026-27-league-east-geast-r08-kr-jeonbuk-hyundai-motors-cn-shanghai-port added
+  - ✓ fixture acle-2026-27-league-east-geast-r08-my-johor-darul-ta-zim-vn-cong-an-ha-noi added
+  - ✓ fixture acle-2026-27-league-east-geast-r08-jp-kashima-antlers-th-ratchaburi added
+  - ✓ fixture acle-2026-27-league-east-geast-r08-kr-pohang-steelers-jp-kashiwa-reysol added
+  - ✓ fixture acle-2026-27-league-east-geast-r08-th-port-fc-jp-kyoto-sanga added
+  - ✓ fixture acl2-2026-27-groups-gb-r01-tm-arkadag-bh-al-muharraq added
+  - ✓ fixture acl2-2026-27-groups-gb-r01-ir-gol-gohar-sirjan-ae-al-jazira added
+  - ✓ fixture acl2-2026-27-groups-ge-r01-kr-fc-seoul-id-persib-bandung added
+  - ✓ fixture acl2-2026-27-groups-ge-r01-vn-the-cong-viettel-au-melbourne-victory added
+  - ✓ fixture acl2-2026-27-groups-gd-r01-jo-al-hussein-in-east-bengal added
+  - ✓ fixture acl2-2026-27-groups-gc-r01-om-al-nahda-sa-al-taawoun added
+  - ✓ fixture acl2-2026-27-groups-ga-r01-ae-al-wahda-kw-kuwait-sc added
+  - ✓ fixture acl2-2026-27-groups-ga-r01-bh-al-khaldiya-uz-nasaf added
+  - ✓ fixture acl2-2026-27-groups-gc-r01-qa-al-rayyan-jo-al-faisaly added
+  - ✓ fixture acl2-2026-27-groups-gd-r01-iq-al-shorta-om-al-seeb added
+  - ✓ fixture acl2-2026-27-groups-gf-r01-au-adelaide-united-hk-tai-po added
+  - ✓ fixture acl2-2026-27-groups-gf-r01-sg-lion-city-sailors-th-bg-pathum-united added
+  - ✓ fixture acl2-2026-27-groups-gg-r01-jp-machida-zelvia-kh-pkr-svay-rieng added
+  - ✓ fixture acl2-2026-27-groups-gh-r01-hk-kitchee-kr-gangwon-fc added
+  - ✓ fixture acl2-2026-27-groups-gh-r01-kh-phnom-penh-crown-my-kuching-city added
+  - ✓ fixture acl2-2026-27-groups-gg-r01-cn-shanghai-shenhua-sg-tampines-rovers added
+  - ✓ fixture acl2-2026-27-groups-gd-r02-in-east-bengal-iq-al-shorta added
+  - ✓ fixture acl2-2026-27-groups-gd-r02-om-al-seeb-jo-al-hussein added
+  - ✓ fixture acl2-2026-27-groups-ge-r02-au-melbourne-victory-kr-fc-seoul added
+  - ✓ fixture acl2-2026-27-groups-ge-r02-id-persib-bandung-vn-the-cong-viettel added
+  - ✓ fixture acl2-2026-27-groups-ga-r02-uz-nasaf-ae-al-wahda added
+  - ✓ fixture acl2-2026-27-groups-gb-r02-bh-al-muharraq-ir-gol-gohar-sirjan added
+  - ✓ fixture acl2-2026-27-groups-gc-r02-sa-al-taawoun-qa-al-rayyan added
+  - ✓ fixture acl2-2026-27-groups-gb-r02-ae-al-jazira-tm-arkadag added
+  - ✓ fixture acl2-2026-27-groups-ga-r02-kw-kuwait-sc-bh-al-khaldiya added
+  - ✓ fixture acl2-2026-27-groups-gc-r02-jo-al-faisaly-om-al-nahda added
+  - ✓ fixture acl2-2026-27-groups-gh-r02-kr-gangwon-fc-kh-phnom-penh-crown added
+  - ✓ fixture acl2-2026-27-groups-gf-r02-hk-tai-po-sg-lion-city-sailors added
+  - ✓ fixture acl2-2026-27-groups-gf-r02-th-bg-pathum-united-au-adelaide-united added
+  - ✓ fixture acl2-2026-27-groups-gg-r02-sg-tampines-rovers-jp-machida-zelvia added
+  - ✓ fixture acl2-2026-27-groups-gh-r02-my-kuching-city-hk-kitchee added
+  - ✓ fixture acl2-2026-27-groups-gg-r02-kh-pkr-svay-rieng-cn-shanghai-shenhua added
+  - ✓ fixture acl2-2026-27-groups-gd-r03-om-al-seeb-in-east-bengal added
+  - ✓ fixture acl2-2026-27-groups-gd-r03-iq-al-shorta-jo-al-hussein added
+  - ✓ fixture acl2-2026-27-groups-ge-r03-id-persib-bandung-au-melbourne-victory added
+  - ✓ fixture acl2-2026-27-groups-ge-r03-vn-the-cong-viettel-kr-fc-seoul added
+  - ✓ fixture acl2-2026-27-groups-ga-r03-uz-nasaf-kw-kuwait-sc added
+  - ✓ fixture acl2-2026-27-groups-gb-r03-ir-gol-gohar-sirjan-tm-arkadag added
+  - ✓ fixture acl2-2026-27-groups-gb-r03-ae-al-jazira-bh-al-muharraq added
+  - ✓ fixture acl2-2026-27-groups-gc-r03-om-al-nahda-qa-al-rayyan added
+  - ✓ fixture acl2-2026-27-groups-gc-r03-jo-al-faisaly-sa-al-taawoun added
+  - ✓ fixture acl2-2026-27-groups-ga-r03-bh-al-khaldiya-ae-al-wahda added
+  - ✓ fixture acl2-2026-27-groups-gf-r03-au-adelaide-united-sg-lion-city-sailors added
+  - ✓ fixture acl2-2026-27-groups-gh-r03-kr-gangwon-fc-my-kuching-city added
+  - ✓ fixture acl2-2026-27-groups-gg-r03-sg-tampines-rovers-kh-pkr-svay-rieng added
+  - ✓ fixture acl2-2026-27-groups-gh-r03-kh-phnom-penh-crown-hk-kitchee added
+  - ✓ fixture acl2-2026-27-groups-gg-r03-cn-shanghai-shenhua-jp-machida-zelvia added
+  - ✓ fixture acl2-2026-27-groups-gf-r03-hk-tai-po-th-bg-pathum-united added
+  - ✓ fixture acl2-2026-27-groups-gd-r04-in-east-bengal-om-al-seeb added
+  - ✓ fixture acl2-2026-27-groups-gd-r04-jo-al-hussein-iq-al-shorta added
+  - ✓ fixture acl2-2026-27-groups-ge-r04-au-melbourne-victory-id-persib-bandung added
+  - ✓ fixture acl2-2026-27-groups-ge-r04-kr-fc-seoul-vn-the-cong-viettel added
+  - ✓ fixture acl2-2026-27-groups-gb-r04-tm-arkadag-ir-gol-gohar-sirjan added
+  - ✓ fixture acl2-2026-27-groups-ga-r04-ae-al-wahda-bh-al-khaldiya added
+  - ✓ fixture acl2-2026-27-groups-gc-r04-qa-al-rayyan-om-al-nahda added
+  - ✓ fixture acl2-2026-27-groups-ga-r04-kw-kuwait-sc-uz-nasaf added
+  - ✓ fixture acl2-2026-27-groups-gc-r04-sa-al-taawoun-jo-al-faisaly added
+  - ✓ fixture acl2-2026-27-groups-gb-r04-bh-al-muharraq-ae-al-jazira added
+  - ✓ fixture acl2-2026-27-groups-gh-r04-hk-kitchee-kh-phnom-penh-crown added
+  - ✓ fixture acl2-2026-27-groups-gf-r04-sg-lion-city-sailors-au-adelaide-united added
+  - ✓ fixture acl2-2026-27-groups-gg-r04-jp-machida-zelvia-cn-shanghai-shenhua added
+  - ✓ fixture acl2-2026-27-groups-gf-r04-th-bg-pathum-united-hk-tai-po added
+  - ✓ fixture acl2-2026-27-groups-gh-r04-my-kuching-city-kr-gangwon-fc added
+  - ✓ fixture acl2-2026-27-groups-gg-r04-kh-pkr-svay-rieng-sg-tampines-rovers added
+  - ✓ fixture acl2-2026-27-groups-gd-r05-in-east-bengal-jo-al-hussein added
+  - ✓ fixture acl2-2026-27-groups-gd-r05-om-al-seeb-iq-al-shorta added
+  - ✓ fixture acl2-2026-27-groups-ge-r05-au-melbourne-victory-vn-the-cong-viettel added
+  - ✓ fixture acl2-2026-27-groups-ge-r05-id-persib-bandung-kr-fc-seoul added
+  - ✓ fixture acl2-2026-27-groups-ga-r05-uz-nasaf-bh-al-khaldiya added
+  - ✓ fixture acl2-2026-27-groups-gb-r05-ae-al-jazira-ir-gol-gohar-sirjan added
+  - ✓ fixture acl2-2026-27-groups-gc-r05-jo-al-faisaly-qa-al-rayyan added
+  - ✓ fixture acl2-2026-27-groups-gb-r05-bh-al-muharraq-tm-arkadag added
+  - ✓ fixture acl2-2026-27-groups-ga-r05-kw-kuwait-sc-ae-al-wahda added
+  - ✓ fixture acl2-2026-27-groups-gc-r05-sa-al-taawoun-om-al-nahda added
+  - ✓ fixture acl2-2026-27-groups-gh-r05-kr-gangwon-fc-hk-kitchee added
+  - ✓ fixture acl2-2026-27-groups-gh-r05-my-kuching-city-kh-phnom-penh-crown added
+  - ✓ fixture acl2-2026-27-groups-gg-r05-sg-tampines-rovers-cn-shanghai-shenhua added
+  - ✓ fixture acl2-2026-27-groups-gf-r05-th-bg-pathum-united-sg-lion-city-sailors added
+  - ✓ fixture acl2-2026-27-groups-gg-r05-kh-pkr-svay-rieng-jp-machida-zelvia added
+  - ✓ fixture acl2-2026-27-groups-gf-r05-hk-tai-po-au-adelaide-united added
+  - ✓ fixture acl2-2026-27-groups-ge-r06-kr-fc-seoul-au-melbourne-victory added
+  - ✓ fixture acl2-2026-27-groups-ge-r06-vn-the-cong-viettel-id-persib-bandung added
+  - ✓ fixture acl2-2026-27-groups-gf-r06-au-adelaide-united-th-bg-pathum-united added
+  - ✓ fixture acl2-2026-27-groups-gf-r06-sg-lion-city-sailors-hk-tai-po added
+  - ✓ fixture acl2-2026-27-groups-gg-r06-jp-machida-zelvia-sg-tampines-rovers added
+  - ✓ fixture acl2-2026-27-groups-gg-r06-cn-shanghai-shenhua-kh-pkr-svay-rieng added
+  - ✓ fixture acl2-2026-27-groups-gh-r06-hk-kitchee-my-kuching-city added
+  - ✓ fixture acl2-2026-27-groups-gh-r06-kh-phnom-penh-crown-kr-gangwon-fc added
+  - ✓ fixture acl2-2026-27-groups-gd-r06-jo-al-hussein-om-al-seeb added
+  - ✓ fixture acl2-2026-27-groups-gd-r06-iq-al-shorta-in-east-bengal added
+  - ✓ fixture acl2-2026-27-groups-gb-r06-tm-arkadag-ae-al-jazira added
+  - ✓ fixture acl2-2026-27-groups-gb-r06-ir-gol-gohar-sirjan-bh-al-muharraq added
+  - ✓ fixture acl2-2026-27-groups-ga-r06-ae-al-wahda-uz-nasaf added
+  - ✓ fixture acl2-2026-27-groups-ga-r06-bh-al-khaldiya-kw-kuwait-sc added
+  - ✓ fixture acl2-2026-27-groups-gc-r06-om-al-nahda-jo-al-faisaly added
+  - ✓ fixture acl2-2026-27-groups-gc-r06-qa-al-rayyan-sa-al-taawoun added
+  - ✓ result ucl-2026-27-league-phase-r01-gr-aek-athens-at-lask 1-0 FT
+  - ✓ result ucl-2026-27-league-phase-r01-be-club-brugge-gb-eng-aston-villa 2-3 FT
+  - ✓ result ucl-2026-27-league-phase-r01-de-borussia-dortmund-es-villarreal 3-2 FT
+  - ✓ result ucl-2026-27-league-phase-r01-pt-porto-gb-eng-manchester-city 0-2 FT
+  - ✓ result ucl-2026-27-league-phase-r01-fr-lille-es-real-betis 2-3 FT
+  - ✓ result ucl-2026-27-league-phase-r01-es-real-madrid-it-inter-milan 2-1 FT
+  - ✓ result ucl-2026-27-league-phase-r01-es-barcelona-nl-feyenoord 5-1 FT
+  - ✓ result ucl-2026-27-league-phase-r01-de-vfb-stuttgart-no-viking 3-1 FT
+  - ✓ result ucl-2026-27-league-phase-r01-gb-eng-liverpool-es-atletico-madrid 2-1 FT
+  - ✓ result ucl-2026-27-league-phase-r01-it-napoli-gb-eng-arsenal 0-1 FT
+  - ✓ result ucl-2026-27-league-phase-r01-fr-paris-saint-germain-sk-slovan-bratislava 6-1 FT
+  - ✓ result ucl-2026-27-league-phase-r01-pt-sporting-cp-tr-galatasaray 3-1 FT
+  - ✓ result ucl-2026-27-league-phase-r01-tr-fenerbahce-it-roma 1-1 FT
+  - ✓ result ucl-2026-27-league-phase-r01-nl-psv-eindhoven-ua-shakhtar-donetsk 1-1 FT
+  - ✓ result ucl-2026-27-league-phase-r01-de-bayern-munich-no-bod-glimt 5-0 FT
+  - ✓ result ucl-2026-27-league-phase-r01-it-como-de-rb-leipzig 4-1 FT
+  - ✓ result ucl-2026-27-league-phase-r01-gb-eng-manchester-united-az-sabah 4-0 FT
+  - ✓ result ucl-2026-27-league-phase-r01-cz-slavia-prague-fr-lens 2-3 FT
+  - ✓ result ucl-2026-27-league-phase-r02-fr-lens-pt-sporting-cp 0-2 FT
+  - ✓ result ucl-2026-27-league-phase-r02-az-sabah-cz-slavia-prague 2-0 FT
+  - ✓ result ucl-2026-27-league-phase-r02-gb-eng-arsenal-fr-lille 3-0 FT
+  - ✓ result ucl-2026-27-league-phase-r02-es-atletico-madrid-gb-eng-manchester-united 2-0 FT
+  - ✓ result ucl-2026-27-league-phase-r02-tr-galatasaray-es-barcelona 1-4 FT
+  - ✓ result ucl-2026-27-league-phase-r02-it-inter-milan-be-club-brugge 3-4 FT
+  - ✓ result ucl-2026-27-league-phase-r02-de-rb-leipzig-nl-psv-eindhoven 1-0 FT
+  - ✓ result ucl-2026-27-league-phase-r02-no-viking-de-bayern-munich 3-3 FT
+  - ✓ result ucl-2026-27-league-phase-r02-es-villarreal-it-napoli 3-1 FT
+  - ✓ result ucl-2026-27-league-phase-r02-nl-feyenoord-it-como 3-2 FT
+  - ✓ result ucl-2026-27-league-phase-r02-at-lask-gb-eng-liverpool 3-6 FT
+  - ✓ result ucl-2026-27-league-phase-r02-it-roma-es-real-madrid 3-4 FT
+  - ✓ result ucl-2026-27-league-phase-r02-gb-eng-aston-villa-tr-fenerbahce 6-0 FT
+  - ✓ result ucl-2026-27-league-phase-r02-no-bod-glimt-de-borussia-dortmund 1-0 FT
+  - ✓ result ucl-2026-27-league-phase-r02-gb-eng-manchester-city-fr-paris-saint-germain 2-4 FT
+  - ✓ result ucl-2026-27-league-phase-r02-es-real-betis-pt-porto 3-2 FT
+  - ✓ result ucl-2026-27-league-phase-r02-ua-shakhtar-donetsk-gr-aek-athens 3-1 FT
+  - ✓ result ucl-2026-27-league-phase-r02-sk-slovan-bratislava-de-vfb-stuttgart 0-3 FT
+  - ✓ result ucl-2026-27-league-phase-r03-tr-fenerbahce-cz-slavia-prague 2-2 FT
+  - ✓ result ucl-2026-27-league-phase-r03-az-sabah-de-borussia-dortmund 1-2 FT
+  - ✓ result ucl-2026-27-league-phase-r03-it-roma-sk-slovan-bratislava 4-0 FT
+  - ✓ result ucl-2026-27-league-phase-r03-pt-porto-nl-psv-eindhoven 0-1 FT
+  - ✓ result ucl-2026-27-league-phase-r03-gb-eng-liverpool-es-villarreal 4-3 FT
+  - ✓ result ucl-2026-27-league-phase-r03-gb-eng-manchester-city-gr-aek-athens 5-1 FT
+  - ✓ result ucl-2026-27-league-phase-r03-it-napoli-no-bod-glimt 4-3 FT
+  - ✓ result ucl-2026-27-league-phase-r03-fr-paris-saint-germain-es-barcelona 4-2 FT
+  - ✓ result ucl-2026-27-league-phase-r03-de-vfb-stuttgart-es-atletico-madrid 1-1 FT
+  - ✓ result ucl-2026-27-league-phase-r03-it-como-gb-eng-manchester-united 4-1 FT
+  - ✓ result ucl-2026-27-league-phase-r03-fr-lille-tr-galatasaray 2-4 FT
+  - ✓ result ucl-2026-27-league-phase-r03-gb-eng-aston-villa-no-viking 3-1 FT
+  - ✓ result ucl-2026-27-league-phase-r03-de-bayern-munich-gb-eng-arsenal 2-2 FT
+  - ✓ result ucl-2026-27-league-phase-r03-be-club-brugge-fr-lens 3-0 FT
+  - ✓ result ucl-2026-27-league-phase-r03-it-inter-milan-ua-shakhtar-donetsk 1-0 FT
+  - ✓ result ucl-2026-27-league-phase-r03-es-real-betis-nl-feyenoord 1-0 FT
+  - ✓ result ucl-2026-27-league-phase-r03-es-real-madrid-de-rb-leipzig 4-1 FT
+  - ✓ result ucl-2026-27-league-phase-r03-pt-sporting-cp-at-lask 2-3 FT
+  - ✓ result acle-2026-27-league-west-gwest-r01-uz-neftchi-fergana-iq-al-quwa-al-jawiya 1-0 FT
+  - ✓ result acle-2026-27-league-west-gwest-r01-qa-al-shamal-sa-al-ittihad 1-1 FT
+  - ✓ result acle-2026-27-league-west-gwest-r01-ae-shabab-al-ahli-ir-tractor 1-0 FT
+  - ✓ result acle-2026-27-league-west-gwest-r01-sa-al-ahli-saudi-uz-pakhtakor 1-1 FT
+  - ✓ result acle-2026-27-league-west-gwest-r01-sa-al-qadsiah-ae-al-wasl 2-1 FT
+  - ✓ result acle-2026-27-league-west-gwest-r01-ir-esteghlal-qa-al-sadd 3-0 FT
+  - ✓ result acle-2026-27-league-west-gwest-r01-ae-al-ain-sa-al-nassr 4-0 FT
+  - ✓ result acle-2026-27-league-west-gwest-r01-sa-al-hilal-qa-al-gharafa 2-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r01-kr-daejeon-hana-citizen-jp-kyoto-sanga 1-0 FT
+  - ✓ result acle-2026-27-league-east-geast-r01-jp-gamba-osaka-vn-cong-an-ha-noi 4-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r01-jp-kashima-antlers-au-newcastle-jets 7-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r01-th-ratchaburi-cn-shanghai-port 4-6 FT
+  - ✓ result acle-2026-27-league-east-geast-r01-cn-beijing-guoan-kr-pohang-steelers 3-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r01-my-johor-darul-ta-zim-th-buriram-united 1-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r01-kr-jeonbuk-hyundai-motors-jp-kashiwa-reysol 2-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r01-th-port-fc-jp-vissel-kobe 1-2 FT
+  - ✓ result acle-2026-27-league-west-gwest-r02-uz-pakhtakor-sa-al-qadsiah 1-1 FT
+  - ✓ result acle-2026-27-league-west-gwest-r02-ae-al-wasl-sa-al-ahli-saudi 1-3 FT
+  - ✓ result acle-2026-27-league-west-gwest-r02-ir-tractor-qa-al-shamal 0-0 FT
+  - ✓ result acle-2026-27-league-west-gwest-r02-iq-al-quwa-al-jawiya-ae-al-ain 1-4 FT
+  - ✓ result acle-2026-27-league-west-gwest-r02-qa-al-gharafa-ir-esteghlal 1-2 FT
+  - ✓ result acle-2026-27-league-west-gwest-r02-sa-al-nassr-uz-neftchi-fergana 3-1 FT
+  - ✓ result acle-2026-27-league-west-gwest-r02-qa-al-sadd-sa-al-hilal 0-2 FT
+  - ✓ result acle-2026-27-league-west-gwest-r02-sa-al-ittihad-ae-shabab-al-ahli 1-2 FT
+  - ✓ result acle-2026-27-league-east-geast-r02-au-newcastle-jets-jp-gamba-osaka 1-3 FT
+  - ✓ result acle-2026-27-league-east-geast-r02-jp-kyoto-sanga-th-ratchaburi 1-0 FT
+  - ✓ result acle-2026-27-league-east-geast-r02-kr-pohang-steelers-my-johor-darul-ta-zim 0-2 FT
+  - ✓ result acle-2026-27-league-east-geast-r02-cn-shanghai-port-kr-daejeon-hana-citizen 1-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r02-th-buriram-united-cn-beijing-guoan 0-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r02-vn-cong-an-ha-noi-jp-kashima-antlers 0-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r02-jp-kashiwa-reysol-th-port-fc 5-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r02-jp-vissel-kobe-kr-jeonbuk-hyundai-motors 2-0 FT
+  - ✓ result acl2-2026-27-groups-gb-r01-tm-arkadag-bh-al-muharraq 1-0 FT
+  - ✓ result acl2-2026-27-groups-gb-r01-ir-gol-gohar-sirjan-ae-al-jazira 0-0 FT
+  - ✓ result acl2-2026-27-groups-ge-r01-kr-fc-seoul-id-persib-bandung 0-1 FT
+  - ✓ result acl2-2026-27-groups-ge-r01-vn-the-cong-viettel-au-melbourne-victory 1-1 FT
+  - ✓ result acl2-2026-27-groups-gd-r01-jo-al-hussein-in-east-bengal 2-2 FT
+  - ✓ result acl2-2026-27-groups-gc-r01-om-al-nahda-sa-al-taawoun 1-1 FT
+  - ✓ result acl2-2026-27-groups-ga-r01-ae-al-wahda-kw-kuwait-sc 3-2 FT
+  - ✓ result acl2-2026-27-groups-ga-r01-bh-al-khaldiya-uz-nasaf 0-0 FT
+  - ✓ result acl2-2026-27-groups-gc-r01-qa-al-rayyan-jo-al-faisaly 4-3 FT
+  - ✓ result acl2-2026-27-groups-gd-r01-iq-al-shorta-om-al-seeb 1-0 FT
+  - ✓ result acl2-2026-27-groups-gf-r01-au-adelaide-united-hk-tai-po 3-0 FT
+  - ✓ result acl2-2026-27-groups-gf-r01-sg-lion-city-sailors-th-bg-pathum-united 1-1 FT
+  - ✓ result acl2-2026-27-groups-gg-r01-jp-machida-zelvia-kh-pkr-svay-rieng 2-0 FT
+  - ✓ result acl2-2026-27-groups-gh-r01-hk-kitchee-kr-gangwon-fc 0-0 FT
+  - ✓ result acl2-2026-27-groups-gh-r01-kh-phnom-penh-crown-my-kuching-city 2-1 FT
+  - ✓ result acl2-2026-27-groups-gg-r01-cn-shanghai-shenhua-sg-tampines-rovers 2-1 FT
+  - ✓ result acl2-2026-27-groups-gd-r02-in-east-bengal-iq-al-shorta 2-3 FT
+  - ✓ result acl2-2026-27-groups-gd-r02-om-al-seeb-jo-al-hussein 0-3 FT
+  - ✓ result acl2-2026-27-groups-ge-r02-au-melbourne-victory-kr-fc-seoul 3-0 FT
+  - ✓ result acl2-2026-27-groups-ge-r02-id-persib-bandung-vn-the-cong-viettel 1-0 FT
+  - ✓ result acl2-2026-27-groups-ga-r02-uz-nasaf-ae-al-wahda 1-2 FT
+  - ✓ result acl2-2026-27-groups-gb-r02-bh-al-muharraq-ir-gol-gohar-sirjan 2-0 FT
+  - ✓ result acl2-2026-27-groups-gc-r02-sa-al-taawoun-qa-al-rayyan 2-1 FT
+  - ✓ result acl2-2026-27-groups-gb-r02-ae-al-jazira-tm-arkadag 2-1 FT
+  - ✓ result acl2-2026-27-groups-ga-r02-kw-kuwait-sc-bh-al-khaldiya 3-1 FT
+  - ✓ result acl2-2026-27-groups-gc-r02-jo-al-faisaly-om-al-nahda 2-0 FT
+  - ✓ result acl2-2026-27-groups-gh-r02-kr-gangwon-fc-kh-phnom-penh-crown 1-2 FT
+  - ✓ result acl2-2026-27-groups-gf-r02-hk-tai-po-sg-lion-city-sailors 0-1 FT
+  - ✓ result acl2-2026-27-groups-gf-r02-th-bg-pathum-united-au-adelaide-united 1-2 FT
+  - ✓ result acl2-2026-27-groups-gg-r02-sg-tampines-rovers-jp-machida-zelvia 0-1 FT
+  - ✓ result acl2-2026-27-groups-gh-r02-my-kuching-city-hk-kitchee 1-1 FT
+  - ✓ result acl2-2026-27-groups-gg-r02-kh-pkr-svay-rieng-cn-shanghai-shenhua 0-0 FT
+  - ✓ table-check ucl overall reference table ucl overall (36 rows)
+
+## 2026-10-23 (2026-10-23T09:30:00Z)
+- 3 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result acle-2026-27-league-west-gwest-r01-ae-al-ain-sa-al-nassr already recorded — extra source kept
+  - ✓ result acle-2026-27-league-west-gwest-r02-iq-al-quwa-al-jawiya-ae-al-ain already recorded — extra source kept
+  - ✓ result acle-2026-27-league-west-gwest-r02-ae-al-wasl-sa-al-ahli-saudi already recorded — extra source kept
+
+## 2026-10-23 (2026-10-23T10:30:00Z)
+- 183 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ fixture uae-pro-league-2026-27-regular-r01-ae-al-nasr-ae-kalba added
+  - ✓ fixture uae-pro-league-2026-27-regular-r01-ae-al-wahda-ae-ajman added
+  - ✓ fixture uae-pro-league-2026-27-regular-r01-ae-al-dhafra-ae-sharjah added
+  - ✓ fixture uae-pro-league-2026-27-regular-r01-ae-al-wasl-ae-united added
+  - ✓ fixture uae-pro-league-2026-27-regular-r01-ae-khorfakkan-ae-shabab-al-ahli added
+  - ✓ fixture uae-pro-league-2026-27-regular-r01-ae-hatta-ae-al-jazira added
+  - ✓ fixture uae-pro-league-2026-27-regular-r01-ae-bani-yas-ae-al-ain added
+  - ✓ fixture uae-pro-league-2026-27-regular-r02-ae-kalba-ae-al-wasl added
+  - ✓ fixture uae-pro-league-2026-27-regular-r02-ae-al-nasr-ae-al-wahda added
+  - ✓ fixture uae-pro-league-2026-27-regular-r02-ae-shabab-al-ahli-ae-al-dhafra added
+  - ✓ fixture uae-pro-league-2026-27-regular-r02-ae-ajman-ae-hatta added
+  - ✓ fixture uae-pro-league-2026-27-regular-r02-ae-al-ain-ae-khorfakkan added
+  - ✓ fixture uae-pro-league-2026-27-regular-r02-ae-bani-yas-ae-united added
+  - ✓ fixture uae-pro-league-2026-27-regular-r02-ae-sharjah-ae-al-jazira added
+  - ✓ fixture uae-pro-league-2026-27-regular-r03-ae-united-ae-kalba added
+  - ✓ fixture uae-pro-league-2026-27-regular-r03-ae-al-wasl-ae-shabab-al-ahli added
+  - ✓ fixture uae-pro-league-2026-27-regular-r03-ae-al-jazira-ae-ajman added
+  - ✓ fixture uae-pro-league-2026-27-regular-r03-ae-khorfakkan-ae-al-dhafra added
+  - ✓ fixture uae-pro-league-2026-27-regular-r03-ae-al-ain-ae-al-nasr added
+  - ✓ fixture uae-pro-league-2026-27-regular-r03-ae-hatta-ae-sharjah added
+  - ✓ fixture uae-pro-league-2026-27-regular-r03-ae-al-wahda-ae-bani-yas added
+  - ✓ fixture uae-pro-league-2026-27-regular-r04-ae-kalba-ae-al-ain added
+  - ✓ fixture uae-pro-league-2026-27-regular-r04-ae-al-wasl-ae-khorfakkan added
+  - ✓ fixture uae-pro-league-2026-27-regular-r04-ae-sharjah-ae-united added
+  - ✓ fixture uae-pro-league-2026-27-regular-r04-ae-bani-yas-ae-hatta added
+  - ✓ fixture uae-pro-league-2026-27-regular-r04-ae-shabab-al-ahli-ae-al-jazira added
+  - ✓ fixture uae-pro-league-2026-27-regular-r04-ae-al-nasr-ae-ajman added
+  - ✓ fixture uae-pro-league-2026-27-regular-r04-ae-al-dhafra-ae-al-wahda added
+  - ✓ fixture uae-pro-league-2026-27-regular-r05-ae-al-jazira-ae-al-nasr added
+  - ✓ fixture uae-pro-league-2026-27-regular-r05-ae-united-ae-shabab-al-ahli added
+  - ✓ fixture uae-pro-league-2026-27-regular-r05-ae-al-ain-ae-al-wasl added
+  - ✓ fixture uae-pro-league-2026-27-regular-r05-ae-hatta-ae-al-dhafra added
+  - ✓ fixture uae-pro-league-2026-27-regular-r05-ae-khorfakkan-ae-bani-yas added
+  - ✓ fixture uae-pro-league-2026-27-regular-r05-ae-al-wahda-ae-sharjah added
+  - ✓ fixture uae-pro-league-2026-27-regular-r05-ae-ajman-ae-kalba added
+  - ✓ fixture uae-pro-league-2026-27-regular-r06-ae-al-dhafra-ae-united added
+  - ✓ fixture uae-pro-league-2026-27-regular-r06-ae-bani-yas-ae-al-wasl added
+  - ✓ fixture uae-pro-league-2026-27-regular-r06-ae-al-nasr-ae-hatta added
+  - ✓ fixture uae-pro-league-2026-27-regular-r06-ae-shabab-al-ahli-ae-al-ain added
+  - ✓ fixture uae-pro-league-2026-27-regular-r06-ae-kalba-ae-al-jazira added
+  - ✓ fixture uae-pro-league-2026-27-regular-r06-ae-khorfakkan-ae-al-wahda added
+  - ✓ fixture uae-pro-league-2026-27-regular-r06-ae-ajman-ae-sharjah added
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-al-ain-ae-ajman added
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-united-ae-khorfakkan added
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-al-wasl-ae-al-dhafra added
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-shabab-al-ahli-ae-kalba added
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-al-wahda-ae-hatta added
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-al-jazira-ae-bani-yas added
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-sharjah-ae-al-nasr added
+  - ✓ fixture uae-pro-league-2026-27-regular-r08-ae-al-dhafra-ae-kalba added
+  - ✓ fixture uae-pro-league-2026-27-regular-r08-ae-hatta-ae-khorfakkan added
+  - ✓ fixture uae-pro-league-2026-27-regular-r08-ae-sharjah-ae-shabab-al-ahli added
+  - ✓ fixture uae-pro-league-2026-27-regular-r08-ae-al-jazira-ae-al-wasl added
+  - ✓ fixture uae-pro-league-2026-27-regular-r08-ae-al-nasr-ae-united added
+  - ✓ fixture uae-pro-league-2026-27-regular-r08-ae-al-wahda-ae-al-ain added
+  - ✓ fixture uae-pro-league-2026-27-regular-r08-ae-ajman-ae-bani-yas added
+  - ✓ fixture uae-pro-league-2026-27-regular-r09-ae-al-wasl-ae-hatta added
+  - ✓ fixture uae-pro-league-2026-27-regular-r09-ae-al-ain-ae-al-dhafra added
+  - ✓ fixture uae-pro-league-2026-27-regular-r09-ae-kalba-ae-sharjah added
+  - ✓ fixture uae-pro-league-2026-27-regular-r09-ae-shabab-al-ahli-ae-ajman added
+  - ✓ fixture uae-pro-league-2026-27-regular-r09-ae-bani-yas-ae-al-nasr added
+  - ✓ fixture uae-pro-league-2026-27-regular-r09-ae-khorfakkan-ae-al-jazira added
+  - ✓ fixture uae-pro-league-2026-27-regular-r09-ae-united-ae-al-wahda added
+  - ✓ fixture uae-pro-league-2026-27-regular-r10-ae-al-wahda-ae-al-wasl added
+  - ✓ fixture uae-pro-league-2026-27-regular-r10-ae-al-jazira-ae-al-ain added
+  - ✓ fixture uae-pro-league-2026-27-regular-r10-ae-ajman-ae-united added
+  - ✓ fixture uae-pro-league-2026-27-regular-r10-ae-al-nasr-ae-shabab-al-ahli added
+  - ✓ fixture uae-pro-league-2026-27-regular-r10-ae-hatta-ae-kalba added
+  - ✓ fixture uae-pro-league-2026-27-regular-r10-ae-al-dhafra-ae-bani-yas added
+  - ✓ fixture uae-pro-league-2026-27-regular-r10-ae-sharjah-ae-khorfakkan added
+  - ✓ fixture uae-pro-league-2026-27-regular-r11-ae-al-ain-ae-hatta added
+  - ✓ fixture uae-pro-league-2026-27-regular-r11-ae-bani-yas-ae-shabab-al-ahli added
+  - ✓ fixture uae-pro-league-2026-27-regular-r11-ae-al-wasl-ae-sharjah added
+  - ✓ fixture uae-pro-league-2026-27-regular-r11-ae-kalba-ae-al-wahda added
+  - ✓ fixture uae-pro-league-2026-27-regular-r11-ae-khorfakkan-ae-ajman added
+  - ✓ fixture uae-pro-league-2026-27-regular-r11-ae-al-dhafra-ae-al-nasr added
+  - ✓ fixture uae-pro-league-2026-27-regular-r11-ae-united-ae-al-jazira added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r01-ae-hatta-ae-shabab-al-ahli added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r01-ae-kalba-ae-khorfakkan added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r01-ae-al-wasl-ae-al-ain added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r01-ae-ajman-ae-sharjah added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r01-ae-al-nasr-ae-united added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r01-ae-al-jazira-ae-al-wahda added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r01-ae-al-dhafra-ae-bani-yas added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r02-ae-sharjah-ae-al-dhafra added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r02-ae-united-ae-hatta added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r02-ae-bani-yas-ae-al-wahda added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r02-ae-al-ain-ae-ajman added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r02-ae-al-wasl-ae-kalba added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r02-ae-shabab-al-ahli-ae-al-nasr added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r02-ae-khorfakkan-ae-al-jazira added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r03-ae-al-ain-ae-kalba added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r03-ae-shabab-al-ahli-ae-united added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r03-ae-khorfakkan-ae-al-wasl added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r03-ae-al-nasr-ae-hatta added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r03-ae-al-wahda-ae-al-dhafra added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r03-ae-ajman-ae-bani-yas added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r03-ae-sharjah-ae-al-jazira added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r04-ae-al-dhafra-ae-ajman added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r04-ae-hatta-ae-al-ain added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r04-ae-al-wasl-ae-al-nasr added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r04-ae-united-ae-sharjah added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r04-ae-al-wahda-ae-khorfakkan added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r04-ae-al-jazira-ae-bani-yas added
+  - ✓ fixture uae-league-cup-2026-27-league-phase-r04-ae-kalba-ae-shabab-al-ahli added
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-shabab-al-ahli-ae-al-ain added
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-al-wasl-ae-kalba added
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-al-jazira-ae-ajman added
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-fujairah-ae-al-wahda added
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-al-nasr-ae-bani-yas added
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra added
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba added
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-hatta-ae-united added
+  - ✓ fixture uae-super-cup-2026-27-final-ae-al-ain-ae-shabab-al-ahli added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gc-r01-ae-ajman-iq-erbil added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gb-r01-ae-al-nasr-bh-al-riffa added
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-al-nasr-ae-kalba 2-2 FT
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-al-wahda-ae-ajman 2-3 FT
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-al-dhafra-ae-sharjah 1-3 FT
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-al-wasl-ae-united 5-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-khorfakkan-ae-shabab-al-ahli 1-5 FT
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-hatta-ae-al-jazira 0-2 FT
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-bani-yas-ae-al-ain 2-4 FT
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-kalba-ae-al-wasl 0-3 FT
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-al-nasr-ae-al-wahda 1-0 FT
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-shabab-al-ahli-ae-al-dhafra 2-0 FT
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-ajman-ae-hatta 4-3 FT
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-al-ain-ae-khorfakkan 2-0 FT
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-bani-yas-ae-united 2-3 FT
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-sharjah-ae-al-jazira 0-2 FT
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-united-ae-kalba 4-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-al-wasl-ae-shabab-al-ahli 0-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-al-jazira-ae-ajman 3-0 FT
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-khorfakkan-ae-al-dhafra 2-0 FT
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-al-ain-ae-al-nasr 2-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-hatta-ae-sharjah 0-3 FT
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-al-wahda-ae-bani-yas 2-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-kalba-ae-al-ain 0-2 FT
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-al-wasl-ae-khorfakkan 5-2 FT
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-sharjah-ae-united 4-3 FT
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-bani-yas-ae-hatta 0-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-shabab-al-ahli-ae-al-jazira 1-3 FT
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-al-nasr-ae-ajman 1-2 FT
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-al-dhafra-ae-al-wahda 0-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-al-jazira-ae-al-nasr 1-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-united-ae-shabab-al-ahli 1-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-al-ain-ae-al-wasl 2-2 FT
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-hatta-ae-al-dhafra 1-2 FT
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-khorfakkan-ae-bani-yas 0-0 FT
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-al-wahda-ae-sharjah 1-0 FT
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-ajman-ae-kalba 2-3 FT
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-al-dhafra-ae-united 5-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-bani-yas-ae-al-wasl 0-2 FT
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-al-nasr-ae-hatta 2-0 FT
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-shabab-al-ahli-ae-al-ain 2-0 FT
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-kalba-ae-al-jazira 2-2 FT
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-khorfakkan-ae-al-wahda 2-3 FT
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-ajman-ae-sharjah 1-3 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-hatta-ae-shabab-al-ahli 2-2 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-kalba-ae-khorfakkan 2-1 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-al-wasl-ae-al-ain 3-2 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-ajman-ae-sharjah 3-2 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-al-nasr-ae-united 3-1 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-al-jazira-ae-al-wahda 1-0 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-al-dhafra-ae-bani-yas 1-3 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-sharjah-ae-al-dhafra 2-1 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-united-ae-hatta 3-2 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-bani-yas-ae-al-wahda 3-1 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-al-ain-ae-ajman 2-3 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-al-wasl-ae-kalba 4-0 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-shabab-al-ahli-ae-al-nasr 1-1 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-khorfakkan-ae-al-jazira 0-2 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-al-ain-ae-kalba 2-2 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-shabab-al-ahli-ae-united 2-1 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-khorfakkan-ae-al-wasl 1-2 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-al-nasr-ae-hatta 4-1 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-al-wahda-ae-al-dhafra 2-0 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-ajman-ae-bani-yas 1-0 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-sharjah-ae-al-jazira 0-0 FT
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-shabab-al-ahli-ae-al-ain 3-2 AET
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-al-wasl-ae-kalba 2-2 PEN
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-al-jazira-ae-ajman 1-0 FT
+  - ✓ result gulf-club-cl-2026-27-groups-gc-r01-ae-ajman-iq-erbil 5-4 FT
+
+## 2026-10-23 (2026-10-23T10:00:00Z)
+- 11 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ fixture gulf-club-cl-2026-27-groups-ga-r01-sa-neom-ye-shaab-hadramaut added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gb-r01-qa-qatar-sc-iq-al-zawraa added
+  - ✓ fixture gulf-club-cl-2026-27-groups-ga-r01-qa-al-duhail-om-al-shabab-oman added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gc-r01-sa-al-ettifaq-kw-kazma added
+  - ✓ result gulf-club-cl-2026-27-groups-ga-r01-sa-neom-ye-shaab-hadramaut 4-0 FT
+  - ✓ result gulf-club-cl-2026-27-groups-gb-r01-qa-qatar-sc-iq-al-zawraa 1-1 FT
+  - ✓ result gulf-club-cl-2026-27-groups-ga-r01-qa-al-duhail-om-al-shabab-oman 3-0 FT
+  - ✓ result gulf-club-cl-2026-27-groups-gc-r01-sa-al-ettifaq-kw-kazma 2-0 FT
+  - ✓ result gulf-club-cl-2026-27-groups-gb-r01-ae-al-nasr-bh-al-riffa 3-0 FT
+  - ✓ fixture gulf-club-cl-2026-27-groups-ga-r02-om-al-shabab-oman-sa-neom added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gb-r02-bh-al-riffa-qa-qatar-sc added
+
+## 2026-10-23 (2026-10-23T10:10:00Z)
+- 3 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-hatta-ae-united kick-off 2026-10-24T12:00:00Z
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra kick-off 2026-10-24T12:00:00Z
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba kick-off 2026-10-24T12:00:00Z
+
+## 2026-10-23 (2026-10-23T10:20:00Z)
+- 2 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-shabab-al-ahli-ae-al-ain already recorded — extra source kept
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-al-wasl-ae-shabab-al-ahli already recorded — extra source kept

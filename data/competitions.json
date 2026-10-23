@@ -1,0 +1,1694 @@
+[
+  {
+    "id": "uae-pro-league",
+    "name": {
+      "en": "ADNOC Pro League",
+      "ar": "دوري أدنوك للمحترفين"
+    },
+    "season": "2026-27",
+    "format": "league",
+    "stages": [
+      {
+        "key": "regular",
+        "type": "league",
+        "name": {
+          "en": "Regular season",
+          "ar": "الموسم المنتظم"
+        },
+        "order": 0
+      }
+    ],
+    "tables": [
+      {
+        "id": "overall",
+        "name": null,
+        "stage": "regular",
+        "group": null,
+        "teams": [
+          "ae-al-ain",
+          "ae-shabab-al-ahli",
+          "ae-al-wasl",
+          "ae-al-jazira",
+          "ae-al-wahda",
+          "ae-sharjah",
+          "ae-al-nasr",
+          "ae-united",
+          "ae-ajman",
+          "ae-kalba",
+          "ae-khorfakkan",
+          "ae-bani-yas",
+          "ae-al-dhafra",
+          "ae-hatta"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 13,
+            "to": 14,
+            "zone": "relegation"
+          }
+        ]
+      }
+    ],
+    "rounds": []
+  },
+  {
+    "id": "uae-presidents-cup",
+    "name": {
+      "en": "UAE President's Cup",
+      "ar": "كأس صاحب السمو رئيس الدولة"
+    },
+    "season": "2026-27",
+    "format": "knockout",
+    "stages": [
+      {
+        "key": "r16",
+        "type": "knockout",
+        "name": {
+          "en": "Round of 16",
+          "ar": "دور الـ16"
+        },
+        "order": 0
+      },
+      {
+        "key": "qf",
+        "type": "knockout",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 1
+      },
+      {
+        "key": "sf",
+        "type": "knockout",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 2
+      },
+      {
+        "key": "final",
+        "type": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 3
+      }
+    ],
+    "tables": [],
+    "rounds": [
+      {
+        "key": "r16",
+        "name": {
+          "en": "Round of 16",
+          "ar": "دور الـ16"
+        },
+        "order": 0,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "qf",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 1,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "sf",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 2,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 3,
+        "legs": 1,
+        "region": null
+      }
+    ]
+  },
+  {
+    "id": "uae-league-cup",
+    "name": {
+      "en": "ADIB Cup",
+      "ar": "كأس مصرف أبوظبي الإسلامي"
+    },
+    "season": "2026-27",
+    "format": "league-phase-knockout",
+    "stages": [
+      {
+        "key": "league-phase",
+        "type": "league-phase",
+        "name": {
+          "en": "League phase",
+          "ar": "مرحلة الدوري"
+        },
+        "order": 0
+      },
+      {
+        "key": "qf",
+        "type": "knockout",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 1
+      },
+      {
+        "key": "sf",
+        "type": "knockout",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 2
+      },
+      {
+        "key": "final",
+        "type": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 3
+      }
+    ],
+    "tables": [
+      {
+        "id": "overall",
+        "name": null,
+        "stage": "league-phase",
+        "group": null,
+        "teams": [
+          "ae-al-ain",
+          "ae-shabab-al-ahli",
+          "ae-al-wasl",
+          "ae-al-jazira",
+          "ae-al-wahda",
+          "ae-sharjah",
+          "ae-al-nasr",
+          "ae-united",
+          "ae-ajman",
+          "ae-kalba",
+          "ae-khorfakkan",
+          "ae-bani-yas",
+          "ae-al-dhafra",
+          "ae-hatta"
+        ],
+        "tiebreak": "points-gd-gf",
+        "zones": [
+          {
+            "from": 1,
+            "to": 8,
+            "zone": "qualified"
+          }
+        ]
+      }
+    ],
+    "rounds": [
+      {
+        "key": "qf",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 0,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "sf",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 1,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 2,
+        "legs": 1,
+        "region": null
+      }
+    ]
+  },
+  {
+    "id": "uae-super-cup",
+    "name": {
+      "en": "EMAAR Super Cup",
+      "ar": "كأس سوبر إعمار"
+    },
+    "season": "2026-27",
+    "format": "single-match",
+    "stages": [
+      {
+        "key": "final",
+        "type": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 0
+      }
+    ],
+    "tables": [],
+    "rounds": [
+      {
+        "key": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 0,
+        "legs": 1,
+        "region": null
+      }
+    ]
+  },
+  {
+    "id": "epl",
+    "name": {
+      "en": "Premier League",
+      "ar": "الدوري الإنجليزي الممتاز"
+    },
+    "season": "2026-27",
+    "format": "league",
+    "stages": [
+      {
+        "key": "regular",
+        "type": "league",
+        "name": {
+          "en": "Regular season",
+          "ar": "الموسم المنتظم"
+        },
+        "order": 0
+      }
+    ],
+    "tables": [
+      {
+        "id": "overall",
+        "name": null,
+        "stage": "regular",
+        "group": null,
+        "teams": [
+          "gb-eng-arsenal",
+          "gb-eng-aston-villa",
+          "gb-eng-bournemouth",
+          "gb-eng-brentford",
+          "gb-eng-brighton",
+          "gb-eng-chelsea",
+          "gb-eng-coventry-city",
+          "gb-eng-crystal-palace",
+          "gb-eng-everton",
+          "gb-eng-fulham",
+          "gb-eng-hull-city",
+          "gb-eng-ipswich-town",
+          "gb-eng-leeds-united",
+          "gb-eng-liverpool",
+          "gb-eng-manchester-city",
+          "gb-eng-manchester-united",
+          "gb-eng-newcastle-united",
+          "gb-eng-nottingham-forest",
+          "gb-eng-sunderland",
+          "gb-eng-tottenham-hotspur"
+        ],
+        "tiebreak": "points-gd-gf",
+        "zones": [
+          {
+            "from": 1,
+            "to": 4,
+            "zone": "ucl"
+          },
+          {
+            "from": 5,
+            "to": 5,
+            "zone": "uel"
+          },
+          {
+            "from": 6,
+            "to": 6,
+            "zone": "uecl"
+          },
+          {
+            "from": 18,
+            "to": 20,
+            "zone": "relegation"
+          }
+        ]
+      }
+    ],
+    "rounds": []
+  },
+  {
+    "id": "laliga",
+    "name": {
+      "en": "LALIGA EA SPORTS",
+      "ar": "الدوري الإسباني"
+    },
+    "season": "2026-27",
+    "format": "league",
+    "stages": [
+      {
+        "key": "regular",
+        "type": "league",
+        "name": {
+          "en": "Regular season",
+          "ar": "الموسم المنتظم"
+        },
+        "order": 0
+      }
+    ],
+    "tables": [
+      {
+        "id": "overall",
+        "name": null,
+        "stage": "regular",
+        "group": null,
+        "teams": [
+          "es-alaves",
+          "es-athletic-club",
+          "es-atletico-madrid",
+          "es-barcelona",
+          "es-celta-vigo",
+          "es-deportivo-la-coruna",
+          "es-elche",
+          "es-espanyol",
+          "es-getafe",
+          "es-levante",
+          "es-malaga",
+          "es-osasuna",
+          "es-racing-santander",
+          "es-rayo-vallecano",
+          "es-real-betis",
+          "es-real-madrid",
+          "es-real-sociedad",
+          "es-sevilla",
+          "es-valencia",
+          "es-villarreal"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 4,
+            "zone": "ucl"
+          },
+          {
+            "from": 5,
+            "to": 5,
+            "zone": "uel"
+          },
+          {
+            "from": 6,
+            "to": 6,
+            "zone": "uecl"
+          },
+          {
+            "from": 18,
+            "to": 20,
+            "zone": "relegation"
+          }
+        ]
+      }
+    ],
+    "rounds": []
+  },
+  {
+    "id": "ucl",
+    "name": {
+      "en": "UEFA Champions League",
+      "ar": "دوري أبطال أوروبا"
+    },
+    "season": "2026-27",
+    "format": "league-phase-knockout",
+    "stages": [
+      {
+        "key": "league-phase",
+        "type": "league-phase",
+        "name": {
+          "en": "League phase",
+          "ar": "مرحلة الدوري"
+        },
+        "order": 0
+      },
+      {
+        "key": "playoff",
+        "type": "playoff",
+        "name": {
+          "en": "Knockout play-offs",
+          "ar": "ملحق خروج المغلوب"
+        },
+        "order": 1
+      },
+      {
+        "key": "r16",
+        "type": "knockout",
+        "name": {
+          "en": "Round of 16",
+          "ar": "دور الـ16"
+        },
+        "order": 2
+      },
+      {
+        "key": "qf",
+        "type": "knockout",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 3
+      },
+      {
+        "key": "sf",
+        "type": "knockout",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 4
+      },
+      {
+        "key": "final",
+        "type": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 5
+      }
+    ],
+    "tables": [
+      {
+        "id": "overall",
+        "name": null,
+        "stage": "league-phase",
+        "group": null,
+        "teams": [
+          "fr-paris-saint-germain",
+          "de-bayern-munich",
+          "es-real-madrid",
+          "gb-eng-liverpool",
+          "it-inter-milan",
+          "gb-eng-manchester-city",
+          "gb-eng-arsenal",
+          "es-barcelona",
+          "es-atletico-madrid",
+          "de-borussia-dortmund",
+          "it-roma",
+          "pt-sporting-cp",
+          "gb-eng-aston-villa",
+          "pt-porto",
+          "gb-eng-manchester-united",
+          "be-club-brugge",
+          "es-real-betis",
+          "nl-psv-eindhoven",
+          "nl-feyenoord",
+          "fr-lille",
+          "no-bod-glimt",
+          "it-napoli",
+          "de-rb-leipzig",
+          "es-villarreal",
+          "tr-fenerbahce",
+          "ua-shakhtar-donetsk",
+          "tr-galatasaray",
+          "cz-slavia-prague",
+          "sk-slovan-bratislava",
+          "de-vfb-stuttgart",
+          "gr-aek-athens",
+          "at-lask",
+          "it-como",
+          "fr-lens",
+          "no-viking",
+          "az-sabah"
+        ],
+        "tiebreak": "points-gd-gf-wins",
+        "zones": [
+          {
+            "from": 1,
+            "to": 8,
+            "zone": "knockout"
+          },
+          {
+            "from": 9,
+            "to": 24,
+            "zone": "knockout-playoff"
+          },
+          {
+            "from": 25,
+            "to": 36,
+            "zone": "eliminated"
+          }
+        ]
+      }
+    ],
+    "rounds": [
+      {
+        "key": "playoff",
+        "name": {
+          "en": "Knockout play-offs",
+          "ar": "ملحق خروج المغلوب"
+        },
+        "order": 0,
+        "legs": 2,
+        "region": null
+      },
+      {
+        "key": "r16",
+        "name": {
+          "en": "Round of 16",
+          "ar": "دور الـ16"
+        },
+        "order": 1,
+        "legs": 2,
+        "region": null
+      },
+      {
+        "key": "qf",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 2,
+        "legs": 2,
+        "region": null
+      },
+      {
+        "key": "sf",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 3,
+        "legs": 2,
+        "region": null
+      },
+      {
+        "key": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 4,
+        "legs": 1,
+        "region": null
+      }
+    ]
+  },
+  {
+    "id": "acle",
+    "name": {
+      "en": "AFC Champions League Elite",
+      "ar": "دوري أبطال آسيا للنخبة"
+    },
+    "season": "2026-27",
+    "format": "league-phase-knockout",
+    "stages": [
+      {
+        "key": "league-west",
+        "type": "league-phase",
+        "name": {
+          "en": "League stage – West",
+          "ar": "مرحلة الدوري – الغرب"
+        },
+        "order": 0
+      },
+      {
+        "key": "league-east",
+        "type": "league-phase",
+        "name": {
+          "en": "League stage – East",
+          "ar": "مرحلة الدوري – الشرق"
+        },
+        "order": 1
+      },
+      {
+        "key": "r16-west",
+        "type": "knockout",
+        "name": {
+          "en": "Round of 16 – West",
+          "ar": "دور الـ16 – الغرب"
+        },
+        "order": 2
+      },
+      {
+        "key": "r16-east",
+        "type": "knockout",
+        "name": {
+          "en": "Round of 16 – East",
+          "ar": "دور الـ16 – الشرق"
+        },
+        "order": 3
+      },
+      {
+        "key": "qf",
+        "type": "knockout",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 4
+      },
+      {
+        "key": "sf",
+        "type": "knockout",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 5
+      },
+      {
+        "key": "final",
+        "type": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 6
+      }
+    ],
+    "tables": [
+      {
+        "id": "west",
+        "name": {
+          "en": "West",
+          "ar": "الغرب"
+        },
+        "stage": "league-west",
+        "group": "west",
+        "teams": [
+          "sa-al-ahli-saudi",
+          "ae-al-ain",
+          "qa-al-sadd",
+          "ir-esteghlal",
+          "sa-al-nassr",
+          "uz-neftchi-fergana",
+          "iq-al-quwa-al-jawiya",
+          "ae-shabab-al-ahli",
+          "sa-al-hilal",
+          "qa-al-gharafa",
+          "ir-tractor",
+          "ae-al-wasl",
+          "sa-al-qadsiah",
+          "qa-al-shamal",
+          "sa-al-ittihad",
+          "uz-pakhtakor"
+        ],
+        "tiebreak": "points-gd-gf-wins",
+        "zones": [
+          {
+            "from": 1,
+            "to": 8,
+            "zone": "knockout"
+          },
+          {
+            "from": 9,
+            "to": 16,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "east",
+        "name": {
+          "en": "East",
+          "ar": "الشرق"
+        },
+        "stage": "league-east",
+        "group": "east",
+        "teams": [
+          "jp-kashima-antlers",
+          "kr-jeonbuk-hyundai-motors",
+          "th-buriram-united",
+          "cn-shanghai-port",
+          "au-newcastle-jets",
+          "my-johor-darul-ta-zim",
+          "jp-vissel-kobe",
+          "kr-daejeon-hana-citizen",
+          "th-port-fc",
+          "cn-beijing-guoan",
+          "jp-kashiwa-reysol",
+          "kr-pohang-steelers",
+          "th-ratchaburi",
+          "jp-kyoto-sanga",
+          "jp-gamba-osaka",
+          "vn-cong-an-ha-noi"
+        ],
+        "tiebreak": "points-gd-gf-wins",
+        "zones": [
+          {
+            "from": 1,
+            "to": 8,
+            "zone": "knockout"
+          },
+          {
+            "from": 9,
+            "to": 16,
+            "zone": "eliminated"
+          }
+        ]
+      }
+    ],
+    "rounds": [
+      {
+        "key": "r16-west",
+        "name": {
+          "en": "Round of 16 – West",
+          "ar": "دور الـ16 – الغرب"
+        },
+        "order": 0,
+        "legs": 2,
+        "region": {
+          "en": "West",
+          "ar": "الغرب"
+        }
+      },
+      {
+        "key": "r16-east",
+        "name": {
+          "en": "Round of 16 – East",
+          "ar": "دور الـ16 – الشرق"
+        },
+        "order": 1,
+        "legs": 2,
+        "region": {
+          "en": "East",
+          "ar": "الشرق"
+        }
+      },
+      {
+        "key": "qf",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 2,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "sf",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 3,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 4,
+        "legs": 1,
+        "region": null
+      }
+    ]
+  },
+  {
+    "id": "acl2",
+    "name": {
+      "en": "AFC Champions League Two",
+      "ar": "دوري أبطال آسيا 2"
+    },
+    "season": "2026-27",
+    "format": "groups-knockout",
+    "stages": [
+      {
+        "key": "groups",
+        "type": "group",
+        "name": {
+          "en": "Group stage",
+          "ar": "دور المجموعات"
+        },
+        "order": 0
+      },
+      {
+        "key": "r16-west",
+        "type": "knockout",
+        "name": {
+          "en": "Round of 16 – West",
+          "ar": "دور الـ16 – الغرب"
+        },
+        "order": 1
+      },
+      {
+        "key": "r16-east",
+        "type": "knockout",
+        "name": {
+          "en": "Round of 16 – East",
+          "ar": "دور الـ16 – الشرق"
+        },
+        "order": 2
+      },
+      {
+        "key": "qf-west",
+        "type": "knockout",
+        "name": {
+          "en": "Quarter-finals – West",
+          "ar": "ربع النهائي – الغرب"
+        },
+        "order": 3
+      },
+      {
+        "key": "qf-east",
+        "type": "knockout",
+        "name": {
+          "en": "Quarter-finals – East",
+          "ar": "ربع النهائي – الشرق"
+        },
+        "order": 4
+      },
+      {
+        "key": "sf-west",
+        "type": "knockout",
+        "name": {
+          "en": "Semi-final – West",
+          "ar": "نصف النهائي – الغرب"
+        },
+        "order": 5
+      },
+      {
+        "key": "sf-east",
+        "type": "knockout",
+        "name": {
+          "en": "Semi-final – East",
+          "ar": "نصف النهائي – الشرق"
+        },
+        "order": 6
+      },
+      {
+        "key": "final",
+        "type": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 7
+      }
+    ],
+    "tables": [
+      {
+        "id": "group-A",
+        "name": {
+          "en": "Group A",
+          "ar": "المجموعة A"
+        },
+        "stage": "groups",
+        "group": "A",
+        "teams": [
+          "ae-al-wahda",
+          "uz-nasaf",
+          "kw-kuwait-sc",
+          "bh-al-khaldiya"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "group-B",
+        "name": {
+          "en": "Group B",
+          "ar": "المجموعة B"
+        },
+        "stage": "groups",
+        "group": "B",
+        "teams": [
+          "ae-al-jazira",
+          "ir-gol-gohar-sirjan",
+          "bh-al-muharraq",
+          "tm-arkadag"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "group-C",
+        "name": {
+          "en": "Group C",
+          "ar": "المجموعة C"
+        },
+        "stage": "groups",
+        "group": "C",
+        "teams": [
+          "sa-al-taawoun",
+          "qa-al-rayyan",
+          "jo-al-faisaly",
+          "om-al-nahda"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "group-D",
+        "name": {
+          "en": "Group D",
+          "ar": "المجموعة D"
+        },
+        "stage": "groups",
+        "group": "D",
+        "teams": [
+          "jo-al-hussein",
+          "iq-al-shorta",
+          "om-al-seeb",
+          "in-east-bengal"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "group-E",
+        "name": {
+          "en": "Group E",
+          "ar": "المجموعة E"
+        },
+        "stage": "groups",
+        "group": "E",
+        "teams": [
+          "kr-fc-seoul",
+          "au-melbourne-victory",
+          "vn-the-cong-viettel",
+          "id-persib-bandung"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "group-F",
+        "name": {
+          "en": "Group F",
+          "ar": "المجموعة F"
+        },
+        "stage": "groups",
+        "group": "F",
+        "teams": [
+          "au-adelaide-united",
+          "th-bg-pathum-united",
+          "sg-lion-city-sailors",
+          "hk-tai-po"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "group-G",
+        "name": {
+          "en": "Group G",
+          "ar": "المجموعة G"
+        },
+        "stage": "groups",
+        "group": "G",
+        "teams": [
+          "jp-machida-zelvia",
+          "cn-shanghai-shenhua",
+          "kh-pkr-svay-rieng",
+          "sg-tampines-rovers"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "group-H",
+        "name": {
+          "en": "Group H",
+          "ar": "المجموعة H"
+        },
+        "stage": "groups",
+        "group": "H",
+        "teams": [
+          "kr-gangwon-fc",
+          "my-kuching-city",
+          "hk-kitchee",
+          "kh-phnom-penh-crown"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      }
+    ],
+    "rounds": [
+      {
+        "key": "r16-west",
+        "name": {
+          "en": "Round of 16 – West",
+          "ar": "دور الـ16 – الغرب"
+        },
+        "order": 0,
+        "legs": 2,
+        "region": {
+          "en": "West",
+          "ar": "الغرب"
+        }
+      },
+      {
+        "key": "r16-east",
+        "name": {
+          "en": "Round of 16 – East",
+          "ar": "دور الـ16 – الشرق"
+        },
+        "order": 1,
+        "legs": 2,
+        "region": {
+          "en": "East",
+          "ar": "الشرق"
+        }
+      },
+      {
+        "key": "qf-west",
+        "name": {
+          "en": "Quarter-finals – West",
+          "ar": "ربع النهائي – الغرب"
+        },
+        "order": 2,
+        "legs": 2,
+        "region": {
+          "en": "West",
+          "ar": "الغرب"
+        }
+      },
+      {
+        "key": "qf-east",
+        "name": {
+          "en": "Quarter-finals – East",
+          "ar": "ربع النهائي – الشرق"
+        },
+        "order": 3,
+        "legs": 2,
+        "region": {
+          "en": "East",
+          "ar": "الشرق"
+        }
+      },
+      {
+        "key": "sf-west",
+        "name": {
+          "en": "Semi-final – West",
+          "ar": "نصف النهائي – الغرب"
+        },
+        "order": 4,
+        "legs": 2,
+        "region": {
+          "en": "West",
+          "ar": "الغرب"
+        }
+      },
+      {
+        "key": "sf-east",
+        "name": {
+          "en": "Semi-final – East",
+          "ar": "نصف النهائي – الشرق"
+        },
+        "order": 5,
+        "legs": 2,
+        "region": {
+          "en": "East",
+          "ar": "الشرق"
+        }
+      },
+      {
+        "key": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 6,
+        "legs": 1,
+        "region": null
+      }
+    ]
+  },
+  {
+    "id": "gulf-club-cl",
+    "name": {
+      "en": "Gulf Club Champions League",
+      "ar": "دوري أبطال الخليج للأندية"
+    },
+    "season": "2026-27",
+    "format": "groups-knockout",
+    "stages": [
+      {
+        "key": "groups",
+        "type": "group",
+        "name": {
+          "en": "Group stage",
+          "ar": "دور المجموعات"
+        },
+        "order": 0
+      },
+      {
+        "key": "qf",
+        "type": "knockout",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 1
+      },
+      {
+        "key": "sf",
+        "type": "knockout",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 2
+      },
+      {
+        "key": "final",
+        "type": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 3
+      }
+    ],
+    "tables": [
+      {
+        "id": "group-A",
+        "name": {
+          "en": "Group A",
+          "ar": "المجموعة A"
+        },
+        "stage": "groups",
+        "group": "A",
+        "teams": [
+          "sa-neom",
+          "qa-al-duhail",
+          "om-al-shabab-oman",
+          "ye-shaab-hadramaut"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 3,
+            "zone": "third-place"
+          }
+        ]
+      },
+      {
+        "id": "group-B",
+        "name": {
+          "en": "Group B",
+          "ar": "المجموعة B"
+        },
+        "stage": "groups",
+        "group": "B",
+        "teams": [
+          "ae-al-nasr",
+          "qa-qatar-sc",
+          "iq-al-zawraa",
+          "bh-al-riffa"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 3,
+            "zone": "third-place"
+          }
+        ]
+      },
+      {
+        "id": "group-C",
+        "name": {
+          "en": "Group C",
+          "ar": "المجموعة C"
+        },
+        "stage": "groups",
+        "group": "C",
+        "teams": [
+          "ae-ajman",
+          "sa-al-ettifaq",
+          "iq-erbil",
+          "kw-kazma"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 3,
+            "zone": "third-place"
+          }
+        ]
+      }
+    ],
+    "rounds": [
+      {
+        "key": "qf",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 0,
+        "legs": 2,
+        "region": null
+      },
+      {
+        "key": "sf",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 1,
+        "legs": 2,
+        "region": null
+      },
+      {
+        "key": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 2,
+        "legs": 1,
+        "region": null
+      }
+    ]
+  },
+  {
+    "id": "asian-cup",
+    "name": {
+      "en": "AFC Asian Cup Saudi Arabia 2027",
+      "ar": "كأس آسيا السعودية 2027"
+    },
+    "season": "2027",
+    "format": "groups-knockout",
+    "stages": [
+      {
+        "key": "groups",
+        "type": "group",
+        "name": {
+          "en": "Group stage",
+          "ar": "دور المجموعات"
+        },
+        "order": 0
+      },
+      {
+        "key": "r16",
+        "type": "knockout",
+        "name": {
+          "en": "Round of 16",
+          "ar": "دور الـ16"
+        },
+        "order": 1
+      },
+      {
+        "key": "qf",
+        "type": "knockout",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 2
+      },
+      {
+        "key": "sf",
+        "type": "knockout",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 3
+      },
+      {
+        "key": "final",
+        "type": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 4
+      }
+    ],
+    "tables": [
+      {
+        "id": "group-A",
+        "name": {
+          "en": "Group A",
+          "ar": "المجموعة A"
+        },
+        "stage": "groups",
+        "group": "A",
+        "teams": [
+          "nt-sa",
+          "nt-kw",
+          "nt-om",
+          "nt-ps"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 3,
+            "zone": "third-place"
+          },
+          {
+            "from": 4,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "group-B",
+        "name": {
+          "en": "Group B",
+          "ar": "المجموعة B"
+        },
+        "stage": "groups",
+        "group": "B",
+        "teams": [
+          "nt-uz",
+          "nt-bh",
+          "nt-kp",
+          "nt-jo"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 3,
+            "zone": "third-place"
+          },
+          {
+            "from": 4,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "group-C",
+        "name": {
+          "en": "Group C",
+          "ar": "المجموعة C"
+        },
+        "stage": "groups",
+        "group": "C",
+        "teams": [
+          "nt-ir",
+          "nt-sy",
+          "nt-kg",
+          "nt-cn"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 3,
+            "zone": "third-place"
+          },
+          {
+            "from": 4,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "group-D",
+        "name": {
+          "en": "Group D",
+          "ar": "المجموعة D"
+        },
+        "stage": "groups",
+        "group": "D",
+        "teams": [
+          "nt-au",
+          "nt-tj",
+          "nt-iq",
+          "nt-sg"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 3,
+            "zone": "third-place"
+          },
+          {
+            "from": 4,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "group-E",
+        "name": {
+          "en": "Group E",
+          "ar": "المجموعة E"
+        },
+        "stage": "groups",
+        "group": "E",
+        "teams": [
+          "nt-kr",
+          "nt-ae",
+          "nt-vn",
+          "nt-ye"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 3,
+            "zone": "third-place"
+          },
+          {
+            "from": 4,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      },
+      {
+        "id": "group-F",
+        "name": {
+          "en": "Group F",
+          "ar": "المجموعة F"
+        },
+        "stage": "groups",
+        "group": "F",
+        "teams": [
+          "nt-jp",
+          "nt-qa",
+          "nt-th",
+          "nt-id"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 2,
+            "zone": "qualified"
+          },
+          {
+            "from": 3,
+            "to": 3,
+            "zone": "third-place"
+          },
+          {
+            "from": 4,
+            "to": 4,
+            "zone": "eliminated"
+          }
+        ]
+      }
+    ],
+    "rounds": [
+      {
+        "key": "r16",
+        "name": {
+          "en": "Round of 16",
+          "ar": "دور الـ16"
+        },
+        "order": 0,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "qf",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 1,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "sf",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 2,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 3,
+        "legs": 1,
+        "region": null
+      }
+    ]
+  }
+]

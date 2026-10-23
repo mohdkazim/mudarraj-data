@@ -1,0 +1,727 @@
+{
+ "competition": "uae-league-cup",
+ "season": "2026-27",
+ "matches": [
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r01-ae-hatta-ae-shabab-al-ahli",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-19T13:30:00Z",
+   "timeConfirmed": false,
+   "home": "ae-hatta",
+   "away": "ae-shabab-al-ahli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b98f8-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r01-ae-kalba-ae-khorfakkan",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-19T13:30:00Z",
+   "timeConfirmed": false,
+   "home": "ae-kalba",
+   "away": "ae-khorfakkan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9900-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r01-ae-ajman-ae-sharjah",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-19T16:15:00Z",
+   "timeConfirmed": false,
+   "home": "ae-ajman",
+   "away": "ae-sharjah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b98ee-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r01-ae-al-wasl-ae-al-ain",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-19T16:15:00Z",
+   "timeConfirmed": false,
+   "home": "ae-al-wasl",
+   "away": "ae-al-ain",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b98fd-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r01-ae-al-nasr-ae-united",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-20T13:30:00Z",
+   "timeConfirmed": false,
+   "home": "ae-al-nasr",
+   "away": "ae-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b98d6-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r01-ae-al-dhafra-ae-bani-yas",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-20T16:15:00Z",
+   "timeConfirmed": false,
+   "home": "ae-al-dhafra",
+   "away": "ae-bani-yas",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b98f5-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r01-ae-al-jazira-ae-al-wahda",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 1
+   },
+   "kickoff": "2026-09-20T16:15:00Z",
+   "timeConfirmed": false,
+   "home": "ae-al-jazira",
+   "away": "ae-al-wahda",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b98fa-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r02-ae-sharjah-ae-al-dhafra",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-01T13:15:00Z",
+   "timeConfirmed": false,
+   "home": "ae-sharjah",
+   "away": "ae-al-dhafra",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9912-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r02-ae-united-ae-hatta",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-01T13:15:00Z",
+   "timeConfirmed": false,
+   "home": "ae-united",
+   "away": "ae-hatta",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9907-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r02-ae-bani-yas-ae-al-wahda",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-01T15:45:00Z",
+   "timeConfirmed": false,
+   "home": "ae-bani-yas",
+   "away": "ae-al-wahda",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9905-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r02-ae-al-ain-ae-ajman",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-02T13:15:00Z",
+   "timeConfirmed": false,
+   "home": "ae-al-ain",
+   "away": "ae-ajman",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9902-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r02-ae-al-wasl-ae-kalba",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-02T13:15:00Z",
+   "timeConfirmed": false,
+   "home": "ae-al-wasl",
+   "away": "ae-kalba",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b990d-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r02-ae-khorfakkan-ae-al-jazira",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-02T15:45:00Z",
+   "timeConfirmed": false,
+   "home": "ae-khorfakkan",
+   "away": "ae-al-jazira",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b990f-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r02-ae-shabab-al-ahli-ae-al-nasr",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 2
+   },
+   "kickoff": "2026-10-02T15:45:00Z",
+   "timeConfirmed": false,
+   "home": "ae-shabab-al-ahli",
+   "away": "ae-al-nasr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b990a-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r03-ae-al-ain-ae-kalba",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-08T13:10:00Z",
+   "timeConfirmed": false,
+   "home": "ae-al-ain",
+   "away": "ae-kalba",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9915-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r03-ae-shabab-al-ahli-ae-united",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-08T13:10:00Z",
+   "timeConfirmed": false,
+   "home": "ae-shabab-al-ahli",
+   "away": "ae-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b991e-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r03-ae-al-nasr-ae-hatta",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-08T15:45:00Z",
+   "timeConfirmed": false,
+   "home": "ae-al-nasr",
+   "away": "ae-hatta",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9917-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r03-ae-khorfakkan-ae-al-wasl",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-08T15:45:00Z",
+   "timeConfirmed": false,
+   "home": "ae-khorfakkan",
+   "away": "ae-al-wasl",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9920-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r03-ae-ajman-ae-bani-yas",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-09T13:10:00Z",
+   "timeConfirmed": false,
+   "home": "ae-ajman",
+   "away": "ae-bani-yas",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b991a-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r03-ae-al-wahda-ae-al-dhafra",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-09T13:10:00Z",
+   "timeConfirmed": false,
+   "home": "ae-al-wahda",
+   "away": "ae-al-dhafra",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b991c-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r03-ae-sharjah-ae-al-jazira",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 3
+   },
+   "kickoff": "2026-10-09T15:45:00Z",
+   "timeConfirmed": false,
+   "home": "ae-sharjah",
+   "away": "ae-al-jazira",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9922-7625-11f1-b32b-0289588efdb9",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r04-ae-al-dhafra-ae-ajman",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-14T12:50:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-dhafra",
+   "away": "ae-ajman",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9924-7625-11f1-b32b-0289588efdb9"
+   ]
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r04-ae-al-wasl-ae-al-nasr",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-14T15:30:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-wasl",
+   "away": "ae-al-nasr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b992e-7625-11f1-b32b-0289588efdb9"
+   ]
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r04-ae-hatta-ae-al-ain",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-14T15:30:00Z",
+   "timeConfirmed": true,
+   "home": "ae-hatta",
+   "away": "ae-al-ain",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9926-7625-11f1-b32b-0289588efdb9"
+   ]
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r04-ae-al-wahda-ae-khorfakkan",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-15T12:50:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-wahda",
+   "away": "ae-khorfakkan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b992a-7625-11f1-b32b-0289588efdb9"
+   ]
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r04-ae-united-ae-sharjah",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-15T12:50:00Z",
+   "timeConfirmed": true,
+   "home": "ae-united",
+   "away": "ae-sharjah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9928-7625-11f1-b32b-0289588efdb9"
+   ]
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r04-ae-al-jazira-ae-bani-yas",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-15T15:30:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-jazira",
+   "away": "ae-bani-yas",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b992c-7625-11f1-b32b-0289588efdb9"
+   ]
+  },
+  {
+   "id": "uae-league-cup-2026-27-league-phase-r04-ae-kalba-ae-shabab-al-ahli",
+   "stage": {
+    "key": "league-phase",
+    "type": "league-phase",
+    "group": null,
+    "round": 4
+   },
+   "kickoff": "2026-11-15T15:30:00Z",
+   "timeConfirmed": true,
+   "home": "ae-kalba",
+   "away": "ae-shabab-al-ahli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/327b9930-7625-11f1-b32b-0289588efdb9"
+   ]
+  }
+ ]
+}

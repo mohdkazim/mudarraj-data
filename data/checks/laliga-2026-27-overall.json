@@ -1,0 +1,111 @@
+{
+ "competition": "laliga",
+ "season": "2026-27",
+ "table": "overall",
+ "asOf": "2026-10-23T08:55:00Z",
+ "rows": [
+  {
+   "team": "es-barcelona",
+   "played": 9,
+   "points": 27
+  },
+  {
+   "team": "es-atletico-madrid",
+   "played": 9,
+   "points": 22
+  },
+  {
+   "team": "es-real-madrid",
+   "played": 9,
+   "points": 21
+  },
+  {
+   "team": "es-real-betis",
+   "played": 9,
+   "points": 19
+  },
+  {
+   "team": "es-real-sociedad",
+   "played": 9,
+   "points": 16
+  },
+  {
+   "team": "es-sevilla",
+   "played": 9,
+   "points": 14
+  },
+  {
+   "team": "es-alaves",
+   "played": 9,
+   "points": 11
+  },
+  {
+   "team": "es-celta-vigo",
+   "played": 9,
+   "points": 11
+  },
+  {
+   "team": "es-deportivo-la-coruna",
+   "played": 9,
+   "points": 11
+  },
+  {
+   "team": "es-osasuna",
+   "played": 9,
+   "points": 11
+  },
+  {
+   "team": "es-levante",
+   "played": 9,
+   "points": 10
+  },
+  {
+   "team": "es-villarreal",
+   "played": 9,
+   "points": 9
+  },
+  {
+   "team": "es-athletic-club",
+   "played": 8,
+   "points": 9
+  },
+  {
+   "team": "es-rayo-vallecano",
+   "played": 8,
+   "points": 9
+  },
+  {
+   "team": "es-getafe",
+   "played": 9,
+   "points": 9
+  },
+  {
+   "team": "es-espanyol",
+   "played": 9,
+   "points": 8
+  },
+  {
+   "team": "es-racing-santander",
+   "played": 9,
+   "points": 8
+  },
+  {
+   "team": "es-elche",
+   "played": 9,
+   "points": 7
+  },
+  {
+   "team": "es-valencia",
+   "played": 9,
+   "points": 6
+  },
+  {
+   "team": "es-malaga",
+   "played": 9,
+   "points": 4
+  }
+ ],
+ "sources": [
+  "https://www.laliga.com/en-GB/laliga-easports/standing"
+ ]
+}

@@ -1,0 +1,33 @@
+{
+  "run": "2026-10-23T10:10:00Z",
+  "changes": [
+    {
+      "op": "fixture",
+      "match": "uae-presidents-cup-2026-27-r16-ae-hatta-ae-united",
+      "kickoff": "2026-10-24T12:00:00Z",
+      "timeConfirmed": false,
+      "sources": [
+        "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين"
+      ]
+    },
+    {
+      "op": "fixture",
+      "match": "uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra",
+      "kickoff": "2026-10-24T12:00:00Z",
+      "timeConfirmed": false,
+      "sources": [
+        "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين"
+      ]
+    },
+    {
+      "op": "fixture",
+      "match": "uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba",
+      "kickoff": "2026-10-24T12:00:00Z",
+      "timeConfirmed": false,
+      "sources": [
+        "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين"
+      ]
+    }
+  ],
+  "unconfirmed": []
+}

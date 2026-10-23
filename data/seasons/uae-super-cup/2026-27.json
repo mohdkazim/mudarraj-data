@@ -1,0 +1,38 @@
+{
+ "competition": "uae-super-cup",
+ "season": "2026-27",
+ "matches": [
+  {
+   "id": "uae-super-cup-2026-27-final-ae-al-ain-ae-shabab-al-ahli",
+   "stage": {
+    "key": "final",
+    "type": "final",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-11-29T15:30:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-ain",
+   "away": "ae-shabab-al-ahli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Mohammed bin Zayed Stadium",
+     "ar": "استاد محمد بن زايد"
+    },
+    "city": {
+     "en": "Abu Dhabi",
+     "ar": "أبوظبي"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.albayan.ae/sports/uae-stadiums/1559232",
+    "https://www.alkhaleej.ae/2026-05-22/رياضة/رياضة-الإمارات/سيف-بن-زايد-يتوج-العين-بأغلى-الكؤوس"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1677 @@
+{
+ "competition": "asian-cup",
+ "season": "2027",
+ "matches": [
+  {
+   "id": "asian-cup-2027-gA-nt-sa-nt-ps",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 1
+   },
+   "kickoff": "2027-01-07T17:00:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-sa",
+   "away": "nt-ps",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Fahd Sports City Stadium",
+     "ar": "استاد مدينة الملك فهد الرياضية"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gA-nt-kw-nt-om",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 1
+   },
+   "kickoff": "2027-01-08T11:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-kw",
+   "away": "nt-om",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Al Shabab Club Stadium",
+     "ar": "ملعب نادي الشباب"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gB-nt-bh-nt-kp",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 1
+   },
+   "kickoff": "2027-01-08T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-bh",
+   "away": "nt-kp",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Aramco Stadium",
+     "ar": "استاد أرامكو"
+    },
+    "city": {
+     "en": "Al Khobar",
+     "ar": "الخبر"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gB-nt-uz-nt-jo",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 1
+   },
+   "kickoff": "2027-01-08T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-uz",
+   "away": "nt-jo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Imam Mohammed bin Saud Islamic University Stadium",
+     "ar": "استاد جامعة الإمام محمد بن سعود"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gC-nt-sy-nt-kg",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 1
+   },
+   "kickoff": "2027-01-09T11:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-sy",
+   "away": "nt-kg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Al Shabab Club Stadium",
+     "ar": "ملعب نادي الشباب"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gC-nt-ir-nt-cn",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 1
+   },
+   "kickoff": "2027-01-09T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-ir",
+   "away": "nt-cn",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Kingdom Arena",
+     "ar": "المملكة أرينا"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gD-nt-au-nt-sg",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 1
+   },
+   "kickoff": "2027-01-09T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-au",
+   "away": "nt-sg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد الإنماء بمدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gD-nt-tj-nt-iq",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 1
+   },
+   "kickoff": "2027-01-10T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-tj",
+   "away": "nt-iq",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Saud University Stadium",
+     "ar": "استاد جامعة الملك سعود"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gE-nt-kr-nt-ye",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 1
+   },
+   "kickoff": "2027-01-10T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-kr",
+   "away": "nt-ye",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Imam Mohammed bin Saud Islamic University Stadium",
+     "ar": "استاد جامعة الإمام محمد بن سعود"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gE-nt-ae-nt-vn",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 1
+   },
+   "kickoff": "2027-01-11T11:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-ae",
+   "away": "nt-vn",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Prince Abdullah Al Faisal Sports City Stadium",
+     "ar": "استاد مدينة الأمير عبدالله الفيصل الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gF-nt-qa-nt-th",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 1
+   },
+   "kickoff": "2027-01-11T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-qa",
+   "away": "nt-th",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Aramco Stadium",
+     "ar": "استاد أرامكو"
+    },
+    "city": {
+     "en": "Al Khobar",
+     "ar": "الخبر"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gF-nt-jp-nt-id",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 1
+   },
+   "kickoff": "2027-01-11T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-jp",
+   "away": "nt-id",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد الإنماء بمدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gB-nt-kp-nt-uz",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 2
+   },
+   "kickoff": "2027-01-12T11:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-kp",
+   "away": "nt-uz",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Prince Abdullah Al Faisal Sports City Stadium",
+     "ar": "استاد مدينة الأمير عبدالله الفيصل الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gA-nt-ps-nt-kw",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 2
+   },
+   "kickoff": "2027-01-12T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-ps",
+   "away": "nt-kw",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Saud University Stadium",
+     "ar": "استاد جامعة الملك سعود"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gA-nt-om-nt-sa",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 2
+   },
+   "kickoff": "2027-01-12T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-om",
+   "away": "nt-sa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Fahd Sports City Stadium",
+     "ar": "استاد مدينة الملك فهد الرياضية"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gC-nt-kg-nt-ir",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 2
+   },
+   "kickoff": "2027-01-13T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-kg",
+   "away": "nt-ir",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Imam Mohammed bin Saud Islamic University Stadium",
+     "ar": "استاد جامعة الإمام محمد بن سعود"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gB-nt-jo-nt-bh",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 2
+   },
+   "kickoff": "2027-01-13T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-jo",
+   "away": "nt-bh",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد الإنماء بمدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gD-nt-sg-nt-tj",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 2
+   },
+   "kickoff": "2027-01-14T11:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-sg",
+   "away": "nt-tj",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Aramco Stadium",
+     "ar": "استاد أرامكو"
+    },
+    "city": {
+     "en": "Al Khobar",
+     "ar": "الخبر"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gC-nt-cn-nt-sy",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 2
+   },
+   "kickoff": "2027-01-14T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-cn",
+   "away": "nt-sy",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Prince Abdullah Al Faisal Sports City Stadium",
+     "ar": "استاد مدينة الأمير عبدالله الفيصل الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gD-nt-iq-nt-au",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 2
+   },
+   "kickoff": "2027-01-14T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-iq",
+   "away": "nt-au",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Kingdom Arena",
+     "ar": "المملكة أرينا"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gE-nt-vn-nt-kr",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 2
+   },
+   "kickoff": "2027-01-15T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-vn",
+   "away": "nt-kr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد الإنماء بمدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gE-nt-ye-nt-ae",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 2
+   },
+   "kickoff": "2027-01-15T17:00:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-ye",
+   "away": "nt-ae",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Kingdom Arena",
+     "ar": "المملكة أرينا"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gF-nt-th-nt-jp",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 2
+   },
+   "kickoff": "2027-01-16T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-th",
+   "away": "nt-jp",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Imam Mohammed bin Saud Islamic University Stadium",
+     "ar": "استاد جامعة الإمام محمد بن سعود"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gF-nt-id-nt-qa",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 2
+   },
+   "kickoff": "2027-01-16T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-id",
+   "away": "nt-qa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Saud University Stadium",
+     "ar": "استاد جامعة الملك سعود"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gB-nt-kp-nt-jo",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 3
+   },
+   "kickoff": "2027-01-17T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-kp",
+   "away": "nt-jo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Saud University Stadium",
+     "ar": "استاد جامعة الملك سعود"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gB-nt-uz-nt-bh",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 3
+   },
+   "kickoff": "2027-01-17T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-uz",
+   "away": "nt-bh",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Aramco Stadium",
+     "ar": "استاد أرامكو"
+    },
+    "city": {
+     "en": "Al Khobar",
+     "ar": "الخبر"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gA-nt-om-nt-ps",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 3
+   },
+   "kickoff": "2027-01-17T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-om",
+   "away": "nt-ps",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Kingdom Arena",
+     "ar": "المملكة أرينا"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gA-nt-sa-nt-kw",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 3
+   },
+   "kickoff": "2027-01-17T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-sa",
+   "away": "nt-kw",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Fahd Sports City Stadium",
+     "ar": "استاد مدينة الملك فهد الرياضية"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gC-nt-ir-nt-sy",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 3
+   },
+   "kickoff": "2027-01-18T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-ir",
+   "away": "nt-sy",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد الإنماء بمدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gC-nt-kg-nt-cn",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 3
+   },
+   "kickoff": "2027-01-18T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-kg",
+   "away": "nt-cn",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Al Shabab Club Stadium",
+     "ar": "ملعب نادي الشباب"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gD-nt-au-nt-tj",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 3
+   },
+   "kickoff": "2027-01-19T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-au",
+   "away": "nt-tj",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Imam Mohammed bin Saud Islamic University Stadium",
+     "ar": "استاد جامعة الإمام محمد بن سعود"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gD-nt-iq-nt-sg",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "D",
+    "round": 3
+   },
+   "kickoff": "2027-01-19T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-iq",
+   "away": "nt-sg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Prince Abdullah Al Faisal Sports City Stadium",
+     "ar": "استاد مدينة الأمير عبدالله الفيصل الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gF-nt-jp-nt-qa",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 3
+   },
+   "kickoff": "2027-01-20T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-jp",
+   "away": "nt-qa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Prince Abdullah Al Faisal Sports City Stadium",
+     "ar": "استاد مدينة الأمير عبدالله الفيصل الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gF-nt-th-nt-id",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "F",
+    "round": 3
+   },
+   "kickoff": "2027-01-20T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-th",
+   "away": "nt-id",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Kingdom Arena",
+     "ar": "المملكة أرينا"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gE-nt-kr-nt-ae",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 3
+   },
+   "kickoff": "2027-01-20T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-kr",
+   "away": "nt-ae",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Saud University Stadium",
+     "ar": "استاد جامعة الملك سعود"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-gE-nt-vn-nt-ye",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "E",
+    "round": 3
+   },
+   "kickoff": "2027-01-20T17:30:00.000Z",
+   "timeConfirmed": true,
+   "home": "nt-vn",
+   "away": "nt-ye",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Al Shabab Club Stadium",
+     "ar": "ملعب نادي الشباب"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m37",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-22T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Group A runners-up",
+    "ar": "وصيف المجموعة A"
+   },
+   "awayPlaceholder": {
+    "en": "Group C runners-up",
+    "ar": "وصيف المجموعة C"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Kingdom Arena",
+     "ar": "المملكة أرينا"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m38",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-22T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Group B winners",
+    "ar": "متصدر المجموعة B"
+   },
+   "awayPlaceholder": {
+    "en": "Best third-placed team (A/C/D)",
+    "ar": "أفضل ثالث (A/C/D)"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Al Shabab Club Stadium",
+     "ar": "ملعب نادي الشباب"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m39",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-23T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Group D winners",
+    "ar": "متصدر المجموعة D"
+   },
+   "awayPlaceholder": {
+    "en": "Best third-placed team (B/E/F)",
+    "ar": "أفضل ثالث (B/E/F)"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Imam Mohammed bin Saud Islamic University Stadium",
+     "ar": "استاد جامعة الإمام محمد بن سعود"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m40",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-23T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Group A winners",
+    "ar": "متصدر المجموعة A"
+   },
+   "awayPlaceholder": {
+    "en": "Best third-placed team (C/D/E)",
+    "ar": "أفضل ثالث (C/D/E)"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Aramco Stadium",
+     "ar": "استاد أرامكو"
+    },
+    "city": {
+     "en": "Al Khobar",
+     "ar": "الخبر"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m41",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-24T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Group F winners",
+    "ar": "متصدر المجموعة F"
+   },
+   "awayPlaceholder": {
+    "en": "Group E runners-up",
+    "ar": "وصيف المجموعة E"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Fahd Sports City Stadium",
+     "ar": "استاد مدينة الملك فهد الرياضية"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m42",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-24T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Group B runners-up",
+    "ar": "وصيف المجموعة B"
+   },
+   "awayPlaceholder": {
+    "en": "Group F runners-up",
+    "ar": "وصيف المجموعة F"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Prince Abdullah Al Faisal Sports City Stadium",
+     "ar": "استاد مدينة الأمير عبدالله الفيصل الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m43",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-25T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Group E winners",
+    "ar": "متصدر المجموعة E"
+   },
+   "awayPlaceholder": {
+    "en": "Group D runners-up",
+    "ar": "وصيف المجموعة D"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Saud University Stadium",
+     "ar": "استاد جامعة الملك سعود"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m44",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-25T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Group C winners",
+    "ar": "متصدر المجموعة C"
+   },
+   "awayPlaceholder": {
+    "en": "Best third-placed team (A/B/F)",
+    "ar": "أفضل ثالث (A/B/F)"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد الإنماء بمدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m45",
+   "stage": {
+    "key": "qf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-28T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Winner Round of 16 1",
+    "ar": "الفائز في دور الـ16 1"
+   },
+   "awayPlaceholder": {
+    "en": "Winner Round of 16 3",
+    "ar": "الفائز في دور الـ16 3"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Kingdom Arena",
+     "ar": "المملكة أرينا"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m46",
+   "stage": {
+    "key": "qf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-28T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Winner Round of 16 2",
+    "ar": "الفائز في دور الـ16 2"
+   },
+   "awayPlaceholder": {
+    "en": "Winner Round of 16 5",
+    "ar": "الفائز في دور الـ16 5"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد الإنماء بمدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m47",
+   "stage": {
+    "key": "qf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-29T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Winner Round of 16 8",
+    "ar": "الفائز في دور الـ16 8"
+   },
+   "awayPlaceholder": {
+    "en": "Winner Round of 16 7",
+    "ar": "الفائز في دور الـ16 7"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Fahd Sports City Stadium",
+     "ar": "استاد مدينة الملك فهد الرياضية"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m48",
+   "stage": {
+    "key": "qf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-29T14:30:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Winner Round of 16 4",
+    "ar": "الفائز في دور الـ16 4"
+   },
+   "awayPlaceholder": {
+    "en": "Winner Round of 16 6",
+    "ar": "الفائز في دور الـ16 6"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Aramco Stadium",
+     "ar": "استاد أرامكو"
+    },
+    "city": {
+     "en": "Al Khobar",
+     "ar": "الخبر"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m49",
+   "stage": {
+    "key": "sf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-02-01T17:00:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Winner Quarter-finals 1",
+    "ar": "الفائز في ربع النهائي 1"
+   },
+   "awayPlaceholder": {
+    "en": "Winner Quarter-finals 2",
+    "ar": "الفائز في ربع النهائي 2"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Aramco Stadium",
+     "ar": "استاد أرامكو"
+    },
+    "city": {
+     "en": "Al Khobar",
+     "ar": "الخبر"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m50",
+   "stage": {
+    "key": "sf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-02-02T17:00:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Winner Quarter-finals 3",
+    "ar": "الفائز في ربع النهائي 3"
+   },
+   "awayPlaceholder": {
+    "en": "Winner Quarter-finals 4",
+    "ar": "الفائز في ربع النهائي 4"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد الإنماء بمدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  },
+  {
+   "id": "asian-cup-2027-m51",
+   "stage": {
+    "key": "final",
+    "type": "final",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-02-05T17:00:00.000Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Winner Semi-finals 1",
+    "ar": "الفائز في نصف النهائي 1"
+   },
+   "awayPlaceholder": {
+    "en": "Winner Semi-finals 2",
+    "ar": "الفائز في نصف النهائي 2"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Fahd Sports City Stadium",
+     "ar": "استاد مدينة الملك فهد الرياضية"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/"
+   ]
+  }
+ ]
+}

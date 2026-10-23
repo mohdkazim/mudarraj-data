@@ -1,0 +1,43 @@
+{
+  "run": "2026-10-23T09:30:00Z",
+  "changes": [
+    {
+      "op": "result",
+      "match": "acle-2026-27-league-west-gwest-r01-ae-al-ain-sa-al-nassr",
+      "status": "FT",
+      "score": [
+        4,
+        0
+      ],
+      "sources": [
+        "https://www.khaleejtimes.com/football/look-ronaldo-cuts-a-frustrating-figure-uaes-al-ain-thrash-al-nassr-4-0",
+        "https://www.gulftoday.ae/sport/2026/10/14/al-ain-rout-air-force-club-for-2nd-straight-afc-champions-league-elite-victory"
+      ]
+    },
+    {
+      "op": "result",
+      "match": "acle-2026-27-league-west-gwest-r02-iq-al-quwa-al-jawiya-ae-al-ain",
+      "status": "FT",
+      "score": [
+        1,
+        4
+      ],
+      "sources": [
+        "https://www.gulftoday.ae/sport/2026/10/14/al-ain-rout-air-force-club-for-2nd-straight-afc-champions-league-elite-victory"
+      ]
+    },
+    {
+      "op": "result",
+      "match": "acle-2026-27-league-west-gwest-r02-ae-al-wasl-sa-al-ahli-saudi",
+      "status": "FT",
+      "score": [
+        1,
+        3
+      ],
+      "sources": [
+        "https://www.gulftoday.ae/sport/2026/10/14/al-ain-rout-air-force-club-for-2nd-straight-afc-champions-league-elite-victory"
+      ]
+    }
+  ],
+  "unconfirmed": []
+}

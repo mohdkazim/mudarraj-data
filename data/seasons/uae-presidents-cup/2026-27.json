@@ -1,0 +1,243 @@
+{
+ "competition": "uae-presidents-cup",
+ "season": "2026-27",
+ "matches": [
+  {
+   "id": "uae-presidents-cup-2026-27-r16-ae-al-jazira-ae-ajman",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-22T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-jazira",
+   "away": "ae-ajman",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2095150",
+    "https://www.albayan.ae/sports/uae-stadiums/1559887",
+    "https://www.alkhaleej.ae/2026-10-23/رياضة/رياضة-الإمارات/شباب-الأهلي-يجرد-العين-من-لقب-أغلى-الكؤوس",
+    "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2094882"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-presidents-cup-2026-27-r16-ae-al-wasl-ae-kalba",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-22T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-wasl",
+   "away": "ae-kalba",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "PEN",
+   "score": {
+    "home": 2,
+    "away": 2,
+    "ht": [
+     1,
+     0
+    ],
+    "regular": [
+     1,
+     1
+    ],
+    "et": [
+     1,
+     1
+    ],
+    "pens": [
+     4,
+     3
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2095168",
+    "https://www.albayan.ae/sports/uae-stadiums/1559824",
+    "https://www.albayan.ae/sports/uae-stadiums/1559887",
+    "https://www.alkhaleej.ae/2026-10-23/رياضة/رياضة-الإمارات/شباب-الأهلي-يجرد-العين-من-لقب-أغلى-الكؤوس"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-presidents-cup-2026-27-r16-ae-shabab-al-ahli-ae-al-ain",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-22T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-shabab-al-ahli",
+   "away": "ae-al-ain",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "AET",
+   "score": {
+    "home": 3,
+    "away": 2,
+    "ht": [
+     2,
+     1
+    ],
+    "regular": [
+     2,
+     2
+    ],
+    "et": [
+     1,
+     0
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2095213",
+    "https://www.albayan.ae/sports/uae-stadiums/1559887",
+    "https://www.alkhaleej.ae/2026-10-23/رياضة/رياضة-الإمارات/شباب-الأهلي-يجرد-العين-من-لقب-أغلى-الكؤوس",
+    "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2094882"
+   ],
+   "updatedAt": "2026-10-23T09:32:25.814Z"
+  },
+  {
+   "id": "uae-presidents-cup-2026-27-r16-ae-fujairah-ae-al-wahda",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-23T12:55:00Z",
+   "timeConfirmed": true,
+   "home": "ae-fujairah",
+   "away": "ae-al-wahda",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095423",
+    "https://www.albayan.ae/sports/uae-stadiums/1559726",
+    "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
+    "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255"
+   ]
+  },
+  {
+   "id": "uae-presidents-cup-2026-27-r16-ae-al-nasr-ae-bani-yas",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-23T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-nasr",
+   "away": "ae-bani-yas",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095423",
+    "https://www.albayan.ae/sports/uae-stadiums/1559726",
+    "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
+    "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255"
+   ]
+  },
+  {
+   "id": "uae-presidents-cup-2026-27-r16-ae-hatta-ae-united",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-24T12:00:00Z",
+   "timeConfirmed": false,
+   "home": "ae-hatta",
+   "away": "ae-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "TBD",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
+    "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
+    "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس"
+   ]
+  },
+  {
+   "id": "uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-24T12:00:00Z",
+   "timeConfirmed": false,
+   "home": "ae-khorfakkan",
+   "away": "ae-al-dhafra",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "TBD",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
+    "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
+    "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس"
+   ]
+  },
+  {
+   "id": "uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-24T12:00:00Z",
+   "timeConfirmed": false,
+   "home": "ae-sharjah",
+   "away": "ae-al-orooba",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "TBD",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
+    "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
+    "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس"
+   ]
+  }
+ ]
+}

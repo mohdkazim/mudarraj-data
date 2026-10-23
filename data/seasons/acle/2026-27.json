@@ -1,0 +1,3103 @@
+{
+ "competition": "acle",
+ "season": "2026-27",
+ "matches": [
+  {
+   "id": "acle-2026-27-league-west-gwest-r01-uz-neftchi-fergana-iq-al-quwa-al-jawiya",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 1
+   },
+   "kickoff": "2026-09-14T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "uz-neftchi-fergana",
+   "away": "iq-al-quwa-al-jawiya",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r01-ae-shabab-al-ahli-ir-tractor",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 1
+   },
+   "kickoff": "2026-09-14T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-shabab-al-ahli",
+   "away": "ir-tractor",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r01-qa-al-shamal-sa-al-ittihad",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 1
+   },
+   "kickoff": "2026-09-14T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-shamal",
+   "away": "sa-al-ittihad",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r01-ir-esteghlal-qa-al-sadd",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 1
+   },
+   "kickoff": "2026-09-14T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "ir-esteghlal",
+   "away": "qa-al-sadd",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r01-sa-al-ahli-saudi-uz-pakhtakor",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 1
+   },
+   "kickoff": "2026-09-14T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ahli-saudi",
+   "away": "uz-pakhtakor",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r01-sa-al-qadsiah-ae-al-wasl",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 1
+   },
+   "kickoff": "2026-09-14T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-qadsiah",
+   "away": "ae-al-wasl",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r01-jp-gamba-osaka-vn-cong-an-ha-noi",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 1
+   },
+   "kickoff": "2026-09-15T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-gamba-osaka",
+   "away": "vn-cong-an-ha-noi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r01-jp-kashima-antlers-au-newcastle-jets",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 1
+   },
+   "kickoff": "2026-09-15T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-kashima-antlers",
+   "away": "au-newcastle-jets",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 7,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r01-kr-daejeon-hana-citizen-jp-kyoto-sanga",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 1
+   },
+   "kickoff": "2026-09-15T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-daejeon-hana-citizen",
+   "away": "jp-kyoto-sanga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r01-th-ratchaburi-cn-shanghai-port",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 1
+   },
+   "kickoff": "2026-09-15T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "th-ratchaburi",
+   "away": "cn-shanghai-port",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 6
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r01-cn-beijing-guoan-kr-pohang-steelers",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 1
+   },
+   "kickoff": "2026-09-15T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "cn-beijing-guoan",
+   "away": "kr-pohang-steelers",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r01-my-johor-darul-ta-zim-th-buriram-united",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 1
+   },
+   "kickoff": "2026-09-15T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "my-johor-darul-ta-zim",
+   "away": "th-buriram-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r01-ae-al-ain-sa-al-nassr",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 1
+   },
+   "kickoff": "2026-09-15T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-ain",
+   "away": "sa-al-nassr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://www.khaleejtimes.com/football/look-ronaldo-cuts-a-frustrating-figure-uaes-al-ain-thrash-al-nassr-4-0",
+    "https://www.gulftoday.ae/sport/2026/10/14/al-ain-rout-air-force-club-for-2nd-straight-afc-champions-league-elite-victory"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r01-sa-al-hilal-qa-al-gharafa",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 1
+   },
+   "kickoff": "2026-09-15T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-hilal",
+   "away": "qa-al-gharafa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r01-kr-jeonbuk-hyundai-motors-jp-kashiwa-reysol",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 1
+   },
+   "kickoff": "2026-09-16T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-jeonbuk-hyundai-motors",
+   "away": "jp-kashiwa-reysol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://qna.org.qa/en/News-Area/News/2026-9/16/afc-champions-league-elite-jeonbuk-of-korea-defeat-japans-kashiwa-reysol",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r01-th-port-fc-jp-vissel-kobe",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 1
+   },
+   "kickoff": "2026-09-16T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "th-port-fc",
+   "away": "jp-vissel-kobe",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912654/competitions/401912654/competitors/17757/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912654/competitions/401912654/competitors/7477/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r02-uz-pakhtakor-sa-al-qadsiah",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 2
+   },
+   "kickoff": "2026-10-12T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "uz-pakhtakor",
+   "away": "sa-al-qadsiah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912669/competitions/401912669/competitors/7123/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912669/competitions/401912669/competitors/22022/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912669/competitions/401912669/status?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r02-ae-al-wasl-sa-al-ahli-saudi",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 2
+   },
+   "kickoff": "2026-10-12T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-wasl",
+   "away": "sa-al-ahli-saudi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912628/competitions/401912628/competitors/8365/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912628/competitions/401912628/competitors/8346/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://www.gulftoday.ae/sport/2026/10/14/al-ain-rout-air-force-club-for-2nd-straight-afc-champions-league-elite-victory"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r02-ir-tractor-qa-al-shamal",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 2
+   },
+   "kickoff": "2026-10-12T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ir-tractor",
+   "away": "qa-al-shamal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912653/competitions/401912653/competitors/15107/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912653/competitions/401912653/competitors/21575/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912653/competitions/401912653/status?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r02-iq-al-quwa-al-jawiya-ae-al-ain",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 2
+   },
+   "kickoff": "2026-10-12T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "iq-al-quwa-al-jawiya",
+   "away": "ae-al-ain",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912652/competitions/401912652/competitors/20912/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912652/competitions/401912652/competitors/7128/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://www.gulftoday.ae/sport/2026/10/14/al-ain-rout-air-force-club-for-2nd-straight-afc-champions-league-elite-victory"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r02-qa-al-gharafa-ir-esteghlal",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 2
+   },
+   "kickoff": "2026-10-12T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-gharafa",
+   "away": "ir-esteghlal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912651/competitions/401912651/competitors/7129/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912651/competitions/401912651/competitors/7525/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r02-sa-al-nassr-uz-neftchi-fergana",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 2
+   },
+   "kickoff": "2026-10-12T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-nassr",
+   "away": "uz-neftchi-fergana",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912627/competitions/401912627/competitors/817/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912627/competitions/401912627/competitors/7530/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r02-au-newcastle-jets-jp-gamba-osaka",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 2
+   },
+   "kickoff": "2026-10-13T07:45:00Z",
+   "timeConfirmed": true,
+   "home": "au-newcastle-jets",
+   "away": "jp-gamba-osaka",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912650/competitions/401912650/competitors/5323/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912650/competitions/401912650/competitors/7102/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r02-cn-shanghai-port-kr-daejeon-hana-citizen",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 2
+   },
+   "kickoff": "2026-10-13T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "cn-shanghai-port",
+   "away": "kr-daejeon-hana-citizen",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912626/competitions/401912626/competitors/15515/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912626/competitions/401912626/competitors/133171/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912626/competitions/401912626/status?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r02-jp-kyoto-sanga-th-ratchaburi",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 2
+   },
+   "kickoff": "2026-10-13T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-kyoto-sanga",
+   "away": "th-ratchaburi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912649/competitions/401912649/competitors/21361/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912649/competitions/401912649/competitors/17760/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r02-kr-pohang-steelers-my-johor-darul-ta-zim",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 2
+   },
+   "kickoff": "2026-10-13T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-pohang-steelers",
+   "away": "my-johor-darul-ta-zim",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912648/competitions/401912648/competitors/9693/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912648/competitions/401912648/competitors/17689/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r02-th-buriram-united-cn-beijing-guoan",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 2
+   },
+   "kickoff": "2026-10-13T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "th-buriram-united",
+   "away": "cn-beijing-guoan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912647/competitions/401912647/competitors/7138/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912647/competitions/401912647/competitors/2052/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r02-vn-cong-an-ha-noi-jp-kashima-antlers",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 2
+   },
+   "kickoff": "2026-10-13T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "vn-cong-an-ha-noi",
+   "away": "jp-kashima-antlers",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912625/competitions/401912625/competitors/131375/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912625/competitions/401912625/competitors/7115/score?lang=en&region=us",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r02-qa-al-sadd-sa-al-hilal",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 2
+   },
+   "kickoff": "2026-10-13T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-sadd",
+   "away": "sa-al-hilal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912646/competitions/401912646/competitors/7135/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912646/competitions/401912646/competitors/929/score?lang=en&region=us",
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/matchday-two-facts-figures",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r02-sa-al-ittihad-ae-shabab-al-ahli",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 2
+   },
+   "kickoff": "2026-10-13T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ittihad",
+   "away": "ae-shabab-al-ahli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912624/competitions/401912624/competitors/2276/score?lang=en&region=us",
+    "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912624/competitions/401912624/competitors/790/score?lang=en&region=us",
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/matchday-two-facts-figures",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r02-jp-kashiwa-reysol-th-port-fc",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 2
+   },
+   "kickoff": "2026-10-14T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-kashiwa-reysol",
+   "away": "th-port-fc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md2-kashiwa-reysol-jpn-5-1-port-fc-tha",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r02-jp-vissel-kobe-kr-jeonbuk-hyundai-motors",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 2
+   },
+   "kickoff": "2026-10-14T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-vissel-kobe",
+   "away": "kr-jeonbuk-hyundai-motors",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md2-vissel-kobe-jpn-2-0-jeonbuk-hyundai-motors-fc-kor",
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/matchday-two-facts-figures",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+   ],
+   "updatedAt": "2026-10-23T09:18:38.139Z"
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r03-uz-neftchi-fergana-sa-al-ittihad",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 3
+   },
+   "kickoff": "2026-10-26T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "uz-neftchi-fergana",
+   "away": "sa-al-ittihad",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261026",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r03-ae-al-ain-ir-tractor",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 3
+   },
+   "kickoff": "2026-10-26T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-ain",
+   "away": "ir-tractor",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261026",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r03-sa-al-ahli-saudi-qa-al-gharafa",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 3
+   },
+   "kickoff": "2026-10-26T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ahli-saudi",
+   "away": "qa-al-gharafa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261026",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r03-iq-al-quwa-al-jawiya-uz-pakhtakor",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 3
+   },
+   "kickoff": "2026-10-26T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "iq-al-quwa-al-jawiya",
+   "away": "uz-pakhtakor",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261026",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r03-sa-al-nassr-ae-al-wasl",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 3
+   },
+   "kickoff": "2026-10-26T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-nassr",
+   "away": "ae-al-wasl",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261026",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r03-sa-al-qadsiah-qa-al-sadd",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 3
+   },
+   "kickoff": "2026-10-26T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-qadsiah",
+   "away": "qa-al-sadd",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261026",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r03-cn-shanghai-port-vn-cong-an-ha-noi",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 3
+   },
+   "kickoff": "2026-10-27T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "cn-shanghai-port",
+   "away": "vn-cong-an-ha-noi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r03-jp-kyoto-sanga-au-newcastle-jets",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 3
+   },
+   "kickoff": "2026-10-27T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-kyoto-sanga",
+   "away": "au-newcastle-jets",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r03-kr-daejeon-hana-citizen-jp-vissel-kobe",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 3
+   },
+   "kickoff": "2026-10-27T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-daejeon-hana-citizen",
+   "away": "jp-vissel-kobe",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r03-my-johor-darul-ta-zim-th-port-fc",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 3
+   },
+   "kickoff": "2026-10-27T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "my-johor-darul-ta-zim",
+   "away": "th-port-fc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r03-cn-beijing-guoan-kr-jeonbuk-hyundai-motors",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 3
+   },
+   "kickoff": "2026-10-27T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "cn-beijing-guoan",
+   "away": "kr-jeonbuk-hyundai-motors",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r03-th-ratchaburi-jp-kashiwa-reysol",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 3
+   },
+   "kickoff": "2026-10-27T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "th-ratchaburi",
+   "away": "jp-kashiwa-reysol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r03-ae-shabab-al-ahli-ir-esteghlal",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 3
+   },
+   "kickoff": "2026-10-27T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-shabab-al-ahli",
+   "away": "ir-esteghlal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r03-qa-al-shamal-sa-al-hilal",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 3
+   },
+   "kickoff": "2026-10-27T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-shamal",
+   "away": "sa-al-hilal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r03-jp-gamba-osaka-th-buriram-united",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 3
+   },
+   "kickoff": "2026-10-28T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-gamba-osaka",
+   "away": "th-buriram-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261028",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r03-jp-kashima-antlers-kr-pohang-steelers",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 3
+   },
+   "kickoff": "2026-10-28T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-kashima-antlers",
+   "away": "kr-pohang-steelers",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261028",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r04-uz-pakhtakor-sa-al-nassr",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 4
+   },
+   "kickoff": "2026-11-02T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "uz-pakhtakor",
+   "away": "sa-al-nassr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r04-ae-al-wasl-iq-al-quwa-al-jawiya",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 4
+   },
+   "kickoff": "2026-11-02T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-wasl",
+   "away": "iq-al-quwa-al-jawiya",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r04-ir-tractor-uz-neftchi-fergana",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 4
+   },
+   "kickoff": "2026-11-02T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ir-tractor",
+   "away": "uz-neftchi-fergana",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r04-qa-al-sadd-sa-al-ahli-saudi",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 4
+   },
+   "kickoff": "2026-11-02T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-sadd",
+   "away": "sa-al-ahli-saudi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r04-qa-al-gharafa-sa-al-qadsiah",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 4
+   },
+   "kickoff": "2026-11-02T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-gharafa",
+   "away": "sa-al-qadsiah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r04-sa-al-ittihad-ae-al-ain",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 4
+   },
+   "kickoff": "2026-11-02T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ittihad",
+   "away": "ae-al-ain",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r04-au-newcastle-jets-cn-shanghai-port",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 4
+   },
+   "kickoff": "2026-11-03T07:45:00Z",
+   "timeConfirmed": true,
+   "home": "au-newcastle-jets",
+   "away": "cn-shanghai-port",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r04-jp-kashiwa-reysol-kr-daejeon-hana-citizen",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 4
+   },
+   "kickoff": "2026-11-03T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-kashiwa-reysol",
+   "away": "kr-daejeon-hana-citizen",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r04-jp-vissel-kobe-th-ratchaburi",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 4
+   },
+   "kickoff": "2026-11-03T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-vissel-kobe",
+   "away": "th-ratchaburi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r04-kr-jeonbuk-hyundai-motors-my-johor-darul-ta-zim",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 4
+   },
+   "kickoff": "2026-11-03T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-jeonbuk-hyundai-motors",
+   "away": "my-johor-darul-ta-zim",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r04-th-port-fc-cn-beijing-guoan",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 4
+   },
+   "kickoff": "2026-11-03T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "th-port-fc",
+   "away": "cn-beijing-guoan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r04-vn-cong-an-ha-noi-jp-kyoto-sanga",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 4
+   },
+   "kickoff": "2026-11-03T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "vn-cong-an-ha-noi",
+   "away": "jp-kyoto-sanga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r04-ir-esteghlal-qa-al-shamal",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 4
+   },
+   "kickoff": "2026-11-03T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ir-esteghlal",
+   "away": "qa-al-shamal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r04-sa-al-hilal-ae-shabab-al-ahli",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 4
+   },
+   "kickoff": "2026-11-03T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-hilal",
+   "away": "ae-shabab-al-ahli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r04-kr-pohang-steelers-jp-gamba-osaka",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 4
+   },
+   "kickoff": "2026-11-04T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-pohang-steelers",
+   "away": "jp-gamba-osaka",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r04-th-buriram-united-jp-kashima-antlers",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 4
+   },
+   "kickoff": "2026-11-04T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "th-buriram-united",
+   "away": "jp-kashima-antlers",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261104",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r05-uz-neftchi-fergana-sa-al-hilal",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 5
+   },
+   "kickoff": "2026-11-23T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "uz-neftchi-fergana",
+   "away": "sa-al-hilal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r05-ae-al-ain-ir-esteghlal",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 5
+   },
+   "kickoff": "2026-11-23T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-ain",
+   "away": "ir-esteghlal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r05-ir-tractor-ae-al-wasl",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 5
+   },
+   "kickoff": "2026-11-23T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ir-tractor",
+   "away": "ae-al-wasl",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r05-qa-al-shamal-sa-al-ahli-saudi",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 5
+   },
+   "kickoff": "2026-11-23T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-shamal",
+   "away": "sa-al-ahli-saudi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r05-iq-al-quwa-al-jawiya-qa-al-gharafa",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 5
+   },
+   "kickoff": "2026-11-23T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "iq-al-quwa-al-jawiya",
+   "away": "qa-al-gharafa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r05-sa-al-ittihad-uz-pakhtakor",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 5
+   },
+   "kickoff": "2026-11-23T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ittihad",
+   "away": "uz-pakhtakor",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r05-au-newcastle-jets-jp-kashiwa-reysol",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 5
+   },
+   "kickoff": "2026-11-24T07:45:00Z",
+   "timeConfirmed": true,
+   "home": "au-newcastle-jets",
+   "away": "jp-kashiwa-reysol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r05-jp-kyoto-sanga-kr-pohang-steelers",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 5
+   },
+   "kickoff": "2026-11-24T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-kyoto-sanga",
+   "away": "kr-pohang-steelers",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r05-kr-daejeon-hana-citizen-cn-beijing-guoan",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 5
+   },
+   "kickoff": "2026-11-24T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-daejeon-hana-citizen",
+   "away": "cn-beijing-guoan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r05-cn-shanghai-port-th-buriram-united",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 5
+   },
+   "kickoff": "2026-11-24T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "cn-shanghai-port",
+   "away": "th-buriram-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r05-th-ratchaburi-my-johor-darul-ta-zim",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 5
+   },
+   "kickoff": "2026-11-24T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "th-ratchaburi",
+   "away": "my-johor-darul-ta-zim",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r05-vn-cong-an-ha-noi-jp-vissel-kobe",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 5
+   },
+   "kickoff": "2026-11-24T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "vn-cong-an-ha-noi",
+   "away": "jp-vissel-kobe",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r05-ae-shabab-al-ahli-sa-al-qadsiah",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 5
+   },
+   "kickoff": "2026-11-24T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-shabab-al-ahli",
+   "away": "sa-al-qadsiah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r05-sa-al-nassr-qa-al-sadd",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 5
+   },
+   "kickoff": "2026-11-24T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-nassr",
+   "away": "qa-al-sadd",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r05-jp-gamba-osaka-th-port-fc",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 5
+   },
+   "kickoff": "2026-11-25T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-gamba-osaka",
+   "away": "th-port-fc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r05-jp-kashima-antlers-kr-jeonbuk-hyundai-motors",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 5
+   },
+   "kickoff": "2026-11-25T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-kashima-antlers",
+   "away": "kr-jeonbuk-hyundai-motors",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261125",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r06-jp-kashiwa-reysol-vn-cong-an-ha-noi",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 6
+   },
+   "kickoff": "2026-12-01T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-kashiwa-reysol",
+   "away": "vn-cong-an-ha-noi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261201",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r06-jp-vissel-kobe-au-newcastle-jets",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 6
+   },
+   "kickoff": "2026-12-01T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-vissel-kobe",
+   "away": "au-newcastle-jets",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261201",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r06-kr-pohang-steelers-cn-shanghai-port",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 6
+   },
+   "kickoff": "2026-12-01T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-pohang-steelers",
+   "away": "cn-shanghai-port",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261201",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r06-cn-beijing-guoan-th-ratchaburi",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 6
+   },
+   "kickoff": "2026-12-01T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "cn-beijing-guoan",
+   "away": "th-ratchaburi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261201",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r06-my-johor-darul-ta-zim-kr-daejeon-hana-citizen",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 6
+   },
+   "kickoff": "2026-12-01T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "my-johor-darul-ta-zim",
+   "away": "kr-daejeon-hana-citizen",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261201",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r06-th-buriram-united-jp-kyoto-sanga",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 6
+   },
+   "kickoff": "2026-12-01T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "th-buriram-united",
+   "away": "jp-kyoto-sanga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261201",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r06-kr-jeonbuk-hyundai-motors-jp-gamba-osaka",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 6
+   },
+   "kickoff": "2026-12-02T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-jeonbuk-hyundai-motors",
+   "away": "jp-gamba-osaka",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261202",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r06-th-port-fc-jp-kashima-antlers",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 6
+   },
+   "kickoff": "2026-12-02T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "th-port-fc",
+   "away": "jp-kashima-antlers",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261202",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r06-uz-pakhtakor-ir-tractor",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 6
+   },
+   "kickoff": "2026-12-07T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "uz-pakhtakor",
+   "away": "ir-tractor",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261207",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r06-ae-al-wasl-sa-al-ittihad",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 6
+   },
+   "kickoff": "2026-12-07T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-wasl",
+   "away": "sa-al-ittihad",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261207",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r06-sa-al-qadsiah-qa-al-shamal",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 6
+   },
+   "kickoff": "2026-12-07T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-qadsiah",
+   "away": "qa-al-shamal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261207",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r06-ir-esteghlal-uz-neftchi-fergana",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 6
+   },
+   "kickoff": "2026-12-07T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "ir-esteghlal",
+   "away": "uz-neftchi-fergana",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261207",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r06-qa-al-sadd-iq-al-quwa-al-jawiya",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 6
+   },
+   "kickoff": "2026-12-07T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-sadd",
+   "away": "iq-al-quwa-al-jawiya",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261207",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r06-sa-al-hilal-ae-al-ain",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 6
+   },
+   "kickoff": "2026-12-07T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-hilal",
+   "away": "ae-al-ain",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261207",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r06-qa-al-gharafa-sa-al-nassr",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 6
+   },
+   "kickoff": "2026-12-08T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-gharafa",
+   "away": "sa-al-nassr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r06-sa-al-ahli-saudi-ae-shabab-al-ahli",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 6
+   },
+   "kickoff": "2026-12-08T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ahli-saudi",
+   "away": "ae-shabab-al-ahli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r07-uz-pakhtakor-ir-esteghlal",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 7
+   },
+   "kickoff": "2027-02-08T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "uz-pakhtakor",
+   "away": "ir-esteghlal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r07-ae-al-ain-sa-al-qadsiah",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 7
+   },
+   "kickoff": "2027-02-08T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-ain",
+   "away": "sa-al-qadsiah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r07-ir-tractor-qa-al-sadd",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 7
+   },
+   "kickoff": "2027-02-08T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ir-tractor",
+   "away": "qa-al-sadd",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r07-iq-al-quwa-al-jawiya-ae-shabab-al-ahli",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 7
+   },
+   "kickoff": "2027-02-08T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "iq-al-quwa-al-jawiya",
+   "away": "ae-shabab-al-ahli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r07-sa-al-ittihad-qa-al-gharafa",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 7
+   },
+   "kickoff": "2027-02-08T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ittihad",
+   "away": "qa-al-gharafa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r07-sa-al-nassr-qa-al-shamal",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 7
+   },
+   "kickoff": "2027-02-08T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-nassr",
+   "away": "qa-al-shamal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270208",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r07-au-newcastle-jets-my-johor-darul-ta-zim",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 7
+   },
+   "kickoff": "2027-02-09T07:45:00Z",
+   "timeConfirmed": true,
+   "home": "au-newcastle-jets",
+   "away": "my-johor-darul-ta-zim",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r07-cn-shanghai-port-th-port-fc",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 7
+   },
+   "kickoff": "2027-02-09T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "cn-shanghai-port",
+   "away": "th-port-fc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r07-jp-kyoto-sanga-kr-jeonbuk-hyundai-motors",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 7
+   },
+   "kickoff": "2027-02-09T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-kyoto-sanga",
+   "away": "kr-jeonbuk-hyundai-motors",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r07-kr-daejeon-hana-citizen-jp-kashima-antlers",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 7
+   },
+   "kickoff": "2027-02-09T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-daejeon-hana-citizen",
+   "away": "jp-kashima-antlers",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r07-th-ratchaburi-jp-gamba-osaka",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 7
+   },
+   "kickoff": "2027-02-09T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "th-ratchaburi",
+   "away": "jp-gamba-osaka",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r07-vn-cong-an-ha-noi-cn-beijing-guoan",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 7
+   },
+   "kickoff": "2027-02-09T12:15:00Z",
+   "timeConfirmed": true,
+   "home": "vn-cong-an-ha-noi",
+   "away": "cn-beijing-guoan",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r07-uz-neftchi-fergana-sa-al-ahli-saudi",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 7
+   },
+   "kickoff": "2027-02-09T13:45:00Z",
+   "timeConfirmed": true,
+   "home": "uz-neftchi-fergana",
+   "away": "sa-al-ahli-saudi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r07-ae-al-wasl-sa-al-hilal",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 7
+   },
+   "kickoff": "2027-02-09T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-wasl",
+   "away": "sa-al-hilal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270209",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r07-jp-kashiwa-reysol-th-buriram-united",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 7
+   },
+   "kickoff": "2027-02-10T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-kashiwa-reysol",
+   "away": "th-buriram-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270210",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r07-jp-vissel-kobe-kr-pohang-steelers",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 7
+   },
+   "kickoff": "2027-02-10T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-vissel-kobe",
+   "away": "kr-pohang-steelers",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270210",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r08-ae-shabab-al-ahli-sa-al-nassr",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 8
+   },
+   "kickoff": "2027-02-15T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "ae-shabab-al-ahli",
+   "away": "sa-al-nassr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270215",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r08-ir-esteghlal-ae-al-wasl",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 8
+   },
+   "kickoff": "2027-02-15T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "ir-esteghlal",
+   "away": "ae-al-wasl",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270215",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r08-qa-al-gharafa-ir-tractor",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 8
+   },
+   "kickoff": "2027-02-15T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-gharafa",
+   "away": "ir-tractor",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270215",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r08-qa-al-sadd-sa-al-ittihad",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 8
+   },
+   "kickoff": "2027-02-15T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-sadd",
+   "away": "sa-al-ittihad",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270215",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r08-qa-al-shamal-iq-al-quwa-al-jawiya",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 8
+   },
+   "kickoff": "2027-02-15T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "qa-al-shamal",
+   "away": "iq-al-quwa-al-jawiya",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270215",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r08-sa-al-ahli-saudi-ae-al-ain",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 8
+   },
+   "kickoff": "2027-02-15T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ahli-saudi",
+   "away": "ae-al-ain",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270215",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r08-sa-al-hilal-uz-pakhtakor",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 8
+   },
+   "kickoff": "2027-02-15T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-hilal",
+   "away": "uz-pakhtakor",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270215",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-west-gwest-r08-sa-al-qadsiah-uz-neftchi-fergana",
+   "stage": {
+    "key": "league-west",
+    "type": "league-phase",
+    "group": "west",
+    "round": 8
+   },
+   "kickoff": "2027-02-15T18:15:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-qadsiah",
+   "away": "uz-neftchi-fergana",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270215",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r08-cn-beijing-guoan-au-newcastle-jets",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 8
+   },
+   "kickoff": "2027-02-16T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "cn-beijing-guoan",
+   "away": "au-newcastle-jets",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270216",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r08-jp-gamba-osaka-kr-daejeon-hana-citizen",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 8
+   },
+   "kickoff": "2027-02-16T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-gamba-osaka",
+   "away": "kr-daejeon-hana-citizen",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270216",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r08-jp-kashima-antlers-th-ratchaburi",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 8
+   },
+   "kickoff": "2027-02-16T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "jp-kashima-antlers",
+   "away": "th-ratchaburi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270216",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r08-kr-jeonbuk-hyundai-motors-cn-shanghai-port",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 8
+   },
+   "kickoff": "2027-02-16T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-jeonbuk-hyundai-motors",
+   "away": "cn-shanghai-port",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270216",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r08-kr-pohang-steelers-jp-kashiwa-reysol",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 8
+   },
+   "kickoff": "2027-02-16T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "kr-pohang-steelers",
+   "away": "jp-kashiwa-reysol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270216",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r08-my-johor-darul-ta-zim-vn-cong-an-ha-noi",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 8
+   },
+   "kickoff": "2027-02-16T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "my-johor-darul-ta-zim",
+   "away": "vn-cong-an-ha-noi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270216",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r08-th-buriram-united-jp-vissel-kobe",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 8
+   },
+   "kickoff": "2027-02-16T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "th-buriram-united",
+   "away": "jp-vissel-kobe",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270216",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  },
+  {
+   "id": "acle-2026-27-league-east-geast-r08-th-port-fc-jp-kyoto-sanga",
+   "stage": {
+    "key": "league-east",
+    "type": "league-phase",
+    "group": "east",
+    "round": 8
+   },
+   "kickoff": "2027-02-16T10:00:00Z",
+   "timeConfirmed": true,
+   "home": "th-port-fc",
+   "away": "jp-kyoto-sanga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270216",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ]
+  }
+ ]
+}
