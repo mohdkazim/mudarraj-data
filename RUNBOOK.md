@@ -1,6 +1,9 @@
 # Daily data run — runbook
 
-The scheduled Claude run follows this every morning (around 06:00 UAE time). A person can follow it too.
+Two scheduled Claude runs keep the data up to date (a person can follow this too):
+
+- **Morning run, 05:36 UAE — the full update** (the Steps below): results, fixtures, kick-off times, second sources, Monday table checks.
+- **Evening results runs, hourly 16:35–02:35 UAE — results only** (see "Evening results run" further down): adds the results of matches that finished in the last few hours, so the site shows them about an hour after full time.
 
 Late European kick-offs end by about 02:00 UAE time, so by the morning run every result from the day before should be published somewhere.
 
@@ -53,6 +56,23 @@ node tools/status.mjs
    - what changed: results and fixtures added or moved
    - what is still waiting for a second source
    - anything that failed: unreadable sources, rejected changes
+
+## Evening results run (hourly, 16:35–02:35 UAE)
+
+A small run with one job: results of matches that have just finished. Everything else waits for the morning run.
+
+1. Get the repository as in step 0, then:
+   ```bash
+   node tools/status.mjs --results
+   ```
+   It lists matches that kicked off in the last 12 hours, should have finished (kick-off at least 2.5 hours ago) and still have no result, plus second-source claims about them.
+2. **"NOTHING TO DO" → stop.** No web lookups, no commit, no report. Most runs end here.
+3. Otherwise confirm each listed result exactly as in step 2 above (same sources, same rules: one Tier 1, or two different Tier 2, or Tier 2 + Tier 3; single-source claims go under `unconfirmed`). A match that is still going (extra time, a late kick-off, a delay) or has no confirmed result yet is simply left for the next run.
+4. Write `patches/<UAE date>-<HHMM>.json` (e.g. `patches/2026-10-24-2135.json`, so runs never overwrite each other or the morning patch), then `node tools/apply.mjs` and `node tools/build.mjs` as in step 4.
+5. Publish only if the build passes: `git commit -m "data: <UAE date> <HH:MM> — <n> results"` and push. Push rejected → `git pull --rebase`, build again, push.
+6. **No report when things went normally** — the morning run reports the day. Only report a problem that stopped publishing (no GitHub access, a build you couldn't fix, a push that kept failing).
+
+Don't do in an evening run: fixture lists, kick-off times, postponed matches, table checks, older gaps from previous days. Those are the morning run's.
 
 ## When something goes wrong
 

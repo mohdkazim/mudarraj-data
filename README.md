@@ -3,7 +3,7 @@
 Daily football data for **مدرج الجمهور — Mudarraj Al Jumhoor**, a bilingual (Arabic/English) results and fixtures site running on a Synology NAS.
 
 - **What's here:** fixtures, results and the structure behind the tables for the 2026–27 season. Competitions: ADNOC Pro League, UAE President's Cup, ADIB Cup, EMAAR Super Cup, Premier League, LALIGA, UEFA Champions League, AFC Champions League Elite and Two, Gulf Club Champions League, AFC Asian Cup 2027.
-- **Who updates it:** a scheduled Claude run every morning at 06:00 UAE time, following [`RUNBOOK.md`](RUNBOOK.md) and reading only the sites in [`SOURCES.md`](SOURCES.md).
+- **Who updates it:** scheduled Claude runs — the full update every morning at 05:36 UAE time, and a results-only check every hour on match evenings (16:35–02:35 UAE) — following [`RUNBOOK.md`](RUNBOOK.md) and reading only the sites in [`SOURCES.md`](SOURCES.md).
 - **How it stays accurate:**
   - every result carries the URLs it was confirmed on: one official source, or two independent reputable ones
   - `tools/apply.mjs` rejects anything less
