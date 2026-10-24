@@ -1333,3 +1333,6 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result epl-2026-27-regular-r08-gb-eng-arsenal-gb-eng-everton 2-0 FT
   - ✓ result epl-2026-27-regular-r08-gb-eng-coventry-city-gb-eng-fulham 0-1 FT
   - ✓ result uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra 3-2 FT
+
+## 2026-10-24 (2026-10-24T18:35:00Z)
+- 0 change(s) applied, 0 rejected, 5 waiting for a second source
