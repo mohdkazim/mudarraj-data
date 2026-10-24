@@ -1957,14 +1957,18 @@
    "away": "gb-eng-manchester-city",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
-   ]
+    "https://www.skysports.com/football/news/13599231/aston-villa-2-1-man-city-nicolas-jackson-scores-both-villa-goals-as-enzo-maresca-s-100-per-cent-record-ends-in-defeat",
+    "https://www.arabnews.com/football/jackson-double-ends-man-citys-perfect-run-as-villa-win-2-1-3008076"
+   ],
+   "updatedAt": "2026-10-24T16:36:36.584Z"
   },
   {
    "id": "epl-2026-27-regular-r08-gb-eng-arsenal-gb-eng-everton",

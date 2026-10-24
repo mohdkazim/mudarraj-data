@@ -1,0 +1,14 @@
+{
+  "run": "2026-10-24T16:35:00Z",
+  "changes": [
+    { "op": "result", "match": "epl-2026-27-regular-r08-gb-eng-aston-villa-gb-eng-manchester-city", "status": "FT", "score": [2,1],
+      "sources": ["https://www.skysports.com/football/news/13599231/aston-villa-2-1-man-city-nicolas-jackson-scores-both-villa-goals-as-enzo-maresca-s-100-per-cent-record-ends-in-defeat",
+                  "https://www.arabnews.com/football/jackson-double-ends-man-citys-perfect-run-as-villa-win-2-1-3008076"] }
+  ],
+  "unconfirmed": [
+    { "match": "epl-2026-27-regular-r08-gb-eng-arsenal-gb-eng-everton", "claim": "2-0", "sources": ["https://www.skysports.com/football-scores-fixtures"] },
+    { "match": "epl-2026-27-regular-r08-gb-eng-coventry-city-gb-eng-fulham", "claim": "0-1", "sources": ["https://www.skysports.com/football-scores-fixtures"] },
+    { "match": "laliga-2026-27-regular-r10-es-rayo-vallecano-es-elche", "claim": "0-3", "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "match": "laliga-2026-27-regular-r10-es-racing-santander-es-espanyol", "claim": "2-1", "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] }
+  ]
+}

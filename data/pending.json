@@ -16,19 +16,43 @@
   "seen": "2026-10-24T01:37:00Z"
  },
  {
-  "match": "epl-2026-27-regular-r08-gb-eng-aston-villa-gb-eng-manchester-city",
-  "claim": "2-1",
-  "sources": [
-   "https://www.skysports.com/football/news/13599231/aston-villa-2-1-man-city-nicolas-jackson-scores-both-villa-goals-as-enzo-maresca-s-100-per-cent-record-ends-in-defeat"
-  ],
-  "seen": "2026-10-24T15:47:00Z"
- },
- {
   "match": "uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra",
   "claim": "3-2",
   "sources": [
    "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095776"
   ],
   "seen": "2026-10-24T15:47:00Z"
+ },
+ {
+  "match": "epl-2026-27-regular-r08-gb-eng-arsenal-gb-eng-everton",
+  "claim": "2-0",
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures"
+  ],
+  "seen": "2026-10-24T16:35:00Z"
+ },
+ {
+  "match": "epl-2026-27-regular-r08-gb-eng-coventry-city-gb-eng-fulham",
+  "claim": "0-1",
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures"
+  ],
+  "seen": "2026-10-24T16:35:00Z"
+ },
+ {
+  "match": "laliga-2026-27-regular-r10-es-rayo-vallecano-es-elche",
+  "claim": "0-3",
+  "sources": [
+   "https://www.skysports.com/la-liga-scores-fixtures"
+  ],
+  "seen": "2026-10-24T16:35:00Z"
+ },
+ {
+  "match": "laliga-2026-27-regular-r10-es-racing-santander-es-espanyol",
+  "claim": "2-1",
+  "sources": [
+   "https://www.skysports.com/la-liga-scores-fixtures"
+  ],
+  "seen": "2026-10-24T16:35:00Z"
  }
 ]

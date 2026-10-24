@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-24T15:47:46.315Z",
+ "generatedAt": "2026-10-24T16:36:36.669Z",
  "counts": {
   "teams": 197,
   "competitions": 11,
   "matches": 801,
-  "results": 351,
-  "pending": 4
+  "results": 352,
+  "pending": 7
  },
  "teams": [
   {
@@ -21837,8 +21837,11 @@
    "away": "gb-eng-manchester-city",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Villa Park",
@@ -21851,9 +21854,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+    "https://www.skysports.com/football/news/13599231/aston-villa-2-1-man-city-nicolas-jackson-scores-both-villa-goals-as-enzo-maresca-s-100-per-cent-record-ends-in-defeat",
+    "https://www.arabnews.com/football/jackson-double-ends-man-citys-perfect-run-as-villa-win-2-1-3008076"
    ],
+   "updatedAt": "2026-10-24T16:36:36.584Z",
    "venueFrom": "home-ground"
   },
   {
