@@ -9,7 +9,7 @@
  * Evening results run (hourly, see RUNBOOK.md):
  *   node tools/status.mjs --results              (matches that kicked off in the last 12 hours)
  *   node tools/status.mjs --results --hours 6
- * Lists only matches that should have finished (kick-off at least 2.5 hours ago) and still have no
+ * Lists only matches that should have finished (kick-off at least 2 hours ago) and still have no
  * result, plus second-source claims about them. Prints "NOTHING TO DO" when there is nothing.
  */
 import path from "node:path";
@@ -39,7 +39,7 @@ for (const s of all.seasons.values()) {
     if (t && (lastFixture.get(s.competition) ?? 0) < t) lastFixture.set(s.competition, t);
     if (m.status === "PST" || m.status === "ABD") watch.push({ s, m });
     if (!t) continue;
-    if (t < now - 2.5 * 3600_000 && t >= from && !FINISHED.has(m.status) && !["CANC", "PST", "ABD"].includes(m.status)) needResult.push({ s, m });
+    if (t < now - 2 * 3600_000 && t >= from && !FINISHED.has(m.status) && !["CANC", "PST", "ABD"].includes(m.status)) needResult.push({ s, m });
     if (t >= now && t <= to && m.timeConfirmed === false) needTime.push({ s, m });
   }
 }

@@ -65,7 +65,7 @@ A small run with one job: results of matches that have just finished. Everything
    ```bash
    node tools/status.mjs --results
    ```
-   It lists matches that kicked off in the last 12 hours, should have finished (kick-off at least 2.5 hours ago) and still have no result, plus second-source claims about them.
+   It lists matches that kicked off in the last 12 hours, should have finished (kick-off at least 2 hours ago: 90 minutes, half-time and stoppage time) and still have no result, plus second-source claims about them.
 2. **"NOTHING TO DO" → stop.** No web lookups, no commit, no report. Most runs end here.
 3. Otherwise confirm each listed result exactly as in step 2 above (same sources, same rules: one Tier 1, or two different Tier 2, or Tier 2 + Tier 3; single-source claims go under `unconfirmed`). A match that is still going (extra time, a late kick-off, a delay) or has no confirmed result yet is simply left for the next run.
 4. Write `patches/<UAE date>-<HHMM>.json` (e.g. `patches/2026-10-24-2135.json`, so runs never overwrite each other or the morning patch), then `node tools/apply.mjs` and `node tools/build.mjs` as in step 4.
