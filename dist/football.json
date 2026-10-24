@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-24T16:36:36.669Z",
+ "generatedAt": "2026-10-24T17:37:01.011Z",
  "counts": {
   "teams": 197,
   "competitions": 11,
   "matches": 801,
-  "results": 352,
-  "pending": 7
+  "results": 355,
+  "pending": 4
  },
  "teams": [
   {
@@ -21912,8 +21912,11 @@
    "away": "ae-al-dhafra",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Saqr bin Mohammed Al Qassimi Stadium",
@@ -21925,16 +21928,48 @@
     }
    },
    "sources": [
-    "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
-    "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
-    "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس",
-    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+    "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095776",
+    "https://www.albayan.ae/sports/uae-stadiums/1560294"
    ],
    "venueSources": [
     "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095716",
     "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
-   ]
+   ],
+   "goals": [
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "Mohammed Al Khalawi",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "away",
+     "player": "Dominic Mendy",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Tarek Tisoudali",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Ahmed Al Hammadi",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 6,
+     "side": "home",
+     "player": "Tarek Tisoudali",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-24T17:37:00.939Z"
   },
   {
    "competition": "uae-presidents-cup",
@@ -21994,8 +22029,11 @@
    "away": "gb-eng-everton",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Emirates Stadium",
@@ -22008,9 +22046,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.thenationalnews.com/sport/football/2026/10/24/arsenal-go-level-at-top-of-premier-league-with-man-city-after-easing-to-win-over-everton/"
    ],
+   "updatedAt": "2026-10-24T17:37:00.939Z",
    "venueFrom": "home-ground"
   },
   {
@@ -22029,8 +22068,11 @@
    "away": "gb-eng-fulham",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Coventry Building Society Arena",
@@ -22043,9 +22085,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.arabnews.com/football/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start-3008091"
    ],
+   "updatedAt": "2026-10-24T17:37:00.939Z",
    "venueFrom": "home-ground"
   },
   {

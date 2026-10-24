@@ -1984,14 +1984,18 @@
    "away": "gb-eng-everton",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.thenationalnews.com/sport/football/2026/10/24/arsenal-go-level-at-top-of-premier-league-with-man-city-after-easing-to-win-over-everton/"
+   ],
+   "updatedAt": "2026-10-24T17:37:00.939Z"
   },
   {
    "id": "epl-2026-27-regular-r08-gb-eng-coventry-city-gb-eng-fulham",
@@ -2007,14 +2011,18 @@
    "away": "gb-eng-fulham",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.arabnews.com/football/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start-3008091"
+   ],
+   "updatedAt": "2026-10-24T17:37:00.939Z"
   },
   {
    "id": "epl-2026-27-regular-r08-gb-eng-chelsea-gb-eng-tottenham-hotspur",

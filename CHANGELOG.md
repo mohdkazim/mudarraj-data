@@ -1327,3 +1327,9 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-24 (2026-10-24T16:35:00Z)
 - 1 change(s) applied, 0 rejected, 7 waiting for a second source
   - ✓ result epl-2026-27-regular-r08-gb-eng-aston-villa-gb-eng-manchester-city 2-1 FT
+
+## 2026-10-24 (2026-10-24T17:36:00Z)
+- 3 change(s) applied, 0 rejected, 4 waiting for a second source
+  - ✓ result epl-2026-27-regular-r08-gb-eng-arsenal-gb-eng-everton 2-0 FT
+  - ✓ result epl-2026-27-regular-r08-gb-eng-coventry-city-gb-eng-fulham 0-1 FT
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra 3-2 FT

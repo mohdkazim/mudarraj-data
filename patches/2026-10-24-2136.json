@@ -1,0 +1,19 @@
+{
+  "run": "2026-10-24T17:36:00Z",
+  "changes": [
+    { "op": "result", "match": "epl-2026-27-regular-r08-gb-eng-arsenal-gb-eng-everton", "status": "FT", "score": [2,0],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.thenationalnews.com/sport/football/2026/10/24/arsenal-go-level-at-top-of-premier-league-with-man-city-after-easing-to-win-over-everton/"] },
+    { "op": "result", "match": "epl-2026-27-regular-r08-gb-eng-coventry-city-gb-eng-fulham", "status": "FT", "score": [0,1],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.arabnews.com/football/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start-3008091"] },
+    { "op": "result", "match": "uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra", "status": "FT", "score": [3,2],
+      "goals": [
+        { "minute": 15, "side": "away", "player": "Mohammed Al Khalawi", "type": "goal" },
+        { "minute": 44, "side": "away", "player": "Dominic Mendy", "type": "goal" },
+        { "minute": 80, "side": "home", "player": "Tarek Tisoudali", "type": "goal" },
+        { "minute": 87, "side": "home", "player": "Ahmed Al Hammadi", "type": "goal" },
+        { "minute": 90, "extra": 6, "side": "home", "player": "Tarek Tisoudali", "type": "goal" }
+      ],
+      "sources": ["https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095776", "https://www.albayan.ae/sports/uae-stadiums/1560294"] }
+  ],
+  "unconfirmed": []
+}
