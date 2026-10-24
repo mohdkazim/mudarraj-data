@@ -2588,15 +2588,18 @@
    "away": "es-elche",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
-   ]
+    "https://www.skysports.com/la-liga-scores-fixtures",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%B1%D8%A7%D9%8A%D9%88-%D9%81%D8%A7%D9%84%D9%8A%D9%83%D8%A7%D9%86%D9%88/3budh3j9xivsid3ptm8ptpy4k"
+   ],
+   "updatedAt": "2026-10-24T22:36:51.336Z"
   },
   {
    "id": "laliga-2026-27-regular-r10-es-racing-santander-es-espanyol",
@@ -2612,15 +2615,18 @@
    "away": "es-espanyol",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
-   ]
+    "https://www.skysports.com/la-liga-scores-fixtures",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%B1%D8%A7%D8%B3%D9%8A%D9%86%D8%AC-%D8%B3%D8%A7%D9%86%D8%AA%D8%A7%D9%86%D8%AF%D9%8A%D8%B1/bzkwzatvwahmbzok1ymm5vqa1"
+   ],
+   "updatedAt": "2026-10-24T22:36:51.336Z"
   },
   {
    "id": "laliga-2026-27-regular-r10-es-valencia-es-villarreal",

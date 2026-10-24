@@ -1346,3 +1346,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-25 (2026-10-24T21:36:00Z)
 - 1 change(s) applied, 0 rejected, 4 waiting for a second source
   - ✓ result laliga-2026-27-regular-r10-es-atletico-madrid-es-deportivo-la-coruna 1-0 FT
+
+## 2026-10-25 (2026-10-24T22:35:00Z)
+- 2 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r10-es-rayo-vallecano-es-elche 0-3 FT
+  - ✓ result laliga-2026-27-regular-r10-es-racing-santander-es-espanyol 2-1 FT
