@@ -2038,14 +2038,32 @@
    "away": "gb-eng-tottenham-hotspur",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.arabnews.com/football/spurs-seal-rare-win-at-chelsea-as-palmer-sees-red-3008097"
+   ],
+   "goals": [
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Mike Penders",
+     "type": "own-goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Mathys Tel",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-24T19:37:08.938Z"
   },
   {
    "id": "epl-2026-27-regular-r08-gb-eng-crystal-palace-gb-eng-newcastle-united",

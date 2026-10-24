@@ -1,0 +1,16 @@
+{
+  "run": "2026-10-24T19:35:00Z",
+  "changes": [
+    { "op": "result", "match": "uae-presidents-cup-2026-27-r16-ae-hatta-ae-united", "status": "FT", "score": [1,0], "ht": [0,0],
+      "sources": ["https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095800", "https://www.albayan.ae/sports/uae-stadiums/1560319"] },
+    { "op": "result", "match": "epl-2026-27-regular-r08-gb-eng-chelsea-gb-eng-tottenham-hotspur", "status": "FT", "score": [0,2],
+      "goals": [
+        { "minute": 77, "side": "away", "player": "Mike Penders", "type": "own-goal" },
+        { "minute": 87, "side": "away", "player": "Mathys Tel", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.arabnews.com/football/spurs-seal-rare-win-at-chelsea-as-palmer-sees-red-3008097"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r10-es-valencia-es-villarreal", "status": "FT", "score": [1,2], "ht": [1,0],
+      "sources": ["https://www.365scores.com/en-us/football/match/laliga-11/valencia-villarreal-133-139-11", "https://www.skysports.com/la-liga-scores-fixtures"] }
+  ],
+  "unconfirmed": []
+}

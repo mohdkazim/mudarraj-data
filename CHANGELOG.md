@@ -1336,3 +1336,9 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-10-24 (2026-10-24T18:35:00Z)
 - 0 change(s) applied, 0 rejected, 5 waiting for a second source
+
+## 2026-10-24 (2026-10-24T19:35:00Z)
+- 3 change(s) applied, 0 rejected, 4 waiting for a second source
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-hatta-ae-united 1-0 FT
+  - ✓ result epl-2026-27-regular-r08-gb-eng-chelsea-gb-eng-tottenham-hotspur 0-2 FT
+  - ✓ result laliga-2026-27-regular-r10-es-valencia-es-villarreal 1-2 FT

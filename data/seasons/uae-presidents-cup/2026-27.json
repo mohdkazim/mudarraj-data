@@ -362,8 +362,15 @@
    "away": "ae-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Hamdan bin Rashid Al Maktoum Stadium",
@@ -375,16 +382,15 @@
     }
    },
    "sources": [
-    "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
-    "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
-    "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس",
-    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+    "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095800",
+    "https://www.albayan.ae/sports/uae-stadiums/1560319"
    ],
    "venueSources": [
     "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095716",
     "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
-   ]
+   ],
+   "updatedAt": "2026-10-24T19:37:08.938Z"
   }
  ]
 }

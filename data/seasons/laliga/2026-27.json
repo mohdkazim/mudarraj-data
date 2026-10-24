@@ -2636,15 +2636,22 @@
    "away": "es-villarreal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
-   ]
+    "https://www.365scores.com/en-us/football/match/laliga-11/valencia-villarreal-133-139-11",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "updatedAt": "2026-10-24T19:37:08.938Z"
   },
   {
    "id": "laliga-2026-27-regular-r10-es-atletico-madrid-es-deportivo-la-coruna",

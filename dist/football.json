@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-24T18:36:50.058Z",
+ "generatedAt": "2026-10-24T19:37:09.023Z",
  "counts": {
   "teams": 197,
   "competitions": 11,
   "matches": 801,
-  "results": 355,
-  "pending": 5
+  "results": 358,
+  "pending": 4
  },
  "teams": [
   {
@@ -22143,8 +22143,15 @@
    "away": "ae-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Hamdan bin Rashid Al Maktoum Stadium",
@@ -22156,16 +22163,15 @@
     }
    },
    "sources": [
-    "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
-    "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
-    "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس",
-    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+    "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095800",
+    "https://www.albayan.ae/sports/uae-stadiums/1560319"
    ],
    "venueSources": [
     "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095716",
     "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
-   ]
+   ],
+   "updatedAt": "2026-10-24T19:37:08.938Z"
   },
   {
    "competition": "epl",
@@ -22183,8 +22189,11 @@
    "away": "gb-eng-tottenham-hotspur",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Stamford Bridge",
@@ -22197,9 +22206,24 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.arabnews.com/football/spurs-seal-rare-win-at-chelsea-as-palmer-sees-red-3008097"
    ],
+   "goals": [
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Mike Penders",
+     "type": "own-goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Mathys Tel",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-24T19:37:08.938Z",
    "venueFrom": "home-ground"
   },
   {
@@ -22218,8 +22242,15 @@
    "away": "es-villarreal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Mestalla",
@@ -22232,10 +22263,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+    "https://www.365scores.com/en-us/football/match/laliga-11/valencia-villarreal-133-139-11",
+    "https://www.skysports.com/la-liga-scores-fixtures"
    ],
+   "updatedAt": "2026-10-24T19:37:08.938Z",
    "venueFrom": "home-ground"
   },
   {
