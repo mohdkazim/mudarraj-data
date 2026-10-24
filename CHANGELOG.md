@@ -1319,3 +1319,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ venue ucl-2026-27-league-phase-r04-ua-shakhtar-donetsk-pt-sporting-cp venue Stamford Bridge (neutral)
   - ✓ venue ucl-2026-27-league-phase-r05-ua-shakhtar-donetsk-tr-fenerbahce venue Stamford Bridge (neutral)
   - ✓ venue ucl-2026-27-league-phase-r08-ua-shakhtar-donetsk-es-real-madrid venue Stamford Bridge (neutral)
+
+## 2026-10-24 (2026-10-24T15:47:00Z)
+- 1 change(s) applied, 0 rejected, 4 waiting for a second source
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba 1-0 FT
