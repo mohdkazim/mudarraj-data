@@ -10,7 +10,7 @@ Late European kick-offs end by about 02:00 UAE time, so by the morning run every
 ## Ground rules
 
 1. **Never from memory.** Every score, date or kick-off time must come from a page read during this run, and its URL goes in `sources`.
-2. **Use `SOURCES.md`.** A result needs one Tier 1 site, or two different Tier 2 sites, or one Tier 2 plus one Tier 3. The tools enforce this and reject anything less.
+2. **Use `SOURCES.md`.** A result needs one Tier 1 site, or one "enough alone" site (Kooora, 365Scores), or two different Tier 2 sites, or one Tier 2 plus one Tier 3. The tools enforce this and reject anything less. With a single source, check the page's date, season and both teams: searches also return older meetings of the same teams.
 3. **When in doubt, leave it out.** Put a single-source claim under `unconfirmed`, and the next run re-checks it. A day-old gap is better than a wrong score.
 4. **Times are stored in UTC** (ISO, e.g. `2026-10-29T14:10:00Z`). Dates in file names and logs are UAE dates.
 5. **Never hand-edit `data/`.** All changes go through a patch, `tools/apply.mjs` and `tools/build.mjs`. The one exception is fixing the structure in `data/competitions.json` (groups, rounds) when an organiser changes a format; say so in the commit message.

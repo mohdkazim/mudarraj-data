@@ -123,8 +123,9 @@ export function tierOf(url) {
   const host = siteOf(url);
   if (!host) return 0;
   for (const d of Object.keys(SOURCES.never)) if (matches(host, d)) return -1;
-  for (const [tier, key] of [[1, "tier1"], [2, "tier2"], [3, "tier3"]]) {
-    for (const d of Object.keys(SOURCES[key])) if (matches(host, d)) return tier;
+  // "enoughAlone": not organisers, but confirm a result on their own like Tier 1 (Mohamed's decision, 24 Oct 2026).
+  for (const [tier, key] of [[1, "tier1"], [1, "enoughAlone"], [2, "tier2"], [3, "tier3"]]) {
+    for (const d of Object.keys(SOURCES[key] ?? {})) if (!d.startsWith("_") && matches(host, d)) return tier;
   }
   return 0;
 }
@@ -133,13 +134,14 @@ export function tierOf(url) {
 function siteKey(url) {
   const host = siteOf(url);
   if (!host) return null;
-  for (const key of ["tier1", "tier2", "tier3"]) for (const d of Object.keys(SOURCES[key])) if (matches(host, d)) return d === "site.api.espn.com" ? "espn.com" : d;
+  for (const key of ["tier1", "enoughAlone", "tier2", "tier3"])
+    for (const d of Object.keys(SOURCES[key] ?? {})) if (!d.startsWith("_") && matches(host, d)) return d === "site.api.espn.com" ? "espn.com" : d;
   return host;
 }
 
 /**
  * Result confirmation rule. Returns { ok, reason, tiers }.
- * ok when: a Tier 1 site, or two different Tier 2 sites, or one Tier 2 + one Tier 3 site.
+ * ok when: a Tier 1 or "enough alone" site, or two different Tier 2 sites, or one Tier 2 + one Tier 3 site.
  */
 export function confirmation(urls = []) {
   const bySite = new Map();

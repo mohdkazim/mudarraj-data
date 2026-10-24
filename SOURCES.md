@@ -5,10 +5,13 @@ The daily run only records facts it read that day on these sites, never from mem
 | Tier | Meaning | Examples |
 |---|---|---|
 | **1 — Official** | The organiser itself | uaeproleague.ae, uaefa.ae, laliga.com, premierleague.com, uefa.com, the-afc.com |
+| **Enough alone** | Not organisers, but count on their own like Tier 1 (Mohamed's decision, 24 Oct 2026) | kooora.com, 365scores.com |
 | **2 — Reputable media / data** | Professional newsrooms and data services with editorial checks | Sky Sports, ESPN, Reuters, AP · UAE: WAM, The National, Gulf News, Khaleej Times, Al Khaleej, Al Bayan, Al Ittihad, Emarat Al Youm, Sharjah24, Gulf Today · Gulf: the national news agencies (QNA, SPA, KUNA, BNA, ONA, INA) and main national papers (full list in `sources.json`) |
 | **3 — Cross-check only** | Community-maintained or archive sites; never enough on their own | Wikipedia, TheSportsDB, RSSSF, Transfermarkt, worldfootball.net |
 
-**A result is published only when confirmed:** one Tier 1 site, or two different Tier 2 sites, or one Tier 2 plus one Tier 3 site. Otherwise it waits in `data/pending.json` until the next run finds a second source.
+**A result is published only when confirmed:** one Tier 1 site, or one "enough alone" site (Kooora, 365Scores), or two different Tier 2 sites, or one Tier 2 plus one Tier 3 site. Otherwise it waits in `data/pending.json` until the next run finds a second source.
+
+**With a single source, check it's this fixture:** the page's date, season and both teams must match. Searches also return older meetings of the same teams (365Scores titles such as "Sharjah SC 1 - 1 Dubai United (10/24)" are from an earlier season), and a second source no longer catches that.
 
 **Sources must be independent.** Newspapers often print agency copy. An article credited to an agency ("— QNA", "(WAM)", "قنا", "وام", "كونا", "واس") counts as that agency, so it is never a second source next to the agency's own report. Two papers printing the same agency story are one source.
 
@@ -32,8 +35,11 @@ In an unattended scheduled run, the fetch tool only opens links **returned by a 
 | Second source, European match | `<home> <away> result` | `thenationalnews.com`, `gulfnews.com`, `khaleejtimes.com`, `arabnews.com` | match reports and player ratings |
 | Same, in Arabic | Arabic team names | `aletihad.ae`, `alkhaleej.ae`, `albayan.ae`, `emaratalyoum.com` | match reports |
 | UAE competitions | Arabic team names + competition | `uaeproleague.ae`, `wam.ae`, `aletihad.ae`, `alkhaleej.ae`, `albayan.ae`, `emaratalyoum.com`, `sharjah24.ae` | reports, official match pages |
+| Kooora / 365Scores (enough alone) | `<home> <away>` (Arabic names for Kooora) | `kooora.com` or `365scores.com` | match pages and reports — see the limits below |
 
 - **Don't put `espn.com`, `reuters.com` or `apnews.com` in `allowed_domains`:** the search tool rejects the whole request.
+- **Kooora (tested 24 Oct 2026):** searches find current pages (match pages, reports), but most have long Arabic addresses that the fetch tool refuses ("url exceeds the maximum fetchable length"). Short `kooora.com/?n=…` links open; they are often older articles, so check the date.
+- **365Scores (tested 24 Oct 2026):** pages open and its scores matched ours (LALIGA round 9, 10 of 10), but the copy the fetch tool gets can be more than a day old (its LALIGA page still showed 23 Oct as "today" on the 24th). A page showing "scheduled", "today" or "tomorrow" for a match that has been played is out of date, not evidence.
 - **Check the date of a report:** searches also return older meetings of the same teams.
 - **In the evening, laliga.com and ESPN lag behind** (24 Oct 2026: Rayo 0-3 Elche was FT on Sky but still "VS" on laliga.com; ESPN's undated feed still showed 18 Oct).
 

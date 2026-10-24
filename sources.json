@@ -1,5 +1,5 @@
 {
-  "_about": "Trust tiers used by tools/apply.mjs. A result is published only when confirmed: one Tier 1 source, OR two Tier 2 sources from different sites, OR one Tier 2 plus one Tier 3. Tier 3 never counts on its own. Matching is by site (sub-domains included). Sources must be independent: an article that credits a news agency (e.g. '— QNA', '(WAM)', 'قنا', 'وام', 'كونا') counts as that agency, so never list it next to the agency's own report as a second source.",
+  "_about": "Trust tiers used by tools/apply.mjs. A result is published only when confirmed: one Tier 1 source, OR one 'enough alone' source, OR two Tier 2 sources from different sites, OR one Tier 2 plus one Tier 3. Tier 3 never counts on its own. Matching is by site (sub-domains included). Sources must be independent: an article that credits a news agency (e.g. '— QNA', '(WAM)', 'قنا', 'وام', 'كونا') counts as that agency, so never list it next to the agency's own report as a second source.",
   "tier1": {
     "uaeproleague.ae": "UAE Pro League — official organiser of the ADNOC Pro League, ADIB Cup and EMAAR Super Cup",
     "uaefa.ae": "UAE Football Association — official organiser of the UAE President's Cup",
@@ -8,6 +8,11 @@
     "uefa.com": "UEFA — official (Champions League)",
     "the-afc.com": "Asian Football Confederation — official (ACL Elite, ACL Two, Asian Cup)",
     "agcff.org": "Arab Gulf Cup Football Federation — official (Gulf Club Champions League)"
+  },
+  "enoughAlone": {
+    "_note": "Not organisers, but enough on their own by Mohamed's decision (24 Oct 2026). The page must be about this fixture: check its date, season and both teams (searches also return older meetings of the same teams).",
+    "kooora.com": "Kooora (كووورة) — Arabic football newsroom and match centre. Most current pages have very long Arabic addresses the reader refuses; short kooora.com/?n=… links open.",
+    "365scores.com": "365Scores — results app. Scores checked right (LALIGA round 9, all 10), but the copy the reader gets can be a day or more old: a page still showing 'scheduled' or 'today' isn't evidence."
   },
   "tier2": {
     "skysports.com": "Sky Sports — results, fixtures and tables for European football",

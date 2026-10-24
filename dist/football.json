@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-24T17:37:01.011Z",
+ "generatedAt": "2026-10-24T18:15:11.303Z",
  "counts": {
   "teams": 197,
   "competitions": 11,
@@ -37560,5 +37560,37 @@
    ],
    "venueFrom": "home-ground"
   }
- ]
+ ],
+ "news": {
+  "_note": "Settings for the site's related-news card (published with the data as 'news'). 'sites' replaces the built-in outlet list for that language. 24 Oct 2026: Kooora and 365Scores added at Mohamed's request.",
+  "sites": {
+   "ar": [
+    "alkhaleej.ae",
+    "albayan.ae",
+    "aletihad.ae",
+    "emaratalyoum.com",
+    "wam.ae",
+    "sharjah24.ae",
+    "kooora.com",
+    "365scores.com",
+    "skynewsarabia.com",
+    "alarabiya.net",
+    "aawsat.com",
+    "the-afc.com"
+   ],
+   "en": [
+    "thenationalnews.com",
+    "gulfnews.com",
+    "khaleejtimes.com",
+    "skysports.com",
+    "espn.com",
+    "reuters.com",
+    "apnews.com",
+    "arabnews.com",
+    "365scores.com",
+    "the-afc.com",
+    "uefa.com"
+   ]
+  }
+ }
 }
