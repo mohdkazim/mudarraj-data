@@ -1,0 +1,8 @@
+{
+  "run": "2026-10-24T21:36:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r10-es-atletico-madrid-es-deportivo-la-coruna", "status": "FT", "score": [1,0],
+      "sources": ["https://www.skysports.com/la-liga-scores-fixtures", "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"] }
+  ],
+  "unconfirmed": []
+}

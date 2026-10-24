@@ -2667,15 +2667,18 @@
    "away": "es-deportivo-la-coruna",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
-   ]
+    "https://www.skysports.com/la-liga-scores-fixtures",
+    "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
+   ],
+   "updatedAt": "2026-10-24T21:37:25.360Z"
   },
   {
    "id": "laliga-2026-27-regular-r10-es-athletic-club-es-getafe",
