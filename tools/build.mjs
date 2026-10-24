@@ -34,6 +34,9 @@ matches.sort((a, b) => (a.kickoff ?? "9999").localeCompare(b.kickoff ?? "9999") 
 const pending = readJSON(path.join(ROOT, "data", "pending.json"), []);
 // Optional settings for the site's related-news card (data/news.json): tune it without a NAS update.
 const news = readJSON(path.join(ROOT, "data", "news.json"), null);
+// Optional settings for the NAS's provisional results from football-data.org (data/provisional.json),
+// e.g. {"off": true} switches them off on the site without a NAS update.
+const provisional = readJSON(path.join(ROOT, "data", "provisional.json"), null);
 const out = {
   format: "mudarraj-football@1",
   generatedAt: new Date().toISOString(),
@@ -42,6 +45,7 @@ const out = {
   competitions: all.competitions,
   matches,
   ...(news ? { news } : {}),
+  ...(provisional ? { provisional } : {}),
 };
 writeJSON(path.join(ROOT, "dist", "football.json"), out);
 writeJSON(path.join(ROOT, "dist", "summary.json"), { format: out.format, generatedAt: out.generatedAt, counts: out.counts });

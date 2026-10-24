@@ -17,7 +17,8 @@ Late European kick-offs end by about 02:00 UAE time, so by the morning run every
 6. **Never push a failing dataset.** If `tools/build.mjs` fails, fix the cause or drop the change.
 7. **Goal scorers: all or none.** List a match's goals only when a source gives every goal (scorer and minute). A partial list misleads; leave `goals` out instead.
 8. **Stay inside this repository.** Don't change anything else, and don't work around a site that refuses the automated reader (BBC, The Guardian): use another source from `SOURCES.md`.
-9. **Be efficient.** Fetch the pages listed in `SOURCES.md` directly; use web search only to find a specific match page or report. One results page usually covers a whole round.
+9. **Be efficient.** One scores or results page usually covers a whole round; web searches are capped per session, so search once per page you need.
+10. **Scheduled runs open pages through search.** In an unattended run the fetch tool only opens links returned by a web search in that run (or links on a page it fetched). A link typed in directly, from this file, `SOURCES.md` or the task prompt, or built by adding a date or an id, is refused after waiting for an approval nobody gives. Search first, with `allowed_domains` set to the trusted sites, then open the link the search returns. Tested recipes are in `SOURCES.md` ("Opening pages in scheduled runs").
 
 ## Steps
 

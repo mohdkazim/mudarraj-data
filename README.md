@@ -21,6 +21,7 @@ Tell Claude in the project chat ("Al Ain v Ajman on 29 Oct ended 2-1, not 1-1").
 |---|---|
 | `data/teams.json` | Clubs and national teams with English and Arabic names, and each club's home stadium (used for its home matches unless a match lists its own venue) |
 | `data/news.json` (optional) | Settings for the site's related-news card, published with the data so they apply without updating the NAS: `{"off": false, "sites": {"ar": [], "en": []}, "context": {"ar": [], "en": []}, "exclude": {"ar": [], "en": []}}` — `sites` replaces the list of outlets, `context` adds football words, `exclude` drops headlines containing a word or phrase |
+| `data/provisional.json` (optional) | Settings for the provisional results the NAS shows from football-data.org (Premier League, LALIGA, Champions League) before a run confirms them: `{"off": true}` switches them off on the site without a NAS update. Confirmed results here always win over provisional ones. |
 | `data/competitions.json` | Current season and structure of each competition (tables, groups, rounds) |
 | `data/seasons/<competition>/<season>.json` | Matches |
 | `data/checks/` | Reference tables copied from trusted sites; the build compares our results against them |

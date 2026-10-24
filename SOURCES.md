@@ -20,6 +20,23 @@ The daily run only records facts it read that day on these sites, never from mem
 
 ---
 
+## Opening pages in scheduled runs (tested 24 Oct 2026)
+
+In an unattended scheduled run, the fetch tool only opens links **returned by a web search in that run**, or links on a page it fetched. A link typed in directly (from this file, the runbook or the task prompt, or built by adding a date or an id) is refused after waiting for an approval that never comes. The per-competition links below therefore work as targets: search for them first, then open the link the search returns.
+
+| What | Search | Filter (`allowed_domains`) | Page it returns |
+|---|---|---|---|
+| Today's European scores (EPL, LALIGA, UCL) | `football scores fixtures` | `skysports.com` | `skysports.com/football-scores-fixtures` (FT or live minute) |
+| A month of one competition | `Premier League scores fixtures` (or La Liga, Champions League) | `skysports.com` | `skysports.com/premier-league-scores-fixtures` … |
+| LALIGA official results | `Results of LALIGA EA SPORTS 2026/27` | `laliga.com` | `laliga.com/en-GB/laliga-easports/results` (scores appear the day after a match) |
+| Second source, European match | `<home> <away> result` | `thenationalnews.com`, `gulfnews.com`, `khaleejtimes.com`, `arabnews.com` | match reports and player ratings |
+| Same, in Arabic | Arabic team names | `aletihad.ae`, `alkhaleej.ae`, `albayan.ae`, `emaratalyoum.com` | match reports |
+| UAE competitions | Arabic team names + competition | `uaeproleague.ae`, `wam.ae`, `aletihad.ae`, `alkhaleej.ae`, `albayan.ae`, `emaratalyoum.com`, `sharjah24.ae` | reports, official match pages |
+
+- **Don't put `espn.com`, `reuters.com` or `apnews.com` in `allowed_domains`:** the search tool rejects the whole request.
+- **Check the date of a report:** searches also return older meetings of the same teams.
+- **In the evening, laliga.com and ESPN lag behind** (24 Oct 2026: Rayo 0-3 Elche was FT on Sky but still "VS" on laliga.com; ESPN's undated feed still showed 18 Oct).
+
 ## Per competition (tested 23 Oct 2026)
 
 **Time zones (checked 23 Oct 2026).** Always store UTC.
