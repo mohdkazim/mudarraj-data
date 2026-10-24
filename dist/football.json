@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-23T09:43:38.238Z",
+ "generatedAt": "2026-10-24T01:55:36.669Z",
  "counts": {
   "teams": 197,
   "competitions": 11,
   "matches": 801,
-  "results": 349,
-  "pending": 0
+  "results": 350,
+  "pending": 2
  },
  "teams": [
   {
@@ -17752,16 +17752,19 @@
    "away": "ae-al-wahda",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095423",
-    "https://www.albayan.ae/sports/uae-stadiums/1559726",
-    "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
-    "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255"
-   ]
+    "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095524",
+    "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095518",
+    "https://sharjah24.ae/en/Articles/2026/10/23/d70"
+   ],
+   "updatedAt": "2026-10-24T01:55:36.574Z"
   },
   {
    "competition": "uae-presidents-cup",
@@ -17896,32 +17899,6 @@
   {
    "competition": "uae-presidents-cup",
    "season": "2026-27",
-   "id": "uae-presidents-cup-2026-27-r16-ae-hatta-ae-united",
-   "stage": {
-    "key": "r16",
-    "type": "knockout",
-    "group": null,
-    "round": null
-   },
-   "kickoff": "2026-10-24T12:00:00Z",
-   "timeConfirmed": false,
-   "home": "ae-hatta",
-   "away": "ae-united",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "TBD",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
-    "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
-    "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس"
-   ]
-  },
-  {
-   "competition": "uae-presidents-cup",
-   "season": "2026-27",
    "id": "uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra",
    "stage": {
     "key": "r16",
@@ -17929,20 +17906,21 @@
     "group": null,
     "round": null
    },
-   "kickoff": "2026-10-24T12:00:00Z",
-   "timeConfirmed": false,
+   "kickoff": "2026-10-24T12:55:00Z",
+   "timeConfirmed": true,
    "home": "ae-khorfakkan",
    "away": "ae-al-dhafra",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "TBD",
+   "status": "NS",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
     "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
-    "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس"
+    "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
    ]
   },
   {
@@ -17955,20 +17933,21 @@
     "group": null,
     "round": null
    },
-   "kickoff": "2026-10-24T12:00:00Z",
-   "timeConfirmed": false,
+   "kickoff": "2026-10-24T13:00:00Z",
+   "timeConfirmed": true,
    "home": "ae-sharjah",
    "away": "ae-al-orooba",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "TBD",
+   "status": "NS",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
     "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
-    "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس"
+    "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
    ]
   },
   {
@@ -18045,6 +18024,33 @@
     "https://www.laliga.com/en-GB/laliga-easports/results",
     "https://www.skysports.com/la-liga-results",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+   ]
+  },
+  {
+   "competition": "uae-presidents-cup",
+   "season": "2026-27",
+   "id": "uae-presidents-cup-2026-27-r16-ae-hatta-ae-united",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-24T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "ae-hatta",
+   "away": "ae-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
+    "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
+    "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
    ]
   },
   {

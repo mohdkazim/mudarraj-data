@@ -1133,3 +1133,13 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result uae-pro-league-2026-27-regular-r06-ae-shabab-al-ahli-ae-al-ain already recorded — extra source kept
   - ✓ result uae-pro-league-2026-27-regular-r03-ae-al-wasl-ae-shabab-al-ahli already recorded — extra source kept
+
+## 2026-10-24 (2026-10-24T01:37:00Z)
+- 7 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-fujairah-ae-al-wahda 0-1 FT
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra kick-off 2026-10-24T12:55:00Z
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba kick-off 2026-10-24T13:00:00Z
+  - ✓ fixture uae-presidents-cup-2026-27-r16-ae-hatta-ae-united kick-off 2026-10-24T16:00:00Z
+  - ✓ status uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra NS
+  - ✓ status uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba NS
+  - ✓ status uae-presidents-cup-2026-27-r16-ae-hatta-ae-united NS

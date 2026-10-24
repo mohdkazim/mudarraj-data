@@ -1,0 +1,20 @@
+{
+  "run": "2026-10-24T01:37:00Z",
+  "changes": [
+    { "op": "result", "match": "uae-presidents-cup-2026-27-r16-ae-fujairah-ae-al-wahda", "status": "FT", "score": [0, 1],
+      "sources": ["https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095524", "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095518", "https://sharjah24.ae/en/Articles/2026/10/23/d70"] },
+    { "op": "fixture", "match": "uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra", "kickoff": "2026-10-24T12:55:00Z", "timeConfirmed": true,
+      "sources": ["https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"] },
+    { "op": "fixture", "match": "uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba", "kickoff": "2026-10-24T13:00:00Z", "timeConfirmed": true,
+      "sources": ["https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"] },
+    { "op": "fixture", "match": "uae-presidents-cup-2026-27-r16-ae-hatta-ae-united", "kickoff": "2026-10-24T16:00:00Z", "timeConfirmed": true,
+      "sources": ["https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"] },
+    { "op": "status", "match": "uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra", "status": "NS", "sources": ["https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"] },
+    { "op": "status", "match": "uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba", "status": "NS", "sources": ["https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"] },
+    { "op": "status", "match": "uae-presidents-cup-2026-27-r16-ae-hatta-ae-united", "status": "NS", "sources": ["https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"] }
+  ],
+  "unconfirmed": [
+    { "match": "uae-presidents-cup-2026-27-r16-ae-al-nasr-ae-bani-yas", "claim": "0-1 AET (regular 0-0, ET 0-1; Awadallah 104')", "sources": ["https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095554"] },
+    { "match": "epl-2026-27-regular-r08-gb-eng-ipswich-town-gb-eng-nottingham-forest", "claim": "1-1 (N Williams 13', J Enciso 41')", "sources": ["https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/table/559520"] }
+  ]
+}
