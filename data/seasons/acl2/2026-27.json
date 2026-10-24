@@ -21,15 +21,30 @@
     "home": 0,
     "away": 0
    },
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Hisor Central Stadium",
+     "ar": "استاد هيسور المركزي"
+    },
+    "city": {
+     "en": "Hisor",
+     "ar": "هيسور"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912819/competitions/401912819/competitors/132926/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912819/competitions/401912819/competitors/8364/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912819/competitions/401912819/status?lang=en&region=us",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260915",
+    "https://www.gdnonline.com/Details/1406576/Muharraq-fall-in-ACL-Two-opener",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-b-golgohar-sirjan-fc-irn-0-0-al-jazira-fsc-uae-1",
+    "https://www.albayan.ae/sports/uae-stadiums/1551903"
+   ]
   },
   {
    "id": "acl2-2026-27-groups-gb-r01-tm-arkadag-bh-al-muharraq",
@@ -671,14 +686,29 @@
     "home": 2,
     "away": 0
    },
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Al Seeb Stadium",
+     "ar": "ستاد السيب"
+    },
+    "city": {
+     "en": "Seeb",
+     "ar": "السيب"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912797/competitions/401912797/competitors/21006/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.cup/events/401912797/competitions/401912797/competitors/132926/score?lang=en&region=us",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=2&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "venueSources": [
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-b-al-muharraq-sc-bhr-2-0-golgohar-sirjan-fc-irn",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-b-al-muharraq-sc-bhr-2-0-golgohar-sirjan-fc-irn-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261014",
+    "https://www.gdnonline.com/Details/1409601"
+   ]
   },
   {
    "id": "acl2-2026-27-groups-gc-r02-sa-al-taawoun-qa-al-rayyan",
@@ -1029,11 +1059,24 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Hisor Central Stadium",
+     "ar": "استاد هيسور المركزي"
+    },
+    "city": {
+     "en": "Hisor",
+     "ar": "هيسور"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf"
    ]
   },
   {
@@ -1696,11 +1739,23 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Kardinia Park Stadium",
+     "ar": "ملعب كاردينيا بارك"
+    },
+    "city": {
+     "en": "Geelong",
+     "ar": "جيلونغ"
+    }
+   },
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
+    "https://melbournevictory.com.au/?p=359251"
    ]
   },
   {
@@ -2248,11 +2303,24 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Hisor Central Stadium",
+     "ar": "استاد هيسور المركزي"
+    },
+    "city": {
+     "en": "Hisor",
+     "ar": "هيسور"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261209",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=6&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261209",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf"
    ]
   },
   {

@@ -1,0 +1,3327 @@
+{
+ "run": "2026-10-24T10:56:34.231Z",
+ "note": "Stadiums for every match: each club's home stadium, plus matches played elsewhere (research of 24 Oct 2026)",
+ "changes": [
+  {
+   "op": "team-venue",
+   "team": "gb-eng-arsenal",
+   "venue": {
+    "name": {
+     "en": "Emirates Stadium",
+     "ar": "ملعب الإمارات"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard/401879268",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-hull-city",
+   "venue": {
+    "name": {
+     "en": "MKM Stadium",
+     "ar": "ملعب إم كيه إم"
+    },
+    "city": {
+     "en": "Hull",
+     "ar": "هال"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-everton",
+   "venue": {
+    "name": {
+     "en": "Hill Dickinson Stadium",
+     "ar": "ملعب هيل ديكنسون"
+    },
+    "city": {
+     "en": "Liverpool",
+     "ar": "ليفربول"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-ipswich-town",
+   "venue": {
+    "name": {
+     "en": "Portman Road",
+     "ar": "ملعب بورتمان رود"
+    },
+    "city": {
+     "en": "Ipswich",
+     "ar": "إيبسويتش"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-nottingham-forest",
+   "venue": {
+    "name": {
+     "en": "City Ground",
+     "ar": "ملعب سيتي غراوند"
+    },
+    "city": {
+     "en": "Nottingham",
+     "ar": "نوتينغهام"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-brentford",
+   "venue": {
+    "name": {
+     "en": "Gtech Community Stadium",
+     "ar": "ملعب جيتك كوميونيتي"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-brighton",
+   "venue": {
+    "name": {
+     "en": "American Express Stadium",
+     "ar": "ملعب أمريكان إكسبريس"
+    },
+    "city": {
+     "en": "Brighton",
+     "ar": "برايتون"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-manchester-city",
+   "venue": {
+    "name": {
+     "en": "Etihad Stadium",
+     "ar": "ملعب الاتحاد"
+    },
+    "city": {
+     "en": "Manchester",
+     "ar": "مانشستر"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-newcastle-united",
+   "venue": {
+    "name": {
+     "en": "St James' Park",
+     "ar": "ملعب سانت جيمس بارك"
+    },
+    "city": {
+     "en": "Newcastle",
+     "ar": "نيوكاسل"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-fulham",
+   "venue": {
+    "name": {
+     "en": "Craven Cottage",
+     "ar": "ملعب كرافن كوتيج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-crystal-palace",
+   "venue": {
+    "name": {
+     "en": "Selhurst Park",
+     "ar": "ملعب سيلهرست بارك"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261011"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-liverpool",
+   "venue": {
+    "name": {
+     "en": "Anfield",
+     "ar": "ملعب أنفيلد"
+    },
+    "city": {
+     "en": "Liverpool",
+     "ar": "ليفربول"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-bournemouth",
+   "venue": {
+    "name": {
+     "en": "Vitality Stadium",
+     "ar": "ملعب فيتاليتي"
+    },
+    "city": {
+     "en": "Bournemouth",
+     "ar": "بورنموث"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-coventry-city",
+   "venue": {
+    "name": {
+     "en": "Coventry Building Society Arena",
+     "ar": "ملعب كوفنتري بيلدينغ سوسايتي أرينا"
+    },
+    "city": {
+     "en": "Coventry",
+     "ar": "كوفنتري"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261012"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-tottenham-hotspur",
+   "venue": {
+    "name": {
+     "en": "Tottenham Hotspur Stadium",
+     "ar": "ملعب توتنهام هوتسبير"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261019"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-chelsea",
+   "venue": {
+    "name": {
+     "en": "Stamford Bridge",
+     "ar": "ملعب ستامفورد بريدج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-leeds-united",
+   "venue": {
+    "name": {
+     "en": "Elland Road",
+     "ar": "ملعب إيلاند رود"
+    },
+    "city": {
+     "en": "Leeds",
+     "ar": "ليدز"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-sunderland",
+   "venue": {
+    "name": {
+     "en": "Stadium of Light",
+     "ar": "ملعب النور"
+    },
+    "city": {
+     "en": "Sunderland",
+     "ar": "سندرلاند"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-manchester-united",
+   "venue": {
+    "name": {
+     "en": "Old Trafford",
+     "ar": "ملعب أولد ترافورد"
+    },
+    "city": {
+     "en": "Manchester",
+     "ar": "مانشستر"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard/401878773",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gb-eng-aston-villa",
+   "venue": {
+    "name": {
+     "en": "Villa Park",
+     "ar": "ملعب فيلا بارك"
+    },
+    "city": {
+     "en": "Birmingham",
+     "ar": "برمنغهام"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-alaves",
+   "venue": {
+    "name": {
+     "en": "Mendizorroza",
+     "ar": "ملعب مينديزوروزا"
+    },
+    "city": {
+     "en": "Vitoria-Gasteiz",
+     "ar": "فيتوريا غاستيز"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260915",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261010"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-sevilla",
+   "venue": {
+    "name": {
+     "en": "Ramón Sánchez-Pizjuán",
+     "ar": "ملعب رامون سانشيز بيزخوان"
+    },
+    "city": {
+     "en": "Seville",
+     "ar": "إشبيلية"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard/401882859"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-racing-santander",
+   "venue": {
+    "name": {
+     "en": "El Sardinero",
+     "ar": "ملعب إل ساردينيرو"
+    },
+    "city": {
+     "en": "Santander",
+     "ar": "سانتاندير"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260912"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-espanyol",
+   "venue": {
+    "name": {
+     "en": "RCDE Stadium",
+     "ar": "ملعب آر سي دي إي"
+    },
+    "city": {
+     "en": "Cornellà de Llobregat",
+     "ar": "كورنيا دي يوبريغات"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260822",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261017"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-deportivo-la-coruna",
+   "venue": {
+    "name": {
+     "en": "Abanca-Riazor",
+     "ar": "ملعب أبانكا ريازور"
+    },
+    "city": {
+     "en": "A Coruña",
+     "ar": "لاكورونيا"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260830"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-atletico-madrid",
+   "venue": {
+    "name": {
+     "en": "Riyadh Air Metropolitano",
+     "ar": "ملعب رياض إير ميتروبوليتانو"
+    },
+    "city": {
+     "en": "Madrid",
+     "ar": "مدريد"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard/401882865",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-rayo-vallecano",
+   "venue": {
+    "name": {
+     "en": "Estadio de Vallecas",
+     "ar": "ملعب فاليكاس"
+    },
+    "city": {
+     "en": "Madrid",
+     "ar": "مدريد"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard/401882849",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024",
+    "https://www.emol.com/noticias/Deportes/2026/10/10/1213832/rayo-vallecano-protesta-suspension-laliga.html",
+    "https://www.comuniate.com/noticias/38440/vallecas-castigado-cierre-parcial-y-el-rayo-athletic-sigue-sin-fecha"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-real-betis",
+   "venue": {
+    "name": {
+     "en": "Estadio La Cartuja",
+     "ar": "ملعب لا كارتوخا"
+    },
+    "city": {
+     "en": "Seville",
+     "ar": "إشبيلية"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard/401882846",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-athletic-club",
+   "venue": {
+    "name": {
+     "en": "San Mamés",
+     "ar": "ملعب سان ماميس"
+    },
+    "city": {
+     "en": "Bilbao",
+     "ar": "بلباو"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260905",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260822"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-valencia",
+   "venue": {
+    "name": {
+     "en": "Mestalla",
+     "ar": "ملعب ميستايا"
+    },
+    "city": {
+     "en": "Valencia",
+     "ar": "فالنسيا"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260822"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-getafe",
+   "venue": {
+    "name": {
+     "en": "Coliseum",
+     "ar": "ملعب كوليسيوم"
+    },
+    "city": {
+     "en": "Getafe",
+     "ar": "خيتافي"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260913"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-elche",
+   "venue": {
+    "name": {
+     "en": "Martínez Valero",
+     "ar": "ملعب مارتينيز فاليرو"
+    },
+    "city": {
+     "en": "Elche",
+     "ar": "إلتشي"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260915"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-osasuna",
+   "venue": {
+    "name": {
+     "en": "El Sadar",
+     "ar": "ملعب إل سادار"
+    },
+    "city": {
+     "en": "Pamplona",
+     "ar": "بامبلونا"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260912",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260824"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-malaga",
+   "venue": {
+    "name": {
+     "en": "La Rosaleda",
+     "ar": "ملعب لا روساليدا"
+    },
+    "city": {
+     "en": "Málaga",
+     "ar": "ملقة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260824"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-real-madrid",
+   "venue": {
+    "name": {
+     "en": "Santiago Bernabéu",
+     "ar": "ملعب سانتياغو برنابيو"
+    },
+    "city": {
+     "en": "Madrid",
+     "ar": "مدريد"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260912",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-celta-vigo",
+   "venue": {
+    "name": {
+     "en": "Abanca-Balaídos",
+     "ar": "ملعب أبانكا بالايدوس"
+    },
+    "city": {
+     "en": "Vigo",
+     "ar": "فيغو"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260913",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260830"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-barcelona",
+   "venue": {
+    "name": {
+     "en": "Spotify Camp Nou",
+     "ar": "ملعب سبوتيفاي كامب نو"
+    },
+    "city": {
+     "en": "Barcelona",
+     "ar": "برشلونة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard/401882853",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-levante",
+   "venue": {
+    "name": {
+     "en": "Ciutat de València",
+     "ar": "ملعب سيوتات دي فالنسيا"
+    },
+    "city": {
+     "en": "Valencia",
+     "ar": "فالنسيا"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260913"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-real-sociedad",
+   "venue": {
+    "name": {
+     "en": "Reale Arena",
+     "ar": "ملعب ريالي أرينا"
+    },
+    "city": {
+     "en": "San Sebastián",
+     "ar": "سان سيباستيان"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260913"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "es-villarreal",
+   "venue": {
+    "name": {
+     "en": "Estadio de la Cerámica",
+     "ar": "ملعب لا سيراميكا"
+    },
+    "city": {
+     "en": "Villarreal",
+     "ar": "فياريال"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260905",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915410"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "be-club-brugge",
+   "venue": {
+    "name": {
+     "en": "Jan Breydel Stadium",
+     "ar": "ملعب يان بريدل"
+    },
+    "city": {
+     "en": "Bruges",
+     "ar": "بروج"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "gr-aek-athens",
+   "venue": {
+    "name": {
+     "en": "OPAP Arena",
+     "ar": "أوباب أرينا"
+    },
+    "city": {
+     "en": "Athens",
+     "ar": "أثينا"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "de-borussia-dortmund",
+   "venue": {
+    "name": {
+     "en": "Signal Iduna Park",
+     "ar": "سيغنال إيدونا بارك"
+    },
+    "city": {
+     "en": "Dortmund",
+     "ar": "دورتموند"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "fr-lille",
+   "venue": {
+    "name": {
+     "en": "Stade Pierre-Mauroy",
+     "ar": "ملعب بيير موروا"
+    },
+    "city": {
+     "en": "Lille",
+     "ar": "ليل"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "pt-porto",
+   "venue": {
+    "name": {
+     "en": "Estádio do Dragão",
+     "ar": "ملعب دراغاو"
+    },
+    "city": {
+     "en": "Porto",
+     "ar": "بورتو"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "de-vfb-stuttgart",
+   "venue": {
+    "name": {
+     "en": "MHPArena",
+     "ar": "إم إتش بي أرينا"
+    },
+    "city": {
+     "en": "Stuttgart",
+     "ar": "شتوتغارت"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915392"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "fr-paris-saint-germain",
+   "venue": {
+    "name": {
+     "en": "Parc des Princes",
+     "ar": "ملعب حديقة الأمراء"
+    },
+    "city": {
+     "en": "Paris",
+     "ar": "باريس"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "it-napoli",
+   "venue": {
+    "name": {
+     "en": "Stadio Diego Armando Maradona",
+     "ar": "ملعب دييغو أرماندو مارادونا"
+    },
+    "city": {
+     "en": "Naples",
+     "ar": "نابولي"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "pt-sporting-cp",
+   "venue": {
+    "name": {
+     "en": "Estádio José Alvalade",
+     "ar": "ملعب جوزيه ألفالادي"
+    },
+    "city": {
+     "en": "Lisbon",
+     "ar": "لشبونة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915391"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "nl-psv-eindhoven",
+   "venue": {
+    "name": {
+     "en": "Philips Stadion",
+     "ar": "ملعب فيليبس"
+    },
+    "city": {
+     "en": "Eindhoven",
+     "ar": "آيندهوفن"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "tr-fenerbahce",
+   "venue": {
+    "name": {
+     "en": "Şükrü Saracoğlu Stadium",
+     "ar": "ملعب شكري سراج أوغلو"
+    },
+    "city": {
+     "en": "Istanbul",
+     "ar": "إسطنبول"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "cz-slavia-prague",
+   "venue": {
+    "name": {
+     "en": "Fortuna Arena",
+     "ar": "فورتونا أرينا"
+    },
+    "city": {
+     "en": "Prague",
+     "ar": "براغ"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "de-bayern-munich",
+   "venue": {
+    "name": {
+     "en": "Allianz Arena",
+     "ar": "أليانز أرينا"
+    },
+    "city": {
+     "en": "Munich",
+     "ar": "ميونخ"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "it-como",
+   "venue": {
+    "name": {
+     "en": "Stadio Giuseppe Sinigaglia",
+     "ar": "ملعب جوزيبي سينيغاليا"
+    },
+    "city": {
+     "en": "Como",
+     "ar": "كومو"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "az-sabah",
+   "venue": {
+    "name": {
+     "en": "Baku Olympic Stadium",
+     "ar": "ملعب باكو الأولمبي"
+    },
+    "city": {
+     "en": "Baku",
+     "ar": "باكو"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915436",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/teams/21922/schedule?fixture=true",
+    "https://www.azernews.az/sports/263426.html",
+    "https://en.wikipedia.org/wiki/Baku_Olympic_Stadium"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "fr-lens",
+   "venue": {
+    "name": {
+     "en": "Stade Bollaert-Delelis",
+     "ar": "ملعب بولارت ديليليس"
+    },
+    "city": {
+     "en": "Lens",
+     "ar": "لانس"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "de-rb-leipzig",
+   "venue": {
+    "name": {
+     "en": "Red Bull Arena",
+     "ar": "ريد بول أرينا"
+    },
+    "city": {
+     "en": "Leipzig",
+     "ar": "لايبزيغ"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "it-inter-milan",
+   "venue": {
+    "name": {
+     "en": "San Siro",
+     "ar": "سان سيرو"
+    },
+    "city": {
+     "en": "Milan",
+     "ar": "ميلانو"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "no-viking",
+   "venue": {
+    "name": {
+     "en": "Viking Stadion",
+     "ar": "ملعب فايكنغ"
+    },
+    "city": {
+     "en": "Stavanger",
+     "ar": "ستافانغر"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "tr-galatasaray",
+   "venue": {
+    "name": {
+     "en": "RAMS Park",
+     "ar": "رامس بارك"
+    },
+    "city": {
+     "en": "Istanbul",
+     "ar": "إسطنبول"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "at-lask",
+   "venue": {
+    "name": {
+     "en": "Raiffeisen Arena",
+     "ar": "رايفايزن أرينا"
+    },
+    "city": {
+     "en": "Linz",
+     "ar": "لينتس"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/v2/scoreboard/header?sport=soccer&league=uefa.champions&dates=20261014",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261014"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "nl-feyenoord",
+   "venue": {
+    "name": {
+     "en": "De Kuip",
+     "ar": "دي كويب"
+    },
+    "city": {
+     "en": "Rotterdam",
+     "ar": "روتردام"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/v2/scoreboard/header?sport=soccer&league=uefa.champions&dates=20261014",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261014"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "it-roma",
+   "venue": {
+    "name": {
+     "en": "Stadio Olimpico",
+     "ar": "الملعب الأولمبي"
+    },
+    "city": {
+     "en": "Rome",
+     "ar": "روما"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
+    "https://site.api.espn.com/apis/v2/scoreboard/header?sport=soccer&league=uefa.champions&dates=20261014"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "no-bod-glimt",
+   "venue": {
+    "name": {
+     "en": "Aspmyra Stadion",
+     "ar": "ملعب أسبميرا"
+    },
+    "city": {
+     "en": "Bodø",
+     "ar": "بودو"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/v2/scoreboard/header?sport=soccer&league=uefa.champions&dates=20261014",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261014"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "sk-slovan-bratislava",
+   "venue": {
+    "name": {
+     "en": "Tehelné pole",
+     "ar": "ملعب تيهيلني بولي"
+    },
+    "city": {
+     "en": "Bratislava",
+     "ar": "براتيسلافا"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915405",
+    "https://en.wikipedia.org/wiki/Teheln%C3%A9_pole"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "laliga-2026-27-regular-r02-es-rayo-vallecano-es-alaves",
+   "venue": {
+    "name": {
+     "en": "Estadio Municipal de Butarque",
+     "ar": "ملعب بوتاركي"
+    },
+    "city": {
+     "en": "Leganés",
+     "ar": "ليغانيس"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard/401882908",
+    "https://en.wikipedia.org/wiki/Vallecas_Stadium",
+    "https://ianslive.in/la-liga-rayo-vallecano-coach-san-jose-unhappy-at-ground-switch-for-alaves-clash--20260819234945",
+    "https://footballgroundguide.com/news/rayo-vallecano-temporary-new-home-now-revealed-as-club-forced-to-start-season-at-laliga-2-stadium.html"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "laliga-2026-27-regular-r04-es-rayo-vallecano-es-racing-santander",
+   "venue": {
+    "name": {
+     "en": "Estadio Municipal de Butarque",
+     "ar": "ملعب بوتاركي"
+    },
+    "city": {
+     "en": "Leganés",
+     "ar": "ليغانيس"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260905",
+    "https://webapp.comuniate.com/en/noticias/37733/rayo-racing-will-finally-be-played-this-saturday-at-butarque"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "laliga-2026-27-regular-r06-es-rayo-vallecano-es-espanyol",
+   "venue": {
+    "name": {
+     "en": "Estadio Municipal de Butarque",
+     "ar": "ملعب بوتاركي"
+    },
+    "city": {
+     "en": "Leganés",
+     "ar": "ليغانيس"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260915",
+    "https://www.emol.com/noticias/Deportes/2026/10/10/1213832/rayo-vallecano-protesta-suspension-laliga.html",
+    "https://en.wikipedia.org/wiki/Butarque_Stadium"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-al-wahda",
+   "venue": {
+    "name": {
+     "en": "Al Nahyan Stadium",
+     "ar": "استاد آل نهيان"
+    },
+    "city": {
+     "en": "Abu Dhabi",
+     "ar": "أبوظبي"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f19-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f39-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f55-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f19-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/al-wahda"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-al-jazira",
+   "venue": {
+    "name": {
+     "en": "Mohammed bin Zayed Stadium",
+     "ar": "استاد محمد بن زايد"
+    },
+    "city": {
+     "en": "Abu Dhabi",
+     "ar": "أبوظبي"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f3b-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f57-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f3b-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/al-jazira"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-shabab-al-ahli",
+   "venue": {
+    "name": {
+     "en": "Rashid Stadium",
+     "ar": "استاد راشد"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f2b-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f46-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f63-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f2b-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/shabab-alahli"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-al-ain",
+   "venue": {
+    "name": {
+     "en": "Hazza bin Zayed Stadium",
+     "ar": "استاد هزاع بن زايد"
+    },
+    "city": {
+     "en": "Al Ain",
+     "ar": "العين"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f20-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f32-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f4e-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f20-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/al-ain",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-al-wasl",
+   "venue": {
+    "name": {
+     "en": "Zabeel Stadium",
+     "ar": "استاد زعبيل"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f1b-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f3d-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f48-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f1b-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/al-wasl"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-al-nasr",
+   "venue": {
+    "name": {
+     "en": "Al Maktoum Stadium",
+     "ar": "استاد آل مكتوم"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f23-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f40-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f5b-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f23-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/al-nasr",
+    "https://sharjah24.ae/en/Articles/2026/10/14/d75",
+    "https://www.gdnonline.com/Details/1409602/Riffa-off-to-losing-start"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-ajman",
+   "venue": {
+    "name": {
+     "en": "Rashid bin Saeed Stadium",
+     "ar": "استاد راشد بن سعيد"
+    },
+    "city": {
+     "en": "Ajman",
+     "ar": "عجمان"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f25-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f50-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f5d-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f25-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/ajman",
+    "https://sharjah24.ae/ar/Articles/2026/10/15/mm30"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-hatta",
+   "venue": {
+    "name": {
+     "en": "Hamdan bin Rashid Al Maktoum Stadium",
+     "ar": "استاد حمدان بن راشد آل مكتوم"
+    },
+    "city": {
+     "en": "Hatta",
+     "ar": "حتا"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f17-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f34-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f52-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f17-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/hatta"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-kalba",
+   "venue": {
+    "name": {
+     "en": "Kalba Stadium",
+     "ar": "استاد كلباء"
+    },
+    "city": {
+     "en": "Kalba",
+     "ar": "كلباء"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f2f-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f4c-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f67-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f2f-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/kalba"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-al-dhafra",
+   "venue": {
+    "name": {
+     "en": "Hamdan bin Zayed Stadium",
+     "ar": "استاد حمدان بن زايد"
+    },
+    "city": {
+     "en": "Madinat Zayed",
+     "ar": "مدينة زايد"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f10-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f42-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f5f-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f10-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/al-dhafra",
+    "https://www.thenationalnews.com/sport/uae-club-coach-signs-new-striker-after-scouting-on-youtube-1.446131"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-sharjah",
+   "venue": {
+    "name": {
+     "en": "Sharjah Stadium",
+     "ar": "استاد الشارقة"
+    },
+    "city": {
+     "en": "Sharjah",
+     "ar": "الشارقة"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f2c-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f4a-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f2c-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/sharjah"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-united",
+   "venue": {
+    "name": {
+     "en": "Al Maktoum Stadium",
+     "ar": "استاد آل مكتوم"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f37-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f54-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f6a-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f37-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/united",
+    "https://sharjah24.ae/en/Articles/2026/10/01/kmr17"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-bani-yas",
+   "venue": {
+    "name": {
+     "en": "Bani Yas Stadium",
+     "ar": "استاد بني ياس"
+    },
+    "city": {
+     "en": "Abu Dhabi (Al Shamkha)",
+     "ar": "أبوظبي (الشامخة)"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f14-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f28-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f44-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f61-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f14-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/bani-yas"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-khorfakkan",
+   "venue": {
+    "name": {
+     "en": "Saqr bin Mohammed Al Qassimi Stadium",
+     "ar": "استاد صقر بن محمد القاسمي"
+    },
+    "city": {
+     "en": "Khor Fakkan",
+     "ar": "خورفكان"
+    }
+   },
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f1e-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f3f-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f59-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/en/fixtures/22e17f65-7604-11f1-b32b-0289588efdb9",
+    "https://uaeproleague.ae/ar/fixtures/22e17f1e-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/clubs/khorfakkan"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "ae-fujairah",
+   "venue": {
+    "name": {
+     "en": "Fujairah Stadium",
+     "ar": "ملعب الفجيرة"
+    },
+    "city": {
+     "en": "Fujairah",
+     "ar": "الفجيرة"
+    }
+   },
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095518",
+    "https://sharjah24.ae/en/Articles/2026/10/22/AL026",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "uae-presidents-cup-2026-27-r16-ae-al-jazira-ae-ajman",
+   "venue": {
+    "name": {
+     "en": "Mohammed bin Zayed Stadium",
+     "ar": "استاد محمد بن زايد"
+    },
+    "city": {
+     "en": "Abu Dhabi",
+     "ar": "أبوظبي"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.albayan.ae/sports/arab-stadiums/1559887",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "uae-presidents-cup-2026-27-r16-ae-al-wasl-ae-kalba",
+   "venue": {
+    "name": {
+     "en": "Zabeel Stadium",
+     "ar": "استاد زعبيل"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.albayan.ae/sports/arab-stadiums/1559887",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "uae-presidents-cup-2026-27-r16-ae-shabab-al-ahli-ae-al-ain",
+   "venue": {
+    "name": {
+     "en": "Rashid Stadium",
+     "ar": "استاد راشد"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.albayan.ae/sports/arab-stadiums/1559887",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "uae-presidents-cup-2026-27-r16-ae-fujairah-ae-al-wahda",
+   "venue": {
+    "name": {
+     "en": "Fujairah Stadium",
+     "ar": "ملعب الفجيرة"
+    },
+    "city": {
+     "en": "Fujairah",
+     "ar": "الفجيرة"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095518",
+    "https://sharjah24.ae/en/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "uae-presidents-cup-2026-27-r16-ae-al-nasr-ae-bani-yas",
+   "venue": {
+    "name": {
+     "en": "Al Maktoum Stadium",
+     "ar": "استاد آل مكتوم"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095554",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra",
+   "venue": {
+    "name": {
+     "en": "Saqr bin Mohammed Al Qassimi Stadium",
+     "ar": "استاد صقر بن محمد القاسمي"
+    },
+    "city": {
+     "en": "Khor Fakkan",
+     "ar": "خورفكان"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095716",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba",
+   "venue": {
+    "name": {
+     "en": "Sharjah Stadium",
+     "ar": "استاد الشارقة"
+    },
+    "city": {
+     "en": "Sharjah",
+     "ar": "الشارقة"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095716",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "uae-presidents-cup-2026-27-r16-ae-hatta-ae-united",
+   "venue": {
+    "name": {
+     "en": "Hamdan bin Rashid Al Maktoum Stadium",
+     "ar": "استاد حمدان بن راشد آل مكتوم"
+    },
+    "city": {
+     "en": "Hatta",
+     "ar": "حتا"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095716",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "tm-arkadag",
+   "venue": {
+    "name": {
+     "en": "Arkadag Stadium",
+     "ar": "ستاد مدينة أركاداغ"
+    },
+    "city": {
+     "en": "Arkadag",
+     "ar": "أركاداغ"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260915",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-b-fc-arkadag-tkm-1-0-al-muharraq-sc-bhr-1",
+    "https://www.gdnonline.com/Details/1406576/Muharraq-fall-in-ACL-Two-opener",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/15/انطلاقة-قوية-لمنافسات-الجولة-الاولى-بدوري-ابطال-اسيا-2-لكرة-القدم"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "bh-al-khaldiya",
+   "venue": {
+    "name": {
+     "en": "Bahrain National Stadium",
+     "ar": "ستاد البحرين الوطني"
+    },
+    "city": {
+     "en": "Riffa",
+     "ar": "الرفاع"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260916",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-a-al-khaldiya-sc-bhr-0-0-pfc-nasaf-uzb-1",
+    "https://www.gdnonline.com/Details/1406576/Muharraq-fall-in-ACL-Two-opener"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "om-al-nahda",
+   "venue": {
+    "name": {
+     "en": "Sultan Qaboos Sports Complex",
+     "ar": "مجمع السلطان قابوس الرياضي"
+    },
+    "city": {
+     "en": "Muscat",
+     "ar": "مسقط"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260916",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf",
+    "https://www.omandaily.om/article/1210573",
+    "https://www.raya.com/2026/09/16/دوري-أبطال-آسيا-2-الريان-يفوز-على-الفيصلي-الأردني-ويتصدر-المجموعة-الثالثة"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "jo-al-hussein",
+   "venue": {
+    "name": {
+     "en": "Amman International Stadium",
+     "ar": "ستاد عمّان الدولي"
+    },
+    "city": {
+     "en": "Amman",
+     "ar": "عمّان"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260916",
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-hussein-jor-2-2-east-bengal-fc-ind",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-d-al-hussein-jor-2-2-east-bengal-fc-ind-1",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "qa-al-rayyan",
+   "venue": {
+    "name": {
+     "en": "Ahmad bin Ali Stadium",
+     "ar": "استاد أحمد بن علي"
+    },
+    "city": {
+     "en": "Al Rayyan",
+     "ar": "الريان"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260916",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf",
+    "https://www.raya.com/2026/09/16/دوري-أبطال-آسيا-2-الريان-يفوز-على-الفيصلي-الأردني-ويتصدر-المجموعة-الثالثة"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "iq-al-shorta",
+   "venue": {
+    "name": {
+     "en": "Al Zawraa Stadium",
+     "ar": "ستاد الزوراء"
+    },
+    "city": {
+     "en": "Baghdad",
+     "ar": "بغداد"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260916",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-d-al-shorta-irq-1-0-al-seeb-club-oma-1",
+    "https://www.alkhaleej.ae/2026-09-17/رياضة/رياضة-عربية/الشرطة-العراقي-يهزم-السيب-العماني-في-بطولة-آسيا-2",
+    "https://www.omandaily.om/article/1210573"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "in-east-bengal",
+   "venue": {
+    "name": {
+     "en": "Vivekananda Yuba Bharati Krirangan Stadium",
+     "ar": "ستاد فيفيكاناندا يوبا بهاراتي"
+    },
+    "city": {
+     "en": "Kolkata",
+     "ar": "كولكاتا"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261013",
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-2-3-al-shorta-irq",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-2-3-al-shorta-irq-1",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "om-al-seeb",
+   "venue": {
+    "name": {
+     "en": "Al Seeb Stadium",
+     "ar": "ستاد السيب"
+    },
+    "city": {
+     "en": "Seeb",
+     "ar": "السيب"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261013",
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-seeb-club-oma-0-3-al-hussein-jor",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf",
+    "https://www.omandaily.om/article/1212371",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-b-al-muharraq-sc-bhr-2-0-golgohar-sirjan-fc-irn-1"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "uz-nasaf",
+   "venue": {
+    "name": {
+     "en": "Markaziy Stadium",
+     "ar": "الملعب المركزي"
+    },
+    "city": {
+     "en": "Qarshi",
+     "ar": "قرشي"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261014",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf",
+    "https://www.albayan.ae/sports/uae-stadiums/1558131"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "kw-kuwait-sc",
+   "venue": {
+    "name": {
+     "en": "Jaber Al-Mubarak Al-Sabah Stadium",
+     "ar": "ستاد جابر المبارك الصباح"
+    },
+    "city": {
+     "en": "Kuwait City",
+     "ar": "مدينة الكويت"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261014",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-a-kuwait-sc-kuw-3-1-al-khaldiya-sc-bhr-1",
+    "https://www.gdnonline.com/Details/1409601",
+    "https://kuwaittimes.com/article/51657/sports/kuwait-sc-beat-al-khalidiya-in-afc-champions-league-two-kazma-lose-to-ettifaq/"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "bh-al-muharraq",
+   "venue": {
+    "name": {
+     "en": "Bahrain National Stadium",
+     "ar": "ستاد البحرين الوطني"
+    },
+    "city": {
+     "en": "Riffa",
+     "ar": "الرفاع"
+    }
+   },
+   "sources": [
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/15/انطلاقة-قوية-لمنافسات-الجولة-الاولى-بدوري-ابطال-اسيا-2-لكرة-القدم",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-a-al-khaldiya-sc-bhr-0-0-pfc-nasaf-uzb-1"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "sa-al-taawoun",
+   "venue": {
+    "name": {
+     "en": "Wolves Park",
+     "ar": "وولفز بارك"
+    },
+    "city": {
+     "en": "Buraidah",
+     "ar": "بريدة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261014",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-10/14/دوري-ابطال-اسيا-2-الريان-يخسر-امام-التعاون-السعودي-في-الجولة-الثانية",
+    "https://sabq.org/article/p62bh4f"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "jo-al-faisaly",
+   "venue": {
+    "name": {
+     "en": "Amman International Stadium",
+     "ar": "ستاد عمّان الدولي"
+    },
+    "city": {
+     "en": "Amman",
+     "ar": "عمّان"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261014",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "uz-neftchi-fergana",
+   "venue": {
+    "name": {
+     "en": "Istiqlol Stadium",
+     "ar": "استاد استقلال"
+    },
+    "city": {
+     "en": "Fergana",
+     "ar": "فرغانة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.alkhaleej.ae/2026-09-13/رياضة/رياضة-عالمية/مواعيد-مباريات-الجولة-الأولى-في-دوري-أبطال-آسيا-للنخبة-2026-2027-الملاعب-والقنوات"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "qa-al-shamal",
+   "venue": {
+    "name": {
+     "en": "Al Bayt Stadium",
+     "ar": "استاد البيت"
+    },
+    "city": {
+     "en": "Al Khor",
+     "ar": "الخور"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/14/دوري-ابطال-اسيا-للنخبة-الشمال-يستهل-المشوار-بالتعادل-مع-الاتحاد-السعودي",
+    "https://www.alkhaleej.ae/2026-09-13/رياضة/رياضة-عالمية/مواعيد-مباريات-الجولة-الأولى-في-دوري-أبطال-آسيا-للنخبة-2026-2027-الملاعب-والقنوات"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "sa-al-ahli-saudi",
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد مدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.alkhaleej.ae/2026-09-13/رياضة/رياضة-عالمية/مواعيد-مباريات-الجولة-الأولى-في-دوري-أبطال-آسيا-للنخبة-2026-2027-الملاعب-والقنوات"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "sa-al-qadsiah",
+   "venue": {
+    "name": {
+     "en": "Prince Mohammed bin Fahd Stadium",
+     "ar": "استاد الأمير محمد بن فهد"
+    },
+    "city": {
+     "en": "Dammam",
+     "ar": "الدمام"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://sabq.org/article/5wugp6u",
+    "https://www.alkhaleej.ae/2026-09-13/رياضة/رياضة-عالمية/مواعيد-مباريات-الجولة-الأولى-في-دوري-أبطال-آسيا-للنخبة-2026-2027-الملاعب-والقنوات"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "sa-al-hilal",
+   "venue": {
+    "name": {
+     "en": "Kingdom Arena",
+     "ar": "المملكة أرينا"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.alkhaleej.ae/2026-09-13/رياضة/رياضة-عالمية/مواعيد-مباريات-الجولة-الأولى-في-دوري-أبطال-آسيا-للنخبة-2026-2027-الملاعب-والقنوات"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "uz-pakhtakor",
+   "venue": {
+    "name": {
+     "en": "Pakhtakor Stadium",
+     "ar": "ملعب باختاكور"
+    },
+    "city": {
+     "en": "Tashkent",
+     "ar": "طشقند"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.alkhaleej.ae/2026-10-11/رياضة/رياضة-الإمارات/الليلة-اختباران-قويان-للوصل-والعين-في-نخبة-آسيا"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "iq-al-quwa-al-jawiya",
+   "venue": {
+    "name": {
+     "en": "Basra International Stadium",
+     "ar": "استاد البصرة الدولي"
+    },
+    "city": {
+     "en": "Basra",
+     "ar": "البصرة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.alkhaleej.ae/2026-10-13/رياضة/رياضة-الإمارات/العين-يواصل-زعامته-لنخبة-آسيا",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_AFC_Champions_League_Elite_league_stage"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "qa-al-gharafa",
+   "venue": {
+    "name": {
+     "en": "Thani bin Jassim Stadium",
+     "ar": "استاد ثاني بن جاسم"
+    },
+    "city": {
+     "en": "Al Rayyan",
+     "ar": "الريان"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-10/13/دوري-ابطال-اسيا-للنخبة-الغرافة-يخسر-امام-الاستقلال-الايراني-1-2-في-الجولة-الثانية",
+    "https://www.alkhaleej.ae/2026-10-11/رياضة/رياضة-الإمارات/الليلة-اختباران-قويان-للوصل-والعين-في-نخبة-آسيا"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "sa-al-nassr",
+   "venue": {
+    "name": {
+     "en": "Al-Awwal Park",
+     "ar": "الأول بارك"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.alkhaleej.ae/2026-10-11/رياضة/رياضة-الإمارات/الليلة-اختباران-قويان-للوصل-والعين-في-نخبة-آسيا"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "qa-al-sadd",
+   "venue": {
+    "name": {
+     "en": "Jassim bin Hamad Stadium",
+     "ar": "استاد جاسم بن حمد"
+    },
+    "city": {
+     "en": "Doha",
+     "ar": "الدوحة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "sa-al-ittihad",
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد مدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "sa-neom",
+   "venue": {
+    "name": {
+     "en": "Al-Watani Club Stadium",
+     "ar": "ملعب نادي الوطني"
+    },
+    "city": {
+     "en": "Tabuk",
+     "ar": "تبوك"
+    }
+   },
+   "sources": [
+    "https://sabq.org/article/92rpqxi",
+    "https://www.okaz.com.sa/sport/na/2270625"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "qa-qatar-sc",
+   "venue": {
+    "name": {
+     "en": "Suhaim bin Hamad Stadium",
+     "ar": "استاد سحيم بن حمد"
+    },
+    "city": {
+     "en": "Doha",
+     "ar": "الدوحة"
+    }
+   },
+   "sources": [
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-10/13/دوري-ابطال-الخليج-للاندية-نادي-قطر-يتعادل-مع-الزوراء-العراقي-بهدف-لمثله-في-الجولة-الاولى",
+    "https://www.gdnonline.com/Details/1409602/Riffa-off-to-losing-start",
+    "https://sabq.org/article/92rpqxi"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "qa-al-duhail",
+   "venue": {
+    "name": {
+     "en": "Abdullah bin Khalifa Stadium",
+     "ar": "استاد عبدالله بن خليفة"
+    },
+    "city": {
+     "en": "Doha",
+     "ar": "الدوحة"
+    }
+   },
+   "sources": [
+    "https://www.raya.com/2026/10/14/الدحيل-يستهل-مشواره-بدوري-أبطال-الخليج-للأندية-بثلاثية-عمانية",
+    "https://www.omanobserver.om/article/1197885/sports/football/al-duhail-blank-al-shabab-in-gulf-opener",
+    "https://sabq.org/article/92rpqxi"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "sa-al-ettifaq",
+   "venue": {
+    "name": {
+     "en": "Al-Ettifaq Club Stadium",
+     "ar": "ملعب نادي الاتفاق"
+    },
+    "city": {
+     "en": "Dammam",
+     "ar": "الدمام"
+    }
+   },
+   "sources": [
+    "https://sabq.org/article/92rpqxi",
+    "https://www.okaz.com.sa/sport/na/2270515",
+    "https://kuwaittimes.com/article/51657/sports/kuwait-sc-beat-al-khalidiya-in-afc-champions-league-two-kazma-lose-to-ettifaq/"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "om-al-shabab-oman",
+   "venue": {
+    "name": {
+     "en": "Al Rustaq Sports Complex",
+     "ar": "مجمع الرستاق الرياضي"
+    },
+    "city": {
+     "en": "Rustaq",
+     "ar": "الرستاق"
+    }
+   },
+   "sources": [
+    "https://www.omanobserver.om/article/1197885/sports/football/al-duhail-blank-al-shabab-in-gulf-opener"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acle-2026-27-league-west-gwest-r01-ir-esteghlal-qa-al-sadd",
+   "venue": {
+    "name": {
+     "en": "Basra International Stadium",
+     "ar": "استاد البصرة الدولي"
+    },
+    "city": {
+     "en": "Basra",
+     "ar": "البصرة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/14/دوري-ابطال-اسيا-للنخبة-السد-يستهل-مشواره-بالخسارة-امام-الاستقلال-الايراني",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-2026-27-League-Stage---27Augupd.pdf"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acle-2026-27-league-west-gwest-r04-ir-esteghlal-qa-al-shamal",
+   "venue": {
+    "name": {
+     "en": "Basra International Stadium",
+     "ar": "استاد البصرة الدولي"
+    },
+    "city": {
+     "en": "Basra",
+     "ar": "البصرة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acle-2026-27-league-west-gwest-r06-ir-esteghlal-uz-neftchi-fergana",
+   "venue": {
+    "name": {
+     "en": "Basra International Stadium",
+     "ar": "استاد البصرة الدولي"
+    },
+    "city": {
+     "en": "Basra",
+     "ar": "البصرة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261207",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acle-2026-27-league-west-gwest-r08-ir-esteghlal-ae-al-wasl",
+   "venue": {
+    "name": {
+     "en": "Basra International Stadium",
+     "ar": "استاد البصرة الدولي"
+    },
+    "city": {
+     "en": "Basra",
+     "ar": "البصرة"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270215",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acle-2026-27-league-west-gwest-r02-ir-tractor-qa-al-shamal",
+   "venue": {
+    "name": {
+     "en": "Sultan Qaboos Sports Complex",
+     "ar": "مجمع السلطان قابوس الرياضي"
+    },
+    "city": {
+     "en": "Muscat",
+     "ar": "مسقط"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-10/12/دوري-ابطال-اسيا-للنخبة-الشمال-يتعادل-مع-تراكتور-الايراني-بدون-اهداف",
+    "https://www.omandaily.om/article/1212371",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acle-2026-27-league-west-gwest-r04-ir-tractor-uz-neftchi-fergana",
+   "venue": {
+    "name": {
+     "en": "Sultan Qaboos Sports Complex",
+     "ar": "مجمع السلطان قابوس الرياضي"
+    },
+    "city": {
+     "en": "Muscat",
+     "ar": "مسقط"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acle-2026-27-league-west-gwest-r05-ir-tractor-ae-al-wasl",
+   "venue": {
+    "name": {
+     "en": "Sultan Qaboos Sports Complex",
+     "ar": "مجمع السلطان قابوس الرياضي"
+    },
+    "city": {
+     "en": "Muscat",
+     "ar": "مسقط"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acle-2026-27-league-west-gwest-r07-ir-tractor-qa-al-sadd",
+   "venue": {
+    "name": {
+     "en": "Sultan Qaboos Sports Complex",
+     "ar": "مجمع السلطان قابوس الرياضي"
+    },
+    "city": {
+     "en": "Muscat",
+     "ar": "مسقط"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270208",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acl2-2026-27-groups-gb-r01-ir-gol-gohar-sirjan-ae-al-jazira",
+   "venue": {
+    "name": {
+     "en": "Hisor Central Stadium",
+     "ar": "استاد هيسور المركزي"
+    },
+    "city": {
+     "en": "Hisor",
+     "ar": "هيسور"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260915",
+    "https://www.gdnonline.com/Details/1406576/Muharraq-fall-in-ACL-Two-opener",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-b-golgohar-sirjan-fc-irn-0-0-al-jazira-fsc-uae-1",
+    "https://www.albayan.ae/sports/uae-stadiums/1551903"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acl2-2026-27-groups-gb-r03-ir-gol-gohar-sirjan-tm-arkadag",
+   "venue": {
+    "name": {
+     "en": "Hisor Central Stadium",
+     "ar": "استاد هيسور المركزي"
+    },
+    "city": {
+     "en": "Hisor",
+     "ar": "هيسور"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acl2-2026-27-groups-gb-r06-ir-gol-gohar-sirjan-bh-al-muharraq",
+   "venue": {
+    "name": {
+     "en": "Hisor Central Stadium",
+     "ar": "استاد هيسور المركزي"
+    },
+    "city": {
+     "en": "Hisor",
+     "ar": "هيسور"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261209",
+    "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acl2-2026-27-groups-gb-r02-bh-al-muharraq-ir-gol-gohar-sirjan",
+   "venue": {
+    "name": {
+     "en": "Al Seeb Stadium",
+     "ar": "ستاد السيب"
+    },
+    "city": {
+     "en": "Seeb",
+     "ar": "السيب"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-b-al-muharraq-sc-bhr-2-0-golgohar-sirjan-fc-irn",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-b-al-muharraq-sc-bhr-2-0-golgohar-sirjan-fc-irn-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261014",
+    "https://www.gdnonline.com/Details/1409601"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acle-2026-27-league-west-gwest-r03-iq-al-quwa-al-jawiya-uz-pakhtakor",
+   "venue": {
+    "name": {
+     "en": "Al-Madina International Stadium",
+     "ar": "ملعب المدينة الدولي"
+    },
+    "city": {
+     "en": "Baghdad",
+     "ar": "بغداد"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acle-2026-27-league-west-gwest-r06-sa-al-ahli-saudi-ae-shabab-al-ahli",
+   "venue": {
+    "name": {
+     "en": "Prince Abdullah Al Faisal Sports City Stadium",
+     "ar": "استاد مدينة الأمير عبدالله الفيصل الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "kr-fc-seoul",
+   "venue": {
+    "name": {
+     "en": "Seoul World Cup Stadium",
+     "ar": "ملعب سيول لكأس العالم"
+    },
+    "city": {
+     "en": "Seoul",
+     "ar": "سيول"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260916",
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/tolic-hails-historic-persib-victory",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261202"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "vn-the-cong-viettel",
+   "venue": {
+    "name": {
+     "en": "Hang Day Stadium",
+     "ar": "ملعب هانغ داي"
+    },
+    "city": {
+     "en": "Hanoi",
+     "ar": "هانوي"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260916",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-e-the-cong-viettel-fc-vie-1-1-melbourne-victory-aus-1",
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-the-cong-viettel-fc-vie-1-1-melbourne-victory-aus",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "au-adelaide-united",
+   "venue": {
+    "name": {
+     "en": "Coopers Stadium",
+     "ar": "ملعب كوبرز"
+    },
+    "city": {
+     "en": "Adelaide",
+     "ar": "أديلايد"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260917",
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-f-adelaide-united-fc-aus-3-0-tai-po-fc-hkg",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-f-adelaide-united-fc-aus-3-0-tai-po-fc-hkg-1",
+    "https://en.wikipedia.org/wiki/Hindmarsh_Stadium"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "sg-lion-city-sailors",
+   "venue": {
+    "name": {
+     "en": "Jalan Besar Stadium",
+     "ar": "ملعب جالان بيسار"
+    },
+    "city": {
+     "en": "Singapore",
+     "ar": "سنغافورة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260917",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-f-lion-city-sailors-fc-sgp-1-1-bg-pathum-united-tha-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261203"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "jp-machida-zelvia",
+   "venue": {
+    "name": {
+     "en": "Machida Gion Stadium",
+     "ar": "ملعب ماتشيدا غيون"
+    },
+    "city": {
+     "en": "Machida",
+     "ar": "ماتشيدا"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260917",
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-fc-machida-zelvia-jpn-2-0-preah-khan-reach-svay-rieng-fc-cam",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-g-fc-machida-zelvia-jpn-2-0-preah-khan-reach-svay-rieng-fc-cam-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261203"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "cn-shanghai-shenhua",
+   "venue": {
+    "name": {
+     "en": "Shanghai Stadium",
+     "ar": "ملعب شنغهاي"
+    },
+    "city": {
+     "en": "Shanghai",
+     "ar": "شنغهاي"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260917",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-g-shanghai-shenhua-fc-chn-2-1-tampines-rovers-fc-sgp-1",
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-shanghai-shenhua-fc-chn-2-1-tampines-rovers-fc-sgp",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "hk-kitchee",
+   "venue": {
+    "name": {
+     "en": "Mong Kok Stadium",
+     "ar": "ملعب مونغكوك"
+    },
+    "city": {
+     "en": "Hong Kong",
+     "ar": "هونغ كونغ"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260917",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-h-kitchee-sc-hkg-0-0-gangwon-fc-kor-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261203"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "kh-phnom-penh-crown",
+   "venue": {
+    "name": {
+     "en": "Morodok Techo National Stadium",
+     "ar": "ملعب مورودوك تيكو الوطني"
+    },
+    "city": {
+     "en": "Phnom Penh",
+     "ar": "فنوم بينه"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20260917",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-h-phnom-penh-crown-fc-cam-2-1-kuching-city-fc-mas-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261203"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "au-melbourne-victory",
+   "venue": {
+    "name": {
+     "en": "AAMI Park",
+     "ar": "ملعب AAMI بارك"
+    },
+    "city": {
+     "en": "Melbourne",
+     "ar": "ملبورن"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261014",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/savarese-hails-perfect-melbourne-response-1",
+    "https://en.wikipedia.org/wiki/Melbourne_Rectangular_Stadium",
+    "https://melbournevictory.com.au/?p=359251",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "id-persib-bandung",
+   "venue": {
+    "name": {
+     "en": "Si Jalak Harupat Stadium",
+     "ar": "ملعب سي جالاك هاروبات"
+    },
+    "city": {
+     "en": "Soreang",
+     "ar": "سورينغ"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261014",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-e-persib-bandung-idn-1-0-the-cong-viettel-fc-vie-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_AFC_Champions_League_Two"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "hk-tai-po",
+   "venue": {
+    "name": {
+     "en": "Mong Kok Stadium",
+     "ar": "ملعب مونغكوك"
+    },
+    "city": {
+     "en": "Hong Kong",
+     "ar": "هونغ كونغ"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261015",
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-f-tai-po-fc-hkg-0-1-lion-city-sailors-fc-sgp",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-h-kitchee-sc-hkg-0-0-gangwon-fc-kor-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "kr-gangwon-fc",
+   "venue": {
+    "name": {
+     "en": "Gangneung Stadium",
+     "ar": "ملعب غانغنيونغ"
+    },
+    "city": {
+     "en": "Gangneung",
+     "ar": "غانغنيونغ"
+    }
+   },
+   "sources": [
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-gangwon-fc-kor-1-2-phnom-penh-crown-fc-cam",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-h-gangwon-fc-kor-1-2-phnom-penh-crown-fc-cam-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261015",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "th-bg-pathum-united",
+   "venue": {
+    "name": {
+     "en": "BG Stadium",
+     "ar": "ملعب بي جي"
+    },
+    "city": {
+     "en": "Pathum Thani",
+     "ar": "باثوم ثاني"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261015",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-f-bg-pathum-united-tha-1-2-adelaide-united-fc-aus-1",
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-f-bg-pathum-united-tha-1-2-adelaide-united-fc-aus",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "kh-pkr-svay-rieng",
+   "venue": {
+    "name": {
+     "en": "Morodok Techo National Stadium",
+     "ar": "ملعب مورودوك تيكو الوطني"
+    },
+    "city": {
+     "en": "Phnom Penh",
+     "ar": "فنوم بينه"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261015",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-g-pkr-svay-rieng-fc-cam-0-0-shanghai-shenhua-fc-chn-1",
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-pkr-svay-rieng-fc-cam-v-shanghai-shenhua-fc-chn-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "sg-tampines-rovers",
+   "venue": {
+    "name": {
+     "en": "Jalan Besar Stadium",
+     "ar": "ملعب جالان بيسار"
+    },
+    "city": {
+     "en": "Singapore",
+     "ar": "سنغافورة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261015",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-g-tampines-rovers-fc-sgp-0-1-fc-machida-zelvia-jpn-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "my-kuching-city",
+   "venue": {
+    "name": {
+     "en": "Taha Ariffin Stadium",
+     "ar": "ملعب طه عارفين"
+    },
+    "city": {
+     "en": "Kuching",
+     "ar": "كوتشينغ"
+    }
+   },
+   "sources": [
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-kuching-city-fc-mas-1-1-kitchee-sc-hkg",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-h-kuching-city-fc-mas-1-1-kitchee-sc-hkg-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
+    "https://en.wikipedia.org/wiki/Kuching_City_F.C."
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "jp-gamba-osaka",
+   "venue": {
+    "name": {
+     "en": "Panasonic Stadium Suita",
+     "ar": "ملعب باناسونيك سويتا"
+    },
+    "city": {
+     "en": "Suita",
+     "ar": "سويتا"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md1-gamba-osaka-jpn-4-1-cong-an-ha-noi-fc-vie-1",
+    "https://en.wikipedia.org/wiki/Panasonic_Stadium_Suita"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "jp-kashima-antlers",
+   "venue": {
+    "name": {
+     "en": "Kashima Soccer Stadium",
+     "ar": "ملعب كاشيما لكرة القدم"
+    },
+    "city": {
+     "en": "Kashima",
+     "ar": "كاشيما"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md1-kashima-antlers-fc-jpn-7-1-newcastle-jets-fc-aus-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261028"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "kr-daejeon-hana-citizen",
+   "venue": {
+    "name": {
+     "en": "Daejeon World Cup Stadium",
+     "ar": "ملعب دايجيون لكأس العالم"
+    },
+    "city": {
+     "en": "Daejeon",
+     "ar": "دايجيون"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md1-daejeon-hana-citizen-fc-kor-1-0-kyoto-sanga-fc-jpn-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "th-ratchaburi",
+   "venue": {
+    "name": {
+     "en": "Ratchaburi Stadium",
+     "ar": "ملعب راتشابوري"
+    },
+    "city": {
+     "en": "Ratchaburi",
+     "ar": "راتشابوري"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md1-ratchaburi-fc-tha-4-6-shanghai-port-fc-chn-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "cn-beijing-guoan",
+   "venue": {
+    "name": {
+     "en": "Workers' Stadium",
+     "ar": "ملعب العمال"
+    },
+    "city": {
+     "en": "Beijing",
+     "ar": "بكين"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md1-beijing-fc-chn-3-1-fc-pohang-steelers-kor-1"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "my-johor-darul-ta-zim",
+   "venue": {
+    "name": {
+     "en": "Sultan Ibrahim Stadium",
+     "ar": "ملعب السلطان إبراهيم"
+    },
+    "city": {
+     "en": "Iskandar Puteri",
+     "ar": "إسكندر بوتري"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261201"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "kr-jeonbuk-hyundai-motors",
+   "venue": {
+    "name": {
+     "en": "Jeonju World Cup Stadium",
+     "ar": "ملعب جيونجو لكأس العالم"
+    },
+    "city": {
+     "en": "Jeonju",
+     "ar": "جيونجو"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260916",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md1-jeonbuk-hyundai-motors-fc-kor-2-1-kashiwa-reysol-jpn-1"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "th-port-fc",
+   "venue": {
+    "name": {
+     "en": "Thammasat Stadium",
+     "ar": "ملعب ثاماسات"
+    },
+    "city": {
+     "en": "Pathum Thani",
+     "ar": "باثوم ثاني"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260916",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-2026-27-League-Stage---27Augupd.pdf",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md1-port-fc-tha-1-2-vissel-kobe-jpn-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261202"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "au-newcastle-jets",
+   "venue": {
+    "name": {
+     "en": "Newcastle Stadium",
+     "ar": "ملعب نيوكاسل"
+    },
+    "city": {
+     "en": "Newcastle",
+     "ar": "نيوكاسل"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md2-newcastle-jets-fc-aus-1-3-gamba-osaka-jpn-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "cn-shanghai-port",
+   "venue": {
+    "name": {
+     "en": "Pudong Football Stadium",
+     "ar": "ملعب بودونغ"
+    },
+    "city": {
+     "en": "Shanghai",
+     "ar": "شنغهاي"
+    }
+   },
+   "sources": [
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md2-shanghai-port-fc-chn-1-1-daejeon-hana-citizen-fc-kor-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "jp-kyoto-sanga",
+   "venue": {
+    "name": {
+     "en": "Kyoto Stadium",
+     "ar": "ملعب كيوتو"
+    },
+    "city": {
+     "en": "Kameoka",
+     "ar": "كاميوكا"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md2-kyoto-sanga-fc-jpn-1-0-ratchaburi-fc-tha-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "kr-pohang-steelers",
+   "venue": {
+    "name": {
+     "en": "Steelyard Stadium",
+     "ar": "ملعب ستيليارد"
+    },
+    "city": {
+     "en": "Pohang",
+     "ar": "بوهانغ"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md2-fc-pohang-steelers-kor-0-2-johor-darul-ta%E2%80%99zim-mas-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261104"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "th-buriram-united",
+   "venue": {
+    "name": {
+     "en": "Chang Arena",
+     "ar": "تشانغ أرينا"
+    },
+    "city": {
+     "en": "Buriram",
+     "ar": "بوريرام"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md2-buriram-united-tha-0-1-beijing-fc-chn-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261104"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "vn-cong-an-ha-noi",
+   "venue": {
+    "name": {
+     "en": "Hang Day Stadium",
+     "ar": "ملعب هانغ داي"
+    },
+    "city": {
+     "en": "Hanoi",
+     "ar": "هانوي"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_two.html/news/group-e-the-cong-viettel-fc-vie-1-1-melbourne-victory-aus-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "jp-kashiwa-reysol",
+   "venue": {
+    "name": {
+     "en": "Kashiwa Soccer Stadium",
+     "ar": "ملعب كاشيوا لكرة القدم"
+    },
+    "city": {
+     "en": "Kashiwa",
+     "ar": "كاشيوا"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261014",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/preview-kashiwa-reysol-jpn-v-port-fc-tha-1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261201"
+   ]
+  },
+  {
+   "op": "team-venue",
+   "team": "jp-vissel-kobe",
+   "venue": {
+    "name": {
+     "en": "Noevir Stadium Kobe",
+     "ar": "ملعب نويفير كوبي"
+    },
+    "city": {
+     "en": "Kobe",
+     "ar": "كوبي"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261014",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://www.the-afc.com/ar/club/afc_champions_league_elite.html/news/md2-vissel-kobe-jpn-2-0-jeonbuk-hyundai-motors-fc-kor-1",
+    "https://en.wikipedia.org/wiki/Noevir_Stadium_Kobe"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acle-2026-27-league-east-geast-r04-th-port-fc-cn-beijing-guoan",
+   "venue": {
+    "name": {
+     "en": "BG Stadium",
+     "ar": "ملعب بي جي"
+    },
+    "city": {
+     "en": "Pathum Thani",
+     "ar": "باثوم ثاني"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acle-2026-27-league-east-geast-r05-au-newcastle-jets-jp-kashiwa-reysol",
+   "venue": {
+    "name": {
+     "en": "Central Coast Stadium",
+     "ar": "ملعب سنترال كوست"
+    },
+    "city": {
+     "en": "Gosford",
+     "ar": "غوسفورد"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "acl2-2026-27-groups-ge-r05-au-melbourne-victory-vn-the-cong-viettel",
+   "venue": {
+    "name": {
+     "en": "Kardinia Park Stadium",
+     "ar": "ملعب كاردينيا بارك"
+    },
+    "city": {
+     "en": "Geelong",
+     "ar": "جيلونغ"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
+    "https://melbournevictory.com.au/?p=359251"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "ucl-2026-27-league-phase-r02-ua-shakhtar-donetsk-gr-aek-athens",
+   "venue": {
+    "name": {
+     "en": "Stamford Bridge",
+     "ar": "ملعب ستامفورد بريدج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915406",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/teams/493/schedule?fixture=true",
+    "https://shakhtar.com/en/news/2026/august/21_news/21_shakhtar_stamford_bridge/",
+    "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
+    "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "ucl-2026-27-league-phase-r04-ua-shakhtar-donetsk-pt-sporting-cp",
+   "venue": {
+    "name": {
+     "en": "Stamford Bridge",
+     "ar": "ملعب ستامفورد بريدج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915406",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/teams/493/schedule?fixture=true",
+    "https://shakhtar.com/en/news/2026/august/21_news/21_shakhtar_stamford_bridge/",
+    "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
+    "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "ucl-2026-27-league-phase-r05-ua-shakhtar-donetsk-tr-fenerbahce",
+   "venue": {
+    "name": {
+     "en": "Stamford Bridge",
+     "ar": "ملعب ستامفورد بريدج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915406",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/teams/493/schedule?fixture=true",
+    "https://shakhtar.com/en/news/2026/august/21_news/21_shakhtar_stamford_bridge/",
+    "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
+    "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "ucl-2026-27-league-phase-r08-ua-shakhtar-donetsk-es-real-madrid",
+   "venue": {
+    "name": {
+     "en": "Stamford Bridge",
+     "ar": "ملعب ستامفورد بريدج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915406",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/teams/493/schedule?fixture=true",
+    "https://shakhtar.com/en/news/2026/august/21_news/21_shakhtar_stamford_bridge/",
+    "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
+    "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
+   ]
+  }
+ ]
+}

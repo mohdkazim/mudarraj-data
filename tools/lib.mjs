@@ -62,6 +62,43 @@ export function saveSeason(s) {
   writeJSON(seasonFile(s.competition, s.season), s);
 }
 
+// ---- venues ----------------------------------------------------------------------------------
+
+const text2 = (x) => !!x && typeof x.en === "string" && x.en.trim() !== "" && typeof x.ar === "string" && x.ar.trim() !== "";
+
+/** A venue is { name: {en, ar}, city?: {en, ar} }. */
+export function venueOk(v) {
+  if (!v || typeof v !== "object" || !text2(v.name)) return false;
+  if (v.city !== undefined && v.city !== null && !text2(v.city)) return false;
+  return true;
+}
+
+export function normVenue(v) {
+  const out = { name: { en: v.name.en.trim(), ar: v.name.ar.trim() } };
+  if (v.city) out.city = { en: v.city.en.trim(), ar: v.city.ar.trim() };
+  return out;
+}
+
+/** Stage types whose matches are played at the home club's ground. */
+const HOME_HOSTED = new Set(["league", "league-phase", "group", "playoff"]);
+
+/**
+ * The venue a match gets when the data names none: the home club's stadium, but only where clubs host
+ * their own matches (league and group stages, two-legged ties, or a stage marked "hosting": "home").
+ * Never for finals, neutral stages or tournaments (competition or stage "hosting": "neutral"), matches
+ * marked neutral, or national teams. Unknown → null (the site then shows no venue).
+ */
+export function defaultVenue(m, comp, teamById) {
+  if (m.venue || m.neutral || !m.home) return null;
+  const home = teamById.get(m.home);
+  if (!home?.venue || home.national) return null;
+  const stage = comp?.stages?.find((x) => x.key === m.stage?.key);
+  const type = m.stage?.type ?? stage?.type;
+  if (comp?.hosting === "neutral" || stage?.hosting === "neutral" || type === "final") return null;
+  const hosted = HOME_HOSTED.has(type) || Number.isInteger(m.leg) || stage?.hosting === "home";
+  return hosted ? home.venue : null;
+}
+
 export function saveTeams(teams) {
   teams.sort((a, b) => a.id.localeCompare(b.id));
   writeJSON(path.join(DATA, "teams.json"), teams);

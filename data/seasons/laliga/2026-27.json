@@ -189,14 +189,28 @@
     "home": 1,
     "away": 1
    },
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Estadio Municipal de Butarque",
+     "ar": "ملعب بوتاركي"
+    },
+    "city": {
+     "en": "Leganés",
+     "ar": "ليغانيس"
+    }
+   },
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard/401882908",
+    "https://en.wikipedia.org/wiki/Vallecas_Stadium",
+    "https://ianslive.in/la-liga-rayo-vallecano-coach-san-jose-unhappy-at-ground-switch-for-alaves-clash--20260819234945",
+    "https://footballgroundguide.com/news/rayo-vallecano-temporary-new-home-now-revealed-as-club-forced-to-start-season-at-laliga-2-stadium.html"
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r02-es-real-betis-es-real-sociedad",
@@ -945,14 +959,26 @@
     "home": 3,
     "away": 2
    },
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Estadio Municipal de Butarque",
+     "ar": "ملعب بوتاركي"
+    },
+    "city": {
+     "en": "Leganés",
+     "ar": "ليغانيس"
+    }
+   },
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260905",
+    "https://webapp.comuniate.com/en/noticias/37733/rayo-racing-will-finally-be-played-this-saturday-at-butarque"
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r04-es-villarreal-es-deportivo-la-coruna",
@@ -1449,14 +1475,27 @@
     "home": 2,
     "away": 1
    },
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Estadio Municipal de Butarque",
+     "ar": "ملعب بوتاركي"
+    },
+    "city": {
+     "en": "Leganés",
+     "ar": "ليغانيس"
+    }
+   },
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260915",
+    "https://www.emol.com/noticias/Deportes/2026/10/10/1213832/rayo-vallecano-protesta-suspension-laliga.html",
+    "https://en.wikipedia.org/wiki/Butarque_Stadium"
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r06-es-alaves-es-valencia",

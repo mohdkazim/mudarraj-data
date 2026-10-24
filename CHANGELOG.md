@@ -1143,3 +1143,179 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ status uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra NS
   - ✓ status uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba NS
   - ✓ status uae-presidents-cup-2026-27-r16-ae-hatta-ae-united NS
+
+## 2026-10-24 (2026-10-24T10:56:34.231Z)
+- 173 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ team-venue gb-eng-arsenal stadium confirmed (Emirates Stadium)
+  - ✓ team-venue gb-eng-hull-city stadium confirmed (MKM Stadium)
+  - ✓ team-venue gb-eng-everton stadium confirmed (Hill Dickinson Stadium)
+  - ✓ team-venue gb-eng-ipswich-town stadium confirmed (Portman Road)
+  - ✓ team-venue gb-eng-nottingham-forest stadium confirmed (City Ground)
+  - ✓ team-venue gb-eng-brentford stadium confirmed (Gtech Community Stadium)
+  - ✓ team-venue gb-eng-brighton stadium confirmed (American Express Stadium)
+  - ✓ team-venue gb-eng-manchester-city stadium confirmed (Etihad Stadium)
+  - ✓ team-venue gb-eng-newcastle-united stadium confirmed (St James' Park)
+  - ✓ team-venue gb-eng-fulham stadium confirmed (Craven Cottage)
+  - ✓ team-venue gb-eng-crystal-palace stadium confirmed (Selhurst Park)
+  - ✓ team-venue gb-eng-liverpool stadium confirmed (Anfield)
+  - ✓ team-venue gb-eng-bournemouth stadium confirmed (Vitality Stadium)
+  - ✓ team-venue gb-eng-coventry-city stadium confirmed (Coventry Building Society Arena)
+  - ✓ team-venue gb-eng-tottenham-hotspur stadium confirmed (Tottenham Hotspur Stadium)
+  - ✓ team-venue gb-eng-chelsea stadium confirmed (Stamford Bridge)
+  - ✓ team-venue gb-eng-leeds-united stadium confirmed (Elland Road)
+  - ✓ team-venue gb-eng-sunderland stadium confirmed (Stadium of Light)
+  - ✓ team-venue gb-eng-manchester-united stadium confirmed (Old Trafford)
+  - ✓ team-venue gb-eng-aston-villa stadium confirmed (Villa Park)
+  - ✓ team-venue es-alaves stadium confirmed (Mendizorroza)
+  - ✓ team-venue es-sevilla stadium confirmed (Ramón Sánchez-Pizjuán)
+  - ✓ team-venue es-racing-santander stadium confirmed (El Sardinero)
+  - ✓ team-venue es-espanyol stadium confirmed (RCDE Stadium)
+  - ✓ team-venue es-deportivo-la-coruna stadium confirmed (Abanca-Riazor)
+  - ✓ team-venue es-atletico-madrid stadium confirmed (Riyadh Air Metropolitano)
+  - ✓ team-venue es-rayo-vallecano stadium confirmed (Estadio de Vallecas)
+  - ✓ team-venue es-real-betis stadium confirmed (Estadio La Cartuja)
+  - ✓ team-venue es-athletic-club stadium confirmed (San Mamés)
+  - ✓ team-venue es-valencia stadium confirmed (Mestalla)
+  - ✓ team-venue es-getafe stadium confirmed (Coliseum)
+  - ✓ team-venue es-elche stadium confirmed (Martínez Valero)
+  - ✓ team-venue es-osasuna stadium confirmed (El Sadar)
+  - ✓ team-venue es-malaga stadium confirmed (La Rosaleda)
+  - ✓ team-venue es-real-madrid stadium confirmed (Santiago Bernabéu)
+  - ✓ team-venue es-celta-vigo stadium confirmed (Abanca-Balaídos)
+  - ✓ team-venue es-barcelona stadium confirmed (Spotify Camp Nou)
+  - ✓ team-venue es-levante stadium confirmed (Ciutat de València)
+  - ✓ team-venue es-real-sociedad stadium confirmed (Reale Arena)
+  - ✓ team-venue es-villarreal stadium confirmed (Estadio de la Cerámica)
+  - ✓ team-venue be-club-brugge stadium confirmed (Jan Breydel Stadium)
+  - ✓ team-venue gr-aek-athens stadium confirmed (OPAP Arena)
+  - ✓ team-venue de-borussia-dortmund stadium confirmed (Signal Iduna Park)
+  - ✓ team-venue fr-lille stadium confirmed (Stade Pierre-Mauroy)
+  - ✓ team-venue pt-porto stadium confirmed (Estádio do Dragão)
+  - ✓ team-venue de-vfb-stuttgart stadium confirmed (MHPArena)
+  - ✓ team-venue fr-paris-saint-germain stadium confirmed (Parc des Princes)
+  - ✓ team-venue it-napoli stadium confirmed (Stadio Diego Armando Maradona)
+  - ✓ team-venue pt-sporting-cp stadium confirmed (Estádio José Alvalade)
+  - ✓ team-venue nl-psv-eindhoven stadium confirmed (Philips Stadion)
+  - ✓ team-venue tr-fenerbahce stadium confirmed (Şükrü Saracoğlu Stadium)
+  - ✓ team-venue cz-slavia-prague stadium confirmed (Fortuna Arena)
+  - ✓ team-venue de-bayern-munich stadium confirmed (Allianz Arena)
+  - ✓ team-venue it-como stadium confirmed (Stadio Giuseppe Sinigaglia)
+  - ✓ team-venue az-sabah stadium set: Baku Olympic Stadium
+  - ✓ team-venue fr-lens stadium confirmed (Stade Bollaert-Delelis)
+  - ✓ team-venue de-rb-leipzig stadium confirmed (Red Bull Arena)
+  - ✓ team-venue it-inter-milan stadium confirmed (San Siro)
+  - ✓ team-venue no-viking stadium confirmed (Viking Stadion)
+  - ✓ team-venue tr-galatasaray stadium confirmed (RAMS Park)
+  - ✓ team-venue at-lask stadium confirmed (Raiffeisen Arena)
+  - ✓ team-venue nl-feyenoord stadium confirmed (De Kuip)
+  - ✓ team-venue it-roma stadium confirmed (Stadio Olimpico)
+  - ✓ team-venue no-bod-glimt stadium confirmed (Aspmyra Stadion)
+  - ✓ team-venue sk-slovan-bratislava stadium confirmed (Tehelné pole)
+  - ✓ venue laliga-2026-27-regular-r02-es-rayo-vallecano-es-alaves venue Estadio Municipal de Butarque
+  - ✓ venue laliga-2026-27-regular-r04-es-rayo-vallecano-es-racing-santander venue Estadio Municipal de Butarque
+  - ✓ venue laliga-2026-27-regular-r06-es-rayo-vallecano-es-espanyol venue Estadio Municipal de Butarque
+  - ✓ team-venue ae-al-wahda stadium confirmed (Al Nahyan Stadium)
+  - ✓ team-venue ae-al-jazira stadium confirmed (Mohammed bin Zayed Stadium)
+  - ✓ team-venue ae-shabab-al-ahli stadium confirmed (Rashid Stadium)
+  - ✓ team-venue ae-al-ain stadium confirmed (Hazza bin Zayed Stadium)
+  - ✓ team-venue ae-al-wasl stadium confirmed (Zabeel Stadium)
+  - ✓ team-venue ae-al-nasr stadium confirmed (Al Maktoum Stadium)
+  - ✓ team-venue ae-ajman stadium confirmed (Rashid bin Saeed Stadium)
+  - ✓ team-venue ae-hatta stadium confirmed (Hamdan bin Rashid Al Maktoum Stadium)
+  - ✓ team-venue ae-kalba stadium confirmed (Kalba Stadium)
+  - ✓ team-venue ae-al-dhafra stadium confirmed (Hamdan bin Zayed Stadium)
+  - ✓ team-venue ae-sharjah stadium confirmed (Sharjah Stadium)
+  - ✓ team-venue ae-united stadium confirmed (Al Maktoum Stadium)
+  - ✓ team-venue ae-bani-yas stadium confirmed (Bani Yas Stadium)
+  - ✓ team-venue ae-khorfakkan stadium confirmed (Saqr bin Mohammed Al Qassimi Stadium)
+  - ✓ team-venue ae-fujairah stadium confirmed (Fujairah Stadium)
+  - ✓ venue uae-presidents-cup-2026-27-r16-ae-al-jazira-ae-ajman venue Mohammed bin Zayed Stadium
+  - ✓ venue uae-presidents-cup-2026-27-r16-ae-al-wasl-ae-kalba venue Zabeel Stadium
+  - ✓ venue uae-presidents-cup-2026-27-r16-ae-shabab-al-ahli-ae-al-ain venue Rashid Stadium
+  - ✓ venue uae-presidents-cup-2026-27-r16-ae-fujairah-ae-al-wahda venue Fujairah Stadium
+  - ✓ venue uae-presidents-cup-2026-27-r16-ae-al-nasr-ae-bani-yas venue Al Maktoum Stadium
+  - ✓ venue uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra venue Saqr bin Mohammed Al Qassimi Stadium
+  - ✓ venue uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba venue Sharjah Stadium
+  - ✓ venue uae-presidents-cup-2026-27-r16-ae-hatta-ae-united venue Hamdan bin Rashid Al Maktoum Stadium
+  - ✓ team-venue tm-arkadag stadium set: Arkadag Stadium
+  - ✓ team-venue bh-al-khaldiya stadium set: Bahrain National Stadium
+  - ✓ team-venue om-al-nahda stadium set: Sultan Qaboos Sports Complex
+  - ✓ team-venue jo-al-hussein stadium set: Amman International Stadium
+  - ✓ team-venue qa-al-rayyan stadium confirmed (Ahmad bin Ali Stadium)
+  - ✓ team-venue iq-al-shorta stadium set: Al Zawraa Stadium
+  - ✓ team-venue in-east-bengal stadium set: Vivekananda Yuba Bharati Krirangan Stadium
+  - ✓ team-venue om-al-seeb stadium set: Al Seeb Stadium
+  - ✓ team-venue uz-nasaf stadium set: Markaziy Stadium
+  - ✓ team-venue kw-kuwait-sc stadium set: Jaber Al-Mubarak Al-Sabah Stadium
+  - ✓ team-venue bh-al-muharraq stadium set: Bahrain National Stadium
+  - ✓ team-venue sa-al-taawoun stadium set: Wolves Park
+  - ✓ team-venue jo-al-faisaly stadium confirmed (Amman International Stadium)
+  - ✓ team-venue uz-neftchi-fergana stadium set: Istiqlol Stadium
+  - ✓ team-venue qa-al-shamal stadium set: Al Bayt Stadium
+  - ✓ team-venue sa-al-ahli-saudi stadium confirmed (King Abdullah Sports City Stadium)
+  - ✓ team-venue sa-al-qadsiah stadium set: Prince Mohammed bin Fahd Stadium
+  - ✓ team-venue sa-al-hilal stadium confirmed (Kingdom Arena)
+  - ✓ team-venue uz-pakhtakor stadium confirmed (Pakhtakor Stadium)
+  - ✓ team-venue iq-al-quwa-al-jawiya stadium set: Basra International Stadium
+  - ✓ team-venue qa-al-gharafa stadium set: Thani bin Jassim Stadium
+  - ✓ team-venue sa-al-nassr stadium confirmed (Al-Awwal Park)
+  - ✓ team-venue qa-al-sadd stadium confirmed (Jassim bin Hamad Stadium)
+  - ✓ team-venue sa-al-ittihad stadium confirmed (King Abdullah Sports City Stadium)
+  - ✓ team-venue sa-neom stadium set: Al-Watani Club Stadium
+  - ✓ team-venue qa-qatar-sc stadium set: Suhaim bin Hamad Stadium
+  - ✓ team-venue qa-al-duhail stadium set: Abdullah bin Khalifa Stadium
+  - ✓ team-venue sa-al-ettifaq stadium set: Al-Ettifaq Club Stadium
+  - ✓ team-venue om-al-shabab-oman stadium set: Al Rustaq Sports Complex
+  - ✓ venue acle-2026-27-league-west-gwest-r01-ir-esteghlal-qa-al-sadd venue Basra International Stadium (neutral)
+  - ✓ venue acle-2026-27-league-west-gwest-r04-ir-esteghlal-qa-al-shamal venue Basra International Stadium (neutral)
+  - ✓ venue acle-2026-27-league-west-gwest-r06-ir-esteghlal-uz-neftchi-fergana venue Basra International Stadium (neutral)
+  - ✓ venue acle-2026-27-league-west-gwest-r08-ir-esteghlal-ae-al-wasl venue Basra International Stadium (neutral)
+  - ✓ venue acle-2026-27-league-west-gwest-r02-ir-tractor-qa-al-shamal venue Sultan Qaboos Sports Complex (neutral)
+  - ✓ venue acle-2026-27-league-west-gwest-r04-ir-tractor-uz-neftchi-fergana venue Sultan Qaboos Sports Complex (neutral)
+  - ✓ venue acle-2026-27-league-west-gwest-r05-ir-tractor-ae-al-wasl venue Sultan Qaboos Sports Complex (neutral)
+  - ✓ venue acle-2026-27-league-west-gwest-r07-ir-tractor-qa-al-sadd venue Sultan Qaboos Sports Complex (neutral)
+  - ✓ venue acl2-2026-27-groups-gb-r01-ir-gol-gohar-sirjan-ae-al-jazira venue Hisor Central Stadium (neutral)
+  - ✓ venue acl2-2026-27-groups-gb-r03-ir-gol-gohar-sirjan-tm-arkadag venue Hisor Central Stadium (neutral)
+  - ✓ venue acl2-2026-27-groups-gb-r06-ir-gol-gohar-sirjan-bh-al-muharraq venue Hisor Central Stadium (neutral)
+  - ✓ venue acl2-2026-27-groups-gb-r02-bh-al-muharraq-ir-gol-gohar-sirjan venue Al Seeb Stadium (neutral)
+  - ✓ venue acle-2026-27-league-west-gwest-r03-iq-al-quwa-al-jawiya-uz-pakhtakor venue Al-Madina International Stadium
+  - ✓ venue acle-2026-27-league-west-gwest-r06-sa-al-ahli-saudi-ae-shabab-al-ahli venue Prince Abdullah Al Faisal Sports City Stadium
+  - ✓ team-venue kr-fc-seoul stadium confirmed (Seoul World Cup Stadium)
+  - ✓ team-venue vn-the-cong-viettel stadium set: Hang Day Stadium
+  - ✓ team-venue au-adelaide-united stadium confirmed (Coopers Stadium)
+  - ✓ team-venue sg-lion-city-sailors stadium set: Jalan Besar Stadium
+  - ✓ team-venue jp-machida-zelvia stadium set: Machida Gion Stadium
+  - ✓ team-venue cn-shanghai-shenhua stadium set: Shanghai Stadium
+  - ✓ team-venue hk-kitchee stadium set: Mong Kok Stadium
+  - ✓ team-venue kh-phnom-penh-crown stadium set: Morodok Techo National Stadium
+  - ✓ team-venue au-melbourne-victory stadium confirmed (AAMI Park)
+  - ✓ team-venue id-persib-bandung stadium set: Si Jalak Harupat Stadium
+  - ✓ team-venue hk-tai-po stadium set: Mong Kok Stadium
+  - ✓ team-venue kr-gangwon-fc stadium set: Gangneung Stadium
+  - ✓ team-venue th-bg-pathum-united stadium set: BG Stadium
+  - ✓ team-venue kh-pkr-svay-rieng stadium set: Morodok Techo National Stadium
+  - ✓ team-venue sg-tampines-rovers stadium set: Jalan Besar Stadium
+  - ✓ team-venue my-kuching-city stadium set: Taha Ariffin Stadium
+  - ✓ team-venue jp-gamba-osaka stadium confirmed (Panasonic Stadium Suita)
+  - ✓ team-venue jp-kashima-antlers stadium set: Kashima Soccer Stadium
+  - ✓ team-venue kr-daejeon-hana-citizen stadium set: Daejeon World Cup Stadium
+  - ✓ team-venue th-ratchaburi stadium set: Ratchaburi Stadium
+  - ✓ team-venue cn-beijing-guoan stadium confirmed (Workers' Stadium)
+  - ✓ team-venue my-johor-darul-ta-zim stadium confirmed (Sultan Ibrahim Stadium)
+  - ✓ team-venue kr-jeonbuk-hyundai-motors stadium confirmed (Jeonju World Cup Stadium)
+  - ✓ team-venue th-port-fc stadium set: Thammasat Stadium
+  - ✓ team-venue au-newcastle-jets stadium set: Newcastle Stadium
+  - ✓ team-venue cn-shanghai-port stadium confirmed (Pudong Football Stadium)
+  - ✓ team-venue jp-kyoto-sanga stadium set: Kyoto Stadium
+  - ✓ team-venue kr-pohang-steelers stadium set: Steelyard Stadium
+  - ✓ team-venue th-buriram-united stadium confirmed (Chang Arena)
+  - ✓ team-venue vn-cong-an-ha-noi stadium set: Hang Day Stadium
+  - ✓ team-venue jp-kashiwa-reysol stadium set: Kashiwa Soccer Stadium
+  - ✓ team-venue jp-vissel-kobe stadium confirmed (Noevir Stadium Kobe)
+  - ✓ venue acle-2026-27-league-east-geast-r04-th-port-fc-cn-beijing-guoan venue BG Stadium
+  - ✓ venue acle-2026-27-league-east-geast-r05-au-newcastle-jets-jp-kashiwa-reysol venue Central Coast Stadium
+  - ✓ venue acl2-2026-27-groups-ge-r05-au-melbourne-victory-vn-the-cong-viettel venue Kardinia Park Stadium
+  - ✓ venue ucl-2026-27-league-phase-r02-ua-shakhtar-donetsk-gr-aek-athens venue Stamford Bridge (neutral)
+  - ✓ venue ucl-2026-27-league-phase-r04-ua-shakhtar-donetsk-pt-sporting-cp venue Stamford Bridge (neutral)
+  - ✓ venue ucl-2026-27-league-phase-r05-ua-shakhtar-donetsk-tr-fenerbahce venue Stamford Bridge (neutral)
+  - ✓ venue ucl-2026-27-league-phase-r08-ua-shakhtar-donetsk-es-real-madrid venue Stamford Bridge (neutral)

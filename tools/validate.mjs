@@ -8,7 +8,7 @@
  */
 import { readdirSync, existsSync } from "node:fs";
 import path from "node:path";
-import { DATA, FINISHED, STAGE_TYPES, STATUSES, confirmation, dubaiDate, isoOk, loadAll, pairOk, readJSON } from "./lib.mjs";
+import { DATA, FINISHED, STAGE_TYPES, STATUSES, confirmation, dubaiDate, isoOk, loadAll, pairOk, readJSON, venueOk } from "./lib.mjs";
 
 export function validate(all = loadAll(), now = Date.now()) {
   const errors = [];
@@ -23,6 +23,7 @@ export function validate(all = loadAll(), now = Date.now()) {
     seenTeams.add(t.id);
     if (!t.name?.en || !t.name?.ar) err(`team ${t.id}`, "needs English and Arabic names");
     if (!t.code) warn(`team ${t.id}`, "no 3-letter code");
+    if (t.venue && !venueOk(t.venue)) err(`team ${t.id}`, "venue needs name {en, ar} (and city {en, ar} if given)");
   }
 
   // ---- competitions
@@ -50,6 +51,7 @@ export function validate(all = loadAll(), now = Date.now()) {
       ids.add(m.id);
       if (!m.stage?.key || !STAGE_TYPES.includes(m.stage.type)) err(where, `bad stage ${JSON.stringify(m.stage)}`);
       if (!STATUSES.includes(m.status)) err(where, `bad status ${m.status}`);
+      if (m.venue && !venueOk(m.venue)) err(where, "venue needs name {en, ar} (and city {en, ar} if given)");
       if (m.kickoff !== null && !isoOk(m.kickoff)) err(where, `bad kickoff ${m.kickoff}`);
       if (m.kickoff === null && !["NS", "TBD", "PST", "CANC"].includes(m.status)) err(where, "a played match needs a kickoff time");
       for (const side of ["home", "away"]) {

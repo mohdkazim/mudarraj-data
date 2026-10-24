@@ -19,7 +19,7 @@ Tell Claude in the project chat ("Al Ain v Ajman on 29 Oct ended 2-1, not 1-1").
 
 | Path | What it is |
 |---|---|
-| `data/teams.json` | Clubs and national teams with English and Arabic names |
+| `data/teams.json` | Clubs and national teams with English and Arabic names, and each club's home stadium (used for its home matches unless a match lists its own venue) |
 | `data/competitions.json` | Current season and structure of each competition (tables, groups, rounds) |
 | `data/seasons/<competition>/<season>.json` | Matches |
 | `data/checks/` | Reference tables copied from trusted sites; the build compares our results against them |

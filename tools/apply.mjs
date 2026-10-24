@@ -12,6 +12,8 @@
  *       "kickoff": "2026-11-06T13:05:00Z", "timeConfirmed": true, "venue": {...}, "sources": ["https://…"] },
  *     { "op": "status",  "match": "<id>", "status": "PST", "sources": ["https://…"] },
  *     { "op": "team",    "team": { "id": "…", "name": {"en":"…","ar":"…"}, "shortName": {...}, "code": "ABC", "country": "qa", "national": false }, "sources": ["https://…"] },
+ *     { "op": "team-venue", "team": "<team id>", "venue": { "name": {"en":"…","ar":"…"}, "city": {"en":"…","ar":"…"} }, "sources": ["https://…"] },
+ *     { "op": "venue", "match": "<id>", "venue": {...} | null, "neutral": true, "sources": ["https://…"] },
  *     { "op": "table-check", "competition": "…", "season": "…", "table": "overall", "asOf": "2026-10-23T08:00:00Z",
  *       "rows": [{ "team": "…", "played": 7, "points": 21 }], "sources": ["https://…"] },
  *     { "op": "correction", "match": "<id>", "status": "FT", "score": [1,1], "reason": "…", "sources": [...] },
@@ -28,6 +30,11 @@
  *       { "minute": 45, "extra": 2, "side": "home", "player": "Kodjo Laba", "type": "goal" }
  *     "side" is the team the goal counts for (for an own goal: the team that benefits); "type" is goal, penalty or own-goal;
  *     "extra" is stoppage time (45+2 → minute 45, extra 2). The list must add up to the score, or leave it out.
+ *
+ * Venues: a club's stadium ("team-venue") is used for its home matches in league and group stages and
+ * two-legged ties (tools/lib.mjs defaultVenue). Give a match its own "venue" only when it is played
+ * elsewhere (a neutral venue, a final, a club hosting away from its ground); "neutral": true marks a
+ * neutral venue. Both need one Tier 1 or Tier 2 source.
  *
  * Every change is checked on its own; rejected ones are listed and skipped (the rest still apply).
  * Results need confirmation (see sources.json). Nothing is ever taken from memory: a change without
@@ -46,10 +53,12 @@ import {
   isoOk,
   loadAll,
   makeMatchId,
+  normVenue,
   pairOk,
   readJSON,
   saveSeason,
   saveTeams,
+  venueOk,
   writeJSON,
 } from "./lib.mjs";
 
@@ -68,8 +77,9 @@ const all = loadAll();
 const now = Date.now();
 const touched = new Set();
 const accepted = [];
+const resolved = new Set(); // matches whose result was recorded in this run (their pending claims are done)
 const rejected = [];
-const label = (c) => c.match ?? (c.home || c.away ? `${c.home ?? "?"} v ${c.away ?? "?"}` : c.team?.id ?? `${c.competition ?? ""} ${c.table ?? ""}`.trim());
+const label = (c) => c.match ?? (c.home || c.away ? `${c.home ?? "?"} v ${c.away ?? "?"}` : (typeof c.team === "string" ? c.team : c.team?.id) ?? `${c.competition ?? ""} ${c.table ?? ""}`.trim());
 const ok = (c, note) => accepted.push(`${c.op} ${label(c)} ${note ?? ""}`.trim());
 const no = (c, why) => rejected.push({ change: c, why });
 
@@ -175,6 +185,7 @@ for (const c of patch.changes) {
           if (c.ht && !m.score.ht) (m.score.ht = c.ht), added.push("half-time");
           if (c.goals?.length && !m.goals?.length) (m.goals = c.goals), added.push("scorers");
           touched.add(s);
+          resolved.add(m.id);
           ok({ ...c, match: m.id }, added.length ? `added ${added.join(" and ")} to the confirmed result` : "already recorded — extra source kept");
           break;
         }
@@ -205,6 +216,7 @@ for (const c of patch.changes) {
         m.updatedAt = new Date(now).toISOString();
         if (c.op === "correction") m.correction = { reason: c.reason, at: m.updatedAt };
         touched.add(s);
+        resolved.add(m.id);
         ok({ ...c, match: m.id }, `${m.score ? `${m.score.home}-${m.score.away}` : ""} ${m.status}`);
         break;
       }
@@ -316,6 +328,7 @@ for (const c of patch.changes) {
         if (c.kickoff !== undefined) m.kickoff = c.kickoff;
         m.sources = [...new Set([...(m.sources ?? []), ...c.sources])].slice(-6);
         touched.add(s);
+        resolved.add(m.id);
         ok({ ...c, match: m.id }, c.status);
         break;
       }
@@ -374,6 +387,52 @@ for (const c of patch.changes) {
         ok(c, `reference table ${c.competition} ${c.table} (${c.rows.length} rows)`);
         break;
       }
+      case "team-venue": {
+        const t = all.teamById.get(c.team);
+        if (!t) {
+          no(c, `unknown team ${c.team}`);
+          break;
+        }
+        if (!venueOk(c.venue)) {
+          no(c, "venue needs name {en, ar} (and city {en, ar} if given)");
+          break;
+        }
+        if (fixtureTrust(c.sources) !== "trusted") {
+          no(c, "a stadium needs a Tier 1 or Tier 2 source");
+          break;
+        }
+        const before = JSON.stringify(t.venue ?? null);
+        t.venue = normVenue(c.venue);
+        saveTeams(all.teams);
+        ok({ ...c, team: t.id }, before === JSON.stringify(t.venue) ? `stadium confirmed (${t.venue.name.en})` : `stadium set: ${t.venue.name.en}`);
+        break;
+      }
+      case "venue": {
+        const found = findMatch(c);
+        if (!found) {
+          no(c, "match not found");
+          break;
+        }
+        if (c.venue !== null && !venueOk(c.venue)) {
+          no(c, "venue needs name {en, ar} (and city {en, ar} if given), or null to clear it");
+          break;
+        }
+        if (fixtureTrust(c.sources) !== "trusted") {
+          no(c, "a venue needs a Tier 1 or Tier 2 source");
+          break;
+        }
+        const { s, m } = found;
+        if (c.venue === null) delete m.venue;
+        else m.venue = normVenue(c.venue);
+        if (typeof c.neutral === "boolean") {
+          if (c.neutral) m.neutral = true;
+          else delete m.neutral;
+        }
+        m.venueSources = [...new Set([...(m.venueSources ?? []), ...c.sources])];
+        touched.add(s);
+        ok({ ...c, match: m.id }, c.venue === null ? "venue cleared" : `venue ${m.venue.name.en}${m.neutral ? " (neutral)" : ""}`);
+        break;
+      }
       case "delete": {
         const found = findMatch(c);
         if (!found || !c.reason) {
@@ -399,7 +458,7 @@ for (const s of touched) saveSeason(s);
 const pendingFile = path.join(DATA, "pending.json");
 const pending = readJSON(pendingFile, []);
 const stillPending = [
-  ...pending.filter((p) => !accepted.some((a) => a.includes(p.match ?? "¬"))),
+  ...pending.filter((p) => !resolved.has(p.match)),
   ...(patch.unconfirmed ?? []).map((u) => ({ ...u, seen: patch.run ?? new Date(now).toISOString() })),
   ...rejected
     .filter((r) => r.change.op === "result" && /not enough|no usable/.test(r.why))

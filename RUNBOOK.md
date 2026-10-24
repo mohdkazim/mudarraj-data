@@ -36,6 +36,7 @@ node tools/status.mjs
    - **FIXTURE LISTS:** when a list ends inside the window, or a draw or schedule announcement happened, add the new fixtures. Fill knockout placeholders once the teams are known: use a `fixture` op with the existing match id plus `home`/`away`.
    - **Postponed, cancelled or abandoned** matches: use a `status` op (Tier 1 or 2 source).
    - **POSTPONED OR ABANDONED** (listed by `status.mjs`): look for the new date or the organiser's decision. New date → `fixture` op with the existing `match` id and the new `kickoff` (the match goes back to "not started"). Result awarded or the match resumed and finished → `result` op.
+   - **Venues:** when a source lists a match's stadium and it isn't the home club's usual ground (finals and other neutral venues, single-match cup rounds, a club hosting elsewhere), add a `venue` op (see "Venues" below).
    - **Mondays:** add a `table-check` for each league table (EPL from Sky Sports, LALIGA from laliga.com, others when a Tier 1 or 2 table is readable). Copy `played` and `points` for every team and set `asOf` to when that table was last updated. The build then fails if our results don't add up to the same table. That's how missing or wrong results are caught.
 
 3. **Write the patch** `patches/<UAE date>.json`. The format is documented at the top of `tools/apply.mjs`. Stage keys and table ids are in `data/competitions.json`, team ids in `data/teams.json`. A club that isn't listed needs a `team` op first, with its English and Arabic names from a Tier 1 or 2 source (Arabic news sites and official Arabic pages are best).
@@ -72,7 +73,15 @@ A small run with one job: results of matches that have just finished. Everything
 5. Publish only if the build passes: `git commit -m "data: <UAE date> <HH:MM> — <n> results"` and push. Push rejected → `git pull --rebase`, build again, push.
 6. **No report when things went normally** — the morning run reports the day. Only report a problem that stopped publishing (no GitHub access, a build you couldn't fix, a push that kept failing).
 
-Don't do in an evening run: fixture lists, kick-off times, postponed matches, table checks, older gaps from previous days. Those are the morning run's.
+Don't do in an evening run: fixture lists, kick-off times, venues, postponed matches, table checks, older gaps from previous days. Those are the morning run's.
+
+## Venues
+
+- Every club has a home stadium in `data/teams.json` (`venue`, English and Arabic name and city). The build gives each league, group-stage and two-legged match the home club's stadium automatically (`venueFrom: "home-ground"` in the published file).
+- A match gets its own venue (`venue` op, one Tier 1 or Tier 2 source) only when it's played elsewhere: finals and other neutral venues (add `"neutral": true`), single-match cup rounds such as the UAE President's Cup, a club hosting away from its ground. Finals, neutral stages and national-team tournaments never get a venue automatically.
+- A club changes ground (new stadium, renovation, AFC/UEFA stadium rules, a neutral home venue for the whole season) → `team-venue` op with the new stadium and a Tier 1 or Tier 2 source.
+- A new club (`team` op) should include its `venue` when the source gives it.
+- Never guess: no venue is better than a wrong one. Evening runs don't do venues.
 
 ## When something goes wrong
 

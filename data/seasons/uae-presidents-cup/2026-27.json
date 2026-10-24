@@ -21,15 +21,28 @@
     "home": 1,
     "away": 0
    },
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Mohammed bin Zayed Stadium",
+     "ar": "استاد محمد بن زايد"
+    },
+    "city": {
+     "en": "Abu Dhabi",
+     "ar": "أبوظبي"
+    }
+   },
    "sources": [
     "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2095150",
     "https://www.albayan.ae/sports/uae-stadiums/1559887",
     "https://www.alkhaleej.ae/2026-10-23/رياضة/رياضة-الإمارات/شباب-الأهلي-يجرد-العين-من-لقب-أغلى-الكؤوس",
     "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2094882"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "venueSources": [
+    "https://www.albayan.ae/sports/arab-stadiums/1559887",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
   },
   {
    "id": "uae-presidents-cup-2026-27-r16-ae-al-wasl-ae-kalba",
@@ -66,15 +79,28 @@
      3
     ]
    },
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Zabeel Stadium",
+     "ar": "استاد زعبيل"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
    "sources": [
     "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2095168",
     "https://www.albayan.ae/sports/uae-stadiums/1559824",
     "https://www.albayan.ae/sports/uae-stadiums/1559887",
     "https://www.alkhaleej.ae/2026-10-23/رياضة/رياضة-الإمارات/شباب-الأهلي-يجرد-العين-من-لقب-أغلى-الكؤوس"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "venueSources": [
+    "https://www.albayan.ae/sports/arab-stadiums/1559887",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
   },
   {
    "id": "uae-presidents-cup-2026-27-r16-ae-shabab-al-ahli-ae-al-ain",
@@ -107,15 +133,28 @@
      0
     ]
    },
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Rashid Stadium",
+     "ar": "استاد راشد"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
    "sources": [
     "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2095213",
     "https://www.albayan.ae/sports/uae-stadiums/1559887",
     "https://www.alkhaleej.ae/2026-10-23/رياضة/رياضة-الإمارات/شباب-الأهلي-يجرد-العين-من-لقب-أغلى-الكؤوس",
     "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2094882"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "venueSources": [
+    "https://www.albayan.ae/sports/arab-stadiums/1559887",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
   },
   {
    "id": "uae-presidents-cup-2026-27-r16-ae-fujairah-ae-al-wahda",
@@ -136,14 +175,27 @@
     "home": 0,
     "away": 1
    },
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Fujairah Stadium",
+     "ar": "ملعب الفجيرة"
+    },
+    "city": {
+     "en": "Fujairah",
+     "ar": "الفجيرة"
+    }
+   },
    "sources": [
     "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095524",
     "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095518",
     "https://sharjah24.ae/en/Articles/2026/10/23/d70"
    ],
-   "updatedAt": "2026-10-24T01:55:36.574Z"
+   "updatedAt": "2026-10-24T01:55:36.574Z",
+   "venueSources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095518",
+    "https://sharjah24.ae/en/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ]
   },
   {
    "id": "uae-presidents-cup-2026-27-r16-ae-al-nasr-ae-bani-yas",
@@ -161,13 +213,26 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Al Maktoum Stadium",
+     "ar": "استاد آل مكتوم"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
    "sources": [
     "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095423",
     "https://www.albayan.ae/sports/uae-stadiums/1559726",
     "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
     "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255"
+   ],
+   "venueSources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095554",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
    ]
   },
   {
@@ -186,12 +251,25 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Saqr bin Mohammed Al Qassimi Stadium",
+     "ar": "استاد صقر بن محمد القاسمي"
+    },
+    "city": {
+     "en": "Khor Fakkan",
+     "ar": "خورفكان"
+    }
+   },
    "sources": [
     "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
     "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
     "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ],
+   "venueSources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095716",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
    ]
   },
@@ -211,12 +289,25 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Sharjah Stadium",
+     "ar": "استاد الشارقة"
+    },
+    "city": {
+     "en": "Sharjah",
+     "ar": "الشارقة"
+    }
+   },
    "sources": [
     "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
     "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
     "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ],
+   "venueSources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095716",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
    ]
   },
@@ -236,12 +327,25 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Hamdan bin Rashid Al Maktoum Stadium",
+     "ar": "استاد حمدان بن راشد آل مكتوم"
+    },
+    "city": {
+     "en": "Hatta",
+     "ar": "حتا"
+    }
+   },
    "sources": [
     "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
     "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255",
     "https://www.alkhaleej.ae/2026-10-10/رياضة/رياضة-الإمارات/مواجهة-نارية-بين-العين-وشباب-الأهلي-في-أغلى-الكؤوس",
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ],
+   "venueSources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-24-1.2095716",
+    "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
    ]
   }

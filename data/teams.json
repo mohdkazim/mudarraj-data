@@ -1,5 +1,2143 @@
 [
  {
+  "id": "ae-ajman",
+  "name": {
+   "en": "Ajman",
+   "ar": "عجمان"
+  },
+  "shortName": {
+   "en": "Ajman",
+   "ar": "عجمان"
+  },
+  "code": "AJM",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2879.png",
+  "color": "#F58220",
+  "venue": {
+   "name": {
+    "en": "Rashid bin Saeed Stadium",
+    "ar": "استاد راشد بن سعيد"
+   },
+   "city": {
+    "en": "Ajman",
+    "ar": "عجمان"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2879
+ },
+ {
+  "id": "ae-al-ain",
+  "name": {
+   "en": "Al Ain",
+   "ar": "العين"
+  },
+  "shortName": {
+   "en": "Al Ain",
+   "ar": "العين"
+  },
+  "code": "AIN",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2865.png",
+  "color": "#5B2C86",
+  "venue": {
+   "name": {
+    "en": "Hazza bin Zayed Stadium",
+    "ar": "استاد هزاع بن زايد"
+   },
+   "city": {
+    "en": "Al Ain",
+    "ar": "العين"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2865
+ },
+ {
+  "id": "ae-al-bataeh",
+  "name": {
+   "en": "Al Bataeh",
+   "ar": "البطائح"
+  },
+  "shortName": {
+   "en": "Al Bataeh",
+   "ar": "البطائح"
+  },
+  "code": "BAT",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/9136.png",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 9136
+ },
+ {
+  "id": "ae-al-dhafra",
+  "name": {
+   "en": "Al Dhafra",
+   "ar": "الظفرة"
+  },
+  "shortName": {
+   "en": "Al Dhafra",
+   "ar": "الظفرة"
+  },
+  "code": "DHF",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2873.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Hamdan bin Zayed Stadium",
+    "ar": "استاد حمدان بن زايد"
+   },
+   "city": {
+    "en": "Madinat Zayed",
+    "ar": "مدينة زايد"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2873
+ },
+ {
+  "id": "ae-al-jazira",
+  "name": {
+   "en": "Al Jazira",
+   "ar": "الجزيرة"
+  },
+  "shortName": {
+   "en": "Al Jazira",
+   "ar": "الجزيرة"
+  },
+  "code": "JAZ",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2871.png",
+  "color": "#D92027",
+  "venue": {
+   "name": {
+    "en": "Mohammed bin Zayed Stadium",
+    "ar": "استاد محمد بن زايد"
+   },
+   "city": {
+    "en": "Abu Dhabi",
+    "ar": "أبوظبي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2871
+ },
+ {
+  "id": "ae-al-nasr",
+  "name": {
+   "en": "Al Nasr",
+   "ar": "النصر"
+  },
+  "shortName": {
+   "en": "Al Nasr",
+   "ar": "النصر"
+  },
+  "code": "NAS",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/10155.png",
+  "color": "#0055A4",
+  "venue": {
+   "name": {
+    "en": "Al Maktoum Stadium",
+    "ar": "استاد آل مكتوم"
+   },
+   "city": {
+    "en": "Dubai",
+    "ar": "دبي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 10155
+ },
+ {
+  "id": "ae-al-orooba",
+  "name": {
+   "en": "Al Orooba",
+   "ar": "العروبة"
+  },
+  "shortName": {
+   "en": "Al Orooba",
+   "ar": "العروبة"
+  },
+  "code": "ORO",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/9139.png",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 9139
+ },
+ {
+  "id": "ae-al-wahda",
+  "name": {
+   "en": "Al Wahda",
+   "ar": "الوحدة"
+  },
+  "shortName": {
+   "en": "Al Wahda",
+   "ar": "الوحدة"
+  },
+  "code": "WAH",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2875.png",
+  "color": "#7A1F3D",
+  "venue": {
+   "name": {
+    "en": "Al Nahyan Stadium",
+    "ar": "استاد آل نهيان"
+   },
+   "city": {
+    "en": "Abu Dhabi",
+    "ar": "أبوظبي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2875
+ },
+ {
+  "id": "ae-al-wasl",
+  "name": {
+   "en": "Al Wasl",
+   "ar": "الوصل"
+  },
+  "shortName": {
+   "en": "Al Wasl",
+   "ar": "الوصل"
+  },
+  "code": "WAS",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2872.png",
+  "color": "#FFD200",
+  "venue": {
+   "name": {
+    "en": "Zabeel Stadium",
+    "ar": "استاد زعبيل"
+   },
+   "city": {
+    "en": "Dubai",
+    "ar": "دبي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2872
+ },
+ {
+  "id": "ae-bani-yas",
+  "name": {
+   "en": "Bani Yas",
+   "ar": "بني ياس"
+  },
+  "shortName": {
+   "en": "Bani Yas",
+   "ar": "بني ياس"
+  },
+  "code": "BNY",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2877.png",
+  "color": "#6CACE4",
+  "venue": {
+   "name": {
+    "en": "Bani Yas Stadium",
+    "ar": "استاد بني ياس"
+   },
+   "city": {
+    "en": "Abu Dhabi (Al Shamkha)",
+    "ar": "أبوظبي (الشامخة)"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2877
+ },
+ {
+  "id": "ae-dibba",
+  "name": {
+   "en": "Dibba",
+   "ar": "دبا الفجيرة"
+  },
+  "shortName": {
+   "en": "Dibba",
+   "ar": "دبا الفجيرة"
+  },
+  "code": "DIB",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2867.png",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 2867
+ },
+ {
+  "id": "ae-fujairah",
+  "name": {
+   "en": "Fujairah",
+   "ar": "الفجيرة"
+  },
+  "shortName": {
+   "en": "Fujairah",
+   "ar": "الفجيرة"
+  },
+  "code": "FUJ",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2880.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Fujairah Stadium",
+    "ar": "ملعب الفجيرة"
+   },
+   "city": {
+    "en": "Fujairah",
+    "ar": "الفجيرة"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2880
+ },
+ {
+  "id": "ae-hatta",
+  "name": {
+   "en": "Hatta",
+   "ar": "حتا"
+  },
+  "shortName": {
+   "en": "Hatta",
+   "ar": "حتا"
+  },
+  "code": "HAT",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2869.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Hamdan bin Rashid Al Maktoum Stadium",
+    "ar": "استاد حمدان بن راشد آل مكتوم"
+   },
+   "city": {
+    "en": "Hatta",
+    "ar": "حتا"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2869
+ },
+ {
+  "id": "ae-kalba",
+  "name": {
+   "en": "Kalba",
+   "ar": "كلباء"
+  },
+  "shortName": {
+   "en": "Kalba",
+   "ar": "كلباء"
+  },
+  "code": "KLB",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2876.png",
+  "color": "#FFD100",
+  "venue": {
+   "name": {
+    "en": "Kalba Stadium",
+    "ar": "استاد كلباء"
+   },
+   "city": {
+    "en": "Kalba",
+    "ar": "كلباء"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2876
+ },
+ {
+  "id": "ae-khorfakkan",
+  "name": {
+   "en": "Khorfakkan",
+   "ar": "خورفكان"
+  },
+  "shortName": {
+   "en": "Khorfakkan",
+   "ar": "خورفكان"
+  },
+  "code": "KHF",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/4912.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Saqr bin Mohammed Al Qassimi Stadium",
+    "ar": "استاد صقر بن محمد القاسمي"
+   },
+   "city": {
+    "en": "Khor Fakkan",
+    "ar": "خورفكان"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 4912
+ },
+ {
+  "id": "ae-shabab-al-ahli",
+  "name": {
+   "en": "Shabab Al Ahli",
+   "ar": "شباب الأهلي"
+  },
+  "shortName": {
+   "en": "Shabab Al Ahli",
+   "ar": "شباب الأهلي"
+  },
+  "code": "SAH",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2870.png",
+  "color": "#D71920",
+  "venue": {
+   "name": {
+    "en": "Rashid Stadium",
+    "ar": "استاد راشد"
+   },
+   "city": {
+    "en": "Dubai",
+    "ar": "دبي"
+   }
+  },
+  "aliases": [
+   "Shabab Al Ahli Dubai",
+   "شباب أهلي دبي"
+  ],
+  "apiFootballId": 2870
+ },
+ {
+  "id": "ae-sharjah",
+  "name": {
+   "en": "Sharjah",
+   "ar": "الشارقة"
+  },
+  "shortName": {
+   "en": "Sharjah",
+   "ar": "الشارقة"
+  },
+  "code": "SHJ",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2874.png",
+  "color": "#C8102E",
+  "venue": {
+   "name": {
+    "en": "Sharjah Stadium",
+    "ar": "استاد الشارقة"
+   },
+   "city": {
+    "en": "Sharjah",
+    "ar": "الشارقة"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2874
+ },
+ {
+  "id": "ae-united",
+  "name": {
+   "en": "United",
+   "ar": "يونايتد"
+  },
+  "shortName": {
+   "en": "United",
+   "ar": "يونايتد"
+  },
+  "code": "UTD",
+  "national": false,
+  "country": "ae",
+  "countryName": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "logo": null,
+  "color": "#111111",
+  "venue": {
+   "name": {
+    "en": "Al Maktoum Stadium",
+    "ar": "استاد آل مكتوم"
+   },
+   "city": {
+    "en": "Dubai",
+    "ar": "دبي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "at-lask",
+  "name": {
+   "en": "LASK",
+   "ar": "لاسك"
+  },
+  "shortName": {
+   "en": "LASK",
+   "ar": "لاسك"
+  },
+  "code": "LAS",
+  "national": false,
+  "country": "at",
+  "countryName": {
+   "en": "Austria",
+   "ar": "النمسا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/1026.png",
+  "color": "#000000",
+  "venue": {
+   "name": {
+    "en": "Raiffeisen Arena",
+    "ar": "رايفايزن أرينا"
+   },
+   "city": {
+    "en": "Linz",
+    "ar": "لينتس"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 1026
+ },
+ {
+  "id": "au-adelaide-united",
+  "name": {
+   "en": "Adelaide United",
+   "ar": "أديلايد يونايتد"
+  },
+  "shortName": {
+   "en": "Adelaide",
+   "ar": "أديلايد"
+  },
+  "code": "ADL",
+  "national": false,
+  "country": "au",
+  "countryName": {
+   "en": "Australia",
+   "ar": "أستراليا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/948.png",
+  "color": "#E2231A",
+  "venue": {
+   "name": {
+    "en": "Coopers Stadium",
+    "ar": "ملعب كوبرز"
+   },
+   "city": {
+    "en": "Adelaide",
+    "ar": "أديلايد"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 948
+ },
+ {
+  "id": "au-melbourne-victory",
+  "name": {
+   "en": "Melbourne Victory",
+   "ar": "ملبورن فيكتوري"
+  },
+  "shortName": {
+   "en": "Melbourne V.",
+   "ar": "ملبورن فيكتوري"
+  },
+  "code": "MVC",
+  "national": false,
+  "country": "au",
+  "countryName": {
+   "en": "Australia",
+   "ar": "أستراليا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/944.png",
+  "color": "#00205B",
+  "venue": {
+   "name": {
+    "en": "AAMI Park",
+    "ar": "ملعب AAMI بارك"
+   },
+   "city": {
+    "en": "Melbourne",
+    "ar": "ملبورن"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 944
+ },
+ {
+  "id": "au-newcastle-jets",
+  "name": {
+   "en": "Newcastle Jets",
+   "ar": "نيوكاسل جيتس"
+  },
+  "shortName": {
+   "en": "Newcastle Jets",
+   "ar": "نيوكاسل جيتس"
+  },
+  "code": "NWJ",
+  "national": false,
+  "country": "au",
+  "countryName": {
+   "en": "Australia",
+   "ar": "أستراليا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/946.png",
+  "color": "#FDB913",
+  "venue": {
+   "name": {
+    "en": "Newcastle Stadium",
+    "ar": "ملعب نيوكاسل"
+   },
+   "city": {
+    "en": "Newcastle",
+    "ar": "نيوكاسل"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 946
+ },
+ {
+  "id": "az-qarabag",
+  "name": {
+   "en": "Qarabağ",
+   "ar": "قره باغ"
+  },
+  "shortName": {
+   "en": "Qarabağ",
+   "ar": "قره باغ"
+  },
+  "code": "QAR",
+  "national": false,
+  "country": "az",
+  "countryName": {
+   "en": "Azerbaijan",
+   "ar": "أذربيجان"
+  },
+  "logo": "https://media.api-sports.io/football/teams/556.png",
+  "color": "#111111",
+  "venue": {
+   "name": {
+    "en": "Tofiq Bahramov Stadium",
+    "ar": "ملعب توفيق بهراموف"
+   },
+   "city": {
+    "en": "Baku",
+    "ar": "باكو"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 556
+ },
+ {
+  "id": "az-sabah",
+  "name": {
+   "en": "Sabah",
+   "ar": "صباح"
+  },
+  "shortName": {
+   "en": "Sabah",
+   "ar": "صباح"
+  },
+  "code": "SAB",
+  "national": false,
+  "country": "az",
+  "countryName": {
+   "en": "Azerbaijan",
+   "ar": "أذربيجان"
+  },
+  "logo": "https://media.api-sports.io/football/teams/13976.png",
+  "color": "#000000",
+  "venue": {
+   "name": {
+    "en": "Baku Olympic Stadium",
+    "ar": "ملعب باكو الأولمبي"
+   },
+   "city": {
+    "en": "Baku",
+    "ar": "باكو"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 13976
+ },
+ {
+  "id": "be-club-brugge",
+  "name": {
+   "en": "Club Brugge",
+   "ar": "كلوب بروج"
+  },
+  "shortName": {
+   "en": "Club Brugge",
+   "ar": "كلوب بروج"
+  },
+  "code": "BRU",
+  "national": false,
+  "country": "be",
+  "countryName": {
+   "en": "Belgium",
+   "ar": "بلجيكا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/569.png",
+  "color": "#005DAA",
+  "venue": {
+   "name": {
+    "en": "Jan Breydel Stadium",
+    "ar": "ملعب يان بريدل"
+   },
+   "city": {
+    "en": "Bruges",
+    "ar": "بروج"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 569
+ },
+ {
+  "id": "be-union-saint-gilloise",
+  "name": {
+   "en": "Union Saint-Gilloise",
+   "ar": "يونيون سان جيلواز"
+  },
+  "shortName": {
+   "en": "Union SG",
+   "ar": "سان جيلواز"
+  },
+  "code": "USG",
+  "national": false,
+  "country": "be",
+  "countryName": {
+   "en": "Belgium",
+   "ar": "بلجيكا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/1393.png",
+  "color": "#F9D61A",
+  "venue": {
+   "name": {
+    "en": "Stade Joseph Marien",
+    "ar": "ملعب جوزيف ماريان"
+   },
+   "city": {
+    "en": "Brussels",
+    "ar": "بروكسل"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 1393
+ },
+ {
+  "id": "bh-al-khaldiya",
+  "name": {
+   "en": "Al Khaldiya",
+   "ar": "الخالدية"
+  },
+  "shortName": {
+   "en": "Al Khaldiya",
+   "ar": "الخالدية"
+  },
+  "code": "KHA",
+  "national": false,
+  "country": "bh",
+  "countryName": {
+   "en": "Bahrain",
+   "ar": "البحرين"
+  },
+  "logo": null,
+  "color": "#1E3A5F",
+  "venue": {
+   "name": {
+    "en": "Bahrain National Stadium",
+    "ar": "ستاد البحرين الوطني"
+   },
+   "city": {
+    "en": "Riffa",
+    "ar": "الرفاع"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "bh-al-muharraq",
+  "name": {
+   "en": "Al Muharraq",
+   "ar": "المحرق"
+  },
+  "shortName": {
+   "en": "Al Muharraq",
+   "ar": "المحرق"
+  },
+  "code": "MUH",
+  "national": false,
+  "country": "bh",
+  "countryName": {
+   "en": "Bahrain",
+   "ar": "البحرين"
+  },
+  "logo": null,
+  "color": "#D50032",
+  "venue": {
+   "name": {
+    "en": "Bahrain National Stadium",
+    "ar": "ستاد البحرين الوطني"
+   },
+   "city": {
+    "en": "Riffa",
+    "ar": "الرفاع"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "bh-al-riffa",
+  "name": {
+   "en": "Al Riffa",
+   "ar": "الرفاع"
+  },
+  "shortName": {
+   "en": "Al Riffa",
+   "ar": "الرفاع"
+  },
+  "code": "RIF",
+  "national": false,
+  "country": "bh",
+  "countryName": {
+   "en": "Bahrain",
+   "ar": "البحرين"
+  },
+  "logo": null,
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "cn-beijing-guoan",
+  "name": {
+   "en": "Beijing Guoan",
+   "ar": "بكين غوان"
+  },
+  "shortName": {
+   "en": "Beijing Guoan",
+   "ar": "بكين غوان"
+  },
+  "code": "BJG",
+  "national": false,
+  "country": "cn",
+  "countryName": {
+   "en": "China",
+   "ar": "الصين"
+  },
+  "logo": "https://media.api-sports.io/football/teams/830.png",
+  "color": "#00873E",
+  "venue": {
+   "name": {
+    "en": "Workers' Stadium",
+    "ar": "ملعب العمال"
+   },
+   "city": {
+    "en": "Beijing",
+    "ar": "بكين"
+   }
+  },
+  "aliases": [
+   "Beijing FC (name used by the AFC)",
+   "بكين",
+   "جوان بكين"
+  ],
+  "apiFootballId": 830
+ },
+ {
+  "id": "cn-shanghai-port",
+  "name": {
+   "en": "Shanghai Port",
+   "ar": "شنغهاي بورت"
+  },
+  "shortName": {
+   "en": "Shanghai Port",
+   "ar": "شنغهاي بورت"
+  },
+  "code": "SHP",
+  "national": false,
+  "country": "cn",
+  "countryName": {
+   "en": "China",
+   "ar": "الصين"
+  },
+  "logo": "https://media.api-sports.io/football/teams/836.png",
+  "color": "#D7141A",
+  "venue": {
+   "name": {
+    "en": "Pudong Football Stadium",
+    "ar": "ملعب بودونغ"
+   },
+   "city": {
+    "en": "Shanghai",
+    "ar": "شنغهاي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 836
+ },
+ {
+  "id": "cn-shanghai-shenhua",
+  "name": {
+   "en": "Shanghai Shenhua",
+   "ar": "شنغهاي شينهوا"
+  },
+  "shortName": {
+   "en": "Shanghai Shenhua",
+   "ar": "شنغهاي شينهوا"
+  },
+  "code": "SHS",
+  "national": false,
+  "country": "cn",
+  "countryName": {
+   "en": "China",
+   "ar": "الصين"
+  },
+  "logo": "https://media.api-sports.io/football/teams/833.png",
+  "color": "#0033A0",
+  "venue": {
+   "name": {
+    "en": "Shanghai Stadium",
+    "ar": "ملعب شنغهاي"
+   },
+   "city": {
+    "en": "Shanghai",
+    "ar": "شنغهاي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 833
+ },
+ {
+  "id": "cy-pafos",
+  "name": {
+   "en": "Pafos",
+   "ar": "بافوس"
+  },
+  "shortName": {
+   "en": "Pafos",
+   "ar": "بافوس"
+  },
+  "code": "PAF",
+  "national": false,
+  "country": "cy",
+  "countryName": {
+   "en": "Cyprus",
+   "ar": "قبرص"
+  },
+  "logo": "https://media.api-sports.io/football/teams/3403.png",
+  "color": "#1C3F94",
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 3403
+ },
+ {
+  "id": "cz-slavia-prague",
+  "name": {
+   "en": "Slavia Prague",
+   "ar": "سلافيا براغ"
+  },
+  "shortName": {
+   "en": "Slavia Prague",
+   "ar": "سلافيا براغ"
+  },
+  "code": "SLA",
+  "national": false,
+  "country": "cz",
+  "countryName": {
+   "en": "Czechia",
+   "ar": "التشيك"
+  },
+  "logo": "https://media.api-sports.io/football/teams/560.png",
+  "color": "#E30613",
+  "venue": {
+   "name": {
+    "en": "Fortuna Arena",
+    "ar": "فورتونا أرينا"
+   },
+   "city": {
+    "en": "Prague",
+    "ar": "براغ"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 560
+ },
+ {
+  "id": "de-bayer-leverkusen",
+  "name": {
+   "en": "Bayer Leverkusen",
+   "ar": "باير ليفركوزن"
+  },
+  "shortName": {
+   "en": "Leverkusen",
+   "ar": "ليفركوزن"
+  },
+  "code": "B04",
+  "national": false,
+  "country": "de",
+  "countryName": {
+   "en": "Germany",
+   "ar": "ألمانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/168.png",
+  "color": "#E32221",
+  "venue": {
+   "name": {
+    "en": "BayArena",
+    "ar": "باي أرينا"
+   },
+   "city": {
+    "en": "Leverkusen",
+    "ar": "ليفركوزن"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 168
+ },
+ {
+  "id": "de-bayern-munich",
+  "name": {
+   "en": "Bayern Munich",
+   "ar": "بايرن ميونخ"
+  },
+  "shortName": {
+   "en": "Bayern",
+   "ar": "بايرن"
+  },
+  "code": "FCB",
+  "national": false,
+  "country": "de",
+  "countryName": {
+   "en": "Germany",
+   "ar": "ألمانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/157.png",
+  "color": "#DC052D",
+  "venue": {
+   "name": {
+    "en": "Allianz Arena",
+    "ar": "أليانز أرينا"
+   },
+   "city": {
+    "en": "Munich",
+    "ar": "ميونخ"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 157
+ },
+ {
+  "id": "de-borussia-dortmund",
+  "name": {
+   "en": "Borussia Dortmund",
+   "ar": "بوروسيا دورتموند"
+  },
+  "shortName": {
+   "en": "Dortmund",
+   "ar": "دورتموند"
+  },
+  "code": "BVB",
+  "national": false,
+  "country": "de",
+  "countryName": {
+   "en": "Germany",
+   "ar": "ألمانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/165.png",
+  "color": "#FDE100",
+  "venue": {
+   "name": {
+    "en": "Signal Iduna Park",
+    "ar": "سيغنال إيدونا بارك"
+   },
+   "city": {
+    "en": "Dortmund",
+    "ar": "دورتموند"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 165
+ },
+ {
+  "id": "de-eintracht-frankfurt",
+  "name": {
+   "en": "Eintracht Frankfurt",
+   "ar": "آينتراخت فرانكفورت"
+  },
+  "shortName": {
+   "en": "Frankfurt",
+   "ar": "فرانكفورت"
+  },
+  "code": "SGE",
+  "national": false,
+  "country": "de",
+  "countryName": {
+   "en": "Germany",
+   "ar": "ألمانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/169.png",
+  "color": "#E1000F",
+  "venue": {
+   "name": {
+    "en": "Deutsche Bank Park",
+    "ar": "دويتشه بنك بارك"
+   },
+   "city": {
+    "en": "Frankfurt",
+    "ar": "فرانكفورت"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 169
+ },
+ {
+  "id": "de-rb-leipzig",
+  "name": {
+   "en": "RB Leipzig",
+   "ar": "لايبزيغ"
+  },
+  "shortName": {
+   "en": "Leipzig",
+   "ar": "لايبزيغ"
+  },
+  "code": "RBL",
+  "national": false,
+  "country": "de",
+  "countryName": {
+   "en": "Germany",
+   "ar": "ألمانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/173.png",
+  "color": "#DD0741",
+  "venue": {
+   "name": {
+    "en": "Red Bull Arena",
+    "ar": "ريد بول أرينا"
+   },
+   "city": {
+    "en": "Leipzig",
+    "ar": "لايبزيغ"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 173
+ },
+ {
+  "id": "de-vfb-stuttgart",
+  "name": {
+   "en": "VfB Stuttgart",
+   "ar": "شتوتغارت"
+  },
+  "shortName": {
+   "en": "VfB Stuttgart",
+   "ar": "شتوتغارت"
+  },
+  "code": "VFB",
+  "national": false,
+  "country": "de",
+  "countryName": {
+   "en": "Germany",
+   "ar": "ألمانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/172.png",
+  "color": "#E32219",
+  "venue": {
+   "name": {
+    "en": "MHPArena",
+    "ar": "إم إتش بي أرينا"
+   },
+   "city": {
+    "en": "Stuttgart",
+    "ar": "شتوتغارت"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 172
+ },
+ {
+  "id": "dk-copenhagen",
+  "name": {
+   "en": "Copenhagen",
+   "ar": "كوبنهاغن"
+  },
+  "shortName": {
+   "en": "Copenhagen",
+   "ar": "كوبنهاغن"
+  },
+  "code": "FCK",
+  "national": false,
+  "country": "dk",
+  "countryName": {
+   "en": "Denmark",
+   "ar": "الدنمارك"
+  },
+  "logo": "https://media.api-sports.io/football/teams/400.png",
+  "color": "#0A2C6E",
+  "venue": {
+   "name": {
+    "en": "Parken",
+    "ar": "ملعب باركن"
+   },
+   "city": {
+    "en": "Copenhagen",
+    "ar": "كوبنهاغن"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 400
+ },
+ {
+  "id": "es-alaves",
+  "name": {
+   "en": "Alavés",
+   "ar": "ألافيس"
+  },
+  "shortName": {
+   "en": "Alavés",
+   "ar": "ألافيس"
+  },
+  "code": "ALA",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/542.png",
+  "color": "#0761AF",
+  "venue": {
+   "name": {
+    "en": "Mendizorroza",
+    "ar": "ملعب مينديزوروزا"
+   },
+   "city": {
+    "en": "Vitoria-Gasteiz",
+    "ar": "فيتوريا غاستيز"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 542
+ },
+ {
+  "id": "es-athletic-club",
+  "name": {
+   "en": "Athletic Club",
+   "ar": "أتلتيك بلباو"
+  },
+  "shortName": {
+   "en": "Athletic Club",
+   "ar": "أتلتيك بلباو"
+  },
+  "code": "ATH",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/531.png",
+  "color": "#EE2523",
+  "venue": {
+   "name": {
+    "en": "San Mamés",
+    "ar": "ملعب سان ماميس"
+   },
+   "city": {
+    "en": "Bilbao",
+    "ar": "بلباو"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 531
+ },
+ {
+  "id": "es-atletico-madrid",
+  "name": {
+   "en": "Atlético Madrid",
+   "ar": "أتلتيكو مدريد"
+  },
+  "shortName": {
+   "en": "Atlético",
+   "ar": "أتلتيكو"
+  },
+  "code": "ATM",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/530.png",
+  "color": "#CB3524",
+  "venue": {
+   "name": {
+    "en": "Riyadh Air Metropolitano",
+    "ar": "ملعب رياض إير ميتروبوليتانو"
+   },
+   "city": {
+    "en": "Madrid",
+    "ar": "مدريد"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 530
+ },
+ {
+  "id": "es-barcelona",
+  "name": {
+   "en": "Barcelona",
+   "ar": "برشلونة"
+  },
+  "shortName": {
+   "en": "Barcelona",
+   "ar": "برشلونة"
+  },
+  "code": "BAR",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/529.png",
+  "color": "#A50044",
+  "venue": {
+   "name": {
+    "en": "Spotify Camp Nou",
+    "ar": "ملعب سبوتيفاي كامب نو"
+   },
+   "city": {
+    "en": "Barcelona",
+    "ar": "برشلونة"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 529
+ },
+ {
+  "id": "es-celta-vigo",
+  "name": {
+   "en": "Celta Vigo",
+   "ar": "سيلتا فيغو"
+  },
+  "shortName": {
+   "en": "Celta Vigo",
+   "ar": "سيلتا فيغو"
+  },
+  "code": "CEL",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/538.png",
+  "color": "#8AC3EE",
+  "venue": {
+   "name": {
+    "en": "Abanca-Balaídos",
+    "ar": "ملعب أبانكا بالايدوس"
+   },
+   "city": {
+    "en": "Vigo",
+    "ar": "فيغو"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 538
+ },
+ {
+  "id": "es-deportivo-la-coruna",
+  "name": {
+   "en": "Deportivo La Coruña",
+   "ar": "ديبورتيفو لاكورونيا"
+  },
+  "shortName": {
+   "en": "Deportivo",
+   "ar": "ديبورتيفو"
+  },
+  "code": "DEP",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/544.png",
+  "color": "#005BAC",
+  "venue": {
+   "name": {
+    "en": "Abanca-Riazor",
+    "ar": "ملعب أبانكا ريازور"
+   },
+   "city": {
+    "en": "A Coruña",
+    "ar": "لاكورونيا"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 544
+ },
+ {
+  "id": "es-elche",
+  "name": {
+   "en": "Elche",
+   "ar": "إلتشي"
+  },
+  "shortName": {
+   "en": "Elche",
+   "ar": "إلتشي"
+  },
+  "code": "ELC",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/797.png",
+  "color": "#05642C",
+  "venue": {
+   "name": {
+    "en": "Martínez Valero",
+    "ar": "ملعب مارتينيز فاليرو"
+   },
+   "city": {
+    "en": "Elche",
+    "ar": "إلتشي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 797
+ },
+ {
+  "id": "es-espanyol",
+  "name": {
+   "en": "Espanyol",
+   "ar": "إسبانيول"
+  },
+  "shortName": {
+   "en": "Espanyol",
+   "ar": "إسبانيول"
+  },
+  "code": "ESP",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/540.png",
+  "color": "#007FC8",
+  "venue": {
+   "name": {
+    "en": "RCDE Stadium",
+    "ar": "ملعب آر سي دي إي"
+   },
+   "city": {
+    "en": "Cornellà de Llobregat",
+    "ar": "كورنيا دي يوبريغات"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 540
+ },
+ {
+  "id": "es-getafe",
+  "name": {
+   "en": "Getafe",
+   "ar": "خيتافي"
+  },
+  "shortName": {
+   "en": "Getafe",
+   "ar": "خيتافي"
+  },
+  "code": "GET",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/546.png",
+  "color": "#005999",
+  "venue": {
+   "name": {
+    "en": "Coliseum",
+    "ar": "ملعب كوليسيوم"
+   },
+   "city": {
+    "en": "Getafe",
+    "ar": "خيتافي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 546
+ },
+ {
+  "id": "es-girona",
+  "name": {
+   "en": "Girona",
+   "ar": "جيرونا"
+  },
+  "shortName": {
+   "en": "Girona",
+   "ar": "جيرونا"
+  },
+  "code": "GIR",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/547.png",
+  "color": "#CD2534",
+  "venue": {
+   "name": {
+    "en": "Estadi Montilivi",
+    "ar": "ملعب مونتيليفي"
+   },
+   "city": {
+    "en": "Girona",
+    "ar": "جيرونا"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 547
+ },
+ {
+  "id": "es-levante",
+  "name": {
+   "en": "Levante",
+   "ar": "ليفانتي"
+  },
+  "shortName": {
+   "en": "Levante",
+   "ar": "ليفانتي"
+  },
+  "code": "LEV",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/539.png",
+  "color": "#004E9E",
+  "venue": {
+   "name": {
+    "en": "Ciutat de València",
+    "ar": "ملعب سيوتات دي فالنسيا"
+   },
+   "city": {
+    "en": "Valencia",
+    "ar": "فالنسيا"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 539
+ },
+ {
+  "id": "es-malaga",
+  "name": {
+   "en": "Málaga",
+   "ar": "ملقة"
+  },
+  "shortName": {
+   "en": "Málaga",
+   "ar": "ملقة"
+  },
+  "code": "MAL",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/535.png",
+  "color": "#0091D7",
+  "venue": {
+   "name": {
+    "en": "La Rosaleda",
+    "ar": "ملعب لا روساليدا"
+   },
+   "city": {
+    "en": "Málaga",
+    "ar": "ملقة"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 535
+ },
+ {
+  "id": "es-mallorca",
+  "name": {
+   "en": "Mallorca",
+   "ar": "مايوركا"
+  },
+  "shortName": {
+   "en": "Mallorca",
+   "ar": "مايوركا"
+  },
+  "code": "MLL",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/798.png",
+  "color": "#E20613",
+  "venue": {
+   "name": {
+    "en": "Estadi Mallorca Son Moix",
+    "ar": "ملعب سون مويش"
+   },
+   "city": {
+    "en": "Palma",
+    "ar": "بالما"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 798
+ },
+ {
+  "id": "es-osasuna",
+  "name": {
+   "en": "Osasuna",
+   "ar": "أوساسونا"
+  },
+  "shortName": {
+   "en": "Osasuna",
+   "ar": "أوساسونا"
+  },
+  "code": "OSA",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/727.png",
+  "color": "#D91A21",
+  "venue": {
+   "name": {
+    "en": "El Sadar",
+    "ar": "ملعب إل سادار"
+   },
+   "city": {
+    "en": "Pamplona",
+    "ar": "بامبلونا"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 727
+ },
+ {
+  "id": "es-racing-santander",
+  "name": {
+   "en": "Racing Santander",
+   "ar": "راسينغ سانتاندير"
+  },
+  "shortName": {
+   "en": "Racing",
+   "ar": "راسينغ"
+  },
+  "code": "RAC",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/4665.png",
+  "color": "#00843D",
+  "venue": {
+   "name": {
+    "en": "El Sardinero",
+    "ar": "ملعب إل ساردينيرو"
+   },
+   "city": {
+    "en": "Santander",
+    "ar": "سانتاندير"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 4665
+ },
+ {
+  "id": "es-rayo-vallecano",
+  "name": {
+   "en": "Rayo Vallecano",
+   "ar": "رايو فاليكانو"
+  },
+  "shortName": {
+   "en": "Rayo",
+   "ar": "رايو"
+  },
+  "code": "RAY",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/728.png",
+  "color": "#E53027",
+  "venue": {
+   "name": {
+    "en": "Estadio de Vallecas",
+    "ar": "ملعب فاليكاس"
+   },
+   "city": {
+    "en": "Madrid",
+    "ar": "مدريد"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 728
+ },
+ {
+  "id": "es-real-betis",
+  "name": {
+   "en": "Real Betis",
+   "ar": "ريال بيتيس"
+  },
+  "shortName": {
+   "en": "Real Betis",
+   "ar": "ريال بيتيس"
+  },
+  "code": "BET",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/543.png",
+  "color": "#00954C",
+  "venue": {
+   "name": {
+    "en": "Estadio La Cartuja",
+    "ar": "ملعب لا كارتوخا"
+   },
+   "city": {
+    "en": "Seville",
+    "ar": "إشبيلية"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 543
+ },
+ {
+  "id": "es-real-madrid",
+  "name": {
+   "en": "Real Madrid",
+   "ar": "ريال مدريد"
+  },
+  "shortName": {
+   "en": "Real Madrid",
+   "ar": "ريال مدريد"
+  },
+  "code": "RMA",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/541.png",
+  "color": "#00529F",
+  "venue": {
+   "name": {
+    "en": "Santiago Bernabéu",
+    "ar": "ملعب سانتياغو برنابيو"
+   },
+   "city": {
+    "en": "Madrid",
+    "ar": "مدريد"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 541
+ },
+ {
+  "id": "es-real-oviedo",
+  "name": {
+   "en": "Real Oviedo",
+   "ar": "ريال أوفييدو"
+  },
+  "shortName": {
+   "en": "Real Oviedo",
+   "ar": "ريال أوفييدو"
+  },
+  "code": "OVI",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/718.png",
+  "color": "#0D3B8C",
+  "venue": {
+   "name": {
+    "en": "Estadio Carlos Tartiere",
+    "ar": "ملعب كارلوس تارتيري"
+   },
+   "city": {
+    "en": "Oviedo",
+    "ar": "أوفييدو"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 718
+ },
+ {
+  "id": "es-real-sociedad",
+  "name": {
+   "en": "Real Sociedad",
+   "ar": "ريال سوسيداد"
+  },
+  "shortName": {
+   "en": "Real Sociedad",
+   "ar": "ريال سوسيداد"
+  },
+  "code": "RSO",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/548.png",
+  "color": "#0067B1",
+  "venue": {
+   "name": {
+    "en": "Reale Arena",
+    "ar": "ملعب ريالي أرينا"
+   },
+   "city": {
+    "en": "San Sebastián",
+    "ar": "سان سيباستيان"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 548
+ },
+ {
+  "id": "es-sevilla",
+  "name": {
+   "en": "Sevilla",
+   "ar": "إشبيلية"
+  },
+  "shortName": {
+   "en": "Sevilla",
+   "ar": "إشبيلية"
+  },
+  "code": "SEV",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/536.png",
+  "color": "#D71A28",
+  "venue": {
+   "name": {
+    "en": "Ramón Sánchez-Pizjuán",
+    "ar": "ملعب رامون سانشيز بيزخوان"
+   },
+   "city": {
+    "en": "Seville",
+    "ar": "إشبيلية"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 536
+ },
+ {
+  "id": "es-valencia",
+  "name": {
+   "en": "Valencia",
+   "ar": "فالنسيا"
+  },
+  "shortName": {
+   "en": "Valencia",
+   "ar": "فالنسيا"
+  },
+  "code": "VAL",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/532.png",
+  "color": "#000000",
+  "venue": {
+   "name": {
+    "en": "Mestalla",
+    "ar": "ملعب ميستايا"
+   },
+   "city": {
+    "en": "Valencia",
+    "ar": "فالنسيا"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 532
+ },
+ {
+  "id": "es-villarreal",
+  "name": {
+   "en": "Villarreal",
+   "ar": "فياريال"
+  },
+  "shortName": {
+   "en": "Villarreal",
+   "ar": "فياريال"
+  },
+  "code": "VIL",
+  "national": false,
+  "country": "es",
+  "countryName": {
+   "en": "Spain",
+   "ar": "إسبانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/533.png",
+  "color": "#FFE114",
+  "venue": {
+   "name": {
+    "en": "Estadio de la Cerámica",
+    "ar": "ملعب لا سيراميكا"
+   },
+   "city": {
+    "en": "Villarreal",
+    "ar": "فياريال"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 533
+ },
+ {
+  "id": "fr-lens",
+  "name": {
+   "en": "Lens",
+   "ar": "لانس"
+  },
+  "shortName": {
+   "en": "Lens",
+   "ar": "لانس"
+  },
+  "code": "LEN",
+  "national": false,
+  "country": "fr",
+  "countryName": {
+   "en": "France",
+   "ar": "فرنسا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/116.png",
+  "color": "#FFD700",
+  "venue": {
+   "name": {
+    "en": "Stade Bollaert-Delelis",
+    "ar": "ملعب بولارت ديليليس"
+   },
+   "city": {
+    "en": "Lens",
+    "ar": "لانس"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 116
+ },
+ {
+  "id": "fr-lille",
+  "name": {
+   "en": "Lille",
+   "ar": "ليل"
+  },
+  "shortName": {
+   "en": "Lille",
+   "ar": "ليل"
+  },
+  "code": "LIL",
+  "national": false,
+  "country": "fr",
+  "countryName": {
+   "en": "France",
+   "ar": "فرنسا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/79.png",
+  "color": "#E01E13",
+  "venue": {
+   "name": {
+    "en": "Stade Pierre-Mauroy",
+    "ar": "ملعب بيير موروا"
+   },
+   "city": {
+    "en": "Lille",
+    "ar": "ليل"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 79
+ },
+ {
+  "id": "fr-marseille",
+  "name": {
+   "en": "Marseille",
+   "ar": "مرسيليا"
+  },
+  "shortName": {
+   "en": "Marseille",
+   "ar": "مرسيليا"
+  },
+  "code": "OM",
+  "national": false,
+  "country": "fr",
+  "countryName": {
+   "en": "France",
+   "ar": "فرنسا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/81.png",
+  "color": "#2FAEE0",
+  "venue": {
+   "name": {
+    "en": "Orange Vélodrome",
+    "ar": "ملعب فيلودروم"
+   },
+   "city": {
+    "en": "Marseille",
+    "ar": "مرسيليا"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 81
+ },
+ {
+  "id": "fr-paris-saint-germain",
+  "name": {
+   "en": "Paris Saint-Germain",
+   "ar": "باريس سان جيرمان"
+  },
+  "shortName": {
+   "en": "PSG",
+   "ar": "سان جيرمان"
+  },
+  "code": "PSG",
+  "national": false,
+  "country": "fr",
+  "countryName": {
+   "en": "France",
+   "ar": "فرنسا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/85.png",
+  "color": "#004170",
+  "venue": {
+   "name": {
+    "en": "Parc des Princes",
+    "ar": "ملعب حديقة الأمراء"
+   },
+   "city": {
+    "en": "Paris",
+    "ar": "باريس"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 85
+ },
+ {
   "id": "gb-eng-arsenal",
   "name": {
    "en": "Arsenal",
@@ -158,6 +2296,38 @@
   },
   "aliases": [],
   "apiFootballId": 51
+ },
+ {
+  "id": "gb-eng-burnley",
+  "name": {
+   "en": "Burnley",
+   "ar": "بيرنلي"
+  },
+  "shortName": {
+   "en": "Burnley",
+   "ar": "بيرنلي"
+  },
+  "code": "BUR",
+  "national": false,
+  "country": "gb-eng",
+  "countryName": {
+   "en": "England",
+   "ar": "إنجلترا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/44.png",
+  "color": "#6C1D45",
+  "venue": {
+   "name": {
+    "en": "Turf Moor",
+    "ar": "تيرف مور"
+   },
+   "city": {
+    "en": "Burnley",
+    "ar": "بيرنلي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 44
  },
  {
   "id": "gb-eng-chelsea",
@@ -640,1920 +2810,6 @@
   "apiFootballId": 47
  },
  {
-  "id": "es-alaves",
-  "name": {
-   "en": "Alavés",
-   "ar": "ألافيس"
-  },
-  "shortName": {
-   "en": "Alavés",
-   "ar": "ألافيس"
-  },
-  "code": "ALA",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/542.png",
-  "color": "#0761AF",
-  "venue": {
-   "name": {
-    "en": "Mendizorroza",
-    "ar": "ملعب مينديزوروزا"
-   },
-   "city": {
-    "en": "Vitoria-Gasteiz",
-    "ar": "فيتوريا غاستيز"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 542
- },
- {
-  "id": "es-athletic-club",
-  "name": {
-   "en": "Athletic Club",
-   "ar": "أتلتيك بلباو"
-  },
-  "shortName": {
-   "en": "Athletic Club",
-   "ar": "أتلتيك بلباو"
-  },
-  "code": "ATH",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/531.png",
-  "color": "#EE2523",
-  "venue": {
-   "name": {
-    "en": "San Mamés",
-    "ar": "ملعب سان ماميس"
-   },
-   "city": {
-    "en": "Bilbao",
-    "ar": "بلباو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 531
- },
- {
-  "id": "es-atletico-madrid",
-  "name": {
-   "en": "Atlético Madrid",
-   "ar": "أتلتيكو مدريد"
-  },
-  "shortName": {
-   "en": "Atlético",
-   "ar": "أتلتيكو"
-  },
-  "code": "ATM",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/530.png",
-  "color": "#CB3524",
-  "venue": {
-   "name": {
-    "en": "Riyadh Air Metropolitano",
-    "ar": "ملعب رياض إير ميتروبوليتانو"
-   },
-   "city": {
-    "en": "Madrid",
-    "ar": "مدريد"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 530
- },
- {
-  "id": "es-barcelona",
-  "name": {
-   "en": "Barcelona",
-   "ar": "برشلونة"
-  },
-  "shortName": {
-   "en": "Barcelona",
-   "ar": "برشلونة"
-  },
-  "code": "BAR",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/529.png",
-  "color": "#A50044",
-  "venue": {
-   "name": {
-    "en": "Spotify Camp Nou",
-    "ar": "ملعب سبوتيفاي كامب نو"
-   },
-   "city": {
-    "en": "Barcelona",
-    "ar": "برشلونة"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 529
- },
- {
-  "id": "es-celta-vigo",
-  "name": {
-   "en": "Celta Vigo",
-   "ar": "سيلتا فيغو"
-  },
-  "shortName": {
-   "en": "Celta Vigo",
-   "ar": "سيلتا فيغو"
-  },
-  "code": "CEL",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/538.png",
-  "color": "#8AC3EE",
-  "venue": {
-   "name": {
-    "en": "Abanca-Balaídos",
-    "ar": "ملعب أبانكا بالايدوس"
-   },
-   "city": {
-    "en": "Vigo",
-    "ar": "فيغو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 538
- },
- {
-  "id": "es-deportivo-la-coruna",
-  "name": {
-   "en": "Deportivo La Coruña",
-   "ar": "ديبورتيفو لاكورونيا"
-  },
-  "shortName": {
-   "en": "Deportivo",
-   "ar": "ديبورتيفو"
-  },
-  "code": "DEP",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/544.png",
-  "color": "#005BAC",
-  "venue": {
-   "name": {
-    "en": "Abanca-Riazor",
-    "ar": "ملعب أبانكا ريازور"
-   },
-   "city": {
-    "en": "A Coruña",
-    "ar": "لاكورونيا"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 544
- },
- {
-  "id": "es-elche",
-  "name": {
-   "en": "Elche",
-   "ar": "إلتشي"
-  },
-  "shortName": {
-   "en": "Elche",
-   "ar": "إلتشي"
-  },
-  "code": "ELC",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/797.png",
-  "color": "#05642C",
-  "venue": {
-   "name": {
-    "en": "Martínez Valero",
-    "ar": "ملعب مارتينيز فاليرو"
-   },
-   "city": {
-    "en": "Elche",
-    "ar": "إلتشي"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 797
- },
- {
-  "id": "es-espanyol",
-  "name": {
-   "en": "Espanyol",
-   "ar": "إسبانيول"
-  },
-  "shortName": {
-   "en": "Espanyol",
-   "ar": "إسبانيول"
-  },
-  "code": "ESP",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/540.png",
-  "color": "#007FC8",
-  "venue": {
-   "name": {
-    "en": "RCDE Stadium",
-    "ar": "ملعب آر سي دي إي"
-   },
-   "city": {
-    "en": "Cornellà de Llobregat",
-    "ar": "كورنيا دي يوبريغات"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 540
- },
- {
-  "id": "es-getafe",
-  "name": {
-   "en": "Getafe",
-   "ar": "خيتافي"
-  },
-  "shortName": {
-   "en": "Getafe",
-   "ar": "خيتافي"
-  },
-  "code": "GET",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/546.png",
-  "color": "#005999",
-  "venue": {
-   "name": {
-    "en": "Coliseum",
-    "ar": "ملعب كوليسيوم"
-   },
-   "city": {
-    "en": "Getafe",
-    "ar": "خيتافي"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 546
- },
- {
-  "id": "es-levante",
-  "name": {
-   "en": "Levante",
-   "ar": "ليفانتي"
-  },
-  "shortName": {
-   "en": "Levante",
-   "ar": "ليفانتي"
-  },
-  "code": "LEV",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/539.png",
-  "color": "#004E9E",
-  "venue": {
-   "name": {
-    "en": "Ciutat de València",
-    "ar": "ملعب سيوتات دي فالنسيا"
-   },
-   "city": {
-    "en": "Valencia",
-    "ar": "فالنسيا"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 539
- },
- {
-  "id": "es-malaga",
-  "name": {
-   "en": "Málaga",
-   "ar": "ملقة"
-  },
-  "shortName": {
-   "en": "Málaga",
-   "ar": "ملقة"
-  },
-  "code": "MAL",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/535.png",
-  "color": "#0091D7",
-  "venue": {
-   "name": {
-    "en": "La Rosaleda",
-    "ar": "ملعب لا روساليدا"
-   },
-   "city": {
-    "en": "Málaga",
-    "ar": "ملقة"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 535
- },
- {
-  "id": "es-osasuna",
-  "name": {
-   "en": "Osasuna",
-   "ar": "أوساسونا"
-  },
-  "shortName": {
-   "en": "Osasuna",
-   "ar": "أوساسونا"
-  },
-  "code": "OSA",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/727.png",
-  "color": "#D91A21",
-  "venue": {
-   "name": {
-    "en": "El Sadar",
-    "ar": "ملعب إل سادار"
-   },
-   "city": {
-    "en": "Pamplona",
-    "ar": "بامبلونا"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 727
- },
- {
-  "id": "es-racing-santander",
-  "name": {
-   "en": "Racing Santander",
-   "ar": "راسينغ سانتاندير"
-  },
-  "shortName": {
-   "en": "Racing",
-   "ar": "راسينغ"
-  },
-  "code": "RAC",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/4665.png",
-  "color": "#00843D",
-  "venue": {
-   "name": {
-    "en": "El Sardinero",
-    "ar": "ملعب إل ساردينيرو"
-   },
-   "city": {
-    "en": "Santander",
-    "ar": "سانتاندير"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 4665
- },
- {
-  "id": "es-rayo-vallecano",
-  "name": {
-   "en": "Rayo Vallecano",
-   "ar": "رايو فاليكانو"
-  },
-  "shortName": {
-   "en": "Rayo",
-   "ar": "رايو"
-  },
-  "code": "RAY",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/728.png",
-  "color": "#E53027",
-  "venue": {
-   "name": {
-    "en": "Estadio de Vallecas",
-    "ar": "ملعب فاليكاس"
-   },
-   "city": {
-    "en": "Madrid",
-    "ar": "مدريد"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 728
- },
- {
-  "id": "es-real-betis",
-  "name": {
-   "en": "Real Betis",
-   "ar": "ريال بيتيس"
-  },
-  "shortName": {
-   "en": "Real Betis",
-   "ar": "ريال بيتيس"
-  },
-  "code": "BET",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/543.png",
-  "color": "#00954C",
-  "venue": {
-   "name": {
-    "en": "Estadio La Cartuja",
-    "ar": "ملعب لا كارتوخا"
-   },
-   "city": {
-    "en": "Seville",
-    "ar": "إشبيلية"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 543
- },
- {
-  "id": "es-real-madrid",
-  "name": {
-   "en": "Real Madrid",
-   "ar": "ريال مدريد"
-  },
-  "shortName": {
-   "en": "Real Madrid",
-   "ar": "ريال مدريد"
-  },
-  "code": "RMA",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/541.png",
-  "color": "#00529F",
-  "venue": {
-   "name": {
-    "en": "Santiago Bernabéu",
-    "ar": "ملعب سانتياغو برنابيو"
-   },
-   "city": {
-    "en": "Madrid",
-    "ar": "مدريد"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 541
- },
- {
-  "id": "es-real-sociedad",
-  "name": {
-   "en": "Real Sociedad",
-   "ar": "ريال سوسيداد"
-  },
-  "shortName": {
-   "en": "Real Sociedad",
-   "ar": "ريال سوسيداد"
-  },
-  "code": "RSO",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/548.png",
-  "color": "#0067B1",
-  "venue": {
-   "name": {
-    "en": "Reale Arena",
-    "ar": "ملعب ريالي أرينا"
-   },
-   "city": {
-    "en": "San Sebastián",
-    "ar": "سان سيباستيان"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 548
- },
- {
-  "id": "es-sevilla",
-  "name": {
-   "en": "Sevilla",
-   "ar": "إشبيلية"
-  },
-  "shortName": {
-   "en": "Sevilla",
-   "ar": "إشبيلية"
-  },
-  "code": "SEV",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/536.png",
-  "color": "#D71A28",
-  "venue": {
-   "name": {
-    "en": "Ramón Sánchez-Pizjuán",
-    "ar": "ملعب رامون سانشيز بيزخوان"
-   },
-   "city": {
-    "en": "Seville",
-    "ar": "إشبيلية"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 536
- },
- {
-  "id": "es-valencia",
-  "name": {
-   "en": "Valencia",
-   "ar": "فالنسيا"
-  },
-  "shortName": {
-   "en": "Valencia",
-   "ar": "فالنسيا"
-  },
-  "code": "VAL",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/532.png",
-  "color": "#000000",
-  "venue": {
-   "name": {
-    "en": "Mestalla",
-    "ar": "ملعب ميستايا"
-   },
-   "city": {
-    "en": "Valencia",
-    "ar": "فالنسيا"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 532
- },
- {
-  "id": "es-villarreal",
-  "name": {
-   "en": "Villarreal",
-   "ar": "فياريال"
-  },
-  "shortName": {
-   "en": "Villarreal",
-   "ar": "فياريال"
-  },
-  "code": "VIL",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/533.png",
-  "color": "#FFE114",
-  "venue": {
-   "name": {
-    "en": "Estadio de la Cerámica",
-    "ar": "ملعب لا سيراميكا"
-   },
-   "city": {
-    "en": "Villarreal",
-    "ar": "فياريال"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 533
- },
- {
-  "id": "fr-paris-saint-germain",
-  "name": {
-   "en": "Paris Saint-Germain",
-   "ar": "باريس سان جيرمان"
-  },
-  "shortName": {
-   "en": "PSG",
-   "ar": "سان جيرمان"
-  },
-  "code": "PSG",
-  "national": false,
-  "country": "fr",
-  "countryName": {
-   "en": "France",
-   "ar": "فرنسا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/85.png",
-  "color": "#004170",
-  "venue": {
-   "name": {
-    "en": "Parc des Princes",
-    "ar": "ملعب حديقة الأمراء"
-   },
-   "city": {
-    "en": "Paris",
-    "ar": "باريس"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 85
- },
- {
-  "id": "de-bayern-munich",
-  "name": {
-   "en": "Bayern Munich",
-   "ar": "بايرن ميونخ"
-  },
-  "shortName": {
-   "en": "Bayern",
-   "ar": "بايرن"
-  },
-  "code": "FCB",
-  "national": false,
-  "country": "de",
-  "countryName": {
-   "en": "Germany",
-   "ar": "ألمانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/157.png",
-  "color": "#DC052D",
-  "venue": {
-   "name": {
-    "en": "Allianz Arena",
-    "ar": "أليانز أرينا"
-   },
-   "city": {
-    "en": "Munich",
-    "ar": "ميونخ"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 157
- },
- {
-  "id": "it-inter-milan",
-  "name": {
-   "en": "Inter Milan",
-   "ar": "إنتر ميلان"
-  },
-  "shortName": {
-   "en": "Inter",
-   "ar": "إنتر"
-  },
-  "code": "INT",
-  "national": false,
-  "country": "it",
-  "countryName": {
-   "en": "Italy",
-   "ar": "إيطاليا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/505.png",
-  "color": "#0068A8",
-  "venue": {
-   "name": {
-    "en": "San Siro",
-    "ar": "سان سيرو"
-   },
-   "city": {
-    "en": "Milan",
-    "ar": "ميلانو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 505
- },
- {
-  "id": "de-borussia-dortmund",
-  "name": {
-   "en": "Borussia Dortmund",
-   "ar": "بوروسيا دورتموند"
-  },
-  "shortName": {
-   "en": "Dortmund",
-   "ar": "دورتموند"
-  },
-  "code": "BVB",
-  "national": false,
-  "country": "de",
-  "countryName": {
-   "en": "Germany",
-   "ar": "ألمانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/165.png",
-  "color": "#FDE100",
-  "venue": {
-   "name": {
-    "en": "Signal Iduna Park",
-    "ar": "سيغنال إيدونا بارك"
-   },
-   "city": {
-    "en": "Dortmund",
-    "ar": "دورتموند"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 165
- },
- {
-  "id": "it-roma",
-  "name": {
-   "en": "Roma",
-   "ar": "روما"
-  },
-  "shortName": {
-   "en": "Roma",
-   "ar": "روما"
-  },
-  "code": "ROM",
-  "national": false,
-  "country": "it",
-  "countryName": {
-   "en": "Italy",
-   "ar": "إيطاليا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/497.png",
-  "color": "#8E1F2F",
-  "venue": {
-   "name": {
-    "en": "Stadio Olimpico",
-    "ar": "الملعب الأولمبي"
-   },
-   "city": {
-    "en": "Rome",
-    "ar": "روما"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 497
- },
- {
-  "id": "pt-sporting-cp",
-  "name": {
-   "en": "Sporting CP",
-   "ar": "سبورتينغ لشبونة"
-  },
-  "shortName": {
-   "en": "Sporting CP",
-   "ar": "سبورتينغ لشبونة"
-  },
-  "code": "SCP",
-  "national": false,
-  "country": "pt",
-  "countryName": {
-   "en": "Portugal",
-   "ar": "البرتغال"
-  },
-  "logo": "https://media.api-sports.io/football/teams/228.png",
-  "color": "#008057",
-  "venue": {
-   "name": {
-    "en": "Estádio José Alvalade",
-    "ar": "ملعب جوزيه ألفالادي"
-   },
-   "city": {
-    "en": "Lisbon",
-    "ar": "لشبونة"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 228
- },
- {
-  "id": "pt-porto",
-  "name": {
-   "en": "Porto",
-   "ar": "بورتو"
-  },
-  "shortName": {
-   "en": "Porto",
-   "ar": "بورتو"
-  },
-  "code": "POR",
-  "national": false,
-  "country": "pt",
-  "countryName": {
-   "en": "Portugal",
-   "ar": "البرتغال"
-  },
-  "logo": "https://media.api-sports.io/football/teams/212.png",
-  "color": "#003893",
-  "venue": {
-   "name": {
-    "en": "Estádio do Dragão",
-    "ar": "ملعب دراغاو"
-   },
-   "city": {
-    "en": "Porto",
-    "ar": "بورتو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 212
- },
- {
-  "id": "be-club-brugge",
-  "name": {
-   "en": "Club Brugge",
-   "ar": "كلوب بروج"
-  },
-  "shortName": {
-   "en": "Club Brugge",
-   "ar": "كلوب بروج"
-  },
-  "code": "BRU",
-  "national": false,
-  "country": "be",
-  "countryName": {
-   "en": "Belgium",
-   "ar": "بلجيكا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/569.png",
-  "color": "#005DAA",
-  "venue": {
-   "name": {
-    "en": "Jan Breydel Stadium",
-    "ar": "ملعب يان بريدل"
-   },
-   "city": {
-    "en": "Bruges",
-    "ar": "بروج"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 569
- },
- {
-  "id": "nl-psv-eindhoven",
-  "name": {
-   "en": "PSV Eindhoven",
-   "ar": "بي إس في آيندهوفن"
-  },
-  "shortName": {
-   "en": "PSV Eindhoven",
-   "ar": "بي إس في آيندهوفن"
-  },
-  "code": "PSV",
-  "national": false,
-  "country": "nl",
-  "countryName": {
-   "en": "Netherlands",
-   "ar": "هولندا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/197.png",
-  "color": "#ED1C24",
-  "venue": {
-   "name": {
-    "en": "Philips Stadion",
-    "ar": "ملعب فيليبس"
-   },
-   "city": {
-    "en": "Eindhoven",
-    "ar": "آيندهوفن"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 197
- },
- {
-  "id": "nl-feyenoord",
-  "name": {
-   "en": "Feyenoord",
-   "ar": "فاينورد"
-  },
-  "shortName": {
-   "en": "Feyenoord",
-   "ar": "فاينورد"
-  },
-  "code": "FEY",
-  "national": false,
-  "country": "nl",
-  "countryName": {
-   "en": "Netherlands",
-   "ar": "هولندا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/209.png",
-  "color": "#EE2E24",
-  "venue": {
-   "name": {
-    "en": "De Kuip",
-    "ar": "دي كويب"
-   },
-   "city": {
-    "en": "Rotterdam",
-    "ar": "روتردام"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 209
- },
- {
-  "id": "fr-lille",
-  "name": {
-   "en": "Lille",
-   "ar": "ليل"
-  },
-  "shortName": {
-   "en": "Lille",
-   "ar": "ليل"
-  },
-  "code": "LIL",
-  "national": false,
-  "country": "fr",
-  "countryName": {
-   "en": "France",
-   "ar": "فرنسا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/79.png",
-  "color": "#E01E13",
-  "venue": {
-   "name": {
-    "en": "Stade Pierre-Mauroy",
-    "ar": "ملعب بيير موروا"
-   },
-   "city": {
-    "en": "Lille",
-    "ar": "ليل"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 79
- },
- {
-  "id": "no-bod-glimt",
-  "name": {
-   "en": "Bodø/Glimt",
-   "ar": "بودو غليمت"
-  },
-  "shortName": {
-   "en": "Bodø/Glimt",
-   "ar": "بودو غليمت"
-  },
-  "code": "BOD",
-  "national": false,
-  "country": "no",
-  "countryName": {
-   "en": "Norway",
-   "ar": "النرويج"
-  },
-  "logo": "https://media.api-sports.io/football/teams/327.png",
-  "color": "#FFE600",
-  "venue": {
-   "name": {
-    "en": "Aspmyra Stadion",
-    "ar": "ملعب أسبميرا"
-   },
-   "city": {
-    "en": "Bodø",
-    "ar": "بودو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 327
- },
- {
-  "id": "it-napoli",
-  "name": {
-   "en": "Napoli",
-   "ar": "نابولي"
-  },
-  "shortName": {
-   "en": "Napoli",
-   "ar": "نابولي"
-  },
-  "code": "NAP",
-  "national": false,
-  "country": "it",
-  "countryName": {
-   "en": "Italy",
-   "ar": "إيطاليا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/492.png",
-  "color": "#12A0D7",
-  "venue": {
-   "name": {
-    "en": "Stadio Diego Armando Maradona",
-    "ar": "ملعب دييغو أرماندو مارادونا"
-   },
-   "city": {
-    "en": "Naples",
-    "ar": "نابولي"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 492
- },
- {
-  "id": "de-rb-leipzig",
-  "name": {
-   "en": "RB Leipzig",
-   "ar": "لايبزيغ"
-  },
-  "shortName": {
-   "en": "Leipzig",
-   "ar": "لايبزيغ"
-  },
-  "code": "RBL",
-  "national": false,
-  "country": "de",
-  "countryName": {
-   "en": "Germany",
-   "ar": "ألمانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/173.png",
-  "color": "#DD0741",
-  "venue": {
-   "name": {
-    "en": "Red Bull Arena",
-    "ar": "ريد بول أرينا"
-   },
-   "city": {
-    "en": "Leipzig",
-    "ar": "لايبزيغ"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 173
- },
- {
-  "id": "tr-fenerbahce",
-  "name": {
-   "en": "Fenerbahçe",
-   "ar": "فنربخشة"
-  },
-  "shortName": {
-   "en": "Fenerbahçe",
-   "ar": "فنربخشة"
-  },
-  "code": "FEN",
-  "national": false,
-  "country": "tr",
-  "countryName": {
-   "en": "Türkiye",
-   "ar": "تركيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/611.png",
-  "color": "#FFED00",
-  "venue": {
-   "name": {
-    "en": "Şükrü Saracoğlu Stadium",
-    "ar": "ملعب شكري سراج أوغلو"
-   },
-   "city": {
-    "en": "Istanbul",
-    "ar": "إسطنبول"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 611
- },
- {
-  "id": "ua-shakhtar-donetsk",
-  "name": {
-   "en": "Shakhtar Donetsk",
-   "ar": "شاختار دونيتسك"
-  },
-  "shortName": {
-   "en": "Shakhtar",
-   "ar": "شاختار"
-  },
-  "code": "SHK",
-  "national": false,
-  "country": "ua",
-  "countryName": {
-   "en": "Ukraine",
-   "ar": "أوكرانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/550.png",
-  "color": "#F16E22",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 550
- },
- {
-  "id": "tr-galatasaray",
-  "name": {
-   "en": "Galatasaray",
-   "ar": "غلطة سراي"
-  },
-  "shortName": {
-   "en": "Galatasaray",
-   "ar": "غلطة سراي"
-  },
-  "code": "GAL",
-  "national": false,
-  "country": "tr",
-  "countryName": {
-   "en": "Türkiye",
-   "ar": "تركيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/645.png",
-  "color": "#A90432",
-  "venue": {
-   "name": {
-    "en": "RAMS Park",
-    "ar": "رامس بارك"
-   },
-   "city": {
-    "en": "Istanbul",
-    "ar": "إسطنبول"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 645
- },
- {
-  "id": "cz-slavia-prague",
-  "name": {
-   "en": "Slavia Prague",
-   "ar": "سلافيا براغ"
-  },
-  "shortName": {
-   "en": "Slavia Prague",
-   "ar": "سلافيا براغ"
-  },
-  "code": "SLA",
-  "national": false,
-  "country": "cz",
-  "countryName": {
-   "en": "Czechia",
-   "ar": "التشيك"
-  },
-  "logo": "https://media.api-sports.io/football/teams/560.png",
-  "color": "#E30613",
-  "venue": {
-   "name": {
-    "en": "Fortuna Arena",
-    "ar": "فورتونا أرينا"
-   },
-   "city": {
-    "en": "Prague",
-    "ar": "براغ"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 560
- },
- {
-  "id": "sk-slovan-bratislava",
-  "name": {
-   "en": "Slovan Bratislava",
-   "ar": "سلوفان براتيسلافا"
-  },
-  "shortName": {
-   "en": "Slovan",
-   "ar": "سلوفان"
-  },
-  "code": "SLO",
-  "national": false,
-  "country": "sk",
-  "countryName": {
-   "en": "Slovakia",
-   "ar": "سلوفاكيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/656.png",
-  "color": "#6CACE4",
-  "venue": {
-   "name": {
-    "en": "Tehelné pole",
-    "ar": "ملعب تيهيلني بولي"
-   },
-   "city": {
-    "en": "Bratislava",
-    "ar": "براتيسلافا"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 656
- },
- {
-  "id": "de-vfb-stuttgart",
-  "name": {
-   "en": "VfB Stuttgart",
-   "ar": "شتوتغارت"
-  },
-  "shortName": {
-   "en": "VfB Stuttgart",
-   "ar": "شتوتغارت"
-  },
-  "code": "VFB",
-  "national": false,
-  "country": "de",
-  "countryName": {
-   "en": "Germany",
-   "ar": "ألمانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/172.png",
-  "color": "#E32219",
-  "venue": {
-   "name": {
-    "en": "MHPArena",
-    "ar": "إم إتش بي أرينا"
-   },
-   "city": {
-    "en": "Stuttgart",
-    "ar": "شتوتغارت"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 172
- },
- {
-  "id": "gr-aek-athens",
-  "name": {
-   "en": "AEK Athens",
-   "ar": "أيك أثينا"
-  },
-  "shortName": {
-   "en": "AEK Athens",
-   "ar": "أيك أثينا"
-  },
-  "code": "AEK",
-  "national": false,
-  "country": "gr",
-  "countryName": {
-   "en": "Greece",
-   "ar": "اليونان"
-  },
-  "logo": "https://media.api-sports.io/football/teams/575.png",
-  "color": "#FFD200",
-  "venue": {
-   "name": {
-    "en": "OPAP Arena",
-    "ar": "أوباب أرينا"
-   },
-   "city": {
-    "en": "Athens",
-    "ar": "أثينا"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 575
- },
- {
-  "id": "at-lask",
-  "name": {
-   "en": "LASK",
-   "ar": "لاسك"
-  },
-  "shortName": {
-   "en": "LASK",
-   "ar": "لاسك"
-  },
-  "code": "LAS",
-  "national": false,
-  "country": "at",
-  "countryName": {
-   "en": "Austria",
-   "ar": "النمسا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/1026.png",
-  "color": "#000000",
-  "venue": {
-   "name": {
-    "en": "Raiffeisen Arena",
-    "ar": "رايفايزن أرينا"
-   },
-   "city": {
-    "en": "Linz",
-    "ar": "لينتس"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 1026
- },
- {
-  "id": "it-como",
-  "name": {
-   "en": "Como",
-   "ar": "كومو"
-  },
-  "shortName": {
-   "en": "Como",
-   "ar": "كومو"
-  },
-  "code": "COM",
-  "national": false,
-  "country": "it",
-  "countryName": {
-   "en": "Italy",
-   "ar": "إيطاليا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/895.png",
-  "color": "#0B4EA2",
-  "venue": {
-   "name": {
-    "en": "Stadio Giuseppe Sinigaglia",
-    "ar": "ملعب جوزيبي سينيغاليا"
-   },
-   "city": {
-    "en": "Como",
-    "ar": "كومو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 895
- },
- {
-  "id": "fr-lens",
-  "name": {
-   "en": "Lens",
-   "ar": "لانس"
-  },
-  "shortName": {
-   "en": "Lens",
-   "ar": "لانس"
-  },
-  "code": "LEN",
-  "national": false,
-  "country": "fr",
-  "countryName": {
-   "en": "France",
-   "ar": "فرنسا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/116.png",
-  "color": "#FFD700",
-  "venue": {
-   "name": {
-    "en": "Stade Bollaert-Delelis",
-    "ar": "ملعب بولارت ديليليس"
-   },
-   "city": {
-    "en": "Lens",
-    "ar": "لانس"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 116
- },
- {
-  "id": "no-viking",
-  "name": {
-   "en": "Viking",
-   "ar": "فايكنغ"
-  },
-  "shortName": {
-   "en": "Viking",
-   "ar": "فايكنغ"
-  },
-  "code": "VIK",
-  "national": false,
-  "country": "no",
-  "countryName": {
-   "en": "Norway",
-   "ar": "النرويج"
-  },
-  "logo": "https://media.api-sports.io/football/teams/759.png",
-  "color": "#002F6C",
-  "venue": {
-   "name": {
-    "en": "Viking Stadion",
-    "ar": "ملعب فايكنغ"
-   },
-   "city": {
-    "en": "Stavanger",
-    "ar": "ستافانغر"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 759
- },
- {
-  "id": "az-sabah",
-  "name": {
-   "en": "Sabah",
-   "ar": "صباح"
-  },
-  "shortName": {
-   "en": "Sabah",
-   "ar": "صباح"
-  },
-  "code": "SAB",
-  "national": false,
-  "country": "az",
-  "countryName": {
-   "en": "Azerbaijan",
-   "ar": "أذربيجان"
-  },
-  "logo": "https://media.api-sports.io/football/teams/13976.png",
-  "color": "#000000",
-  "venue": {
-   "name": {
-    "en": "Bank Respublika Arena",
-    "ar": "بنك ريسبوبليكا أرينا"
-   },
-   "city": {
-    "en": "Baku",
-    "ar": "باكو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 13976
- },
- {
-  "id": "ae-al-ain",
-  "name": {
-   "en": "Al Ain",
-   "ar": "العين"
-  },
-  "shortName": {
-   "en": "Al Ain",
-   "ar": "العين"
-  },
-  "code": "AIN",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2865.png",
-  "color": "#5B2C86",
-  "venue": {
-   "name": {
-    "en": "Hazza bin Zayed Stadium",
-    "ar": "استاد هزاع بن زايد"
-   },
-   "city": {
-    "en": "Al Ain",
-    "ar": "العين"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2865
- },
- {
-  "id": "ae-shabab-al-ahli",
-  "name": {
-   "en": "Shabab Al Ahli",
-   "ar": "شباب الأهلي"
-  },
-  "shortName": {
-   "en": "Shabab Al Ahli",
-   "ar": "شباب الأهلي"
-  },
-  "code": "SAH",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2870.png",
-  "color": "#D71920",
-  "venue": {
-   "name": {
-    "en": "Rashid Stadium",
-    "ar": "استاد راشد"
-   },
-   "city": {
-    "en": "Dubai",
-    "ar": "دبي"
-   }
-  },
-  "aliases": [
-   "Shabab Al Ahli Dubai",
-   "شباب أهلي دبي"
-  ],
-  "apiFootballId": 2870
- },
- {
-  "id": "ae-al-wasl",
-  "name": {
-   "en": "Al Wasl",
-   "ar": "الوصل"
-  },
-  "shortName": {
-   "en": "Al Wasl",
-   "ar": "الوصل"
-  },
-  "code": "WAS",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2872.png",
-  "color": "#FFD200",
-  "venue": {
-   "name": {
-    "en": "Zabeel Stadium",
-    "ar": "استاد زعبيل"
-   },
-   "city": {
-    "en": "Dubai",
-    "ar": "دبي"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2872
- },
- {
-  "id": "ae-al-jazira",
-  "name": {
-   "en": "Al Jazira",
-   "ar": "الجزيرة"
-  },
-  "shortName": {
-   "en": "Al Jazira",
-   "ar": "الجزيرة"
-  },
-  "code": "JAZ",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2871.png",
-  "color": "#D92027",
-  "venue": {
-   "name": {
-    "en": "Mohammed bin Zayed Stadium",
-    "ar": "استاد محمد بن زايد"
-   },
-   "city": {
-    "en": "Abu Dhabi",
-    "ar": "أبوظبي"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2871
- },
- {
-  "id": "ae-al-wahda",
-  "name": {
-   "en": "Al Wahda",
-   "ar": "الوحدة"
-  },
-  "shortName": {
-   "en": "Al Wahda",
-   "ar": "الوحدة"
-  },
-  "code": "WAH",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2875.png",
-  "color": "#7A1F3D",
-  "venue": {
-   "name": {
-    "en": "Al Nahyan Stadium",
-    "ar": "استاد آل نهيان"
-   },
-   "city": {
-    "en": "Abu Dhabi",
-    "ar": "أبوظبي"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2875
- },
- {
-  "id": "ae-sharjah",
-  "name": {
-   "en": "Sharjah",
-   "ar": "الشارقة"
-  },
-  "shortName": {
-   "en": "Sharjah",
-   "ar": "الشارقة"
-  },
-  "code": "SHJ",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2874.png",
-  "color": "#C8102E",
-  "venue": {
-   "name": {
-    "en": "Sharjah Stadium",
-    "ar": "استاد الشارقة"
-   },
-   "city": {
-    "en": "Sharjah",
-    "ar": "الشارقة"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2874
- },
- {
-  "id": "ae-al-nasr",
-  "name": {
-   "en": "Al Nasr",
-   "ar": "النصر"
-  },
-  "shortName": {
-   "en": "Al Nasr",
-   "ar": "النصر"
-  },
-  "code": "NAS",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/10155.png",
-  "color": "#0055A4",
-  "venue": {
-   "name": {
-    "en": "Al Maktoum Stadium",
-    "ar": "استاد آل مكتوم"
-   },
-   "city": {
-    "en": "Dubai",
-    "ar": "دبي"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 10155
- },
- {
-  "id": "ae-united",
-  "name": {
-   "en": "United",
-   "ar": "يونايتد"
-  },
-  "shortName": {
-   "en": "United",
-   "ar": "يونايتد"
-  },
-  "code": "UTD",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": null,
-  "color": "#111111",
-  "venue": {
-   "name": {
-    "en": "Al Maktoum Stadium",
-    "ar": "استاد آل مكتوم"
-   },
-   "city": {
-    "en": "Dubai",
-    "ar": "دبي"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": null
- },
- {
-  "id": "ae-ajman",
-  "name": {
-   "en": "Ajman",
-   "ar": "عجمان"
-  },
-  "shortName": {
-   "en": "Ajman",
-   "ar": "عجمان"
-  },
-  "code": "AJM",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2879.png",
-  "color": "#F58220",
-  "venue": {
-   "name": {
-    "en": "Rashid bin Saeed Stadium",
-    "ar": "استاد راشد بن سعيد"
-   },
-   "city": {
-    "en": "Ajman",
-    "ar": "عجمان"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2879
- },
- {
-  "id": "ae-kalba",
-  "name": {
-   "en": "Kalba",
-   "ar": "كلباء"
-  },
-  "shortName": {
-   "en": "Kalba",
-   "ar": "كلباء"
-  },
-  "code": "KLB",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2876.png",
-  "color": "#FFD100",
-  "venue": {
-   "name": {
-    "en": "Kalba Stadium",
-    "ar": "استاد كلباء"
-   },
-   "city": {
-    "en": "Kalba",
-    "ar": "كلباء"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2876
- },
- {
-  "id": "ae-khorfakkan",
-  "name": {
-   "en": "Khorfakkan",
-   "ar": "خورفكان"
-  },
-  "shortName": {
-   "en": "Khorfakkan",
-   "ar": "خورفكان"
-  },
-  "code": "KHF",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/4912.png",
-  "color": null,
-  "venue": {
-   "name": {
-    "en": "Saqr bin Mohammed Al Qassimi Stadium",
-    "ar": "استاد صقر بن محمد القاسمي"
-   },
-   "city": {
-    "en": "Khor Fakkan",
-    "ar": "خورفكان"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 4912
- },
- {
-  "id": "ae-bani-yas",
-  "name": {
-   "en": "Bani Yas",
-   "ar": "بني ياس"
-  },
-  "shortName": {
-   "en": "Bani Yas",
-   "ar": "بني ياس"
-  },
-  "code": "BNY",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2877.png",
-  "color": "#6CACE4",
-  "venue": {
-   "name": {
-    "en": "Bani Yas Stadium",
-    "ar": "استاد بني ياس"
-   },
-   "city": {
-    "en": "Abu Dhabi (Al Shamkha)",
-    "ar": "أبوظبي (الشامخة)"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2877
- },
- {
-  "id": "ae-al-dhafra",
-  "name": {
-   "en": "Al Dhafra",
-   "ar": "الظفرة"
-  },
-  "shortName": {
-   "en": "Al Dhafra",
-   "ar": "الظفرة"
-  },
-  "code": "DHF",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2873.png",
-  "color": null,
-  "venue": {
-   "name": {
-    "en": "Hamdan bin Zayed Stadium",
-    "ar": "استاد حمدان بن زايد"
-   },
-   "city": {
-    "en": "Madinat Zayed",
-    "ar": "مدينة زايد"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2873
- },
- {
-  "id": "ae-hatta",
-  "name": {
-   "en": "Hatta",
-   "ar": "حتا"
-  },
-  "shortName": {
-   "en": "Hatta",
-   "ar": "حتا"
-  },
-  "code": "HAT",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2869.png",
-  "color": null,
-  "venue": {
-   "name": {
-    "en": "Hamdan bin Rashid Al Maktoum Stadium",
-    "ar": "استاد حمدان بن راشد آل مكتوم"
-   },
-   "city": {
-    "en": "Hatta",
-    "ar": "حتا"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2869
- },
- {
   "id": "gb-eng-west-ham-united",
   "name": {
    "en": "West Ham United",
@@ -2584,38 +2840,6 @@
   },
   "aliases": [],
   "apiFootballId": 48
- },
- {
-  "id": "gb-eng-burnley",
-  "name": {
-   "en": "Burnley",
-   "ar": "بيرنلي"
-  },
-  "shortName": {
-   "en": "Burnley",
-   "ar": "بيرنلي"
-  },
-  "code": "BUR",
-  "national": false,
-  "country": "gb-eng",
-  "countryName": {
-   "en": "England",
-   "ar": "إنجلترا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/44.png",
-  "color": "#6C1D45",
-  "venue": {
-   "name": {
-    "en": "Turf Moor",
-    "ar": "تيرف مور"
-   },
-   "city": {
-    "en": "Burnley",
-    "ar": "بيرنلي"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 44
  },
  {
   "id": "gb-eng-wolverhampton-wanderers",
@@ -2650,388 +2874,36 @@
   "apiFootballId": 39
  },
  {
-  "id": "es-mallorca",
+  "id": "gr-aek-athens",
   "name": {
-   "en": "Mallorca",
-   "ar": "مايوركا"
+   "en": "AEK Athens",
+   "ar": "أيك أثينا"
   },
   "shortName": {
-   "en": "Mallorca",
-   "ar": "مايوركا"
+   "en": "AEK Athens",
+   "ar": "أيك أثينا"
   },
-  "code": "MLL",
+  "code": "AEK",
   "national": false,
-  "country": "es",
+  "country": "gr",
   "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
+   "en": "Greece",
+   "ar": "اليونان"
   },
-  "logo": "https://media.api-sports.io/football/teams/798.png",
-  "color": "#E20613",
+  "logo": "https://media.api-sports.io/football/teams/575.png",
+  "color": "#FFD200",
   "venue": {
    "name": {
-    "en": "Estadi Mallorca Son Moix",
-    "ar": "ملعب سون مويش"
+    "en": "OPAP Arena",
+    "ar": "أوباب أرينا"
    },
    "city": {
-    "en": "Palma",
-    "ar": "بالما"
+    "en": "Athens",
+    "ar": "أثينا"
    }
   },
   "aliases": [],
-  "apiFootballId": 798
- },
- {
-  "id": "es-girona",
-  "name": {
-   "en": "Girona",
-   "ar": "جيرونا"
-  },
-  "shortName": {
-   "en": "Girona",
-   "ar": "جيرونا"
-  },
-  "code": "GIR",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/547.png",
-  "color": "#CD2534",
-  "venue": {
-   "name": {
-    "en": "Estadi Montilivi",
-    "ar": "ملعب مونتيليفي"
-   },
-   "city": {
-    "en": "Girona",
-    "ar": "جيرونا"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 547
- },
- {
-  "id": "es-real-oviedo",
-  "name": {
-   "en": "Real Oviedo",
-   "ar": "ريال أوفييدو"
-  },
-  "shortName": {
-   "en": "Real Oviedo",
-   "ar": "ريال أوفييدو"
-  },
-  "code": "OVI",
-  "national": false,
-  "country": "es",
-  "countryName": {
-   "en": "Spain",
-   "ar": "إسبانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/718.png",
-  "color": "#0D3B8C",
-  "venue": {
-   "name": {
-    "en": "Estadio Carlos Tartiere",
-    "ar": "ملعب كارلوس تارتيري"
-   },
-   "city": {
-    "en": "Oviedo",
-    "ar": "أوفييدو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 718
- },
- {
-  "id": "de-bayer-leverkusen",
-  "name": {
-   "en": "Bayer Leverkusen",
-   "ar": "باير ليفركوزن"
-  },
-  "shortName": {
-   "en": "Leverkusen",
-   "ar": "ليفركوزن"
-  },
-  "code": "B04",
-  "national": false,
-  "country": "de",
-  "countryName": {
-   "en": "Germany",
-   "ar": "ألمانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/168.png",
-  "color": "#E32221",
-  "venue": {
-   "name": {
-    "en": "BayArena",
-    "ar": "باي أرينا"
-   },
-   "city": {
-    "en": "Leverkusen",
-    "ar": "ليفركوزن"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 168
- },
- {
-  "id": "de-eintracht-frankfurt",
-  "name": {
-   "en": "Eintracht Frankfurt",
-   "ar": "آينتراخت فرانكفورت"
-  },
-  "shortName": {
-   "en": "Frankfurt",
-   "ar": "فرانكفورت"
-  },
-  "code": "SGE",
-  "national": false,
-  "country": "de",
-  "countryName": {
-   "en": "Germany",
-   "ar": "ألمانيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/169.png",
-  "color": "#E1000F",
-  "venue": {
-   "name": {
-    "en": "Deutsche Bank Park",
-    "ar": "دويتشه بنك بارك"
-   },
-   "city": {
-    "en": "Frankfurt",
-    "ar": "فرانكفورت"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 169
- },
- {
-  "id": "it-atalanta",
-  "name": {
-   "en": "Atalanta",
-   "ar": "أتالانتا"
-  },
-  "shortName": {
-   "en": "Atalanta",
-   "ar": "أتالانتا"
-  },
-  "code": "ATA",
-  "national": false,
-  "country": "it",
-  "countryName": {
-   "en": "Italy",
-   "ar": "إيطاليا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/499.png",
-  "color": "#1E71B8",
-  "venue": {
-   "name": {
-    "en": "Gewiss Stadium",
-    "ar": "ملعب جيويس"
-   },
-   "city": {
-    "en": "Bergamo",
-    "ar": "بيرغامو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 499
- },
- {
-  "id": "it-juventus",
-  "name": {
-   "en": "Juventus",
-   "ar": "يوفنتوس"
-  },
-  "shortName": {
-   "en": "Juventus",
-   "ar": "يوفنتوس"
-  },
-  "code": "JUV",
-  "national": false,
-  "country": "it",
-  "countryName": {
-   "en": "Italy",
-   "ar": "إيطاليا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/496.png",
-  "color": "#111111",
-  "venue": {
-   "name": {
-    "en": "Allianz Stadium",
-    "ar": "ملعب أليانز"
-   },
-   "city": {
-    "en": "Turin",
-    "ar": "تورينو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 496
- },
- {
-  "id": "fr-marseille",
-  "name": {
-   "en": "Marseille",
-   "ar": "مرسيليا"
-  },
-  "shortName": {
-   "en": "Marseille",
-   "ar": "مرسيليا"
-  },
-  "code": "OM",
-  "national": false,
-  "country": "fr",
-  "countryName": {
-   "en": "France",
-   "ar": "فرنسا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/81.png",
-  "color": "#2FAEE0",
-  "venue": {
-   "name": {
-    "en": "Orange Vélodrome",
-    "ar": "ملعب فيلودروم"
-   },
-   "city": {
-    "en": "Marseille",
-    "ar": "مرسيليا"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 81
- },
- {
-  "id": "mc-monaco",
-  "name": {
-   "en": "Monaco",
-   "ar": "موناكو"
-  },
-  "shortName": {
-   "en": "Monaco",
-   "ar": "موناكو"
-  },
-  "code": "ASM",
-  "national": false,
-  "country": "mc",
-  "countryName": {
-   "en": "Monaco",
-   "ar": "موناكو"
-  },
-  "logo": "https://media.api-sports.io/football/teams/91.png",
-  "color": "#E51B22",
-  "venue": {
-   "name": {
-    "en": "Stade Louis II",
-    "ar": "ملعب لويس الثاني"
-   },
-   "city": {
-    "en": "Monaco",
-    "ar": "موناكو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 91
- },
- {
-  "id": "nl-ajax",
-  "name": {
-   "en": "Ajax",
-   "ar": "أياكس"
-  },
-  "shortName": {
-   "en": "Ajax",
-   "ar": "أياكس"
-  },
-  "code": "AJA",
-  "national": false,
-  "country": "nl",
-  "countryName": {
-   "en": "Netherlands",
-   "ar": "هولندا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/194.png",
-  "color": "#D2122E",
-  "venue": {
-   "name": {
-    "en": "Johan Cruijff ArenA",
-    "ar": "يوهان كرويف أرينا"
-   },
-   "city": {
-    "en": "Amsterdam",
-    "ar": "أمستردام"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 194
- },
- {
-  "id": "pt-benfica",
-  "name": {
-   "en": "Benfica",
-   "ar": "بنفيكا"
-  },
-  "shortName": {
-   "en": "Benfica",
-   "ar": "بنفيكا"
-  },
-  "code": "BEN",
-  "national": false,
-  "country": "pt",
-  "countryName": {
-   "en": "Portugal",
-   "ar": "البرتغال"
-  },
-  "logo": "https://media.api-sports.io/football/teams/211.png",
-  "color": "#E20E0E",
-  "venue": {
-   "name": {
-    "en": "Estádio da Luz",
-    "ar": "ملعب دا لوز"
-   },
-   "city": {
-    "en": "Lisbon",
-    "ar": "لشبونة"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 211
- },
- {
-  "id": "be-union-saint-gilloise",
-  "name": {
-   "en": "Union Saint-Gilloise",
-   "ar": "يونيون سان جيلواز"
-  },
-  "shortName": {
-   "en": "Union SG",
-   "ar": "سان جيلواز"
-  },
-  "code": "USG",
-  "national": false,
-  "country": "be",
-  "countryName": {
-   "en": "Belgium",
-   "ar": "بلجيكا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/1393.png",
-  "color": "#F9D61A",
-  "venue": {
-   "name": {
-    "en": "Stade Joseph Marien",
-    "ar": "ملعب جوزيف ماريان"
-   },
-   "city": {
-    "en": "Brussels",
-    "ar": "بروكسل"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 1393
+  "apiFootballId": 575
  },
  {
   "id": "gr-olympiacos",
@@ -3066,339 +2938,199 @@
   "apiFootballId": 553
  },
  {
-  "id": "dk-copenhagen",
+  "id": "hk-kitchee",
   "name": {
-   "en": "Copenhagen",
-   "ar": "كوبنهاغن"
+   "en": "Kitchee",
+   "ar": "كيتشي"
   },
   "shortName": {
-   "en": "Copenhagen",
-   "ar": "كوبنهاغن"
+   "en": "Kitchee",
+   "ar": "كيتشي"
   },
-  "code": "FCK",
+  "code": "KIT",
   "national": false,
-  "country": "dk",
+  "country": "hk",
   "countryName": {
-   "en": "Denmark",
-   "ar": "الدنمارك"
-  },
-  "logo": "https://media.api-sports.io/football/teams/400.png",
-  "color": "#0A2C6E",
-  "venue": {
-   "name": {
-    "en": "Parken",
-    "ar": "ملعب باركن"
-   },
-   "city": {
-    "en": "Copenhagen",
-    "ar": "كوبنهاغن"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 400
- },
- {
-  "id": "az-qarabag",
-  "name": {
-   "en": "Qarabağ",
-   "ar": "قره باغ"
-  },
-  "shortName": {
-   "en": "Qarabağ",
-   "ar": "قره باغ"
-  },
-  "code": "QAR",
-  "national": false,
-  "country": "az",
-  "countryName": {
-   "en": "Azerbaijan",
-   "ar": "أذربيجان"
-  },
-  "logo": "https://media.api-sports.io/football/teams/556.png",
-  "color": "#111111",
-  "venue": {
-   "name": {
-    "en": "Tofiq Bahramov Stadium",
-    "ar": "ملعب توفيق بهراموف"
-   },
-   "city": {
-    "en": "Baku",
-    "ar": "باكو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 556
- },
- {
-  "id": "cy-pafos",
-  "name": {
-   "en": "Pafos",
-   "ar": "بافوس"
-  },
-  "shortName": {
-   "en": "Pafos",
-   "ar": "بافوس"
-  },
-  "code": "PAF",
-  "national": false,
-  "country": "cy",
-  "countryName": {
-   "en": "Cyprus",
-   "ar": "قبرص"
-  },
-  "logo": "https://media.api-sports.io/football/teams/3403.png",
-  "color": "#1C3F94",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 3403
- },
- {
-  "id": "kz-kairat-almaty",
-  "name": {
-   "en": "Kairat Almaty",
-   "ar": "كايرات ألماتي"
-  },
-  "shortName": {
-   "en": "Kairat",
-   "ar": "كايرات"
-  },
-  "code": "KAI",
-  "national": false,
-  "country": "kz",
-  "countryName": {
-   "en": "Kazakhstan",
-   "ar": "كازاخستان"
-  },
-  "logo": "https://media.api-sports.io/football/teams/664.png",
-  "color": "#F9C80E",
-  "venue": {
-   "name": {
-    "en": "Central Stadium",
-    "ar": "الملعب المركزي"
-   },
-   "city": {
-    "en": "Almaty",
-    "ar": "ألماتي"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 664
- },
- {
-  "id": "ae-al-bataeh",
-  "name": {
-   "en": "Al Bataeh",
-   "ar": "البطائح"
-  },
-  "shortName": {
-   "en": "Al Bataeh",
-   "ar": "البطائح"
-  },
-  "code": "BAT",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/9136.png",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 9136
- },
- {
-  "id": "ae-dibba",
-  "name": {
-   "en": "Dibba",
-   "ar": "دبا الفجيرة"
-  },
-  "shortName": {
-   "en": "Dibba",
-   "ar": "دبا الفجيرة"
-  },
-  "code": "DIB",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2867.png",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 2867
- },
- {
-  "id": "ae-fujairah",
-  "name": {
-   "en": "Fujairah",
-   "ar": "الفجيرة"
-  },
-  "shortName": {
-   "en": "Fujairah",
-   "ar": "الفجيرة"
-  },
-  "code": "FUJ",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2880.png",
-  "color": null,
-  "venue": {
-   "name": {
-    "en": "Fujairah Stadium",
-    "ar": "ملعب الفجيرة"
-   },
-   "city": {
-    "en": "Fujairah",
-    "ar": "الفجيرة"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2880
- },
- {
-  "id": "ae-al-orooba",
-  "name": {
-   "en": "Al Orooba",
-   "ar": "العروبة"
-  },
-  "shortName": {
-   "en": "Al Orooba",
-   "ar": "العروبة"
-  },
-  "code": "ORO",
-  "national": false,
-  "country": "ae",
-  "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
-  },
-  "logo": "https://media.api-sports.io/football/teams/9139.png",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 9139
- },
- {
-  "id": "sa-neom",
-  "name": {
-   "en": "NEOM",
-   "ar": "نيوم"
-  },
-  "shortName": {
-   "en": "NEOM",
-   "ar": "نيوم"
-  },
-  "code": "NEO",
-  "national": false,
-  "country": "sa",
-  "countryName": {
-   "en": "Saudi Arabia",
-   "ar": "السعودية"
-  },
-  "logo": "https://media.api-sports.io/football/teams/10513.png",
-  "color": "#00A3AD",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 10513
- },
- {
-  "id": "qa-al-duhail",
-  "name": {
-   "en": "Al Duhail",
-   "ar": "الدحيل"
-  },
-  "shortName": {
-   "en": "Al Duhail",
-   "ar": "الدحيل"
-  },
-  "code": "DUH",
-  "national": false,
-  "country": "qa",
-  "countryName": {
-   "en": "Qatar",
-   "ar": "قطر"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2904.png",
-  "color": "#D2122E",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 2904
- },
- {
-  "id": "om-al-shabab-oman",
-  "name": {
-   "en": "Al Shabab (Oman)",
-   "ar": "الشباب العُماني"
-  },
-  "shortName": {
-   "en": "Al Shabab (Oman)",
-   "ar": "الشباب العُماني"
-  },
-  "code": "SHB",
-  "national": false,
-  "country": "om",
-  "countryName": {
-   "en": "Oman",
-   "ar": "عُمان"
+   "en": "Hong Kong",
+   "ar": "هونغ كونغ"
   },
   "logo": null,
-  "color": null,
-  "venue": null,
+  "color": "#0055A5",
+  "venue": {
+   "name": {
+    "en": "Mong Kok Stadium",
+    "ar": "ملعب مونغكوك"
+   },
+   "city": {
+    "en": "Hong Kong",
+    "ar": "هونغ كونغ"
+   }
+  },
   "aliases": [],
   "apiFootballId": null
  },
  {
-  "id": "ye-shaab-hadramaut",
+  "id": "hk-tai-po",
   "name": {
-   "en": "Shaab Hadramaut",
-   "ar": "شعب حضرموت"
+   "en": "Tai Po",
+   "ar": "تاي بو"
   },
   "shortName": {
-   "en": "Shaab Hadramaut",
-   "ar": "شعب حضرموت"
+   "en": "Tai Po",
+   "ar": "تاي بو"
   },
-  "code": "SHD",
+  "code": "TPO",
   "national": false,
-  "country": "ye",
+  "country": "hk",
   "countryName": {
-   "en": "Yemen",
-   "ar": "اليمن"
+   "en": "Hong Kong",
+   "ar": "هونغ كونغ"
   },
   "logo": null,
-  "color": null,
-  "venue": null,
+  "color": "#00A651",
+  "venue": {
+   "name": {
+    "en": "Mong Kok Stadium",
+    "ar": "ملعب مونغكوك"
+   },
+   "city": {
+    "en": "Hong Kong",
+    "ar": "هونغ كونغ"
+   }
+  },
   "aliases": [],
   "apiFootballId": null
  },
  {
-  "id": "qa-qatar-sc",
+  "id": "id-persib-bandung",
   "name": {
-   "en": "Qatar SC",
-   "ar": "قطر"
+   "en": "Persib Bandung",
+   "ar": "بيرسيب باندونغ"
   },
   "shortName": {
-   "en": "Qatar SC",
-   "ar": "قطر"
+   "en": "Persib",
+   "ar": "بيرسيب"
   },
-  "code": "QSC",
+  "code": "PSB",
   "national": false,
-  "country": "qa",
+  "country": "id",
   "countryName": {
-   "en": "Qatar",
-   "ar": "قطر"
+   "en": "Indonesia",
+   "ar": "إندونيسيا"
   },
-  "logo": "https://media.api-sports.io/football/teams/2907.png",
-  "color": null,
-  "venue": null,
+  "logo": null,
+  "color": "#0047AB",
+  "venue": {
+   "name": {
+    "en": "Si Jalak Harupat Stadium",
+    "ar": "ملعب سي جالاك هاروبات"
+   },
+   "city": {
+    "en": "Soreang",
+    "ar": "سورينغ"
+   }
+  },
   "aliases": [],
-  "apiFootballId": 2907
+  "apiFootballId": null
+ },
+ {
+  "id": "in-east-bengal",
+  "name": {
+   "en": "East Bengal",
+   "ar": "إيست بنغال"
+  },
+  "shortName": {
+   "en": "East Bengal",
+   "ar": "إيست بنغال"
+  },
+  "code": "EBG",
+  "national": false,
+  "country": "in",
+  "countryName": {
+   "en": "India",
+   "ar": "الهند"
+  },
+  "logo": "https://media.api-sports.io/football/teams/3463.png",
+  "color": "#C8102E",
+  "venue": {
+   "name": {
+    "en": "Vivekananda Yuba Bharati Krirangan Stadium",
+    "ar": "ستاد فيفيكاناندا يوبا بهاراتي"
+   },
+   "city": {
+    "en": "Kolkata",
+    "ar": "كولكاتا"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 3463
+ },
+ {
+  "id": "iq-al-quwa-al-jawiya",
+  "name": {
+   "en": "Al Quwa Al Jawiya",
+   "ar": "القوة الجوية"
+  },
+  "shortName": {
+   "en": "Al Quwa",
+   "ar": "القوة الجوية"
+  },
+  "code": "QUW",
+  "national": false,
+  "country": "iq",
+  "countryName": {
+   "en": "Iraq",
+   "ar": "العراق"
+  },
+  "logo": "https://media.api-sports.io/football/teams/8009.png",
+  "color": "#4AA3DF",
+  "venue": {
+   "name": {
+    "en": "Basra International Stadium",
+    "ar": "استاد البصرة الدولي"
+   },
+   "city": {
+    "en": "Basra",
+    "ar": "البصرة"
+   }
+  },
+  "aliases": [
+   "Air Force Club",
+   "Al-Quwa Al-Jawiya"
+  ],
+  "apiFootballId": 8009
+ },
+ {
+  "id": "iq-al-shorta",
+  "name": {
+   "en": "Al Shorta",
+   "ar": "الشرطة"
+  },
+  "shortName": {
+   "en": "Al Shorta",
+   "ar": "الشرطة"
+  },
+  "code": "SHO",
+  "national": false,
+  "country": "iq",
+  "countryName": {
+   "en": "Iraq",
+   "ar": "العراق"
+  },
+  "logo": null,
+  "color": "#006B3F",
+  "venue": {
+   "name": {
+    "en": "Al Zawraa Stadium",
+    "ar": "ستاد الزوراء"
+   },
+   "city": {
+    "en": "Baghdad",
+    "ar": "بغداد"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": null
  },
  {
   "id": "iq-al-zawraa",
@@ -3424,52 +3156,6 @@
   "apiFootballId": null
  },
  {
-  "id": "bh-al-riffa",
-  "name": {
-   "en": "Al Riffa",
-   "ar": "الرفاع"
-  },
-  "shortName": {
-   "en": "Al Riffa",
-   "ar": "الرفاع"
-  },
-  "code": "RIF",
-  "national": false,
-  "country": "bh",
-  "countryName": {
-   "en": "Bahrain",
-   "ar": "البحرين"
-  },
-  "logo": null,
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": null
- },
- {
-  "id": "sa-al-ettifaq",
-  "name": {
-   "en": "Al Ettifaq",
-   "ar": "الاتفاق"
-  },
-  "shortName": {
-   "en": "Al Ettifaq",
-   "ar": "الاتفاق"
-  },
-  "code": "ETT",
-  "national": false,
-  "country": "sa",
-  "countryName": {
-   "en": "Saudi Arabia",
-   "ar": "السعودية"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2934.png",
-  "color": "#00843D",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 2934
- },
- {
   "id": "iq-erbil",
   "name": {
    "en": "Erbil",
@@ -3491,97 +3177,6 @@
   "venue": null,
   "aliases": [],
   "apiFootballId": null
- },
- {
-  "id": "kw-kazma",
-  "name": {
-   "en": "Kazma",
-   "ar": "كاظمة"
-  },
-  "shortName": {
-   "en": "Kazma",
-   "ar": "كاظمة"
-  },
-  "code": "KAZ",
-  "national": false,
-  "country": "kw",
-  "countryName": {
-   "en": "Kuwait",
-   "ar": "الكويت"
-  },
-  "logo": null,
-  "color": "#F58220",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": null
- },
- {
-  "id": "sa-al-ahli-saudi",
-  "name": {
-   "en": "Al Ahli Saudi",
-   "ar": "الأهلي السعودي"
-  },
-  "shortName": {
-   "en": "Al Ahli",
-   "ar": "الأهلي"
-  },
-  "code": "AHL",
-  "national": false,
-  "country": "sa",
-  "countryName": {
-   "en": "Saudi Arabia",
-   "ar": "السعودية"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2929.png",
-  "color": "#00843D",
-  "venue": {
-   "name": {
-    "en": "King Abdullah Sports City Stadium",
-    "ar": "استاد مدينة الملك عبدالله الرياضية"
-   },
-   "city": {
-    "en": "Jeddah",
-    "ar": "جدة"
-   }
-  },
-  "aliases": [
-   "Al-Ahli",
-   "Al Ahli Jeddah",
-   "أهلي جدة"
-  ],
-  "apiFootballId": 2929
- },
- {
-  "id": "qa-al-sadd",
-  "name": {
-   "en": "Al Sadd",
-   "ar": "السد"
-  },
-  "shortName": {
-   "en": "Al Sadd",
-   "ar": "السد"
-  },
-  "code": "SAD",
-  "national": false,
-  "country": "qa",
-  "countryName": {
-   "en": "Qatar",
-   "ar": "قطر"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2895.png",
-  "color": "#000000",
-  "venue": {
-   "name": {
-    "en": "Jassim bin Hamad Stadium",
-    "ar": "استاد جاسم بن حمد"
-   },
-   "city": {
-    "en": "Doha",
-    "ar": "الدوحة"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2895
  },
  {
   "id": "ir-esteghlal",
@@ -3618,796 +3213,6 @@
   "apiFootballId": 2733
  },
  {
-  "id": "sa-al-nassr",
-  "name": {
-   "en": "Al Nassr",
-   "ar": "النصر"
-  },
-  "shortName": {
-   "en": "Al Nassr",
-   "ar": "النصر"
-  },
-  "code": "NAS",
-  "national": false,
-  "country": "sa",
-  "countryName": {
-   "en": "Saudi Arabia",
-   "ar": "السعودية"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2939.png",
-  "color": "#FFD400",
-  "venue": {
-   "name": {
-    "en": "Al-Awwal Park",
-    "ar": "الأول بارك"
-   },
-   "city": {
-    "en": "Riyadh",
-    "ar": "الرياض"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2939
- },
- {
-  "id": "uz-neftchi-fergana",
-  "name": {
-   "en": "Neftchi Fergana",
-   "ar": "نيفتشي فرغانة"
-  },
-  "shortName": {
-   "en": "Neftchi",
-   "ar": "نيفتشي"
-  },
-  "code": "NEF",
-  "national": false,
-  "country": "uz",
-  "countryName": {
-   "en": "Uzbekistan",
-   "ar": "أوزبكستان"
-  },
-  "logo": "https://media.api-sports.io/football/teams/4217.png",
-  "color": "#1C4E9D",
-  "venue": null,
-  "aliases": [
-   "PFC Neftchi",
-   "Neftchi",
-   "نيفتشي"
-  ],
-  "apiFootballId": 4217
- },
- {
-  "id": "iq-al-quwa-al-jawiya",
-  "name": {
-   "en": "Al Quwa Al Jawiya",
-   "ar": "القوة الجوية"
-  },
-  "shortName": {
-   "en": "Al Quwa",
-   "ar": "القوة الجوية"
-  },
-  "code": "QUW",
-  "national": false,
-  "country": "iq",
-  "countryName": {
-   "en": "Iraq",
-   "ar": "العراق"
-  },
-  "logo": "https://media.api-sports.io/football/teams/8009.png",
-  "color": "#4AA3DF",
-  "venue": null,
-  "aliases": [
-   "Air Force Club",
-   "Al-Quwa Al-Jawiya"
-  ],
-  "apiFootballId": 8009
- },
- {
-  "id": "sa-al-hilal",
-  "name": {
-   "en": "Al Hilal",
-   "ar": "الهلال"
-  },
-  "shortName": {
-   "en": "Al Hilal",
-   "ar": "الهلال"
-  },
-  "code": "HIL",
-  "national": false,
-  "country": "sa",
-  "countryName": {
-   "en": "Saudi Arabia",
-   "ar": "السعودية"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2932.png",
-  "color": "#005BAC",
-  "venue": {
-   "name": {
-    "en": "Kingdom Arena",
-    "ar": "المملكة أرينا"
-   },
-   "city": {
-    "en": "Riyadh",
-    "ar": "الرياض"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2932
- },
- {
-  "id": "qa-al-gharafa",
-  "name": {
-   "en": "Al Gharafa",
-   "ar": "الغرافة"
-  },
-  "shortName": {
-   "en": "Al Gharafa",
-   "ar": "الغرافة"
-  },
-  "code": "GHA",
-  "national": false,
-  "country": "qa",
-  "countryName": {
-   "en": "Qatar",
-   "ar": "قطر"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2903.png",
-  "color": "#0055A5",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 2903
- },
- {
-  "id": "ir-tractor",
-  "name": {
-   "en": "Tractor",
-   "ar": "تراكتور"
-  },
-  "shortName": {
-   "en": "Tractor",
-   "ar": "تراكتور"
-  },
-  "code": "TRA",
-  "national": false,
-  "country": "ir",
-  "countryName": {
-   "en": "Iran",
-   "ar": "إيران"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2737.png",
-  "color": "#E30613",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 2737
- },
- {
-  "id": "sa-al-qadsiah",
-  "name": {
-   "en": "Al Qadsiah",
-   "ar": "القادسية"
-  },
-  "shortName": {
-   "en": "Al Qadsiah",
-   "ar": "القادسية"
-  },
-  "code": "QAD",
-  "national": false,
-  "country": "sa",
-  "countryName": {
-   "en": "Saudi Arabia",
-   "ar": "السعودية"
-  },
-  "logo": null,
-  "color": "#C8102E",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": null
- },
- {
-  "id": "qa-al-shamal",
-  "name": {
-   "en": "Al Shamal",
-   "ar": "الشمال"
-  },
-  "shortName": {
-   "en": "Al Shamal",
-   "ar": "الشمال"
-  },
-  "code": "SHM",
-  "national": false,
-  "country": "qa",
-  "countryName": {
-   "en": "Qatar",
-   "ar": "قطر"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2916.png",
-  "color": "#1F4E9E",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 2916
- },
- {
-  "id": "sa-al-ittihad",
-  "name": {
-   "en": "Al Ittihad",
-   "ar": "الاتحاد"
-  },
-  "shortName": {
-   "en": "Al Ittihad",
-   "ar": "الاتحاد"
-  },
-  "code": "ITT",
-  "national": false,
-  "country": "sa",
-  "countryName": {
-   "en": "Saudi Arabia",
-   "ar": "السعودية"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2938.png",
-  "color": "#F2C200",
-  "venue": {
-   "name": {
-    "en": "King Abdullah Sports City Stadium",
-    "ar": "استاد مدينة الملك عبدالله الرياضية"
-   },
-   "city": {
-    "en": "Jeddah",
-    "ar": "جدة"
-   }
-  },
-  "aliases": [
-   "Al-Ittihad Jeddah"
-  ],
-  "apiFootballId": 2938
- },
- {
-  "id": "uz-pakhtakor",
-  "name": {
-   "en": "Pakhtakor",
-   "ar": "باختاكور"
-  },
-  "shortName": {
-   "en": "Pakhtakor",
-   "ar": "باختاكور"
-  },
-  "code": "PAK",
-  "national": false,
-  "country": "uz",
-  "countryName": {
-   "en": "Uzbekistan",
-   "ar": "أوزبكستان"
-  },
-  "logo": "https://media.api-sports.io/football/teams/4220.png",
-  "color": "#008D36",
-  "venue": {
-   "name": {
-    "en": "Pakhtakor Stadium",
-    "ar": "ملعب باختاكور"
-   },
-   "city": {
-    "en": "Tashkent",
-    "ar": "طشقند"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 4220
- },
- {
-  "id": "jp-kashima-antlers",
-  "name": {
-   "en": "Kashima Antlers",
-   "ar": "كاشيما أنتلرز"
-  },
-  "shortName": {
-   "en": "Kashima",
-   "ar": "كاشيما"
-  },
-  "code": "KAS",
-  "national": false,
-  "country": "jp",
-  "countryName": {
-   "en": "Japan",
-   "ar": "اليابان"
-  },
-  "logo": "https://media.api-sports.io/football/teams/290.png",
-  "color": "#B0122B",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 290
- },
- {
-  "id": "kr-jeonbuk-hyundai-motors",
-  "name": {
-   "en": "Jeonbuk Hyundai Motors",
-   "ar": "جيونبوك هيونداي موتورز"
-  },
-  "shortName": {
-   "en": "Jeonbuk",
-   "ar": "جيونبوك"
-  },
-  "code": "JHM",
-  "national": false,
-  "country": "kr",
-  "countryName": {
-   "en": "South Korea",
-   "ar": "كوريا الجنوبية"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2762.png",
-  "color": "#00703C",
-  "venue": {
-   "name": {
-    "en": "Jeonju World Cup Stadium",
-    "ar": "ملعب جيونجو لكأس العالم"
-   },
-   "city": {
-    "en": "Jeonju",
-    "ar": "جيونجو"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2762
- },
- {
-  "id": "th-buriram-united",
-  "name": {
-   "en": "Buriram United",
-   "ar": "بوريرام يونايتد"
-  },
-  "shortName": {
-   "en": "Buriram",
-   "ar": "بوريرام"
-  },
-  "code": "BUR",
-  "national": false,
-  "country": "th",
-  "countryName": {
-   "en": "Thailand",
-   "ar": "تايلاند"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2780.png",
-  "color": "#1C3F94",
-  "venue": {
-   "name": {
-    "en": "Chang Arena",
-    "ar": "تشانغ أرينا"
-   },
-   "city": {
-    "en": "Buriram",
-    "ar": "بوريرام"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2780
- },
- {
-  "id": "cn-shanghai-port",
-  "name": {
-   "en": "Shanghai Port",
-   "ar": "شنغهاي بورت"
-  },
-  "shortName": {
-   "en": "Shanghai Port",
-   "ar": "شنغهاي بورت"
-  },
-  "code": "SHP",
-  "national": false,
-  "country": "cn",
-  "countryName": {
-   "en": "China",
-   "ar": "الصين"
-  },
-  "logo": "https://media.api-sports.io/football/teams/836.png",
-  "color": "#D7141A",
-  "venue": {
-   "name": {
-    "en": "Pudong Football Stadium",
-    "ar": "ملعب بودونغ"
-   },
-   "city": {
-    "en": "Shanghai",
-    "ar": "شنغهاي"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 836
- },
- {
-  "id": "au-newcastle-jets",
-  "name": {
-   "en": "Newcastle Jets",
-   "ar": "نيوكاسل جيتس"
-  },
-  "shortName": {
-   "en": "Newcastle Jets",
-   "ar": "نيوكاسل جيتس"
-  },
-  "code": "NWJ",
-  "national": false,
-  "country": "au",
-  "countryName": {
-   "en": "Australia",
-   "ar": "أستراليا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/946.png",
-  "color": "#FDB913",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 946
- },
- {
-  "id": "my-johor-darul-ta-zim",
-  "name": {
-   "en": "Johor Darul Ta'zim",
-   "ar": "جوهور دار التعظيم"
-  },
-  "shortName": {
-   "en": "JDT",
-   "ar": "جوهور"
-  },
-  "code": "JDT",
-  "national": false,
-  "country": "my",
-  "countryName": {
-   "en": "Malaysia",
-   "ar": "ماليزيا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2523.png",
-  "color": "#009FE3",
-  "venue": {
-   "name": {
-    "en": "Sultan Ibrahim Stadium",
-    "ar": "ملعب السلطان إبراهيم"
-   },
-   "city": {
-    "en": "Iskandar Puteri",
-    "ar": "إسكندر بوتري"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 2523
- },
- {
-  "id": "jp-vissel-kobe",
-  "name": {
-   "en": "Vissel Kobe",
-   "ar": "فيسيل كوبي"
-  },
-  "shortName": {
-   "en": "Vissel Kobe",
-   "ar": "فيسيل كوبي"
-  },
-  "code": "KOB",
-  "national": false,
-  "country": "jp",
-  "countryName": {
-   "en": "Japan",
-   "ar": "اليابان"
-  },
-  "logo": "https://media.api-sports.io/football/teams/289.png",
-  "color": "#8B0A1E",
-  "venue": {
-   "name": {
-    "en": "Noevir Stadium Kobe",
-    "ar": "ملعب نويفير كوبي"
-   },
-   "city": {
-    "en": "Kobe",
-    "ar": "كوبي"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 289
- },
- {
-  "id": "kr-daejeon-hana-citizen",
-  "name": {
-   "en": "Daejeon Hana Citizen",
-   "ar": "دايجيون هانا سيتيزن"
-  },
-  "shortName": {
-   "en": "Daejeon",
-   "ar": "دايجيون"
-  },
-  "code": "DAE",
-  "national": false,
-  "country": "kr",
-  "countryName": {
-   "en": "South Korea",
-   "ar": "كوريا الجنوبية"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2750.png",
-  "color": "#5E2B7E",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 2750
- },
- {
-  "id": "th-port-fc",
-  "name": {
-   "en": "Port FC",
-   "ar": "بورت"
-  },
-  "shortName": {
-   "en": "Port FC",
-   "ar": "بورت"
-  },
-  "code": "PRT",
-  "national": false,
-  "country": "th",
-  "countryName": {
-   "en": "Thailand",
-   "ar": "تايلاند"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2789.png",
-  "color": "#F47920",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 2789
- },
- {
-  "id": "cn-beijing-guoan",
-  "name": {
-   "en": "Beijing Guoan",
-   "ar": "بكين غوان"
-  },
-  "shortName": {
-   "en": "Beijing Guoan",
-   "ar": "بكين غوان"
-  },
-  "code": "BJG",
-  "national": false,
-  "country": "cn",
-  "countryName": {
-   "en": "China",
-   "ar": "الصين"
-  },
-  "logo": "https://media.api-sports.io/football/teams/830.png",
-  "color": "#00873E",
-  "venue": {
-   "name": {
-    "en": "Workers' Stadium",
-    "ar": "ملعب العمال"
-   },
-   "city": {
-    "en": "Beijing",
-    "ar": "بكين"
-   }
-  },
-  "aliases": [
-   "Beijing FC (name used by the AFC)",
-   "بكين",
-   "جوان بكين"
-  ],
-  "apiFootballId": 830
- },
- {
-  "id": "jp-kashiwa-reysol",
-  "name": {
-   "en": "Kashiwa Reysol",
-   "ar": "كاشيوا ريسول"
-  },
-  "shortName": {
-   "en": "Kashiwa",
-   "ar": "كاشيوا"
-  },
-  "code": "KSW",
-  "national": false,
-  "country": "jp",
-  "countryName": {
-   "en": "Japan",
-   "ar": "اليابان"
-  },
-  "logo": "https://media.api-sports.io/football/teams/281.png",
-  "color": "#FFD200",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 281
- },
- {
-  "id": "kr-pohang-steelers",
-  "name": {
-   "en": "Pohang Steelers",
-   "ar": "بوهانغ ستيلرز"
-  },
-  "shortName": {
-   "en": "Pohang",
-   "ar": "بوهانغ"
-  },
-  "code": "POH",
-  "national": false,
-  "country": "kr",
-  "countryName": {
-   "en": "South Korea",
-   "ar": "كوريا الجنوبية"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2764.png",
-  "color": "#D2001E",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 2764
- },
- {
-  "id": "th-ratchaburi",
-  "name": {
-   "en": "Ratchaburi",
-   "ar": "راتشابوري"
-  },
-  "shortName": {
-   "en": "Ratchaburi",
-   "ar": "راتشابوري"
-  },
-  "code": "RAT",
-  "national": false,
-  "country": "th",
-  "countryName": {
-   "en": "Thailand",
-   "ar": "تايلاند"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2776.png",
-  "color": "#1D5FAD",
-  "venue": null,
-  "aliases": [
-   "Ratchaburi FC"
-  ],
-  "apiFootballId": 2776
- },
- {
-  "id": "jp-kyoto-sanga",
-  "name": {
-   "en": "Kyoto Sanga",
-   "ar": "كيوتو سانجا"
-  },
-  "shortName": {
-   "en": "Kyoto",
-   "ar": "كيوتو"
-  },
-  "code": "KYO",
-  "national": false,
-  "country": "jp",
-  "countryName": {
-   "en": "Japan",
-   "ar": "اليابان"
-  },
-  "logo": "https://media.api-sports.io/football/teams/302.png",
-  "color": "#5B2C83",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 302
- },
- {
-  "id": "jp-gamba-osaka",
-  "name": {
-   "en": "Gamba Osaka",
-   "ar": "غامبا أوساكا"
-  },
-  "shortName": {
-   "en": "Gamba Osaka",
-   "ar": "غامبا أوساكا"
-  },
-  "code": "GAM",
-  "national": false,
-  "country": "jp",
-  "countryName": {
-   "en": "Japan",
-   "ar": "اليابان"
-  },
-  "logo": "https://media.api-sports.io/football/teams/293.png",
-  "color": "#0055A4",
-  "venue": {
-   "name": {
-    "en": "Panasonic Stadium Suita",
-    "ar": "ملعب باناسونيك سويتا"
-   },
-   "city": {
-    "en": "Suita",
-    "ar": "سويتا"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 293
- },
- {
-  "id": "vn-cong-an-ha-noi",
-  "name": {
-   "en": "Cong An Ha Noi",
-   "ar": "كونغ آن هانوي"
-  },
-  "shortName": {
-   "en": "Cong An Ha Noi",
-   "ar": "كونغ آن هانوي"
-  },
-  "code": "CAH",
-  "national": false,
-  "country": "vn",
-  "countryName": {
-   "en": "Vietnam",
-   "ar": "فيتنام"
-  },
-  "logo": null,
-  "color": "#C8102E",
-  "venue": null,
-  "aliases": [
-   "Công An Hà Nội",
-   "Hanoi Police"
-  ],
-  "apiFootballId": null
- },
- {
-  "id": "uz-nasaf",
-  "name": {
-   "en": "Nasaf",
-   "ar": "ناساف"
-  },
-  "shortName": {
-   "en": "Nasaf",
-   "ar": "ناساف"
-  },
-  "code": "NSF",
-  "national": false,
-  "country": "uz",
-  "countryName": {
-   "en": "Uzbekistan",
-   "ar": "أوزبكستان"
-  },
-  "logo": null,
-  "color": "#00539F",
-  "venue": null,
-  "aliases": [
-   "PFC Nasaf",
-   "Nasaf Qarshi"
-  ],
-  "apiFootballId": null
- },
- {
-  "id": "kw-kuwait-sc",
-  "name": {
-   "en": "Kuwait SC",
-   "ar": "الكويت"
-  },
-  "shortName": {
-   "en": "Kuwait SC",
-   "ar": "الكويت"
-  },
-  "code": "KSC",
-  "national": false,
-  "country": "kw",
-  "countryName": {
-   "en": "Kuwait",
-   "ar": "الكويت"
-  },
-  "logo": null,
-  "color": "#1F3A93",
-  "venue": null,
-  "aliases": [
-   "Al Kuwait",
-   "نادي الكويت"
-  ],
-  "apiFootballId": null
- },
- {
-  "id": "bh-al-khaldiya",
-  "name": {
-   "en": "Al Khaldiya",
-   "ar": "الخالدية"
-  },
-  "shortName": {
-   "en": "Al Khaldiya",
-   "ar": "الخالدية"
-  },
-  "code": "KHA",
-  "national": false,
-  "country": "bh",
-  "countryName": {
-   "en": "Bahrain",
-   "ar": "البحرين"
-  },
-  "logo": null,
-  "color": "#1E3A5F",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": null
- },
- {
   "id": "ir-gol-gohar-sirjan",
   "name": {
    "en": "Gol Gohar Sirjan",
@@ -4433,107 +3238,219 @@
   "apiFootballId": 2714
  },
  {
-  "id": "bh-al-muharraq",
+  "id": "ir-tractor",
   "name": {
-   "en": "Al Muharraq",
-   "ar": "المحرق"
+   "en": "Tractor",
+   "ar": "تراكتور"
   },
   "shortName": {
-   "en": "Al Muharraq",
-   "ar": "المحرق"
+   "en": "Tractor",
+   "ar": "تراكتور"
   },
-  "code": "MUH",
+  "code": "TRA",
   "national": false,
-  "country": "bh",
+  "country": "ir",
   "countryName": {
-   "en": "Bahrain",
-   "ar": "البحرين"
+   "en": "Iran",
+   "ar": "إيران"
   },
-  "logo": null,
-  "color": "#D50032",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": null
- },
- {
-  "id": "tm-arkadag",
-  "name": {
-   "en": "Arkadag",
-   "ar": "أركاداغ"
-  },
-  "shortName": {
-   "en": "Arkadag",
-   "ar": "أركاداغ"
-  },
-  "code": "ARK",
-  "national": false,
-  "country": "tm",
-  "countryName": {
-   "en": "Turkmenistan",
-   "ar": "تركمانستان"
-  },
-  "logo": null,
-  "color": "#0072CE",
-  "venue": null,
-  "aliases": [
-   "FC Arkadag"
-  ],
-  "apiFootballId": null
- },
- {
-  "id": "sa-al-taawoun",
-  "name": {
-   "en": "Al Taawoun",
-   "ar": "التعاون"
-  },
-  "shortName": {
-   "en": "Al Taawoun",
-   "ar": "التعاون"
-  },
-  "code": "TAA",
-  "national": false,
-  "country": "sa",
-  "countryName": {
-   "en": "Saudi Arabia",
-   "ar": "السعودية"
-  },
-  "logo": null,
-  "color": "#F9C80E",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": null
- },
- {
-  "id": "qa-al-rayyan",
-  "name": {
-   "en": "Al Rayyan",
-   "ar": "الريان"
-  },
-  "shortName": {
-   "en": "Al Rayyan",
-   "ar": "الريان"
-  },
-  "code": "RYN",
-  "national": false,
-  "country": "qa",
-  "countryName": {
-   "en": "Qatar",
-   "ar": "قطر"
-  },
-  "logo": "https://media.api-sports.io/football/teams/2897.png",
+  "logo": "https://media.api-sports.io/football/teams/2737.png",
   "color": "#E30613",
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 2737
+ },
+ {
+  "id": "it-atalanta",
+  "name": {
+   "en": "Atalanta",
+   "ar": "أتالانتا"
+  },
+  "shortName": {
+   "en": "Atalanta",
+   "ar": "أتالانتا"
+  },
+  "code": "ATA",
+  "national": false,
+  "country": "it",
+  "countryName": {
+   "en": "Italy",
+   "ar": "إيطاليا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/499.png",
+  "color": "#1E71B8",
   "venue": {
    "name": {
-    "en": "Ahmad bin Ali Stadium",
-    "ar": "استاد أحمد بن علي"
+    "en": "Gewiss Stadium",
+    "ar": "ملعب جيويس"
    },
    "city": {
-    "en": "Al Rayyan",
-    "ar": "الريان"
+    "en": "Bergamo",
+    "ar": "بيرغامو"
    }
   },
   "aliases": [],
-  "apiFootballId": 2897
+  "apiFootballId": 499
+ },
+ {
+  "id": "it-como",
+  "name": {
+   "en": "Como",
+   "ar": "كومو"
+  },
+  "shortName": {
+   "en": "Como",
+   "ar": "كومو"
+  },
+  "code": "COM",
+  "national": false,
+  "country": "it",
+  "countryName": {
+   "en": "Italy",
+   "ar": "إيطاليا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/895.png",
+  "color": "#0B4EA2",
+  "venue": {
+   "name": {
+    "en": "Stadio Giuseppe Sinigaglia",
+    "ar": "ملعب جوزيبي سينيغاليا"
+   },
+   "city": {
+    "en": "Como",
+    "ar": "كومو"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 895
+ },
+ {
+  "id": "it-inter-milan",
+  "name": {
+   "en": "Inter Milan",
+   "ar": "إنتر ميلان"
+  },
+  "shortName": {
+   "en": "Inter",
+   "ar": "إنتر"
+  },
+  "code": "INT",
+  "national": false,
+  "country": "it",
+  "countryName": {
+   "en": "Italy",
+   "ar": "إيطاليا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/505.png",
+  "color": "#0068A8",
+  "venue": {
+   "name": {
+    "en": "San Siro",
+    "ar": "سان سيرو"
+   },
+   "city": {
+    "en": "Milan",
+    "ar": "ميلانو"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 505
+ },
+ {
+  "id": "it-juventus",
+  "name": {
+   "en": "Juventus",
+   "ar": "يوفنتوس"
+  },
+  "shortName": {
+   "en": "Juventus",
+   "ar": "يوفنتوس"
+  },
+  "code": "JUV",
+  "national": false,
+  "country": "it",
+  "countryName": {
+   "en": "Italy",
+   "ar": "إيطاليا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/496.png",
+  "color": "#111111",
+  "venue": {
+   "name": {
+    "en": "Allianz Stadium",
+    "ar": "ملعب أليانز"
+   },
+   "city": {
+    "en": "Turin",
+    "ar": "تورينو"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 496
+ },
+ {
+  "id": "it-napoli",
+  "name": {
+   "en": "Napoli",
+   "ar": "نابولي"
+  },
+  "shortName": {
+   "en": "Napoli",
+   "ar": "نابولي"
+  },
+  "code": "NAP",
+  "national": false,
+  "country": "it",
+  "countryName": {
+   "en": "Italy",
+   "ar": "إيطاليا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/492.png",
+  "color": "#12A0D7",
+  "venue": {
+   "name": {
+    "en": "Stadio Diego Armando Maradona",
+    "ar": "ملعب دييغو أرماندو مارادونا"
+   },
+   "city": {
+    "en": "Naples",
+    "ar": "نابولي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 492
+ },
+ {
+  "id": "it-roma",
+  "name": {
+   "en": "Roma",
+   "ar": "روما"
+  },
+  "shortName": {
+   "en": "Roma",
+   "ar": "روما"
+  },
+  "code": "ROM",
+  "national": false,
+  "country": "it",
+  "countryName": {
+   "en": "Italy",
+   "ar": "إيطاليا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/497.png",
+  "color": "#8E1F2F",
+  "venue": {
+   "name": {
+    "en": "Stadio Olimpico",
+    "ar": "الملعب الأولمبي"
+   },
+   "city": {
+    "en": "Rome",
+    "ar": "روما"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 497
  },
  {
   "id": "jo-al-faisaly",
@@ -4568,29 +3485,6 @@
   "apiFootballId": null
  },
  {
-  "id": "om-al-nahda",
-  "name": {
-   "en": "Al Nahda",
-   "ar": "النهضة"
-  },
-  "shortName": {
-   "en": "Al Nahda",
-   "ar": "النهضة"
-  },
-  "code": "NAH",
-  "national": false,
-  "country": "om",
-  "countryName": {
-   "en": "Oman",
-   "ar": "عُمان"
-  },
-  "logo": null,
-  "color": "#00843D",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": null
- },
- {
   "id": "jo-al-hussein",
   "name": {
    "en": "Al Hussein",
@@ -4609,7 +3503,16 @@
   },
   "logo": "https://media.api-sports.io/football/teams/4532.png",
   "color": "#007A33",
-  "venue": null,
+  "venue": {
+   "name": {
+    "en": "Amman International Stadium",
+    "ar": "ستاد عمّان الدولي"
+   },
+   "city": {
+    "en": "Amman",
+    "ar": "عمّان"
+   }
+  },
   "aliases": [
    "Al Hussein Irbid",
    "الحسين"
@@ -4617,73 +3520,297 @@
   "apiFootballId": 4532
  },
  {
-  "id": "iq-al-shorta",
+  "id": "jp-gamba-osaka",
   "name": {
-   "en": "Al Shorta",
-   "ar": "الشرطة"
+   "en": "Gamba Osaka",
+   "ar": "غامبا أوساكا"
   },
   "shortName": {
-   "en": "Al Shorta",
-   "ar": "الشرطة"
+   "en": "Gamba Osaka",
+   "ar": "غامبا أوساكا"
   },
-  "code": "SHO",
+  "code": "GAM",
   "national": false,
-  "country": "iq",
+  "country": "jp",
   "countryName": {
-   "en": "Iraq",
-   "ar": "العراق"
+   "en": "Japan",
+   "ar": "اليابان"
   },
-  "logo": null,
-  "color": "#006B3F",
-  "venue": null,
+  "logo": "https://media.api-sports.io/football/teams/293.png",
+  "color": "#0055A4",
+  "venue": {
+   "name": {
+    "en": "Panasonic Stadium Suita",
+    "ar": "ملعب باناسونيك سويتا"
+   },
+   "city": {
+    "en": "Suita",
+    "ar": "سويتا"
+   }
+  },
   "aliases": [],
-  "apiFootballId": null
+  "apiFootballId": 293
  },
  {
-  "id": "om-al-seeb",
+  "id": "jp-kashima-antlers",
   "name": {
-   "en": "Al Seeb",
-   "ar": "السيب"
+   "en": "Kashima Antlers",
+   "ar": "كاشيما أنتلرز"
   },
   "shortName": {
-   "en": "Al Seeb",
-   "ar": "السيب"
+   "en": "Kashima",
+   "ar": "كاشيما"
   },
-  "code": "SEE",
+  "code": "KAS",
   "national": false,
-  "country": "om",
+  "country": "jp",
   "countryName": {
-   "en": "Oman",
-   "ar": "عُمان"
+   "en": "Japan",
+   "ar": "اليابان"
   },
-  "logo": null,
-  "color": "#1E5AA8",
-  "venue": null,
+  "logo": "https://media.api-sports.io/football/teams/290.png",
+  "color": "#B0122B",
+  "venue": {
+   "name": {
+    "en": "Kashima Soccer Stadium",
+    "ar": "ملعب كاشيما لكرة القدم"
+   },
+   "city": {
+    "en": "Kashima",
+    "ar": "كاشيما"
+   }
+  },
   "aliases": [],
-  "apiFootballId": null
+  "apiFootballId": 290
  },
  {
-  "id": "in-east-bengal",
+  "id": "jp-kashiwa-reysol",
   "name": {
-   "en": "East Bengal",
-   "ar": "إيست بنغال"
+   "en": "Kashiwa Reysol",
+   "ar": "كاشيوا ريسول"
   },
   "shortName": {
-   "en": "East Bengal",
-   "ar": "إيست بنغال"
+   "en": "Kashiwa",
+   "ar": "كاشيوا"
   },
-  "code": "EBG",
+  "code": "KSW",
   "national": false,
-  "country": "in",
+  "country": "jp",
   "countryName": {
-   "en": "India",
-   "ar": "الهند"
+   "en": "Japan",
+   "ar": "اليابان"
   },
-  "logo": "https://media.api-sports.io/football/teams/3463.png",
+  "logo": "https://media.api-sports.io/football/teams/281.png",
+  "color": "#FFD200",
+  "venue": {
+   "name": {
+    "en": "Kashiwa Soccer Stadium",
+    "ar": "ملعب كاشيوا لكرة القدم"
+   },
+   "city": {
+    "en": "Kashiwa",
+    "ar": "كاشيوا"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 281
+ },
+ {
+  "id": "jp-kyoto-sanga",
+  "name": {
+   "en": "Kyoto Sanga",
+   "ar": "كيوتو سانجا"
+  },
+  "shortName": {
+   "en": "Kyoto",
+   "ar": "كيوتو"
+  },
+  "code": "KYO",
+  "national": false,
+  "country": "jp",
+  "countryName": {
+   "en": "Japan",
+   "ar": "اليابان"
+  },
+  "logo": "https://media.api-sports.io/football/teams/302.png",
+  "color": "#5B2C83",
+  "venue": {
+   "name": {
+    "en": "Kyoto Stadium",
+    "ar": "ملعب كيوتو"
+   },
+   "city": {
+    "en": "Kameoka",
+    "ar": "كاميوكا"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 302
+ },
+ {
+  "id": "jp-machida-zelvia",
+  "name": {
+   "en": "Machida Zelvia",
+   "ar": "ماتشيدا زيلفيا"
+  },
+  "shortName": {
+   "en": "Machida",
+   "ar": "ماتشيدا"
+  },
+  "code": "MAC",
+  "national": false,
+  "country": "jp",
+  "countryName": {
+   "en": "Japan",
+   "ar": "اليابان"
+  },
+  "logo": "https://media.api-sports.io/football/teams/303.png",
+  "color": "#0046AD",
+  "venue": {
+   "name": {
+    "en": "Machida Gion Stadium",
+    "ar": "ملعب ماتشيدا غيون"
+   },
+   "city": {
+    "en": "Machida",
+    "ar": "ماتشيدا"
+   }
+  },
+  "aliases": [
+   "FC Machida Zelvia"
+  ],
+  "apiFootballId": 303
+ },
+ {
+  "id": "jp-vissel-kobe",
+  "name": {
+   "en": "Vissel Kobe",
+   "ar": "فيسيل كوبي"
+  },
+  "shortName": {
+   "en": "Vissel Kobe",
+   "ar": "فيسيل كوبي"
+  },
+  "code": "KOB",
+  "national": false,
+  "country": "jp",
+  "countryName": {
+   "en": "Japan",
+   "ar": "اليابان"
+  },
+  "logo": "https://media.api-sports.io/football/teams/289.png",
+  "color": "#8B0A1E",
+  "venue": {
+   "name": {
+    "en": "Noevir Stadium Kobe",
+    "ar": "ملعب نويفير كوبي"
+   },
+   "city": {
+    "en": "Kobe",
+    "ar": "كوبي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 289
+ },
+ {
+  "id": "kh-phnom-penh-crown",
+  "name": {
+   "en": "Phnom Penh Crown",
+   "ar": "فنوم بينه كراون"
+  },
+  "shortName": {
+   "en": "PP Crown",
+   "ar": "فنوم بينه"
+  },
+  "code": "PPC",
+  "national": false,
+  "country": "kh",
+  "countryName": {
+   "en": "Cambodia",
+   "ar": "كمبوديا"
+  },
+  "logo": null,
   "color": "#C8102E",
-  "venue": null,
+  "venue": {
+   "name": {
+    "en": "Morodok Techo National Stadium",
+    "ar": "ملعب مورودوك تيكو الوطني"
+   },
+   "city": {
+    "en": "Phnom Penh",
+    "ar": "فنوم بينه"
+   }
+  },
   "aliases": [],
-  "apiFootballId": 3463
+  "apiFootballId": null
+ },
+ {
+  "id": "kh-pkr-svay-rieng",
+  "name": {
+   "en": "PKR Svay Rieng",
+   "ar": "برياه خان ريتش سفاي رينغ"
+  },
+  "shortName": {
+   "en": "Svay Rieng",
+   "ar": "سفاي رينغ"
+  },
+  "code": "PKR",
+  "national": false,
+  "country": "kh",
+  "countryName": {
+   "en": "Cambodia",
+   "ar": "كمبوديا"
+  },
+  "logo": null,
+  "color": "#003087",
+  "venue": {
+   "name": {
+    "en": "Morodok Techo National Stadium",
+    "ar": "ملعب مورودوك تيكو الوطني"
+   },
+   "city": {
+    "en": "Phnom Penh",
+    "ar": "فنوم بينه"
+   }
+  },
+  "aliases": [
+   "Preah Khan Reach Svay Rieng",
+   "سفاي رينغ"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "kr-daejeon-hana-citizen",
+  "name": {
+   "en": "Daejeon Hana Citizen",
+   "ar": "دايجيون هانا سيتيزن"
+  },
+  "shortName": {
+   "en": "Daejeon",
+   "ar": "دايجيون"
+  },
+  "code": "DAE",
+  "national": false,
+  "country": "kr",
+  "countryName": {
+   "en": "South Korea",
+   "ar": "كوريا الجنوبية"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2750.png",
+  "color": "#5E2B7E",
+  "venue": {
+   "name": {
+    "en": "Daejeon World Cup Stadium",
+    "ar": "ملعب دايجيون لكأس العالم"
+   },
+   "city": {
+    "en": "Daejeon",
+    "ar": "دايجيون"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2750
  },
  {
   "id": "kr-fc-seoul",
@@ -4720,286 +3847,6 @@
   "apiFootballId": 2766
  },
  {
-  "id": "au-melbourne-victory",
-  "name": {
-   "en": "Melbourne Victory",
-   "ar": "ملبورن فيكتوري"
-  },
-  "shortName": {
-   "en": "Melbourne V.",
-   "ar": "ملبورن فيكتوري"
-  },
-  "code": "MVC",
-  "national": false,
-  "country": "au",
-  "countryName": {
-   "en": "Australia",
-   "ar": "أستراليا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/944.png",
-  "color": "#00205B",
-  "venue": {
-   "name": {
-    "en": "AAMI Park",
-    "ar": "ملعب AAMI بارك"
-   },
-   "city": {
-    "en": "Melbourne",
-    "ar": "ملبورن"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 944
- },
- {
-  "id": "vn-the-cong-viettel",
-  "name": {
-   "en": "The Cong-Viettel",
-   "ar": "ذا كونغ-فيتيل"
-  },
-  "shortName": {
-   "en": "Viettel",
-   "ar": "فيتيل"
-  },
-  "code": "TCV",
-  "national": false,
-  "country": "vn",
-  "countryName": {
-   "en": "Vietnam",
-   "ar": "فيتنام"
-  },
-  "logo": null,
-  "color": "#E4002B",
-  "venue": null,
-  "aliases": [
-   "Thể Công-Viettel"
-  ],
-  "apiFootballId": null
- },
- {
-  "id": "id-persib-bandung",
-  "name": {
-   "en": "Persib Bandung",
-   "ar": "بيرسيب باندونغ"
-  },
-  "shortName": {
-   "en": "Persib",
-   "ar": "بيرسيب"
-  },
-  "code": "PSB",
-  "national": false,
-  "country": "id",
-  "countryName": {
-   "en": "Indonesia",
-   "ar": "إندونيسيا"
-  },
-  "logo": null,
-  "color": "#0047AB",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": null
- },
- {
-  "id": "au-adelaide-united",
-  "name": {
-   "en": "Adelaide United",
-   "ar": "أديلايد يونايتد"
-  },
-  "shortName": {
-   "en": "Adelaide",
-   "ar": "أديلايد"
-  },
-  "code": "ADL",
-  "national": false,
-  "country": "au",
-  "countryName": {
-   "en": "Australia",
-   "ar": "أستراليا"
-  },
-  "logo": "https://media.api-sports.io/football/teams/948.png",
-  "color": "#E2231A",
-  "venue": {
-   "name": {
-    "en": "Coopers Stadium",
-    "ar": "ملعب كوبرز"
-   },
-   "city": {
-    "en": "Adelaide",
-    "ar": "أديلايد"
-   }
-  },
-  "aliases": [],
-  "apiFootballId": 948
- },
- {
-  "id": "th-bg-pathum-united",
-  "name": {
-   "en": "BG Pathum United",
-   "ar": "بي جي باثوم يونايتد"
-  },
-  "shortName": {
-   "en": "BG Pathum",
-   "ar": "بي جي باثوم"
-  },
-  "code": "BGP",
-  "national": false,
-  "country": "th",
-  "countryName": {
-   "en": "Thailand",
-   "ar": "تايلاند"
-  },
-  "logo": null,
-  "color": "#1E2B64",
-  "venue": null,
-  "aliases": [
-   "باثوم يونايتد"
-  ],
-  "apiFootballId": null
- },
- {
-  "id": "sg-lion-city-sailors",
-  "name": {
-   "en": "Lion City Sailors",
-   "ar": "ليون سيتي سايلرز"
-  },
-  "shortName": {
-   "en": "Lion City",
-   "ar": "ليون سيتي"
-  },
-  "code": "LCS",
-  "national": false,
-  "country": "sg",
-  "countryName": {
-   "en": "Singapore",
-   "ar": "سنغافورة"
-  },
-  "logo": null,
-  "color": "#003DA5",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": null
- },
- {
-  "id": "hk-tai-po",
-  "name": {
-   "en": "Tai Po",
-   "ar": "تاي بو"
-  },
-  "shortName": {
-   "en": "Tai Po",
-   "ar": "تاي بو"
-  },
-  "code": "TPO",
-  "national": false,
-  "country": "hk",
-  "countryName": {
-   "en": "Hong Kong",
-   "ar": "هونغ كونغ"
-  },
-  "logo": null,
-  "color": "#00A651",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": null
- },
- {
-  "id": "jp-machida-zelvia",
-  "name": {
-   "en": "Machida Zelvia",
-   "ar": "ماتشيدا زيلفيا"
-  },
-  "shortName": {
-   "en": "Machida",
-   "ar": "ماتشيدا"
-  },
-  "code": "MAC",
-  "national": false,
-  "country": "jp",
-  "countryName": {
-   "en": "Japan",
-   "ar": "اليابان"
-  },
-  "logo": "https://media.api-sports.io/football/teams/303.png",
-  "color": "#0046AD",
-  "venue": null,
-  "aliases": [
-   "FC Machida Zelvia"
-  ],
-  "apiFootballId": 303
- },
- {
-  "id": "cn-shanghai-shenhua",
-  "name": {
-   "en": "Shanghai Shenhua",
-   "ar": "شنغهاي شينهوا"
-  },
-  "shortName": {
-   "en": "Shanghai Shenhua",
-   "ar": "شنغهاي شينهوا"
-  },
-  "code": "SHS",
-  "national": false,
-  "country": "cn",
-  "countryName": {
-   "en": "China",
-   "ar": "الصين"
-  },
-  "logo": "https://media.api-sports.io/football/teams/833.png",
-  "color": "#0033A0",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 833
- },
- {
-  "id": "kh-pkr-svay-rieng",
-  "name": {
-   "en": "PKR Svay Rieng",
-   "ar": "برياه خان ريتش سفاي رينغ"
-  },
-  "shortName": {
-   "en": "Svay Rieng",
-   "ar": "سفاي رينغ"
-  },
-  "code": "PKR",
-  "national": false,
-  "country": "kh",
-  "countryName": {
-   "en": "Cambodia",
-   "ar": "كمبوديا"
-  },
-  "logo": null,
-  "color": "#003087",
-  "venue": null,
-  "aliases": [
-   "Preah Khan Reach Svay Rieng",
-   "سفاي رينغ"
-  ],
-  "apiFootballId": null
- },
- {
-  "id": "sg-tampines-rovers",
-  "name": {
-   "en": "Tampines Rovers",
-   "ar": "تامبنيز روفرز"
-  },
-  "shortName": {
-   "en": "Tampines",
-   "ar": "تامبنيز"
-  },
-  "code": "TAM",
-  "national": false,
-  "country": "sg",
-  "countryName": {
-   "en": "Singapore",
-   "ar": "سنغافورة"
-  },
-  "logo": null,
-  "color": "#FFD100",
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": null
- },
- {
   "id": "kr-gangwon-fc",
   "name": {
    "en": "Gangwon FC",
@@ -5018,9 +3865,236 @@
   },
   "logo": "https://media.api-sports.io/football/teams/2746.png",
   "color": "#F37021",
-  "venue": null,
+  "venue": {
+   "name": {
+    "en": "Gangneung Stadium",
+    "ar": "ملعب غانغنيونغ"
+   },
+   "city": {
+    "en": "Gangneung",
+    "ar": "غانغنيونغ"
+   }
+  },
   "aliases": [],
   "apiFootballId": 2746
+ },
+ {
+  "id": "kr-jeonbuk-hyundai-motors",
+  "name": {
+   "en": "Jeonbuk Hyundai Motors",
+   "ar": "جيونبوك هيونداي موتورز"
+  },
+  "shortName": {
+   "en": "Jeonbuk",
+   "ar": "جيونبوك"
+  },
+  "code": "JHM",
+  "national": false,
+  "country": "kr",
+  "countryName": {
+   "en": "South Korea",
+   "ar": "كوريا الجنوبية"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2762.png",
+  "color": "#00703C",
+  "venue": {
+   "name": {
+    "en": "Jeonju World Cup Stadium",
+    "ar": "ملعب جيونجو لكأس العالم"
+   },
+   "city": {
+    "en": "Jeonju",
+    "ar": "جيونجو"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2762
+ },
+ {
+  "id": "kr-pohang-steelers",
+  "name": {
+   "en": "Pohang Steelers",
+   "ar": "بوهانغ ستيلرز"
+  },
+  "shortName": {
+   "en": "Pohang",
+   "ar": "بوهانغ"
+  },
+  "code": "POH",
+  "national": false,
+  "country": "kr",
+  "countryName": {
+   "en": "South Korea",
+   "ar": "كوريا الجنوبية"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2764.png",
+  "color": "#D2001E",
+  "venue": {
+   "name": {
+    "en": "Steelyard Stadium",
+    "ar": "ملعب ستيليارد"
+   },
+   "city": {
+    "en": "Pohang",
+    "ar": "بوهانغ"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2764
+ },
+ {
+  "id": "kw-kazma",
+  "name": {
+   "en": "Kazma",
+   "ar": "كاظمة"
+  },
+  "shortName": {
+   "en": "Kazma",
+   "ar": "كاظمة"
+  },
+  "code": "KAZ",
+  "national": false,
+  "country": "kw",
+  "countryName": {
+   "en": "Kuwait",
+   "ar": "الكويت"
+  },
+  "logo": null,
+  "color": "#F58220",
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "kw-kuwait-sc",
+  "name": {
+   "en": "Kuwait SC",
+   "ar": "الكويت"
+  },
+  "shortName": {
+   "en": "Kuwait SC",
+   "ar": "الكويت"
+  },
+  "code": "KSC",
+  "national": false,
+  "country": "kw",
+  "countryName": {
+   "en": "Kuwait",
+   "ar": "الكويت"
+  },
+  "logo": null,
+  "color": "#1F3A93",
+  "venue": {
+   "name": {
+    "en": "Jaber Al-Mubarak Al-Sabah Stadium",
+    "ar": "ستاد جابر المبارك الصباح"
+   },
+   "city": {
+    "en": "Kuwait City",
+    "ar": "مدينة الكويت"
+   }
+  },
+  "aliases": [
+   "Al Kuwait",
+   "نادي الكويت"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "kz-kairat-almaty",
+  "name": {
+   "en": "Kairat Almaty",
+   "ar": "كايرات ألماتي"
+  },
+  "shortName": {
+   "en": "Kairat",
+   "ar": "كايرات"
+  },
+  "code": "KAI",
+  "national": false,
+  "country": "kz",
+  "countryName": {
+   "en": "Kazakhstan",
+   "ar": "كازاخستان"
+  },
+  "logo": "https://media.api-sports.io/football/teams/664.png",
+  "color": "#F9C80E",
+  "venue": {
+   "name": {
+    "en": "Central Stadium",
+    "ar": "الملعب المركزي"
+   },
+   "city": {
+    "en": "Almaty",
+    "ar": "ألماتي"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 664
+ },
+ {
+  "id": "mc-monaco",
+  "name": {
+   "en": "Monaco",
+   "ar": "موناكو"
+  },
+  "shortName": {
+   "en": "Monaco",
+   "ar": "موناكو"
+  },
+  "code": "ASM",
+  "national": false,
+  "country": "mc",
+  "countryName": {
+   "en": "Monaco",
+   "ar": "موناكو"
+  },
+  "logo": "https://media.api-sports.io/football/teams/91.png",
+  "color": "#E51B22",
+  "venue": {
+   "name": {
+    "en": "Stade Louis II",
+    "ar": "ملعب لويس الثاني"
+   },
+   "city": {
+    "en": "Monaco",
+    "ar": "موناكو"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 91
+ },
+ {
+  "id": "my-johor-darul-ta-zim",
+  "name": {
+   "en": "Johor Darul Ta'zim",
+   "ar": "جوهور دار التعظيم"
+  },
+  "shortName": {
+   "en": "JDT",
+   "ar": "جوهور"
+  },
+  "code": "JDT",
+  "national": false,
+  "country": "my",
+  "countryName": {
+   "en": "Malaysia",
+   "ar": "ماليزيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2523.png",
+  "color": "#009FE3",
+  "venue": {
+   "name": {
+    "en": "Sultan Ibrahim Stadium",
+    "ar": "ملعب السلطان إبراهيم"
+   },
+   "city": {
+    "en": "Iskandar Puteri",
+    "ar": "إسكندر بوتري"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2523
  },
  {
   "id": "my-kuching-city",
@@ -5041,78 +4115,454 @@
   },
   "logo": null,
   "color": "#FFC20E",
-  "venue": null,
+  "venue": {
+   "name": {
+    "en": "Taha Ariffin Stadium",
+    "ar": "ملعب طه عارفين"
+   },
+   "city": {
+    "en": "Kuching",
+    "ar": "كوتشينغ"
+   }
+  },
   "aliases": [],
   "apiFootballId": null
  },
  {
-  "id": "hk-kitchee",
+  "id": "nl-ajax",
   "name": {
-   "en": "Kitchee",
-   "ar": "كيتشي"
+   "en": "Ajax",
+   "ar": "أياكس"
   },
   "shortName": {
-   "en": "Kitchee",
-   "ar": "كيتشي"
+   "en": "Ajax",
+   "ar": "أياكس"
   },
-  "code": "KIT",
+  "code": "AJA",
   "national": false,
-  "country": "hk",
+  "country": "nl",
   "countryName": {
-   "en": "Hong Kong",
-   "ar": "هونغ كونغ"
+   "en": "Netherlands",
+   "ar": "هولندا"
   },
-  "logo": null,
-  "color": "#0055A5",
-  "venue": null,
+  "logo": "https://media.api-sports.io/football/teams/194.png",
+  "color": "#D2122E",
+  "venue": {
+   "name": {
+    "en": "Johan Cruijff ArenA",
+    "ar": "يوهان كرويف أرينا"
+   },
+   "city": {
+    "en": "Amsterdam",
+    "ar": "أمستردام"
+   }
+  },
   "aliases": [],
-  "apiFootballId": null
+  "apiFootballId": 194
  },
  {
-  "id": "kh-phnom-penh-crown",
+  "id": "nl-feyenoord",
   "name": {
-   "en": "Phnom Penh Crown",
-   "ar": "فنوم بينه كراون"
+   "en": "Feyenoord",
+   "ar": "فاينورد"
   },
   "shortName": {
-   "en": "PP Crown",
-   "ar": "فنوم بينه"
+   "en": "Feyenoord",
+   "ar": "فاينورد"
   },
-  "code": "PPC",
+  "code": "FEY",
   "national": false,
-  "country": "kh",
+  "country": "nl",
   "countryName": {
-   "en": "Cambodia",
-   "ar": "كمبوديا"
+   "en": "Netherlands",
+   "ar": "هولندا"
   },
-  "logo": null,
-  "color": "#C8102E",
-  "venue": null,
+  "logo": "https://media.api-sports.io/football/teams/209.png",
+  "color": "#EE2E24",
+  "venue": {
+   "name": {
+    "en": "De Kuip",
+    "ar": "دي كويب"
+   },
+   "city": {
+    "en": "Rotterdam",
+    "ar": "روتردام"
+   }
+  },
   "aliases": [],
-  "apiFootballId": null
+  "apiFootballId": 209
  },
  {
-  "id": "nt-sa",
+  "id": "nl-psv-eindhoven",
   "name": {
-   "en": "Saudi Arabia",
-   "ar": "السعودية"
+   "en": "PSV Eindhoven",
+   "ar": "بي إس في آيندهوفن"
   },
   "shortName": {
-   "en": "Saudi Arabia",
-   "ar": "السعودية"
+   "en": "PSV Eindhoven",
+   "ar": "بي إس في آيندهوفن"
   },
-  "code": "KSA",
+  "code": "PSV",
+  "national": false,
+  "country": "nl",
+  "countryName": {
+   "en": "Netherlands",
+   "ar": "هولندا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/197.png",
+  "color": "#ED1C24",
+  "venue": {
+   "name": {
+    "en": "Philips Stadion",
+    "ar": "ملعب فيليبس"
+   },
+   "city": {
+    "en": "Eindhoven",
+    "ar": "آيندهوفن"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 197
+ },
+ {
+  "id": "no-bod-glimt",
+  "name": {
+   "en": "Bodø/Glimt",
+   "ar": "بودو غليمت"
+  },
+  "shortName": {
+   "en": "Bodø/Glimt",
+   "ar": "بودو غليمت"
+  },
+  "code": "BOD",
+  "national": false,
+  "country": "no",
+  "countryName": {
+   "en": "Norway",
+   "ar": "النرويج"
+  },
+  "logo": "https://media.api-sports.io/football/teams/327.png",
+  "color": "#FFE600",
+  "venue": {
+   "name": {
+    "en": "Aspmyra Stadion",
+    "ar": "ملعب أسبميرا"
+   },
+   "city": {
+    "en": "Bodø",
+    "ar": "بودو"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 327
+ },
+ {
+  "id": "no-viking",
+  "name": {
+   "en": "Viking",
+   "ar": "فايكنغ"
+  },
+  "shortName": {
+   "en": "Viking",
+   "ar": "فايكنغ"
+  },
+  "code": "VIK",
+  "national": false,
+  "country": "no",
+  "countryName": {
+   "en": "Norway",
+   "ar": "النرويج"
+  },
+  "logo": "https://media.api-sports.io/football/teams/759.png",
+  "color": "#002F6C",
+  "venue": {
+   "name": {
+    "en": "Viking Stadion",
+    "ar": "ملعب فايكنغ"
+   },
+   "city": {
+    "en": "Stavanger",
+    "ar": "ستافانغر"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 759
+ },
+ {
+  "id": "nt-ae",
+  "name": {
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
+  },
+  "shortName": {
+   "en": "UAE",
+   "ar": "الإمارات"
+  },
+  "code": "UAE",
   "national": true,
-  "country": "sa",
+  "country": "ae",
   "countryName": {
-   "en": "Saudi Arabia",
-   "ar": "السعودية"
+   "en": "United Arab Emirates",
+   "ar": "الإمارات"
   },
-  "logo": "/flags/4x3/sa.svg",
+  "logo": "/flags/4x3/ae.svg",
   "color": null,
   "venue": null,
   "aliases": [],
-  "apiFootballId": 23
+  "apiFootballId": 1563
+ },
+ {
+  "id": "nt-au",
+  "name": {
+   "en": "Australia",
+   "ar": "أستراليا"
+  },
+  "shortName": {
+   "en": "Australia",
+   "ar": "أستراليا"
+  },
+  "code": "AUS",
+  "national": true,
+  "country": "au",
+  "countryName": {
+   "en": "Australia",
+   "ar": "أستراليا"
+  },
+  "logo": "/flags/4x3/au.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 20
+ },
+ {
+  "id": "nt-bh",
+  "name": {
+   "en": "Bahrain",
+   "ar": "البحرين"
+  },
+  "shortName": {
+   "en": "Bahrain",
+   "ar": "البحرين"
+  },
+  "code": "BHR",
+  "national": true,
+  "country": "bh",
+  "countryName": {
+   "en": "Bahrain",
+   "ar": "البحرين"
+  },
+  "logo": "/flags/4x3/bh.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 1547
+ },
+ {
+  "id": "nt-cn",
+  "name": {
+   "en": "China",
+   "ar": "الصين"
+  },
+  "shortName": {
+   "en": "China",
+   "ar": "الصين"
+  },
+  "code": "CHN",
+  "national": true,
+  "country": "cn",
+  "countryName": {
+   "en": "China",
+   "ar": "الصين"
+  },
+  "logo": "/flags/4x3/cn.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 1566
+ },
+ {
+  "id": "nt-id",
+  "name": {
+   "en": "Indonesia",
+   "ar": "إندونيسيا"
+  },
+  "shortName": {
+   "en": "Indonesia",
+   "ar": "إندونيسيا"
+  },
+  "code": "IDN",
+  "national": true,
+  "country": "id",
+  "countryName": {
+   "en": "Indonesia",
+   "ar": "إندونيسيا"
+  },
+  "logo": "/flags/4x3/id.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 1571
+ },
+ {
+  "id": "nt-iq",
+  "name": {
+   "en": "Iraq",
+   "ar": "العراق"
+  },
+  "shortName": {
+   "en": "Iraq",
+   "ar": "العراق"
+  },
+  "code": "IRQ",
+  "national": true,
+  "country": "iq",
+  "countryName": {
+   "en": "Iraq",
+   "ar": "العراق"
+  },
+  "logo": "/flags/4x3/iq.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 1567
+ },
+ {
+  "id": "nt-ir",
+  "name": {
+   "en": "Iran",
+   "ar": "إيران"
+  },
+  "shortName": {
+   "en": "Iran",
+   "ar": "إيران"
+  },
+  "code": "IRN",
+  "national": true,
+  "country": "ir",
+  "countryName": {
+   "en": "Iran",
+   "ar": "إيران"
+  },
+  "logo": "/flags/4x3/ir.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 22
+ },
+ {
+  "id": "nt-jo",
+  "name": {
+   "en": "Jordan",
+   "ar": "الأردن"
+  },
+  "shortName": {
+   "en": "Jordan",
+   "ar": "الأردن"
+  },
+  "code": "JOR",
+  "national": true,
+  "country": "jo",
+  "countryName": {
+   "en": "Jordan",
+   "ar": "الأردن"
+  },
+  "logo": "/flags/4x3/jo.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 1548
+ },
+ {
+  "id": "nt-jp",
+  "name": {
+   "en": "Japan",
+   "ar": "اليابان"
+  },
+  "shortName": {
+   "en": "Japan",
+   "ar": "اليابان"
+  },
+  "code": "JPN",
+  "national": true,
+  "country": "jp",
+  "countryName": {
+   "en": "Japan",
+   "ar": "اليابان"
+  },
+  "logo": "/flags/4x3/jp.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 12
+ },
+ {
+  "id": "nt-kg",
+  "name": {
+   "en": "Kyrgyzstan",
+   "ar": "قيرغيزستان"
+  },
+  "shortName": {
+   "en": "Kyrgyzstan",
+   "ar": "قيرغيزستان"
+  },
+  "code": "KGZ",
+  "national": true,
+  "country": "kg",
+  "countryName": {
+   "en": "Kyrgyzstan",
+   "ar": "قيرغيزستان"
+  },
+  "logo": "/flags/4x3/kg.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 1554
+ },
+ {
+  "id": "nt-kp",
+  "name": {
+   "en": "North Korea",
+   "ar": "كوريا الشمالية"
+  },
+  "shortName": {
+   "en": "North Korea",
+   "ar": "كوريا الشمالية"
+  },
+  "code": "PRK",
+  "national": true,
+  "country": "kp",
+  "countryName": {
+   "en": "North Korea",
+   "ar": "كوريا الشمالية"
+  },
+  "logo": "/flags/4x3/kp.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 1561
+ },
+ {
+  "id": "nt-kr",
+  "name": {
+   "en": "South Korea",
+   "ar": "كوريا الجنوبية"
+  },
+  "shortName": {
+   "en": "South Korea",
+   "ar": "كوريا الجنوبية"
+  },
+  "code": "KOR",
+  "national": true,
+  "country": "kr",
+  "countryName": {
+   "en": "South Korea",
+   "ar": "كوريا الجنوبية"
+  },
+  "logo": "/flags/4x3/kr.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 17
  },
  {
   "id": "nt-kw",
@@ -5184,257 +4634,50 @@
   "apiFootballId": 1562
  },
  {
-  "id": "nt-uz",
+  "id": "nt-qa",
   "name": {
-   "en": "Uzbekistan",
-   "ar": "أوزبكستان"
+   "en": "Qatar",
+   "ar": "قطر"
   },
   "shortName": {
-   "en": "Uzbekistan",
-   "ar": "أوزبكستان"
+   "en": "Qatar",
+   "ar": "قطر"
   },
-  "code": "UZB",
+  "code": "QAT",
   "national": true,
-  "country": "uz",
+  "country": "qa",
   "countryName": {
-   "en": "Uzbekistan",
-   "ar": "أوزبكستان"
+   "en": "Qatar",
+   "ar": "قطر"
   },
-  "logo": "/flags/4x3/uz.svg",
+  "logo": "/flags/4x3/qa.svg",
   "color": null,
   "venue": null,
   "aliases": [],
-  "apiFootballId": 1568
+  "apiFootballId": 1569
  },
  {
-  "id": "nt-bh",
+  "id": "nt-sa",
   "name": {
-   "en": "Bahrain",
-   "ar": "البحرين"
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
   },
   "shortName": {
-   "en": "Bahrain",
-   "ar": "البحرين"
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
   },
-  "code": "BHR",
+  "code": "KSA",
   "national": true,
-  "country": "bh",
+  "country": "sa",
   "countryName": {
-   "en": "Bahrain",
-   "ar": "البحرين"
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
   },
-  "logo": "/flags/4x3/bh.svg",
+  "logo": "/flags/4x3/sa.svg",
   "color": null,
   "venue": null,
   "aliases": [],
-  "apiFootballId": 1547
- },
- {
-  "id": "nt-kp",
-  "name": {
-   "en": "North Korea",
-   "ar": "كوريا الشمالية"
-  },
-  "shortName": {
-   "en": "North Korea",
-   "ar": "كوريا الشمالية"
-  },
-  "code": "PRK",
-  "national": true,
-  "country": "kp",
-  "countryName": {
-   "en": "North Korea",
-   "ar": "كوريا الشمالية"
-  },
-  "logo": "/flags/4x3/kp.svg",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 1561
- },
- {
-  "id": "nt-jo",
-  "name": {
-   "en": "Jordan",
-   "ar": "الأردن"
-  },
-  "shortName": {
-   "en": "Jordan",
-   "ar": "الأردن"
-  },
-  "code": "JOR",
-  "national": true,
-  "country": "jo",
-  "countryName": {
-   "en": "Jordan",
-   "ar": "الأردن"
-  },
-  "logo": "/flags/4x3/jo.svg",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 1548
- },
- {
-  "id": "nt-ir",
-  "name": {
-   "en": "Iran",
-   "ar": "إيران"
-  },
-  "shortName": {
-   "en": "Iran",
-   "ar": "إيران"
-  },
-  "code": "IRN",
-  "national": true,
-  "country": "ir",
-  "countryName": {
-   "en": "Iran",
-   "ar": "إيران"
-  },
-  "logo": "/flags/4x3/ir.svg",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 22
- },
- {
-  "id": "nt-sy",
-  "name": {
-   "en": "Syria",
-   "ar": "سوريا"
-  },
-  "shortName": {
-   "en": "Syria",
-   "ar": "سوريا"
-  },
-  "code": "SYR",
-  "national": true,
-  "country": "sy",
-  "countryName": {
-   "en": "Syria",
-   "ar": "سوريا"
-  },
-  "logo": "/flags/4x3/sy.svg",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 1565
- },
- {
-  "id": "nt-kg",
-  "name": {
-   "en": "Kyrgyzstan",
-   "ar": "قيرغيزستان"
-  },
-  "shortName": {
-   "en": "Kyrgyzstan",
-   "ar": "قيرغيزستان"
-  },
-  "code": "KGZ",
-  "national": true,
-  "country": "kg",
-  "countryName": {
-   "en": "Kyrgyzstan",
-   "ar": "قيرغيزستان"
-  },
-  "logo": "/flags/4x3/kg.svg",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 1554
- },
- {
-  "id": "nt-cn",
-  "name": {
-   "en": "China",
-   "ar": "الصين"
-  },
-  "shortName": {
-   "en": "China",
-   "ar": "الصين"
-  },
-  "code": "CHN",
-  "national": true,
-  "country": "cn",
-  "countryName": {
-   "en": "China",
-   "ar": "الصين"
-  },
-  "logo": "/flags/4x3/cn.svg",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 1566
- },
- {
-  "id": "nt-au",
-  "name": {
-   "en": "Australia",
-   "ar": "أستراليا"
-  },
-  "shortName": {
-   "en": "Australia",
-   "ar": "أستراليا"
-  },
-  "code": "AUS",
-  "national": true,
-  "country": "au",
-  "countryName": {
-   "en": "Australia",
-   "ar": "أستراليا"
-  },
-  "logo": "/flags/4x3/au.svg",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 20
- },
- {
-  "id": "nt-tj",
-  "name": {
-   "en": "Tajikistan",
-   "ar": "طاجيكستان"
-  },
-  "shortName": {
-   "en": "Tajikistan",
-   "ar": "طاجيكستان"
-  },
-  "code": "TJK",
-  "national": true,
-  "country": "tj",
-  "countryName": {
-   "en": "Tajikistan",
-   "ar": "طاجيكستان"
-  },
-  "logo": "/flags/4x3/tj.svg",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 1536
- },
- {
-  "id": "nt-iq",
-  "name": {
-   "en": "Iraq",
-   "ar": "العراق"
-  },
-  "shortName": {
-   "en": "Iraq",
-   "ar": "العراق"
-  },
-  "code": "IRQ",
-  "national": true,
-  "country": "iq",
-  "countryName": {
-   "en": "Iraq",
-   "ar": "العراق"
-  },
-  "logo": "/flags/4x3/iq.svg",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 1567
+  "apiFootballId": 23
  },
  {
   "id": "nt-sg",
@@ -5460,50 +4703,96 @@
   "apiFootballId": 1546
  },
  {
-  "id": "nt-kr",
+  "id": "nt-sy",
   "name": {
-   "en": "South Korea",
-   "ar": "كوريا الجنوبية"
+   "en": "Syria",
+   "ar": "سوريا"
   },
   "shortName": {
-   "en": "South Korea",
-   "ar": "كوريا الجنوبية"
+   "en": "Syria",
+   "ar": "سوريا"
   },
-  "code": "KOR",
+  "code": "SYR",
   "national": true,
-  "country": "kr",
+  "country": "sy",
   "countryName": {
-   "en": "South Korea",
-   "ar": "كوريا الجنوبية"
+   "en": "Syria",
+   "ar": "سوريا"
   },
-  "logo": "/flags/4x3/kr.svg",
+  "logo": "/flags/4x3/sy.svg",
   "color": null,
   "venue": null,
   "aliases": [],
-  "apiFootballId": 17
+  "apiFootballId": 1565
  },
  {
-  "id": "nt-ae",
+  "id": "nt-th",
   "name": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
+   "en": "Thailand",
+   "ar": "تايلاند"
   },
   "shortName": {
-   "en": "UAE",
-   "ar": "الإمارات"
+   "en": "Thailand",
+   "ar": "تايلاند"
   },
-  "code": "UAE",
+  "code": "THA",
   "national": true,
-  "country": "ae",
+  "country": "th",
   "countryName": {
-   "en": "United Arab Emirates",
-   "ar": "الإمارات"
+   "en": "Thailand",
+   "ar": "تايلاند"
   },
-  "logo": "/flags/4x3/ae.svg",
+  "logo": "/flags/4x3/th.svg",
   "color": null,
   "venue": null,
   "aliases": [],
-  "apiFootballId": 1563
+  "apiFootballId": 1564
+ },
+ {
+  "id": "nt-tj",
+  "name": {
+   "en": "Tajikistan",
+   "ar": "طاجيكستان"
+  },
+  "shortName": {
+   "en": "Tajikistan",
+   "ar": "طاجيكستان"
+  },
+  "code": "TJK",
+  "national": true,
+  "country": "tj",
+  "countryName": {
+   "en": "Tajikistan",
+   "ar": "طاجيكستان"
+  },
+  "logo": "/flags/4x3/tj.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 1536
+ },
+ {
+  "id": "nt-uz",
+  "name": {
+   "en": "Uzbekistan",
+   "ar": "أوزبكستان"
+  },
+  "shortName": {
+   "en": "Uzbekistan",
+   "ar": "أوزبكستان"
+  },
+  "code": "UZB",
+  "national": true,
+  "country": "uz",
+  "countryName": {
+   "en": "Uzbekistan",
+   "ar": "أوزبكستان"
+  },
+  "logo": "/flags/4x3/uz.svg",
+  "color": null,
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 1568
  },
  {
   "id": "nt-vn",
@@ -5552,95 +4841,1193 @@
   "apiFootballId": 1550
  },
  {
-  "id": "nt-jp",
+  "id": "om-al-nahda",
   "name": {
-   "en": "Japan",
-   "ar": "اليابان"
+   "en": "Al Nahda",
+   "ar": "النهضة"
   },
   "shortName": {
-   "en": "Japan",
-   "ar": "اليابان"
+   "en": "Al Nahda",
+   "ar": "النهضة"
   },
-  "code": "JPN",
-  "national": true,
-  "country": "jp",
+  "code": "NAH",
+  "national": false,
+  "country": "om",
   "countryName": {
-   "en": "Japan",
-   "ar": "اليابان"
+   "en": "Oman",
+   "ar": "عُمان"
   },
-  "logo": "/flags/4x3/jp.svg",
-  "color": null,
-  "venue": null,
+  "logo": null,
+  "color": "#00843D",
+  "venue": {
+   "name": {
+    "en": "Sultan Qaboos Sports Complex",
+    "ar": "مجمع السلطان قابوس الرياضي"
+   },
+   "city": {
+    "en": "Muscat",
+    "ar": "مسقط"
+   }
+  },
   "aliases": [],
-  "apiFootballId": 12
+  "apiFootballId": null
  },
  {
-  "id": "nt-qa",
+  "id": "om-al-seeb",
   "name": {
-   "en": "Qatar",
-   "ar": "قطر"
+   "en": "Al Seeb",
+   "ar": "السيب"
   },
   "shortName": {
-   "en": "Qatar",
-   "ar": "قطر"
+   "en": "Al Seeb",
+   "ar": "السيب"
   },
-  "code": "QAT",
-  "national": true,
+  "code": "SEE",
+  "national": false,
+  "country": "om",
+  "countryName": {
+   "en": "Oman",
+   "ar": "عُمان"
+  },
+  "logo": null,
+  "color": "#1E5AA8",
+  "venue": {
+   "name": {
+    "en": "Al Seeb Stadium",
+    "ar": "ستاد السيب"
+   },
+   "city": {
+    "en": "Seeb",
+    "ar": "السيب"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "om-al-shabab-oman",
+  "name": {
+   "en": "Al Shabab (Oman)",
+   "ar": "الشباب العُماني"
+  },
+  "shortName": {
+   "en": "Al Shabab (Oman)",
+   "ar": "الشباب العُماني"
+  },
+  "code": "SHB",
+  "national": false,
+  "country": "om",
+  "countryName": {
+   "en": "Oman",
+   "ar": "عُمان"
+  },
+  "logo": null,
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Al Rustaq Sports Complex",
+    "ar": "مجمع الرستاق الرياضي"
+   },
+   "city": {
+    "en": "Rustaq",
+    "ar": "الرستاق"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "pt-benfica",
+  "name": {
+   "en": "Benfica",
+   "ar": "بنفيكا"
+  },
+  "shortName": {
+   "en": "Benfica",
+   "ar": "بنفيكا"
+  },
+  "code": "BEN",
+  "national": false,
+  "country": "pt",
+  "countryName": {
+   "en": "Portugal",
+   "ar": "البرتغال"
+  },
+  "logo": "https://media.api-sports.io/football/teams/211.png",
+  "color": "#E20E0E",
+  "venue": {
+   "name": {
+    "en": "Estádio da Luz",
+    "ar": "ملعب دا لوز"
+   },
+   "city": {
+    "en": "Lisbon",
+    "ar": "لشبونة"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 211
+ },
+ {
+  "id": "pt-porto",
+  "name": {
+   "en": "Porto",
+   "ar": "بورتو"
+  },
+  "shortName": {
+   "en": "Porto",
+   "ar": "بورتو"
+  },
+  "code": "POR",
+  "national": false,
+  "country": "pt",
+  "countryName": {
+   "en": "Portugal",
+   "ar": "البرتغال"
+  },
+  "logo": "https://media.api-sports.io/football/teams/212.png",
+  "color": "#003893",
+  "venue": {
+   "name": {
+    "en": "Estádio do Dragão",
+    "ar": "ملعب دراغاو"
+   },
+   "city": {
+    "en": "Porto",
+    "ar": "بورتو"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 212
+ },
+ {
+  "id": "pt-sporting-cp",
+  "name": {
+   "en": "Sporting CP",
+   "ar": "سبورتينغ لشبونة"
+  },
+  "shortName": {
+   "en": "Sporting CP",
+   "ar": "سبورتينغ لشبونة"
+  },
+  "code": "SCP",
+  "national": false,
+  "country": "pt",
+  "countryName": {
+   "en": "Portugal",
+   "ar": "البرتغال"
+  },
+  "logo": "https://media.api-sports.io/football/teams/228.png",
+  "color": "#008057",
+  "venue": {
+   "name": {
+    "en": "Estádio José Alvalade",
+    "ar": "ملعب جوزيه ألفالادي"
+   },
+   "city": {
+    "en": "Lisbon",
+    "ar": "لشبونة"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 228
+ },
+ {
+  "id": "qa-al-duhail",
+  "name": {
+   "en": "Al Duhail",
+   "ar": "الدحيل"
+  },
+  "shortName": {
+   "en": "Al Duhail",
+   "ar": "الدحيل"
+  },
+  "code": "DUH",
+  "national": false,
   "country": "qa",
   "countryName": {
    "en": "Qatar",
    "ar": "قطر"
   },
-  "logo": "/flags/4x3/qa.svg",
-  "color": null,
-  "venue": null,
+  "logo": "https://media.api-sports.io/football/teams/2904.png",
+  "color": "#D2122E",
+  "venue": {
+   "name": {
+    "en": "Abdullah bin Khalifa Stadium",
+    "ar": "استاد عبدالله بن خليفة"
+   },
+   "city": {
+    "en": "Doha",
+    "ar": "الدوحة"
+   }
+  },
   "aliases": [],
-  "apiFootballId": 1569
+  "apiFootballId": 2904
  },
  {
-  "id": "nt-th",
+  "id": "qa-al-gharafa",
   "name": {
-   "en": "Thailand",
-   "ar": "تايلاند"
+   "en": "Al Gharafa",
+   "ar": "الغرافة"
   },
   "shortName": {
-   "en": "Thailand",
-   "ar": "تايلاند"
+   "en": "Al Gharafa",
+   "ar": "الغرافة"
   },
-  "code": "THA",
-  "national": true,
+  "code": "GHA",
+  "national": false,
+  "country": "qa",
+  "countryName": {
+   "en": "Qatar",
+   "ar": "قطر"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2903.png",
+  "color": "#0055A5",
+  "venue": {
+   "name": {
+    "en": "Thani bin Jassim Stadium",
+    "ar": "استاد ثاني بن جاسم"
+   },
+   "city": {
+    "en": "Al Rayyan",
+    "ar": "الريان"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2903
+ },
+ {
+  "id": "qa-al-rayyan",
+  "name": {
+   "en": "Al Rayyan",
+   "ar": "الريان"
+  },
+  "shortName": {
+   "en": "Al Rayyan",
+   "ar": "الريان"
+  },
+  "code": "RYN",
+  "national": false,
+  "country": "qa",
+  "countryName": {
+   "en": "Qatar",
+   "ar": "قطر"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2897.png",
+  "color": "#E30613",
+  "venue": {
+   "name": {
+    "en": "Ahmad bin Ali Stadium",
+    "ar": "استاد أحمد بن علي"
+   },
+   "city": {
+    "en": "Al Rayyan",
+    "ar": "الريان"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2897
+ },
+ {
+  "id": "qa-al-sadd",
+  "name": {
+   "en": "Al Sadd",
+   "ar": "السد"
+  },
+  "shortName": {
+   "en": "Al Sadd",
+   "ar": "السد"
+  },
+  "code": "SAD",
+  "national": false,
+  "country": "qa",
+  "countryName": {
+   "en": "Qatar",
+   "ar": "قطر"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2895.png",
+  "color": "#000000",
+  "venue": {
+   "name": {
+    "en": "Jassim bin Hamad Stadium",
+    "ar": "استاد جاسم بن حمد"
+   },
+   "city": {
+    "en": "Doha",
+    "ar": "الدوحة"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2895
+ },
+ {
+  "id": "qa-al-shamal",
+  "name": {
+   "en": "Al Shamal",
+   "ar": "الشمال"
+  },
+  "shortName": {
+   "en": "Al Shamal",
+   "ar": "الشمال"
+  },
+  "code": "SHM",
+  "national": false,
+  "country": "qa",
+  "countryName": {
+   "en": "Qatar",
+   "ar": "قطر"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2916.png",
+  "color": "#1F4E9E",
+  "venue": {
+   "name": {
+    "en": "Al Bayt Stadium",
+    "ar": "استاد البيت"
+   },
+   "city": {
+    "en": "Al Khor",
+    "ar": "الخور"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2916
+ },
+ {
+  "id": "qa-qatar-sc",
+  "name": {
+   "en": "Qatar SC",
+   "ar": "قطر"
+  },
+  "shortName": {
+   "en": "Qatar SC",
+   "ar": "قطر"
+  },
+  "code": "QSC",
+  "national": false,
+  "country": "qa",
+  "countryName": {
+   "en": "Qatar",
+   "ar": "قطر"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2907.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Suhaim bin Hamad Stadium",
+    "ar": "استاد سحيم بن حمد"
+   },
+   "city": {
+    "en": "Doha",
+    "ar": "الدوحة"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2907
+ },
+ {
+  "id": "sa-al-ahli-saudi",
+  "name": {
+   "en": "Al Ahli Saudi",
+   "ar": "الأهلي السعودي"
+  },
+  "shortName": {
+   "en": "Al Ahli",
+   "ar": "الأهلي"
+  },
+  "code": "AHL",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2929.png",
+  "color": "#00843D",
+  "venue": {
+   "name": {
+    "en": "King Abdullah Sports City Stadium",
+    "ar": "استاد مدينة الملك عبدالله الرياضية"
+   },
+   "city": {
+    "en": "Jeddah",
+    "ar": "جدة"
+   }
+  },
+  "aliases": [
+   "Al-Ahli",
+   "Al Ahli Jeddah",
+   "أهلي جدة"
+  ],
+  "apiFootballId": 2929
+ },
+ {
+  "id": "sa-al-ettifaq",
+  "name": {
+   "en": "Al Ettifaq",
+   "ar": "الاتفاق"
+  },
+  "shortName": {
+   "en": "Al Ettifaq",
+   "ar": "الاتفاق"
+  },
+  "code": "ETT",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2934.png",
+  "color": "#00843D",
+  "venue": {
+   "name": {
+    "en": "Al-Ettifaq Club Stadium",
+    "ar": "ملعب نادي الاتفاق"
+   },
+   "city": {
+    "en": "Dammam",
+    "ar": "الدمام"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2934
+ },
+ {
+  "id": "sa-al-hilal",
+  "name": {
+   "en": "Al Hilal",
+   "ar": "الهلال"
+  },
+  "shortName": {
+   "en": "Al Hilal",
+   "ar": "الهلال"
+  },
+  "code": "HIL",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2932.png",
+  "color": "#005BAC",
+  "venue": {
+   "name": {
+    "en": "Kingdom Arena",
+    "ar": "المملكة أرينا"
+   },
+   "city": {
+    "en": "Riyadh",
+    "ar": "الرياض"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2932
+ },
+ {
+  "id": "sa-al-ittihad",
+  "name": {
+   "en": "Al Ittihad",
+   "ar": "الاتحاد"
+  },
+  "shortName": {
+   "en": "Al Ittihad",
+   "ar": "الاتحاد"
+  },
+  "code": "ITT",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2938.png",
+  "color": "#F2C200",
+  "venue": {
+   "name": {
+    "en": "King Abdullah Sports City Stadium",
+    "ar": "استاد مدينة الملك عبدالله الرياضية"
+   },
+   "city": {
+    "en": "Jeddah",
+    "ar": "جدة"
+   }
+  },
+  "aliases": [
+   "Al-Ittihad Jeddah"
+  ],
+  "apiFootballId": 2938
+ },
+ {
+  "id": "sa-al-nassr",
+  "name": {
+   "en": "Al Nassr",
+   "ar": "النصر"
+  },
+  "shortName": {
+   "en": "Al Nassr",
+   "ar": "النصر"
+  },
+  "code": "NAS",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2939.png",
+  "color": "#FFD400",
+  "venue": {
+   "name": {
+    "en": "Al-Awwal Park",
+    "ar": "الأول بارك"
+   },
+   "city": {
+    "en": "Riyadh",
+    "ar": "الرياض"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2939
+ },
+ {
+  "id": "sa-al-qadsiah",
+  "name": {
+   "en": "Al Qadsiah",
+   "ar": "القادسية"
+  },
+  "shortName": {
+   "en": "Al Qadsiah",
+   "ar": "القادسية"
+  },
+  "code": "QAD",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": null,
+  "color": "#C8102E",
+  "venue": {
+   "name": {
+    "en": "Prince Mohammed bin Fahd Stadium",
+    "ar": "استاد الأمير محمد بن فهد"
+   },
+   "city": {
+    "en": "Dammam",
+    "ar": "الدمام"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-taawoun",
+  "name": {
+   "en": "Al Taawoun",
+   "ar": "التعاون"
+  },
+  "shortName": {
+   "en": "Al Taawoun",
+   "ar": "التعاون"
+  },
+  "code": "TAA",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": null,
+  "color": "#F9C80E",
+  "venue": {
+   "name": {
+    "en": "Wolves Park",
+    "ar": "وولفز بارك"
+   },
+   "city": {
+    "en": "Buraidah",
+    "ar": "بريدة"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-neom",
+  "name": {
+   "en": "NEOM",
+   "ar": "نيوم"
+  },
+  "shortName": {
+   "en": "NEOM",
+   "ar": "نيوم"
+  },
+  "code": "NEO",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://media.api-sports.io/football/teams/10513.png",
+  "color": "#00A3AD",
+  "venue": {
+   "name": {
+    "en": "Al-Watani Club Stadium",
+    "ar": "ملعب نادي الوطني"
+   },
+   "city": {
+    "en": "Tabuk",
+    "ar": "تبوك"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 10513
+ },
+ {
+  "id": "sg-lion-city-sailors",
+  "name": {
+   "en": "Lion City Sailors",
+   "ar": "ليون سيتي سايلرز"
+  },
+  "shortName": {
+   "en": "Lion City",
+   "ar": "ليون سيتي"
+  },
+  "code": "LCS",
+  "national": false,
+  "country": "sg",
+  "countryName": {
+   "en": "Singapore",
+   "ar": "سنغافورة"
+  },
+  "logo": null,
+  "color": "#003DA5",
+  "venue": {
+   "name": {
+    "en": "Jalan Besar Stadium",
+    "ar": "ملعب جالان بيسار"
+   },
+   "city": {
+    "en": "Singapore",
+    "ar": "سنغافورة"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "sg-tampines-rovers",
+  "name": {
+   "en": "Tampines Rovers",
+   "ar": "تامبنيز روفرز"
+  },
+  "shortName": {
+   "en": "Tampines",
+   "ar": "تامبنيز"
+  },
+  "code": "TAM",
+  "national": false,
+  "country": "sg",
+  "countryName": {
+   "en": "Singapore",
+   "ar": "سنغافورة"
+  },
+  "logo": null,
+  "color": "#FFD100",
+  "venue": {
+   "name": {
+    "en": "Jalan Besar Stadium",
+    "ar": "ملعب جالان بيسار"
+   },
+   "city": {
+    "en": "Singapore",
+    "ar": "سنغافورة"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "sk-slovan-bratislava",
+  "name": {
+   "en": "Slovan Bratislava",
+   "ar": "سلوفان براتيسلافا"
+  },
+  "shortName": {
+   "en": "Slovan",
+   "ar": "سلوفان"
+  },
+  "code": "SLO",
+  "national": false,
+  "country": "sk",
+  "countryName": {
+   "en": "Slovakia",
+   "ar": "سلوفاكيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/656.png",
+  "color": "#6CACE4",
+  "venue": {
+   "name": {
+    "en": "Tehelné pole",
+    "ar": "ملعب تيهيلني بولي"
+   },
+   "city": {
+    "en": "Bratislava",
+    "ar": "براتيسلافا"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 656
+ },
+ {
+  "id": "th-bg-pathum-united",
+  "name": {
+   "en": "BG Pathum United",
+   "ar": "بي جي باثوم يونايتد"
+  },
+  "shortName": {
+   "en": "BG Pathum",
+   "ar": "بي جي باثوم"
+  },
+  "code": "BGP",
+  "national": false,
   "country": "th",
   "countryName": {
    "en": "Thailand",
    "ar": "تايلاند"
   },
-  "logo": "/flags/4x3/th.svg",
-  "color": null,
-  "venue": null,
-  "aliases": [],
-  "apiFootballId": 1564
+  "logo": null,
+  "color": "#1E2B64",
+  "venue": {
+   "name": {
+    "en": "BG Stadium",
+    "ar": "ملعب بي جي"
+   },
+   "city": {
+    "en": "Pathum Thani",
+    "ar": "باثوم ثاني"
+   }
+  },
+  "aliases": [
+   "باثوم يونايتد"
+  ],
+  "apiFootballId": null
  },
  {
-  "id": "nt-id",
+  "id": "th-buriram-united",
   "name": {
-   "en": "Indonesia",
-   "ar": "إندونيسيا"
+   "en": "Buriram United",
+   "ar": "بوريرام يونايتد"
   },
   "shortName": {
-   "en": "Indonesia",
-   "ar": "إندونيسيا"
+   "en": "Buriram",
+   "ar": "بوريرام"
   },
-  "code": "IDN",
-  "national": true,
-  "country": "id",
+  "code": "BUR",
+  "national": false,
+  "country": "th",
   "countryName": {
-   "en": "Indonesia",
-   "ar": "إندونيسيا"
+   "en": "Thailand",
+   "ar": "تايلاند"
   },
-  "logo": "/flags/4x3/id.svg",
+  "logo": "https://media.api-sports.io/football/teams/2780.png",
+  "color": "#1C3F94",
+  "venue": {
+   "name": {
+    "en": "Chang Arena",
+    "ar": "تشانغ أرينا"
+   },
+   "city": {
+    "en": "Buriram",
+    "ar": "بوريرام"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2780
+ },
+ {
+  "id": "th-port-fc",
+  "name": {
+   "en": "Port FC",
+   "ar": "بورت"
+  },
+  "shortName": {
+   "en": "Port FC",
+   "ar": "بورت"
+  },
+  "code": "PRT",
+  "national": false,
+  "country": "th",
+  "countryName": {
+   "en": "Thailand",
+   "ar": "تايلاند"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2789.png",
+  "color": "#F47920",
+  "venue": {
+   "name": {
+    "en": "Thammasat Stadium",
+    "ar": "ملعب ثاماسات"
+   },
+   "city": {
+    "en": "Pathum Thani",
+    "ar": "باثوم ثاني"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 2789
+ },
+ {
+  "id": "th-ratchaburi",
+  "name": {
+   "en": "Ratchaburi",
+   "ar": "راتشابوري"
+  },
+  "shortName": {
+   "en": "Ratchaburi",
+   "ar": "راتشابوري"
+  },
+  "code": "RAT",
+  "national": false,
+  "country": "th",
+  "countryName": {
+   "en": "Thailand",
+   "ar": "تايلاند"
+  },
+  "logo": "https://media.api-sports.io/football/teams/2776.png",
+  "color": "#1D5FAD",
+  "venue": {
+   "name": {
+    "en": "Ratchaburi Stadium",
+    "ar": "ملعب راتشابوري"
+   },
+   "city": {
+    "en": "Ratchaburi",
+    "ar": "راتشابوري"
+   }
+  },
+  "aliases": [
+   "Ratchaburi FC"
+  ],
+  "apiFootballId": 2776
+ },
+ {
+  "id": "tm-arkadag",
+  "name": {
+   "en": "Arkadag",
+   "ar": "أركاداغ"
+  },
+  "shortName": {
+   "en": "Arkadag",
+   "ar": "أركاداغ"
+  },
+  "code": "ARK",
+  "national": false,
+  "country": "tm",
+  "countryName": {
+   "en": "Turkmenistan",
+   "ar": "تركمانستان"
+  },
+  "logo": null,
+  "color": "#0072CE",
+  "venue": {
+   "name": {
+    "en": "Arkadag Stadium",
+    "ar": "ستاد مدينة أركاداغ"
+   },
+   "city": {
+    "en": "Arkadag",
+    "ar": "أركاداغ"
+   }
+  },
+  "aliases": [
+   "FC Arkadag"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "tr-fenerbahce",
+  "name": {
+   "en": "Fenerbahçe",
+   "ar": "فنربخشة"
+  },
+  "shortName": {
+   "en": "Fenerbahçe",
+   "ar": "فنربخشة"
+  },
+  "code": "FEN",
+  "national": false,
+  "country": "tr",
+  "countryName": {
+   "en": "Türkiye",
+   "ar": "تركيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/611.png",
+  "color": "#FFED00",
+  "venue": {
+   "name": {
+    "en": "Şükrü Saracoğlu Stadium",
+    "ar": "ملعب شكري سراج أوغلو"
+   },
+   "city": {
+    "en": "Istanbul",
+    "ar": "إسطنبول"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 611
+ },
+ {
+  "id": "tr-galatasaray",
+  "name": {
+   "en": "Galatasaray",
+   "ar": "غلطة سراي"
+  },
+  "shortName": {
+   "en": "Galatasaray",
+   "ar": "غلطة سراي"
+  },
+  "code": "GAL",
+  "national": false,
+  "country": "tr",
+  "countryName": {
+   "en": "Türkiye",
+   "ar": "تركيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/645.png",
+  "color": "#A90432",
+  "venue": {
+   "name": {
+    "en": "RAMS Park",
+    "ar": "رامس بارك"
+   },
+   "city": {
+    "en": "Istanbul",
+    "ar": "إسطنبول"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 645
+ },
+ {
+  "id": "ua-shakhtar-donetsk",
+  "name": {
+   "en": "Shakhtar Donetsk",
+   "ar": "شاختار دونيتسك"
+  },
+  "shortName": {
+   "en": "Shakhtar",
+   "ar": "شاختار"
+  },
+  "code": "SHK",
+  "national": false,
+  "country": "ua",
+  "countryName": {
+   "en": "Ukraine",
+   "ar": "أوكرانيا"
+  },
+  "logo": "https://media.api-sports.io/football/teams/550.png",
+  "color": "#F16E22",
+  "venue": null,
+  "aliases": [],
+  "apiFootballId": 550
+ },
+ {
+  "id": "uz-nasaf",
+  "name": {
+   "en": "Nasaf",
+   "ar": "ناساف"
+  },
+  "shortName": {
+   "en": "Nasaf",
+   "ar": "ناساف"
+  },
+  "code": "NSF",
+  "national": false,
+  "country": "uz",
+  "countryName": {
+   "en": "Uzbekistan",
+   "ar": "أوزبكستان"
+  },
+  "logo": null,
+  "color": "#00539F",
+  "venue": {
+   "name": {
+    "en": "Markaziy Stadium",
+    "ar": "الملعب المركزي"
+   },
+   "city": {
+    "en": "Qarshi",
+    "ar": "قرشي"
+   }
+  },
+  "aliases": [
+   "PFC Nasaf",
+   "Nasaf Qarshi"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "uz-neftchi-fergana",
+  "name": {
+   "en": "Neftchi Fergana",
+   "ar": "نيفتشي فرغانة"
+  },
+  "shortName": {
+   "en": "Neftchi",
+   "ar": "نيفتشي"
+  },
+  "code": "NEF",
+  "national": false,
+  "country": "uz",
+  "countryName": {
+   "en": "Uzbekistan",
+   "ar": "أوزبكستان"
+  },
+  "logo": "https://media.api-sports.io/football/teams/4217.png",
+  "color": "#1C4E9D",
+  "venue": {
+   "name": {
+    "en": "Istiqlol Stadium",
+    "ar": "استاد استقلال"
+   },
+   "city": {
+    "en": "Fergana",
+    "ar": "فرغانة"
+   }
+  },
+  "aliases": [
+   "PFC Neftchi",
+   "Neftchi",
+   "نيفتشي"
+  ],
+  "apiFootballId": 4217
+ },
+ {
+  "id": "uz-pakhtakor",
+  "name": {
+   "en": "Pakhtakor",
+   "ar": "باختاكور"
+  },
+  "shortName": {
+   "en": "Pakhtakor",
+   "ar": "باختاكور"
+  },
+  "code": "PAK",
+  "national": false,
+  "country": "uz",
+  "countryName": {
+   "en": "Uzbekistan",
+   "ar": "أوزبكستان"
+  },
+  "logo": "https://media.api-sports.io/football/teams/4220.png",
+  "color": "#008D36",
+  "venue": {
+   "name": {
+    "en": "Pakhtakor Stadium",
+    "ar": "ملعب باختاكور"
+   },
+   "city": {
+    "en": "Tashkent",
+    "ar": "طشقند"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": 4220
+ },
+ {
+  "id": "vn-cong-an-ha-noi",
+  "name": {
+   "en": "Cong An Ha Noi",
+   "ar": "كونغ آن هانوي"
+  },
+  "shortName": {
+   "en": "Cong An Ha Noi",
+   "ar": "كونغ آن هانوي"
+  },
+  "code": "CAH",
+  "national": false,
+  "country": "vn",
+  "countryName": {
+   "en": "Vietnam",
+   "ar": "فيتنام"
+  },
+  "logo": null,
+  "color": "#C8102E",
+  "venue": {
+   "name": {
+    "en": "Hang Day Stadium",
+    "ar": "ملعب هانغ داي"
+   },
+   "city": {
+    "en": "Hanoi",
+    "ar": "هانوي"
+   }
+  },
+  "aliases": [
+   "Công An Hà Nội",
+   "Hanoi Police"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "vn-the-cong-viettel",
+  "name": {
+   "en": "The Cong-Viettel",
+   "ar": "ذا كونغ-فيتيل"
+  },
+  "shortName": {
+   "en": "Viettel",
+   "ar": "فيتيل"
+  },
+  "code": "TCV",
+  "national": false,
+  "country": "vn",
+  "countryName": {
+   "en": "Vietnam",
+   "ar": "فيتنام"
+  },
+  "logo": null,
+  "color": "#E4002B",
+  "venue": {
+   "name": {
+    "en": "Hang Day Stadium",
+    "ar": "ملعب هانغ داي"
+   },
+   "city": {
+    "en": "Hanoi",
+    "ar": "هانوي"
+   }
+  },
+  "aliases": [
+   "Thể Công-Viettel"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "ye-shaab-hadramaut",
+  "name": {
+   "en": "Shaab Hadramaut",
+   "ar": "شعب حضرموت"
+  },
+  "shortName": {
+   "en": "Shaab Hadramaut",
+   "ar": "شعب حضرموت"
+  },
+  "code": "SHD",
+  "national": false,
+  "country": "ye",
+  "countryName": {
+   "en": "Yemen",
+   "ar": "اليمن"
+  },
+  "logo": null,
   "color": null,
   "venue": null,
   "aliases": [],
-  "apiFootballId": 1571
+  "apiFootballId": null
  }
 ]

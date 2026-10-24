@@ -102,13 +102,27 @@
     "home": 3,
     "away": 0
    },
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Basra International Stadium",
+     "ar": "استاد البصرة الدولي"
+    },
+    "city": {
+     "en": "Basra",
+     "ar": "البصرة"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/14/دوري-ابطال-اسيا-للنخبة-السد-يستهل-مشواره-بالخسارة-امام-الاستقلال-الايراني",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-2026-27-League-Stage---27Augupd.pdf"
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r01-sa-al-ahli-saudi-uz-pakhtakor",
@@ -514,15 +528,30 @@
     "home": 0,
     "away": 0
    },
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Sultan Qaboos Sports Complex",
+     "ar": "مجمع السلطان قابوس الرياضي"
+    },
+    "city": {
+     "en": "Muscat",
+     "ar": "مسقط"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912653/competitions/401912653/competitors/15107/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912653/competitions/401912653/competitors/21575/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912653/competitions/401912653/status?lang=en&region=us",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-10/12/دوري-ابطال-اسيا-للنخبة-الشمال-يتعادل-مع-تراكتور-الايراني-بدون-اهداف",
+    "https://www.omandaily.om/article/1212371",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r02-iq-al-quwa-al-jawiya-ae-al-ain",
@@ -976,11 +1005,22 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Al-Madina International Stadium",
+     "ar": "ملعب المدينة الدولي"
+    },
+    "city": {
+     "en": "Baghdad",
+     "ar": "بغداد"
+    }
+   },
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261026",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
    ]
   },
   {
@@ -1321,11 +1361,24 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Sultan Qaboos Sports Complex",
+     "ar": "مجمع السلطان قابوس الرياضي"
+    },
+    "city": {
+     "en": "Muscat",
+     "ar": "مسقط"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
    ]
   },
   {
@@ -1505,11 +1558,23 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "BG Stadium",
+     "ar": "ملعب بي جي"
+    },
+    "city": {
+     "en": "Pathum Thani",
+     "ar": "باثوم ثاني"
+    }
+   },
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103"
    ]
   },
   {
@@ -1551,11 +1616,24 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Basra International Stadium",
+     "ar": "استاد البصرة الدولي"
+    },
+    "city": {
+     "en": "Basra",
+     "ar": "البصرة"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
    ]
   },
   {
@@ -1689,11 +1767,24 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Sultan Qaboos Sports Complex",
+     "ar": "مجمع السلطان قابوس الرياضي"
+    },
+    "city": {
+     "en": "Muscat",
+     "ar": "مسقط"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
    ]
   },
   {
@@ -1781,11 +1872,23 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Central Coast Stadium",
+     "ar": "ملعب سنترال كوست"
+    },
+    "city": {
+     "en": "Gosford",
+     "ar": "غوسفورد"
+    }
+   },
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124"
    ]
   },
   {
@@ -2264,11 +2367,24 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Basra International Stadium",
+     "ar": "استاد البصرة الدولي"
+    },
+    "city": {
+     "en": "Basra",
+     "ar": "البصرة"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261207",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261207",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
    ]
   },
   {
@@ -2356,11 +2472,22 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Prince Abdullah Al Faisal Sports City Stadium",
+     "ar": "استاد مدينة الأمير عبدالله الفيصل الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261208",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
    ]
   },
   {
@@ -2425,11 +2552,24 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Sultan Qaboos Sports Complex",
+     "ar": "مجمع السلطان قابوس الرياضي"
+    },
+    "city": {
+     "en": "Muscat",
+     "ar": "مسقط"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270208",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=7&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270208",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
    ]
   },
   {
@@ -2770,11 +2910,24 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Basra International Stadium",
+     "ar": "استاد البصرة الدولي"
+    },
+    "city": {
+     "en": "Basra",
+     "ar": "البصرة"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270215",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=8&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20270215",
+    "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
    ]
   },
   {

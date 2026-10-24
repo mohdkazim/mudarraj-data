@@ -974,13 +974,29 @@
     "home": 3,
     "away": 1
    },
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Stamford Bridge",
+     "ar": "ملعب ستامفورد بريدج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://www.skysports.com/champions-league-results",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915406",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/teams/493/schedule?fixture=true",
+    "https://shakhtar.com/en/news/2026/august/21_news/21_shakhtar_stamford_bridge/",
+    "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
+    "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-az-sabah-de-borussia-dortmund",
@@ -1515,11 +1531,27 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Stamford Bridge",
+     "ar": "ملعب ستامفورد بريدج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915406",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/teams/493/schedule?fixture=true",
+    "https://shakhtar.com/en/news/2026/august/21_news/21_shakhtar_stamford_bridge/",
+    "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
+    "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
    ]
   },
   {
@@ -2297,11 +2329,27 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Stamford Bridge",
+     "ar": "ملعب ستامفورد بريدج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915406",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/teams/493/schedule?fixture=true",
+    "https://shakhtar.com/en/news/2026/august/21_news/21_shakhtar_stamford_bridge/",
+    "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
+    "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
    ]
   },
   {
@@ -3539,11 +3587,27 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
-   "neutral": false,
+   "venue": {
+    "name": {
+     "en": "Stamford Bridge",
+     "ar": "ملعب ستامفورد بريدج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20270127",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=8&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915406",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/teams/493/schedule?fixture=true",
+    "https://shakhtar.com/en/news/2026/august/21_news/21_shakhtar_stamford_bridge/",
+    "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
+    "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
    ]
   }
  ]
