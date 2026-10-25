@@ -25,9 +25,18 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914&lang=en&region=us"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "Zoran Marusic",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r01-ae-shabab-al-ahli-ir-tractor",
@@ -52,9 +61,18 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914&lang=en&region=us"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 22,
+     "side": "home",
+     "player": "Yuri César",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r01-qa-al-shamal-sa-al-ittihad",
@@ -79,9 +97,25 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914&lang=en&region=us"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Baghdad Bounedjah",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Georginio Wijnaldum",
+     "type": "goal",
+     "extra": 4
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r01-ir-esteghlal-qa-al-sadd",
@@ -115,13 +149,35 @@
    "neutral": true,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914&lang=en&region=us"
    ],
    "updatedAt": "2026-10-23T09:18:38.139Z",
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
     "https://qna.org.qa/ar-QA/News-Area/News/2026-9/14/دوري-ابطال-اسيا-للنخبة-السد-يستهل-مشواره-بالخسارة-امام-الاستقلال-الايراني",
     "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-2026-27-League-Stage---27Augupd.pdf"
+   ],
+   "goals": [
+    {
+     "minute": 9,
+     "side": "home",
+     "player": "Jasir Asani",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "home",
+     "player": "Saeid Saharkhizan",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Esmaeil Gholizadeh",
+     "type": "goal",
+     "extra": 5
+    }
    ]
   },
   {
@@ -147,9 +203,25 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914&lang=en&region=us"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 86,
+     "side": "away",
+     "player": "Flamarion Jovino Filho",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Feras Al-Brikan",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r01-sa-al-qadsiah-ae-al-wasl",
@@ -174,9 +246,31 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260914&lang=en&region=us"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Julián Quiñones",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Mateo Retegui",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Leandro Leite",
+     "type": "goal",
+     "extra": 6
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r01-jp-gamba-osaka-vn-cong-an-ha-noi",
@@ -201,9 +295,43 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915&lang=en&region=us"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 29,
+     "side": "home",
+     "player": "Takashi Usami",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "Yusei Toshida",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "Takashi Usami",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Brayan Perea",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Kohshiro Sumi",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r01-jp-kashima-antlers-au-newcastle-jets",
@@ -228,9 +356,60 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915&lang=en&region=us"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Aleksandar Cavric",
+     "type": "goal"
+    },
+    {
+     "minute": 16,
+     "side": "home",
+     "player": "Aleksandar Cavric",
+     "type": "goal"
+    },
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "James Delianov",
+     "type": "own-goal"
+    },
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "Homare Tokuda",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "Aleksandar Cavric",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "home",
+     "player": "Homare Tokuda",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Kyosuke Tagawa",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Patrick Wood",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r01-kr-daejeon-hana-citizen-jp-kyoto-sanga",
@@ -255,9 +434,18 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915&lang=en&region=us"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 78,
+     "side": "home",
+     "player": "Victor Bobsin",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r01-th-ratchaburi-cn-shanghai-port",
@@ -282,9 +470,76 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915&lang=en&region=us"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 31,
+     "side": "away",
+     "player": "Prince Obeng Ampem",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "away",
+     "player": "Prince Obeng Ampem",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Prince Obeng Ampem",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Wu Lei",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Njiva Rakotoharimalala",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "home",
+     "player": "Njiva Rakotoharimalala",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "away",
+     "player": "Jaume Grau",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Njiva Rakotoharimalala",
+     "type": "goal",
+     "extra": 5
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Ekanit Panya",
+     "type": "goal",
+     "extra": 6
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Leonardo",
+     "type": "goal",
+     "extra": 7
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r01-cn-beijing-guoan-kr-pohang-steelers",
@@ -309,9 +564,36 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915&lang=en&region=us"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "home",
+     "player": "Chadrac Akolo",
+     "type": "goal"
+    },
+    {
+     "minute": 6,
+     "side": "away",
+     "player": "Jakob Tranziska",
+     "type": "penalty"
+    },
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Zhang Xizhe",
+     "type": "goal"
+    },
+    {
+     "minute": 46,
+     "side": "home",
+     "player": "Jeremy Dudziak",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r01-my-johor-darul-ta-zim-th-buriram-united",
@@ -336,9 +618,24 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915&lang=en&region=us"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Oscar Arribas",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Stefan Schimmer",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r01-ae-al-ain-sa-al-nassr",
@@ -365,9 +662,36 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
     "https://www.khaleejtimes.com/football/look-ronaldo-cuts-a-frustrating-figure-uaes-al-ain-thrash-al-nassr-4-0",
-    "https://www.gulftoday.ae/sport/2026/10/14/al-ain-rout-air-force-club-for-2nd-straight-afc-champions-league-elite-victory"
+    "https://www.gulftoday.ae/sport/2026/10/14/al-ain-rout-air-force-club-for-2nd-straight-afc-champions-league-elite-victory",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915&lang=en&region=us"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "Houssine Rahimi",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Houssine Rahimi",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Soufiane Rahimi",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Giorgos Giakoumakis",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r01-sa-al-hilal-qa-al-gharafa",
@@ -392,9 +716,33 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260915",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard/401912655?lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard/401912655"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Rúben Neves",
+     "type": "penalty",
+     "extra": 3
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Sergej Milinkovic-Savic",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Alaaeddin Hassan",
+     "type": "goal",
+     "extra": 2
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r01-kr-jeonbuk-hyundai-motors-jp-kashiwa-reysol",
@@ -419,9 +767,31 @@
    "neutral": false,
    "sources": [
     "https://qna.org.qa/en/News-Area/News/2026-9/16/afc-champions-league-elite-jeonbuk-of-korea-defeat-japans-kashiwa-reysol",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260916&lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260916&lang=en&region=us&limit=50"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 30,
+     "side": "away",
+     "player": "Kenshin Yuba",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Tiago Pereira",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Italo",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r01-th-port-fc-jp-vissel-kobe",
@@ -447,9 +817,32 @@
    "sources": [
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912654/competitions/401912654/competitors/17757/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912654/competitions/401912654/competitors/7477/score?lang=en&region=us",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=1&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260916&lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20260916&lang=en&region=us&limit=50"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "away",
+     "player": "Ren Komatsu",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Ren Komatsu",
+     "type": "own-goal",
+     "extra": 4
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Yoshinori Muto",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r02-uz-pakhtakor-sa-al-qadsiah",
@@ -476,9 +869,25 @@
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912669/competitions/401912669/competitors/7123/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912669/competitions/401912669/competitors/22022/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912669/competitions/401912669/status?lang=en&region=us",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012&lang=en&region=us&limit=50",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 35,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Dostonbek Khamdamov",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r02-ae-al-wasl-sa-al-ahli-saudi",
@@ -505,9 +914,39 @@
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912628/competitions/401912628/competitors/8365/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912628/competitions/401912628/competitors/8346/score?lang=en&region=us",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
-    "https://www.gulftoday.ae/sport/2026/10/14/al-ain-rout-air-force-club-for-2nd-straight-afc-champions-league-elite-victory"
+    "https://www.gulftoday.ae/sport/2026/10/14/al-ain-rout-air-force-club-for-2nd-straight-afc-champions-league-elite-victory",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012&lang=en&region=us&limit=50",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 20,
+     "side": "away",
+     "player": "Roger Ibañez",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Pedro Malheiro",
+     "type": "goal",
+     "extra": 3
+    },
+    {
+     "minute": 58,
+     "side": "away",
+     "player": "Francisco Trincão",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Feras Al-Brikan",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r02-ir-tractor-qa-al-shamal",
@@ -578,9 +1017,43 @@
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912652/competitions/401912652/competitors/20912/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912652/competitions/401912652/competitors/7128/score?lang=en&region=us",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
-    "https://www.gulftoday.ae/sport/2026/10/14/al-ain-rout-air-force-club-for-2nd-straight-afc-champions-league-elite-victory"
+    "https://www.gulftoday.ae/sport/2026/10/14/al-ain-rout-air-force-club-for-2nd-straight-afc-champions-league-elite-victory",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012&lang=en&region=us&limit=50",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Alejandro Romero Gamarra",
+     "type": "goal"
+    },
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Saed Al-Rosan",
+     "type": "own-goal"
+    },
+    {
+     "minute": 23,
+     "side": "away",
+     "player": "Houssine Rahimi",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Houssine Rahimi",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Mohammad Jawad",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r02-qa-al-gharafa-ir-esteghlal",
@@ -606,9 +1079,31 @@
    "sources": [
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912651/competitions/401912651/competitors/7129/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912651/competitions/401912651/competitors/7525/score?lang=en&region=us",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012&lang=en&region=us&limit=50",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 37,
+     "side": "away",
+     "player": "Jasir Asani",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Ferjani Sassi",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "away",
+     "player": "Hossein Goudarzi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r02-sa-al-nassr-uz-neftchi-fergana",
@@ -634,9 +1129,37 @@
    "sources": [
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912627/competitions/401912627/competitors/817/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912627/competitions/401912627/competitors/7530/score?lang=en&region=us",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012&lang=en&region=us&limit=50",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261012"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 33,
+     "side": "home",
+     "player": "Ângelo Gabriel",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "Cristiano Ronaldo",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Alisher Odilov",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "home",
+     "player": "Anvarjon G'Ofurov",
+     "type": "own-goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r02-au-newcastle-jets-jp-gamba-osaka",
@@ -662,9 +1185,37 @@
    "sources": [
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912650/competitions/401912650/competitors/5323/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912650/competitions/401912650/competitors/7102/score?lang=en&region=us",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us&limit=50"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Nikolaos Vergos",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Yusei Toshida",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "away",
+     "player": "Deniz Hümmet",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "away",
+     "player": "Welton Felipe",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r02-cn-shanghai-port-kr-daejeon-hana-citizen",
@@ -691,9 +1242,25 @@
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912626/competitions/401912626/competitors/15515/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912626/competitions/401912626/competitors/133171/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912626/competitions/401912626/status?lang=en&region=us",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us&limit=50"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "Prince Obeng Ampem",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Diogo",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r02-jp-kyoto-sanga-th-ratchaburi",
@@ -719,9 +1286,19 @@
    "sources": [
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912649/competitions/401912649/competitors/21361/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912649/competitions/401912649/competitors/17760/score?lang=en&region=us",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us&limit=50"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Temma Matsuda",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r02-kr-pohang-steelers-my-johor-darul-ta-zim",
@@ -747,9 +1324,25 @@
    "sources": [
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912648/competitions/401912648/competitors/9693/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912648/competitions/401912648/competitors/17689/score?lang=en&region=us",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us&limit=50"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Marcos Guilherme",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Marcos Guilherme",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r02-th-buriram-united-cn-beijing-guoan",
@@ -775,9 +1368,19 @@
    "sources": [
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912647/competitions/401912647/competitors/7138/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912647/competitions/401912647/competitors/2052/score?lang=en&region=us",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us&limit=50"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Fábio Abreu",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r02-vn-cong-an-ha-noi-jp-kashima-antlers",
@@ -803,9 +1406,19 @@
    "sources": [
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912625/competitions/401912625/competitors/131375/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912625/competitions/401912625/competitors/7115/score?lang=en&region=us",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us&limit=50"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Leygley Adou",
+     "type": "own-goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r02-qa-al-sadd-sa-al-hilal",
@@ -832,9 +1445,25 @@
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912646/competitions/401912646/competitors/7135/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912646/competitions/401912646/competitors/929/score?lang=en&region=us",
     "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/matchday-two-facts-figures",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us&limit=50"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Ollie Watkins",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Rúben Neves",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r02-sa-al-ittihad-ae-shabab-al-ahli",
@@ -861,9 +1490,31 @@
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912624/competitions/401912624/competitors/2276/score?lang=en&region=us",
     "https://sports.core.api.espn.com/v2/sports/soccer/leagues/afc.champions/events/401912624/competitions/401912624/competitors/790/score?lang=en&region=us",
     "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/matchday-two-facts-figures",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261013&lang=en&region=us&limit=50"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "away",
+     "player": "Sardar Azmoun",
+     "type": "goal"
+    },
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "Sardar Azmoun",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "Richard Ríos",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r02-jp-kashiwa-reysol-th-port-fc",
@@ -888,9 +1539,49 @@
    "neutral": false,
    "sources": [
     "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md2-kashiwa-reysol-jpn-5-1-port-fc-tha",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261014&lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261014&lang=en&region=us&limit=50"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 3,
+     "side": "home",
+     "player": "Tojiro Kubo",
+     "type": "goal"
+    },
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Yuki Kakita",
+     "type": "goal"
+    },
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "Riki Harakawa",
+     "type": "penalty"
+    },
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Koya Yuruki",
+     "type": "goal"
+    },
+    {
+     "minute": 28,
+     "side": "home",
+     "player": "Hinata Yamauchi",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Manuel Bihr",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r02-jp-vissel-kobe-kr-jeonbuk-hyundai-motors",
@@ -916,9 +1607,25 @@
    "sources": [
     "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md2-vissel-kobe-jpn-2-0-jeonbuk-hyundai-motors-fc-kor",
     "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/matchday-two-facts-figures",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=2&s=2026-2027",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261014&lang=en&region=us",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261014&lang=en&region=us&limit=50"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Yuya Osako",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Yuya Kuwasaki",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r03-uz-neftchi-fergana-sa-al-ittihad",

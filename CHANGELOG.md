@@ -1360,3 +1360,347 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ fixture uae-presidents-cup-2026-27-qf-ae-shabab-al-ahli-ae-al-wasl added
   - ✓ fixture uae-presidents-cup-2026-27-qf-ae-sharjah-ae-hatta added
   - ✓ fixture uae-presidents-cup-2026-27-qf-ae-khorfakkan-ae-bani-yas added
+
+## 2026-10-25 (2026-10-25T07:53:16.917Z)
+- 341 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acle-2026-27-league-west-gwest-r01-uz-neftchi-fergana-iq-al-quwa-al-jawiya added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r01-ae-shabab-al-ahli-ir-tractor added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r01-qa-al-shamal-sa-al-ittihad added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r01-ir-esteghlal-qa-al-sadd added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r01-sa-al-ahli-saudi-uz-pakhtakor added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r01-sa-al-qadsiah-ae-al-wasl added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r01-jp-gamba-osaka-vn-cong-an-ha-noi added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r01-jp-kashima-antlers-au-newcastle-jets added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r01-kr-daejeon-hana-citizen-jp-kyoto-sanga added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r01-th-ratchaburi-cn-shanghai-port added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r01-cn-beijing-guoan-kr-pohang-steelers added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r01-my-johor-darul-ta-zim-th-buriram-united added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r01-ae-al-ain-sa-al-nassr added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r01-sa-al-hilal-qa-al-gharafa added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r01-kr-jeonbuk-hyundai-motors-jp-kashiwa-reysol added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r01-th-port-fc-jp-vissel-kobe added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r02-uz-pakhtakor-sa-al-qadsiah added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r02-ae-al-wasl-sa-al-ahli-saudi added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r02-iq-al-quwa-al-jawiya-ae-al-ain added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r02-qa-al-gharafa-ir-esteghlal added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r02-sa-al-nassr-uz-neftchi-fergana added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r02-au-newcastle-jets-jp-gamba-osaka added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r02-cn-shanghai-port-kr-daejeon-hana-citizen added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r02-jp-kyoto-sanga-th-ratchaburi added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r02-kr-pohang-steelers-my-johor-darul-ta-zim added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r02-th-buriram-united-cn-beijing-guoan added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r02-vn-cong-an-ha-noi-jp-kashima-antlers added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r02-qa-al-sadd-sa-al-hilal added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r02-sa-al-ittihad-ae-shabab-al-ahli added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r02-jp-kashiwa-reysol-th-port-fc added scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r02-jp-vissel-kobe-kr-jeonbuk-hyundai-motors added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gb-r01-tm-arkadag-bh-al-muharraq added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-ge-r01-kr-fc-seoul-id-persib-bandung added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-ge-r01-vn-the-cong-viettel-au-melbourne-victory added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-ga-r01-ae-al-wahda-kw-kuwait-sc added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gc-r01-om-al-nahda-sa-al-taawoun added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gd-r01-jo-al-hussein-in-east-bengal added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gc-r01-qa-al-rayyan-jo-al-faisaly added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gd-r01-iq-al-shorta-om-al-seeb added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gf-r01-au-adelaide-united-hk-tai-po added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gf-r01-sg-lion-city-sailors-th-bg-pathum-united added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gg-r01-jp-machida-zelvia-kh-pkr-svay-rieng added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gg-r01-cn-shanghai-shenhua-sg-tampines-rovers added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gh-r01-kh-phnom-penh-crown-my-kuching-city added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gd-r02-in-east-bengal-iq-al-shorta added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gd-r02-om-al-seeb-jo-al-hussein added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-ge-r02-au-melbourne-victory-kr-fc-seoul added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-ge-r02-id-persib-bandung-vn-the-cong-viettel added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-ga-r02-uz-nasaf-ae-al-wahda added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-ga-r02-kw-kuwait-sc-bh-al-khaldiya added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gb-r02-bh-al-muharraq-ir-gol-gohar-sirjan added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gc-r02-sa-al-taawoun-qa-al-rayyan added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gc-r02-jo-al-faisaly-om-al-nahda added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gf-r02-hk-tai-po-sg-lion-city-sailors added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gh-r02-kr-gangwon-fc-kh-phnom-penh-crown added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gf-r02-th-bg-pathum-united-au-adelaide-united added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gg-r02-sg-tampines-rovers-jp-machida-zelvia added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gh-r02-my-kuching-city-hk-kitchee added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r01-gb-eng-arsenal-gb-eng-coventry-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r01-gb-eng-hull-city-gb-eng-manchester-united added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r01-gb-eng-everton-gb-eng-crystal-palace added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r01-gb-eng-ipswich-town-gb-eng-sunderland added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r01-gb-eng-nottingham-forest-gb-eng-leeds-united added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r01-gb-eng-brentford-gb-eng-tottenham-hotspur added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r01-gb-eng-brighton-gb-eng-aston-villa added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r01-gb-eng-manchester-city-gb-eng-bournemouth added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r01-gb-eng-newcastle-united-gb-eng-liverpool added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r01-gb-eng-fulham-gb-eng-chelsea added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r02-gb-eng-crystal-palace-gb-eng-manchester-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r02-gb-eng-liverpool-gb-eng-nottingham-forest added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r02-gb-eng-bournemouth-gb-eng-everton added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r02-gb-eng-coventry-city-gb-eng-hull-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r02-gb-eng-tottenham-hotspur-gb-eng-newcastle-united added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r02-gb-eng-chelsea-gb-eng-brighton added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r02-gb-eng-leeds-united-gb-eng-brentford added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r02-gb-eng-sunderland-gb-eng-fulham added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r02-gb-eng-manchester-united-gb-eng-ipswich-town added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r02-gb-eng-aston-villa-gb-eng-arsenal added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r03-gb-eng-ipswich-town-gb-eng-liverpool added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r03-gb-eng-newcastle-united-gb-eng-bournemouth added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r03-gb-eng-brentford-gb-eng-sunderland added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r03-gb-eng-brighton-gb-eng-leeds-united added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r03-gb-eng-fulham-gb-eng-crystal-palace added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r03-gb-eng-manchester-city-gb-eng-coventry-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r03-gb-eng-everton-gb-eng-manchester-united added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r03-gb-eng-arsenal-gb-eng-chelsea added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r04-gb-eng-aston-villa-gb-eng-nottingham-forest added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r04-gb-eng-bournemouth-gb-eng-brentford added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r04-gb-eng-chelsea-gb-eng-hull-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r04-gb-eng-crystal-palace-gb-eng-ipswich-town added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r04-gb-eng-sunderland-gb-eng-arsenal added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r04-gb-eng-coventry-city-gb-eng-brighton added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r04-gb-eng-manchester-united-gb-eng-manchester-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r04-gb-eng-leeds-united-gb-eng-newcastle-united added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r05-gb-eng-brentford-gb-eng-chelsea added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r05-gb-eng-tottenham-hotspur-gb-eng-aston-villa added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r05-gb-eng-brighton-gb-eng-arsenal added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r05-gb-eng-everton-gb-eng-ipswich-town added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r05-gb-eng-newcastle-united-gb-eng-hull-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r05-gb-eng-nottingham-forest-gb-eng-coventry-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r05-gb-eng-bournemouth-gb-eng-liverpool added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r05-gb-eng-manchester-city-gb-eng-sunderland added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r05-gb-eng-fulham-gb-eng-manchester-united added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r06-gb-eng-arsenal-gb-eng-leeds-united added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r06-gb-eng-aston-villa-gb-eng-brentford added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r06-gb-eng-chelsea-gb-eng-bournemouth added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r06-gb-eng-ipswich-town-gb-eng-fulham added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r06-gb-eng-sunderland-gb-eng-brighton added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r06-gb-eng-manchester-united-gb-eng-tottenham-hotspur added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r06-gb-eng-crystal-palace-gb-eng-nottingham-forest added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r06-gb-eng-hull-city-gb-eng-everton added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r06-gb-eng-liverpool-gb-eng-manchester-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r06-gb-eng-coventry-city-gb-eng-newcastle-united added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r07-gb-eng-everton-gb-eng-chelsea added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r07-gb-eng-brentford-gb-eng-liverpool added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r07-gb-eng-fulham-gb-eng-hull-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r07-gb-eng-manchester-city-gb-eng-ipswich-town added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r07-gb-eng-newcastle-united-gb-eng-aston-villa added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r07-gb-eng-bournemouth-gb-eng-sunderland added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r07-gb-eng-brighton-gb-eng-crystal-palace added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r07-gb-eng-leeds-united-gb-eng-manchester-united added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r07-gb-eng-nottingham-forest-gb-eng-arsenal added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r07-gb-eng-tottenham-hotspur-gb-eng-coventry-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r08-gb-eng-aston-villa-gb-eng-manchester-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r08-gb-eng-arsenal-gb-eng-everton added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r08-gb-eng-coventry-city-gb-eng-fulham added scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r01-es-alaves-es-getafe added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r01-es-sevilla-es-rayo-vallecano added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r01-es-racing-santander-es-villarreal added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r01-es-espanyol-es-levante added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r01-es-deportivo-la-coruna-es-elche added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r01-es-atletico-madrid-es-malaga added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r02-es-rayo-vallecano-es-alaves added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r02-es-real-betis-es-real-sociedad added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r02-es-athletic-club-es-sevilla added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r02-es-espanyol-es-real-madrid added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r02-es-atletico-madrid-es-villarreal added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r02-es-getafe-es-racing-santander added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r02-es-elche-es-barcelona added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r02-es-malaga-es-deportivo-la-coruna added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r01-es-valencia-es-real-betis added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r01-es-real-madrid-es-real-sociedad added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r01-es-celta-vigo-es-osasuna added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r01-es-barcelona-es-athletic-club added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r03-es-racing-santander-es-elche added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r03-es-alaves-es-villarreal added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r03-es-levante-es-real-betis added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r03-es-real-sociedad-es-espanyol added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r03-es-sevilla-es-atletico-madrid added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r03-es-real-madrid-es-malaga added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r03-es-deportivo-la-coruna-es-valencia added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r03-es-celta-vigo-es-athletic-club added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r03-es-osasuna-es-getafe added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r03-es-barcelona-es-rayo-vallecano added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r04-es-real-betis-es-real-madrid added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r04-es-athletic-club-es-atletico-madrid added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r04-es-rayo-vallecano-es-racing-santander added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r04-es-villarreal-es-deportivo-la-coruna added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r04-es-valencia-es-barcelona added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r04-es-alaves-es-osasuna added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r04-es-espanyol-es-sevilla added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r04-es-getafe-es-celta-vigo added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r04-es-elche-es-real-sociedad added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r05-es-sevilla-es-valencia added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r05-es-racing-santander-es-alaves added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r05-es-osasuna-es-espanyol added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r05-es-athletic-club-es-elche added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r05-es-real-madrid-es-rayo-vallecano added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r05-es-celta-vigo-es-malaga added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r05-es-levante-es-barcelona added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r05-es-getafe-es-deportivo-la-coruna added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r05-es-real-sociedad-es-atletico-madrid added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r05-es-villarreal-es-real-betis added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r06-es-rayo-vallecano-es-espanyol added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r06-es-alaves-es-valencia added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r06-es-elche-es-real-madrid added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r06-es-atletico-madrid-es-osasuna added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r06-es-deportivo-la-coruna-es-sevilla added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r06-es-barcelona-es-racing-santander added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r06-es-real-betis-es-getafe added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r06-es-malaga-es-villarreal added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r07-es-espanyol-es-elche added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r07-es-osasuna-es-rayo-vallecano added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r07-es-celta-vigo-es-racing-santander added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r07-es-sevilla-es-barcelona added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r07-es-getafe-es-malaga added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r07-es-atletico-madrid-es-real-madrid added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r07-es-deportivo-la-coruna-es-real-betis added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r07-es-villarreal-es-levante added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r07-es-valencia-es-real-sociedad added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r08-es-malaga-es-espanyol added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r08-es-alaves-es-atletico-madrid added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r08-es-barcelona-es-getafe added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r08-es-real-madrid-es-villarreal added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r08-es-real-sociedad-es-deportivo-la-coruna added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r08-es-real-betis-es-osasuna added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r08-es-racing-santander-es-valencia added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r08-es-levante-es-sevilla added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r09-es-deportivo-la-coruna-es-levante added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r09-es-espanyol-es-atletico-madrid added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r09-es-real-betis-es-barcelona added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r09-es-osasuna-es-racing-santander added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r09-es-celta-vigo-es-alaves added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r09-es-malaga-es-real-sociedad added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r09-es-real-madrid-es-sevilla added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r09-es-getafe-es-rayo-vallecano added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r06-es-levante-es-athletic-club added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r10-es-alaves-es-malaga added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r10-es-rayo-vallecano-es-elche added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r10-es-racing-santander-es-espanyol added scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r10-es-valencia-es-villarreal added scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r10-es-atletico-madrid-es-deportivo-la-coruna added half-time and scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gb-r02-ae-al-jazira-tm-arkadag added half-time and scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-hatta-ae-shabab-al-ahli added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-kalba-ae-khorfakkan added half-time and scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-ajman-ae-sharjah added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-al-wasl-ae-al-ain added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-al-nasr-ae-united added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-al-dhafra-ae-bani-yas added half-time and scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r01-ae-al-jazira-ae-al-wahda added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-sharjah-ae-al-dhafra added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-united-ae-hatta added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-bani-yas-ae-al-wahda added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-al-ain-ae-ajman added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-al-wasl-ae-kalba added half-time and scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-khorfakkan-ae-al-jazira added half-time and scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r02-ae-shabab-al-ahli-ae-al-nasr added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-al-ain-ae-kalba added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-shabab-al-ahli-ae-united added half-time and scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-al-nasr-ae-hatta added half-time and scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-khorfakkan-ae-al-wasl added half-time and scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-ajman-ae-bani-yas added half-time and scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r03-ae-al-wahda-ae-al-dhafra added scorers to the confirmed result
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-al-jazira-ae-ajman added scorers to the confirmed result
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-al-wasl-ae-kalba added scorers to the confirmed result
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-shabab-al-ahli-ae-al-ain added scorers to the confirmed result
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-fujairah-ae-al-wahda added scorers to the confirmed result
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-al-nasr-ae-bani-yas added scorers to the confirmed result
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-sharjah-ae-al-orooba added scorers to the confirmed result
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-hatta-ae-united added scorers to the confirmed result
+  - ✓ result gulf-club-cl-2026-27-groups-ga-r01-sa-neom-ye-shaab-hadramaut added scorers to the confirmed result
+  - ✓ result gulf-club-cl-2026-27-groups-gb-r01-qa-qatar-sc-iq-al-zawraa added scorers to the confirmed result
+  - ✓ result gulf-club-cl-2026-27-groups-gb-r01-ae-al-nasr-bh-al-riffa added half-time and scorers to the confirmed result
+  - ✓ result gulf-club-cl-2026-27-groups-ga-r01-qa-al-duhail-om-al-shabab-oman added scorers to the confirmed result
+  - ✓ result gulf-club-cl-2026-27-groups-gc-r01-sa-al-ettifaq-kw-kazma added scorers to the confirmed result
+  - ✓ result gulf-club-cl-2026-27-groups-gc-r01-ae-ajman-iq-erbil added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-al-nasr-ae-kalba added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-al-wahda-ae-ajman added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-al-dhafra-ae-sharjah added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-al-wasl-ae-united added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-khorfakkan-ae-shabab-al-ahli added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-hatta-ae-al-jazira added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r01-ae-bani-yas-ae-al-ain added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-kalba-ae-al-wasl added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-al-nasr-ae-al-wahda added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-ajman-ae-hatta added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-shabab-al-ahli-ae-al-dhafra added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-al-ain-ae-khorfakkan added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-bani-yas-ae-united added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r02-ae-sharjah-ae-al-jazira added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-united-ae-kalba added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-al-wasl-ae-shabab-al-ahli added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-al-jazira-ae-ajman added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-khorfakkan-ae-al-dhafra added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-al-ain-ae-al-nasr added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-hatta-ae-sharjah added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r03-ae-al-wahda-ae-bani-yas added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-kalba-ae-al-ain added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-al-wasl-ae-khorfakkan added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-bani-yas-ae-hatta added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-sharjah-ae-united added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-shabab-al-ahli-ae-al-jazira added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-al-nasr-ae-ajman added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r04-ae-al-dhafra-ae-al-wahda added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-al-jazira-ae-al-nasr added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-united-ae-shabab-al-ahli added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-al-ain-ae-al-wasl added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-hatta-ae-al-dhafra added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-ajman-ae-kalba added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r05-ae-al-wahda-ae-sharjah added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-al-dhafra-ae-united added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-bani-yas-ae-al-wasl added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-al-nasr-ae-hatta added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-shabab-al-ahli-ae-al-ain added scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-kalba-ae-al-jazira added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-khorfakkan-ae-al-wahda added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r06-ae-ajman-ae-sharjah added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-be-club-brugge-gb-eng-aston-villa added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-gr-aek-athens-at-lask added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-de-borussia-dortmund-es-villarreal added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-es-real-madrid-it-inter-milan added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-fr-lille-es-real-betis added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-pt-porto-gb-eng-manchester-city added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-de-vfb-stuttgart-no-viking added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-es-barcelona-nl-feyenoord added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-fr-paris-saint-germain-sk-slovan-bratislava added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-gb-eng-liverpool-es-atletico-madrid added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-it-napoli-gb-eng-arsenal added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-pt-sporting-cp-tr-galatasaray added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-nl-psv-eindhoven-ua-shakhtar-donetsk added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-tr-fenerbahce-it-roma added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-cz-slavia-prague-fr-lens added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-de-bayern-munich-no-bod-glimt added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-gb-eng-manchester-united-az-sabah added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r01-it-como-de-rb-leipzig added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-az-sabah-cz-slavia-prague added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-fr-lens-pt-sporting-cp added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-de-rb-leipzig-nl-psv-eindhoven added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-es-atletico-madrid-gb-eng-manchester-united added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-es-villarreal-it-napoli added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-gb-eng-arsenal-fr-lille added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-it-inter-milan-be-club-brugge added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-no-viking-de-bayern-munich added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-tr-galatasaray-es-barcelona added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-at-lask-gb-eng-liverpool added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-nl-feyenoord-it-como added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-es-real-betis-pt-porto added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-gb-eng-aston-villa-tr-fenerbahce added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-gb-eng-manchester-city-fr-paris-saint-germain added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-it-roma-es-real-madrid added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-no-bod-glimt-de-borussia-dortmund added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-sk-slovan-bratislava-de-vfb-stuttgart added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r02-ua-shakhtar-donetsk-gr-aek-athens added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-az-sabah-de-borussia-dortmund added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-tr-fenerbahce-cz-slavia-prague added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-de-vfb-stuttgart-es-atletico-madrid added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-fr-paris-saint-germain-es-barcelona added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-gb-eng-liverpool-es-villarreal added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-gb-eng-manchester-city-gr-aek-athens added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-it-napoli-no-bod-glimt added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-it-roma-sk-slovan-bratislava added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-pt-porto-nl-psv-eindhoven added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-fr-lille-tr-galatasaray added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-it-como-gb-eng-manchester-united added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-be-club-brugge-fr-lens added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-de-bayern-munich-gb-eng-arsenal added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-es-real-betis-nl-feyenoord added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-es-real-madrid-de-rb-leipzig added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-gb-eng-aston-villa-no-viking added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-it-inter-milan-ua-shakhtar-donetsk added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r03-pt-sporting-cp-at-lask added scorers to the confirmed result

@@ -35,13 +35,22 @@
     "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2095150",
     "https://www.albayan.ae/sports/uae-stadiums/1559887",
     "https://www.alkhaleej.ae/2026-10-23/رياضة/رياضة-الإمارات/شباب-الأهلي-يجرد-العين-من-لقب-أغلى-الكؤوس",
-    "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2094882"
+    "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2094882",
+    "https://sharjah24.ae/en/Articles/2026/10/22/a9"
    ],
    "updatedAt": "2026-10-23T09:32:25.814Z",
    "venueSources": [
     "https://www.albayan.ae/sports/arab-stadiums/1559887",
     "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ],
+   "goals": [
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Bruno de Oliveira",
+     "type": "goal"
+    }
    ]
   },
   {
@@ -93,13 +102,41 @@
     "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2095168",
     "https://www.albayan.ae/sports/uae-stadiums/1559824",
     "https://www.albayan.ae/sports/uae-stadiums/1559887",
-    "https://www.alkhaleej.ae/2026-10-23/رياضة/رياضة-الإمارات/شباب-الأهلي-يجرد-العين-من-لقب-أغلى-الكؤوس"
+    "https://www.alkhaleej.ae/2026-10-23/رياضة/رياضة-الإمارات/شباب-الأهلي-يجرد-العين-من-لقب-أغلى-الكؤوس",
+    "https://sharjah24.ae/en/Articles/2026/10/22/a11"
    ],
    "updatedAt": "2026-10-23T09:32:25.814Z",
    "venueSources": [
     "https://www.albayan.ae/sports/arab-stadiums/1559887",
     "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ],
+   "goals": [
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Nicolás Giménez",
+     "type": "goal",
+     "extra": 6
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Carlos Filho",
+     "type": "goal"
+    },
+    {
+     "minute": 101,
+     "side": "away",
+     "player": "Marwan Al Watani",
+     "type": "goal"
+    },
+    {
+     "minute": 111,
+     "side": "home",
+     "player": "Soufiane Bouftini",
+     "type": "goal"
+    }
    ]
   },
   {
@@ -147,13 +184,47 @@
     "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2095213",
     "https://www.albayan.ae/sports/uae-stadiums/1559887",
     "https://www.alkhaleej.ae/2026-10-23/رياضة/رياضة-الإمارات/شباب-الأهلي-يجرد-العين-من-لقب-أغلى-الكؤوس",
-    "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2094882"
+    "https://www.emaratalyoum.com/sports/local/2026-10-22-1.2094882",
+    "https://sharjah24.ae/en/Articles/2026/10/22/a17"
    ],
    "updatedAt": "2026-10-23T09:32:25.814Z",
    "venueSources": [
     "https://www.albayan.ae/sports/arab-stadiums/1559887",
     "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ],
+   "goals": [
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Saeid Ezatolahi",
+     "type": "penalty"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Saeid Ezatolahi",
+     "type": "penalty"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Matías Palacios",
+     "type": "goal",
+     "extra": 6
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Wout Faes",
+     "type": "own-goal"
+    },
+    {
+     "minute": 116,
+     "side": "home",
+     "player": "Mateus Lima",
+     "type": "goal"
+    }
    ]
   },
   {
@@ -195,6 +266,14 @@
     "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095518",
     "https://sharjah24.ae/en/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
+   ],
+   "goals": [
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Adam Čerin",
+     "type": "goal"
+    }
    ]
   },
   {
@@ -236,14 +315,23 @@
    },
    "sources": [
     "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095554",
-    "https://www.albayan.ae/amp/sports/uae-stadiums/1560067"
+    "https://www.albayan.ae/amp/sports/uae-stadiums/1560067",
+    "https://www.alkhaleej.ae/2026-10-24/رياضة/رياضة-الإمارات/الوحدة-وبني-ياس-يتأهلان-إلى-ربع-نهائي-أغلى-الكؤوس"
    ],
    "venueSources": [
     "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095554",
     "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
    ],
-   "updatedAt": "2026-10-25T01:44:09.888Z"
+   "updatedAt": "2026-10-25T01:44:09.888Z",
+   "goals": [
+    {
+     "minute": 104,
+     "side": "away",
+     "player": "Mohammed Awadallah",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra",
@@ -356,7 +444,15 @@
     "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
    ],
-   "updatedAt": "2026-10-24T15:47:46.164Z"
+   "updatedAt": "2026-10-24T15:47:46.164Z",
+   "goals": [
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "Cheickna Doumbia",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-presidents-cup-2026-27-r16-ae-hatta-ae-united",
@@ -400,7 +496,15 @@
     "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
    ],
-   "updatedAt": "2026-10-24T19:37:08.938Z"
+   "updatedAt": "2026-10-24T19:37:08.938Z",
+   "goals": [
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "M. Ben Alarbi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-presidents-cup-2026-27-qf-ae-al-jazira-ae-al-wahda",

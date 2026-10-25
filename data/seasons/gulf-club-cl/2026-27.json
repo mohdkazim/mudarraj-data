@@ -25,9 +25,37 @@
    "neutral": false,
    "sources": [
     "https://www.raya.com/2026/10/14/الدحيل-يستهل-مشواره-بدوري-أبطال-الخليج-للأندية-بثلاثية-عمانية",
-    "https://www.omanobserver.om/article/1197885/sports/football/al-duhail-blank-al-shabab-in-gulf-opener"
+    "https://www.omanobserver.om/article/1197885/sports/football/al-duhail-blank-al-shabab-in-gulf-opener",
+    "https://spa.gov.sa/N2700863",
+    "https://www.alyaum.com/ampArticle/6686836"
    ],
-   "updatedAt": "2026-10-23T09:37:36.843Z"
+   "updatedAt": "2026-10-23T09:37:36.843Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Lacazette",
+     "type": "goal"
+    },
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "Said Benrahma",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Mohammed Waleed",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Lacazette",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "gulf-club-cl-2026-27-groups-gb-r01-qa-qatar-sc-iq-al-zawraa",
@@ -54,7 +82,22 @@
     "https://qna.org.qa/en/News-Area/News/2026-10/13/gulf-club-champions-league-qatar-sc-draw-1-1-with-iraqs-al-zawraa",
     "https://www.qatar-tribune.com/article/259004/sports/qatar-sc-in-1-1-draw-with-iraqs-al-zawraa"
    ],
-   "updatedAt": "2026-10-23T09:37:36.843Z"
+   "updatedAt": "2026-10-23T09:37:36.843Z",
+   "goals": [
+    {
+     "minute": 21,
+     "side": "away",
+     "player": "Mohamed Sherif",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Yohan Boli",
+     "type": "goal",
+     "extra": 5
+    }
+   ]
   },
   {
    "id": "gulf-club-cl-2026-27-groups-gb-r01-ae-al-nasr-bh-al-riffa",
@@ -73,7 +116,11 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
@@ -81,7 +128,27 @@
     "https://www.emaratalyoum.com/sports/local/2026-10-13-1.2092245",
     "https://www.gdnonline.com/Details/1409602/Riffa-off-to-losing-start"
    ],
-   "updatedAt": "2026-10-23T09:37:36.843Z"
+   "updatedAt": "2026-10-23T09:37:36.843Z",
+   "goals": [
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "Nazareno Mierez",
+     "type": "goal"
+    },
+    {
+     "minute": 46,
+     "side": "home",
+     "player": "Kevin Agudelo",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Ajdin Hrustic",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "gulf-club-cl-2026-27-groups-ga-r01-qa-al-duhail-om-al-shabab-oman",
@@ -109,7 +176,27 @@
     "https://www.qatar-tribune.com/article/259245/sports/gulf-club-champions-league-al-duhail-make-winning-start",
     "https://www.raya.com/2026/10/14/الدحيل-يستهل-مشواره-بدوري-أبطال-الخليج-للأندية-بثلاثية-عمانية"
    ],
-   "updatedAt": "2026-10-23T09:37:36.843Z"
+   "updatedAt": "2026-10-23T09:37:36.843Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Almoez Ali",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Almoez Ali",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Sekou Oumar Yansane",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "gulf-club-cl-2026-27-groups-gc-r01-sa-al-ettifaq-kw-kazma",
@@ -136,7 +223,22 @@
     "https://sabq.org/article/2onqi43",
     "https://kuwaittimes.com/article/51657/sports/kuwait-sc-beat-al-khalidiya-in-afc-champions-league-two-kazma-lose-to-ettifaq/"
    ],
-   "updatedAt": "2026-10-23T09:37:36.843Z"
+   "updatedAt": "2026-10-23T09:37:36.843Z",
+   "goals": [
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Duda",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Larsson",
+     "type": "goal",
+     "extra": 2
+    }
+   ]
   },
   {
    "id": "gulf-club-cl-2026-27-groups-gc-r01-ae-ajman-iq-erbil",
@@ -166,9 +268,66 @@
    "sources": [
     "https://www.albayan.ae/sports/arab-stadiums/1558154",
     "https://www.emaratalyoum.com/sports/local/2026-10-15-1.2092973",
-    "https://www.alkhaleej.ae/2026-10-13/رياضة/رياضة-الإمارات/ظهور-تاريخي-خليجي-لعجمان-أمام-أربيل-العراقي"
+    "https://www.alkhaleej.ae/2026-10-13/رياضة/رياضة-الإمارات/ظهور-تاريخي-خليجي-لعجمان-أمام-أربيل-العراقي",
+    "https://sharjah24.ae/ar/Articles/2026/10/15/mm30"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "Nathan Meloni",
+     "type": "goal"
+    },
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Victor Henrique",
+     "type": "goal"
+    },
+    {
+     "minute": 20,
+     "side": "away",
+     "player": "Amir Jamous",
+     "type": "goal"
+    },
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Nathan Meloni",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Victor Henrique",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Waleed Azaro",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Ifeanyi Eze",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Bilal Yousif",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Victor Henrique",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "gulf-club-cl-2026-27-groups-ga-r02-om-al-shabab-oman-sa-neom",

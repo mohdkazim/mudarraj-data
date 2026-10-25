@@ -27,7 +27,39 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "John McGinn",
+     "type": "goal"
+    },
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Hugo Vetlesen",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Emiliano Buendía",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Nicolas Jackson",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Nicolo Tresoldi",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-gr-aek-athens-at-lask",
@@ -54,7 +86,15 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Razvan Marin",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-de-borussia-dortmund-es-villarreal",
@@ -81,7 +121,40 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Renato Veiga",
+     "type": "own-goal"
+    },
+    {
+     "minute": 66,
+     "side": "away",
+     "player": "Santiago Mouriño",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Serhou Guirassy",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Serhou Guirassy",
+     "type": "penalty"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Serhou Guirassy",
+     "type": "own-goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-es-real-madrid-it-inter-milan",
@@ -108,7 +181,27 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 14,
+     "side": "home",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Federico Valverde",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Carlos Augusto",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-fr-lille-es-real-betis",
@@ -135,7 +228,39 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Ayase Ueda",
+     "type": "goal"
+    },
+    {
+     "minute": 33,
+     "side": "away",
+     "player": "Marc Bartra",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Alexsandro",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Marc Bartra",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Troy Parrott",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-pt-porto-gb-eng-manchester-city",
@@ -162,7 +287,22 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260908",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 47,
+     "side": "away",
+     "player": "Erling Haaland",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Erling Haaland",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-de-vfb-stuttgart-no-viking",
@@ -189,7 +329,33 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Ermedin Demirovic",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Zlatko Tripic",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Ermedin Demirovic",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Ermedin Demirovic",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-es-barcelona-nl-feyenoord",
@@ -216,7 +382,45 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 3,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "home",
+     "player": "Karim Adeyemi",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Lamine Yamal",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Sem Steijn",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Gabriel Jesus",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-fr-paris-saint-germain-sk-slovan-bratislava",
@@ -243,7 +447,51 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Ousmane Dembélé",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Ousmane Dembélé",
+     "type": "goal"
+    },
+    {
+     "minute": 31,
+     "side": "home",
+     "player": "Ferran Torres",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "home",
+     "player": "Ferran Torres",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Ferran Torres",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "away",
+     "player": "Suleiman Camara",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Fabián Ruiz",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-gb-eng-liverpool-es-atletico-madrid",
@@ -270,7 +518,27 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Marcos Llorente",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "Dominik Szoboszlai",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "Alexis Mac Allister",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-it-napoli-gb-eng-arsenal",
@@ -297,7 +565,15 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 75,
+     "side": "away",
+     "player": "Martin Ødegaard",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-pt-sporting-cp-tr-galatasaray",
@@ -324,7 +600,33 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260909",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Gonçalo Inácio",
+     "type": "own-goal"
+    },
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Geny Catamo",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Luis Suárez",
+     "type": "penalty"
+    },
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Rodrigo Zalazar",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-nl-psv-eindhoven-ua-shakhtar-donetsk",
@@ -351,7 +653,22 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Gleiker Mendoza",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Sergiño Dest",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-tr-fenerbahce-it-roma",
@@ -378,7 +695,21 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Bryan Cristante",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Archie Brown",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-cz-slavia-prague-fr-lens",
@@ -405,7 +736,41 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Danijel Sturm",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "away",
+     "player": "Abdallah Sima",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Danijel Sturm",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Florian Thauvin",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Ruben Aguilar",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-de-bayern-munich-no-bod-glimt",
@@ -432,7 +797,40 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 47,
+     "side": "home",
+     "player": "Jamal Musiala",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Harry Kane",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Alphonso Davies",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "Michael Olise",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Michael Olise",
+     "type": "goal",
+     "extra": 2
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-gb-eng-manchester-united-az-sabah",
@@ -459,7 +857,33 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Matheus Cunha",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "Bruno Fernandes",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Benjamin Sesko",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Lisandro Martínez",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r01-it-como-de-rb-leipzig",
@@ -486,7 +910,39 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20260910",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=1&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "Martin Baturina",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Anastasios Douvikas",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Assane Diao",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "away",
+     "player": "Andrija Maksimovic",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Máximo Perrone",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-az-sabah-cz-slavia-prague",
@@ -514,7 +970,21 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "Kaheem Parris",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Joy-Lance Mickels",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-fr-lens-pt-sporting-cp",
@@ -542,7 +1012,21 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Luis Suárez",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Issa Doumbia",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-de-rb-leipzig-nl-psv-eindhoven",
@@ -570,7 +1054,15 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Brajan Gruda",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-es-atletico-madrid-gb-eng-manchester-united",
@@ -598,7 +1090,21 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 1,
+     "side": "home",
+     "player": "Pablo Barrios",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Ademola Lookman",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-es-villarreal-it-napoli",
@@ -623,9 +1129,36 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915410"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 8,
+     "side": "away",
+     "player": "Amir Rrahmani",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Georges Mikautadze",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Santiago Mouriño",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "Tani Oluwaseyi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-gb-eng-arsenal-fr-lille",
@@ -653,7 +1186,27 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "Jurriën Timber",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "Eberechi Eze",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Bukayo Saka",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-it-inter-milan-be-club-brugge",
@@ -681,7 +1234,52 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 30,
+     "side": "away",
+     "player": "Nicolo Tresoldi",
+     "type": "penalty"
+    },
+    {
+     "minute": 44,
+     "side": "home",
+     "player": "Lautaro Martínez",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "away",
+     "player": "Nicolo Tresoldi",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Nicolo Tresoldi",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Lautaro Martínez",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Romeo Vermant",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Ange-Yoan Bonny",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-no-viking-de-bayern-munich",
@@ -707,9 +1305,48 @@
    "sources": [
     "https://www.skysports.com/champions-league-results",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915411"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "home",
+     "player": "Gianni Stensness",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Peter Christiansen",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Harry Kane",
+     "type": "penalty"
+    },
+    {
+     "minute": 60,
+     "side": "away",
+     "player": "Harry Kane",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "away",
+     "player": "Luis Díaz",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Herman Haugen",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-tr-galatasaray-es-barcelona",
@@ -737,7 +1374,39 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261013",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 28,
+     "side": "home",
+     "player": "Alexey Batrakov",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "João Cancelo",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Fermín López",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Anthony Gordon",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Karim Adeyemi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-at-lask-gb-eng-liverpool",
@@ -762,9 +1431,66 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027",
+    "https://www.skysports.com/football/linz-ask-vs-liverpool/7984702950653026232"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "R Araújo",
+     "type": "goal"
+    },
+    {
+     "minute": 24,
+     "side": "away",
+     "player": "B Barcola",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "away",
+     "player": "B Barcola",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "J Frimpong",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "R Ljubicic",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "away",
+     "player": "B Barcola",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "away",
+     "player": "L Koumas",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "F Flecker",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "F Flecker",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-nl-feyenoord-it-como",
@@ -789,9 +1515,43 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027",
+    "https://www.skysports.com/football/feyenoord-vs-como/7957235936756191232"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "A Diao",
+     "type": "goal"
+    },
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "G Zechiël",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "A Hadj Moussa",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "R Sanchez",
+     "type": "own-goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "A Douvikas",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-es-real-betis-pt-porto",
@@ -816,9 +1576,42 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027",
+    "https://www.skysports.com/football/real-betis-vs-fc-porto/6735654794811009232"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 47,
+     "side": "home",
+     "player": "A Ezzalzouli",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "G Veiga",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "S Omorodion Aghehowa",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "home",
+     "player": "J Hernandez",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "home",
+     "player": "Isco",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-gb-eng-aston-villa-tr-fenerbahce",
@@ -843,9 +1636,48 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027",
+    "https://www.skysports.com/football/aston-villa-vs-fenerbahce/6594096108796731232"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "J Manzambi",
+     "type": "goal"
+    },
+    {
+     "minute": 31,
+     "side": "home",
+     "player": "N Jackson",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "N Jackson",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "R Barkley",
+     "type": "penalty"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "R Barkley",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "T Abraham",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-gb-eng-manchester-city-fr-paris-saint-germain",
@@ -870,9 +1702,48 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027",
+    "https://www.skysports.com/football/manchester-city-vs-paris-saint-germain/6569282539352216232"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "D Doué",
+     "type": "goal"
+    },
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "O Dembélé",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "Vitinha",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "E Haaland",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "M Akliouche",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "E Haaland",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-it-roma-es-real-madrid",
@@ -897,9 +1768,54 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027",
+    "https://www.skysports.com/football/roma-vs-real-madrid/6305274831666952232"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "M de Roon",
+     "type": "goal"
+    },
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "K Mbappe",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "D Malen",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "D Malen",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "away",
+     "player": "C Espí",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Endrick",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "A Rüdiger",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-no-bod-glimt-de-borussia-dortmund",
@@ -924,9 +1840,18 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027",
+    "https://www.skysports.com/football/bodo-glimt-vs-borussia-dortmund/6282556389925636232"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "F Sjøvold",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-sk-slovan-bratislava-de-vfb-stuttgart",
@@ -951,9 +1876,30 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027",
+    "https://www.skysports.com/football/sk-slovan-bratislava-vs-stuttgart/7230622265409066232"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 29,
+     "side": "away",
+     "player": "D Undav",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "S Rosa Cruz",
+     "type": "own-goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "E Demirovic",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r02-ua-shakhtar-donetsk-gr-aek-athens",
@@ -987,7 +1933,8 @@
    "neutral": true,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=2&s=2026-2027",
+    "https://www.skysports.com/football/shakhtar-donetsk-vs-aek-athens/7737127874774457232"
    ],
    "updatedAt": "2026-10-23T09:18:38.139Z",
    "venueSources": [
@@ -996,6 +1943,32 @@
     "https://shakhtar.com/en/news/2026/august/21_news/21_shakhtar_stamford_bridge/",
     "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
     "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
+   ],
+   "goals": [
+    {
+     "minute": 28,
+     "side": "away",
+     "player": "L Majer",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "P Delmino da Silva",
+     "type": "penalty"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "V Tobias da Silva",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "G Mendoza",
+     "type": "goal"
+    }
    ]
   },
   {
@@ -1024,7 +1997,27 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "away",
+     "player": "Serhou Guirassy",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "Aden Mccarthy",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Serhou Guirassy",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-tr-fenerbahce-cz-slavia-prague",
@@ -1052,7 +2045,33 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Oguz Aydin",
+     "type": "goal"
+    },
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Mason Greenwood",
+     "type": "goal"
+    },
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "Lukás Provod",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Pavel Kacor",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-de-vfb-stuttgart-es-atletico-madrid",
@@ -1077,9 +2096,24 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915392"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Jamie Leweling",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "away",
+     "player": "Julián Álvarez",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-fr-paris-saint-germain-es-barcelona",
@@ -1105,9 +2139,48 @@
    "sources": [
     "https://www.skysports.com/champions-league-results",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027",
+    "https://www.skysports.com/football/paris-saint-germain-vs-barcelona/5027203664201118232"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "D Doué",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "X Espart",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "L Hernandez",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "L Yamal",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Vitinha",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "F Ruiz Peña",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-gb-eng-liverpool-es-villarreal",
@@ -1135,7 +2208,52 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 4,
+     "side": "away",
+     "player": "Georges Mikautadze",
+     "type": "goal"
+    },
+    {
+     "minute": 29,
+     "side": "away",
+     "player": "Sergi Cardona",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Alexis Mac Allister",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Ronald Araújo",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 65,
+     "side": "home",
+     "player": "Alexis Mac Allister",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Florian Wirtz",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Tani Oluwaseyi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-gb-eng-manchester-city-gr-aek-athens",
@@ -1163,7 +2281,45 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Elliot Anderson",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "Phil Foden",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Stavros Pilios",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Rayan Cherki",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "home",
+     "player": "Phil Foden",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "Phil Foden",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-it-napoli-no-bod-glimt",
@@ -1191,7 +2347,52 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 1,
+     "side": "home",
+     "player": "Matteo Politano",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "away",
+     "player": "Jens Petter Hauge",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Scott McTominay",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Andreas Helmersen",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Scott McTominay",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Odin Bjørtuft",
+     "type": "own-goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Sondre Brunstad Fet",
+     "type": "goal",
+     "extra": 4
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-it-roma-sk-slovan-bratislava",
@@ -1219,7 +2420,33 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Mario Hermoso",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "Nahuel Molina",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "Niccolò Pisilli",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "Donyell Malen",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-pt-porto-nl-psv-eindhoven",
@@ -1247,7 +2474,15 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261020",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Guus Til",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-fr-lille-tr-galatasaray",
@@ -1272,9 +2507,48 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "away",
+     "player": "Yunus Akgün",
+     "type": "goal"
+    },
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Soriba Diaoune",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "Soriba Diaoune",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "away",
+     "player": "Alexey Batrakov",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Berke Özer",
+     "type": "own-goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Victor Osimhen",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-it-como-gb-eng-manchester-united",
@@ -1299,9 +2573,43 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "home",
+     "player": "Nico Paz",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "Anastasios Douvikas",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Nico Paz",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "Jacobo Ramón",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Joshua Zirkzee",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-be-club-brugge-fr-lens",
@@ -1326,9 +2634,31 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Hans Vanaken",
+     "type": "goal",
+     "extra": 3
+    },
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "Joaquin Seys",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Carlos Forbs",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-de-bayern-munich-gb-eng-arsenal",
@@ -1353,9 +2683,36 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Eberechi Eze",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Alphonso Davies",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Harry Kane",
+     "type": "penalty"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Declan Rice",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-es-real-betis-nl-feyenoord",
@@ -1380,9 +2737,18 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Isco",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-es-real-madrid-de-rb-leipzig",
@@ -1407,9 +2773,42 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Bernardo Silva",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "Arda Güler",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Tidiam Gomis",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Yan Diomande",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-gb-eng-aston-villa-no-viking",
@@ -1434,9 +2833,36 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Ross Barkley",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "Emiliano Buendía",
+     "type": "penalty"
+    },
+    {
+     "minute": 62,
+     "side": "home",
+     "player": "Henrik Heggheim",
+     "type": "own-goal"
+    },
+    {
+     "minute": 84,
+     "side": "away",
+     "player": "Peter Christiansen",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-it-inter-milan-ua-shakhtar-donetsk",
@@ -1461,9 +2887,18 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261021"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Carlos Augusto",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r03-pt-sporting-cp-at-lask",
@@ -1488,9 +2923,42 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915391"
    ],
-   "updatedAt": "2026-10-23T09:18:38.139Z"
+   "updatedAt": "2026-10-23T09:18:38.139Z",
+   "goals": [
+    {
+     "minute": 5,
+     "side": "home",
+     "player": "Luis Suárez",
+     "type": "penalty"
+    },
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "Christoph Lang",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "away",
+     "player": "Sasa Kalajdzic",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Krystof Danek",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Luis Suárez",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r04-tr-galatasaray-de-vfb-stuttgart",

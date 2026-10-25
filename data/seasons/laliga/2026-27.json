@@ -19,16 +19,43 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-deportivo-alaves-getafe-cf-1"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Nahuel Tenaglia",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Mariano Díaz",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Mikel Rodríguez",
+     "type": "goal",
+     "extra": 4
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r01-es-sevilla-es-rayo-vallecano",
@@ -47,16 +74,42 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-sevilla-fc-rayo-vallecano-1"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 4,
+     "side": "away",
+     "player": "Álvaro García",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "Jon Guridi",
+     "type": "penalty"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Peque Fernández",
+     "type": "penalty",
+     "extra": 7
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r01-es-racing-santander-es-villarreal",
@@ -75,16 +128,48 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 2
+    "away": 2,
+    "ht": [
+     2,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-r-racing-club-villarreal-cf-1"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Andrés Martín",
+     "type": "penalty"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "Sergio Martínez",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Pape Gueye",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Nicolas Pepe",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r01-es-espanyol-es-levante",
@@ -103,16 +188,41 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 0
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-levante-ud-1"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 5,
+     "side": "home",
+     "player": "Roberto Fernández",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "Roberto Fernández",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Tyrhys Dolan",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r01-es-deportivo-la-coruna-es-elche",
@@ -131,16 +241,35 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rc-deportivo-elche-cf-1"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Pierre-Emerick Aubameyang",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "away",
+     "player": "Marc Aguado",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r01-es-atletico-madrid-es-malaga",
@@ -159,16 +288,35 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-malaga-cf-1"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Lee Kang-In",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Álex Baena",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r02-es-rayo-vallecano-es-alaves",
@@ -187,7 +335,11 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -202,7 +354,8 @@
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-deportivo-alaves-2"
    ],
    "updatedAt": "2026-10-23T09:07:09.904Z",
    "venueSources": [
@@ -210,6 +363,20 @@
     "https://en.wikipedia.org/wiki/Vallecas_Stadium",
     "https://ianslive.in/la-liga-rayo-vallecano-coach-san-jose-unhappy-at-ground-switch-for-alaves-clash--20260819234945",
     "https://footballgroundguide.com/news/rayo-vallecano-temporary-new-home-now-revealed-as-club-forced-to-start-season-at-laliga-2-stadium.html"
+   ],
+   "goals": [
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Sergio Camello",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "away",
+     "player": "Mariano Díaz",
+     "type": "goal"
+    }
    ]
   },
   {
@@ -229,16 +396,29 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-betis-real-sociedad-2"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Rodrigo Riquelme",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r02-es-athletic-club-es-sevilla",
@@ -257,16 +437,47 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-athletic-club-sevilla-fc-2"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "Oso",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Chidera Ejuke",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Isaac Romero",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Aitor Paredes",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r02-es-valencia-es-celta-vigo",
@@ -313,16 +524,41 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 2
+    "away": 2,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-real-madrid-2"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 9,
+     "side": "away",
+     "player": "Jude Bellingham",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "Cala",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Carlos Espí",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r02-es-atletico-madrid-es-villarreal",
@@ -341,16 +577,47 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-villarreal-cf-2"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Marc Pubill",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "away",
+     "player": "Gerard Moreno",
+     "type": "penalty"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Georges Mikautadze",
+     "type": "penalty"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Giuliano Simeone",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r02-es-getafe-es-racing-santander",
@@ -369,16 +636,29 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-getafe-cf-r-racing-club-2"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Enes Ünal",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r02-es-elche-es-barcelona",
@@ -397,16 +677,54 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 5
+    "away": 5,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-elche-cf-fc-barcelona-2"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Raphinha",
+     "type": "penalty"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Karim Adeyemi",
+     "type": "goal",
+     "extra": 3
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "away",
+     "player": "Fermín López",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Fermín López",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r02-es-osasuna-es-levante",
@@ -453,16 +771,35 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-2",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=2&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-malaga-cf-rc-deportivo-2"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 21,
+     "side": "away",
+     "player": "Pierre-Emerick Aubameyang",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "Chupe",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r01-es-valencia-es-real-betis",
@@ -481,16 +818,29 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-valencia-cf-real-betis-1"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 83,
+     "side": "away",
+     "player": "Pablo García",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r01-es-real-madrid-es-real-sociedad",
@@ -509,16 +859,53 @@
    "status": "FT",
    "score": {
     "home": 4,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-madrid-real-sociedad-1"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "away",
+     "player": "Luka Sucic",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Vinícius Júnior",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r01-es-celta-vigo-es-osasuna",
@@ -537,16 +924,41 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 2
+    "away": 2,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rc-celta-ca-osasuna-1"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 14,
+     "side": "home",
+     "player": "Iago Aspas",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Kike Barja",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Ante Budimir",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r01-es-barcelona-es-athletic-club",
@@ -565,16 +977,35 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-1",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=1&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-fc-barcelona-athletic-club-1"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "Fermín López",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r03-es-racing-santander-es-elche",
@@ -593,16 +1024,53 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 2
+    "away": 2,
+    "ht": [
+     3,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-r-racing-club-elche-cf-3"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "Yassir Zabiri",
+     "type": "goal"
+    },
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Yassir Zabiri",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Yassir Zabiri",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Buba Sangaré",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Fer Niño",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r03-es-alaves-es-villarreal",
@@ -621,16 +1089,29 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-deportivo-alaves-villarreal-cf-3"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 31,
+     "side": "home",
+     "player": "Lucas Boyé",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r03-es-levante-es-real-betis",
@@ -649,16 +1130,68 @@
    "status": "FT",
    "score": {
     "home": 5,
-    "away": 2
+    "away": 2,
+    "ht": [
+     2,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-levante-ud-real-betis-3"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 24,
+     "side": "home",
+     "player": "Adrián de la Fuente",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Marc Bartra",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Enzo Bardeli",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Rodrigo Riquelme",
+     "type": "goal",
+     "extra": 4
+    },
+    {
+     "minute": 56,
+     "side": "home",
+     "player": "Roger Brugué",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Roger Brugué",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Jon Ander Olasagasti",
+     "type": "goal",
+     "extra": 5
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r03-es-real-sociedad-es-espanyol",
@@ -677,16 +1210,41 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-sociedad-rcd-espanyol-de-barcelona-3"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Ander Barrenetxea",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Roberto Fernández",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Orri Óskarsson",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r03-es-sevilla-es-atletico-madrid",
@@ -705,16 +1263,47 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     3
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-sevilla-fc-atletico-de-madrid-3"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 4,
+     "side": "away",
+     "player": "Álex Baena",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "away",
+     "player": "Ademola Lookman",
+     "type": "goal"
+    },
+    {
+     "minute": 33,
+     "side": "away",
+     "player": "Álex Baena",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "Miguel Sierra",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r03-es-real-madrid-es-malaga",
@@ -733,16 +1322,48 @@
    "status": "FT",
    "score": {
     "home": 4,
-    "away": 0
+    "away": 0,
+    "ht": [
+     3,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-madrid-malaga-cf-3"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Jude Bellingham",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Alfonso Herrero",
+     "type": "own-goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Arda Güler",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r03-es-deportivo-la-coruna-es-valencia",
@@ -761,16 +1382,47 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 1
+    "away": 1,
+    "ht": [
+     2,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rc-deportivo-valencia-cf-3"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "César Tárrega",
+     "type": "own-goal"
+    },
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Pierre-Emerick Aubameyang",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "away",
+     "player": "Umar Sadiq",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Mouctar Diakhaby",
+     "type": "own-goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r03-es-celta-vigo-es-athletic-club",
@@ -789,16 +1441,35 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rc-celta-athletic-club-3"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 20,
+     "side": "away",
+     "player": "Alex Berenguer",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Robert Navarro",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r03-es-osasuna-es-getafe",
@@ -817,16 +1488,30 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-ca-osasuna-getafe-cf-3"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Ante Budimir",
+     "type": "penalty",
+     "extra": 2
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r03-es-barcelona-es-rayo-vallecano",
@@ -845,16 +1530,65 @@
    "status": "FT",
    "score": {
     "home": 5,
-    "away": 2
+    "away": 2,
+    "ht": [
+     2,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-3",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=3&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-fc-barcelona-rayo-vallecano-3"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 12,
+     "side": "away",
+     "player": "Sergio Camello",
+     "type": "goal"
+    },
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Lamine Yamal",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Florian Lejeune",
+     "type": "own-goal"
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Sergio Camello",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Lamine Yamal",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r06-es-real-sociedad-es-celta-vigo",
@@ -901,16 +1635,29 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-betis-real-madrid-4"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Troy Parrott",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r04-es-athletic-club-es-atletico-madrid",
@@ -929,16 +1676,41 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-athletic-club-atletico-de-madrid-4"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 46,
+     "side": "home",
+     "player": "Nico Williams",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Robert Navarro",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Oihan Sancet",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r04-es-rayo-vallecano-es-racing-santander",
@@ -957,7 +1729,11 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 2
+    "away": 2,
+    "ht": [
+     2,
+     2
+    ]
    },
    "venue": {
     "name": {
@@ -972,12 +1748,45 @@
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-r-racing-club-4"
    ],
    "updatedAt": "2026-10-23T09:07:09.904Z",
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260905",
     "https://webapp.comuniate.com/en/noticias/37733/rayo-racing-will-finally-be-played-this-saturday-at-butarque"
+   ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "away",
+     "player": "Sergio Canales",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Andrei Ratiu",
+     "type": "goal"
+    },
+    {
+     "minute": 28,
+     "side": "away",
+     "player": "Pablo García",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Sergio Camello",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "home",
+     "player": "Sergio Camello",
+     "type": "goal"
+    }
    ]
   },
   {
@@ -997,16 +1806,53 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 3
+    "away": 3,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-villarreal-cf-rc-deportivo-4"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Nicolas Pepe",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Luismi Cruz",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "Adama Traoré",
+     "type": "own-goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Zakaria Eddahchouri",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Pierre-Emerick Aubameyang",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r04-es-valencia-es-barcelona",
@@ -1025,16 +1871,53 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 5
+    "away": 5,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-valencia-cf-fc-barcelona-4"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 6,
+     "side": "away",
+     "player": "Lamine Yamal",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Fermín López",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Pedri",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "away",
+     "player": "Lamine Yamal",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r04-es-alaves-es-osasuna",
@@ -1053,16 +1936,65 @@
    "status": "FT",
    "score": {
     "home": 5,
-    "away": 2
+    "away": 2,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-deportivo-alaves-ca-osasuna-4"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Lucas Boyé",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Mariano Díaz",
+     "type": "goal"
+    },
+    {
+     "minute": 46,
+     "side": "away",
+     "player": "Ante Budimir",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Lucas Boyé",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Ante Budimir",
+     "type": "penalty"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Lucas Boyé",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Pablo Ibáñez",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r04-es-malaga-es-levante",
@@ -1109,16 +2041,36 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-sevilla-fc-4"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Lucas Stassin",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Marcos Fernández",
+     "type": "goal",
+     "extra": 8
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r04-es-getafe-es-celta-vigo",
@@ -1137,16 +2089,35 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-getafe-cf-rc-celta-4"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Martín Satriano",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Carl Starfelt",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r04-es-elche-es-real-sociedad",
@@ -1165,16 +2136,53 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-4",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=4&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-elche-cf-real-sociedad-4"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Job Ochieng",
+     "type": "goal"
+    },
+    {
+     "minute": 31,
+     "side": "away",
+     "player": "Yangel Herrera",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "Thomas Lemar",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "home",
+     "player": "Fer Niño",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Luka Sucic",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r05-es-sevilla-es-valencia",
@@ -1193,16 +2201,29 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-sevilla-fc-valencia-cf-5"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Juan Iglesias",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r05-es-racing-santander-es-alaves",
@@ -1221,16 +2242,41 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-r-racing-club-deportivo-alaves-5"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Ville Koski",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Yassir Zabiri",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Yassir Zabiri",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r05-es-osasuna-es-espanyol",
@@ -1249,16 +2295,35 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-ca-osasuna-rcd-espanyol-de-barcelona-5"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 3,
+     "side": "away",
+     "player": "Roberto Fernández",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Roberto Fernández",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r05-es-athletic-club-es-elche",
@@ -1277,16 +2342,35 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-athletic-club-elche-cf-5"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Facundo Buonanotte",
+     "type": "penalty"
+    },
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Víctor Chust",
+     "type": "own-goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r05-es-real-madrid-es-rayo-vallecano",
@@ -1305,16 +2389,54 @@
    "status": "FT",
    "score": {
     "home": 4,
-    "away": 1
+    "away": 1,
+    "ht": [
+     3,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-madrid-rayo-vallecano-5"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 14,
+     "side": "home",
+     "player": "Kylian Mbappé",
+     "type": "penalty"
+    },
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Álvaro Carreras",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Jude Bellingham",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Sergio Camello",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Kylian Mbappé",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r05-es-celta-vigo-es-malaga",
@@ -1333,16 +2455,35 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rc-celta-malaga-cf-5"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Ferran Jutglà",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "away",
+     "player": "Adrián Niño",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r05-es-levante-es-barcelona",
@@ -1361,16 +2502,60 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 4
+    "away": 4,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-levante-ud-fc-barcelona-5"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Xavi Espart",
+     "type": "goal"
+    },
+    {
+     "minute": 19,
+     "side": "away",
+     "player": "Lamine Yamal",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "away",
+     "player": "Lamine Yamal",
+     "type": "penalty"
+    },
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Iván Romero",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Roger Brugué",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Karim Adeyemi",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r05-es-getafe-es-deportivo-la-coruna",
@@ -1389,16 +2574,35 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-getafe-cf-rc-deportivo-5"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "Ramón Terrats",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Pierre-Emerick Aubameyang",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r05-es-real-sociedad-es-atletico-madrid",
@@ -1417,16 +2621,42 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-sociedad-atletico-de-madrid-5"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 84,
+     "side": "away",
+     "player": "Alejandro Grimaldo",
+     "type": "penalty"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Jonathan David",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Giuliano Simeone",
+     "type": "goal",
+     "extra": 5
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r05-es-villarreal-es-real-betis",
@@ -1445,16 +2675,41 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 2
+    "away": 2,
+    "ht": [
+     1,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-5",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=5&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-villarreal-cf-real-betis-5"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 29,
+     "side": "home",
+     "player": "Gerard Moreno",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Cucho Hernández",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Natan",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r06-es-rayo-vallecano-es-espanyol",
@@ -1473,7 +2728,11 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 1
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -1488,13 +2747,34 @@
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-rcd-espanyol-de-barcelona-6"
    ],
    "updatedAt": "2026-10-23T09:07:09.904Z",
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20260915",
     "https://www.emol.com/noticias/Deportes/2026/10/10/1213832/rayo-vallecano-protesta-suspension-laliga.html",
     "https://en.wikipedia.org/wiki/Butarque_Stadium"
+   ],
+   "goals": [
+    {
+     "minute": 3,
+     "side": "home",
+     "player": "Álvaro García",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Adrià Pedrosa",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Roberto Fernández",
+     "type": "goal"
+    }
    ]
   },
   {
@@ -1514,16 +2794,29 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-deportivo-alaves-valencia-cf-6"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Luis Rioja",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r06-es-elche-es-real-madrid",
@@ -1542,16 +2835,54 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-elche-cf-real-madrid-6"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Matías Dituro",
+     "type": "own-goal"
+    },
+    {
+     "minute": 33,
+     "side": "away",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Abiel Osorio",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "Fer Niño",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Carlos Espí",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r06-es-atletico-madrid-es-osasuna",
@@ -1570,16 +2901,47 @@
    "status": "FT",
    "score": {
     "home": 4,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-ca-osasuna-6"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 24,
+     "side": "home",
+     "player": "Jonathan David",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Lee Kang-In",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Robin Le Normand",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "Álex Baena",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r06-es-deportivo-la-coruna-es-sevilla",
@@ -1598,16 +2960,29 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rc-deportivo-sevilla-fc-6"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Miguel Sierra",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r06-es-barcelona-es-racing-santander",
@@ -1626,16 +3001,77 @@
    "status": "FT",
    "score": {
     "home": 7,
-    "away": 2
+    "away": 2,
+    "ht": [
+     4,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-fc-barcelona-r-racing-club-6"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 8,
+     "side": "home",
+     "player": "João Cancelo",
+     "type": "goal"
+    },
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "penalty"
+    },
+    {
+     "minute": 30,
+     "side": "away",
+     "player": "Maguette Gueye",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Asier Villalibre",
+     "type": "own-goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Yassir Zabiri",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "penalty"
+    },
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Gabriel Jesus",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Lamine Yamal",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r06-es-real-betis-es-getafe",
@@ -1654,16 +3090,29 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-betis-getafe-cf-6"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Abde Ezzalzouli",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r06-es-malaga-es-villarreal",
@@ -1682,16 +3131,48 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 3
+    "away": 3,
+    "ht": [
+     1,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-malaga-cf-villarreal-cf-6"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Carlos Dotor",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Alberto Moleiro",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Pape Gueye",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 86,
+     "side": "away",
+     "player": "Pape Gueye",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r07-es-espanyol-es-elche",
@@ -1710,16 +3191,47 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-elche-cf-7"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 26,
+     "side": "away",
+     "player": "Fer Niño",
+     "type": "goal"
+    },
+    {
+     "minute": 29,
+     "side": "away",
+     "player": "Fer Niño",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Víctor Chust",
+     "type": "own-goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Germán Valera",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r07-es-osasuna-es-rayo-vallecano",
@@ -1738,16 +3250,35 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-ca-osasuna-rayo-vallecano-7"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 16,
+     "side": "home",
+     "player": "Ante Budimir",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Sergio Camello",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r07-es-athletic-club-es-alaves",
@@ -1794,16 +3325,54 @@
    "status": "FT",
    "score": {
     "home": 5,
-    "away": 0
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rc-celta-r-racing-club-7"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Hugo González",
+     "type": "penalty"
+    },
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Ilaix Moriba",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Miguel Román",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "home",
+     "player": "Pablo Durán",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Pablo Durán",
+     "type": "goal",
+     "extra": 2
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r07-es-sevilla-es-barcelona",
@@ -1822,16 +3391,47 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 3
+    "away": 3,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-sevilla-fc-fc-barcelona-7"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Youssouf Fofana",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Raphinha",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r07-es-getafe-es-malaga",
@@ -1850,16 +3450,29 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-getafe-cf-malaga-cf-7"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Iván Azón",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r07-es-atletico-madrid-es-real-madrid",
@@ -1878,16 +3491,41 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-real-madrid-7"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Alejandro Grimaldo",
+     "type": "penalty"
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Jonathan David",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Antonio Rüdiger",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r07-es-deportivo-la-coruna-es-real-betis",
@@ -1906,16 +3544,35 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rc-deportivo-real-betis-7"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Cucho Hernández",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Diego Villares",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r07-es-villarreal-es-levante",
@@ -1934,16 +3591,47 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-villarreal-cf-levante-ud-7"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Ayoze Pérez",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "away",
+     "player": "Iván Romero",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Alberto Moleiro",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "Georges Mikautadze",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r07-es-valencia-es-real-sociedad",
@@ -1962,16 +3650,54 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-7",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=7&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-valencia-cf-real-sociedad-7"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 26,
+     "side": "away",
+     "player": "Luka Sucic",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Aaron Mayol",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "away",
+     "player": "Carlos Soler",
+     "type": "penalty"
+    },
+    {
+     "minute": 84,
+     "side": "home",
+     "player": "Luken Beitia",
+     "type": "own-goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Ander Barrenetxea",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r08-es-malaga-es-espanyol",
@@ -1990,16 +3716,36 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-malaga-cf-rcd-espanyol-de-barcelona-8"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Bryan Zaragoza",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Adrián Niño",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club",
@@ -2044,16 +3790,42 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 2
+    "away": 2,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-deportivo-alaves-atletico-de-madrid-8"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 33,
+     "side": "away",
+     "player": "Alejandro Grimaldo",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Lucas Boyé",
+     "type": "penalty",
+     "extra": 6
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Cristian Romero",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r08-es-barcelona-es-getafe",
@@ -2072,16 +3844,41 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 0
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-fc-barcelona-getafe-cf-8"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "home",
+     "player": "Anthony Gordon",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "Gabriel Jesus",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Jules Koundé",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r08-es-real-madrid-es-villarreal",
@@ -2100,16 +3897,29 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-madrid-villarreal-cf-8"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 62,
+     "side": "home",
+     "player": "Yan Diomande",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r08-es-elche-es-celta-vigo",
@@ -2156,16 +3966,53 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 2
+    "away": 2,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-sociedad-rc-deportivo-8"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 29,
+     "side": "home",
+     "player": "Jon Martín",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "Arsen Zakharyan",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Gonçalo Guedes",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Mario Soriano",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Yeremay Hernández",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r08-es-real-betis-es-osasuna",
@@ -2184,16 +4031,66 @@
    "status": "FT",
    "score": {
     "home": 5,
-    "away": 2
+    "away": 2,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-betis-ca-osasuna-8"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Isco",
+     "type": "penalty"
+    },
+    {
+     "minute": 31,
+     "side": "home",
+     "player": "Abde Ezzalzouli",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Ante Budimir",
+     "type": "own-goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Ante Budimir",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "away",
+     "player": "Raúl García",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "Isco",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "José Antonio Morante",
+     "type": "goal",
+     "extra": 6
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r08-es-racing-santander-es-valencia",
@@ -2212,16 +4109,47 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 2
+    "away": 2,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-r-racing-club-valencia-cf-8"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "away",
+     "player": "Dani Raba",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Yassir Zabiri",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "home",
+     "player": "Iván Martín",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "David Otorbi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r08-es-levante-es-sevilla",
@@ -2240,16 +4168,62 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-levante-ud-sevilla-fc-8"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Robbie Ure",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Félix Correia",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Iván Romero",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Adrián de la Fuente",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Isaac Romero",
+     "type": "goal",
+     "extra": 5
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Ifeanyi Ndukwe",
+     "type": "goal",
+     "extra": 10
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r09-es-deportivo-la-coruna-es-levante",
@@ -2268,15 +4242,34 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rc-deportivo-levante-ud-9"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Bil Nsongo",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Dani Requena",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r09-es-espanyol-es-atletico-madrid",
@@ -2295,15 +4288,28 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rcd-espanyol-de-barcelona-atletico-de-madrid-9"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Álex Baena",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r09-es-villarreal-es-elche",
@@ -2349,15 +4355,64 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 5
+    "away": 5,
+    "ht": [
+     1,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-betis-fc-barcelona-9"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "away",
+     "player": "Lamine Yamal",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Valentín Gómez",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Rodri",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Gabriel Jesus",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Abde Ezzalzouli",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Eric García",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "Dani Olmo",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r09-es-valencia-es-athletic-club",
@@ -2403,15 +4458,34 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-ca-osasuna-r-racing-club-9"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 9,
+     "side": "home",
+     "player": "Ante Budimir",
+     "type": "penalty"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Asier Osambela",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r09-es-celta-vigo-es-alaves",
@@ -2430,15 +4504,40 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rc-celta-deportivo-alaves-9"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Ferran Jutglà",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Javi Rodríguez",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Hugo Novoa",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r09-es-malaga-es-real-sociedad",
@@ -2457,15 +4556,64 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 5
+    "away": 5,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-malaga-cf-real-sociedad-9"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 3,
+     "side": "away",
+     "player": "Takefusa Kubo",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "away",
+     "player": "Orri Óskarsson",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Adrián Niño",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Mikel Oyarzabal",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "Pablo Martínez",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Mikel Oyarzabal",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "away",
+     "player": "Gonçalo Guedes",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r09-es-real-madrid-es-sevilla",
@@ -2484,15 +4632,52 @@
    "status": "FT",
    "score": {
     "home": 4,
-    "away": 1
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-madrid-sevilla-fc-9"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "Arda Güler",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Kylian Mbappé",
+     "type": "penalty"
+    },
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Manu Bueno",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "Yan Diomande",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r09-es-getafe-es-rayo-vallecano",
@@ -2511,15 +4696,34 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-9",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-getafe-cf-rayo-vallecano-9"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Álvaro García",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "home",
+     "player": "Martín Satriano",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r06-es-levante-es-athletic-club",
@@ -2538,16 +4742,48 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 1
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-6",
     "https://www.skysports.com/la-liga-results",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=6&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-levante-ud-athletic-club-6"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Roger Brugué",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "home",
+     "player": "Roger Brugué",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Alex Berenguer",
+     "type": "penalty"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Karl Etta Eyong",
+     "type": "goal",
+     "extra": 8
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r10-es-alaves-es-malaga",
@@ -2566,14 +4802,33 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results"
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-deportivo-alaves-malaga-cf-10"
    ],
-   "updatedAt": "2026-10-25T01:44:09.888Z"
+   "updatedAt": "2026-10-25T01:44:09.888Z",
+   "goals": [
+    {
+     "minute": 44,
+     "side": "away",
+     "player": "Adrián Niño",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Aitor Mañas",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r10-es-rayo-vallecano-es-elche",
@@ -2592,15 +4847,41 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.skysports.com/la-liga-scores-fixtures",
-    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%B1%D8%A7%D9%8A%D9%88-%D9%81%D8%A7%D9%84%D9%8A%D9%83%D8%A7%D9%86%D9%88/3budh3j9xivsid3ptm8ptpy4k"
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%B1%D8%A7%D9%8A%D9%88-%D9%81%D8%A7%D9%84%D9%8A%D9%83%D8%A7%D9%86%D9%88/3budh3j9xivsid3ptm8ptpy4k",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-elche-cf-10",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024"
    ],
-   "updatedAt": "2026-10-24T22:36:51.336Z"
+   "updatedAt": "2026-10-24T22:36:51.336Z",
+   "goals": [
+    {
+     "minute": 23,
+     "side": "away",
+     "player": "Federico Redondo",
+     "type": "penalty"
+    },
+    {
+     "minute": 36,
+     "side": "away",
+     "player": "Fer Niño",
+     "type": "penalty"
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Germán Valera",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r10-es-racing-santander-es-espanyol",
@@ -2625,9 +4906,30 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/la-liga-scores-fixtures",
-    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%B1%D8%A7%D8%B3%D9%8A%D9%86%D8%AC-%D8%B3%D8%A7%D9%86%D8%AA%D8%A7%D9%86%D8%AF%D9%8A%D8%B1/bzkwzatvwahmbzok1ymm5vqa1"
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%B1%D8%A7%D8%B3%D9%8A%D9%86%D8%AC-%D8%B3%D8%A7%D9%86%D8%AA%D8%A7%D9%86%D8%AF%D9%8A%D8%B1/bzkwzatvwahmbzok1ymm5vqa1",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024"
    ],
-   "updatedAt": "2026-10-24T22:36:51.336Z"
+   "updatedAt": "2026-10-24T22:36:51.336Z",
+   "goals": [
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Edu Expósito",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Jeanuël Belocian",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "home",
+     "player": "Yassir Zabiri",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r10-es-valencia-es-villarreal",
@@ -2656,9 +4958,31 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-us/football/match/laliga-11/valencia-villarreal-133-139-11",
-    "https://www.skysports.com/la-liga-scores-fixtures"
+    "https://www.skysports.com/la-liga-scores-fixtures",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024"
    ],
-   "updatedAt": "2026-10-24T19:37:08.938Z"
+   "updatedAt": "2026-10-24T19:37:08.938Z",
+   "goals": [
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Pepelu",
+     "type": "penalty"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Alex Freeman",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Georges Mikautadze",
+     "type": "goal",
+     "extra": 6
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r10-es-atletico-madrid-es-deportivo-la-coruna",
@@ -2677,15 +5001,29 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.skysports.com/la-liga-scores-fixtures",
-    "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108"
+    "https://www.arabnews.com/football/alvarez-fires-atletico-to-win-against-deportivo-3008108",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-rc-deportivo-10",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261024"
    ],
-   "updatedAt": "2026-10-24T21:37:25.360Z"
+   "updatedAt": "2026-10-24T21:37:25.360Z",
+   "goals": [
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Julián Alvarez",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r10-es-athletic-club-es-getafe",

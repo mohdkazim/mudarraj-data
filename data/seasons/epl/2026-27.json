@@ -26,9 +26,30 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260821",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260821&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "Kai Havertz",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Bukayo Saka",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "Martin Ødegaard",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r01-gb-eng-hull-city-gb-eng-manchester-united",
@@ -54,9 +75,24 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Semi Ajayi",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Nobel Mendy",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r01-gb-eng-everton-gb-eng-crystal-palace",
@@ -82,9 +118,24 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "Kiernan Dewsbury-Hall",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Thierno Barry",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r01-gb-eng-ipswich-town-gb-eng-sunderland",
@@ -110,9 +161,30 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 24,
+     "side": "home",
+     "player": "Emersonn",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Nilson Angulo",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Jack Clarke",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r01-gb-eng-nottingham-forest-gb-eng-leeds-united",
@@ -138,9 +210,18 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Anton Stach",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r01-gb-eng-brentford-gb-eng-tottenham-hotspur",
@@ -165,9 +246,31 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822&limit=50",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260822&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Keane Lewis-Potter",
+     "type": "goal"
+    },
+    {
+     "minute": 33,
+     "side": "home",
+     "player": "Vitaly Janelt",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "Michael Kayode",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r01-gb-eng-brighton-gb-eng-aston-villa",
@@ -193,9 +296,36 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260823",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260823&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 8,
+     "side": "home",
+     "player": "Victor Lindelöf",
+     "type": "own-goal"
+    },
+    {
+     "minute": 18,
+     "side": "home",
+     "player": "Maxim De Cuyper",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "Jack Hinshelwood",
+     "type": "goal"
+    },
+    {
+     "minute": 31,
+     "side": "home",
+     "player": "Jack Hinshelwood",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r01-gb-eng-manchester-city-gb-eng-bournemouth",
@@ -221,9 +351,31 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260823",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260823&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 26,
+     "side": "away",
+     "player": "Marcus Tavernier",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "home",
+     "player": "Marc Guéhi",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Josko Gvardiol",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r01-gb-eng-newcastle-united-gb-eng-liverpool",
@@ -249,9 +401,37 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260823",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260823&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 5,
+     "side": "home",
+     "player": "Anthony Elanga",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Cody Gakpo",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Joe Willock",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Dominik Szoboszlai",
+     "type": "penalty",
+     "extra": 9
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r01-gb-eng-fulham-gb-eng-chelsea",
@@ -276,9 +456,43 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=1&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260824&limit=50",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260824&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 1,
+     "side": "away",
+     "player": "João Pedro",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Josh King",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Morgan Rogers",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Cole Palmer",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Gonzalo García",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r02-gb-eng-crystal-palace-gb-eng-manchester-city",
@@ -303,9 +517,42 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260828"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260828",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260828&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Erling Haaland",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Rayan Cherki",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "home",
+     "player": "Gianluigi Donnarumma",
+     "type": "own-goal"
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Rayan Cherki",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "away",
+     "player": "Erling Haaland",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r02-gb-eng-liverpool-gb-eng-nottingham-forest",
@@ -330,9 +577,36 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 24,
+     "side": "away",
+     "player": "Dan Ndoye",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Alexander Isak",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "away",
+     "player": "Morgan Gibbs-White",
+     "type": "penalty"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "Víctor Muñoz",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r02-gb-eng-bournemouth-gb-eng-everton",
@@ -357,9 +631,25 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Alex Scott",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "James Tarkowski",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r02-gb-eng-coventry-city-gb-eng-hull-city",
@@ -384,9 +674,18 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Liam Millar",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r02-gb-eng-tottenham-hotspur-gb-eng-newcastle-united",
@@ -411,9 +710,24 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260829&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Anthony Elanga",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "away",
+     "player": "Yoane Wissa",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r02-gb-eng-chelsea-gb-eng-brighton",
@@ -438,9 +752,56 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-08-30&l=4328"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-08-30&l=4328",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260830&limit=50",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260830&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Romeo Lavia",
+     "type": "goal"
+    },
+    {
+     "minute": 14,
+     "side": "home",
+     "player": "Pedro Neto",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "João Pedro",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "away",
+     "player": "Malick Yalcouyé",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "away",
+     "player": "João Pedro",
+     "type": "own-goal"
+    },
+    {
+     "minute": 74,
+     "side": "home",
+     "player": "Cole Palmer",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Pascal Gross",
+     "type": "goal",
+     "extra": 6
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r02-gb-eng-leeds-united-gb-eng-brentford",
@@ -465,9 +826,25 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-08-30&l=4328"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-08-30&l=4328",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260830&limit=50",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260830&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Kevin Schade",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Dominic Calvert-Lewin",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r02-gb-eng-sunderland-gb-eng-fulham",
@@ -492,9 +869,19 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
-    "https://www.thesportsdb.com/api/v1/json/123/lookupevent.php?id=2494018"
+    "https://www.thesportsdb.com/api/v1/json/123/lookupevent.php?id=2494018",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260830&limit=50",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260830&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Wilson Isidor",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r02-gb-eng-manchester-united-gb-eng-ipswich-town",
@@ -520,9 +907,56 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
     "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-08-30&l=4328",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League"
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260830&limit=50",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260830&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 29,
+     "side": "away",
+     "player": "Leif Davis",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "Bruno Fernandes",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "home",
+     "player": "Jacob Greaves",
+     "type": "own-goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Bruno Fernandes",
+     "type": "penalty"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Bruno Fernandes",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "Bryan Mbeumo",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Chuba Akpom",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r02-gb-eng-aston-villa-gb-eng-arsenal",
@@ -547,9 +981,18 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-08-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260831"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260831",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260831&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Bukayo Saka",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r03-gb-eng-ipswich-town-gb-eng-liverpool",
@@ -574,9 +1017,25 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260904&limit=50",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260904&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 6,
+     "side": "away",
+     "player": "Alexander Isak",
+     "type": "goal"
+    },
+    {
+     "minute": 9,
+     "side": "away",
+     "player": "Alexander Isak",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r03-gb-eng-newcastle-united-gb-eng-bournemouth",
@@ -602,9 +1061,36 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 9,
+     "side": "away",
+     "player": "Marcus Tavernier",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "away",
+     "player": "Malick Thiaw",
+     "type": "own-goal"
+    },
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "Harvey Barnes",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Jacob Ramsey",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r03-gb-eng-brentford-gb-eng-sunderland",
@@ -630,9 +1116,24 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Vitaly Janelt",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Enzo Le Fée",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r03-gb-eng-brighton-gb-eng-leeds-united",
@@ -658,9 +1159,24 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "Jayden Bogle",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Luka Vuskovic",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r03-gb-eng-fulham-gb-eng-crystal-palace",
@@ -686,9 +1202,42 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Josh King",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "away",
+     "player": "Tyrick Mitchell",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "César Palacios",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Tyrick Mitchell",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Ben Chilwell",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r03-gb-eng-manchester-city-gb-eng-coventry-city",
@@ -714,9 +1263,18 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260905&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Erling Haaland",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r03-gb-eng-nottingham-forest-gb-eng-tottenham-hotspur",
@@ -797,9 +1355,38 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260906&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260906&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 46,
+     "side": "away",
+     "player": "Bryan Mbeumo",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "Tyrique George",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Benjamin Sesko",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Ainsley Maitland-Niles",
+     "type": "goal",
+     "extra": 6
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r03-gb-eng-arsenal-gb-eng-chelsea",
@@ -824,9 +1411,31 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=3&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260906&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260906&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "away",
+     "player": "Morgan Rogers",
+     "type": "goal"
+    },
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "Kai Havertz",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "Martin Ødegaard",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r04-gb-eng-aston-villa-gb-eng-nottingham-forest",
@@ -851,9 +1460,31 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 46,
+     "side": "away",
+     "player": "Liam Delap",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "home",
+     "player": "Alysson",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Igor Jesus",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r04-gb-eng-bournemouth-gb-eng-brentford",
@@ -878,9 +1509,37 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Kevin Schade",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Justin Kluivert",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "Marcus Tavernier",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "away",
+     "player": "Kevin Schade",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r04-gb-eng-chelsea-gb-eng-hull-city",
@@ -905,9 +1564,37 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Morgan Rogers",
+     "type": "goal"
+    },
+    {
+     "minute": 28,
+     "side": "away",
+     "player": "Mohamed Belloumi",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Mohamed Belloumi",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "João Pedro",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r04-gb-eng-crystal-palace-gb-eng-ipswich-town",
@@ -932,9 +1619,43 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 14,
+     "side": "home",
+     "player": "Anan Khalaili",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "away",
+     "player": "Emersonn",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Leif Davis",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Jørgen Strand Larsen",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Zian Flemming",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r04-gb-eng-liverpool-gb-eng-fulham",
@@ -1013,9 +1734,26 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260912&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 58,
+     "side": "away",
+     "player": "Bruno Guimarães",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Bukayo Saka",
+     "type": "penalty",
+     "extra": 7
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r04-gb-eng-coventry-city-gb-eng-brighton",
@@ -1041,9 +1779,44 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-09-13&l=4328",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League"
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260913&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260913&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 35,
+     "side": "away",
+     "player": "Charalambos Kostoulas",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Malick Yalcouyé",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "away",
+     "player": "Pascal Gross",
+     "type": "penalty"
+    },
+    {
+     "minute": 83,
+     "side": "away",
+     "player": "Lewis Dunk",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Yasin Ayari",
+     "type": "goal",
+     "extra": 4
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r04-gb-eng-manchester-united-gb-eng-manchester-city",
@@ -1069,9 +1842,19 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-09-13&l=4328",
-    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League"
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260913&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260913&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 60,
+     "side": "away",
+     "player": "Erling Haaland",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r04-gb-eng-leeds-united-gb-eng-newcastle-united",
@@ -1096,9 +1879,44 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-09-14&l=4328"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-09-14&l=4328",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260914&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260914&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Lewis Miley",
+     "type": "own-goal"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "Jayden Bogle",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Dominic Calvert-Lewin",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Noah Okafor",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Bazoumana Touré",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r05-gb-eng-brentford-gb-eng-chelsea",
@@ -1123,9 +1941,32 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260918&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260918&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Jaidon Anthony",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "Igor Thiago",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Fábio Carvalho",
+     "type": "goal",
+     "extra": 4
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r05-gb-eng-tottenham-hotspur-gb-eng-aston-villa",
@@ -1151,9 +1992,45 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Johan Manzambi",
+     "type": "goal",
+     "extra": 4
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Nicolas Jackson",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Emiliano Buendía",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "Conor Gallagher",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Jan Paul van Hecke",
+     "type": "goal",
+     "extra": 8
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r05-gb-eng-brighton-gb-eng-arsenal",
@@ -1179,9 +2056,31 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 31,
+     "side": "home",
+     "player": "Pascal Gross",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Charalambos Kostoulas",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Chema Andrés",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r05-gb-eng-everton-gb-eng-ipswich-town",
@@ -1207,9 +2106,19 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Thierno Barry",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r05-gb-eng-newcastle-united-gb-eng-hull-city",
@@ -1235,9 +2144,31 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 3,
+     "side": "home",
+     "player": "Joe Willock",
+     "type": "goal"
+    },
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Lewis Hall",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Mohamed-Ali Cho",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r05-gb-eng-nottingham-forest-gb-eng-coventry-city",
@@ -1263,9 +2194,19 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260919&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Jay Da Silva",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r05-gb-eng-bournemouth-gb-eng-liverpool",
@@ -1291,9 +2232,19 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Alexander Isak",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r05-gb-eng-leeds-united-gb-eng-crystal-palace",
@@ -1347,9 +2298,61 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 9,
+     "side": "home",
+     "player": "Enzo Fernández",
+     "type": "goal"
+    },
+    {
+     "minute": 12,
+     "side": "away",
+     "player": "Brian Brobbey",
+     "type": "goal"
+    },
+    {
+     "minute": 29,
+     "side": "home",
+     "player": "Rayan Cherki",
+     "type": "goal"
+    },
+    {
+     "minute": 33,
+     "side": "away",
+     "player": "Brian Brobbey",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Antoine Semenyo",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Antoine Semenyo",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Brian Brobbey",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Erling Haaland",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r05-gb-eng-fulham-gb-eng-manchester-united",
@@ -1375,9 +2378,25 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-09-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=5&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20260920&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Lisandro Martínez",
+     "type": "own-goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Matheus Cunha",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r06-gb-eng-arsenal-gb-eng-leeds-united",
@@ -1402,9 +2421,31 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "James Justin",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "home",
+     "player": "Riccardo Calafiori",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Bruno Guimarães",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r06-gb-eng-aston-villa-gb-eng-brentford",
@@ -1429,9 +2470,37 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "away",
+     "player": "Yehor Yarmoliuk",
+     "type": "goal"
+    },
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Nicolas Jackson",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "John McGinn",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Kristoffer Ajer",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r06-gb-eng-chelsea-gb-eng-bournemouth",
@@ -1456,9 +2525,49 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "home",
+     "player": "Jordan Henderson",
+     "type": "goal"
+    },
+    {
+     "minute": 3,
+     "side": "home",
+     "player": "Morgan Rogers",
+     "type": "goal"
+    },
+    {
+     "minute": 46,
+     "side": "home",
+     "player": "João Pedro",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Evanilson",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "João Pedro",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Jordan Henderson",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r06-gb-eng-ipswich-town-gb-eng-fulham",
@@ -1483,9 +2592,32 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Ryan Sessegnon",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Abdoul Ouattara",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Dara O'Shea",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r06-gb-eng-sunderland-gb-eng-brighton",
@@ -1510,9 +2642,26 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Maxim De Cuyper",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Jaouen Hadjam",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r06-gb-eng-manchester-united-gb-eng-tottenham-hotspur",
@@ -1537,9 +2686,26 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261010&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Bryan Mbeumo",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Dominic Solanke",
+     "type": "goal",
+     "extra": 2
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r06-gb-eng-crystal-palace-gb-eng-nottingham-forest",
@@ -1564,9 +2730,38 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261011&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261011&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 3,
+     "side": "away",
+     "player": "Dan Ndoye",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Daichi Kamada",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Jefferson Lerma",
+     "type": "goal",
+     "extra": 4
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Yéremy Pino",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r06-gb-eng-hull-city-gb-eng-everton",
@@ -1591,9 +2786,37 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261011&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261011&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Joe Gelhardt",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Kiernan Dewsbury-Hall",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Thierno Barry",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "home",
+     "player": "Mohamed Belloumi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r06-gb-eng-liverpool-gb-eng-manchester-city",
@@ -1618,9 +2841,31 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261011&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261011&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Erling Haaland",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Jérémy Doku",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Rayan Cherki",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r06-gb-eng-coventry-city-gb-eng-newcastle-united",
@@ -1646,9 +2891,43 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261012",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=6&s=2026-2027",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261012&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261012&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "Jack Rudoni",
+     "type": "penalty"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Sidiki Cherif",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "away",
+     "player": "Sven Botman",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Ellis Simms",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "Stephen Mfuni",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r07-gb-eng-everton-gb-eng-chelsea",
@@ -1673,9 +2952,25 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-10-17&l=4328"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-10-17&l=4328",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 46,
+     "side": "away",
+     "player": "Pedro Neto",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Pedro Neto",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r07-gb-eng-brentford-gb-eng-liverpool",
@@ -1700,9 +2995,31 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/lookupevent.php?id=2494067"
+    "https://www.thesportsdb.com/api/v1/json/123/lookupevent.php?id=2494067",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 44,
+     "side": "home",
+     "player": "Keane Lewis-Potter",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Víctor Muñoz",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "away",
+     "player": "Alexander Isak",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r07-gb-eng-fulham-gb-eng-hull-city",
@@ -1727,9 +3044,19 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-10-17&l=4328"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-10-17&l=4328",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 33,
+     "side": "home",
+     "player": "Alex Iwobi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r07-gb-eng-manchester-city-gb-eng-ipswich-town",
@@ -1754,9 +3081,43 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/lookupevent.php?id=2494065"
+    "https://www.thesportsdb.com/api/v1/json/123/lookupevent.php?id=2494065",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Phil Foden",
+     "type": "goal"
+    },
+    {
+     "minute": 21,
+     "side": "away",
+     "player": "Daizen Maeda",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "Erling Haaland",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Erling Haaland",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Zian Flemming",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r07-gb-eng-newcastle-united-gb-eng-aston-villa",
@@ -1781,9 +3142,19 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-10-17&l=4328"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsday.php?d=2026-10-17&l=4328",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261017&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 36,
+     "side": "away",
+     "player": "Johan Manzambi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r07-gb-eng-bournemouth-gb-eng-sunderland",
@@ -1808,9 +3179,25 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "Marcus Tavernier",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Evanilson",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r07-gb-eng-brighton-gb-eng-crystal-palace",
@@ -1835,9 +3222,43 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Jaydee Canvot",
+     "type": "own-goal"
+    },
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Diego Gómez",
+     "type": "goal"
+    },
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Yasin Ayari",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "Charalambos Kostoulas",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "home",
+     "player": "Jack Hinshelwood",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r07-gb-eng-leeds-united-gb-eng-manchester-united",
@@ -1862,9 +3283,25 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 35,
+     "side": "away",
+     "player": "Bryan Mbeumo",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Dominic Calvert-Lewin",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r07-gb-eng-nottingham-forest-gb-eng-arsenal",
@@ -1889,9 +3326,19 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261018&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Noni Madueke",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r07-gb-eng-tottenham-hotspur-gb-eng-coventry-city",
@@ -1916,9 +3363,38 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventspastleague.php?id=4328"
+    "https://www.thesportsdb.com/api/v1/json/123/eventspastleague.php?id=4328",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261019&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261019&limit=38"
    ],
-   "updatedAt": "2026-10-23T09:07:09.904Z"
+   "updatedAt": "2026-10-23T09:07:09.904Z",
+   "goals": [
+    {
+     "minute": 14,
+     "side": "home",
+     "player": "James Maddison",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Jack Rudoni",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "Omar Marmoush",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Ben Davies",
+     "type": "goal",
+     "extra": 6
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r08-gb-eng-ipswich-town-gb-eng-nottingham-forest",
@@ -1966,9 +3442,31 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football/news/13599231/aston-villa-2-1-man-city-nicolas-jackson-scores-both-villa-goals-as-enzo-maresca-s-100-per-cent-record-ends-in-defeat",
-    "https://www.arabnews.com/football/jackson-double-ends-man-citys-perfect-run-as-villa-win-2-1-3008076"
+    "https://www.arabnews.com/football/jackson-double-ends-man-citys-perfect-run-as-villa-win-2-1-3008076",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261024&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261024&limit=38"
    ],
-   "updatedAt": "2026-10-24T16:36:36.584Z"
+   "updatedAt": "2026-10-24T16:36:36.584Z",
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "Nicolas Jackson",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Erling Haaland",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Nicolas Jackson",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r08-gb-eng-arsenal-gb-eng-everton",
@@ -1993,9 +3491,25 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.thenationalnews.com/sport/football/2026/10/24/arsenal-go-level-at-top-of-premier-league-with-man-city-after-easing-to-win-over-everton/"
+    "https://www.thenationalnews.com/sport/football/2026/10/24/arsenal-go-level-at-top-of-premier-league-with-man-city-after-easing-to-win-over-everton/",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261024&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261024&limit=38"
    ],
-   "updatedAt": "2026-10-24T17:37:00.939Z"
+   "updatedAt": "2026-10-24T17:37:00.939Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Ezri Konsa",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Gabriel Magalhães",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r08-gb-eng-coventry-city-gb-eng-fulham",
@@ -2020,9 +3534,19 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.arabnews.com/football/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start-3008091"
+    "https://www.arabnews.com/football/arsenal-join-man-city-at-summit-after-villa-end-leaders-perfect-start-3008091",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261024&limit=37",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261024&limit=38"
    ],
-   "updatedAt": "2026-10-24T17:37:00.939Z"
+   "updatedAt": "2026-10-24T17:37:00.939Z",
+   "goals": [
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Oscar Bobb",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r08-gb-eng-chelsea-gb-eng-tottenham-hotspur",

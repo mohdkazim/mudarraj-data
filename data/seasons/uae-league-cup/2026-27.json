@@ -25,9 +25,37 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b98f8-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/hatta-and-shabab-al-ahli-share-points-in-2-2-adib-cup-draw"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "M. Ben Alarbi",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Federico Nicolas Cartabia",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Jorge Filipe Fernandes",
+     "type": "own-goal"
+    },
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "João Marcelo",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r01-ae-kalba-ae-khorfakkan",
@@ -46,15 +74,40 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b9900-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/kalba-beat-khorfakkan-2-1-in-adib-cup-opener"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "Saman Ghoddos",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Aylton Filipe",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "home",
+     "player": "Ahmad Noorollahi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r01-ae-ajman-ae-sharjah",
@@ -79,9 +132,43 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b98ee-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/ajman-complete-stunning-comeback-to-beat-sharjah-in-five-goal-thriller"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 12,
+     "side": "away",
+     "player": "Cheickna Doumbia",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "away",
+     "player": "Cheickna Doumbia",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Sekou Baba",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "home",
+     "player": "Jobson Santos",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Victor Henrique",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r01-ae-al-wasl-ae-al-ain",
@@ -106,9 +193,42 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b98fd-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-wasl-fight-back-to-defeat-al-ain-in-five-goal-adib-cup-thriller"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 1,
+     "side": "away",
+     "player": "Georgios Giakoumakis",
+     "type": "goal"
+    },
+    {
+     "minute": 20,
+     "side": "away",
+     "player": "Georgios Giakoumakis",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Mehdi Taremi",
+     "type": "penalty"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "Siaka Sidibe",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "Adryelson Silva",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r01-ae-al-nasr-ae-united",
@@ -133,9 +253,37 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b98d6-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-nasr-secure-commanding-win-over-united-in-adib-cup-opener"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Kevin Andres Agudelo",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Shavy Babicka",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Ajdin Hrustic",
+     "type": "penalty"
+    },
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Wesley Bruno Delgado",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r01-ae-al-dhafra-ae-bani-yas",
@@ -154,15 +302,46 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b98f5-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/bani-yas-beat-al-dhafra-3-1-in-adib-cup-gameweek-1"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 9,
+     "side": "away",
+     "player": "Saviour Godwin",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Rocky Marciano",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Dominique Mendy",
+     "type": "penalty"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Alhassan Koroma",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r01-ae-al-jazira-ae-al-wahda",
@@ -187,9 +366,18 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b98fa-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-jazira-beat-al-wahda-1-0-in-abu-dhabi-derby"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Anderson Souza",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r02-ae-sharjah-ae-al-dhafra",
@@ -214,9 +402,30 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b9912-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/sharjah-beat-al-dhafra-2-1-for-first-adib-cup-win"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Lorran",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "Igor Coronado",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "Daraman Komari",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r02-ae-united-ae-hatta",
@@ -241,9 +450,42 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b9907-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/united-beat-hatta-3-2-in-a-five-goal-adib-cup-thriller"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Drissa Coulibaly",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "Alemhdi Maouhoub",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "Haris Seferovic",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "home",
+     "player": "Haris Seferovic",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "away",
+     "player": "D. Simon",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r02-ae-bani-yas-ae-al-wahda",
@@ -268,9 +510,37 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b9905-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/bani-yas-beat-al-wahda-3-1-to-maintain-perfect-adib-cup-start"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "Suhail Ahmed Alnoobi",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Youssoufou Niakate",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "home",
+     "player": "Facundo Lirussi",
+     "type": "own-goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Sam Mark",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r02-ae-al-ain-ae-ajman",
@@ -295,9 +565,42 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b9902-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/ajman-fight-back-to-beat-al-ain-3-2-in-adib-cup"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Yahya Bin Khaliq",
+     "type": "goal"
+    },
+    {
+     "minute": 33,
+     "side": "away",
+     "player": "Ismail Moumene",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Lourency Do",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Saad El Hadani",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "El Houssien Rahmi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r02-ae-al-wasl-ae-kalba",
@@ -316,15 +619,46 @@
    "status": "FT",
    "score": {
     "home": 4,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b990d-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-wasl-thrash-kalba-4-0-in-adib-cup"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "Renato Junior",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "Brahian Palacios",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "Leandro Spadacio Leite",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Matheus Saldanha",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r02-ae-khorfakkan-ae-al-jazira",
@@ -343,15 +677,34 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b990f-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-jazira-pull-of-2-0-win-over-khorfakkan-in-adib-cup"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Anderson Souza",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "away",
+     "player": "Vinicius Mello",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r02-ae-shabab-al-ahli-ae-al-nasr",
@@ -376,9 +729,25 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b990a-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/limas-late-header-rescues-point-for-shabab-al-ahli-against-al-nasr"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Ajdin Hrustic",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Mateus Lima",
+     "type": "goal",
+     "extra": 5
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r03-ae-al-ain-ae-kalba",
@@ -403,9 +772,37 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b9915-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-ain-and-kalba-share-points-in-four-goal-adib-cup-draw"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "El Houssien Rahmi",
+     "type": "penalty"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Saman Ghoddos",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Benjamin Tetteh",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Alejandro Romero",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r03-ae-shabab-al-ahli-ae-united",
@@ -424,15 +821,40 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b991e-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/shabab-al-ahli-beat-united-2-1-for-first-adib-cup-win"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Mohammed Almansoori",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Breno Cascardo Lemos",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Alemhdi Maouhoub",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r03-ae-al-nasr-ae-hatta",
@@ -451,15 +873,52 @@
    "status": "FT",
    "score": {
     "home": 4,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b9917-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-nasr-come-from-behind-to-beat-hatta-4-1-in-adib-cup"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 30,
+     "side": "away",
+     "player": "Bernard Faye",
+     "type": "penalty"
+    },
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Kevin Andres Agudelo",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "Kevin Andres Agudelo",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "Ghaith Ouahabi",
+     "type": "own-goal"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "Ramon Mierez",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r03-ae-khorfakkan-ae-al-wasl",
@@ -478,15 +937,41 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b9920-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-wasl-beat-khorfakkan-2-1-for-third-straight-adib-cup-win"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Haliru Sarki",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Mehdi Taremi",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Soufiane Bouftini",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r03-ae-ajman-ae-bani-yas",
@@ -505,15 +990,28 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b991a-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/ajman-beat-bani-yas-1-0-for-third-straight-adib-cup-win"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "Mohammad Juma Eid",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r03-ae-al-wahda-ae-al-dhafra",
@@ -538,9 +1036,24 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/327b991c-7625-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=5198&r=3&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-wahda-defeat-10-man-al-dhafra-2-0-in-adib-cup"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 5,
+     "side": "home",
+     "player": "Brahima Diarra",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Christian Benteke",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r03-ae-sharjah-ae-al-jazira",

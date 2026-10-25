@@ -55,6 +55,12 @@ A match's goals are recorded only from one trusted page that lists **every** goa
 | AFC Champions League Elite and Two, Gulf Club Champions League, UAE President's Cup, and anything the rows above miss | 365Scores match page (enough alone): goals with minutes and the half-time score (Al Ain 4-0 Al Nassr: 25', 63', 72', 85'; HT 1-0) | WebSearch `<home> <away>` with `allowed_domains: ["365scores.com"]` → the match page. Check the date: searches also return older meetings of the same teams |
 | Any | ESPN data feed (Tier 2) `site.api.espn.com/…/scoreboard?dates=YYYYMMDD`: `competitions[0].details` has every scoring play | only when a search or a fetched page gives that exact link (rare in scheduled runs). Often stale for LALIGA and the AFC (frozen mid-match): use it only when the goals add up |
 
+- **Minutes and penalties, page by page (learned filling 341 results, 25 Oct 2026):**
+  - uaeproleague.ae fixture timelines count minutes on (a first-half stoppage goal shows as 46' or 47', not 45+1 or 45+2; after 90 they show 92', 98') and never mark penalties. The league's own match report (`uaeproleague.ae/en/news-and-gallery/…`, linked from the fixture page) says which goals were penalties and in stoppage time: read it too.
+  - laliga.com: the score header also counts on (45+6 shows as 51'); the match timeline gives 45+6. Use the timeline.
+  - Sky Sports pages give initial and surname ("B Barcola"); ESPN gives full names.
+  - ESPN's feed has no half-time score. Its scoreboards are often stale (old snapshots); the same feed with an extra parameter (`&lang=en&region=us`, `&limit=50`) or the host `site.web.api.espn.com` returned the final data. The per-match `…/scoreboard/<eventId>` works; `…/summary?event=` is cut off before the goals. Read a feed twice through different links when it matters.
+  - Sources sometimes disagree on a scorer (a goal or an own goal, a different player): prefer the organiser's own page (Tier 1), as for scores.
 - **Not enough on their own:** the-afc.com match reports (some goals only "after the break"), Sky Sports month pages (`…-scores-fixtures`, no scorers), most news reports (they name scorers but rarely every minute).
 - **Arabic UAE papers** (Al Khaleej, Al Bayan, Emarat Al Youm) often list scorers with minutes; use them when nothing else does, and take the Latin spelling from an English page when there is one.
 

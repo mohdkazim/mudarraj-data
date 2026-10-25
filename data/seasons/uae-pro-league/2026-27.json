@@ -19,16 +19,48 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/news-and-gallery/al-nasr-fight-back-to-earn-a-point-against-kalba-in-adnoc-pro-league-opener",
     "https://uaeproleague.ae/en/news-and-gallery/14-days-to-go-until-the-202627-adnoc-pro-league-kick-off",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027",
+    "https://www.365scores.com/football/match/arabian-gulf-league-549/al-nasr-dubai-ittihad-kalba-8349-8355-549",
+    "https://uaeproleague.ae/ar/news-and-gallery/al-nasr-fight-back-to-earn-a-point-against-kalba-in-adnoc-pro-league-opener"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "away",
+     "player": "Nemanja Jovic",
+     "type": "goal"
+    },
+    {
+     "minute": 20,
+     "side": "away",
+     "player": "Saman Ghoddos",
+     "type": "penalty"
+    },
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "Abdoulaye Toure",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Chris Bedia",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r01-ae-al-wahda-ae-ajman",
@@ -54,9 +86,43 @@
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f19-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/14-days-to-go-until-the-202627-adnoc-pro-league-kick-off",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/ajman-ease-past-al-wahda-in-adnoc-pro-league"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Lourency Do",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Victor Henrique",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Mohammad Rasoul",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "away",
+     "player": "Victor Henrique",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Brahima Diarra",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r01-ae-al-dhafra-ae-sharjah",
@@ -75,16 +141,48 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f10-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/14-days-to-go-until-the-202627-adnoc-pro-league-kick-off",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/sharjah-kick-off-adnoc-pro-league-campaign-with-3-1-win-over-al-dhafra"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Luan Pereira",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Dominique Mendy",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "away",
+     "player": "Julimar Silva",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Agner Souza",
+     "type": "goal",
+     "extra": 8
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r01-ae-al-wasl-ae-united",
@@ -110,9 +208,49 @@
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f1b-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/14-days-to-go-until-the-202627-adnoc-pro-league-kick-off",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/five-star-al-wasl-sweep-aside-united-in-adnoc-pro-league-opener"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 3,
+     "side": "home",
+     "player": "Renato Junior",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Adeel Wgdan Alchadli",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Nagoro Dao",
+     "type": "own-goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Sergio Pereira",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Ali Saleh",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Sergio Pereira",
+     "type": "goal",
+     "extra": 6
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r01-ae-khorfakkan-ae-shabab-al-ahli",
@@ -137,9 +275,49 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f1e-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/shabab-al-ahli-demolish-khorfakkan-5-1-in-adnoc-pro-league-opener"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "Aylton Filipe",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Saeid Ezatolahi",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Saeid Ezatolahi",
+     "type": "penalty"
+    },
+    {
+     "minute": 84,
+     "side": "away",
+     "player": "Yuri Cesar",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Sardar Khalil Azmoum",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Rikelme Hernandes Rocha",
+     "type": "goal",
+     "extra": 2
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r01-ae-hatta-ae-al-jazira",
@@ -158,16 +336,37 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f17-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/14-days-to-go-until-the-202627-adnoc-pro-league-kick-off",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-jazira-open-adnoc-pro-league-campaign-with-2-0-win-over-hatta"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "S. Banza",
+     "type": "goal",
+     "extra": 3
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Ali Almemari",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r01-ae-bani-yas-ae-al-ain",
@@ -186,16 +385,62 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 4
+    "away": 4,
+    "ht": [
+     2,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f14-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/14-days-to-go-until-the-202627-adnoc-pro-league-kick-off",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=1&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-ain-come-from-two-goals-down-to-beat-bani-yas-4-2-in-thrilling-season-opener"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "Youssoufou Niakate",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "Youssoufou Niakate",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Soufian Rahimi",
+     "type": "penalty",
+     "extra": 2
+    },
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "El Houssien Rahmi",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "El Houssien Rahmi",
+     "type": "goal",
+     "extra": 7
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Alejandro Romero",
+     "type": "goal",
+     "extra": 10
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r02-ae-kalba-ae-al-wasl",
@@ -220,9 +465,30 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f2f-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-wasl-maintain-perfect-start-with-commanding-kalba-win"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Ali Saleh",
+     "type": "penalty"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Nicolas Gimenez",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Renato Junior",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r02-ae-al-nasr-ae-al-wahda",
@@ -241,16 +507,29 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f23-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/five-marquee-clashes-highlight-opening-four-matchweeks-of-2026-27-adnoc-pro-league",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/bedia-penalty-seals-al-nasr-victory-over-al-wahda"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Chris Bedia",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r02-ae-ajman-ae-hatta",
@@ -269,15 +548,66 @@
    "status": "FT",
    "score": {
     "home": 4,
-    "away": 3
+    "away": 3,
+    "ht": [
+     3,
+     3
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f25-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/ajman-seal-dramatic-4-3-comeback-win-over-hatta"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Bruno Leonardo",
+     "type": "goal"
+    },
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Lourency Do",
+     "type": "goal"
+    },
+    {
+     "minute": 8,
+     "side": "home",
+     "player": "Ismail Moumene",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "M. Ben Alarbi",
+     "type": "penalty"
+    },
+    {
+     "minute": 44,
+     "side": "away",
+     "player": "M. Ben Alarbi",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Saad El Hadani",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Waleed Azaro",
+     "type": "goal",
+     "extra": 7
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r02-ae-shabab-al-ahli-ae-al-dhafra",
@@ -296,15 +626,34 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f2b-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/shabab-al-ahli-claim-second-straight-win-with-2-0-victory-over-al-dhafra"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Yuri Cesar",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Igor Gomes Silva",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r02-ae-al-ain-ae-khorfakkan",
@@ -323,15 +672,34 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f20-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/adnoc-4"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Soufian Rahimi",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "Ahmadou Camara",
+     "type": "own-goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r02-ae-bani-yas-ae-united",
@@ -350,15 +718,52 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f28-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/united-make-history-with-first-ever-adnoc-pro-league-win"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 3,
+     "side": "away",
+     "player": "Willy Semedo",
+     "type": "penalty"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Mustapha Name",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Willy Semedo",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "Mohamed Awad",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Rocky Marciano",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r02-ae-sharjah-ae-al-jazira",
@@ -377,16 +782,36 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f2c-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/five-marquee-clashes-highlight-opening-four-matchweeks-of-2026-27-adnoc-pro-league",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=2&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/adnoc-5"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Vinicius Mello",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 63,
+     "side": "away",
+     "player": "Vinicius Mello",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r03-ae-united-ae-kalba",
@@ -405,16 +830,55 @@
    "status": "FT",
    "score": {
     "home": 4,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f37-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/tickets-on-sale-for-an-exciting-adnoc-pro-league-matchweek-3",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/babicka-brace-inspires-united-to-commanding-win-over-kalba"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Shavy Babicka",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Willy Semedo",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Shavy Babicka",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Ahmad Noorollah",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Alemhdi Maouhoub",
+     "type": "goal",
+     "extra": 3
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r03-ae-al-wasl-ae-shabab-al-ahli",
@@ -433,7 +897,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
@@ -441,9 +909,18 @@
     "https://uaeproleague.ae/en/fixtures/22e17f3d-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/tickets-on-sale-for-an-exciting-adnoc-pro-league-matchweek-3",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027",
-    "https://www.alkhaleej.ae/2026-10-20/رياضة/رياضة-الإمارات/دوري-أدنوك-يشتعل-ونقطتان-بين-الأول-والسادس"
+    "https://www.alkhaleej.ae/2026-10-20/رياضة/رياضة-الإمارات/دوري-أدنوك-يشتعل-ونقطتان-بين-الأول-والسادس",
+    "https://uaeproleague.ae/en/news-and-gallery/da-silva-strike-seals-shabab-al-ahli-victory-over-al-wasl"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Guilherme Da Silva",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r03-ae-al-jazira-ae-ajman",
@@ -462,16 +939,41 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f3b-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/tickets-on-sale-for-an-exciting-adnoc-pro-league-matchweek-3",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-jazira-maintain-perfect-start-with-3-0-win-over-ajman"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Igor Eduardo",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Yuri Matias",
+     "type": "own-goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "Bruno De Oliveira",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r03-ae-khorfakkan-ae-al-dhafra",
@@ -490,16 +992,35 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f3f-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/tickets-on-sale-for-an-exciting-adnoc-pro-league-matchweek-3",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/khorfakkan-claim-first-win-with-2-0-victory-over-al-dhafra"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Ahmed Abdalla Mohamad",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "Oumar Traore",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r03-ae-al-ain-ae-al-nasr",
@@ -525,9 +1046,30 @@
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f32-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/tickets-on-sale-for-an-exciting-adnoc-pro-league-matchweek-3",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-ain-fight-back-to-beat-al-nasr-2-1"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Chris Bedia",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "Rami Rabieea",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "home",
+     "player": "Georgios Giakomakis",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r03-ae-hatta-ae-sharjah",
@@ -553,9 +1095,30 @@
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f34-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/tickets-on-sale-for-an-exciting-adnoc-pro-league-matchweek-3",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/julimar-brace-helps-sharjah-return-to-winning-ways-against-hatta"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 21,
+     "side": "away",
+     "player": "Julimar Silva",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "away",
+     "player": "Julimar Silva",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Laba Kodjo",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r03-ae-al-wahda-ae-bani-yas",
@@ -581,9 +1144,30 @@
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f39-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/tickets-on-sale-for-an-exciting-adnoc-pro-league-matchweek-3",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=3&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/ala-zhir-strikes-late-as-al-wahda-beat-bani-yas-2-1"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Facundo Daniel",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "away",
+     "player": "Youssoufou Niakate",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Ala Zhir",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r04-ae-kalba-ae-al-ain",
@@ -602,15 +1186,34 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f4c-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-ain-maintain-perfect-start-with-clinical-kalba-victory"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 21,
+     "side": "away",
+     "player": "Abdulkarim Trawri",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "Baba Bello Ilou",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r04-ae-al-wasl-ae-khorfakkan",
@@ -629,15 +1232,65 @@
    "status": "FT",
    "score": {
     "home": 5,
-    "away": 2
+    "away": 2,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f48-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027",
+    "https://www.365scores.com/football/match/arabian-gulf-league-549/khor-fakkan-wasl-dubai-8346-11134-549"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Siaka Sidibe",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Nicolas Gimenez",
+     "type": "penalty"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "J. Flemmings",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Pedro Malheiro",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "Akram Nakach",
+     "type": "own-goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "J. Flemmings",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Renato Junior",
+     "type": "goal",
+     "extra": 2
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r04-ae-bani-yas-ae-hatta",
@@ -656,15 +1309,29 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f44-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/late-ayman-rchoq-goal-seals-hattas-first-win-of-the-season"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Ayman Rchoq",
+     "type": "goal",
+     "extra": 6
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r04-ae-sharjah-ae-united",
@@ -683,15 +1350,65 @@
    "status": "FT",
    "score": {
     "home": 4,
-    "away": 3
+    "away": 3,
+    "ht": [
+     3,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f4a-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/igor-coronado-hat-trick-seals-sharjah-victory-in-seven-goal-thriller"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Igor Coronado",
+     "type": "goal"
+    },
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "Adeel Wgdan Alchadli",
+     "type": "goal"
+    },
+    {
+     "minute": 33,
+     "side": "home",
+     "player": "Igor Coronado",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Agner Souza",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Aniss Karimi",
+     "type": "goal",
+     "extra": 5
+    },
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Aniss Karimi",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Igor Coronado",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r04-ae-shabab-al-ahli-ae-al-jazira",
@@ -717,9 +1434,38 @@
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f46-7604-11f1-b32b-0289588efdb9",
     "https://uaeproleague.ae/en/news-and-gallery/five-marquee-clashes-highlight-opening-four-matchweeks-of-2026-27-adnoc-pro-league",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-jazira-fight-back-to-beat-shabab-al-ahli-and-go-top"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "home",
+     "player": "Guilherme Da Silva",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Malcom Olivieira",
+     "type": "goal",
+     "extra": 5
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Marcus Vinicius",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Kristjan Asllani",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r04-ae-al-nasr-ae-ajman",
@@ -738,15 +1484,40 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 2
+    "away": 2,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f40-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/ajman-come-from-behind-to-beat-al-nasr-and-claim-third-league-win"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Ajdin Hrustic",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Waleed Azaro",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "away",
+     "player": "Saad El Hadani",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r04-ae-al-dhafra-ae-al-wahda",
@@ -765,15 +1536,28 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f42-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=4&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-wahda-edge-al-dhafra-as-facundo-daniel-strikes-late"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "Facundo Daniel",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r05-ae-al-jazira-ae-al-nasr",
@@ -798,9 +1582,24 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f57-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=5&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-jazira-held-by-al-nasr-as-perfect-start-ends"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Bruno De Oliveira",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Mehdi Ghayedi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r05-ae-united-ae-shabab-al-ahli",
@@ -819,15 +1618,34 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f54-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=5&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/united-shabab-al-ahli-share-the-spoils"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "Alemhdi Maouhoub",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Saeid Ezatolahi",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r05-ae-al-ain-ae-al-wasl",
@@ -852,9 +1670,36 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f4e-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=5&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-ains-perfect-start-ends-in-al-wasl-draw"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 33,
+     "side": "home",
+     "player": "Abdulkarim Trawri",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "away",
+     "player": "Nicolas Gimenez",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Mehdi Taremi",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "Valintin Lazro",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r05-ae-hatta-ae-al-dhafra",
@@ -879,9 +1724,30 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f52-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=5&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/adnoc-9"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 24,
+     "side": "home",
+     "player": "Amjad Alsayed",
+     "type": "own-goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Rostand Djooh",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "away",
+     "player": "Karim El Berkaoui",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r05-ae-khorfakkan-ae-bani-yas",
@@ -927,15 +1793,53 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 3
+    "away": 3,
+    "ht": [
+     1,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f50-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=5&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/kalba-beat-ajman-3-2-to-claim-first-win-of-season"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Benjamin Tetteh",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "away",
+     "player": "Carlos Filho",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Waleed Azaro",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Antonio Fialho",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Lithierry Silva",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r05-ae-al-wahda-ae-sharjah",
@@ -954,15 +1858,28 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f55-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=5&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=5&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/adnoc-11"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Laba Kodjo",
+     "type": "own-goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r06-ae-al-dhafra-ae-united",
@@ -981,15 +1898,59 @@
    "status": "FT",
    "score": {
     "home": 5,
-    "away": 1
+    "away": 1,
+    "ht": [
+     2,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f5f-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/adnoc-pro-league-991"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 33,
+     "side": "home",
+     "player": "Dominique Mendy",
+     "type": "penalty"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Willy Semedo",
+     "type": "penalty"
+    },
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Sory Kaba",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Sory Kaba",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Daraman Komari",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Arielson Sampaio Galvao",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r06-ae-bani-yas-ae-al-wasl",
@@ -1008,15 +1969,35 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f61-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/adnoc-pro-league-992"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Mehdi Taremi",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Cameron Puertas",
+     "type": "goal",
+     "extra": 1
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r06-ae-al-nasr-ae-hatta",
@@ -1035,15 +2016,34 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f5b-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/al-nassr"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 22,
+     "side": "home",
+     "player": "Ramon Mierez",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Abdoulaye Toure",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r06-ae-shabab-al-ahli-ae-al-ain",
@@ -1069,9 +2069,25 @@
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f63-7604-11f1-b32b-0289588efdb9",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027",
-    "https://www.alkhaleej.ae/2026-10-20/رياضة/رياضة-الإمارات/دوري-أدنوك-يشتعل-ونقطتان-بين-الأول-والسادس"
+    "https://www.alkhaleej.ae/2026-10-20/رياضة/رياضة-الإمارات/دوري-أدنوك-يشتعل-ونقطتان-بين-الأول-والسادس",
+    "https://uaeproleague.ae/en/news-and-gallery/shabab"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Sardar Khalil Azmoum",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Kauan Santos Silva",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r06-ae-kalba-ae-al-jazira",
@@ -1090,15 +2106,46 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 2
+    "away": 2,
+    "ht": [
+     2,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f67-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/jazira"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "home",
+     "player": "Benjamin Tetteh",
+     "type": "goal"
+    },
+    {
+     "minute": 8,
+     "side": "home",
+     "player": "Guilherme Sucigan",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Malcom Olivieira",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "Vinicius Mello",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r06-ae-khorfakkan-ae-al-wahda",
@@ -1117,15 +2164,52 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 3
+    "away": 3,
+    "ht": [
+     2,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f65-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/wahada"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "R. Vaca",
+     "type": "goal"
+    },
+    {
+     "minute": 24,
+     "side": "away",
+     "player": "Mansour Saleh",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Tarik Tissoudali",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Christian Benteke",
+     "type": "penalty"
+    },
+    {
+     "minute": 47,
+     "side": "away",
+     "player": "Christian Benteke",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r06-ae-ajman-ae-sharjah",
@@ -1144,15 +2228,46 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 3
+    "away": 3,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f5d-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=6&s=2026-2027",
+    "https://uaeproleague.ae/en/news-and-gallery/adnoc-pro-league-997"
    ],
-   "updatedAt": "2026-10-23T09:32:25.814Z"
+   "updatedAt": "2026-10-23T09:32:25.814Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Victor Henrique",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Ousmane Camara",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "away",
+     "player": "Yuri Matias",
+     "type": "own-goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Harib Abdalla Suhail",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r07-ae-al-ain-ae-ajman",
