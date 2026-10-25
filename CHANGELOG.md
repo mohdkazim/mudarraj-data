@@ -1351,3 +1351,12 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 2 waiting for a second source
   - ✓ result laliga-2026-27-regular-r10-es-rayo-vallecano-es-elche 0-3 FT
   - ✓ result laliga-2026-27-regular-r10-es-racing-santander-es-espanyol 2-1 FT
+
+## 2026-10-25 (2026-10-25T01:50:00Z)
+- 6 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r10-es-alaves-es-malaga 1-1 FT
+  - ✓ result uae-presidents-cup-2026-27-r16-ae-al-nasr-ae-bani-yas 0-1 AET
+  - ✓ fixture uae-presidents-cup-2026-27-qf-ae-al-jazira-ae-al-wahda added
+  - ✓ fixture uae-presidents-cup-2026-27-qf-ae-shabab-al-ahli-ae-al-wasl added
+  - ✓ fixture uae-presidents-cup-2026-27-qf-ae-sharjah-ae-hatta added
+  - ✓ fixture uae-presidents-cup-2026-27-qf-ae-khorfakkan-ae-bani-yas added

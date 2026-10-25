@@ -2563,16 +2563,17 @@
    "away": "es-malaga",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261023"
-   ]
+    "https://www.laliga.com/en-GB/laliga-easports/results"
+   ],
+   "updatedAt": "2026-10-25T01:44:09.888Z"
   },
   {
    "id": "laliga-2026-27-regular-r10-es-rayo-vallecano-es-elche",

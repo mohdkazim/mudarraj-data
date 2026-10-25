@@ -211,8 +211,19 @@
    "away": "ae-bani-yas",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "AET",
+   "score": {
+    "home": 0,
+    "away": 1,
+    "regular": [
+     0,
+     0
+    ],
+    "et": [
+     0,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Al Maktoum Stadium",
@@ -224,16 +235,15 @@
     }
    },
    "sources": [
-    "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095423",
-    "https://www.albayan.ae/sports/uae-stadiums/1559726",
-    "https://www.alkhaleej.ae/2026-10-21/رياضة/رياضة-الإمارات/نهائي-مبكر-ولقاء-ثأري-بين-شباب-الأهلي-والعين",
-    "https://www.emaratalyoum.com/sports/local/2026-10-10-1.2091255"
+    "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095554",
+    "https://www.albayan.ae/amp/sports/uae-stadiums/1560067"
    ],
    "venueSources": [
     "https://www.emaratalyoum.com/sports/local/2026-10-23-1.2095554",
     "https://sharjah24.ae/ar/Articles/2026/10/22/AL026",
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
-   ]
+   ],
+   "updatedAt": "2026-10-25T01:44:09.888Z"
   },
   {
    "id": "uae-presidents-cup-2026-27-r16-ae-khorfakkan-ae-al-dhafra",
@@ -391,6 +401,98 @@
     "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1557466"
    ],
    "updatedAt": "2026-10-24T19:37:08.938Z"
+  },
+  {
+   "id": "uae-presidents-cup-2026-27-qf-ae-al-jazira-ae-al-wahda",
+   "stage": {
+    "key": "qf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": null,
+   "timeConfirmed": false,
+   "home": "ae-al-jazira",
+   "away": "ae-al-wahda",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "TBD",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1560330",
+    "https://www.emaratalyoum.com/sports/local/2026-10-25-1.2095918"
+   ]
+  },
+  {
+   "id": "uae-presidents-cup-2026-27-qf-ae-khorfakkan-ae-bani-yas",
+   "stage": {
+    "key": "qf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": null,
+   "timeConfirmed": false,
+   "home": "ae-khorfakkan",
+   "away": "ae-bani-yas",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "TBD",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1560330",
+    "https://www.emaratalyoum.com/sports/local/2026-10-25-1.2095918"
+   ]
+  },
+  {
+   "id": "uae-presidents-cup-2026-27-qf-ae-shabab-al-ahli-ae-al-wasl",
+   "stage": {
+    "key": "qf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": null,
+   "timeConfirmed": false,
+   "home": "ae-shabab-al-ahli",
+   "away": "ae-al-wasl",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "TBD",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1560330",
+    "https://www.emaratalyoum.com/sports/local/2026-10-25-1.2095918"
+   ]
+  },
+  {
+   "id": "uae-presidents-cup-2026-27-qf-ae-sharjah-ae-hatta",
+   "stage": {
+    "key": "qf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": null,
+   "timeConfirmed": false,
+   "home": "ae-sharjah",
+   "away": "ae-hatta",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "TBD",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1560330",
+    "https://www.emaratalyoum.com/sports/local/2026-10-25-1.2095918"
+   ]
   }
  ]
 }
