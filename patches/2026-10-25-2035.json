@@ -1,0 +1,10 @@
+{
+  "run": "2026-10-25T16:35:00Z",
+  "changes": [],
+  "unconfirmed": [
+    { "match": "epl-2026-27-regular-r08-gb-eng-crystal-palace-gb-eng-newcastle-united", "claim": "0-2", "sources": ["https://www.skysports.com/premier-league-scores-fixtures"] },
+    { "match": "epl-2026-27-regular-r08-gb-eng-hull-city-gb-eng-brentford", "claim": "1-1", "sources": ["https://www.skysports.com/premier-league-scores-fixtures"] },
+    { "match": "epl-2026-27-regular-r08-gb-eng-liverpool-gb-eng-brighton", "claim": "2-0", "sources": ["https://www.skysports.com/premier-league-scores-fixtures"] },
+    { "match": "epl-2026-27-regular-r08-gb-eng-manchester-united-gb-eng-bournemouth", "claim": "0-3", "sources": ["https://www.skysports.com/premier-league-scores-fixtures"] }
+  ]
+}

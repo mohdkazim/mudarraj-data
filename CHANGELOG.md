@@ -2198,3 +2198,6 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-10-25 (2026-10-25T15:35:00Z)
 - 0 change(s) applied, 0 rejected, 2 waiting for a second source
+
+## 2026-10-25 (2026-10-25T16:35:00Z)
+- 0 change(s) applied, 0 rejected, 6 waiting for a second source
