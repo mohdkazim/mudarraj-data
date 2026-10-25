@@ -3757,14 +3757,19 @@
    "away": "gb-eng-leeds-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.arabnews.com/football/man-united-humbled-by-bournemouth-to-leave-carricks-job-under-threat-liverpool-beats-brighton-3008236"
+   ],
+   "goals": [],
+   "updatedAt": "2026-10-25T22:37:45.258Z"
   },
   {
    "id": "epl-2026-27-regular-r09-gb-eng-chelsea-gb-eng-manchester-united",

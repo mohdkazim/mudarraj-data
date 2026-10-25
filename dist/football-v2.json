@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-25T20:36:45.590Z",
+ "generatedAt": "2026-10-25T22:37:45.348Z",
  "counts": {
   "teams": 221,
   "competitions": 14,
   "matches": 1138,
-  "results": 477,
-  "pending": 5
+  "results": 479,
+  "pending": 4
  },
  "teams": [
   {
@@ -38636,8 +38636,11 @@
    "away": "gb-eng-leeds-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Stadium of Light",
@@ -38650,9 +38653,11 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.arabnews.com/football/man-united-humbled-by-bournemouth-to-leave-carricks-job-under-threat-liverpool-beats-brighton-3008236"
    ],
+   "goals": [],
+   "updatedAt": "2026-10-25T22:37:45.258Z",
    "venueFrom": "home-ground"
   },
   {
@@ -38707,8 +38712,15 @@
    "away": "es-real-madrid",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Spotify Camp Nou",
@@ -38721,10 +38733,31 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+    "https://www.skysports.com/football/barcelona-vs-real-madrid/563017",
+    "https://www.arabnews.com/football/real-madrid-beat-barcelona-in-la-liga-clasico-3008268",
+    "https://www.skysports.com/la-liga-scores-fixtures"
    ],
+   "goals": [
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-25T22:37:45.258Z",
    "venueFrom": "home-ground"
   },
   {

@@ -2214,3 +2214,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-10-26 (2026-10-25T20:35:00Z)
 - 0 change(s) applied, 0 rejected, 5 waiting for a second source
+
+## 2026-10-26 (2026-10-25T22:35:00Z)
+- 2 change(s) applied, 0 rejected, 4 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r10-es-barcelona-es-real-madrid 1-2 FT
+  - ✓ result epl-2026-27-regular-r08-gb-eng-sunderland-gb-eng-leeds-united 0-0 FT

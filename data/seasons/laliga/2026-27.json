@@ -5111,15 +5111,43 @@
    "away": "es-real-madrid",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
-   ]
+    "https://www.skysports.com/football/barcelona-vs-real-madrid/563017",
+    "https://www.arabnews.com/football/real-madrid-beat-barcelona-in-la-liga-clasico-3008268",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-25T22:37:45.258Z"
   },
   {
    "id": "laliga-2026-27-regular-r10-es-sevilla-es-osasuna",

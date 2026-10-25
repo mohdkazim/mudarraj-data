@@ -1,0 +1,15 @@
+{
+  "run": "2026-10-25T22:35:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r10-es-barcelona-es-real-madrid", "status": "FT", "score": [1,2], "ht": [0,1],
+      "goals": [
+        { "minute": 41, "side": "away", "player": "Kylian Mbappé", "type": "goal" },
+        { "minute": 61, "side": "home", "player": "Raphinha", "type": "goal" },
+        { "minute": 87, "side": "away", "player": "Kylian Mbappé", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/barcelona-vs-real-madrid/563017", "https://www.arabnews.com/football/real-madrid-beat-barcelona-in-la-liga-clasico-3008268", "https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r08-gb-eng-sunderland-gb-eng-leeds-united", "status": "FT", "score": [0,0], "goals": [],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.arabnews.com/football/man-united-humbled-by-bournemouth-to-leave-carricks-job-under-threat-liverpool-beats-brighton-3008236"] }
+  ],
+  "unconfirmed": []
+}
