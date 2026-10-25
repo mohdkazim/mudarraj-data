@@ -2195,3 +2195,6 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result saudi-kings-cup-2026-27-r32-sa-damac-sa-al-taawoun 0-3 FT
   - ✓ result saudi-kings-cup-2026-27-r32-sa-jeddah-club-sa-al-kholood 0-5 FT
   - ✓ result saudi-kings-cup-2026-27-r32-sa-al-ula-sa-al-fateh 3-0 FT
+
+## 2026-10-25 (2026-10-25T15:35:00Z)
+- 0 change(s) applied, 0 rejected, 2 waiting for a second source
