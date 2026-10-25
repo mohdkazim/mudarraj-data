@@ -1,6 +1,10 @@
 #!/usr/bin/env node
 /**
- * Validate, then write dist/football.json — the single file the website downloads.
+ * Validate, then write the files the website downloads:
+ *   dist/football-v2.json  everything (sites built from 25 Oct 2026 on; they skip competitions they don't know yet)
+ *   dist/football.json     the same without competitions marked "since": 2 in data/competitions.json, for sites
+ *                          installed earlier, which can't show a competition they don't know (Saudi football,
+ *                          added 25 Oct 2026, is the first)
  *   node tools/build.mjs
  * Refuses to build (exit 1) if validation fails, so the published file is always consistent.
  */
@@ -47,8 +51,19 @@ const out = {
   ...(news ? { news } : {}),
   ...(provisional ? { provisional } : {}),
 };
-writeJSON(path.join(ROOT, "dist", "football.json"), out);
-writeJSON(path.join(ROOT, "dist", "summary.json"), { format: out.format, generatedAt: out.generatedAt, counts: out.counts });
+// Earlier sites read football.json: leave out the competitions they don't know (marked "since": 2).
+const legacyComp = (id) => (all.compById.get(id)?.since ?? 1) <= 1;
+const legacyMatches = matches.filter((m) => legacyComp(m.competition));
+const legacy = {
+  ...out,
+  counts: { ...out.counts, competitions: all.competitions.filter((c) => legacyComp(c.id)).length, matches: legacyMatches.length, results: legacyMatches.filter((m) => m.score).length },
+  competitions: all.competitions.filter((c) => legacyComp(c.id)),
+  matches: legacyMatches,
+};
+writeJSON(path.join(ROOT, "dist", "football-v2.json"), out);
+writeJSON(path.join(ROOT, "dist", "football.json"), legacy);
+writeJSON(path.join(ROOT, "dist", "summary.json"), { format: out.format, generatedAt: out.generatedAt, counts: out.counts, legacyCounts: legacy.counts });
 const noVenue = matches.filter((m) => !m.venue).length;
-console.log(`✓ built dist/football.json — ${matches.length} matches (${out.counts.results} with results), ${warnings.length} warning(s)`);
+console.log(`✓ built dist/football-v2.json — ${matches.length} matches (${out.counts.results} with results), ${warnings.length} warning(s)`);
+console.log(`  dist/football.json (sites installed before 25 Oct 2026) — ${legacyMatches.length} matches, without: ${all.competitions.filter((c) => !legacyComp(c.id)).map((c) => c.id).join(", ") || "nothing"}`);
 console.log(`  venues: ${matches.length - noVenue - homeGround} listed, ${homeGround} home ground, ${noVenue} none (neutral, final or unknown)`);

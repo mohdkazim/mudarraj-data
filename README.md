@@ -9,7 +9,7 @@ Daily football data for **مدرج الجمهور — Mudarraj Al Jumhoor**, a b
   - `tools/apply.mjs` rejects anything less
   - `tools/build.mjs` refuses to publish if the data is inconsistent, or if our results don't add up to the official league tables
   - every run is logged in [`CHANGELOG.md`](CHANGELOG.md)
-- **What the website reads:** [`dist/football.json`](dist/football.json) only.
+- **What the website reads:** [`dist/football-v2.json`](dist/football-v2.json) (sites installed from 25 Oct 2026 on). [`dist/football.json`](dist/football.json) is the same without competitions added since (marked `"since": 2`), for sites installed earlier.
 
 ## Spotted a mistake?
 
@@ -32,5 +32,5 @@ Tell Claude in the project chat ("Al Ain v Ajman on 29 Oct ended 2-1, not 1-1").
 ```bash
 node tools/status.mjs      # what needs checking
 node tools/apply.mjs patches/<date>.json
-node tools/build.mjs       # validates, then writes dist/football.json
+node tools/build.mjs       # validates, then writes dist/football-v2.json and dist/football.json
 ```
