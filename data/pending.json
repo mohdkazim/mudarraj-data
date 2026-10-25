@@ -14,5 +14,21 @@
    "https://www.skysports.com/la-liga-scores-fixtures"
   ],
   "seen": "2026-10-25T15:35:00Z"
+ },
+ {
+  "match": "epl-2026-27-regular-r08-gb-eng-sunderland-gb-eng-leeds-united",
+  "claim": "0-0",
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures"
+  ],
+  "seen": "2026-10-25T18:35:00Z"
+ },
+ {
+  "match": "laliga-2026-27-regular-r10-es-celta-vigo-es-real-betis",
+  "claim": "0-0",
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures"
+  ],
+  "seen": "2026-10-25T18:35:00Z"
  }
 ]
