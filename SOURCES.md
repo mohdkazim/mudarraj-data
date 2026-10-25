@@ -35,6 +35,8 @@ In an unattended scheduled run, the fetch tool only opens links **returned by a 
 | Second source, European match | `<home> <away> result` | `thenationalnews.com`, `gulfnews.com`, `khaleejtimes.com`, `arabnews.com` | match reports and player ratings |
 | Same, in Arabic | Arabic team names | `aletihad.ae`, `alkhaleej.ae`, `albayan.ae`, `emaratalyoum.com` | match reports |
 | UAE competitions | Arabic team names + competition | `uaeproleague.ae`, `wam.ae`, `aletihad.ae`, `alkhaleej.ae`, `albayan.ae`, `emaratalyoum.com`, `sharjah24.ae` | reports, official match pages |
+| Saudi competitions, enough alone (tested 25 Oct 2026) | `<home> <away>` in English | `365scores.com` | the match page (`…/football/match/saudi-league-649/…`; King's Cup `king's-cup-5501`). Check the date: the same pair's other meeting comes up too |
+| Saudi competitions, Tier 2 reports (tested 25 Oct 2026) | `<home> <away> Saudi Pro League result`, or the Arabic names + `دوري روشن` (`كأس الملك`) | `arabnews.com`, `saudigazette.com.sa`; Arabic `okaz.com.sa`, `sabq.org`, `alriyadh.com`, `alyaum.com` | match reports (older meetings appear too: check the date) |
 | Kooora / 365Scores (enough alone) | `<home> <away>` (Arabic names for Kooora) | `kooora.com` or `365scores.com` | match pages and reports — see the limits below |
 
 - **Don't put `espn.com`, `reuters.com` or `apnews.com` in `allowed_domains`:** the search tool rejects the whole request.
@@ -143,3 +145,13 @@ A match's goals are recorded only from one trusted page that lists **every** goa
 - **Tier 1:** the-afc.com
 - **Tier 2:** ESPN feed `…/soccer/afc.asian.cup/…`
 - **Note:** in October 2026 the AFC said it was considering a postponement. Follow official announcements only.
+
+### Roshn Saudi League (`saudi-pro-league`), King's Cup (`saudi-kings-cup`), Saudi Super Cup (`saudi-super-cup`) — added 25 Oct 2026
+- **Tier 1:** spl.com.sa (the league's organiser) and saff.com.sa (the federation: King's Cup, Super Cup). Their news, team list (stadiums) and regulation/schedule PDFs read well, but **results, fixtures and match pages load with JavaScript and show nothing** to the reader. Use them for postponements, schedules and names.
+- **Enough alone:** 365Scores match pages (search as above), Kooora (long addresses refused).
+- **Tier 2:** ESPN feed `…/soccer/ksa.1/scoreboard?dates=YYYYMMDD` (league; team list `…/ksa.1/teams`), `…/soccer/ksa.kings.cup/…` (King's Cup); Arab News, Saudi Gazette, SPA, Okaz, Sabq, Al Riyadh, Al Yaum. In a scheduled run the ESPN feed opens only when a search or fetched page gives the exact link.
+- **Times:** Saudi time is UTC+3 (no daylight saving). Kooora showed US Eastern times to the reader (25 Oct 2026): convert with care.
+- **League:** 18 clubs, 34 rounds, 13 Aug 2026 – 29 May 2027. Rounds 13–34 were published with one date per round and no times; they're stored on that date at 17:00 UTC with `"timeConfirmed": false` until the league sets them (matches then spread over 2–3 days). Moved matches keep their original round (R9 Al Ahli v Al Nassr → 6 Mar 2027 etc.). Table tie-break during the season: goal difference, then goals scored (`points-gd-gf`); head-to-head decides only the final standings. Relegation: 16th–18th.
+- **King's Cup:** single matches, extra time then penalties; open draws after each round. Round of 16 on 30 Nov – 1 Dec 2026, quarter-finals 22–23 Feb 2027, semi-finals 4–5 May 2027; the final's date and venue are to be announced. Lower-division clubs host the round of 32.
+- **Super Cup (2026 edition):** Al Qadsiah v Al Ahli (19 Dec) and Al Nassr v Al Kholood (20 Dec), final 23 Dec, all at Jaber Al-Ahmad International Stadium, Kuwait (neutral). A draw goes straight to penalties: record `PEN` with `"et": [0, 0]`. The final's kick-off time isn't published by a trusted site yet.
+- **Crests:** TheSportsDB badges (`r2.thesportsdb.com`), as the site shows them; API-Football ids for these clubs and competitions weren't found.

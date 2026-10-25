@@ -1,7 +1,37 @@
 {
-  "_note": "Settings for the site's related-news card (published with the data as 'news'). 'sites' replaces the built-in outlet list for that language. 24 Oct 2026: Kooora and 365Scores added at Mohamed's request.",
+  "_note": "Settings for the site's related-news card (published with the data as 'news'). 'sites' replaces the built-in outlet list for that language. 24 Oct 2026: Kooora and 365Scores added at Mohamed's request. 25 Oct 2026: Saudi outlets (Okaz, Sabq, Al Riyadh, Al Yaum; Saudi Gazette) added with the Saudi competitions.",
   "sites": {
-    "ar": ["alkhaleej.ae", "albayan.ae", "aletihad.ae", "emaratalyoum.com", "wam.ae", "sharjah24.ae", "kooora.com", "365scores.com", "skynewsarabia.com", "alarabiya.net", "aawsat.com", "the-afc.com"],
-    "en": ["thenationalnews.com", "gulfnews.com", "khaleejtimes.com", "skysports.com", "espn.com", "reuters.com", "apnews.com", "arabnews.com", "365scores.com", "the-afc.com", "uefa.com"]
+    "ar": [
+      "alkhaleej.ae",
+      "albayan.ae",
+      "aletihad.ae",
+      "emaratalyoum.com",
+      "wam.ae",
+      "sharjah24.ae",
+      "kooora.com",
+      "365scores.com",
+      "skynewsarabia.com",
+      "alarabiya.net",
+      "aawsat.com",
+      "the-afc.com",
+      "okaz.com.sa",
+      "sabq.org",
+      "alriyadh.com",
+      "alyaum.com"
+    ],
+    "en": [
+      "thenationalnews.com",
+      "gulfnews.com",
+      "khaleejtimes.com",
+      "skysports.com",
+      "espn.com",
+      "reuters.com",
+      "apnews.com",
+      "arabnews.com",
+      "365scores.com",
+      "the-afc.com",
+      "uefa.com",
+      "saudigazette.com.sa"
+    ]
   }
 }

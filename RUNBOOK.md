@@ -123,5 +123,8 @@ Don't do in an evening run: fixture lists, kick-off times, venues, postponed mat
 | `uae-super-cup` | — | `final` |
 | `gulf-club-cl` | `groups` (type `group`) | `qf`, `sf`, `final` |
 | `asian-cup` | `groups` | `r16`, `qf`, `sf`, `final` (placeholders already in the data) |
+| `saudi-pro-league` | `{"key":"regular","type":"league","round":N}` (34 rounds) | — |
+| `saudi-kings-cup` | — | `r32`, `r16`, `qf`, `sf` (`type` `knockout`), `final` (`type` `final`); single matches |
+| `saudi-super-cup` | — | `sf` (`type` `knockout`), `final` (`type` `final`); neutral venue (Kuwait, Dec 2026) |
 
 Two-legged ties: add `"leg": 1` / `"leg": 2`. The second leg is the one with the teams swapped.
