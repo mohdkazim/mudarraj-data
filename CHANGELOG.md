@@ -2201,3 +2201,10 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-10-25 (2026-10-25T16:35:00Z)
 - 0 change(s) applied, 0 rejected, 6 waiting for a second source
+
+## 2026-10-25 (2026-10-25T17:35:00Z)
+- 4 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result epl-2026-27-regular-r08-gb-eng-liverpool-gb-eng-brighton 2-0 FT
+  - ✓ result epl-2026-27-regular-r08-gb-eng-manchester-united-gb-eng-bournemouth 0-3 FT
+  - ✓ result epl-2026-27-regular-r08-gb-eng-crystal-palace-gb-eng-newcastle-united 0-2 FT
+  - ✓ result epl-2026-27-regular-r08-gb-eng-hull-city-gb-eng-brentford 1-1 FT

@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-25T16:37:07.655Z",
+ "generatedAt": "2026-10-25T17:37:04.507Z",
  "counts": {
   "teams": 221,
   "competitions": 14,
   "matches": 1138,
-  "results": 473,
-  "pending": 6
+  "results": 477,
+  "pending": 2
  },
  "teams": [
   {
@@ -38398,8 +38398,11 @@
    "away": "gb-eng-newcastle-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Selhurst Park",
@@ -38412,9 +38415,25 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://www.khaleejtimes.com/sports/football/liverpool-grab-home-win-man-united-slump-to-another-defeat",
+    "https://www.skysports.com/football/crystal-palace-vs-newcastle-united/live/559518"
    ],
+   "goals": [
+    {
+     "minute": 47,
+     "side": "away",
+     "player": "W Osula",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "away",
+     "player": "H Barnes",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-25T17:37:04.422Z",
    "venueFrom": "home-ground"
   },
   {
@@ -38433,8 +38452,11 @@
    "away": "gb-eng-brentford",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "MKM Stadium",
@@ -38447,9 +38469,25 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://www.khaleejtimes.com/sports/football/liverpool-grab-home-win-man-united-slump-to-another-defeat",
+    "https://www.skysports.com/football/hull-city-vs-brentford/live/559519"
    ],
+   "goals": [
+    {
+     "minute": 24,
+     "side": "home",
+     "player": "O McBurnie",
+     "type": "penalty"
+    },
+    {
+     "minute": 63,
+     "side": "away",
+     "player": "D Ouattara",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-25T17:37:04.422Z",
    "venueFrom": "home-ground"
   },
   {
@@ -38468,8 +38506,11 @@
    "away": "gb-eng-brighton",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Anfield",
@@ -38482,9 +38523,25 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://www.khaleejtimes.com/sports/football/liverpool-grab-home-win-man-united-slump-to-another-defeat",
+    "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/live/559521"
    ],
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "P Groß",
+     "type": "own-goal"
+    },
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "A Isak",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-25T17:37:04.422Z",
    "venueFrom": "home-ground"
   },
   {
@@ -38503,8 +38560,11 @@
    "away": "gb-eng-bournemouth",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
    "venue": {
     "name": {
      "en": "Old Trafford",
@@ -38517,9 +38577,11 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://www.thenationalnews.com/sport/football/2026/10/25/man-united-v-bournemouth-ratings-disaster-at-old-trafford-as-tielemans-and-dalot-struggle/",
+    "https://www.khaleejtimes.com/sports/football/liverpool-grab-home-win-man-united-slump-to-another-defeat"
    ],
+   "updatedAt": "2026-10-25T17:37:04.422Z",
    "venueFrom": "home-ground"
   },
   {

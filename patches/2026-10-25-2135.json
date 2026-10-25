@@ -1,0 +1,28 @@
+{
+  "run": "2026-10-25T17:35:00Z",
+  "changes": [
+    { "op": "result", "match": "epl-2026-27-regular-r08-gb-eng-liverpool-gb-eng-brighton", "status": "FT", "score": [2,0],
+      "goals": [
+        { "minute": 17, "side": "home", "player": "P Groß", "type": "own-goal" },
+        { "minute": 21, "side": "home", "player": "A Isak", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/premier-league-scores-fixtures", "https://www.khaleejtimes.com/sports/football/liverpool-grab-home-win-man-united-slump-to-another-defeat", "https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/live/559521"] },
+    { "op": "result", "match": "epl-2026-27-regular-r08-gb-eng-manchester-united-gb-eng-bournemouth", "status": "FT", "score": [0,3],
+      "sources": ["https://www.skysports.com/premier-league-scores-fixtures", "https://www.thenationalnews.com/sport/football/2026/10/25/man-united-v-bournemouth-ratings-disaster-at-old-trafford-as-tielemans-and-dalot-struggle/", "https://www.khaleejtimes.com/sports/football/liverpool-grab-home-win-man-united-slump-to-another-defeat"] },
+    { "op": "result", "match": "epl-2026-27-regular-r08-gb-eng-crystal-palace-gb-eng-newcastle-united", "status": "FT", "score": [0,2],
+      "goals": [
+        { "minute": 47, "side": "away", "player": "W Osula", "type": "goal" },
+        { "minute": 58, "side": "away", "player": "H Barnes", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/premier-league-scores-fixtures", "https://www.khaleejtimes.com/sports/football/liverpool-grab-home-win-man-united-slump-to-another-defeat", "https://www.skysports.com/football/crystal-palace-vs-newcastle-united/live/559518"] },
+    { "op": "result", "match": "epl-2026-27-regular-r08-gb-eng-hull-city-gb-eng-brentford", "status": "FT", "score": [1,1],
+      "goals": [
+        { "minute": 24, "side": "home", "player": "O McBurnie", "type": "penalty" },
+        { "minute": 63, "side": "away", "player": "D Ouattara", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/premier-league-scores-fixtures", "https://www.khaleejtimes.com/sports/football/liverpool-grab-home-win-man-united-slump-to-another-defeat", "https://www.skysports.com/football/hull-city-vs-brentford/live/559519"] }
+  ],
+  "unconfirmed": [
+    { "match": "laliga-2026-27-regular-r10-es-athletic-club-es-getafe", "claim": "4-0", "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] }
+  ]
+}
