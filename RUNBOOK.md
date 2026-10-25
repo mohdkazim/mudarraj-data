@@ -2,8 +2,8 @@
 
 Two scheduled Claude runs keep the data up to date (a person can follow this too):
 
-- **Morning run, 05:36 UAE — the full update** (the Steps below): results, fixtures, kick-off times, second sources, Monday table checks.
-- **Evening results runs, hourly 16:35–02:35 UAE — results only** (see "Evening results run" further down): adds the results of matches that finished in the last few hours, so the site shows them about an hour after full time.
+- **Morning run, 05:36 UAE — the full update** (the Steps below): results, goal scorers still missing, fixtures, kick-off times, second sources, Monday table checks.
+- **Evening results runs, hourly 16:35–02:35 UAE — results and their scorers** (see "Evening results run" further down): adds the results of matches that finished in the last few hours, with their goal scorers, so the site shows them about an hour after full time.
 
 Late European kick-offs end by about 02:00 UAE time, so by the morning run every result from the day before should be published somewhere.
 
@@ -15,7 +15,7 @@ Late European kick-offs end by about 02:00 UAE time, so by the morning run every
 4. **Times are stored in UTC** (ISO, e.g. `2026-10-29T14:10:00Z`). Dates in file names and logs are UAE dates.
 5. **Never hand-edit `data/`.** All changes go through a patch, `tools/apply.mjs` and `tools/build.mjs`. The one exception is fixing the structure in `data/competitions.json` (groups, rounds) when an organiser changes a format; say so in the commit message.
 6. **Never push a failing dataset.** If `tools/build.mjs` fails, fix the cause or drop the change.
-7. **Goal scorers: all or none.** List a match's goals only when a source gives every goal (scorer and minute). A partial list misleads; leave `goals` out instead.
+7. **Goal scorers: part of every result, all or none.** Every run that records a result also looks for its scorers (see "Goal scorers" below). List a match's goals only when one trusted page gives every goal (scorer and minute). A partial list misleads; leave `goals` out instead.
 8. **Stay inside this repository.** Don't change anything else, and don't work around a site that refuses the automated reader (BBC, The Guardian): use another source from `SOURCES.md`.
 9. **Be efficient.** One scores or results page usually covers a whole round; web searches are capped per session, so search once per page you need.
 10. **Scheduled runs open pages through search.** In an unattended run the fetch tool only opens links returned by a web search in that run (or links on a page it fetched). A link typed in directly, from this file, `SOURCES.md` or the task prompt, or built by adding a date or an id, is refused after waiting for an approval nobody gives. Search first, with `allowed_domains` set to the trusted sites, then open the link the search returns. Tested recipes are in `SOURCES.md` ("Opening pages in scheduled runs").
@@ -31,7 +31,8 @@ node tools/status.mjs
 ```
 
 2. **Gather facts** for everything listed:
-   - **NEEDS A RESULT:** look the match up on the competition's sources and confirm the score (see the rule above). Record half-time if a source shows it. For extra time or penalties, record `regular`, `et` and `pens`.
+   - **NEEDS A RESULT:** look the match up on the competition's sources and confirm the score (see the rule above). Record half-time if a source shows it. For extra time or penalties, record `regular`, `et` and `pens`. Record the goal scorers too (see "Goal scorers").
+   - **NEEDS SCORERS** (results of the last 3 days without goal scorers): find one trusted page that lists every goal with its minute and add them (see "Goal scorers"). Not found → leave it; after 3 days a match drops off the list.
    - **KICK-OFF TIME NOT CONFIRMED:** look for the time on a Tier 1 or 2 site.
    - **WAITING FOR A SECOND SOURCE:** try to confirm or correct each claim.
    - **FIXTURE LISTS:** when a list ends inside the window, or a draw or schedule announcement happened, add the new fixtures. Fill knockout placeholders once the teams are known: use a `fixture` op with the existing match id plus `home`/`away`.
@@ -51,27 +52,41 @@ node tools/status.mjs
 
 5. **Publish:**
    ```bash
-   git add -A && git commit -m "data: <date> — <n> results, <m> fixtures" && git push
+   git add -A && git commit -m "data: <date> — <n> results, <s> scorers, <m> fixtures" && git push
    ```
 
 6. **Report** in a few lines:
-   - what changed: results and fixtures added or moved
+   - what changed: results, scorers and fixtures added or moved (and recent results still without scorers)
    - what is still waiting for a second source
    - anything that failed: unreadable sources, rejected changes
 
+## Goal scorers
+
+Every run that records a result also records its goal scorers, and `node tools/status.mjs` lists results still without them under NEEDS SCORERS (evening runs: results recorded in the last 2 hours; morning run: the last 3 days).
+
+- **One page with every goal.** Use one trusted page (Tier 1, Kooora/365Scores, or Tier 2) that lists every goal with its minute. Tested pages and how to reach them are in `SOURCES.md` ("Goal scorers"). The goals must add up to the score; the tools reject a list that doesn't.
+- **With a new result:** add `"goals"` (and `"ht"` when the page shows it) to its `result` op. If the pages that confirmed the score don't list every goal, make one more search for a page that does.
+- **For a result already recorded** (NEEDS SCORERS): send a `result` op that repeats the recorded status and score exactly as `status.mjs` prints them (for AET and PEN also `regular`, `et` and `pens`), adds `"goals"` (and `"ht"`), and lists the scorers page in `sources`. One Tier 1, Kooora/365Scores or Tier 2 page is enough; `apply.mjs` answers "added scorers to the confirmed result".
+- **Format:** one entry per goal, in time order: `{ "minute": 45, "extra": 2, "side": "home", "player": "Name", "type": "goal" }`.
+  - `side`: the team the goal counts for. An own goal counts for the other team, and `player` is the player who scored it.
+  - `type`: `goal`, `penalty` or `own-goal`.
+  - Stoppage time: 45+2 → minute 45, extra 2. Extra time uses minutes 91–120 (105+1 → minute 105, extra 1). Shoot-out kicks are never goals.
+  - Copy names as the page spells them; prefer an English page's spelling.
+- **Not found:** leave it. An empty timeline is better than a wrong one.
+
 ## Evening results run (hourly, 16:35–02:35 UAE)
 
-A small run with one job: results of matches that have just finished. Everything else waits for the morning run.
+A small run with one job: results of matches that have just finished, with their scorers. Everything else waits for the morning run.
 
 1. Get the repository as in step 0, then:
    ```bash
    node tools/status.mjs --results
    ```
-   It lists matches that kicked off in the last 12 hours, should have finished (kick-off at least 2 hours ago: 90 minutes, half-time and stoppage time) and still have no result, plus second-source claims about them.
+   It lists matches that kicked off in the last 12 hours, should have finished (kick-off at least 2 hours ago: 90 minutes, half-time and stoppage time) and still have no result, second-source claims about them, and results recorded in the last 2 hours that still have no scorers (NEEDS SCORERS).
 2. **"NOTHING TO DO" → stop.** No web lookups, no commit, no report. Most runs end here.
-3. Otherwise confirm each listed result exactly as in step 2 above (same sources, same rules: one Tier 1, or two different Tier 2, or Tier 2 + Tier 3; single-source claims go under `unconfirmed`). A match that is still going (extra time, a late kick-off, a delay) or has no confirmed result yet is simply left for the next run.
+3. Otherwise confirm each listed result exactly as in step 2 above (same sources, same rules: one Tier 1, or two different Tier 2, or Tier 2 + Tier 3; single-source claims go under `unconfirmed`). A match that is still going (extra time, a late kick-off, a delay) or has no confirmed result yet is simply left for the next run. Record each result's scorers with it, and try once for each match under NEEDS SCORERS (see "Goal scorers"). Scorers often appear a little after the score; a later run or the morning run tries again.
 4. Write `patches/<UAE date>-<HHMM>.json` (e.g. `patches/2026-10-24-2135.json`, so runs never overwrite each other or the morning patch), then `node tools/apply.mjs` and `node tools/build.mjs` as in step 4.
-5. Publish only if the build passes: `git commit -m "data: <UAE date> <HH:MM> — <n> results"` and push. Push rejected → `git pull --rebase`, build again, push.
+5. Publish only if the build passes, also when the run only added scorers: `git commit -m "data: <UAE date> <HH:MM> — <n> results, <s> scorers"` and push. Push rejected → `git pull --rebase`, build again, push.
 6. **No report when things went normally** — the morning run reports the day. Only report a problem that stopped publishing (no GitHub access, a build you couldn't fix, a push that kept failing).
 
 Don't do in an evening run: fixture lists, kick-off times, venues, postponed matches, table checks, older gaps from previous days. Those are the morning run's.

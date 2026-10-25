@@ -43,6 +43,21 @@ In an unattended scheduled run, the fetch tool only opens links **returned by a 
 - **Check the date of a report:** searches also return older meetings of the same teams.
 - **In the evening, laliga.com and ESPN lag behind** (24 Oct 2026: Rayo 0-3 Elche was FT on Sky but still "VS" on laliga.com; ESPN's undated feed still showed 18 Oct).
 
+## Goal scorers (tested 25 Oct 2026)
+
+A match's goals are recorded only from one trusted page that lists **every** goal with its minute (RUNBOOK.md, "Goal scorers"). Pages that do, and how a scheduled run reaches them:
+
+| Competition | Page that lists every goal | How to reach it in a scheduled run |
+|---|---|---|
+| Premier League, Champions League | Sky Sports live page `skysports.com/football/<home>-vs-<away>/live/<id>`: its header lists each goal with its minute (Aston Villa 2-1 Man City: "6' N Jackson, 52' E Haaland, 60' N Jackson"). Look for pen / og marks | WebSearch `<home> vs <away>` with `allowed_domains: ["skysports.com"]` → open the link ending `/live/<number>`. The plain match page (`…/football/<home>-vs-<away>/<long number>`) loads empty for the reader (it showed 0-0 and no goals) |
+| LALIGA | laliga.com match page: every goal with minute (incl. 90+1) and the half-time score (Alavés 3-0 Getafe: 73' Tenaglia, 90+1' Mariano Díaz, 90+4' Mikel Rodríguez; HT 0-0) | the links on the results page (search `Results of LALIGA EA SPORTS 2026/27`, `allowed_domains: ["laliga.com"]`); its matchday pages link every match page |
+| ADNOC Pro League, ADIB Cup, EMAAR Super Cup | uaeproleague.ae fixture page `uaeproleague.ae/en/fixtures/<id>`: every goal with minute, scorer and team, own goals marked | a result's own `sources` often include it already; uaeproleague.ae's home page links the current round's fixture pages. A search limited to uaeproleague.ae mostly returns news pages, which are reports, not goal lists |
+| AFC Champions League Elite and Two, Gulf Club Champions League, UAE President's Cup, and anything the rows above miss | 365Scores match page (enough alone): goals with minutes and the half-time score (Al Ain 4-0 Al Nassr: 25', 63', 72', 85'; HT 1-0) | WebSearch `<home> <away>` with `allowed_domains: ["365scores.com"]` → the match page. Check the date: searches also return older meetings of the same teams |
+| Any | ESPN data feed (Tier 2) `site.api.espn.com/…/scoreboard?dates=YYYYMMDD`: `competitions[0].details` has every scoring play | only when a search or a fetched page gives that exact link (rare in scheduled runs). Often stale for LALIGA and the AFC (frozen mid-match): use it only when the goals add up |
+
+- **Not enough on their own:** the-afc.com match reports (some goals only "after the break"), Sky Sports month pages (`…-scores-fixtures`, no scorers), most news reports (they name scorers but rarely every minute).
+- **Arabic UAE papers** (Al Khaleej, Al Bayan, Emarat Al Youm) often list scorers with minutes; use them when nothing else does, and take the Latin spelling from an English page when there is one.
+
 ## Per competition (tested 23 Oct 2026)
 
 **Time zones (checked 23 Oct 2026).** Always store UTC.
