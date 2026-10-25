@@ -21,7 +21,16 @@
     "home": 4,
     "away": 0
    },
-   "venue": null,
+   "venue": {
+    "name": {
+     "en": "Al-Watani Club Stadium",
+     "ar": "ملعب نادي الوطني"
+    },
+    "city": {
+     "en": "Tabuk",
+     "ar": "تبوك"
+    }
+   },
    "neutral": false,
    "sources": [
     "https://www.raya.com/2026/10/14/الدحيل-يستهل-مشواره-بدوري-أبطال-الخليج-للأندية-بثلاثية-عمانية",
@@ -55,6 +64,10 @@
      "player": "Lacazette",
      "type": "goal"
     }
+   ],
+   "venueSources": [
+    "https://sabq.org/article/92rpqxi",
+    "https://www.okaz.com.sa/sport/na/2270625"
    ]
   },
   {

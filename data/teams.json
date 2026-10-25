@@ -5225,6 +5225,63 @@
   "apiFootballId": 2907
  },
  {
+  "id": "sa-abha",
+  "name": {
+   "en": "Abha",
+   "ar": "أبها"
+  },
+  "shortName": {
+   "en": "Abha",
+   "ar": "أبها"
+  },
+  "code": "ABH",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/e00pwe1677530619.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Prince Sultan bin Abdulaziz Sports City Stadium",
+    "ar": "ملعب مدينة الأمير سلطان بن عبدالعزيز الرياضية"
+   },
+   "city": {
+    "en": "Abha",
+    "ar": "أبها"
+   }
+  },
+  "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-adalah",
+  "name": {
+   "en": "Al Adalah",
+   "ar": "العدالة"
+  },
+  "shortName": {
+   "en": "Al Adalah",
+   "ar": "العدالة"
+  },
+  "code": "ADA",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/ugjap61737684503.png",
+  "color": null,
+  "venue": null,
+  "aliases": [
+   "Al-Adalah"
+  ],
+  "apiFootballId": null
+ },
+ {
   "id": "sa-al-ahli-saudi",
   "name": {
    "en": "Al Ahli Saudi",
@@ -5261,6 +5318,107 @@
   "apiFootballId": 2929
  },
  {
+  "id": "sa-al-anwar",
+  "name": {
+   "en": "Al Anwar",
+   "ar": "الأنوار"
+  },
+  "shortName": {
+   "en": "Al Anwar",
+   "ar": "الأنوار"
+  },
+  "code": "ANW",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/npw6c41755453653.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Al Anwar Club Stadium",
+    "ar": "ملعب نادي الأنوار"
+   }
+  },
+  "aliases": [
+   "Al-Anwar"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-bukayriyah",
+  "name": {
+   "en": "Al Bukayriyah",
+   "ar": "البكيرية"
+  },
+  "shortName": {
+   "en": "Al Bukayriyah",
+   "ar": "البكيرية"
+  },
+  "code": "BUK",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/ifq6301737687657.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Al Bukayriyah Club Stadium",
+    "ar": "ملعب نادي البكيرية"
+   },
+   "city": {
+    "en": "Al Bukayriyah",
+    "ar": "البكيرية"
+   }
+  },
+  "aliases": [
+   "Albukiryah",
+   "Al-Bukiryah"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-diriyah",
+  "name": {
+   "en": "Al Diriyah",
+   "ar": "الدرعية"
+  },
+  "shortName": {
+   "en": "Al Diriyah",
+   "ar": "الدرعية"
+  },
+  "code": "DIR",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/0m7ub31782452735.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Al-Awwal Park",
+    "ar": "الأول بارك"
+   },
+   "city": {
+    "en": "Riyadh",
+    "ar": "الرياض"
+   }
+  },
+  "aliases": [
+   "Diriyah Club",
+   "Al-Diriyah",
+   "Al Diraiyah"
+  ],
+  "apiFootballId": null
+ },
+ {
   "id": "sa-al-ettifaq",
   "name": {
    "en": "Al Ettifaq",
@@ -5291,6 +5449,144 @@
   },
   "aliases": [],
   "apiFootballId": 2934
+ },
+ {
+  "id": "sa-al-faisaly",
+  "name": {
+   "en": "Al Faisaly",
+   "ar": "الفيصلي"
+  },
+  "shortName": {
+   "en": "Al Faisaly",
+   "ar": "الفيصلي"
+  },
+  "code": "FAI",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/a81pz21646835057.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Al Majma'ah Sports City",
+    "ar": "مدينة المجمعة الرياضية"
+   },
+   "city": {
+    "en": "Al Majma'ah",
+    "ar": "المجمعة"
+   }
+  },
+  "aliases": [
+   "Al-Faisaly"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-fateh",
+  "name": {
+   "en": "Al Fateh",
+   "ar": "الفتح"
+  },
+  "shortName": {
+   "en": "Al Fateh",
+   "ar": "الفتح"
+  },
+  "code": "FAT",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/a5cjf41662659789.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Maydan Tamweel Aloula",
+    "ar": "ميدان تمويل الأولى"
+   },
+   "city": {
+    "en": "Al Ahsa",
+    "ar": "الأحساء"
+   }
+  },
+  "aliases": [
+   "Al-Fateh"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-fayha",
+  "name": {
+   "en": "Al Fayha",
+   "ar": "الفيحاء"
+  },
+  "shortName": {
+   "en": "Al Fayha",
+   "ar": "الفيحاء"
+  },
+  "code": "FAY",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/jl3spp1677530565.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Al Majma'ah Sports City",
+    "ar": "مدينة المجمعة الرياضية"
+   },
+   "city": {
+    "en": "Al Majma'ah",
+    "ar": "المجمعة"
+   }
+  },
+  "aliases": [
+   "Al-Fayha",
+   "Al Feiha"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-hazem",
+  "name": {
+   "en": "Al Hazem",
+   "ar": "الحزم"
+  },
+  "shortName": {
+   "en": "Al Hazem",
+   "ar": "الحزم"
+  },
+  "code": "HAZ",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/3uy27p1635871755.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Al Hazem Club Stadium",
+    "ar": "ملعب نادي الحزم"
+   },
+   "city": {
+    "en": "Ar Rass",
+    "ar": "الرس"
+   }
+  },
+  "aliases": [
+   "Al-Hazem",
+   "Al Hazm"
+  ],
+  "apiFootballId": null
  },
  {
   "id": "sa-al-hilal",
@@ -5359,6 +5655,126 @@
   "apiFootballId": 2938
  },
  {
+  "id": "sa-al-jabalain",
+  "name": {
+   "en": "Al Jabalain",
+   "ar": "الجبلين"
+  },
+  "shortName": {
+   "en": "Al Jabalain",
+   "ar": "الجبلين"
+  },
+  "code": "JAB",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/onv6m81733372509.png",
+  "color": null,
+  "venue": null,
+  "aliases": [
+   "Al-Jabalain"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-khaleej",
+  "name": {
+   "en": "Al Khaleej",
+   "ar": "الخليج"
+  },
+  "shortName": {
+   "en": "Al Khaleej",
+   "ar": "الخليج"
+  },
+  "code": "KHA",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/mvf6ga1755192630.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Prince Mohammed bin Fahd Stadium",
+    "ar": "استاد الأمير محمد بن فهد"
+   },
+   "city": {
+    "en": "Dammam",
+    "ar": "الدمام"
+   }
+  },
+  "aliases": [
+   "Al-Khaleej"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-kholood",
+  "name": {
+   "en": "Al Kholood",
+   "ar": "الخلود"
+  },
+  "shortName": {
+   "en": "Al Kholood",
+   "ar": "الخلود"
+  },
+  "code": "KHO",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/vv44v01755192851.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Al Hazem Club Stadium",
+    "ar": "ملعب نادي الحزم"
+   },
+   "city": {
+    "en": "Ar Rass",
+    "ar": "الرس"
+   }
+  },
+  "aliases": [
+   "Al-Kholood",
+   "Al Khulood"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-najma",
+  "name": {
+   "en": "Al Najma",
+   "ar": "النجمة"
+  },
+  "shortName": {
+   "en": "Al Najma",
+   "ar": "النجمة"
+  },
+  "code": "NAJ",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/o65fn01737686968.png",
+  "color": null,
+  "venue": null,
+  "aliases": [
+   "Al-Najma",
+   "Al-Najma Unaizah"
+  ],
+  "apiFootballId": null
+ },
+ {
   "id": "sa-al-nassr",
   "name": {
    "en": "Al Nassr",
@@ -5391,6 +5807,58 @@
   "apiFootballId": 2939
  },
  {
+  "id": "sa-al-okhdood",
+  "name": {
+   "en": "Al Okhdood",
+   "ar": "الأخدود"
+  },
+  "shortName": {
+   "en": "Al Okhdood",
+   "ar": "الأخدود"
+  },
+  "code": "OKH",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/ub1l7h1755193155.png",
+  "color": null,
+  "venue": null,
+  "aliases": [
+   "Al-Okhdood",
+   "Al-Akhdoud"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-orobah",
+  "name": {
+   "en": "Al Orobah",
+   "ar": "العروبة"
+  },
+  "shortName": {
+   "en": "Al Orobah",
+   "ar": "العروبة"
+  },
+  "code": "ORB",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/y1rnl91721742609.png",
+  "color": null,
+  "venue": null,
+  "aliases": [
+   "Al Oruba",
+   "Al-Orobah"
+  ],
+  "apiFootballId": null
+ },
+ {
   "id": "sa-al-qadsiah",
   "name": {
    "en": "Al Qadsiah",
@@ -5420,6 +5888,99 @@
    }
   },
   "aliases": [],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-raed",
+  "name": {
+   "en": "Al Raed",
+   "ar": "الرائد"
+  },
+  "shortName": {
+   "en": "Al Raed",
+   "ar": "الرائد"
+  },
+  "code": "RAE",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/9vkdcc1677530862.png",
+  "color": null,
+  "venue": null,
+  "aliases": [
+   "Al-Raed"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-riyadh",
+  "name": {
+   "en": "Al Riyadh",
+   "ar": "الرياض"
+  },
+  "shortName": {
+   "en": "Al Riyadh",
+   "ar": "الرياض"
+  },
+  "code": "RIY",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/i4o0zy1755193321.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Prince Faisal bin Fahd Sports City",
+    "ar": "ملعب مدينة الأمير فيصل بن فهد الرياضية"
+   },
+   "city": {
+    "en": "Riyadh",
+    "ar": "الرياض"
+   }
+  },
+  "aliases": [
+   "Al-Riyadh"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-shabab",
+  "name": {
+   "en": "Al Shabab",
+   "ar": "الشباب"
+  },
+  "shortName": {
+   "en": "Al Shabab",
+   "ar": "الشباب"
+  },
+  "code": "SHA",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/zbums21755192520.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "SHG Arena",
+    "ar": "إس إتش جي أرينا"
+   },
+   "city": {
+    "en": "Riyadh",
+    "ar": "الرياض"
+   }
+  },
+  "aliases": [
+   "Al-Shabab"
+  ],
   "apiFootballId": null
  },
  {
@@ -5455,6 +6016,183 @@
   "apiFootballId": null
  },
  {
+  "id": "sa-al-tai",
+  "name": {
+   "en": "Al Tai",
+   "ar": "الطائي"
+  },
+  "shortName": {
+   "en": "Al Tai",
+   "ar": "الطائي"
+  },
+  "code": "TAI",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/1cluxn1694761982.png",
+  "color": null,
+  "venue": null,
+  "aliases": [
+   "Al Ta'i",
+   "Al-Tai"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-ula",
+  "name": {
+   "en": "Al Ula",
+   "ar": "العلا"
+  },
+  "shortName": {
+   "en": "Al Ula",
+   "ar": "العلا"
+  },
+  "code": "ULA",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/9px2xb1755453358.png",
+  "color": null,
+  "venue": null,
+  "aliases": [
+   "Al Ula FC",
+   "Al-Ula"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-wehda",
+  "name": {
+   "en": "Al Wehda",
+   "ar": "الوحدة"
+  },
+  "shortName": {
+   "en": "Al Wehda",
+   "ar": "الوحدة"
+  },
+  "code": "WEH",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/j4nvuy1677530944.png",
+  "color": null,
+  "venue": null,
+  "aliases": [
+   "Al Wehda Mecca",
+   "Al-Wehda"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-al-zulfi",
+  "name": {
+   "en": "Al Zulfi",
+   "ar": "الزلفي"
+  },
+  "shortName": {
+   "en": "Al Zulfi",
+   "ar": "الزلفي"
+  },
+  "code": "ZUL",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/zg8k731737689709.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Al Zulfi Club Stadium",
+    "ar": "ملعب نادي الزلفي"
+   },
+   "city": {
+    "en": "Al Zulfi",
+    "ar": "الزلفي"
+   }
+  },
+  "aliases": [
+   "Zulfi Club",
+   "Al-Zulfi"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-damac",
+  "name": {
+   "en": "Damac",
+   "ar": "ضمك"
+  },
+  "shortName": {
+   "en": "Damac",
+   "ar": "ضمك"
+  },
+  "code": "DAM",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/z2l4w31677530963.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Damac Club Stadium",
+    "ar": "ملعب نادي ضمك"
+   },
+   "city": {
+    "en": "Khamis Mushait",
+    "ar": "خميس مشيط"
+   }
+  },
+  "aliases": [
+   "Dhamk"
+  ],
+  "apiFootballId": null
+ },
+ {
+  "id": "sa-jeddah-club",
+  "name": {
+   "en": "Jeddah Club",
+   "ar": "نادي جدة"
+  },
+  "shortName": {
+   "en": "Jeddah",
+   "ar": "جدة"
+  },
+  "code": "JED",
+  "national": false,
+  "country": "sa",
+  "countryName": {
+   "en": "Saudi Arabia",
+   "ar": "السعودية"
+  },
+  "logo": "https://r2.thesportsdb.com/images/media/team/badge/x20iu71737688665.png",
+  "color": null,
+  "venue": {
+   "name": {
+    "en": "Jeddah Club Stadium",
+    "ar": "ملعب نادي جدة"
+   }
+  },
+  "aliases": [
+   "Jeddah"
+  ],
+  "apiFootballId": null
+ },
+ {
   "id": "sa-neom",
   "name": {
    "en": "NEOM",
@@ -5475,8 +6213,8 @@
   "color": "#00A3AD",
   "venue": {
    "name": {
-    "en": "Al-Watani Club Stadium",
-    "ar": "ملعب نادي الوطني"
+    "en": "King Khalid Sports City",
+    "ar": "مدينة الملك خالد الرياضية"
    },
    "city": {
     "en": "Tabuk",

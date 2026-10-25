@@ -1,0 +1,1951 @@
+{
+ "run": "2026-10-25T09:23:18Z",
+ "changes": [
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-al-bukayriyah",
+    "name": {
+     "en": "Al Bukayriyah",
+     "ar": "البكيرية"
+    },
+    "shortName": {
+     "en": "Al Bukayriyah",
+     "ar": "البكيرية"
+    },
+    "code": "BUK",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ifq6301737687657.png",
+    "aliases": [
+     "Albukiryah",
+     "Al-Bukiryah"
+    ],
+    "venue": {
+     "name": {
+      "en": "Al Bukayriyah Club Stadium",
+      "ar": "ملعب نادي البكيرية"
+     },
+     "city": {
+      "en": "Al Bukayriyah",
+      "ar": "البكيرية"
+     }
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260816",
+    "https://sabq.org/article/c8zvmre",
+    "https://www.okaz.com.sa/sport/na/2261614",
+    "https://www.thesportsdb.com/team/150640-al-bukiryah"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-al-orobah",
+    "name": {
+     "en": "Al Orobah",
+     "ar": "العروبة"
+    },
+    "shortName": {
+     "en": "Al Orobah",
+     "ar": "العروبة"
+    },
+    "code": "ORB",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/y1rnl91721742609.png",
+    "aliases": [
+     "Al Oruba",
+     "Al-Orobah"
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260816",
+    "https://www.okaz.com.sa/sport/na/2261614",
+    "https://www.thesportsdb.com/team/150641-jeddah-club",
+    "https://www.thesportsdb.com/team/150643-al-zulfi",
+    "https://www.thesportsdb.com/team/150091-al-jabalain"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-al-wehda",
+    "name": {
+     "en": "Al Wehda",
+     "ar": "الوحدة"
+    },
+    "shortName": {
+     "en": "Al Wehda",
+     "ar": "الوحدة"
+    },
+    "code": "WEH",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/j4nvuy1677530944.png",
+    "aliases": [
+     "Al Wehda Mecca",
+     "Al-Wehda"
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260816",
+    "https://www.okaz.com.sa/sport/na/2261614",
+    "https://www.alyaum.com/ampArticle/6678354",
+    "https://www.thesportsdb.com/team/150643-al-zulfi",
+    "https://www.thesportsdb.com/team/150091-al-jabalain"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-al-anwar",
+    "name": {
+     "en": "Al Anwar",
+     "ar": "الأنوار"
+    },
+    "shortName": {
+     "en": "Al Anwar",
+     "ar": "الأنوار"
+    },
+    "code": "ANW",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/npw6c41755453653.png",
+    "aliases": [
+     "Al-Anwar"
+    ],
+    "venue": {
+     "name": {
+      "en": "Al Anwar Club Stadium",
+      "ar": "ملعب نادي الأنوار"
+     }
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.okaz.com.sa/sport/na/2261715",
+    "https://sabq.org/article/qtvki9t",
+    "https://www.thesportsdb.com/team/152918-al-anwar"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-al-tai",
+    "name": {
+     "en": "Al Tai",
+     "ar": "الطائي"
+    },
+    "shortName": {
+     "en": "Al Tai",
+     "ar": "الطائي"
+    },
+    "code": "TAI",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/1cluxn1694761982.png",
+    "aliases": [
+     "Al Ta'i",
+     "Al-Tai"
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.okaz.com.sa/sport/na/2261755",
+    "https://www.thesportsdb.com/team/143173-Al-Tai"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-al-zulfi",
+    "name": {
+     "en": "Al Zulfi",
+     "ar": "الزلفي"
+    },
+    "shortName": {
+     "en": "Al Zulfi",
+     "ar": "الزلفي"
+    },
+    "code": "ZUL",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/zg8k731737689709.png",
+    "aliases": [
+     "Zulfi Club",
+     "Al-Zulfi"
+    ],
+    "venue": {
+     "name": {
+      "en": "Al Zulfi Club Stadium",
+      "ar": "ملعب نادي الزلفي"
+     },
+     "city": {
+      "en": "Al Zulfi",
+      "ar": "الزلفي"
+     }
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.okaz.com.sa/sport/na/2261755",
+    "https://www.thesportsdb.com/team/150643-al-zulfi"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-al-adalah",
+    "name": {
+     "en": "Al Adalah",
+     "ar": "العدالة"
+    },
+    "shortName": {
+     "en": "Al Adalah",
+     "ar": "العدالة"
+    },
+    "code": "ADA",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ugjap61737684503.png",
+    "aliases": [
+     "Al-Adalah"
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.okaz.com.sa/sport/na/2261755",
+    "https://sabq.org/article/g20fg8n",
+    "https://www.thesportsdb.com/team/137854-al-adalah"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-al-raed",
+    "name": {
+     "en": "Al Raed",
+     "ar": "الرائد"
+    },
+    "shortName": {
+     "en": "Al Raed",
+     "ar": "الرائد"
+    },
+    "code": "RAE",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9vkdcc1677530862.png",
+    "aliases": [
+     "Al-Raed"
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.okaz.com.sa/sport/na/2261755",
+    "https://www.thesportsdb.com/team/136016-al-raed"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-al-jabalain",
+    "name": {
+     "en": "Al Jabalain",
+     "ar": "الجبلين"
+    },
+    "shortName": {
+     "en": "Al Jabalain",
+     "ar": "الجبلين"
+    },
+    "code": "JAB",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/onv6m81733372509.png",
+    "aliases": [
+     "Al-Jabalain"
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://www.alwatan.com.sa/article/1184413",
+    "https://www.thesportsdb.com/team/150091-al-jabalain"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-al-najma",
+    "name": {
+     "en": "Al Najma",
+     "ar": "النجمة"
+    },
+    "shortName": {
+     "en": "Al Najma",
+     "ar": "النجمة"
+    },
+    "code": "NAJ",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/o65fn01737686968.png",
+    "aliases": [
+     "Al-Najma",
+     "Al-Najma Unaizah"
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://www.alwatan.com.sa/article/1184413",
+    "https://www.thesportsdb.com/team/150638-al-najma-unaizah"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-al-okhdood",
+    "name": {
+     "en": "Al Okhdood",
+     "ar": "الأخدود"
+    },
+    "shortName": {
+     "en": "Al Okhdood",
+     "ar": "الأخدود"
+    },
+    "code": "OKH",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/ub1l7h1755193155.png",
+    "aliases": [
+     "Al-Okhdood",
+     "Al-Akhdoud"
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://www.alwatan.com.sa/article/1184413",
+    "https://sabq.org/article/mm2px2f",
+    "https://www.thesportsdb.com/team/147444-al-okhdood"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-damac",
+    "name": {
+     "en": "Damac",
+     "ar": "ضمك"
+    },
+    "shortName": {
+     "en": "Damac",
+     "ar": "ضمك"
+    },
+    "code": "DAM",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/z2l4w31677530963.png",
+    "aliases": [
+     "Dhamk"
+    ],
+    "venue": {
+     "name": {
+      "en": "Damac Club Stadium",
+      "ar": "ملعب نادي ضمك"
+     },
+     "city": {
+      "en": "Khamis Mushait",
+      "ar": "خميس مشيط"
+     }
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260819",
+    "https://www.okaz.com.sa/sport/na/2262044",
+    "https://www.thesportsdb.com/team/137852-damac"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-jeddah-club",
+    "name": {
+     "en": "Jeddah Club",
+     "ar": "نادي جدة"
+    },
+    "shortName": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    },
+    "code": "JED",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/x20iu71737688665.png",
+    "aliases": [
+     "Jeddah"
+    ],
+    "venue": {
+     "name": {
+      "en": "Jeddah Club Stadium",
+      "ar": "ملعب نادي جدة"
+     }
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260819",
+    "https://www.alyaum.com/ampArticle/6678810",
+    "https://www.thesportsdb.com/team/150641-jeddah-club"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "sa-al-ula",
+    "name": {
+     "en": "Al Ula",
+     "ar": "العلا"
+    },
+    "shortName": {
+     "en": "Al Ula",
+     "ar": "العلا"
+    },
+    "code": "ULA",
+    "country": "sa",
+    "countryName": {
+     "en": "Saudi Arabia",
+     "ar": "السعودية"
+    },
+    "national": false,
+    "logo": "https://r2.thesportsdb.com/images/media/team/badge/9px2xb1755453358.png",
+    "aliases": [
+     "Al Ula FC",
+     "Al-Ula"
+    ]
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260819",
+    "https://www.alyaum.com/ampArticle/6678819",
+    "https://sabq.org/article/87f815n",
+    "https://www.thesportsdb.com/team/150641-jeddah-club",
+    "https://www.thesportsdb.com/team/150643-al-zulfi"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-bukayriyah",
+   "away": "sa-al-hazem",
+   "kickoff": "2026-08-16T16:15:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Al Bukayriyah Club Stadium",
+     "ar": "ملعب نادي البكيرية"
+    },
+    "city": {
+     "en": "Al Bukayriyah",
+     "ar": "البكيرية"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260816",
+    "https://www.365scores.com/en-us/football/match/king's-cup-5501/al-hazm-albukiryah-14895-55798-5501",
+    "https://www.okaz.com.sa/sport/na/2261614",
+    "https://sabq.org/article/c8zvmre",
+    "https://www.alyaum.com/ampArticle/6678349"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-orobah",
+   "away": "sa-abha",
+   "kickoff": "2026-08-16T16:40:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260816",
+    "https://www.365scores.com/football/match/king's-cup-5501/al-oruba-abha-club-13344-14898-5501",
+    "https://www.okaz.com.sa/sport/na/2261614"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-wehda",
+   "away": "sa-al-shabab",
+   "kickoff": "2026-08-16T18:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "King Abdulaziz Sports City Stadium",
+     "ar": "استاد مدينة الملك عبدالعزيز الرياضية"
+    },
+    "city": {
+     "en": "Mecca",
+     "ar": "مكة المكرمة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260816",
+    "https://www.365scores.com/fi/football/match/king's-cup-5501/al-shabab-riyadh-al-wehda-mecca-8945-9976-5501",
+    "https://www.okaz.com.sa/sport/na/2261614",
+    "https://www.alyaum.com/ampArticle/6678354"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-anwar",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2026-08-17T16:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Al Anwar Club Stadium",
+     "ar": "ملعب نادي الأنوار"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.365scores.com/en-us/football/match/king's-cup-5501/al-ahli-jeddah-al-anwar-8946-57363-5501",
+    "https://www.okaz.com.sa/sport/na/2261715"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-tai",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2026-08-17T16:15:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Prince Abdulaziz bin Musaid Sports City Stadium",
+     "ar": "ملعب مدينة الأمير عبدالعزيز بن مساعد الرياضية"
+    },
+    "city": {
+     "en": "Hail",
+     "ar": "حائل"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.365scores.com/en-us/football/match/king's-cup-5501/qadisiya-al-ta'i-8947-14904-5501",
+    "https://www.okaz.com.sa/sport/na/2261755"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-zulfi",
+   "away": "sa-al-riyadh",
+   "kickoff": "2026-08-17T16:15:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Al Zulfi Club Stadium",
+     "ar": "ملعب نادي الزلفي"
+    },
+    "city": {
+     "en": "Al Zulfi",
+     "ar": "الزلفي"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.365scores.com/football/match/king's-cup-5501/al-riyadh-sc-zulfi-club-12135-19111-5501",
+    "https://www.okaz.com.sa/sport/na/2261755"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-adalah",
+   "away": "sa-al-fayha",
+   "kickoff": "2026-08-17T18:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Prince Abdullah bin Jalawi Stadium",
+     "ar": "ملعب الأمير عبدالله بن جلوي"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.365scores.com/en-us/football/match/king's-cup-5501/al-adalah-al-feiha-20733-30662-5501",
+    "https://www.okaz.com.sa/sport/na/2261755",
+    "https://sabq.org/article/g20fg8n"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-raed",
+   "away": "sa-al-hilal",
+   "kickoff": "2026-08-17T18:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sport City Stadium",
+     "ar": "ملعب مدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Buraidah",
+     "ar": "بريدة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.365scores.com/football/match/king's-cup-5501/al-hilal-riyadh-al-raed-5457-8228-5501",
+    "https://www.okaz.com.sa/sport/na/2261755"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-jabalain",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-08-18T16:15:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Prince Abdulaziz bin Musaid Sports City Stadium",
+     "ar": "ملعب مدينة الأمير عبدالعزيز بن مساعد الرياضية"
+    },
+    "city": {
+     "en": "Hail",
+     "ar": "حائل"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://www.365scores.com/football/match/king's-cup-5501/al-ettifaq-al-jabalain-8943-28905-5501",
+    "https://www.alwatan.com.sa/article/1184413"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-najma",
+   "away": "sa-al-ittihad",
+   "kickoff": "2026-08-18T16:15:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sport City Stadium",
+     "ar": "ملعب مدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Buraidah",
+     "ar": "بريدة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://www.365scores.com/football/match/king's-cup-5501/ittihad-jeddah-al-najma-8593-24240-5501",
+    "https://www.alwatan.com.sa/article/1184413"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-okhdood",
+   "away": "sa-al-khaleej",
+   "kickoff": "2026-08-18T16:15:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Prince Sultan bin Abdulaziz Sports City Stadium",
+     "ar": "ملعب مدينة الأمير سلطان بن عبدالعزيز الرياضية"
+    },
+    "city": {
+     "en": "Abha",
+     "ar": "أبها"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://www.365scores.com/football/match/king's-cup-5501/al-khaleej-club-al-akhdoud-12138-55794-5501",
+    "https://sabq.org/article/mm2px2f",
+    "https://www.alwatan.com.sa/article/1184413"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-nassr",
+   "kickoff": "2026-08-18T18:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Al-Awwal Park",
+     "ar": "الأول بارك"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://www.365scores.com/football/match/king's-cup-5501/al-nassr-fc-riyadh-diriyah-7549-13801-5501",
+    "https://www.alwatan.com.sa/article/1184413"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-neom",
+   "kickoff": "2026-08-18T18:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Al Majma'ah Sports City Stadium",
+     "ar": "ملعب مدينة المجمعة الرياضية"
+    },
+    "city": {
+     "en": "Al Majma'ah",
+     "ar": "المجمعة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://www.365scores.com/en-us/football/match/king's-cup-5501/al-faysaly-neom-sc-8949-55793-5501",
+    "https://www.alwatan.com.sa/article/1184413"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-damac",
+   "away": "sa-al-taawoun",
+   "kickoff": "2026-08-19T16:15:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Damac Club Stadium",
+     "ar": "ملعب نادي ضمك"
+    },
+    "city": {
+     "en": "Khamis Mushait",
+     "ar": "خميس مشيط"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260819",
+    "https://www.365scores.com/en-us/football/match/king's-cup-5501/al-taawoun-damac-8941-24241-5501",
+    "https://www.okaz.com.sa/sport/na/2262044"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-jeddah-club",
+   "away": "sa-al-kholood",
+   "kickoff": "2026-08-19T16:30:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Jeddah Club Stadium",
+     "ar": "ملعب نادي جدة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260819",
+    "https://www.365scores.com/pt-br/football/match/king's-cup-5501/al-khlood-jeddah-club-49228-55800-5501",
+    "https://www.alyaum.com/ampArticle/6678810"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r32",
+    "type": "knockout"
+   },
+   "home": "sa-al-ula",
+   "away": "sa-al-fateh",
+   "kickoff": "2026-08-19T18:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Prince Mohammed bin Abdulaziz Stadium",
+     "ar": "ملعب الأمير محمد بن عبدالعزيز"
+    },
+    "city": {
+     "en": "Medina",
+     "ar": "المدينة المنورة"
+    }
+   },
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260819",
+    "https://www.365scores.com/football/match/king's-cup-5501/al-fateh-al-ula-fc-8942-89752-5501",
+    "https://www.alyaum.com/ampArticle/6678819"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "sa-al-orobah",
+   "away": "sa-al-okhdood",
+   "kickoff": "2026-11-30T13:25:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Al-Jouf University Stadium",
+     "ar": "ملعب جامعة الجوف"
+    },
+    "city": {
+     "en": "Sakaka",
+     "ar": "سكاكا"
+    }
+   },
+   "sources": [
+    "https://sabq.org/article/87f815n",
+    "https://www.alyaum.com/ampArticle/6681426",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20261130",
+    "https://www.365scores.com/en-us/football/league/king's-cup-5501/matches",
+    "https://sabq.org/article/4squguq",
+    "https://www.okaz.com.sa/sport/na/2261614"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "sa-al-jabalain",
+   "away": "sa-al-ittihad",
+   "kickoff": "2026-11-30T13:25:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Prince Abdulaziz bin Musaid Sports City Stadium",
+     "ar": "ملعب مدينة الأمير عبدالعزيز بن مساعد الرياضية"
+    },
+    "city": {
+     "en": "Hail",
+     "ar": "حائل"
+    }
+   },
+   "sources": [
+    "https://sabq.org/article/87f815n",
+    "https://www.alyaum.com/ampArticle/6681426",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20261130",
+    "https://www.365scores.com/en-us/football/league/king's-cup-5501/matches",
+    "https://sabq.org/article/4squguq"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-fayha",
+   "kickoff": "2026-11-30T17:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Prince Faisal bin Fahd Stadium",
+     "ar": "ملعب الأمير فيصل بن فهد"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "sources": [
+    "https://sabq.org/article/87f815n",
+    "https://www.alyaum.com/ampArticle/6681426",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20261130",
+    "https://www.365scores.com/en-us/football/league/king's-cup-5501/matches",
+    "https://sabq.org/article/4squguq"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-hazem",
+   "kickoff": "2026-11-30T17:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Kingdom Arena",
+     "ar": "المملكة أرينا"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "sources": [
+    "https://sabq.org/article/87f815n",
+    "https://www.alyaum.com/ampArticle/6681426",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20261130",
+    "https://www.365scores.com/en-us/football/league/king's-cup-5501/matches",
+    "https://sabq.org/article/4squguq"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-wehda",
+   "kickoff": "2026-12-01T13:20:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Al Taawoun Club Stadium",
+     "ar": "ملعب نادي التعاون"
+    },
+    "city": {
+     "en": "Buraidah",
+     "ar": "بريدة"
+    }
+   },
+   "sources": [
+    "https://sabq.org/article/87f815n",
+    "https://www.alyaum.com/ampArticle/6681426",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20261201",
+    "https://www.365scores.com/en-us/football/league/king's-cup-5501/matches",
+    "https://sabq.org/article/4squguq"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "sa-al-ula",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2026-12-01T13:40:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Prince Mohammed bin Abdulaziz Stadium",
+     "ar": "ملعب الأمير محمد بن عبدالعزيز"
+    },
+    "city": {
+     "en": "Medina",
+     "ar": "المدينة المنورة"
+    }
+   },
+   "sources": [
+    "https://sabq.org/article/87f815n",
+    "https://www.alyaum.com/ampArticle/6681426",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20261201",
+    "https://www.365scores.com/en-us/football/league/king's-cup-5501/matches",
+    "https://sabq.org/article/4squguq"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-kholood",
+   "kickoff": "2026-12-01T17:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Al-Awwal Park",
+     "ar": "الأول بارك"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "sources": [
+    "https://sabq.org/article/87f815n",
+    "https://www.alyaum.com/ampArticle/6681426",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20261201",
+    "https://www.365scores.com/en-us/football/league/king's-cup-5501/matches",
+    "https://sabq.org/article/4squguq"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-neom",
+   "kickoff": "2026-12-01T17:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Prince Mohammed bin Fahd Stadium",
+     "ar": "استاد الأمير محمد بن فهد"
+    },
+    "city": {
+     "en": "Dammam",
+     "ar": "الدمام"
+    }
+   },
+   "sources": [
+    "https://sabq.org/article/87f815n",
+    "https://www.alyaum.com/ampArticle/6681426",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20261201",
+    "https://www.365scores.com/en-us/football/league/king's-cup-5501/matches",
+    "https://sabq.org/article/4squguq"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-super-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "sf",
+    "type": "knockout"
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2026-12-19T17:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Jaber Al-Ahmad International Stadium",
+     "ar": "استاد جابر الأحمد الدولي"
+    },
+    "city": {
+     "en": "Kuwait",
+     "ar": "الكويت"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.alyaum.com/ampArticle/6687243",
+    "https://kuwaittimes.com/article/51637/sports/football/saudi-super-cup-draw-sets-al-nassr-al-ahli-on-semifinal-collision-course-in-kuwait/",
+    "https://spa.gov.sa/N2701368",
+    "https://www.365scores.com/en-us/football/league/super-cup-6164",
+    "https://sabq.org/article/8qtzusb"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-super-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "sf",
+    "type": "knockout"
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-kholood",
+   "kickoff": "2026-12-20T17:00:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Jaber Al-Ahmad International Stadium",
+     "ar": "استاد جابر الأحمد الدولي"
+    },
+    "city": {
+     "en": "Kuwait",
+     "ar": "الكويت"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.alyaum.com/ampArticle/6687243",
+    "https://kuwaittimes.com/article/51637/sports/football/saudi-super-cup-draw-sets-al-nassr-al-ahli-on-semifinal-collision-course-in-kuwait/",
+    "https://spa.gov.sa/N2701368",
+    "https://www.365scores.com/en-us/football/league/super-cup-6164",
+    "https://sabq.org/article/8qtzusb"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-super-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "final",
+    "type": "final"
+   },
+   "homePlaceholder": {
+    "en": "Winner Semi-finals 1",
+    "ar": "الفائز في نصف النهائي 1"
+   },
+   "awayPlaceholder": {
+    "en": "Winner Semi-finals 2",
+    "ar": "الفائز في نصف النهائي 2"
+   },
+   "kickoff": "2026-12-23T17:00:00Z",
+   "timeConfirmed": false,
+   "venue": {
+    "name": {
+     "en": "Jaber Al-Ahmad International Stadium",
+     "ar": "استاد جابر الأحمد الدولي"
+    },
+    "city": {
+     "en": "Kuwait",
+     "ar": "الكويت"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://kuwaittimes.com/article/51637/sports/football/saudi-super-cup-draw-sets-al-nassr-al-ahli-on-semifinal-collision-course-in-kuwait/",
+    "https://spa.gov.sa/N2701368",
+    "https://www.alyaum.com/ampArticle/6687243",
+    "https://www.alyaum.com/ampArticle/6686926"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-bukayriyah",
+   "away": "sa-al-hazem",
+   "date": "2026-08-16",
+   "status": "FT",
+   "score": [
+    2,
+    3
+   ],
+   "ht": [
+    1,
+    2
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/king's-cup-5501/al-hazm-albukiryah-14895-55798-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260816",
+    "https://www.okaz.com.sa/sport/na/2261614",
+    "https://sabq.org/article/c8zvmre",
+    "https://www.alyaum.com/ampArticle/6678349"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-orobah",
+   "away": "sa-abha",
+   "date": "2026-08-16",
+   "status": "PEN",
+   "score": [
+    0,
+    0
+   ],
+   "ht": [
+    0,
+    0
+   ],
+   "regular": [
+    0,
+    0
+   ],
+   "et": [
+    0,
+    0
+   ],
+   "pens": [
+    3,
+    2
+   ],
+   "sources": [
+    "https://www.365scores.com/football/match/king's-cup-5501/al-oruba-abha-club-13344-14898-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260816",
+    "https://www.okaz.com.sa/sport/na/2261614"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-wehda",
+   "away": "sa-al-shabab",
+   "date": "2026-08-16",
+   "status": "AET",
+   "score": [
+    3,
+    2
+   ],
+   "ht": [
+    1,
+    0
+   ],
+   "regular": [
+    1,
+    1
+   ],
+   "et": [
+    2,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Mourad Khodari",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "away",
+     "player": "Yannick Carrasco",
+     "type": "penalty"
+    },
+    {
+     "minute": 91,
+     "side": "home",
+     "player": "Morato",
+     "type": "goal"
+    },
+    {
+     "minute": 114,
+     "side": "away",
+     "player": "Josh Brownhill",
+     "type": "penalty"
+    },
+    {
+     "minute": 120,
+     "side": "home",
+     "player": "Darwin González",
+     "type": "penalty",
+     "extra": 1
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/fi/football/match/king's-cup-5501/al-shabab-riyadh-al-wehda-mecca-8945-9976-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260816",
+    "https://www.okaz.com.sa/sport/na/2261614",
+    "https://www.alyaum.com/ampArticle/6678354"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-anwar",
+   "away": "sa-al-ahli-saudi",
+   "date": "2026-08-17",
+   "status": "FT",
+   "score": [
+    1,
+    2
+   ],
+   "ht": [
+    0,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Eduard Spertsyan",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Wenderson Galeno",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Rédha Bensayah",
+     "type": "goal",
+     "extra": 2
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/king's-cup-5501/al-ahli-jeddah-al-anwar-8946-57363-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.okaz.com.sa/sport/na/2261715"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-tai",
+   "away": "sa-al-qadsiah",
+   "date": "2026-08-17",
+   "status": "FT",
+   "score": [
+    0,
+    5
+   ],
+   "ht": [
+    0,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "Mateo Retegui",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Christopher Bonsu Baah",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Mateo Retegui",
+     "type": "goal"
+    },
+    {
+     "minute": 46,
+     "side": "away",
+     "player": "Mohammed Al Qahtani",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Gastón Álvarez",
+     "type": "goal",
+     "extra": 3
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/king's-cup-5501/qadisiya-al-ta'i-8947-14904-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.okaz.com.sa/sport/na/2261755"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-zulfi",
+   "away": "sa-al-riyadh",
+   "date": "2026-08-17",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "ht": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Leandro Antunes",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Leandro Antunes",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/match/king's-cup-5501/al-riyadh-sc-zulfi-club-12135-19111-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.okaz.com.sa/sport/na/2261755"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-adalah",
+   "away": "sa-al-fayha",
+   "date": "2026-08-17",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "ht": [
+    0,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Hugo Moura",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Hugo Moura",
+     "type": "goal",
+     "extra": 2
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/king's-cup-5501/al-adalah-al-feiha-20733-30662-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.okaz.com.sa/sport/na/2261755",
+    "https://sabq.org/article/g20fg8n"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-raed",
+   "away": "sa-al-hilal",
+   "date": "2026-08-17",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "ht": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Rúben Neves",
+     "type": "penalty"
+    },
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Rúben Neves",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/match/king's-cup-5501/al-hilal-riyadh-al-raed-5457-8228-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260817",
+    "https://www.okaz.com.sa/sport/na/2261755"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-jabalain",
+   "away": "sa-al-ettifaq",
+   "date": "2026-08-18",
+   "status": "FT",
+   "score": [
+    1,
+    0
+   ],
+   "ht": [
+    1,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "Henrique Luvannor",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/match/king's-cup-5501/al-ettifaq-al-jabalain-8943-28905-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://www.alwatan.com.sa/article/1184413"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-najma",
+   "away": "sa-al-ittihad",
+   "date": "2026-08-18",
+   "status": "FT",
+   "score": [
+    0,
+    3
+   ],
+   "ht": [
+    0,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "George Ilenikhena",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "away",
+     "player": "George Ilenikhena",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Danilo Pereira",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/match/king's-cup-5501/ittihad-jeddah-al-najma-8593-24240-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://www.alwatan.com.sa/article/1184413"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-okhdood",
+   "away": "sa-al-khaleej",
+   "date": "2026-08-18",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "ht": [
+    1,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "Rui Pedro",
+     "type": "penalty"
+    },
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Rui Pedro",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/match/king's-cup-5501/al-khaleej-club-al-akhdoud-12138-55794-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://sabq.org/article/mm2px2f",
+    "https://www.alwatan.com.sa/article/1184413"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-diriyah",
+   "away": "sa-al-nassr",
+   "date": "2026-08-18",
+   "status": "FT",
+   "score": [
+    1,
+    4
+   ],
+   "ht": [
+    1,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 2,
+     "side": "home",
+     "player": "Óscar Rodríguez",
+     "type": "goal"
+    },
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Mohamed Simakan",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "away",
+     "player": "João Félix",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "away",
+     "player": "Abdullah Al-Hamdan",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "João Félix",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/match/king's-cup-5501/al-nassr-fc-riyadh-diriyah-7549-13801-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://www.alwatan.com.sa/article/1184413"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-faisaly",
+   "away": "sa-neom",
+   "date": "2026-08-18",
+   "status": "FT",
+   "score": [
+    1,
+    3
+   ],
+   "ht": [
+    1,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Saud Haddad",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "away",
+     "player": "Saïd Benrahma",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Abdullah Bin Subayt",
+     "type": "own-goal",
+     "extra": 3
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Alexandre Lacazette",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/king's-cup-5501/al-faysaly-neom-sc-8949-55793-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260818&lang=en&region=us",
+    "https://www.alwatan.com.sa/article/1184413"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-damac",
+   "away": "sa-al-taawoun",
+   "date": "2026-08-19",
+   "status": "FT",
+   "score": [
+    0,
+    3
+   ],
+   "ht": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Abderrazak Hamdallah",
+     "type": "penalty",
+     "extra": 1
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Rakan Al-Tulayhi",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Saif Rajab",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/king's-cup-5501/al-taawoun-damac-8941-24241-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260819",
+    "https://www.okaz.com.sa/sport/na/2262044"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-jeddah-club",
+   "away": "sa-al-kholood",
+   "date": "2026-08-19",
+   "status": "FT",
+   "score": [
+    0,
+    5
+   ],
+   "ht": [
+    0,
+    4
+   ],
+   "goals": [
+    {
+     "minute": 3,
+     "side": "away",
+     "player": "Iker Kortajarena",
+     "type": "goal"
+    },
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "Iker Kortajarena",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "away",
+     "player": "Iker Kortajarena",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Coba da Costa",
+     "type": "goal"
+    },
+    {
+     "minute": 46,
+     "side": "away",
+     "player": "Guga",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/pt-br/football/match/king's-cup-5501/al-khlood-jeddah-club-49228-55800-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260819",
+    "https://www.alyaum.com/ampArticle/6678810"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-kings-cup",
+   "season": "2026-27",
+   "home": "sa-al-ula",
+   "away": "sa-al-fateh",
+   "date": "2026-08-19",
+   "status": "FT",
+   "score": [
+    3,
+    0
+   ],
+   "ht": [
+    2,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Romell Quioto",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Yoann Barbet",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Sylla Sow",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/match/king's-cup-5501/al-fateh-al-ula-fc-8942-89752-5501",
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20260819",
+    "https://www.alyaum.com/ampArticle/6678819"
+   ]
+  }
+ ],
+ "unconfirmed": [],
+ "notes": [
+  "APPLY ORDER: this patch uses the fixed ids of 10 Pro League clubs that are not yet in data/teams.json (sa-abha, sa-al-hazem, sa-al-shabab, sa-al-riyadh, sa-al-fayha, sa-al-khaleej, sa-al-diriyah, sa-al-faisaly, sa-al-kholood, sa-al-fateh) and the competitions saudi-kings-cup and saudi-super-cup, which are not yet in data/competitions.json. Apply the Pro League patch (team ops) and add both competitions first.",
+  "KING'S CUP 2026-27 FORMAT: single-match knockout; a draw after 90 minutes goes to extra time, then penalties (as played in the round of 32: Al Wehda 3-2 Al Shabab a.e.t.; Al Orobah 0-0 Abha a.e.t., 3-2 on penalties). The first round is the round of 32, key r32 (Al Yaum calls it 'the first round'; no preliminary round found), 16-19 Aug 2026: the 18 Pro League clubs plus 14 clubs from lower divisions (Al Yaum names the four that went through as Yelo League clubs). Round of 16: open draw on 20 Aug 2026; played 30 Nov-1 Dec 2026 (Sabq's draw story first said 19-20 Oct; SAFF's round dates (Sabq, 23 Aug) and the published schedule (Sabq and Al Yaum, 6 Sep) say 30 Nov-1 Dec, as ESPN and 365Scores show now). Quarter-finals 22-23 Feb 2027, semi-finals 4-5 May 2027, final date still to be announced (Sabq https://sabq.org/article/cv1nruj citing SAFF). Quarter-final, semi-final and final pairings are not drawn yet (the round-of-16 draw set no path).",
+  "KING'S CUP ROUND OF 16 kick-offs: 16:20, 16:25, 16:40 and 20:00 Saudi time (13:20/13:25/13:40/17:00 UTC); Sabq, Al Yaum, ESPN and 365Scores agree. Venues from Sabq's schedule (6 Sep). Al Taawoun hosts at 'Al Taawoun Club Stadium' (ملعب نادي التعاون, Buraidah) per Sabq and ESPN; data/teams.json calls Al Taawoun's ground Wolves Park: possibly the same stadium, check before editing the team.",
+  "SUPER CUP 2026 (2026-27 edition, 13th): Al Nassr, Al Ahli, Al Qadsiah, Al Kholood (Al Hilal not taking part). Draw 14 Oct 2026 in Kuwait. All matches at Jaber Al-Ahmad International Stadium, Kuwait, neutral: SF1 Al Qadsiah v Al Ahli Sat 19 Dec, SF2 Al Nassr v Al Kholood Sun 20 Dec, both 20:00 Makkah/Kuwait time = 17:00 UTC (Al Yaum, 365Scores); final Wed 23 Dec. Format (Al Yaum): single matches; a draw after 90 minutes goes straight to penalties, no extra time, so record a shoot-out as PEN with \"et\": [0, 0], as for the EMAAR Super Cup. The final's time is not published by a Tier 1/2 site: stored 17:00 UTC with timeConfirmed false (Annahar, not a listed source, reported 20:00 Makkah time). 'Home' is nominal: SPA, Kuwait Times, Al Yaum's schedule and 365Scores list Al Qadsiah first, while Okaz and Al Yaum's draw story list Al Ahli first. The venue city is written 'Kuwait / الكويت' as the sources give it (none named the district).",
+  "GOALS OMITTED, Al Bukayriyah 2-3 Al Hazem (result confirmed): sources disagree on Al Bukayriyah's second goal. ESPN says 68' own goal by Mohamed Amine Ben Hamida, 365Scores says 68' own goal by Sultan Tanker, Al Yaum says Hattan Ahmed 68' (and swaps the 37' and 65' Al Hazem scorers), and Sabq says Hattan Ahmed 83'. Agreed by all: Afimico Pululu 5', Saad Al-Muwallad 27', Al Hazem goals at 37' and 65', half-time 1-2.",
+  "SCORER CONFLICTS settled: Damac 0-3 Al Taawoun, the 77' goal is 'Saif Rajab' per 365Scores and Okaz (ESPN: 'Saif Rashad Mohamed'). Al Zulfi 0-2 Al Riyadh, second goal 74' per ESPN and 365Scores (Okaz: 76'). Al Anwar 1-2 Al Ahli, 61' and 89' per ESPN and 365Scores (Okaz: 60', 88'). Al Tai 0-5 Al Qadsiah: ESPN lists no goals, so they come from 365Scores (Álvarez 90+3', as Okaz says). Al Yaum's round summary counts 4 penalties, but ESPN, 365Scores and Al Yaum's own match report show three more in Al Wehda v Al Shabab (56', 114', 120+1').",
+  "RESULT CONFLICT: Al Watan's 18 Aug round-up (as read) has Al Okhdood 1-0 Al Khaleej. ESPN, 365Scores and Sabq give 2-0 (Rui Pedro 37' pen, 79'), and Al Yaum's round total of 50 goals only adds up with 2-0, so 2-0 is recorded.",
+  "VENUES: round-of-32 venue omitted for Al Orobah v Abha (Okaz: Al-Jouf University Stadium, Sakaka; ESPN and 365Scores: Al-Oruba Club Stadium). Al Diriyah v Al Nassr was at Al-Awwal Park per ESPN and Al Watan (365Scores says Prince Faisal bin Fahd Stadium). ESPN's venue cities are unreliable (it puts Hail's Prince Abdulaziz bin Musaid stadium in 'Abha' and Medina's Prince Mohammed bin Abdulaziz stadium in 'Bukayriyah'), so cities come from Arabic papers. Al Okhdood v Al Khaleej's city (Abha) is from ESPN plus TheSportsDB. Al Adalah v Al Fayha's stadium is from ESPN and 365Scores only (Arabic name translated, no city). Venues are left out where no page named one.",
+  "CRESTS: all 14 from TheSportsDB. Al Orobah, Al Ula and Al Wehda were read from fixture badges on other TheSportsDB club pages (Jeddah Club, Al Zulfi, Al Jabalain), not from their own pages, because opening links from a fetched page needed an approval that went unanswered. The other 11 were checked on each club's own page.",
+  "NAMES: English from ESPN (Tier 2), Arabic from Okaz, Sabq, Al Watan and Al Yaum (Tier 2). 'Jeddah Club / نادي جدة' (short 'Jeddah / جدة') rather than plain 'Jeddah', to avoid confusion with the city; id sa-jeddah-club. Code ORB for Al Orobah because ORO is taken by ae-al-orooba.",
+  "FEEDS FOR LATER RUNS: ESPN King's Cup slug ksa.kings.cup works (league name 'Saudi King's Cup'; the 18 Aug snapshot was stale until &lang=en&region=us was added). The slug ksa.super_cup returned a client error, and no ESPN Super Cup feed was found. 365Scores competition ids: King's Cup 5501, Super Cup 6164. TheSportsDB league 'Saudi King Cup' id 5649.",
+  "UNREADABLE: saff.com.sa/championship.php?id=434 (SAFF's King's Cup page, Tier 1) gave a server error twice; alriyadh.com is robots-blocked to the reader; spa.gov.sa N2655558 and N2675849 gave server errors; qna.org.qa (draw story) gave a server error; the TheSportsDB API and spl.com.sa are blocked to curl."
+ ]
+}

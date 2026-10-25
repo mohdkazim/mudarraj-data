@@ -7,7 +7,9 @@
     "premierleague.com": "Premier League — official",
     "uefa.com": "UEFA — official (Champions League)",
     "the-afc.com": "Asian Football Confederation — official (ACL Elite, ACL Two, Asian Cup)",
-    "agcff.org": "Arab Gulf Cup Football Federation — official (Gulf Club Champions League)"
+    "agcff.org": "Arab Gulf Cup Football Federation — official (Gulf Club Champions League)",
+    "spl.com.sa": "Saudi Pro League — official organiser of the Roshn Saudi League (names, stadiums, regulations, news and schedule PDFs read well; its results and match pages load with JavaScript and show nothing to the reader)",
+    "saff.com.sa": "Saudi Arabian Football Federation — official organiser of the King's Cup and the Saudi Super Cup (some pages unreliable to the reader)"
   },
   "enoughAlone": {
     "_note": "Not organisers, but enough on their own by Mohamed's decision (24 Oct 2026). The page must be about this fixture: check its date, season and both teams (searches also return older meetings of the same teams).",

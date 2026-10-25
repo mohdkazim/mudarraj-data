@@ -1,0 +1,5325 @@
+{
+ "run": "2026-10-25T09:16:00Z",
+ "changes": [
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 1
+   },
+   "home": "sa-abha",
+   "away": "sa-al-hazem",
+   "kickoff": "2026-08-13T16:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260813&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 1
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2026-08-13T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260813&limit=100",
+    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 1
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2026-08-13T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260813&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 1
+   },
+   "home": "sa-neom",
+   "away": "sa-al-fayha",
+   "kickoff": "2026-08-14T16:50:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260814&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 1
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-riyadh",
+   "kickoff": "2026-08-14T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260814&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 1
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-faisaly",
+   "kickoff": "2026-08-14T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260814&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 1
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-khaleej",
+   "kickoff": "2026-08-15T16:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260815&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 1
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-kholood",
+   "kickoff": "2026-08-15T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260815&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 1
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-fateh",
+   "kickoff": "2026-08-15T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260815&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 2
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-hilal",
+   "kickoff": "2026-08-20T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260820&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 2
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-nassr",
+   "kickoff": "2026-08-21T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260821&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 2
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-diriyah",
+   "kickoff": "2026-08-21T16:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260821&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 2
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-neom",
+   "kickoff": "2026-08-21T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260821&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 2
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-ittihad",
+   "kickoff": "2026-08-21T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260821&limit=100",
+    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 2
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-08-22T15:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260822&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 2
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-taawoun",
+   "kickoff": "2026-08-22T16:10:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260822&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 2
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-abha",
+   "kickoff": "2026-08-22T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260822&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 2
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-shabab",
+   "kickoff": "2026-08-22T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260822&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 3
+   },
+   "home": "sa-neom",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2026-08-24T16:40:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260824&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 3
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-hazem",
+   "kickoff": "2026-08-24T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260824&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 3
+   },
+   "home": "sa-abha",
+   "away": "sa-al-khaleej",
+   "kickoff": "2026-08-25T16:05:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260825&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 3
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-fayha",
+   "kickoff": "2026-08-25T16:10:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260825&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 3
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-nassr",
+   "kickoff": "2026-08-25T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260825&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 3
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-riyadh",
+   "kickoff": "2026-08-25T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260825&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 3
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-fateh",
+   "kickoff": "2026-08-26T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260826&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 3
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-kholood",
+   "kickoff": "2026-08-26T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260826&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 3
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2026-09-01T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260901&limit=100",
+    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch",
+    "https://www.okaz.com.sa/sport/na/2258444",
+    "https://www.spl.com.sa/en/news/watkins-toney-face-off-title-foes-fervent-fans-why-al-hilal-vs-al-ahli-is-must-watch"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 4
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-neom",
+   "kickoff": "2026-08-28T15:50:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260828&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 4
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-abha",
+   "kickoff": "2026-08-28T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260828&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 4
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-hilal",
+   "kickoff": "2026-08-28T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260828&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 4
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-taawoun",
+   "kickoff": "2026-08-28T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260828&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 4
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2026-08-29T16:05:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260829&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 4
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-diriyah",
+   "kickoff": "2026-08-29T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260829&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 4
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-ittihad",
+   "kickoff": "2026-08-29T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260829&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 4
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-shabab",
+   "kickoff": "2026-08-30T16:05:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260830&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 4
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-faisaly",
+   "kickoff": "2026-08-30T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260830&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 5
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-kholood",
+   "kickoff": "2026-09-03T15:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260903&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 5
+   },
+   "home": "sa-neom",
+   "away": "sa-al-khaleej",
+   "kickoff": "2026-09-03T16:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260903&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 5
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2026-09-03T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260903&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 5
+   },
+   "home": "sa-abha",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-09-04T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260904&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 5
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-riyadh",
+   "kickoff": "2026-09-04T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260904&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 5
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-hilal",
+   "kickoff": "2026-09-04T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260904&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 5
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-hazem",
+   "kickoff": "2026-09-05T15:50:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260905&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 5
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-fateh",
+   "kickoff": "2026-09-05T15:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260905&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 5
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-nassr",
+   "kickoff": "2026-09-05T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260905&limit=100",
+    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch",
+    "https://www.okaz.com.sa/sport/na/2258444"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 6
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-riyadh",
+   "kickoff": "2026-09-07T15:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260907&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 6
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-neom",
+   "kickoff": "2026-09-07T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260907&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 6
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-faisaly",
+   "kickoff": "2026-09-08T15:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260908&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 6
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-taawoun",
+   "kickoff": "2026-09-08T15:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260908&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 6
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-fayha",
+   "kickoff": "2026-09-08T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260908&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 6
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2026-09-08T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260908&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 6
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-shabab",
+   "kickoff": "2026-09-09T15:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260909&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 6
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-diriyah",
+   "kickoff": "2026-09-09T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260909&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 6
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-abha",
+   "kickoff": "2026-09-09T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260909&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-09-11T15:25:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260911&limit=100",
+    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-ittihad",
+   "kickoff": "2026-09-11T15:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260911&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-hazem",
+   "kickoff": "2026-09-11T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260911&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-hilal",
+   "kickoff": "2026-09-12T15:50:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260912&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-nassr",
+   "kickoff": "2026-09-12T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260912&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-fayha",
+   "kickoff": "2026-09-12T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260912&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "sa-neom",
+   "away": "sa-al-fateh",
+   "kickoff": "2026-09-13T16:20:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260913&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-abha",
+   "kickoff": "2026-09-13T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260913&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-kholood",
+   "kickoff": "2026-09-13T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260913&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 8
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2026-10-09T13:50:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261009&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 8
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2026-10-09T14:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261009&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 8
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-diriyah",
+   "kickoff": "2026-10-09T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261009&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 8
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-neom",
+   "kickoff": "2026-10-10T13:50:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261010&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 8
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-khaleej",
+   "kickoff": "2026-10-10T14:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261010&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 8
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-ittihad",
+   "kickoff": "2026-10-10T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261010&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 8
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-riyadh",
+   "kickoff": "2026-10-11T13:40:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261011&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 8
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-taawoun",
+   "kickoff": "2026-10-11T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261011&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 8
+   },
+   "home": "sa-abha",
+   "away": "sa-al-faisaly",
+   "kickoff": "2026-10-27T12:40:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261027&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.spl.com.sa/en/news/spl-announces-postponement-of-abha-s-home-match-with-al-faisaly"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 9
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-kholood",
+   "kickoff": "2026-10-15T13:40:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261015&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 9
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-fayha",
+   "kickoff": "2026-10-15T14:50:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261015&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 9
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-fateh",
+   "kickoff": "2026-10-15T15:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261015&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 9
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-abha",
+   "kickoff": "2026-10-16T13:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261016&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 9
+   },
+   "home": "sa-neom",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-10-17T15:40:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261017&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 9
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-taawoun",
+   "kickoff": "2026-10-17T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261017&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 9
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-hilal",
+   "kickoff": "2026-12-19T14:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261219&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 9
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-shabab",
+   "kickoff": "2026-12-19T17:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261219&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 9
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-nassr",
+   "kickoff": "2027-03-06T19:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270306&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 10
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-khaleej",
+   "kickoff": "2026-10-18T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261018&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 10
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2026-10-19T15:05:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261019&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 10
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-hazem",
+   "kickoff": "2026-10-19T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261019&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.365scores.com/en-uk/football/match/saudi-league-649/al-hazm-al-hilal-riyadh-5457-14895-649"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 10
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-faisaly",
+   "kickoff": "2026-10-19T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261019&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 10
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-riyadh",
+   "kickoff": "2026-10-20T15:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261020&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 10
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2026-10-20T15:10:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261020&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 10
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-ittihad",
+   "kickoff": "2026-10-20T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261020&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 10
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-neom",
+   "kickoff": "2026-10-20T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261020&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 10
+   },
+   "home": "sa-abha",
+   "away": "sa-al-kholood",
+   "kickoff": "2026-12-07T13:40:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261207&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.spl.com.sa/en/news/abha-alkholood-fixture-postponed"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 11
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-fayha",
+   "kickoff": "2026-10-22T13:40:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261022&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 11
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-shabab",
+   "kickoff": "2026-10-22T14:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261022&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.365scores.com/en-uk/football/match/saudi-league-649/al-fateh-al-shabab-riyadh-8942-8945-649"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 11
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-nassr",
+   "kickoff": "2026-10-23T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261023&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 11
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-diriyah",
+   "kickoff": "2026-10-23T15:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261023&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 11
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-khaleej",
+   "kickoff": "2026-10-23T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261023&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 11
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-hilal",
+   "kickoff": "2026-10-23T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261023&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 11
+   },
+   "home": "sa-neom",
+   "away": "sa-abha",
+   "kickoff": "2026-10-24T14:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261024&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 11
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-10-24T15:05:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261024&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 11
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-taawoun",
+   "kickoff": "2026-10-24T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261024&limit=100",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 12
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-hazem",
+   "kickoff": "2026-10-29T14:35:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261029&lang=en&region=us",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 12
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-kholood",
+   "kickoff": "2026-10-29T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261029&lang=en&region=us",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 12
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2026-10-29T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261029&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 12
+   },
+   "home": "sa-abha",
+   "away": "sa-al-ittihad",
+   "kickoff": "2026-10-30T13:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261030&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 12
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-neom",
+   "kickoff": "2026-10-30T14:50:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261030&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 12
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2026-10-30T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261030&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 12
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-10-31T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261031&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 12
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-faisaly",
+   "kickoff": "2026-10-31T14:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261031&lang=en&region=us",
+    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 12
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-fateh",
+   "kickoff": "2026-10-31T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261031&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "sa-abha",
+   "away": "sa-al-shabab",
+   "kickoff": "2026-11-05T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-taawoun",
+   "kickoff": "2026-11-05T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-hilal",
+   "kickoff": "2026-11-05T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-diriyah",
+   "kickoff": "2026-11-05T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-riyadh",
+   "kickoff": "2026-11-05T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-nassr",
+   "kickoff": "2026-11-05T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/es-mx/football/match/saudi-league-649/al-hazm-al-nassr-fc-riyadh-7549-14895-649",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-neom",
+   "kickoff": "2026-11-05T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-khaleej",
+   "kickoff": "2026-11-05T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-fayha",
+   "kickoff": "2026-11-05T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 14
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-faisaly",
+   "kickoff": "2026-11-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 14
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-fateh",
+   "kickoff": "2026-11-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 14
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-diriyah",
+   "kickoff": "2026-11-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 14
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-ittihad",
+   "kickoff": "2026-11-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 14
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2026-11-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 14
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-hazem",
+   "kickoff": "2026-11-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 14
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-11-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 14
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-abha",
+   "kickoff": "2026-11-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 14
+   },
+   "home": "sa-neom",
+   "away": "sa-al-kholood",
+   "kickoff": "2026-11-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 15
+   },
+   "home": "sa-abha",
+   "away": "sa-al-riyadh",
+   "kickoff": "2026-11-26T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 15
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-fayha",
+   "kickoff": "2026-11-26T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 15
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-hazem",
+   "kickoff": "2026-11-26T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 15
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-khaleej",
+   "kickoff": "2026-11-26T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 15
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2026-11-26T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 15
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-hilal",
+   "kickoff": "2026-11-26T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 15
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-shabab",
+   "kickoff": "2026-11-26T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 15
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-fateh",
+   "kickoff": "2026-11-26T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 15
+   },
+   "home": "sa-neom",
+   "away": "sa-al-taawoun",
+   "kickoff": "2026-11-26T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 16
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-12-03T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261203&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 16
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-kholood",
+   "kickoff": "2026-12-03T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261203&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 16
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-nassr",
+   "kickoff": "2026-12-03T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261203&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 16
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2026-12-03T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261203&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 16
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-abha",
+   "kickoff": "2026-12-03T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261203&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 16
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-diriyah",
+   "kickoff": "2026-12-03T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261203&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 16
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-ittihad",
+   "kickoff": "2026-12-03T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261203&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 16
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-neom",
+   "kickoff": "2026-12-03T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261203&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 16
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-faisaly",
+   "kickoff": "2026-12-03T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261203&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 17
+   },
+   "home": "sa-abha",
+   "away": "sa-al-fateh",
+   "kickoff": "2026-12-10T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261210&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 17
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-shabab",
+   "kickoff": "2026-12-10T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261210&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 17
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-fayha",
+   "kickoff": "2026-12-10T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261210&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 17
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-riyadh",
+   "kickoff": "2026-12-10T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261210&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 17
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-taawoun",
+   "kickoff": "2026-12-10T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261210&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 17
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-hazem",
+   "kickoff": "2026-12-10T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261210&limit=100",
+    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 17
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-hilal",
+   "kickoff": "2026-12-10T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261210&limit=100",
+    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch",
+    "https://www.365scores.com/football/match/saudi-league-649/al-hilal-riyadh-al-nassr-fc-riyadh-5457-7549-649",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 17
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-khaleej",
+   "kickoff": "2026-12-10T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261210&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 17
+   },
+   "home": "sa-neom",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2026-12-10T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261210&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 18
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-diriyah",
+   "kickoff": "2026-12-14T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261214&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 18
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-hilal",
+   "kickoff": "2026-12-14T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261214&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 18
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-nassr",
+   "kickoff": "2026-12-14T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261214&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 18
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-neom",
+   "kickoff": "2026-12-14T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261214&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 18
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-abha",
+   "kickoff": "2026-12-14T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261214&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 18
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-taawoun",
+   "kickoff": "2026-12-14T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261214&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 18
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-ittihad",
+   "kickoff": "2026-12-14T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261214&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 18
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-shabab",
+   "kickoff": "2026-12-14T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261214&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 18
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-12-14T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261214&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 19
+   },
+   "home": "sa-abha",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2027-02-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270211&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 19
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-hazem",
+   "kickoff": "2027-02-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270211&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 19
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-fateh",
+   "kickoff": "2027-02-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270211&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 19
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-fayha",
+   "kickoff": "2027-02-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270211&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 19
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2027-02-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270211&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 19
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-riyadh",
+   "kickoff": "2027-02-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270211&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 19
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-khaleej",
+   "kickoff": "2027-02-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270211&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 19
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-kholood",
+   "kickoff": "2027-02-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270211&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 19
+   },
+   "home": "sa-neom",
+   "away": "sa-al-faisaly",
+   "kickoff": "2027-02-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270211&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 20
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-hilal",
+   "kickoff": "2027-02-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270218&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 20
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-faisaly",
+   "kickoff": "2027-02-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270218&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 20
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-taawoun",
+   "kickoff": "2027-02-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270218&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 20
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-ittihad",
+   "kickoff": "2027-02-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270218&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 20
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-abha",
+   "kickoff": "2027-02-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270218&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 20
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-diriyah",
+   "kickoff": "2027-02-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270218&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 20
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2027-02-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270218&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 20
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-neom",
+   "kickoff": "2027-02-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270218&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 20
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-shabab",
+   "kickoff": "2027-02-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270218&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 21
+   },
+   "home": "sa-abha",
+   "away": "sa-al-fayha",
+   "kickoff": "2027-02-25T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270225&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 21
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-kholood",
+   "kickoff": "2027-02-25T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270225&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 21
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2027-02-25T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270225&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 21
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2027-02-25T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270225&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 21
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-khaleej",
+   "kickoff": "2027-02-25T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270225&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 21
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-fateh",
+   "kickoff": "2027-02-25T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270225&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 21
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-hazem",
+   "kickoff": "2027-02-25T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270225&limit=100",
+    "https://www.365scores.com/en-uk/football/match/saudi-league-649/al-hazm-al-shabab-riyadh-8945-14895-649",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 21
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-nassr",
+   "kickoff": "2027-02-25T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270225&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 21
+   },
+   "home": "sa-neom",
+   "away": "sa-al-riyadh",
+   "kickoff": "2027-02-25T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270225&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 22
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-abha",
+   "kickoff": "2027-03-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270311&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 22
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-taawoun",
+   "kickoff": "2027-03-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270311&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 22
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-faisaly",
+   "kickoff": "2027-03-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270311&limit=100",
+    "https://www.365scores.com/en-us/football/match/saudi-league-649/al-faisaly-al-hazm-8949-14895-649",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 22
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-shabab",
+   "kickoff": "2027-03-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270311&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 22
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-neom",
+   "kickoff": "2027-03-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270311&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 22
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-fayha",
+   "kickoff": "2027-03-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270311&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 22
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-ittihad",
+   "kickoff": "2027-03-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270311&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 22
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-diriyah",
+   "kickoff": "2027-03-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270311&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 22
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2027-03-11T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270311&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 23
+   },
+   "home": "sa-abha",
+   "away": "sa-al-nassr",
+   "kickoff": "2027-03-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270318&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 23
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2027-03-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270318&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 23
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-fateh",
+   "kickoff": "2027-03-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270318&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 23
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2027-03-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270318&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 23
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-ittihad",
+   "kickoff": "2027-03-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270318&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 23
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-khaleej",
+   "kickoff": "2027-03-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270318&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 23
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-kholood",
+   "kickoff": "2027-03-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270318&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 23
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-hazem",
+   "kickoff": "2027-03-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270318&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 23
+   },
+   "home": "sa-neom",
+   "away": "sa-al-hilal",
+   "kickoff": "2027-03-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270318&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 24
+   },
+   "home": "sa-abha",
+   "away": "sa-al-diriyah",
+   "kickoff": "2027-04-02T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270402&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 24
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2027-04-02T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270402&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 24
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-neom",
+   "kickoff": "2027-04-02T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270402&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 24
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-shabab",
+   "kickoff": "2027-04-02T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270402&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 24
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2027-04-02T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270402&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 24
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-taawoun",
+   "kickoff": "2027-04-02T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270402&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 24
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-faisaly",
+   "kickoff": "2027-04-02T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270402&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 24
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-riyadh",
+   "kickoff": "2027-04-02T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270402&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 24
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-khaleej",
+   "kickoff": "2027-04-02T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270402&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 25
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-fateh",
+   "kickoff": "2027-04-08T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270408&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 25
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-nassr",
+   "kickoff": "2027-04-08T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270408&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 25
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-abha",
+   "kickoff": "2027-04-08T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270408&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 25
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-hilal",
+   "kickoff": "2027-04-08T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270408&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 25
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2027-04-08T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270408&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 25
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-kholood",
+   "kickoff": "2027-04-08T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270408&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 25
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-fayha",
+   "kickoff": "2027-04-08T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270408&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 25
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-shabab",
+   "kickoff": "2027-04-08T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270408&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 25
+   },
+   "home": "sa-neom",
+   "away": "sa-al-hazem",
+   "kickoff": "2027-04-08T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270408&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 26
+   },
+   "home": "sa-abha",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2027-04-15T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270415&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 26
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-neom",
+   "kickoff": "2027-04-15T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270415&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 26
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-hazem",
+   "kickoff": "2027-04-15T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270415&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 26
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-khaleej",
+   "kickoff": "2027-04-15T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270415&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 26
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-riyadh",
+   "kickoff": "2027-04-15T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270415&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 26
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-faisaly",
+   "kickoff": "2027-04-15T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270415&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 26
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2027-04-15T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270415&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 26
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-ittihad",
+   "kickoff": "2027-04-15T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270415&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 26
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-diriyah",
+   "kickoff": "2027-04-15T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270415&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 27
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-fayha",
+   "kickoff": "2027-04-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270418&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 27
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-shabab",
+   "kickoff": "2027-04-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270418&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 27
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-hilal",
+   "kickoff": "2027-04-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270418&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 27
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2027-04-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270418&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 27
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-fateh",
+   "kickoff": "2027-04-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270418&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 27
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-abha",
+   "kickoff": "2027-04-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270418&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 27
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-taawoun",
+   "kickoff": "2027-04-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270418&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 27
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-diriyah",
+   "kickoff": "2027-04-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270418&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 27
+   },
+   "home": "sa-neom",
+   "away": "sa-al-nassr",
+   "kickoff": "2027-04-18T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270418&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 28
+   },
+   "home": "sa-abha",
+   "away": "sa-neom",
+   "kickoff": "2027-04-22T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270422&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 28
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-ittihad",
+   "kickoff": "2027-04-22T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270422&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 28
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-kholood",
+   "kickoff": "2027-04-22T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270422&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 28
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-hazem",
+   "kickoff": "2027-04-22T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270422&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 28
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2027-04-22T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270422&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 28
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2027-04-22T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270422&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 28
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-faisaly",
+   "kickoff": "2027-04-22T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270422&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 28
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-fateh",
+   "kickoff": "2027-04-22T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270422&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 28
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-riyadh",
+   "kickoff": "2027-04-22T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270422&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 29
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-shabab",
+   "kickoff": "2027-04-29T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270429&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 29
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-taawoun",
+   "kickoff": "2027-04-29T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270429&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 29
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-fayha",
+   "kickoff": "2027-04-29T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270429&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 29
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-hilal",
+   "kickoff": "2027-04-29T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270429&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 29
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-khaleej",
+   "kickoff": "2027-04-29T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270429&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 29
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-abha",
+   "kickoff": "2027-04-29T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270429&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 29
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-nassr",
+   "kickoff": "2027-04-29T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270429&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 29
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-riyadh",
+   "kickoff": "2027-04-29T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270429&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 29
+   },
+   "home": "sa-neom",
+   "away": "sa-al-diriyah",
+   "kickoff": "2027-04-29T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270429&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 30
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-faisaly",
+   "kickoff": "2027-05-06T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270506&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 30
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2027-05-06T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270506&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 30
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2027-05-06T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270506&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 30
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-kholood",
+   "kickoff": "2027-05-06T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270506&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 30
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-hazem",
+   "kickoff": "2027-05-06T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270506&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 30
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-fateh",
+   "kickoff": "2027-05-06T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270506&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 30
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-abha",
+   "kickoff": "2027-05-06T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270506&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 30
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2027-05-06T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270506&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 30
+   },
+   "home": "sa-neom",
+   "away": "sa-al-ittihad",
+   "kickoff": "2027-05-06T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270506&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 31
+   },
+   "home": "sa-abha",
+   "away": "sa-al-taawoun",
+   "kickoff": "2027-05-12T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270512&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 31
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-hilal",
+   "kickoff": "2027-05-12T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270512&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 31
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-shabab",
+   "kickoff": "2027-05-12T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270512&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 31
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2027-05-12T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270512&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 31
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-fayha",
+   "kickoff": "2027-05-12T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270512&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 31
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-riyadh",
+   "kickoff": "2027-05-12T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270512&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 31
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-khaleej",
+   "kickoff": "2027-05-12T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270512&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 31
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-neom",
+   "kickoff": "2027-05-12T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270512&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 31
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-nassr",
+   "kickoff": "2027-05-12T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270512&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 32
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-ittihad",
+   "kickoff": "2027-05-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270520&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 32
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2027-05-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270520&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 32
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-diriyah",
+   "kickoff": "2027-05-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270520&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 32
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2027-05-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270520&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 32
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-kholood",
+   "kickoff": "2027-05-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270520&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 32
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-faisaly",
+   "kickoff": "2027-05-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270520&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 32
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-abha",
+   "kickoff": "2027-05-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270520&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 32
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-nassr",
+   "kickoff": "2027-05-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270520&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 32
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-neom",
+   "kickoff": "2027-05-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270520&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 33
+   },
+   "home": "sa-abha",
+   "away": "sa-al-hilal",
+   "kickoff": "2027-05-24T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270524&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 33
+   },
+   "home": "sa-al-diriyah",
+   "away": "sa-al-khaleej",
+   "kickoff": "2027-05-24T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270524&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 33
+   },
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-ahli-saudi",
+   "kickoff": "2027-05-24T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270524&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 33
+   },
+   "home": "sa-al-faisaly",
+   "away": "sa-al-taawoun",
+   "kickoff": "2027-05-24T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270524&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 33
+   },
+   "home": "sa-al-ittihad",
+   "away": "sa-al-riyadh",
+   "kickoff": "2027-05-24T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270524&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 33
+   },
+   "home": "sa-al-kholood",
+   "away": "sa-al-fateh",
+   "kickoff": "2027-05-24T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270524&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 33
+   },
+   "home": "sa-al-nassr",
+   "away": "sa-al-fayha",
+   "kickoff": "2027-05-24T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270524&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 33
+   },
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-hazem",
+   "kickoff": "2027-05-24T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270524&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 33
+   },
+   "home": "sa-neom",
+   "away": "sa-al-shabab",
+   "kickoff": "2027-05-24T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270524&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 34
+   },
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-neom",
+   "kickoff": "2027-05-28T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270528&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 34
+   },
+   "home": "sa-al-fateh",
+   "away": "sa-abha",
+   "kickoff": "2027-05-28T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270528&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 34
+   },
+   "home": "sa-al-fayha",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2027-05-28T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270528&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 34
+   },
+   "home": "sa-al-hazem",
+   "away": "sa-al-kholood",
+   "kickoff": "2027-05-28T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270528&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 34
+   },
+   "home": "sa-al-hilal",
+   "away": "sa-al-nassr",
+   "kickoff": "2027-05-28T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270528&limit=100",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 34
+   },
+   "home": "sa-al-khaleej",
+   "away": "sa-al-qadsiah",
+   "kickoff": "2027-05-28T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270528&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 34
+   },
+   "home": "sa-al-riyadh",
+   "away": "sa-al-faisaly",
+   "kickoff": "2027-05-28T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270528&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 34
+   },
+   "home": "sa-al-shabab",
+   "away": "sa-al-diriyah",
+   "kickoff": "2027-05-28T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270528&limit=100"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 34
+   },
+   "home": "sa-al-taawoun",
+   "away": "sa-al-ittihad",
+   "kickoff": "2027-05-28T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270528&limit=100"
+   ]
+  }
+ ],
+ "unconfirmed": [],
+ "notes": [
+  "All 306 fixtures come from the ESPN ksa.1 scoreboard feed (Tier 2), read one UTC date at a time for every date in the feed's own 2026-27 calendar (63 dates, 13 Aug 2026 - 28 May 2027). Checks passed: 18 clubs, each 17 home and 17 away; every ordered pair exactly once; 9 matches and 18 different clubs in every round; round k+17 is the exact reverse of round k for k = 1-17.",
+  "Round numbers: ESPN has none, so rounds follow the date blocks (R1 13-15 Aug ... R12 29-31 Oct, then one date per round). Moved matches keep their original round, per spl.com.sa (Tier 1): R3 Al Hilal v Al Ahli played 1 Sep; R8 Abha v Al Faisaly moved 11 Oct -> 27 Oct; R9 Al Riyadh v Al Hilal and Al Ittihad v Al Shabab moved to 19 Dec 2026, Al Ahli v Al Nassr to 6 Mar 2027; R10 Abha v Al Kholood moved 19 Oct -> 7 Dec (16:40 KSA). Spot checks agree: SPL's '10 matches to watch' gives MW 1, 2, 3, 5, 7, 8, 12, 15, 17 (x2); 365Scores match pages give R10, R11, R13, R17, R21, R22.",
+  "Kick-off times: 108 fixtures (all of rounds 1-12, including the five moved matches) have an ESPN time, so timeConfirmed true. Rounds 13-34 (198 fixtures) have only one date per round in ESPN (time 'TBD') and in 365Scores (17:00 placeholder). They are stored on that date at 17:00Z with timeConfirmed false. Matches in these rounds will probably be spread over 2-3 days once SPL announces dates and times. ESPN's own TBD placeholder (20:00Z) was not used because it falls on the next day in UAE time.",
+  "Round 11 began on 22 Oct with Al Hazem v Al Fayha and Al Fateh v Al Shabab (ESPN; 365Scores agrees for Al Fateh v Al Shabab: 22 Oct 14:45, Round 11). SPL's 23 Aug article (last modified 5 Oct) said MW11 would start on 23 Oct.",
+  "ESPN's &limit=100 copies for 25 Aug and 16, 19 and 20 Oct were stale. They were re-read with &lang=en&region=us: kick-offs are the same, but the stale 16 Oct copy still listed Al Riyadh v Al Hilal and Al Ittihad v Al Shabab (moved to 19 Dec), and those rows were dropped. The 19 Dec times (14:45Z, 17:30Z) and the 6 Mar 2027 time (19:00Z; 365Scores also shows 19:00) are ESPN times not TBD, so they count as confirmed, but SPL's own announcement gave no time for them.",
+  "Sabq's round-1 list (24 Jul) names Al Hazem before Abha. ESPN has Abha at home in round 1, and both ESPN and 365Scores have Al Hazem at home against Abha on 14 Dec (round 18), so Abha was kept as the round-1 home side.",
+  "Not usable: the spl.com.sa fixtures, team and match pages load by JavaScript and show 'No data available'. The TheSportsDB link was refused before it was sent (no search provenance), so Tier 3 was not used.",
+  "Before applying: data/competitions.json has no 'saudi-pro-league' yet, and data/teams.json lacks sa-abha, sa-al-diriyah, sa-al-faisaly, sa-al-fateh, sa-al-fayha, sa-al-hazem, sa-al-khaleej, sa-al-kholood, sa-al-riyadh and sa-al-shabab (no team ops in this patch). spl.com.sa links are not in sources.json yet, but every fixture also lists its ESPN page (Tier 2)."
+ ]
+}

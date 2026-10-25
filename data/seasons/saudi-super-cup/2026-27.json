@@ -1,0 +1,116 @@
+{
+ "competition": "saudi-super-cup",
+ "season": "2026-27",
+ "matches": [
+  {
+   "id": "saudi-super-cup-2026-27-sf-sa-al-qadsiah-sa-al-ahli-saudi",
+   "stage": {
+    "key": "sf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-19T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-ahli-saudi",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Jaber Al-Ahmad International Stadium",
+     "ar": "استاد جابر الأحمد الدولي"
+    },
+    "city": {
+     "en": "Kuwait",
+     "ar": "الكويت"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.alyaum.com/ampArticle/6687243",
+    "https://kuwaittimes.com/article/51637/sports/football/saudi-super-cup-draw-sets-al-nassr-al-ahli-on-semifinal-collision-course-in-kuwait/",
+    "https://spa.gov.sa/N2701368",
+    "https://www.365scores.com/en-us/football/league/super-cup-6164",
+    "https://sabq.org/article/8qtzusb"
+   ]
+  },
+  {
+   "id": "saudi-super-cup-2026-27-sf-sa-al-nassr-sa-al-kholood",
+   "stage": {
+    "key": "sf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-20T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-nassr",
+   "away": "sa-al-kholood",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Jaber Al-Ahmad International Stadium",
+     "ar": "استاد جابر الأحمد الدولي"
+    },
+    "city": {
+     "en": "Kuwait",
+     "ar": "الكويت"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.alyaum.com/ampArticle/6687243",
+    "https://kuwaittimes.com/article/51637/sports/football/saudi-super-cup-draw-sets-al-nassr-al-ahli-on-semifinal-collision-course-in-kuwait/",
+    "https://spa.gov.sa/N2701368",
+    "https://www.365scores.com/en-us/football/league/super-cup-6164",
+    "https://sabq.org/article/8qtzusb"
+   ]
+  },
+  {
+   "id": "saudi-super-cup-2026-27-final-tbd-tbd",
+   "stage": {
+    "key": "final",
+    "type": "final",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-23T17:00:00Z",
+   "timeConfirmed": false,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Winner Semi-finals 1",
+    "ar": "الفائز في نصف النهائي 1"
+   },
+   "awayPlaceholder": {
+    "en": "Winner Semi-finals 2",
+    "ar": "الفائز في نصف النهائي 2"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Jaber Al-Ahmad International Stadium",
+     "ar": "استاد جابر الأحمد الدولي"
+    },
+    "city": {
+     "en": "Kuwait",
+     "ar": "الكويت"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://kuwaittimes.com/article/51637/sports/football/saudi-super-cup-draw-sets-al-nassr-al-ahli-on-semifinal-collision-course-in-kuwait/",
+    "https://spa.gov.sa/N2701368",
+    "https://www.alyaum.com/ampArticle/6687243",
+    "https://www.alyaum.com/ampArticle/6686926"
+   ]
+  }
+ ]
+}

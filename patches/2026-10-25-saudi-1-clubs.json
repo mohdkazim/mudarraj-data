@@ -1,0 +1,592 @@
+{
+  "run": "2026-10-25T09:30:00Z",
+  "changes": [
+    {
+      "op": "team",
+      "team": {
+        "id": "sa-abha",
+        "name": {
+          "en": "Abha",
+          "ar": "أبها"
+        },
+        "shortName": {
+          "en": "Abha",
+          "ar": "أبها"
+        },
+        "code": "ABH",
+        "country": "sa",
+        "countryName": {
+          "en": "Saudi Arabia",
+          "ar": "السعودية"
+        },
+        "national": false,
+        "logo": "https://r2.thesportsdb.com/images/media/team/badge/e00pwe1677530619.png",
+        "aliases": []
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/teams",
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://sabq.org/article/2oy5dq4",
+        "https://www.thesportsdb.com/league/4668-saudi-arabian-pro-league"
+      ]
+    },
+    {
+      "op": "team-venue",
+      "team": "sa-abha",
+      "venue": {
+        "name": {
+          "en": "Prince Sultan bin Abdulaziz Sports City Stadium",
+          "ar": "ملعب مدينة الأمير سلطان بن عبدالعزيز الرياضية"
+        },
+        "city": {
+          "en": "Abha",
+          "ar": "أبها"
+        }
+      },
+      "sources": [
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://images.spl.com.sa/image/private/fl_attachment/prd/nds7hna7yreong2n5q6i.pdf",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260813",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260825"
+      ]
+    },
+    {
+      "op": "team",
+      "team": {
+        "id": "sa-al-diriyah",
+        "name": {
+          "en": "Al Diriyah",
+          "ar": "الدرعية"
+        },
+        "shortName": {
+          "en": "Al Diriyah",
+          "ar": "الدرعية"
+        },
+        "code": "DIR",
+        "country": "sa",
+        "countryName": {
+          "en": "Saudi Arabia",
+          "ar": "السعودية"
+        },
+        "national": false,
+        "logo": "https://r2.thesportsdb.com/images/media/team/badge/0m7ub31782452735.png",
+        "aliases": [
+          "Diriyah Club",
+          "Al-Diriyah",
+          "Al Diraiyah"
+        ]
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/teams",
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://sabq.org/article/2oy5dq4",
+        "https://www.thesportsdb.com/league/4668-saudi-arabian-pro-league"
+      ]
+    },
+    {
+      "op": "team-venue",
+      "team": "sa-al-diriyah",
+      "venue": {
+        "name": {
+          "en": "Al-Awwal Park",
+          "ar": "الأول بارك"
+        },
+        "city": {
+          "en": "Riyadh",
+          "ar": "الرياض"
+        }
+      },
+      "sources": [
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://images.spl.com.sa/image/private/fl_attachment/prd/nds7hna7yreong2n5q6i.pdf",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260813"
+      ]
+    },
+    {
+      "op": "team",
+      "team": {
+        "id": "sa-al-faisaly",
+        "name": {
+          "en": "Al Faisaly",
+          "ar": "الفيصلي"
+        },
+        "shortName": {
+          "en": "Al Faisaly",
+          "ar": "الفيصلي"
+        },
+        "code": "FAI",
+        "country": "sa",
+        "countryName": {
+          "en": "Saudi Arabia",
+          "ar": "السعودية"
+        },
+        "national": false,
+        "logo": "https://r2.thesportsdb.com/images/media/team/badge/a81pz21646835057.png",
+        "aliases": [
+          "Al-Faisaly"
+        ]
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/teams",
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://sabq.org/article/2oy5dq4",
+        "https://www.thesportsdb.com/league/4668-saudi-arabian-pro-league"
+      ]
+    },
+    {
+      "op": "team-venue",
+      "team": "sa-al-faisaly",
+      "venue": {
+        "name": {
+          "en": "Al Majma'ah Sports City",
+          "ar": "مدينة المجمعة الرياضية"
+        },
+        "city": {
+          "en": "Al Majma'ah",
+          "ar": "المجمعة"
+        }
+      },
+      "sources": [
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://images.spl.com.sa/image/private/fl_attachment/prd/nds7hna7yreong2n5q6i.pdf",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260821",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261023"
+      ]
+    },
+    {
+      "op": "team",
+      "team": {
+        "id": "sa-al-fateh",
+        "name": {
+          "en": "Al Fateh",
+          "ar": "الفتح"
+        },
+        "shortName": {
+          "en": "Al Fateh",
+          "ar": "الفتح"
+        },
+        "code": "FAT",
+        "country": "sa",
+        "countryName": {
+          "en": "Saudi Arabia",
+          "ar": "السعودية"
+        },
+        "national": false,
+        "logo": "https://r2.thesportsdb.com/images/media/team/badge/a5cjf41662659789.png",
+        "aliases": [
+          "Al-Fateh"
+        ]
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/teams",
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://sabq.org/article/2oy5dq4",
+        "https://www.thesportsdb.com/league/4668-saudi-arabian-pro-league",
+        "https://www.thesportsdb.com/team/136011-Al-Fateh-FC"
+      ]
+    },
+    {
+      "op": "team-venue",
+      "team": "sa-al-fateh",
+      "venue": {
+        "name": {
+          "en": "Maydan Tamweel Aloula",
+          "ar": "ميدان تمويل الأولى"
+        },
+        "city": {
+          "en": "Al Ahsa",
+          "ar": "الأحساء"
+        }
+      },
+      "sources": [
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://images.spl.com.sa/image/private/fl_attachment/prd/nds7hna7yreong2n5q6i.pdf",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260822",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260829"
+      ]
+    },
+    {
+      "op": "team",
+      "team": {
+        "id": "sa-al-fayha",
+        "name": {
+          "en": "Al Fayha",
+          "ar": "الفيحاء"
+        },
+        "shortName": {
+          "en": "Al Fayha",
+          "ar": "الفيحاء"
+        },
+        "code": "FAY",
+        "country": "sa",
+        "countryName": {
+          "en": "Saudi Arabia",
+          "ar": "السعودية"
+        },
+        "national": false,
+        "logo": "https://r2.thesportsdb.com/images/media/team/badge/jl3spp1677530565.png",
+        "aliases": [
+          "Al-Fayha",
+          "Al Feiha"
+        ]
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/teams",
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://sabq.org/article/2oy5dq4",
+        "https://www.thesportsdb.com/league/4668-saudi-arabian-pro-league"
+      ]
+    },
+    {
+      "op": "team-venue",
+      "team": "sa-al-fayha",
+      "venue": {
+        "name": {
+          "en": "Al Majma'ah Sports City",
+          "ar": "مدينة المجمعة الرياضية"
+        },
+        "city": {
+          "en": "Al Majma'ah",
+          "ar": "المجمعة"
+        }
+      },
+      "sources": [
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://images.spl.com.sa/image/private/fl_attachment/prd/nds7hna7yreong2n5q6i.pdf",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260820",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261019"
+      ]
+    },
+    {
+      "op": "team",
+      "team": {
+        "id": "sa-al-hazem",
+        "name": {
+          "en": "Al Hazem",
+          "ar": "الحزم"
+        },
+        "shortName": {
+          "en": "Al Hazem",
+          "ar": "الحزم"
+        },
+        "code": "HAZ",
+        "country": "sa",
+        "countryName": {
+          "en": "Saudi Arabia",
+          "ar": "السعودية"
+        },
+        "national": false,
+        "logo": "https://r2.thesportsdb.com/images/media/team/badge/3uy27p1635871755.png",
+        "aliases": [
+          "Al-Hazem",
+          "Al Hazm"
+        ]
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/teams",
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://sabq.org/article/2oy5dq4",
+        "https://www.thesportsdb.com/league/4668-saudi-arabian-pro-league"
+      ]
+    },
+    {
+      "op": "team-venue",
+      "team": "sa-al-hazem",
+      "venue": {
+        "name": {
+          "en": "Al Hazem Club Stadium",
+          "ar": "ملعب نادي الحزم"
+        },
+        "city": {
+          "en": "Ar Rass",
+          "ar": "الرس"
+        }
+      },
+      "sources": [
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://images.spl.com.sa/image/private/fl_attachment/prd/nds7hna7yreong2n5q6i.pdf",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260821",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260830"
+      ]
+    },
+    {
+      "op": "team",
+      "team": {
+        "id": "sa-al-khaleej",
+        "name": {
+          "en": "Al Khaleej",
+          "ar": "الخليج"
+        },
+        "shortName": {
+          "en": "Al Khaleej",
+          "ar": "الخليج"
+        },
+        "code": "KHA",
+        "country": "sa",
+        "countryName": {
+          "en": "Saudi Arabia",
+          "ar": "السعودية"
+        },
+        "national": false,
+        "logo": "https://r2.thesportsdb.com/images/media/team/badge/mvf6ga1755192630.png",
+        "aliases": [
+          "Al-Khaleej"
+        ]
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/teams",
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://sabq.org/article/2oy5dq4",
+        "https://www.thesportsdb.com/league/4668-saudi-arabian-pro-league",
+        "https://www.thesportsdb.com/team/139080-al-khaleej"
+      ]
+    },
+    {
+      "op": "team-venue",
+      "team": "sa-al-khaleej",
+      "venue": {
+        "name": {
+          "en": "Prince Mohammed bin Fahd Stadium",
+          "ar": "استاد الأمير محمد بن فهد"
+        },
+        "city": {
+          "en": "Dammam",
+          "ar": "الدمام"
+        }
+      },
+      "sources": [
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://images.spl.com.sa/image/private/fl_attachment/prd/nds7hna7yreong2n5q6i.pdf",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260822",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260828"
+      ]
+    },
+    {
+      "op": "team",
+      "team": {
+        "id": "sa-al-kholood",
+        "name": {
+          "en": "Al Kholood",
+          "ar": "الخلود"
+        },
+        "shortName": {
+          "en": "Al Kholood",
+          "ar": "الخلود"
+        },
+        "code": "KHO",
+        "country": "sa",
+        "countryName": {
+          "en": "Saudi Arabia",
+          "ar": "السعودية"
+        },
+        "national": false,
+        "logo": "https://r2.thesportsdb.com/images/media/team/badge/vv44v01755192851.png",
+        "aliases": [
+          "Al-Kholood",
+          "Al Khulood"
+        ]
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/teams",
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://sabq.org/article/2oy5dq4",
+        "https://www.thesportsdb.com/league/4668-saudi-arabian-pro-league"
+      ]
+    },
+    {
+      "op": "team-venue",
+      "team": "sa-al-kholood",
+      "venue": {
+        "name": {
+          "en": "Al Hazem Club Stadium",
+          "ar": "ملعب نادي الحزم"
+        },
+        "city": {
+          "en": "Ar Rass",
+          "ar": "الرس"
+        }
+      },
+      "sources": [
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://images.spl.com.sa/image/private/fl_attachment/prd/nds7hna7yreong2n5q6i.pdf",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260822",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261024"
+      ]
+    },
+    {
+      "op": "team",
+      "team": {
+        "id": "sa-al-riyadh",
+        "name": {
+          "en": "Al Riyadh",
+          "ar": "الرياض"
+        },
+        "shortName": {
+          "en": "Al Riyadh",
+          "ar": "الرياض"
+        },
+        "code": "RIY",
+        "country": "sa",
+        "countryName": {
+          "en": "Saudi Arabia",
+          "ar": "السعودية"
+        },
+        "national": false,
+        "logo": "https://r2.thesportsdb.com/images/media/team/badge/i4o0zy1755193321.png",
+        "aliases": [
+          "Al-Riyadh"
+        ]
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/teams",
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://sabq.org/article/2oy5dq4",
+        "https://www.thesportsdb.com/league/4668-saudi-arabian-pro-league"
+      ]
+    },
+    {
+      "op": "team-venue",
+      "team": "sa-al-riyadh",
+      "venue": {
+        "name": {
+          "en": "Prince Faisal bin Fahd Sports City",
+          "ar": "ملعب مدينة الأمير فيصل بن فهد الرياضية"
+        },
+        "city": {
+          "en": "Riyadh",
+          "ar": "الرياض"
+        }
+      },
+      "sources": [
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://images.spl.com.sa/image/private/fl_attachment/prd/nds7hna7yreong2n5q6i.pdf",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260821",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260828"
+      ]
+    },
+    {
+      "op": "team",
+      "team": {
+        "id": "sa-al-shabab",
+        "name": {
+          "en": "Al Shabab",
+          "ar": "الشباب"
+        },
+        "shortName": {
+          "en": "Al Shabab",
+          "ar": "الشباب"
+        },
+        "code": "SHA",
+        "country": "sa",
+        "countryName": {
+          "en": "Saudi Arabia",
+          "ar": "السعودية"
+        },
+        "national": false,
+        "logo": "https://r2.thesportsdb.com/images/media/team/badge/zbums21755192520.png",
+        "aliases": [
+          "Al-Shabab"
+        ]
+      },
+      "sources": [
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/teams",
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://sabq.org/article/2oy5dq4",
+        "https://www.thesportsdb.com/league/4668-saudi-arabian-pro-league"
+      ]
+    },
+    {
+      "op": "team-venue",
+      "team": "sa-al-shabab",
+      "venue": {
+        "name": {
+          "en": "SHG Arena",
+          "ar": "إس إتش جي أرينا"
+        },
+        "city": {
+          "en": "Riyadh",
+          "ar": "الرياض"
+        }
+      },
+      "sources": [
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://images.spl.com.sa/image/private/fl_attachment/prd/nds7hna7yreong2n5q6i.pdf",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260813",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260825"
+      ]
+    },
+    {
+      "op": "team-venue",
+      "team": "sa-neom",
+      "venue": {
+        "name": {
+          "en": "King Khalid Sports City",
+          "ar": "مدينة الملك خالد الرياضية"
+        },
+        "city": {
+          "en": "Tabuk",
+          "ar": "تبوك"
+        }
+      },
+      "sources": [
+        "https://www.spl.com.sa/en/teams",
+        "https://www.spl.com.sa/ar/teams",
+        "https://images.spl.com.sa/image/private/fl_attachment/prd/nds7hna7yreong2n5q6i.pdf",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260814",
+        "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261024"
+      ]
+    },
+    {
+      "op": "venue",
+      "match": "gulf-club-cl-2026-27-groups-ga-r01-sa-neom-ye-shaab-hadramaut",
+      "venue": {
+        "name": {
+          "en": "Al-Watani Club Stadium",
+          "ar": "ملعب نادي الوطني"
+        },
+        "city": {
+          "en": "Tabuk",
+          "ar": "تبوك"
+        }
+      },
+      "sources": [
+        "https://sabq.org/article/92rpqxi",
+        "https://www.okaz.com.sa/sport/na/2270625"
+      ]
+    }
+  ],
+  "unconfirmed": [],
+  "notes": [
+    "Names: English from the ESPN team feed and spl.com.sa/en/teams (SPL itself writes 'Diriyah Club'; ESPN, SPA and the rules use 'Al Diriyah'); Arabic from spl.com.sa/ar/teams, matching Sabq's King's Cup round-of-32 list.",
+    "Codes follow ESPN's abbreviations (ABH, DIR, FAT, FAY, HAZ, KHA, KHO, RIY, SHA) except Al Faisaly: ESPN uses 'ALF'; 'FAI' used instead (jo-al-faisaly also uses FAI, and KHA is also bh-al-khaldiya's code; the validator does not require unique codes).",
+    "Logos: TheSportsDB badges read from its Saudi-Arabian Pro League page (league 4668), the same in two separate reads; the Al Fateh and Al Khaleej team pages confirmed theirs. Every club sits in that Saudi league list, so none is a namesake (e.g. the UAE or Omani Al Shabab).",
+    "apiFootballId left out for all 10: no page found showing their API-Football ids (api-football.com/coverage failed to load; dashboard.api-football.com/soccer/ids was refused / needs a login).",
+    "Stadium names are the organiser's (spl.com.sa team list, English and Arabic). ESPN calls some by older names: Al-Shabab Club Stadium = SHG Arena (the same match, Al Riyadh v Al Taawoun 24 Oct, is 'SHG Arena' in the SPL schedule and 'Al-Shabab Club Stadium' on ESPN), Al Fateh Club Stadium (Al-Hofuf) = Maydan Tamweel Aloula, King Khalid Sport City Stadium, Al Majma'a Sport City Stadium, Al-Hazm Club Stadium. Arabic 'ميدان تمويل الأولى' read twice on spl.com.sa/ar/teams (one PDF read gave 'تموين', taken as a misread).",
+    "Al Riyadh: spl.com.sa lists Prince Faisal bin Fahd Sports City, where it played at home on 21 and 28 Aug (ESPN) and in MW7 (SPL schedule). But the SPL schedule PDF puts its MW9 (v Al Hilal), MW11 (v Al Taawoun) and MW12 (v Al Qadsiah) home matches at SHG Arena, and ESPN agrees for MW11. If that continues, those fixtures need their own 'venue' op (or switch the default to SHG Arena).",
+    "Abha: home is Prince Sultan bin Abdulaziz Sports City (spl.com.sa; ESPN 13 Aug, 25 Aug, 4 Sep; SPL schedule MW12), but MW8 (v Al Faisaly) and MW10 (v Al Kholood) are listed at Damac Club Stadium (ملعب نادي ضمك), Khamis Mushait (SPL schedule; ESPN calls the MW10 ground 'Damac Stadium'). Those two need their own 'venue' op.",
+    "Existing 8 clubs checked against spl.com.sa/en/teams + /ar/teams, the SPL schedule PDF and ESPN: only NEOM differs (league ground King Khalid Sports City, Tabuk; teams.json has Al-Watani Club Stadium, which came from NEOM's Gulf Club CL home match). No change for the others: Al Ahli and Al Ittihad = 'Alinma Stadium', the sponsor name of King Abdullah Sports City Stadium (SAFF: 'Alinma Stadium at KASC'); Al Taawoun = Wolves Park (SPL Arabic page: 'استاد نادي التعاون'); Al Hilal Kingdom Arena, Al Nassr Al-Awwal Park, Al Qadsiah Prince Mohammed bin Fahd Stadium, Al Ettifaq Al-Ettifaq Club Stadium all match.",
+    "The extra 'venue' op keeps NEOM's Gulf Club CL home match (13 Oct, v Shaab Hadramaut) at Al-Watani Club Stadium, where Sabq and Okaz say it was played, so the new NEOM default doesn't move it. Later NEOM Gulf CL home matches will need the same.",
+    "Al Ahli also hosts some league matches at Prince Abdullah Al Faisal Sports City, Jeddah (SPL schedule: MW7 v Al Hazem, MW11 v Al Khaleej; ESPN 4 Sep v Al Riyadh). Al Ittihad's MW9 v Al Shabab is listed there too. Each needs its own 'venue' op when its fixture is added.",
+    "spl.com.sa is not yet in sources.json, so every team-venue op also cites an ESPN scoreboard (Tier 2) with a home match at that ground, which passes apply.mjs's Tier 1/2 check today."
+  ]
+}

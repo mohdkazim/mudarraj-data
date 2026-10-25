@@ -1,0 +1,3525 @@
+{
+ "run": "2026-10-25T09:30:00Z",
+ "changes": [
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-abha",
+   "away": "sa-al-hazem",
+   "date": "2026-08-13",
+   "status": "FT",
+   "score": [
+    1,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 3,
+     "side": "away",
+     "player": "Abdulaziz Aldhuwayhi",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Ahmed Al-Shamrani",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Mohammad Al-Dawsari",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260813&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AD%D8%B2%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/dgi72jj27o29uizez3ciocdwc"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-diriyah",
+   "away": "sa-al-ahli-saudi",
+   "date": "2026-08-13",
+   "status": "FT",
+   "score": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Eduard Spertsyan",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260813&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aj1bdyuwq8pdwycaa9kba8uni"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-shabab",
+   "away": "sa-al-qadsiah",
+   "date": "2026-08-13",
+   "status": "FT",
+   "score": [
+    1,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "Hammam Al-Hammami",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "away",
+     "player": "Mohammed Abu Al-Shamat",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Julián Quiñones",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 3,
+     "side": "away",
+     "player": "Turki Al-Ammar",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260813&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/90k2kbbkk2cj55yhkivdqn0ym",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2ry1fixv27p3xepazsxcuyoho"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-neom",
+   "away": "sa-al-fayha",
+   "date": "2026-08-14",
+   "status": "FT",
+   "score": [
+    2,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Amadou Koné",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Saïd Benrahma",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "away",
+     "player": "Hugo Moura",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260814&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ebcxfnmnxrxvv6lcjsahgd38j",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%86%D9%8A%D9%88%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/wAkyC3TRtoab_WnYrSjEP"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-riyadh",
+   "date": "2026-08-14",
+   "status": "FT",
+   "score": [
+    4,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 22,
+     "side": "home",
+     "player": "Moussa Dembélé",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 5,
+     "side": "away",
+     "player": "Teddy Okou",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Moussa Dembélé",
+     "type": "penalty"
+    },
+    {
+     "minute": 56,
+     "side": "away",
+     "player": "Bernard Mensah",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Rayane Messi",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 8,
+     "side": "home",
+     "player": "Moussa Dembélé",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260814&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7dkxxicrwn77jpdfkwpnlnnyn"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-hilal",
+   "away": "sa-al-faisaly",
+   "date": "2026-08-14",
+   "status": "FT",
+   "score": [
+    4,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Karim Benzema",
+     "type": "penalty"
+    },
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Malcom",
+     "type": "goal"
+    },
+    {
+     "minute": 28,
+     "side": "home",
+     "player": "Rúben Neves",
+     "type": "penalty"
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Alexandre Mendy",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Théo Bongonda",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "Rúben Neves",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260814&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c9swyor08g9pedxpe3n321svu"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-taawoun",
+   "away": "sa-al-khaleej",
+   "date": "2026-08-15",
+   "status": "FT",
+   "score": [
+    0,
+    0
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260815&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7w4300dn2tnd0eqmbtk531tkx",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/o1iwuxbv233ayidxpibbxy59"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ittihad",
+   "away": "sa-al-kholood",
+   "date": "2026-08-15",
+   "status": "FT",
+   "score": [
+    1,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Youssef En-Nesyri",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Julien Domingues",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260815&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%88%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/3eha2sarrs9ttx6mnxl92wacq",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2kzl64gp8x37bon8tyxojqrr1"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-nassr",
+   "away": "sa-al-fateh",
+   "date": "2026-08-15",
+   "status": "FT",
+   "score": [
+    3,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "Ângelo Gabriel",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "João Félix",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Samú Costa",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260815&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/57jcqe38hakh2hfit2zsogsb",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D8%AA%D8%AD/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aekjg4wbxaixtwu4aicmiju92"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-fayha",
+   "away": "sa-al-hilal",
+   "date": "2026-08-20",
+   "status": "FT",
+   "score": [
+    0,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 31,
+     "side": "away",
+     "player": "Sergej Milinkovic-Savic",
+     "type": "goal"
+    },
+    {
+     "minute": 46,
+     "side": "away",
+     "player": "Sultan Mandash",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Nasser Al-Dawsari",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260820&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c9swyor08g9pedxpe3n321svu",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ebcxfnmnxrxvv6lcjsahgd38j",
+    "https://spa.gov.sa/en/N2658759"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-riyadh",
+   "away": "sa-al-nassr",
+   "date": "2026-08-21",
+   "status": "FT",
+   "score": [
+    0,
+    4
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Abdulelah Al-Amri",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "away",
+     "player": "Ângelo Gabriel",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "away",
+     "player": "João Félix",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "away",
+     "player": "Cristiano Ronaldo",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260821&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/57jcqe38hakh2hfit2zsogsb"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-hazem",
+   "away": "sa-al-diriyah",
+   "date": "2026-08-21",
+   "status": "FT",
+   "score": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 3,
+     "side": "away",
+     "player": "Abdulelah Al-Malki",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260821&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AD%D8%B2%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/dgi72jj27o29uizez3ciocdwc"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-faisaly",
+   "away": "sa-neom",
+   "date": "2026-08-21",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Alexandre Lacazette",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "away",
+     "player": "Alexandre Lacazette",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260821&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%86%D9%8A%D9%88%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/wAkyC3TRtoab_WnYrSjEP"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-ittihad",
+   "date": "2026-08-21",
+   "status": "FT",
+   "score": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "away",
+     "player": "George Ilenikhena",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260821&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/90k2kbbkk2cj55yhkivdqn0ym",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2kzl64gp8x37bon8tyxojqrr1"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-fateh",
+   "away": "sa-al-ettifaq",
+   "date": "2026-08-22",
+   "status": "FT",
+   "score": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Jack Hendry",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260822&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7dkxxicrwn77jpdfkwpnlnnyn",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D8%AA%D8%AD/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aekjg4wbxaixtwu4aicmiju92"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-kholood",
+   "away": "sa-al-taawoun",
+   "date": "2026-08-22",
+   "status": "FT",
+   "score": [
+    3,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Edgaras Utkus",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "Iker Kortajarena",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 3,
+     "side": "home",
+     "player": "Shaquille Pinas",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Abderrazak Hamdallah",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "away",
+     "player": "Abderrazak Hamdallah",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260822&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%88%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/3eha2sarrs9ttx6mnxl92wacq",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/o1iwuxbv233ayidxpibbxy59"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-abha",
+   "date": "2026-08-22",
+   "status": "FT",
+   "score": [
+    4,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "home",
+     "player": "Ivan Toney",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "Ivan Toney",
+     "type": "penalty"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Francisco Trincão",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Ivan Toney",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260822&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aj1bdyuwq8pdwycaa9kba8uni"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-khaleej",
+   "away": "sa-al-shabab",
+   "date": "2026-08-22",
+   "status": "FT",
+   "score": [
+    0,
+    0
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260822&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7w4300dn2tnd0eqmbtk531tkx",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2ry1fixv27p3xepazsxcuyoho"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-neom",
+   "away": "sa-al-qadsiah",
+   "date": "2026-08-24",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 29,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "away",
+     "player": "Mateo Retegui",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260824&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/90k2kbbkk2cj55yhkivdqn0ym",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%86%D9%8A%D9%88%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/wAkyC3TRtoab_WnYrSjEP"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ittihad",
+   "away": "sa-al-hazem",
+   "date": "2026-08-24",
+   "status": "FT",
+   "score": [
+    3,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Abdulaziz Aldhuwayhi",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "Steven Bergwijn",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Steven Bergwijn",
+     "type": "penalty"
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Sofiane Bendebka",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Steven Bergwijn",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260824&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AD%D8%B2%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/dgi72jj27o29uizez3ciocdwc",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2kzl64gp8x37bon8tyxojqrr1"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-abha",
+   "away": "sa-al-khaleej",
+   "date": "2026-08-25",
+   "status": "FT",
+   "score": [
+    1,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Joshua King",
+     "type": "goal"
+    },
+    {
+     "minute": 24,
+     "side": "home",
+     "player": "Koshaim Al Karani",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260825&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7w4300dn2tnd0eqmbtk531tkx"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-taawoun",
+   "away": "sa-al-fayha",
+   "date": "2026-08-25",
+   "status": "FT",
+   "score": [
+    0,
+    0
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260825&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ebcxfnmnxrxvv6lcjsahgd38j",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/o1iwuxbv233ayidxpibbxy59"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-nassr",
+   "date": "2026-08-25",
+   "status": "FT",
+   "score": [
+    2,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 31,
+     "side": "home",
+     "player": "Ondrej Duda",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 3,
+     "side": "home",
+     "player": "Álvaro Medrán",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Sadio Mané",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Abdulelah Al-Amri",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Sadio Mané",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260825&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/57jcqe38hakh2hfit2zsogsb",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7dkxxicrwn77jpdfkwpnlnnyn"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-shabab",
+   "away": "sa-al-riyadh",
+   "date": "2026-08-25",
+   "status": "FT",
+   "score": [
+    3,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "Trézéguet",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Josh Brownhill",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Leandro Antunes",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "home",
+     "player": "Yannick Carrasco",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Teddy Okou",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Yannick Carrasco",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260825&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2ry1fixv27p3xepazsxcuyoho"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-faisaly",
+   "away": "sa-al-fateh",
+   "date": "2026-08-26",
+   "status": "FT",
+   "score": [
+    1,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 29,
+     "side": "away",
+     "player": "Lukás Haraslín",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Christian Bassogog",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260826&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D8%AA%D8%AD/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aekjg4wbxaixtwu4aicmiju92"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-diriyah",
+   "away": "sa-al-kholood",
+   "date": "2026-08-26",
+   "status": "FT",
+   "score": [
+    1,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 71,
+     "side": "away",
+     "player": "Abdulaziz Al-Aliwa",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "Meshari Al Nemer",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260826&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%88%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/3eha2sarrs9ttx6mnxl92wacq"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-riyadh",
+   "away": "sa-neom",
+   "date": "2026-08-28",
+   "status": "FT",
+   "score": [
+    1,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Teddy Okou",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260828&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%86%D9%8A%D9%88%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/wAkyC3TRtoab_WnYrSjEP"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-fayha",
+   "away": "sa-abha",
+   "date": "2026-08-28",
+   "status": "FT",
+   "score": [
+    3,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Lázaro",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "home",
+     "player": "Lázaro",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "away",
+     "player": "Alimani Gory",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Abdou Diallo",
+     "type": "own-goal"
+    },
+    {
+     "minute": 90,
+     "extra": 4,
+     "side": "away",
+     "player": "Michy Batshuayi",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260828&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ebcxfnmnxrxvv6lcjsahgd38j"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-khaleej",
+   "away": "sa-al-hilal",
+   "date": "2026-08-28",
+   "status": "FT",
+   "score": [
+    1,
+    5
+   ],
+   "goals": [
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "Kader Meïté",
+     "type": "goal"
+    },
+    {
+     "minute": 29,
+     "side": "away",
+     "player": "Sergej Milinkovic-Savic",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Saleh Al-Jamaan",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Theo Hernández",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Crysencio Summerville",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 2,
+     "side": "away",
+     "player": "Sultan Mandash",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260828&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c9swyor08g9pedxpe3n321svu",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7w4300dn2tnd0eqmbtk531tkx"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-nassr",
+   "away": "sa-al-taawoun",
+   "date": "2026-08-28",
+   "status": "FT",
+   "score": [
+    2,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Mohammed Al Hurayji",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 5,
+     "side": "home",
+     "player": "Samú Costa",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "Cristiano Ronaldo",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260828&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/57jcqe38hakh2hfit2zsogsb",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/o1iwuxbv233ayidxpibbxy59"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-kholood",
+   "away": "sa-al-ahli-saudi",
+   "date": "2026-08-29",
+   "status": "FT",
+   "score": [
+    3,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Iker Kortajarena",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "away",
+     "player": "Ivan Toney",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Julien Domingues",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "home",
+     "player": "Muhammad Sawan",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260829&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%88%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/3eha2sarrs9ttx6mnxl92wacq",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aj1bdyuwq8pdwycaa9kba8uni"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-diriyah",
+   "date": "2026-08-29",
+   "status": "FT",
+   "score": [
+    0,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 8,
+     "side": "away",
+     "player": "Darwin Núñez",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Adil Boulbina",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "Darwin Núñez",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260829&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7dkxxicrwn77jpdfkwpnlnnyn"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-fateh",
+   "away": "sa-al-ittihad",
+   "date": "2026-08-29",
+   "status": "FT",
+   "score": [
+    0,
+    0
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260829&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D8%AA%D8%AD/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aekjg4wbxaixtwu4aicmiju92",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2kzl64gp8x37bon8tyxojqrr1"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-hazem",
+   "away": "sa-al-shabab",
+   "date": "2026-08-30",
+   "status": "FT",
+   "score": [
+    1,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 48,
+     "side": "away",
+     "player": "Roger Martínez",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 5,
+     "side": "home",
+     "player": "Afimico Pululu",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260830&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2ry1fixv27p3xepazsxcuyoho",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AD%D8%B2%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/dgi72jj27o29uizez3ciocdwc"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-faisaly",
+   "date": "2026-08-30",
+   "status": "FT",
+   "score": [
+    3,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "home",
+     "player": "Mateo Retegui",
+     "type": "goal"
+    },
+    {
+     "minute": 12,
+     "side": "away",
+     "player": "Abdoulaye Seck",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "Mohammed Abu Al-Shamat",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "home",
+     "player": "Mohammed Al-Shanqiti",
+     "type": "own-goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260830&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/90k2kbbkk2cj55yhkivdqn0ym"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-hilal",
+   "away": "sa-al-ahli-saudi",
+   "date": "2026-09-01",
+   "status": "FT",
+   "score": [
+    3,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 9,
+     "side": "home",
+     "player": "Sergej Milinkovic-Savic",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Crysencio Summerville",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "Ollie Watkins",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260901&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c9swyor08g9pedxpe3n321svu",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aj1bdyuwq8pdwycaa9kba8uni",
+    "https://sabq.org/article/qqmpoha"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-fayha",
+   "away": "sa-al-kholood",
+   "date": "2026-09-03",
+   "status": "FT",
+   "score": [
+    2,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "home",
+     "player": "Hugo Moura",
+     "type": "goal"
+    },
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Iker Kortajarena",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Fashion Sakala",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Julien Domingues",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260903&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%88%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/3eha2sarrs9ttx6mnxl92wacq",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ebcxfnmnxrxvv6lcjsahgd38j"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-neom",
+   "away": "sa-al-khaleej",
+   "date": "2026-09-03",
+   "status": "FT",
+   "score": [
+    3,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "Alexandre Lacazette",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "Muhannad Al-Saad",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Amadou Koné",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260903&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7w4300dn2tnd0eqmbtk531tkx",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%86%D9%8A%D9%88%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/wAkyC3TRtoab_WnYrSjEP"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-diriyah",
+   "away": "sa-al-qadsiah",
+   "date": "2026-09-03",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Mateo Retegui",
+     "type": "penalty"
+    },
+    {
+     "minute": 58,
+     "side": "away",
+     "player": "Julián Quiñones",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260903&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/90k2kbbkk2cj55yhkivdqn0ym"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-abha",
+   "away": "sa-al-ettifaq",
+   "date": "2026-09-04",
+   "status": "FT",
+   "score": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Donovan Léon",
+     "type": "own-goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260904&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7dkxxicrwn77jpdfkwpnlnnyn"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-riyadh",
+   "date": "2026-09-04",
+   "status": "FT",
+   "score": [
+    5,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 16,
+     "side": "home",
+     "player": "Ivan Toney",
+     "type": "penalty"
+    },
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Eduard Spertsyan",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 2,
+     "side": "home",
+     "player": "Francisco Trincão",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Ivan Toney",
+     "type": "penalty"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Naif Masoud",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260904&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aj1bdyuwq8pdwycaa9kba8uni"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-shabab",
+   "away": "sa-al-hilal",
+   "date": "2026-09-04",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Sergej Milinkovic-Savic",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Rúben Neves",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260904&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c9swyor08g9pedxpe3n321svu",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2ry1fixv27p3xepazsxcuyoho"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-faisaly",
+   "away": "sa-al-hazem",
+   "date": "2026-09-05",
+   "status": "FT",
+   "score": [
+    0,
+    0
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260905&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AD%D8%B2%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/dgi72jj27o29uizez3ciocdwc"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-taawoun",
+   "away": "sa-al-fateh",
+   "date": "2026-09-05",
+   "status": "FT",
+   "score": [
+    0,
+    0
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260905&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D8%AA%D8%AD/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aekjg4wbxaixtwu4aicmiju92",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/o1iwuxbv233ayidxpibbxy59"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ittihad",
+   "away": "sa-al-nassr",
+   "date": "2026-09-05",
+   "status": "FT",
+   "score": [
+    2,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "George Ilenikhena",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "home",
+     "player": "George Ilenikhena",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "away",
+     "player": "Ângelo Gabriel",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260905&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/57jcqe38hakh2hfit2zsogsb",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2kzl64gp8x37bon8tyxojqrr1"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-khaleej",
+   "away": "sa-al-riyadh",
+   "date": "2026-09-07",
+   "status": "FT",
+   "score": [
+    0,
+    0
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260907&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7w4300dn2tnd0eqmbtk531tkx"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-hilal",
+   "away": "sa-neom",
+   "date": "2026-09-07",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "Kalidou Koulibaly",
+     "type": "own-goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Amadou Koné",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260907&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c9swyor08g9pedxpe3n321svu",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%86%D9%8A%D9%88%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/wAkyC3TRtoab_WnYrSjEP"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-faisaly",
+   "date": "2026-09-08",
+   "status": "FT",
+   "score": [
+    0,
+    0
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260908&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7dkxxicrwn77jpdfkwpnlnnyn"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-hazem",
+   "away": "sa-al-taawoun",
+   "date": "2026-09-08",
+   "status": "FT",
+   "score": [
+    1,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 3,
+     "side": "home",
+     "player": "Aboubacar Bah",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260908&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/o1iwuxbv233ayidxpibbxy59"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ittihad",
+   "away": "sa-al-fayha",
+   "date": "2026-09-08",
+   "status": "FT",
+   "score": [
+    2,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "George Ilenikhena",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 4,
+     "side": "away",
+     "player": "Jason",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Youssef En-Nesyri",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260908&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ebcxfnmnxrxvv6lcjsahgd38j",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2kzl64gp8x37bon8tyxojqrr1"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-ahli-saudi",
+   "date": "2026-09-08",
+   "status": "FT",
+   "score": [
+    3,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 14,
+     "side": "home",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "home",
+     "player": "Mohammed Abu Al-Shamat",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 3,
+     "side": "home",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "away",
+     "player": "Ivan Toney",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Ivan Toney",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260908&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/90k2kbbkk2cj55yhkivdqn0ym",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aj1bdyuwq8pdwycaa9kba8uni"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-kholood",
+   "away": "sa-al-shabab",
+   "date": "2026-09-09",
+   "status": "FT",
+   "score": [
+    2,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 6,
+     "side": "away",
+     "player": "Roger Martínez",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "Iker Kortajarena",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Abdulrahman Al-Dossari",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260909&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2ry1fixv27p3xepazsxcuyoho",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%88%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/3eha2sarrs9ttx6mnxl92wacq"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-fateh",
+   "away": "sa-al-diriyah",
+   "date": "2026-09-09",
+   "status": "FT",
+   "score": [
+    1,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 28,
+     "side": "away",
+     "player": "Darwin Núñez",
+     "type": "penalty"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Faisal Al Abdulwahed",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 6,
+     "side": "away",
+     "player": "Adil Boulbina",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260909&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D8%AA%D8%AD/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aekjg4wbxaixtwu4aicmiju92"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-nassr",
+   "away": "sa-abha",
+   "date": "2026-09-09",
+   "status": "FT",
+   "score": [
+    2,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 22,
+     "side": "home",
+     "player": "Cristiano Ronaldo",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "Abdullah Al-Hamdan",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "away",
+     "player": "Nabil Fekir",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260909&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/57jcqe38hakh2hfit2zsogsb"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-ettifaq",
+   "date": "2026-09-11",
+   "status": "FT",
+   "score": [
+    3,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Julián Quiñones",
+     "type": "goal"
+    },
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "Mateo Retegui",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "away",
+     "player": "Bersant Celina",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Álvaro Medrán",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Mohammed Al-Qahtani",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Jordan Larsson",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260911&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/90k2kbbkk2cj55yhkivdqn0ym",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D9%81%D8%A7%D9%82/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7dkxxicrwn77jpdfkwpnlnnyn"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-faisaly",
+   "away": "sa-al-ittihad",
+   "date": "2026-09-11",
+   "status": "FT",
+   "score": [
+    1,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 28,
+     "side": "away",
+     "player": "Steven Bergwijn",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Youssef En-Nesyri",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Youssef En-Nesyri",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Théo Bongonda",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260911&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2kzl64gp8x37bon8tyxojqrr1"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-hazem",
+   "date": "2026-09-11",
+   "status": "FT",
+   "score": [
+    3,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 2,
+     "side": "away",
+     "player": "Ahmed Al-Nakhli",
+     "type": "goal"
+    },
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Francisco Trincão",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Ivan Toney",
+     "type": "penalty"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Ivan Toney",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260911&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aj1bdyuwq8pdwycaa9kba8uni"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-taawoun",
+   "away": "sa-al-hilal",
+   "date": "2026-09-12",
+   "status": "FT",
+   "score": [
+    0,
+    6
+   ],
+   "goals": [
+    {
+     "minute": 9,
+     "side": "away",
+     "player": "Ollie Watkins",
+     "type": "goal"
+    },
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Gabriel Martinelli",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Gabriel Martinelli",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Gabriel Martinelli",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Ollie Watkins",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "away",
+     "player": "Sultan Mandash",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260912&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c9swyor08g9pedxpe3n321svu",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/o1iwuxbv233ayidxpibbxy59"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-khaleej",
+   "away": "sa-al-nassr",
+   "date": "2026-09-12",
+   "status": "FT",
+   "score": [
+    1,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "home",
+     "player": "Omar Mascarell",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "away",
+     "player": "Abdullah Al-Hamdan",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260912&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/57jcqe38hakh2hfit2zsogsb",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7w4300dn2tnd0eqmbtk531tkx"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-shabab",
+   "away": "sa-al-fayha",
+   "date": "2026-09-12",
+   "status": "FT",
+   "score": [
+    0,
+    0
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260912&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2ry1fixv27p3xepazsxcuyoho",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ebcxfnmnxrxvv6lcjsahgd38j"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-neom",
+   "away": "sa-al-fateh",
+   "date": "2026-09-13",
+   "status": "FT",
+   "score": [
+    4,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 16,
+     "side": "home",
+     "player": "Alexandre Lacazette",
+     "type": "penalty"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Mourad Batna",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Amadou Koné",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Wilfried Kanga",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Alexandre Lacazette",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Valentin Vada",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260913&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D8%AA%D8%AD/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aekjg4wbxaixtwu4aicmiju92",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%86%D9%8A%D9%88%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/wAkyC3TRtoab_WnYrSjEP"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-diriyah",
+   "away": "sa-abha",
+   "date": "2026-09-13",
+   "status": "FT",
+   "score": [
+    0,
+    0
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260913&limit=37",
+    "https://sabq.org/article/z7u2htz"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-riyadh",
+   "away": "sa-al-kholood",
+   "date": "2026-09-13",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 65,
+     "side": "home",
+     "player": "Abdul Keita",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Rodrigo Abascal",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20260913&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%88%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/3eha2sarrs9ttx6mnxl92wacq"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-kholood",
+   "away": "sa-al-qadsiah",
+   "date": "2026-10-09",
+   "status": "FT",
+   "score": [
+    0,
+    5
+   ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Christopher Bonsu Baah",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Musab Al-Juwayr",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Mateo Retegui",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "away",
+     "player": "Julián Quiñones",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261009&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/90k2kbbkk2cj55yhkivdqn0ym"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-fateh",
+   "away": "sa-al-ahli-saudi",
+   "date": "2026-10-09",
+   "status": "FT",
+   "score": [
+    0,
+    4
+   ],
+   "goals": [
+    {
+     "minute": 31,
+     "side": "away",
+     "player": "Francisco Trincão",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Francisco Trincão",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "away",
+     "player": "Ivan Toney",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Ziyad Al-Johani",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261009&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aj1bdyuwq8pdwycaa9kba8uni"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-nassr",
+   "away": "sa-al-diriyah",
+   "date": "2026-10-09",
+   "status": "FT",
+   "score": [
+    3,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Cristiano Ronaldo",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Samú Costa",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Kingsley Coman",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261009&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/57jcqe38hakh2hfit2zsogsb"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-hazem",
+   "away": "sa-neom",
+   "date": "2026-10-10",
+   "status": "FT",
+   "score": [
+    1,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Aboubacar Diakite",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Saïd Benrahma",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261010&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%86%D9%8A%D9%88%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/wAkyC3TRtoab_WnYrSjEP"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-khaleej",
+   "date": "2026-10-10",
+   "status": "FT",
+   "score": [
+    1,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Joshua King",
+     "type": "penalty"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "Bersant Celina",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261010&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7w4300dn2tnd0eqmbtk531tkx"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-hilal",
+   "away": "sa-al-ittihad",
+   "date": "2026-10-10",
+   "status": "FT",
+   "score": [
+    3,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Gabriel Martinelli",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Youssef En-Nesyri",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "Ollie Watkins",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "Crysencio Summerville",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Steven Bergwijn",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261010&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c9swyor08g9pedxpe3n321svu",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2kzl64gp8x37bon8tyxojqrr1"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-fayha",
+   "away": "sa-al-riyadh",
+   "date": "2026-10-11",
+   "status": "FT",
+   "score": [
+    1,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 16,
+     "side": "home",
+     "player": "Lázaro",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "away",
+     "player": "Trézéguet",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261011&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ebcxfnmnxrxvv6lcjsahgd38j"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-shabab",
+   "away": "sa-al-taawoun",
+   "date": "2026-10-11",
+   "status": "FT",
+   "score": [
+    3,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "home",
+     "player": "Abdullah Saeed",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 6,
+     "side": "home",
+     "player": "Ricardo Mathias",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Yannick Carrasco",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261011&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2ry1fixv27p3xepazsxcuyoho"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-faisaly",
+   "away": "sa-al-kholood",
+   "date": "2026-10-15",
+   "status": "FT",
+   "score": [
+    3,
+    2
+   ],
+   "ht": [
+    2,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Alexandre Mendy",
+     "type": "goal"
+    },
+    {
+     "minute": 19,
+     "side": "away",
+     "player": "Shaquille Pinas",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Julien Domingues",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 4,
+     "side": "home",
+     "player": "Alexandre Mendy",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Alexandre Mendy",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261015&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%A7%D9%84%D9%81%D9%8A%D8%B5%D9%84%D9%8A-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AE%D9%84%D9%88%D8%AF/AxJ0Qk7796AHlwONzGlwK"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-khaleej",
+   "away": "sa-al-fayha",
+   "date": "2026-10-15",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "Joshua King",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Mateo Benegas",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261015&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7w4300dn2tnd0eqmbtk531tkx",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ebcxfnmnxrxvv6lcjsahgd38j"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-hazem",
+   "away": "sa-al-fateh",
+   "date": "2026-10-15",
+   "status": "FT",
+   "score": [
+    2,
+    3
+   ],
+   "ht": [
+    1,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Sofiane Bendebka",
+     "type": "penalty"
+    },
+    {
+     "minute": 27,
+     "side": "away",
+     "player": "Wilfried Kanga",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "Abdulaziz Aldhuwayhi",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Faisal Al Abdulwahed",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 5,
+     "side": "away",
+     "player": "Mourad Batna",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261015&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%A7%D9%84%D8%AD%D8%B2%D9%85-%D8%B6%D8%AF-%D8%A7%D9%84%D9%81%D8%AA%D8%AD/Za3ILeD2ksg-dQyQJSe-R"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-qadsiah",
+   "away": "sa-abha",
+   "date": "2026-10-16",
+   "status": "FT",
+   "score": [
+    2,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "Mateo Retegui",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Mohammed Abu Al-Shamat",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 5,
+     "side": "away",
+     "player": "Alimani Gory",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261016&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/90k2kbbkk2cj55yhkivdqn0ym"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-neom",
+   "away": "sa-al-ettifaq",
+   "date": "2026-10-17",
+   "status": "FT",
+   "score": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Abdullah Khateeb",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261017&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%86%D9%8A%D9%88%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/wAkyC3TRtoab_WnYrSjEP"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-diriyah",
+   "away": "sa-al-taawoun",
+   "date": "2026-10-17",
+   "status": "FT",
+   "score": [
+    1,
+    1
+   ],
+   "ht": [
+    0,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "Clayton Diandy",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Abderrazak Hamdallah",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261017&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%A7%D9%84%D8%AF%D8%B1%D8%B9%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%88%D9%86/rznfBQjCdkmISJU0EcGxP"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-fateh",
+   "away": "sa-al-khaleej",
+   "date": "2026-10-18",
+   "status": "FT",
+   "score": [
+    2,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 33,
+     "side": "home",
+     "player": "Lukás Haraslín",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Wilfried Kanga",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Musa Barrow",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "away",
+     "player": "Joshua King",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 3,
+     "side": "away",
+     "player": "Omar Mascarell",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261018&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7w4300dn2tnd0eqmbtk531tkx",
+    "https://www.365scores.com/football/league/saudi-league-649"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-fayha",
+   "away": "sa-al-ahli-saudi",
+   "date": "2026-10-19",
+   "status": "FT",
+   "score": [
+    2,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 44,
+     "side": "home",
+     "player": "Hugo Moura",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 3,
+     "side": "away",
+     "player": "Artem Bondarenko",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Feras Al-Brikan",
+     "type": "penalty"
+    },
+    {
+     "minute": 65,
+     "side": "home",
+     "player": "Jason",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "away",
+     "player": "Artem Bondarenko",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261019&limit=37",
+    "https://www.365scores.com/football/league/saudi-league-649",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ebcxfnmnxrxvv6lcjsahgd38j",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aj1bdyuwq8pdwycaa9kba8uni"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-hilal",
+   "away": "sa-al-hazem",
+   "date": "2026-10-19",
+   "status": "FT",
+   "score": [
+    1,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Gabriel Martinelli",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261019&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c9swyor08g9pedxpe3n321svu",
+    "https://www.365scores.com/football/league/saudi-league-649"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-shabab",
+   "away": "sa-al-faisaly",
+   "date": "2026-10-19",
+   "status": "FT",
+   "score": [
+    2,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Josh Brownhill",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "Josh Brownhill",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "away",
+     "player": "Andrei Girotto",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Alexandre Mendy",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261019&limit=37",
+    "https://www.365scores.com/football/league/saudi-league-649"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-diriyah",
+   "away": "sa-al-riyadh",
+   "date": "2026-10-20",
+   "status": "FT",
+   "score": [
+    1,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "Óscar Rodríguez",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261020&limit=37",
+    "https://www.365scores.com/football/league/saudi-league-649"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-taawoun",
+   "away": "sa-al-qadsiah",
+   "date": "2026-10-20",
+   "status": "FT",
+   "score": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 90,
+     "extra": 6,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261020&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/90k2kbbkk2cj55yhkivdqn0ym",
+    "https://www.365scores.com/football/league/saudi-league-649"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-ittihad",
+   "date": "2026-10-20",
+   "status": "FT",
+   "score": [
+    1,
+    4
+   ],
+   "goals": [
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "George Ilenikhena",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "Sultan Ali Harun",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Houssem Aouar",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Youssef En-Nesyri",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Youssef En-Nesyri",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261020&limit=37",
+    "https://www.365scores.com/football/league/saudi-league-649",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/2kzl64gp8x37bon8tyxojqrr1"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-nassr",
+   "away": "sa-neom",
+   "date": "2026-10-20",
+   "status": "FT",
+   "score": [
+    1,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "João Félix",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261020&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/57jcqe38hakh2hfit2zsogsb",
+    "https://www.365scores.com/football/league/saudi-league-649",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%86%D9%8A%D9%88%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/wAkyC3TRtoab_WnYrSjEP"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-hazem",
+   "away": "sa-al-fayha",
+   "date": "2026-10-22",
+   "status": "FT",
+   "score": [
+    2,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "home",
+     "player": "Bonheur Mugisha",
+     "type": "goal"
+    },
+    {
+     "minute": 33,
+     "side": "away",
+     "player": "Fashion Sakala",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Sultan Tanker",
+     "type": "own-goal"
+    },
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Amir Sayoud",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261022&limit=37",
+    "https://www.365scores.com/football/league/saudi-league-649",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%81%D9%8A%D8%AD%D8%A7%D8%A1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/ebcxfnmnxrxvv6lcjsahgd38j"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-fateh",
+   "away": "sa-al-shabab",
+   "date": "2026-10-22",
+   "status": "FT",
+   "score": [
+    1,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Ricardo Mathias",
+     "type": "goal"
+    },
+    {
+     "minute": 31,
+     "side": "away",
+     "player": "Ali Al-Bulayhi",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "Lukás Haraslín",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Ali Al-Bulayhi",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261022&limit=37",
+    "https://www.365scores.com/football/league/saudi-league-649"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-faisaly",
+   "away": "sa-al-nassr",
+   "date": "2026-10-23",
+   "status": "FT",
+   "score": [
+    1,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "away",
+     "player": "Abdullah Al-Hamdan",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Andrei Girotto",
+     "type": "own-goal"
+    },
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "Théo Bongonda",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Ângelo Gabriel",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261023&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%86%D8%B5%D8%B1/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/57jcqe38hakh2hfit2zsogsb",
+    "https://www.365scores.com/football/league/saudi-league-649"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ittihad",
+   "away": "sa-al-diriyah",
+   "date": "2026-10-23",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "George Ilenikhena",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Georginio Wijnaldum",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261023&limit=37",
+    "https://www.365scores.com/football/league/saudi-league-649"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-khaleej",
+   "date": "2026-10-23",
+   "status": "FT",
+   "score": [
+    4,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Ivan Toney",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Artem Bondarenko",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Francisco Trincão",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Thamer Al Khaibri",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 6,
+     "side": "home",
+     "player": "Ivan Toney",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261023&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/7w4300dn2tnd0eqmbtk531tkx",
+    "https://www.365scores.com/football/league/saudi-league-649",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D8%A7%D9%94%D9%87%D9%84%D9%8A/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/aj1bdyuwq8pdwycaa9kba8uni"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-hilal",
+   "date": "2026-10-23",
+   "status": "FT",
+   "score": [
+    2,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 21,
+     "side": "away",
+     "player": "Gabriel Martinelli",
+     "type": "goal"
+    },
+    {
+     "minute": 31,
+     "side": "home",
+     "player": "Julián Quiñones",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Rúben Neves",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "away",
+     "player": "Sergej Milinkovic-Savic",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Mateo Retegui",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261023&limit=37",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%87%D9%84%D8%A7%D9%84/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/c9swyor08g9pedxpe3n321svu",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B3%D9%8A%D8%A9/%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA/90k2kbbkk2cj55yhkivdqn0ym",
+    "https://www.365scores.com/football/league/saudi-league-649"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-neom",
+   "away": "sa-abha",
+   "date": "2026-10-24",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "Saïd Benrahma",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "Alexandre Lacazette",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261024&limit=37",
+    "https://www.365scores.com/football/league/saudi-league-649"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-kholood",
+   "away": "sa-al-ettifaq",
+   "date": "2026-10-24",
+   "status": "FT",
+   "score": [
+    0,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 45,
+     "extra": 3,
+     "side": "away",
+     "player": "Khalid Al-Ghannam",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "away",
+     "player": "Khalid Al-Ghannam",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Bersant Celina",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261024&limit=37",
+    "https://www.365scores.com/football/league/saudi-league-649"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "home": "sa-al-riyadh",
+   "away": "sa-al-taawoun",
+   "date": "2026-10-24",
+   "status": "FT",
+   "score": [
+    2,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "Teddy Okou",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "Bernard Mensah",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Nedim Bajrami",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261024&limit=37",
+    "https://www.365scores.com/football/league/saudi-league-649"
+   ]
+  }
+ ],
+ "unconfirmed": [],
+ "notes": [
+  "All 94 matches played 13 Aug-24 Oct 2026 (UTC) are here: rounds 1-7 and 11 complete (9 each; round 3's Al Hilal v Al Ahli was played on 1 Sep), rounds 8 and 10 have 8, round 9 has 6. The 5 unplayed matches of rounds 8-10 are in the postponed note. 10 results are 0-0 and carry no goals list; the other 84 list every goal. Results and kick-offs below are from the ESPN feed (Tier 2, UTC). Every score is confirmed by Kooora and/or 365Scores (enough alone), plus Sabq/SPA for 3 matches. No source disagreed on any score.",
+  "Round 1 (9 played) - label: SPA preview https://www.spa.gov.sa/N2640807 lists all nine round-1 fixtures (its KSA times match ESPN): 13 Aug 16:15Z Abha v Al Hazem 1-2 (ESPN 401900410); 13 Aug 18:00Z Al Diriyah v Al Ahli 0-1 (ESPN 401900408); 13 Aug 18:00Z Al Shabab v Al Qadsiah 1-3 (ESPN 401900409); 14 Aug 16:50Z NEOM v Al Fayha 2-1 (ESPN 401900407); 14 Aug 18:00Z Al Ettifaq v Al Riyadh 4-2 (ESPN 401900406); 14 Aug 18:00Z Al Hilal v Al Faisaly 4-2 (ESPN 401900405); 15 Aug 16:15Z Al Taawoun v Al Khaleej 0-0 (ESPN 401900404); 15 Aug 18:00Z Al Ittihad v Al Kholood 1-1 (ESPN 401900403); 15 Aug 18:00Z Al Nassr v Al Fateh 3-0 (ESPN 401900402)",
+  "Round 2 (9 played) - label: SPA preview https://www.spa.gov.sa/en/N2658021 lists all nine; SPA https://spa.gov.sa/en/N2658759 calls Al Fayha v Al Hilal 'second round': 20 Aug 18:00Z Al Fayha v Al Hilal 0-3 (ESPN 401900401); 21 Aug 16:00Z Al Riyadh v Al Nassr 0-4 (ESPN 401900400); 21 Aug 16:15Z Al Hazem v Al Diriyah 0-1 (ESPN 401900399); 21 Aug 18:00Z Al Faisaly v NEOM 0-2 (ESPN 401900398); 21 Aug 18:00Z Al Qadsiah v Al Ittihad 0-1 (ESPN 401900397); 22 Aug 15:45Z Al Fateh v Al Ettifaq 0-1 (ESPN 401900396); 22 Aug 16:10Z Al Kholood v Al Taawoun 3-2 (ESPN 401900395); 22 Aug 18:00Z Al Ahli v Abha 4-0 (ESPN 401900393); 22 Aug 18:00Z Al Khaleej v Al Shabab 0-0 (ESPN 401900394)",
+  "Round 3 (9 played) - label: date block; Sabq https://sabq.org/article/qqmpoha says Al Hilal v Al Ahli (Tue 1 Sep) was round 3's postponed match: 24 Aug 16:40Z NEOM v Al Qadsiah 0-2 (ESPN 401900392); 24 Aug 18:00Z Al Ittihad v Al Hazem 3-2 (ESPN 401900391); 25 Aug 16:05Z Abha v Al Khaleej 1-1 (ESPN 401900390); 25 Aug 16:10Z Al Taawoun v Al Fayha 0-0 (ESPN 401900389); 25 Aug 18:00Z Al Ettifaq v Al Nassr 2-3 (ESPN 401900388); 25 Aug 18:00Z Al Shabab v Al Riyadh 3-3 (ESPN 401900387); 26 Aug 16:00Z Al Faisaly v Al Fateh 1-1 (ESPN 401900386); 26 Aug 18:00Z Al Diriyah v Al Kholood 1-1 (ESPN 401900385); 01 Sep 18:00Z Al Hilal v Al Ahli 3-0 (ESPN 401900375)",
+  "Round 4 (9 played) - label: SPA round-4 wrap-up https://www.spa.gov.sa/N2664804 (its summary as read named Al Fayha instead of Al Faisaly for Al Qadsiah 3-1; ESPN and Kooora say Al Faisaly): 28 Aug 15:50Z Al Riyadh v NEOM 1-0 (ESPN 401900384); 28 Aug 16:00Z Al Fayha v Abha 3-2 (ESPN 401900383); 28 Aug 18:00Z Al Khaleej v Al Hilal 1-5 (ESPN 401900382); 28 Aug 18:00Z Al Nassr v Al Taawoun 2-1 (ESPN 401900381); 29 Aug 16:05Z Al Kholood v Al Ahli 3-1 (ESPN 401900380); 29 Aug 18:00Z Al Ettifaq v Al Diriyah 0-3 (ESPN 401900379); 29 Aug 18:00Z Al Fateh v Al Ittihad 0-0 (ESPN 401900378); 30 Aug 16:05Z Al Hazem v Al Shabab 1-1 (ESPN 401900377); 30 Aug 18:00Z Al Qadsiah v Al Faisaly 3-1 (ESPN 401900376)",
+  "Round 5 (9 played) - label: date block (each club once); SPA search-result title (not opened) calls Al Ahli v Al Riyadh 'Matchweek 5': 03 Sep 15:55Z Al Fayha v Al Kholood 2-2 (ESPN 401900374); 03 Sep 16:30Z NEOM v Al Khaleej 3-0 (ESPN 401900373); 03 Sep 18:00Z Al Diriyah v Al Qadsiah 0-2 (ESPN 401900372); 04 Sep 16:00Z Abha v Al Ettifaq 0-1 (ESPN 401900371); 04 Sep 18:00Z Al Ahli v Al Riyadh 5-0 (ESPN 401900369); 04 Sep 18:00Z Al Shabab v Al Hilal 0-2 (ESPN 401900370); 05 Sep 15:50Z Al Faisaly v Al Hazem 0-0 (ESPN 401900368); 05 Sep 15:55Z Al Taawoun v Al Fateh 0-0 (ESPN 401900367); 05 Sep 18:00Z Al Ittihad v Al Nassr 2-1 (ESPN 401900366)",
+  "Round 6 (9 played) - label: date block; SPA search-result titles (not opened) call Al Hilal v NEOM and Al Ettifaq v Al Faisaly 'round 6': 07 Sep 15:30Z Al Khaleej v Al Riyadh 0-0 (ESPN 401900365); 07 Sep 18:00Z Al Hilal v NEOM 0-2 (ESPN 401900364); 08 Sep 15:30Z Al Ettifaq v Al Faisaly 0-0 (ESPN 401900363); 08 Sep 15:55Z Al Hazem v Al Taawoun 1-0 (ESPN 401900362); 08 Sep 18:00Z Al Ittihad v Al Fayha 2-1 (ESPN 401900360); 08 Sep 18:00Z Al Qadsiah v Al Ahli 3-2 (ESPN 401900361); 09 Sep 15:55Z Al Kholood v Al Shabab 2-1 (ESPN 401900359); 09 Sep 18:00Z Al Fateh v Al Diriyah 1-2 (ESPN 401900358); 09 Sep 18:00Z Al Nassr v Abha 2-1 (ESPN 401900357)",
+  "Round 7 (9 played) - label: Sabq https://sabq.org/article/z7u2htz (Al Diriyah v Abha, round 7); spl.com.sa talking points (16 Sep) put Martinelli's hat-trick (Al Taawoun 0-6 Al Hilal) in matchweek 7: 11 Sep 15:25Z Al Qadsiah v Al Ettifaq 3-3 (ESPN 401900920); 11 Sep 15:45Z Al Faisaly v Al Ittihad 1-3 (ESPN 401900451); 11 Sep 18:00Z Al Ahli v Al Hazem 3-1 (ESPN 401900922); 12 Sep 15:50Z Al Taawoun v Al Hilal 0-6 (ESPN 401900917); 12 Sep 18:00Z Al Khaleej v Al Nassr 1-1 (ESPN 401900921); 12 Sep 18:00Z Al Shabab v Al Fayha 0-0 (ESPN 401900918); 13 Sep 16:20Z NEOM v Al Fateh 4-2 (ESPN 401900915); 13 Sep 18:00Z Al Diriyah v Abha 0-0 (ESPN 401900916); 13 Sep 18:00Z Al Riyadh v Al Kholood 2-0 (ESPN 401900919)",
+  "Round 8 (8 played) - label: SPA preview https://www.spa.gov.sa/N2696782 lists all nine incl. Abha v Al Faisaly (Sun 11 Oct 18:25 KSA = 15:25 UTC, postponed); its KSA times match ESPN: 09 Oct 13:50Z Al Kholood v Al Qadsiah 0-5 (ESPN 401900908); 09 Oct 14:55Z Al Fateh v Al Ahli 0-4 (ESPN 401900912); 09 Oct 18:00Z Al Nassr v Al Diriyah 3-0 (ESPN 401900907); 10 Oct 13:50Z Al Hazem v NEOM 1-1 (ESPN 401900910); 10 Oct 14:55Z Al Ettifaq v Al Khaleej 1-1 (ESPN 401900913); 10 Oct 18:00Z Al Hilal v Al Ittihad 3-2 (ESPN 401900909); 11 Oct 13:40Z Al Fayha v Al Riyadh 1-1 (ESPN 401900911); 11 Oct 18:00Z Al Shabab v Al Taawoun 3-0 (ESPN 401900906)",
+  "Round 9 (6 played) - label: Kooora match pages show 'الجولة 9' for Al Faisaly v Al Kholood, Al Hazem v Al Fateh, Al Diriyah v Al Taawoun (and for the unplayed Al Ahli v Al Nassr); others by date block: 15 Oct 13:40Z Al Faisaly v Al Kholood 3-2 (ESPN 401900450); 15 Oct 14:50Z Al Khaleej v Al Fayha 2-0 (ESPN 401900902); 15 Oct 15:15Z Al Hazem v Al Fateh 2-3 (ESPN 401900904); 16 Oct 13:15Z Al Qadsiah v Abha 2-1 (ESPN 401900901); 17 Oct 15:40Z NEOM v Al Ettifaq 0-1 (ESPN 401900899); 17 Oct 18:00Z Al Diriyah v Al Taawoun 1-1 (ESPN 401900449)",
+  "Round 10 (8 played) - label: 365Scores league page https://www.365scores.com/football/league/saudi-league-649 (round 10 for every match listed): 18 Oct 18:00Z Al Fateh v Al Khaleej 2-3 (ESPN 401900447); 19 Oct 15:05Z Al Fayha v Al Ahli 2-3 (ESPN 401900897); 19 Oct 18:00Z Al Hilal v Al Hazem 1-0 (ESPN 401900896); 19 Oct 18:00Z Al Shabab v Al Faisaly 2-2 (ESPN 401900895); 20 Oct 15:00Z Al Diriyah v Al Riyadh 1-0 (ESPN 401900893); 20 Oct 15:10Z Al Taawoun v Al Qadsiah 0-1 (ESPN 401900894); 20 Oct 18:00Z Al Ettifaq v Al Ittihad 1-4 (ESPN 401900448); 20 Oct 18:00Z Al Nassr v NEOM 1-0 (ESPN 401900446)",
+  "Round 11 (9 played) - label: 365Scores league page (round 11 for every match listed): 22 Oct 13:40Z Al Hazem v Al Fayha 2-2 (ESPN 401900891); 22 Oct 14:45Z Al Fateh v Al Shabab 1-3 (ESPN 401900445); 23 Oct 13:30Z Al Faisaly v Al Nassr 1-3 (ESPN 401900444); 23 Oct 15:30Z Al Ittihad v Al Diriyah 2-0 (ESPN 401900890); 23 Oct 18:00Z Al Ahli v Al Khaleej 4-1 (ESPN 401900892); 23 Oct 18:00Z Al Qadsiah v Al Hilal 2-3 (ESPN 401900888); 24 Oct 14:00Z NEOM v Abha 2-0 (ESPN 401900886); 24 Oct 15:05Z Al Kholood v Al Ettifaq 0-3 (ESPN 401900889); 24 Oct 18:00Z Al Riyadh v Al Taawoun 2-1 (ESPN 401900887)",
+  "Postponed / unplayed (no result op): (1) Round 8 Abha v Al Faisaly: SPA preview had it Sun 11 Oct 2026 15:25 UTC (Damac Club stadium, Khamis Mushait); one ESPN read of 11 Oct shows event 401900914 'Postponed'; 365Scores league page and Kooora match page (round 8) now show 27 Oct 2026 12:40 UTC, Prince Sultan bin Abdulaziz Sports City. (2) Round 9 Al Riyadh v Al Hilal: not played in round 9; Kooora Al Hilal page lists it 19 Dec 2026 (09:45 as displayed, = 14:45 UTC). (3) Round 9 Al Ittihad v Al Shabab: Kooora Al Ittihad and Al Shabab pages list it 19 Dec 2026 (12:30 displayed, = 17:30 UTC). (4) Round 9 Al Ahli v Al Nassr: Kooora match page (round 9) shows 6 Mar 2027 (14:00 displayed, = 19:00 UTC), Alinma Stadium. (5) Round 10 Abha v Al Kholood: 365Scores shows the 19 Oct 2026 15:20 UTC match 'Postponed' and a new fixture 7 Dec 2026 13:40 UTC. No source I read gave a reason for any postponement. The new times in (2)-(4) are Kooora-only and may be placeholders.",
+  "Kooora shows kick-off times to the reader in US Eastern time: UTC-4 until 1 Nov 2026, UTC-5 after. October checks: Al Faisaly v Al Kholood 09:40 vs ESPN 13:40Z, Al Hazem v Al Fateh 11:15 vs 15:15Z, Al Diriyah v Al Taawoun 14:00 vs 18:00Z, Abha v Al Faisaly 08:40 vs 365Scores 12:40. November check: round-13 matches on 5 Nov show 12:00 on Kooora and 17:00 on 365Scores. 365Scores shows UTC. Kooora also shows 12:00 for most future matches, which looks like a placeholder.",
+  "Goals are from the ESPN feed (one page per date lists every scoring play with its minute). I read every date twice through different links: first site.web.api.espn.com with &limit=37, then site.api.espn.com with &lang=en&region=us. Where that second link was stale (11, 17 and 18 Oct) I used &limit=50 or site.web with &lang=en&region=us. Both reads were identical for all 94 matches. Independent spot checks also matched: SPA (Al Fayha 0-3 Al Hilal: 31', 46', 88'), Sabq (Al Hilal 3-0 Al Ahli: 9', 23', 86'), and Kooora match pages (every minute for the 3 round-9 matches). spl.com.sa (16 Sep) gives tallies after matchweek 7 that agree with the ESPN goals: Toney 10, Lacazette 5, Ilenikhena 4.",
+  "Own goals: ESPN credits each own goal to the team that benefits, and 'player' is the player who scored it. 28 Aug Al Fayha v Abha 87' Abdou Diallo (for Al Fayha); 30 Aug Al Qadsiah v Al Faisaly 56' Mohammed Al-Shanqiti (for Al Qadsiah); 4 Sep Abha v Al Ettifaq 80' Donovan Léon (for Al Ettifaq); 7 Sep Al Hilal v NEOM 15' Kalidou Koulibaly (for NEOM); 22 Oct Al Hazem v Al Fayha 69' Sultan Tanker (for Al Fayha); 23 Oct Al Faisaly v Al Nassr 49' Andrei Girotto (for Al Nassr).",
+  "Half-time is given only for the 3 matches whose Kooora match page shows it (Al Faisaly 3-2 Al Kholood HT 2-2, Al Hazem 2-3 Al Fateh HT 1-1, Al Diriyah 1-1 Al Taawoun HT 0-0). Each agrees with the goal minutes. The ESPN feed has no half-time score.",
+  "Source behaviour: Kooora team 'matches' pages (…/فريق/<club>/مباريات/<id>) open and list a club's whole season. Copies for Al Shabab, Al Ettifaq, Al Hazem, Al Kholood, Al Fateh and Al Taawoun were stale, with later matches still shown as scheduled, so only their finished rows were used. Kooora's 'الأهلي' page 1q2hx9… is the Egyptian club; the Saudi Al Ahli page is …/aj1bdyuwq8pdwycaa9kba8uni. The Kooora competition matches page is refused (URL too long). spl.com.sa match and fixtures pages are JavaScript-only, though its news pages are readable. 365Scores pair pages (…/saudi-league-649/<team>-<team>-…) show the upcoming reverse fixture, not the played match, so only its league page was used. A constructed 365Scores API link was refused by the fetch tool.",
+  "Venues (ESPN) that may help the venue agent: Al Kholood hosted at Al-Hazm Club Stadium. Al Diriyah hosted at Al-Awwal Park, except Al Riyadh on 20 Oct at Prince Faisal bin Fahd Stadium. Al Riyadh hosted at Prince Faisal bin Fahd Stadium, except Al Taawoun on 24 Oct at Al-Shabab Club Stadium. Al Faisaly and Al Fayha both host at Al Majma'a Sport City Stadium. Al Ahli and Al Ittihad used both King Abdullah Sports City and Prince Abdullah Al-Faisal Stadium."
+ ]
+}

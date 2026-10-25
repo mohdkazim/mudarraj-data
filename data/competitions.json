@@ -1690,5 +1690,226 @@
         "region": null
       }
     ]
+  },
+  {
+    "id": "saudi-pro-league",
+    "name": {
+      "en": "Roshn Saudi League",
+      "ar": "دوري روشن السعودي"
+    },
+    "season": "2026-27",
+    "format": "league",
+    "since": 2,
+    "stages": [
+      {
+        "key": "regular",
+        "type": "league",
+        "name": {
+          "en": "Regular season",
+          "ar": "الموسم المنتظم"
+        },
+        "order": 0
+      }
+    ],
+    "tables": [
+      {
+        "id": "overall",
+        "name": null,
+        "stage": "regular",
+        "group": null,
+        "teams": [
+          "sa-al-hilal",
+          "sa-al-nassr",
+          "sa-al-ittihad",
+          "sa-al-ahli-saudi",
+          "sa-al-qadsiah",
+          "sa-al-taawoun",
+          "sa-al-ettifaq",
+          "sa-al-shabab",
+          "sa-al-fateh",
+          "sa-al-khaleej",
+          "sa-al-fayha",
+          "sa-al-kholood",
+          "sa-al-riyadh",
+          "sa-al-hazem",
+          "sa-neom",
+          "sa-abha",
+          "sa-al-diriyah",
+          "sa-al-faisaly"
+        ],
+        "tiebreak": "points-gd-gf",
+        "zones": [
+          {
+            "from": 16,
+            "to": 18,
+            "zone": "relegation"
+          }
+        ]
+      }
+    ],
+    "rounds": []
+  },
+  {
+    "id": "saudi-kings-cup",
+    "name": {
+      "en": "King's Cup",
+      "ar": "كأس خادم الحرمين الشريفين"
+    },
+    "season": "2026-27",
+    "format": "knockout",
+    "since": 2,
+    "stages": [
+      {
+        "key": "r32",
+        "type": "knockout",
+        "name": {
+          "en": "Round of 32",
+          "ar": "دور الـ32"
+        },
+        "order": 0
+      },
+      {
+        "key": "r16",
+        "type": "knockout",
+        "name": {
+          "en": "Round of 16",
+          "ar": "دور الـ16"
+        },
+        "order": 1
+      },
+      {
+        "key": "qf",
+        "type": "knockout",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 2
+      },
+      {
+        "key": "sf",
+        "type": "knockout",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 3
+      },
+      {
+        "key": "final",
+        "type": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 4
+      }
+    ],
+    "tables": [],
+    "rounds": [
+      {
+        "key": "r32",
+        "name": {
+          "en": "Round of 32",
+          "ar": "دور الـ32"
+        },
+        "order": 0,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "r16",
+        "name": {
+          "en": "Round of 16",
+          "ar": "دور الـ16"
+        },
+        "order": 1,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "qf",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 2,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "sf",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 3,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 4,
+        "legs": 1,
+        "region": null
+      }
+    ]
+  },
+  {
+    "id": "saudi-super-cup",
+    "name": {
+      "en": "Saudi Super Cup",
+      "ar": "كأس السوبر السعودي"
+    },
+    "season": "2026-27",
+    "format": "knockout",
+    "since": 2,
+    "stages": [
+      {
+        "key": "sf",
+        "type": "knockout",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 0
+      },
+      {
+        "key": "final",
+        "type": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 1
+      }
+    ],
+    "tables": [],
+    "rounds": [
+      {
+        "key": "sf",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 0,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 1,
+        "legs": 1,
+        "region": null
+      }
+    ]
   }
 ]

@@ -1704,3 +1704,494 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result ucl-2026-27-league-phase-r03-gb-eng-aston-villa-no-viking added scorers to the confirmed result
   - ✓ result ucl-2026-27-league-phase-r03-it-inter-milan-ua-shakhtar-donetsk added scorers to the confirmed result
   - ✓ result ucl-2026-27-league-phase-r03-pt-sporting-cp-at-lask added scorers to the confirmed result
+
+## 2026-10-25 (2026-10-25T09:30:00Z)
+- 22 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ team sa-abha team sa-abha added
+  - ✓ team-venue sa-abha stadium set: Prince Sultan bin Abdulaziz Sports City Stadium
+  - ✓ team sa-al-diriyah team sa-al-diriyah added
+  - ✓ team-venue sa-al-diriyah stadium set: Al-Awwal Park
+  - ✓ team sa-al-faisaly team sa-al-faisaly added
+  - ✓ team-venue sa-al-faisaly stadium set: Al Majma'ah Sports City
+  - ✓ team sa-al-fateh team sa-al-fateh added
+  - ✓ team-venue sa-al-fateh stadium set: Maydan Tamweel Aloula
+  - ✓ team sa-al-fayha team sa-al-fayha added
+  - ✓ team-venue sa-al-fayha stadium set: Al Majma'ah Sports City
+  - ✓ team sa-al-hazem team sa-al-hazem added
+  - ✓ team-venue sa-al-hazem stadium set: Al Hazem Club Stadium
+  - ✓ team sa-al-khaleej team sa-al-khaleej added
+  - ✓ team-venue sa-al-khaleej stadium set: Prince Mohammed bin Fahd Stadium
+  - ✓ team sa-al-kholood team sa-al-kholood added
+  - ✓ team-venue sa-al-kholood stadium set: Al Hazem Club Stadium
+  - ✓ team sa-al-riyadh team sa-al-riyadh added
+  - ✓ team-venue sa-al-riyadh stadium set: Prince Faisal bin Fahd Sports City
+  - ✓ team sa-al-shabab team sa-al-shabab added
+  - ✓ team-venue sa-al-shabab stadium set: SHG Arena
+  - ✓ team-venue sa-neom stadium set: King Khalid Sports City
+  - ✓ venue gulf-club-cl-2026-27-groups-ga-r01-sa-neom-ye-shaab-hadramaut venue Al-Watani Club Stadium
+
+## 2026-10-25 (2026-10-25T09:16:00Z)
+- 306 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ fixture saudi-pro-league-2026-27-regular-r01-sa-abha-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r01-sa-al-diriyah-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r01-sa-al-shabab-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r01-sa-neom-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r01-sa-al-ettifaq-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r01-sa-al-hilal-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r01-sa-al-taawoun-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r01-sa-al-ittihad-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r01-sa-al-nassr-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r02-sa-al-fayha-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r02-sa-al-riyadh-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r02-sa-al-hazem-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r02-sa-al-faisaly-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r02-sa-al-qadsiah-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r02-sa-al-fateh-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r02-sa-al-kholood-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r02-sa-al-ahli-saudi-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r02-sa-al-khaleej-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r03-sa-neom-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r03-sa-al-ittihad-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r03-sa-abha-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r03-sa-al-taawoun-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r03-sa-al-ettifaq-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r03-sa-al-shabab-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r03-sa-al-faisaly-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r03-sa-al-diriyah-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r03-sa-al-hilal-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r04-sa-al-riyadh-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r04-sa-al-fayha-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r04-sa-al-khaleej-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r04-sa-al-nassr-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r04-sa-al-kholood-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r04-sa-al-ettifaq-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r04-sa-al-fateh-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r04-sa-al-hazem-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r04-sa-al-qadsiah-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r05-sa-al-fayha-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r05-sa-neom-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r05-sa-al-diriyah-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r05-sa-abha-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r05-sa-al-ahli-saudi-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r05-sa-al-shabab-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r05-sa-al-faisaly-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r05-sa-al-taawoun-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r05-sa-al-ittihad-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r06-sa-al-khaleej-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r06-sa-al-hilal-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r06-sa-al-ettifaq-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r06-sa-al-hazem-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r06-sa-al-ittihad-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r06-sa-al-qadsiah-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r06-sa-al-kholood-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r06-sa-al-fateh-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r06-sa-al-nassr-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r07-sa-al-qadsiah-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r07-sa-al-faisaly-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r07-sa-al-ahli-saudi-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r07-sa-al-taawoun-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r07-sa-al-khaleej-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r07-sa-al-shabab-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r07-sa-neom-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r07-sa-al-diriyah-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r07-sa-al-riyadh-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r08-sa-al-kholood-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r08-sa-al-fateh-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r08-sa-al-nassr-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r08-sa-al-hazem-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r08-sa-al-ettifaq-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r08-sa-al-hilal-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r08-sa-al-fayha-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r08-sa-al-shabab-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r08-sa-abha-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-faisaly-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-khaleej-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-hazem-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-qadsiah-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-neom-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-diriyah-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-riyadh-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-ittihad-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r10-sa-al-fateh-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r10-sa-al-fayha-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r10-sa-al-hilal-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r10-sa-al-shabab-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r10-sa-al-diriyah-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r10-sa-al-taawoun-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r10-sa-al-ettifaq-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r10-sa-al-nassr-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r10-sa-abha-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r11-sa-al-hazem-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r11-sa-al-fateh-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r11-sa-al-faisaly-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r11-sa-al-ittihad-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r11-sa-al-ahli-saudi-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r11-sa-al-qadsiah-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r11-sa-neom-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r11-sa-al-kholood-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r11-sa-al-riyadh-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r12-sa-al-khaleej-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r12-sa-al-nassr-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r12-sa-al-riyadh-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r12-sa-abha-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r12-sa-al-diriyah-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r12-sa-al-shabab-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r12-sa-al-taawoun-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r12-sa-al-fayha-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r12-sa-al-hilal-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-abha-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-ahli-saudi-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-ettifaq-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-faisaly-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-fateh-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-hazem-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-ittihad-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-ahli-saudi-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-fayha-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-hilal-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-khaleej-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-nassr-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-riyadh-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-shabab-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-taawoun-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-neom-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r15-sa-abha-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r15-sa-al-diriyah-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r15-sa-al-ettifaq-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r15-sa-al-faisaly-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r15-sa-al-ittihad-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r15-sa-al-kholood-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r15-sa-al-nassr-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r15-sa-al-qadsiah-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r15-sa-neom-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r16-sa-al-ahli-saudi-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r16-sa-al-fateh-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r16-sa-al-fayha-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r16-sa-al-hazem-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r16-sa-al-hilal-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r16-sa-al-khaleej-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r16-sa-al-riyadh-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r16-sa-al-shabab-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r16-sa-al-taawoun-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r17-sa-abha-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r17-sa-al-diriyah-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r17-sa-al-ettifaq-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r17-sa-al-faisaly-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r17-sa-al-ittihad-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r17-sa-al-kholood-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r17-sa-al-nassr-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r17-sa-al-qadsiah-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r17-sa-neom-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r18-sa-al-ahli-saudi-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r18-sa-al-faisaly-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r18-sa-al-fateh-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r18-sa-al-fayha-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r18-sa-al-hazem-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r18-sa-al-khaleej-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r18-sa-al-kholood-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r18-sa-al-qadsiah-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r18-sa-al-riyadh-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r19-sa-abha-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r19-sa-al-diriyah-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r19-sa-al-ettifaq-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r19-sa-al-hilal-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r19-sa-al-ittihad-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r19-sa-al-nassr-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r19-sa-al-shabab-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r19-sa-al-taawoun-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r19-sa-neom-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r20-sa-al-ahli-saudi-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r20-sa-al-fateh-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r20-sa-al-fayha-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r20-sa-al-hazem-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r20-sa-al-khaleej-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r20-sa-al-kholood-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r20-sa-al-nassr-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r20-sa-al-qadsiah-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r20-sa-al-riyadh-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r21-sa-abha-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r21-sa-al-ahli-saudi-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r21-sa-al-diriyah-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r21-sa-al-faisaly-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r21-sa-al-hilal-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r21-sa-al-ittihad-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r21-sa-al-shabab-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r21-sa-al-taawoun-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r21-sa-neom-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r22-sa-al-ettifaq-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r22-sa-al-fateh-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r22-sa-al-hazem-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r22-sa-al-hilal-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r22-sa-al-khaleej-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r22-sa-al-kholood-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r22-sa-al-nassr-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r22-sa-al-qadsiah-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r22-sa-al-riyadh-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r23-sa-abha-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r23-sa-al-ahli-saudi-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r23-sa-al-diriyah-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r23-sa-al-faisaly-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r23-sa-al-fayha-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r23-sa-al-riyadh-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r23-sa-al-shabab-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r23-sa-al-taawoun-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r23-sa-neom-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r24-sa-abha-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r24-sa-al-ettifaq-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r24-sa-al-fateh-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r24-sa-al-fayha-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r24-sa-al-hazem-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r24-sa-al-hilal-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r24-sa-al-ittihad-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r24-sa-al-kholood-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r24-sa-al-nassr-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r25-sa-al-ahli-saudi-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r25-sa-al-diriyah-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r25-sa-al-faisaly-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r25-sa-al-ittihad-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r25-sa-al-khaleej-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r25-sa-al-qadsiah-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r25-sa-al-riyadh-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r25-sa-al-taawoun-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r25-sa-neom-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r26-sa-abha-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r26-sa-al-ettifaq-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r26-sa-al-fateh-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r26-sa-al-fayha-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r26-sa-al-hilal-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r26-sa-al-kholood-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r26-sa-al-nassr-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r26-sa-al-shabab-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r26-sa-al-taawoun-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r27-sa-al-ahli-saudi-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r27-sa-al-faisaly-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r27-sa-al-hazem-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r27-sa-al-ittihad-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r27-sa-al-khaleej-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r27-sa-al-kholood-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r27-sa-al-qadsiah-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r27-sa-al-riyadh-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r27-sa-neom-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r28-sa-abha-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r28-sa-al-diriyah-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r28-sa-al-ettifaq-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r28-sa-al-fayha-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r28-sa-al-hilal-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r28-sa-al-khaleej-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r28-sa-al-nassr-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r28-sa-al-shabab-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r28-sa-al-taawoun-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r29-sa-al-ahli-saudi-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r29-sa-al-ettifaq-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r29-sa-al-faisaly-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r29-sa-al-fateh-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r29-sa-al-hazem-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r29-sa-al-ittihad-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r29-sa-al-kholood-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r29-sa-al-qadsiah-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r29-sa-neom-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r30-sa-al-diriyah-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r30-sa-al-fayha-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r30-sa-al-hilal-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r30-sa-al-khaleej-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r30-sa-al-nassr-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r30-sa-al-riyadh-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r30-sa-al-shabab-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r30-sa-al-taawoun-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r30-sa-neom-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r31-sa-abha-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r31-sa-al-diriyah-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r31-sa-al-ettifaq-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r31-sa-al-faisaly-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r31-sa-al-fateh-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r31-sa-al-hazem-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r31-sa-al-ittihad-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r31-sa-al-kholood-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r31-sa-al-qadsiah-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r32-sa-al-ahli-saudi-sa-al-ittihad added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r32-sa-al-fateh-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r32-sa-al-fayha-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r32-sa-al-hazem-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r32-sa-al-hilal-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r32-sa-al-khaleej-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r32-sa-al-riyadh-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r32-sa-al-shabab-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r32-sa-al-taawoun-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r33-sa-abha-sa-al-hilal added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r33-sa-al-diriyah-sa-al-khaleej added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r33-sa-al-ettifaq-sa-al-ahli-saudi added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r33-sa-al-faisaly-sa-al-taawoun added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r33-sa-al-ittihad-sa-al-riyadh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r33-sa-al-kholood-sa-al-fateh added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r33-sa-al-nassr-sa-al-fayha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r33-sa-al-qadsiah-sa-al-hazem added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r33-sa-neom-sa-al-shabab added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r34-sa-al-ahli-saudi-sa-neom added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r34-sa-al-fateh-sa-abha added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r34-sa-al-fayha-sa-al-ettifaq added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r34-sa-al-hazem-sa-al-kholood added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r34-sa-al-hilal-sa-al-nassr added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r34-sa-al-khaleej-sa-al-qadsiah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r34-sa-al-riyadh-sa-al-faisaly added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r34-sa-al-shabab-sa-al-diriyah added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r34-sa-al-taawoun-sa-al-ittihad added
+
+## 2026-10-25 (2026-10-25T09:30:00Z)
+- 94 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result saudi-pro-league-2026-27-regular-r01-sa-abha-sa-al-hazem 1-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r01-sa-al-diriyah-sa-al-ahli-saudi 0-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r01-sa-al-shabab-sa-al-qadsiah 1-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r01-sa-neom-sa-al-fayha 2-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r01-sa-al-ettifaq-sa-al-riyadh 4-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r01-sa-al-hilal-sa-al-faisaly 4-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r01-sa-al-taawoun-sa-al-khaleej 0-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r01-sa-al-ittihad-sa-al-kholood 1-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r01-sa-al-nassr-sa-al-fateh 3-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r02-sa-al-fayha-sa-al-hilal 0-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r02-sa-al-riyadh-sa-al-nassr 0-4 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r02-sa-al-hazem-sa-al-diriyah 0-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r02-sa-al-faisaly-sa-neom 0-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r02-sa-al-qadsiah-sa-al-ittihad 0-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r02-sa-al-fateh-sa-al-ettifaq 0-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r02-sa-al-kholood-sa-al-taawoun 3-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r02-sa-al-ahli-saudi-sa-abha 4-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r02-sa-al-khaleej-sa-al-shabab 0-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r03-sa-neom-sa-al-qadsiah 0-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r03-sa-al-ittihad-sa-al-hazem 3-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r03-sa-abha-sa-al-khaleej 1-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r03-sa-al-taawoun-sa-al-fayha 0-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r03-sa-al-ettifaq-sa-al-nassr 2-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r03-sa-al-shabab-sa-al-riyadh 3-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r03-sa-al-faisaly-sa-al-fateh 1-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r03-sa-al-diriyah-sa-al-kholood 1-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r04-sa-al-riyadh-sa-neom 1-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r04-sa-al-fayha-sa-abha 3-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r04-sa-al-khaleej-sa-al-hilal 1-5 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r04-sa-al-nassr-sa-al-taawoun 2-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r04-sa-al-kholood-sa-al-ahli-saudi 3-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r04-sa-al-ettifaq-sa-al-diriyah 0-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r04-sa-al-fateh-sa-al-ittihad 0-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r04-sa-al-hazem-sa-al-shabab 1-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r04-sa-al-qadsiah-sa-al-faisaly 3-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r03-sa-al-hilal-sa-al-ahli-saudi 3-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r05-sa-al-fayha-sa-al-kholood 2-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r05-sa-neom-sa-al-khaleej 3-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r05-sa-al-diriyah-sa-al-qadsiah 0-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r05-sa-abha-sa-al-ettifaq 0-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r05-sa-al-ahli-saudi-sa-al-riyadh 5-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r05-sa-al-shabab-sa-al-hilal 0-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r05-sa-al-faisaly-sa-al-hazem 0-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r05-sa-al-taawoun-sa-al-fateh 0-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r05-sa-al-ittihad-sa-al-nassr 2-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r06-sa-al-khaleej-sa-al-riyadh 0-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r06-sa-al-hilal-sa-neom 0-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r06-sa-al-ettifaq-sa-al-faisaly 0-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r06-sa-al-hazem-sa-al-taawoun 1-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r06-sa-al-ittihad-sa-al-fayha 2-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r06-sa-al-qadsiah-sa-al-ahli-saudi 3-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r06-sa-al-kholood-sa-al-shabab 2-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r06-sa-al-fateh-sa-al-diriyah 1-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r06-sa-al-nassr-sa-abha 2-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r07-sa-al-qadsiah-sa-al-ettifaq 3-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r07-sa-al-faisaly-sa-al-ittihad 1-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r07-sa-al-ahli-saudi-sa-al-hazem 3-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r07-sa-al-taawoun-sa-al-hilal 0-6 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r07-sa-al-khaleej-sa-al-nassr 1-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r07-sa-al-shabab-sa-al-fayha 0-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r07-sa-neom-sa-al-fateh 4-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r07-sa-al-diriyah-sa-abha 0-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r07-sa-al-riyadh-sa-al-kholood 2-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r08-sa-al-kholood-sa-al-qadsiah 0-5 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r08-sa-al-fateh-sa-al-ahli-saudi 0-4 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r08-sa-al-nassr-sa-al-diriyah 3-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r08-sa-al-hazem-sa-neom 1-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r08-sa-al-ettifaq-sa-al-khaleej 1-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r08-sa-al-hilal-sa-al-ittihad 3-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r08-sa-al-fayha-sa-al-riyadh 1-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r08-sa-al-shabab-sa-al-taawoun 3-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r09-sa-al-faisaly-sa-al-kholood 3-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r09-sa-al-khaleej-sa-al-fayha 2-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r09-sa-al-hazem-sa-al-fateh 2-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r09-sa-al-qadsiah-sa-abha 2-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r09-sa-neom-sa-al-ettifaq 0-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r09-sa-al-diriyah-sa-al-taawoun 1-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r10-sa-al-fateh-sa-al-khaleej 2-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r10-sa-al-fayha-sa-al-ahli-saudi 2-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r10-sa-al-hilal-sa-al-hazem 1-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r10-sa-al-shabab-sa-al-faisaly 2-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r10-sa-al-diriyah-sa-al-riyadh 1-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r10-sa-al-taawoun-sa-al-qadsiah 0-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r10-sa-al-ettifaq-sa-al-ittihad 1-4 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r10-sa-al-nassr-sa-neom 1-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r11-sa-al-hazem-sa-al-fayha 2-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r11-sa-al-fateh-sa-al-shabab 1-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r11-sa-al-faisaly-sa-al-nassr 1-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r11-sa-al-ittihad-sa-al-diriyah 2-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r11-sa-al-ahli-saudi-sa-al-khaleej 4-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r11-sa-al-qadsiah-sa-al-hilal 2-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r11-sa-neom-sa-abha 2-0 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r11-sa-al-kholood-sa-al-ettifaq 0-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r11-sa-al-riyadh-sa-al-taawoun 2-1 FT
+
+## 2026-10-25 (2026-10-25T09:23:18Z)
+- 57 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ team sa-al-bukayriyah team sa-al-bukayriyah added
+  - ✓ team sa-al-orobah team sa-al-orobah added
+  - ✓ team sa-al-wehda team sa-al-wehda added
+  - ✓ team sa-al-anwar team sa-al-anwar added
+  - ✓ team sa-al-tai team sa-al-tai added
+  - ✓ team sa-al-zulfi team sa-al-zulfi added
+  - ✓ team sa-al-adalah team sa-al-adalah added
+  - ✓ team sa-al-raed team sa-al-raed added
+  - ✓ team sa-al-jabalain team sa-al-jabalain added
+  - ✓ team sa-al-najma team sa-al-najma added
+  - ✓ team sa-al-okhdood team sa-al-okhdood added
+  - ✓ team sa-damac team sa-damac added
+  - ✓ team sa-jeddah-club team sa-jeddah-club added
+  - ✓ team sa-al-ula team sa-al-ula added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-bukayriyah-sa-al-hazem added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-orobah-sa-abha added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-wehda-sa-al-shabab added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-anwar-sa-al-ahli-saudi added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-tai-sa-al-qadsiah added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-zulfi-sa-al-riyadh added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-adalah-sa-al-fayha added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-raed-sa-al-hilal added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-jabalain-sa-al-ettifaq added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-najma-sa-al-ittihad added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-okhdood-sa-al-khaleej added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-diriyah-sa-al-nassr added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-faisaly-sa-neom added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-damac-sa-al-taawoun added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-jeddah-club-sa-al-kholood added
+  - ✓ fixture saudi-kings-cup-2026-27-r32-sa-al-ula-sa-al-fateh added
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-orobah-sa-al-okhdood added
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-jabalain-sa-al-ittihad added
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-riyadh-sa-al-fayha added
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-hilal-sa-al-hazem added
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-taawoun-sa-al-wehda added
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-ula-sa-al-ahli-saudi added
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-nassr-sa-al-kholood added
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-qadsiah-sa-neom added
+  - ✓ fixture saudi-super-cup-2026-27-sf-sa-al-qadsiah-sa-al-ahli-saudi added
+  - ✓ fixture saudi-super-cup-2026-27-sf-sa-al-nassr-sa-al-kholood added
+  - ✓ fixture saudi-super-cup-2026-27-final-tbd-tbd added
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-bukayriyah-sa-al-hazem 2-3 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-orobah-sa-abha 0-0 PEN
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-wehda-sa-al-shabab 3-2 AET
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-anwar-sa-al-ahli-saudi 1-2 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-tai-sa-al-qadsiah 0-5 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-zulfi-sa-al-riyadh 0-2 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-adalah-sa-al-fayha 0-2 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-raed-sa-al-hilal 0-2 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-jabalain-sa-al-ettifaq 1-0 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-najma-sa-al-ittihad 0-3 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-okhdood-sa-al-khaleej 2-0 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-diriyah-sa-al-nassr 1-4 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-faisaly-sa-neom 1-3 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-damac-sa-al-taawoun 0-3 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-jeddah-club-sa-al-kholood 0-5 FT
+  - ✓ result saudi-kings-cup-2026-27-r32-sa-al-ula-sa-al-fateh 3-0 FT
