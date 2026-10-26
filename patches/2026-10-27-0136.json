@@ -1,0 +1,12 @@
+{
+  "run": "2026-10-26T21:36:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r03-sa-al-ahli-saudi-qa-al-gharafa", "status": "FT", "score": [2,1],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-al-ahli-saudi-fc-ksa-2-1-al-gharafa-sc-qat", "https://sabq.org/article/641vbmj"] },
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r03-iq-al-quwa-al-jawiya-uz-pakhtakor", "status": "FT", "score": [1,0],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-air-force-sc-irq-1-0-pakhtakor-uzb", "https://ina.iq/ar/sport/277434-.html"] },
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r03-sa-al-qadsiah-qa-al-sadd", "status": "FT", "score": [1,1],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-al-qadsiah-club-ksa-1-1-al-sadd-sc-qat", "https://www.arabnews.com/football/afifs-30-yard-thunderbolt-not-enough-as-quinones-salvages-al-qadsiah-draw-3008417"] }
+  ],
+  "unconfirmed": []
+}

@@ -3368,3 +3368,9 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-10-27 (2026-10-26T20:35:00Z)
 - 0 change(s) applied, 0 rejected, 3 waiting for a second source
+
+## 2026-10-27 (2026-10-26T21:36:00Z)
+- 3 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result acle-2026-27-league-west-gwest-r03-sa-al-ahli-saudi-qa-al-gharafa 2-1 FT
+  - ✓ result acle-2026-27-league-west-gwest-r03-iq-al-quwa-al-jawiya-uz-pakhtakor 1-0 FT
+  - ✓ result acle-2026-27-league-west-gwest-r03-sa-al-qadsiah-qa-al-sadd 1-1 FT

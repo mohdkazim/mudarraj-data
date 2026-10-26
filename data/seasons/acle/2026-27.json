@@ -1740,14 +1740,18 @@
    "away": "qa-al-gharafa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261026",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-al-ahli-saudi-fc-ksa-2-1-al-gharafa-sc-qat",
+    "https://sabq.org/article/641vbmj"
+   ],
+   "updatedAt": "2026-10-26T21:37:21.369Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r03-iq-al-quwa-al-jawiya-uz-pakhtakor",
@@ -1763,8 +1767,11 @@
    "away": "uz-pakhtakor",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Al-Madina International Stadium",
@@ -1776,12 +1783,13 @@
     }
    },
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261026",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-air-force-sc-irq-1-0-pakhtakor-uzb",
+    "https://ina.iq/ar/sport/277434-.html"
    ],
    "venueSources": [
     "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
-   ]
+   ],
+   "updatedAt": "2026-10-26T21:37:21.369Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r03-sa-al-nassr-ae-al-wasl",
@@ -1823,14 +1831,18 @@
    "away": "qa-al-sadd",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261026",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-al-qadsiah-club-ksa-1-1-al-sadd-sc-qat",
+    "https://www.arabnews.com/football/afifs-30-yard-thunderbolt-not-enough-as-quinones-salvages-al-qadsiah-draw-3008417"
+   ],
+   "updatedAt": "2026-10-26T21:37:21.369Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r03-cn-shanghai-port-vn-cong-an-ha-noi",
