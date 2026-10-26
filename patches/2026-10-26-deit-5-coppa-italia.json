@@ -1,0 +1,2406 @@
+{
+ "run": "2026-10-26T08:00:00Z",
+ "changes": [
+  {
+   "op": "team",
+   "team": {
+    "id": "it-vicenza",
+    "name": {
+     "en": "Vicenza",
+     "ar": "فيتشينزا"
+    },
+    "shortName": {
+     "en": "Vicenza",
+     "ar": "فيتشينزا"
+    },
+    "code": "VIC",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/120.png",
+    "aliases": [
+     "L.R. Vicenza",
+     "LR Vicenza",
+     "Lanerossi",
+     "Lanerossi Vicenza"
+    ]
+   },
+   "sources": [
+    "https://www.filgoal.com/championships/1557/matches/%D9%83%D8%A3%D8%B3-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7",
+    "https://www.fotmob.com/ar/teams/9877/overview/android-app:/com.mobilefootie.wc2010/http",
+    "https://en.wikipedia.org/wiki/LR_Vicenza",
+    "https://ar.wikipedia.org/wiki/%D9%86%D8%A7%D8%AF%D9%8A_%D9%81%D9%8A%D8%AA%D8%B4%D9%8A%D9%86%D8%B2%D8%A7"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-catania",
+    "name": {
+     "en": "Catania",
+     "ar": "كاتانيا"
+    },
+    "shortName": {
+     "en": "Catania",
+     "ar": "كاتانيا"
+    },
+    "code": "CAT",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3258.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.fotmob.com/ar/matches/foggia-vs-catania/1uybms",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D9%86%D8%AA%D8%B1-%D9%85%D9%8A%D9%84%D8%A7%D9%86-%D9%8A%D8%AE%D8%B3%D8%B1-%D8%A7%D9%85%D8%A7%D9%85-%D9%83%D8%A7%D8%AA%D8%A7%D9%86%D9%8A%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A7%D9%8A%D8%B7%D8%A7%D9%84%D9%8A/64678",
+    "https://ar.wikipedia.org/wiki/%D9%86%D8%A7%D8%AF%D9%8A_%D9%83%D8%A7%D8%AA%D8%A7%D9%86%D9%8A%D8%A7"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-ascoli",
+    "name": {
+     "en": "Ascoli",
+     "ar": "أسكولي"
+    },
+    "shortName": {
+     "en": "Ascoli",
+     "ar": "أسكولي"
+    },
+    "code": "ASC",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3346.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.kooora.com/?n=1182161",
+    "https://www.fotmob.com/ar/teams/6266/overview",
+    "https://www.beinsports.com/ar-mena/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D9%82/%D8%A3%D8%B3%D9%83%D9%88%D9%84%D9%8A-1898"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-potenza",
+    "name": {
+     "en": "Potenza",
+     "ar": "بوتينزا"
+    },
+    "shortName": {
+     "en": "Potenza",
+     "ar": "بوتينزا"
+    },
+    "code": "POT",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4002.png",
+    "aliases": []
+   },
+   "sources": []
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-arezzo",
+    "name": {
+     "en": "Arezzo",
+     "ar": "أريتسو"
+    },
+    "shortName": {
+     "en": "Arezzo",
+     "ar": "أريتسو"
+    },
+    "code": "ARE",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3345.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%81%D9%8A-%D8%AD%D8%B6%D9%88%D8%B1-%D8%AF%D9%8A-%D8%A8%D8%B1%D9%88%D9%8A%D9%86--%D9%87%D8%B2%D9%8A%D9%85%D8%A9-%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D9%86%D8%A7%D8%A8%D9%88%D9%84%D9%8A-%D8%A7%D9%94%D9%85%D8%A7%D9%85-%D8%A7%D9%94%D8%B1%D9%8A%D8%AA%D8%B3%D9%88/bltc3d274eac2b685e0",
+    "https://www.fotmob.com/ar/teams/6266/overview"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-union-brescia",
+    "name": {
+     "en": "Union Brescia",
+     "ar": "يونيون بريشيا"
+    },
+    "shortName": {
+     "en": "Union Brescia",
+     "ar": "يونيون بريشيا"
+    },
+    "code": "UBR",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131836.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.beinsports.com/ar-mena/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%A7%D9%84%D9%81%D8%B1%D9%8A%D9%82/union-brescia-srl",
+    "https://www.kooora.com/?n=1182161"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-benevento",
+    "name": {
+     "en": "Benevento",
+     "ar": "بينيفنتو"
+    },
+    "shortName": {
+     "en": "Benevento",
+     "ar": "بينيفنتو"
+    },
+    "code": "BNV",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.fotmob.com/ar/teams/6266/overview",
+    "https://www.filgoal.com/videos/50827/%D9%85%D9%84%D8%AE%D8%B5-%D9%81%D9%88%D8%B2-%D9%81%D9%8A%D9%88%D8%B1%D9%86%D8%AA%D9%8A%D9%86%D8%A7-%D8%B9%D9%84%D9%89-%D8%A8%D9%8A%D9%86%D9%8A%D9%81%D9%86%D8%AA%D9%88-4-1-%D9%83%D8%A3%D8%B3-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7",
+    "https://www.goal.com/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A8%D9%8A%D9%86%D9%8A%D9%81%D9%86%D8%AA%D9%88-%D9%8A%D8%AA%D8%A3%D9%87%D9%84-%D9%84%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%87/1opclu8kqwfio19vg0iuva9lvd"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-ravenna",
+    "name": {
+     "en": "Ravenna",
+     "ar": "رافينا"
+    },
+    "shortName": {
+     "en": "Ravenna",
+     "ar": "رافينا"
+    },
+    "code": "RAV",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4347.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.goal.com/ar-eg/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%B1%D8%A7%D9%81%D9%8A%D9%86%D8%A7-%D8%B6%D8%AF-%D8%A8%D9%88%D9%86%D8%AA%D9%8A%D8%AF%D9%8A%D8%B1%D8%A7/LXMbLwHxtMBMqpQyySZtf"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-avellino",
+    "name": {
+     "en": "Avellino",
+     "ar": "أفيلينو"
+    },
+    "shortName": {
+     "en": "Avellino",
+     "ar": "أفيلينو"
+    },
+    "code": "AVE",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4055.png",
+    "aliases": [
+     "US Avellino"
+    ]
+   },
+   "sources": [
+    "https://www.fotmob.com/ar/teams/6266/overview",
+    "https://en.wikipedia.org/wiki/2019%E2%80%9320_Coppa_Italia_Serie_C"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-catanzaro",
+    "name": {
+     "en": "Catanzaro",
+     "ar": "كاتانزارو"
+    },
+    "shortName": {
+     "en": "Catanzaro",
+     "ar": "كاتانزارو"
+    },
+    "code": "CTZ",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3257.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.filgoal.com/championships/1557/matches/%D9%83%D8%A3%D8%B3-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7",
+    "https://www.fotmob.com/ar/teams/6266/overview",
+    "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D9%88%D8%B1%D9%86%D8%AA%D9%8A%D9%86%D8%A7"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-sudtirol",
+    "name": {
+     "en": "Südtirol",
+     "ar": "سودتيرول"
+    },
+    "shortName": {
+     "en": "Südtirol",
+     "ar": "سودتيرول"
+    },
+    "code": "SUD",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11139.png",
+    "aliases": [
+     "FC Südtirol",
+     "Sud Tirol",
+     "Sudtirol"
+    ]
+   },
+   "sources": [
+    "https://www.akhbaar24.com/competition/403/team/797",
+    "https://www.filgoal.com/championships/1703",
+    "https://www.filgoal.com/championships/1557/matches/%D9%83%D8%A3%D8%B3-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-padova",
+    "name": {
+     "en": "Padova",
+     "ar": "بادوفا"
+    },
+    "shortName": {
+     "en": "Padova",
+     "ar": "بادوفا"
+    },
+    "code": "PDV",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3952.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.fotmob.com/ar/teams/6266/overview"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-modena",
+    "name": {
+     "en": "Modena",
+     "ar": "مودينا"
+    },
+    "shortName": {
+     "en": "Modena",
+     "ar": "مودينا"
+    },
+    "code": "MOD",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2573.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.kooora.com/?n=1182161",
+    "https://www.filgoal.com/championships/1557/matches/%D9%83%D8%A3%D8%B3-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7",
+    "https://en.wikipedia.org/wiki/2019%E2%80%9320_Coppa_Italia_Serie_C",
+    "https://www.goal.com/ar-eg/%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%83%D8%B1%D9%8A%D9%85%D9%88%D9%86%D9%8A%D8%B2%D9%8A-%D8%B6%D8%AF-%D9%85%D9%88%D8%AF%D9%8A%D9%86%D8%A7/65rruxh56vlr568w0a81rh2j8"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-carrarese",
+    "name": {
+     "en": "Carrarese",
+     "ar": "كاراريزي"
+    },
+    "shortName": {
+     "en": "Carrarese",
+     "ar": "كاراريزي"
+    },
+    "code": "CAR",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3988.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.fotmob.com/ar/teams/6266/overview",
+    "https://www.filgoal.com/championships/1557/matches/%D9%83%D8%A3%D8%B3-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-juve-stabia",
+    "name": {
+     "en": "Juve Stabia",
+     "ar": "يوفي ستابيا"
+    },
+    "shortName": {
+     "en": "Juve Stabia",
+     "ar": "يوفي ستابيا"
+    },
+    "code": "JST",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3975.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.fotmob.com/ar/teams/6266/overview",
+    "https://www.filgoal.com/championships/1557/matches/%D9%83%D8%A3%D8%B3-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-hellas-verona",
+    "name": {
+     "en": "Hellas Verona",
+     "ar": "هيلاس فيرونا"
+    },
+    "shortName": {
+     "en": "Verona",
+     "ar": "فيرونا"
+    },
+    "code": "VER",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.akhbaar24.com/competition/403/team/797",
+    "https://www.filgoal.com/championships/1703",
+    "https://www.filgoal.com/teams/1395/matches-results/%D9%87%D9%8A%D9%84%D8%A7%D8%B3-%D9%81%D9%8A%D8%B1%D9%88%D9%86%D8%A7",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%83%D8%B1%D9%8A%D9%85%D9%88%D9%86%D9%8A%D8%B2%D9%8A/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/6/af91jdcs6x0bqkmdb78rokod2",
+    "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D9%88%D8%B1%D9%86%D8%AA%D9%8A%D9%86%D8%A7"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-virtus-entella",
+    "name": {
+     "en": "Virtus Entella",
+     "ar": "فيرتوس إينتيلا"
+    },
+    "shortName": {
+     "en": "Virtus Entella",
+     "ar": "فيرتوس إينتيلا"
+    },
+    "code": "ENT",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11137.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.filgoal.com/championships/1557/matches/%D9%83%D8%A3%D8%B3-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7",
+    "https://www.fotmob.com/ar/teams/6266/overview"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-mantova",
+    "name": {
+     "en": "Mantova",
+     "ar": "مانتوفا"
+    },
+    "shortName": {
+     "en": "Mantova",
+     "ar": "مانتوفا"
+    },
+    "code": "MAN",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3991.png",
+    "aliases": [
+     "Mantua"
+    ]
+   },
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-08-18-1.2074891",
+    "https://www.akhbaar24.com/competition/403/team/797",
+    "https://www.filgoal.com/championships/1703",
+    "https://www.filgoal.com/tags/93113/%D9%85%D8%A7%D9%86%D8%AA%D9%88%D9%81%D8%A7",
+    "https://www.ansa.it/english/news/2026/08/17/italian-cup-gattusos-lazio-loses-opening-match-2-0-to-mantova-at-olimpico_c70b031c-d201-4aa8-bef1-ffa0e47638ca.html"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-pisa",
+    "name": {
+     "en": "Pisa",
+     "ar": "بيزا"
+    },
+    "shortName": {
+     "en": "Pisa",
+     "ar": "بيزا"
+    },
+    "code": "PIS",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3956.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.akhbaar24.com/competition/403/team/797",
+    "https://www.filgoal.com/championships/1703",
+    "https://ar.wikipedia.org/wiki/%D9%81%D9%8A%D9%88%D8%B1%D9%86%D8%AA%D9%8A%D9%86%D8%A7"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-empoli",
+    "name": {
+     "en": "Empoli",
+     "ar": "إمبولي"
+    },
+    "shortName": {
+     "en": "Empoli",
+     "ar": "إمبولي"
+    },
+    "code": "EMP",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2574.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%83%D8%B1%D9%8A%D9%85%D9%88%D9%86%D9%8A%D8%B2%D9%8A/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/6/af91jdcs6x0bqkmdb78rokod2",
+    "https://www.filgoal.com/championships/1557/matches/%D9%83%D8%A3%D8%B3-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7",
+    "https://www.fotmob.com/ar/teams/6266/overview"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-cesena",
+    "name": {
+     "en": "Cesena",
+     "ar": "تشيزينا"
+    },
+    "shortName": {
+     "en": "Cesena",
+     "ar": "تشيزينا"
+    },
+    "code": "CES",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3337.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.filgoal.com/championships/1557/matches/%D9%83%D8%A3%D8%B3-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7",
+    "https://www.fotmob.com/ar/teams/6266/overview",
+    "https://en.wikipedia.org/wiki/2019%E2%80%9320_Coppa_Italia_Serie_C"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-cremonese",
+    "name": {
+     "en": "Cremonese",
+     "ar": "كريمونيزي"
+    },
+    "shortName": {
+     "en": "Cremonese",
+     "ar": "كريمونيزي"
+    },
+    "code": "CRE",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4050.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%81%D8%B1%D9%8A%D9%82/%D9%83%D8%B1%D9%8A%D9%85%D9%88%D9%86%D9%8A%D8%B2%D9%8A/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/6/af91jdcs6x0bqkmdb78rokod2",
+    "https://www.kooora.com/?n=1182161",
+    "https://www.akhbaar24.com/competition/403/team/840",
+    "https://www.akhbaar24.com/competition/403/team/797"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-sampdoria",
+    "name": {
+     "en": "Sampdoria",
+     "ar": "سامبدوريا"
+    },
+    "shortName": {
+     "en": "Sampdoria",
+     "ar": "سامبدوريا"
+    },
+    "code": "SAM",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.akhbaar24.com/competition/403/team/797",
+    "https://www.kooora.com/?n=1182161",
+    "https://www.filgoal.com/championships/1557/matches/%D9%83%D8%A3%D8%B3-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-palermo",
+    "name": {
+     "en": "Palermo",
+     "ar": "باليرمو"
+    },
+    "shortName": {
+     "en": "Palermo",
+     "ar": "باليرمو"
+    },
+    "code": "PAL",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2923.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.akhbaar24.com/competition/403/team/797",
+    "https://www.filgoal.com/championships/1703",
+    "https://www.ansa.it/english/news/2026/08/17/italian-cup-gattusos-lazio-loses-opening-match-2-0-to-mantova-at-olimpico_c70b031c-d201-4aa8-bef1-ffa0e47638ca.html"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "prelim",
+    "type": "knockout"
+   },
+   "home": "it-vicenza",
+   "away": "it-catania",
+   "kickoff": "2026-08-08T18:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260808&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "prelim",
+    "type": "knockout"
+   },
+   "home": "it-ascoli",
+   "away": "it-potenza",
+   "kickoff": "2026-08-08T18:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260808&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "prelim",
+    "type": "knockout"
+   },
+   "home": "it-arezzo",
+   "away": "it-union-brescia",
+   "kickoff": "2026-08-09T17:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260809&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "prelim",
+    "type": "knockout"
+   },
+   "home": "it-benevento",
+   "away": "it-ravenna",
+   "kickoff": "2026-08-09T19:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260809&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-parma",
+   "away": "it-catania",
+   "kickoff": "2026-08-14T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260814&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-cagliari",
+   "away": "it-arezzo",
+   "kickoff": "2026-08-14T16:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260814&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-monza",
+   "away": "it-avellino",
+   "kickoff": "2026-08-14T18:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260814&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-fiorentina",
+   "away": "it-benevento",
+   "kickoff": "2026-08-14T19:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260814&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-catanzaro",
+   "away": "it-sudtirol",
+   "kickoff": "2026-08-15T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260815&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-udinese",
+   "away": "it-padova",
+   "kickoff": "2026-08-15T16:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260815&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-venezia",
+   "away": "it-modena",
+   "kickoff": "2026-08-15T18:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260815&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-torino",
+   "away": "it-carrarese",
+   "kickoff": "2026-08-15T19:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260815&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-frosinone",
+   "away": "it-juve-stabia",
+   "kickoff": "2026-08-16T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260816&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-genoa",
+   "away": "it-ascoli",
+   "kickoff": "2026-08-16T16:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260816&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-hellas-verona",
+   "away": "it-virtus-entella",
+   "kickoff": "2026-08-16T18:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260816&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-lazio",
+   "away": "it-mantova",
+   "kickoff": "2026-08-16T19:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260816&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-pisa",
+   "away": "it-empoli",
+   "kickoff": "2026-08-17T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260817&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-sassuolo",
+   "away": "it-cesena",
+   "kickoff": "2026-08-17T16:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260817&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-cremonese",
+   "away": "it-sampdoria",
+   "kickoff": "2026-08-17T18:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260817&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "it-palermo",
+   "away": "it-lecce",
+   "kickoff": "2026-08-17T19:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260817&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "it-parma",
+   "away": "it-cremonese",
+   "kickoff": "2026-09-01T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260901&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "it-torino",
+   "away": "it-monza",
+   "kickoff": "2026-09-01T19:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260901&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "it-sassuolo",
+   "away": "it-frosinone",
+   "kickoff": "2026-09-02T13:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260902&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "it-udinese",
+   "away": "it-venezia",
+   "kickoff": "2026-09-02T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260902&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "it-palermo",
+   "away": "it-mantova",
+   "kickoff": "2026-09-03T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260903&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "it-cagliari",
+   "away": "it-hellas-verona",
+   "kickoff": "2026-09-03T19:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260903&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "it-genoa",
+   "away": "it-sudtirol",
+   "kickoff": "2026-09-15T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260915&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "it-fiorentina",
+   "away": "it-pisa",
+   "kickoff": "2026-09-15T19:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260915&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "it-inter-milan",
+   "away": "it-genoa",
+   "kickoff": "2026-12-01T20:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "it-como",
+   "away": "it-cremonese",
+   "kickoff": "2026-12-02T20:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "it-juventus",
+   "away": "it-sassuolo",
+   "kickoff": "2026-12-03T14:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "it-bologna",
+   "away": "it-palermo",
+   "kickoff": "2026-12-15T20:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "it-napoli",
+   "away": "it-fiorentina",
+   "kickoff": "2026-12-16T20:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "it-roma",
+   "away": "it-hellas-verona",
+   "kickoff": "2027-01-12T20:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "it-ac-milan",
+   "away": "it-monza",
+   "kickoff": "2027-01-13T20:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "it-atalanta",
+   "away": "it-udinese",
+   "kickoff": "2027-01-26T20:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "stage": {
+    "key": "final",
+    "type": "final"
+   },
+   "homePlaceholder": {
+    "en": "Winner semi-final 1",
+    "ar": "الفائز في نصف النهائي 1"
+   },
+   "awayPlaceholder": {
+    "en": "Winner semi-final 2",
+    "ar": "الفائز في نصف النهائي 2"
+   },
+   "kickoff": "2027-05-19T14:00:00Z",
+   "timeConfirmed": false,
+   "neutral": true,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/le-date-della-stagione-2026-2027"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-vicenza",
+   "away": "it-catania",
+   "date": "2026-08-08",
+   "status": "PEN",
+   "score": [
+    1,
+    1
+   ],
+   "regular": [
+    1,
+    1
+   ],
+   "pens": [
+    3,
+    4
+   ],
+   "noExtraTime": true,
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "Gabriele Moncini",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Emmanuele Pio Cicerelli",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260808&limit=37",
+    "https://www.skysports.com/football-scores-fixtures/2026-08-08",
+    "https://www.corrieredellosport.it/live/partita/vicenza-catania-2649007"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-ascoli",
+   "away": "it-potenza",
+   "date": "2026-08-08",
+   "status": "FT",
+   "score": [
+    3,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 1,
+     "side": "away",
+     "player": "Gabriele Selleri",
+     "type": "goal"
+    },
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Tommaso Milanese",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Gabriele Gori",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Giovanni Corradini",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260808&limit=37",
+    "https://www.skysports.com/football-scores-fixtures/2026-08-08"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-arezzo",
+   "away": "it-union-brescia",
+   "date": "2026-08-09",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 24,
+     "side": "home",
+     "player": "Alessandro Arena",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "Camillo Tavernelli",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260809&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/la-coppa-italia-frecciarossa-entra-nel-vivo-con-i-trentaduesimi",
+    "https://www.legaseriea.it/coppa-italia/news/la-programmazione-dei-trentaduesimi"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-benevento",
+   "away": "it-ravenna",
+   "date": "2026-08-09",
+   "status": "FT",
+   "score": [
+    5,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 3,
+     "side": "away",
+     "player": "Vinicius Negro Di Stefano",
+     "type": "goal"
+    },
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Matteo Maggio",
+     "type": "goal"
+    },
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "Antonio Prisco",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "Francesco Salvemini",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Vinicius Negro Di Stefano",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Raffaele Romano",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Stefano Scognamillo",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Francesco Salvemini",
+     "type": "goal",
+     "extra": 1
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260809&limit=37",
+    "https://www.skysports.com/football/benevento-vs-ravenna/562193"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-parma",
+   "away": "it-catania",
+   "date": "2026-08-14",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Simone Lontani",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Simone Lontani",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260814&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://en.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/coppa-italia/news/la-coppa-italia-frecciarossa-entra-nel-vivo-con-i-trentaduesimi"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-cagliari",
+   "away": "it-arezzo",
+   "date": "2026-08-14",
+   "status": "FT",
+   "score": [
+    1,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Alessandro Deiola",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260814&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/coppa-italia/news/cagliari-verona-chiude-il-programma-dei-sedicesimi"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-monza",
+   "away": "it-avellino",
+   "date": "2026-08-14",
+   "status": "FT",
+   "score": [
+    3,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 22,
+     "side": "home",
+     "player": "Gustavo Varela",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Gustavo Varela",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Omari Forson",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260814&limit=37",
+    "https://www.corrieredellosport.it/live/partita/monza-avellino-2649012"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-fiorentina",
+   "away": "it-benevento",
+   "date": "2026-08-14",
+   "status": "FT",
+   "score": [
+    4,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 2,
+     "side": "home",
+     "player": "Albert Gudmundsson",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Moise Kean",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Luca Ranieri",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "Cher Ndour",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Davide Lamesta",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260814&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/fiorentina-pisa-chiude-il-programma-dei-sedicesimi"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-catanzaro",
+   "away": "it-sudtirol",
+   "date": "2026-08-15",
+   "status": "PEN",
+   "score": [
+    2,
+    2
+   ],
+   "regular": [
+    2,
+    2
+   ],
+   "pens": [
+    3,
+    4
+   ],
+   "noExtraTime": true,
+   "goals": [
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Niklas Pyyhtia",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Simone Pafundi",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Pietro Iemmello",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Kenny Mixtur",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260815&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/genoa-e-sud-tirol-si-giocno-gli-ottavi-contro-l-inter",
+    "https://www.legaseriea.it/coppa-italia/news/la-programmazione-dei-trentaduesimi"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-udinese",
+   "away": "it-padova",
+   "date": "2026-08-15",
+   "status": "FT",
+   "score": [
+    1,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Keinan Davis",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260815&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/udinese-venezia-il-derby-del-triveneto-vale-gli-ottavi-di-finale"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-venezia",
+   "away": "it-modena",
+   "date": "2026-08-15",
+   "status": "FT",
+   "score": [
+    3,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Giuseppe Ambrosino",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Akor Adams",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Giuseppe Ambrosino",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "John Yeboah",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Akor Adams",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260815&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/udinese-venezia-il-derby-del-triveneto-vale-gli-ottavi-di-finale"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-torino",
+   "away": "it-carrarese",
+   "date": "2026-08-15",
+   "status": "FT",
+   "score": [
+    1,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 9,
+     "side": "home",
+     "player": "Giovanni Simeone",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260815&limit=37",
+    "https://www.corrieredellosport.it/live/partita/torino-carrarese-2649017"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-frosinone",
+   "away": "it-juve-stabia",
+   "date": "2026-08-16",
+   "status": "FT",
+   "score": [
+    4,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Giorgi Kvernadze",
+     "type": "goal"
+    },
+    {
+     "minute": 29,
+     "side": "home",
+     "player": "Matteo Cichella",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Antonio Raimondo",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "away",
+     "player": "Leonardo Candellone",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Giorgi Kvernadze",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260816&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/sassuolo-frosinone-agli-ottavi-c-e-la-juventus-che-aspetta"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-genoa",
+   "away": "it-ascoli",
+   "date": "2026-08-16",
+   "status": "FT",
+   "score": [
+    4,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Andrea Silipo",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "Alessandro Marcandalli",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Tommaso Baldanzi",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Lorenzo Colombo",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Elias Havel",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260816&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/genoa-e-sud-tirol-si-giocno-gli-ottavi-contro-l-inter"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-hellas-verona",
+   "away": "it-virtus-entella",
+   "date": "2026-08-16",
+   "status": "PEN",
+   "score": [
+    2,
+    2
+   ],
+   "regular": [
+    2,
+    2
+   ],
+   "pens": [
+    3,
+    2
+   ],
+   "noExtraTime": true,
+   "goals": [
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "Bernat Guiu",
+     "type": "goal"
+    },
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Mattia Compagnon",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Amin Sarr",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Andrea Franzoni",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260816&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/cagliari-verona-chiude-il-programma-dei-sedicesimi"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-lazio",
+   "away": "it-mantova",
+   "date": "2026-08-16",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 75,
+     "side": "away",
+     "player": "Francesco Ruocco",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Ismael Cajazzo",
+     "type": "goal",
+     "extra": 6
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260816&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/palermo-mantova-profumo-di-ottavi-e-di-serie-a"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-pisa",
+   "away": "it-empoli",
+   "date": "2026-08-17",
+   "status": "PEN",
+   "score": [
+    1,
+    1
+   ],
+   "regular": [
+    1,
+    1
+   ],
+   "pens": [
+    4,
+    3
+   ],
+   "noExtraTime": true,
+   "goals": [
+    {
+     "minute": 44,
+     "side": "home",
+     "player": "Tommaso Marras",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Edoardo Saporiti",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260817&limit=37",
+    "https://www.corrieredellosport.it/live/partita/pisa-empoli-2649022"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-sassuolo",
+   "away": "it-cesena",
+   "date": "2026-08-17",
+   "status": "FT",
+   "score": [
+    3,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "Cristian Volpato",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Vasilije Adzic",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Luca Lipani",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260817&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/sassuolo-frosinone-agli-ottavi-c-e-la-juventus-che-aspetta"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-cremonese",
+   "away": "it-sampdoria",
+   "date": "2026-08-17",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "David Stuckler",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Tommaso Berti",
+     "type": "goal",
+     "extra": 3
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260817&limit=37",
+    "https://www.corrieredellosport.it/live/partita/cremonese-sampdoria-2649024"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-palermo",
+   "away": "it-lecce",
+   "date": "2026-08-17",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 14,
+     "side": "home",
+     "player": "Dominic Vavassori",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "Joel Pohjanpalo",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260817&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/palermo-mantova-profumo-di-ottavi-e-di-serie-a"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-parma",
+   "away": "it-cremonese",
+   "date": "2026-09-01",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Simone Lottici Tessadri",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Adin Licina",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260901&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/coppa-italia/videos/highlights",
+    "https://www.legaseriea.it/team/parma/",
+    "https://www.legaseriea.it/coppa-italia/news/ecco-quando-si-giocano-i-sedicesimi",
+    "https://en.legaseriea.it/coppa-italia/news/the-referees-for-the-round-of-32-x6848"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-torino",
+   "away": "it-monza",
+   "date": "2026-09-01",
+   "status": "FT",
+   "score": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Dany Mota",
+     "type": "goal",
+     "extra": 3
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260901&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/coppa-italia/videos/highlights",
+    "https://www.legaseriea.it/team/torino/"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-sassuolo",
+   "away": "it-frosinone",
+   "date": "2026-09-02",
+   "status": "PEN",
+   "score": [
+    1,
+    1
+   ],
+   "regular": [
+    1,
+    1
+   ],
+   "pens": [
+    4,
+    3
+   ],
+   "noExtraTime": true,
+   "goals": [
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Benjamín Domínguez",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Aleksa Terzic",
+     "type": "goal",
+     "extra": 2
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260902&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/team/sassuolo/",
+    "https://www.legaseriea.it/team/frosinone/"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-udinese",
+   "away": "it-venezia",
+   "date": "2026-09-02",
+   "status": "FT",
+   "score": [
+    2,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 9,
+     "side": "away",
+     "player": "Richie Sagrado",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "Bayo Youssouf",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Bayo Youssouf",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260902&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/team/udinese/",
+    "https://www.legaseriea.it/team/venezia/"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-palermo",
+   "away": "it-mantova",
+   "date": "2026-09-03",
+   "status": "FT",
+   "score": [
+    5,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 9,
+     "side": "home",
+     "player": "Gabriel Strefezza",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Antonio Palumbo",
+     "type": "penalty",
+     "extra": 6
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Francesco Ruocco",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Rachid Kouda",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Joel Pohjanpalo",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Dennis Johnsen",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Joel Pohjanpalo",
+     "type": "goal",
+     "extra": 5
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260903&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/coppa-italia/videos/highlights"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-cagliari",
+   "away": "it-hellas-verona",
+   "date": "2026-09-03",
+   "status": "FT",
+   "score": [
+    1,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 23,
+     "side": "away",
+     "player": "Abdou Harroui",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Paul Mendy",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Samuele Mulattieri",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260903&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/team/cagliari/"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-genoa",
+   "away": "it-sudtirol",
+   "date": "2026-09-15",
+   "status": "FT",
+   "score": [
+    1,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Johan Vásquez",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260915&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/team/genoa/",
+    "https://www.legaseriea.it/coppa-italia/news/ecco-quando-si-giocano-i-sedicesimi"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "coppa-italia",
+   "season": "2026-27",
+   "home": "it-fiorentina",
+   "away": "it-pisa",
+   "date": "2026-09-15",
+   "status": "FT",
+   "score": [
+    3,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "Mateo Pellegrino",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Wilfried Gnonto",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Pedro Gonçalves",
+     "type": "goal",
+     "extra": 2
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260915&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/team/fiorentina/",
+    "https://www.legaseriea.it/coppa-italia/news/fiorentina-pisa-chiude-il-programma-dei-sedicesimi"
+   ]
+  }
+ ],
+ "unconfirmed": [],
+ "notes": [
+  "All 28 played matches come from ESPN's ita.coppa_italia feed: preliminary round 4 (8-9 Aug 2026), first round ('trentaduesimi') 16 (14-17 Aug), second round ('sedicesimi') 8 (1-3 and 15 Sep). Results confirmed by legaseriea.it (Tier 1: round articles, highlight titles) and, where its pages named only the winner, by Sky Sports (Vicenza-Catania, Ascoli-Potenza, Benevento-Ravenna) or Corriere dello Sport's match pages (Monza-Avellino, Torino-Carrarese, Cremonese-Sampdoria, Pisa-Empoli; Corriere added as Tier 2). Every first-round winner is in the second round.",
+  "Format (legaseriea.it, 'La Coppa Italia Frecciarossa entra nel vivo con i trentaduesimi'): 44 clubs (20 Serie A, 20 Serie B, 4 Serie C); single matches; a draw after 90 minutes goes straight to penalties, so shoot-outs are stored as PEN with noExtraTime (Corriere dello Sport's match pages show no extra time in Vicenza-Catania and Pisa-Empoli). Italian pages give a shoot-out as a total ('Sassuolo-Frosinone 5-4 d.c.r.' = 1-1 and 4-3 on penalties).",
+  "Bracket fixed in advance (Comunicato Ufficiale n. 209, 24 Jun 2026). Round of 16 (legaseriea.it, 25 Sep 2026): Inter v Genoa Tue 1 Dec 21:00, Como v Cremonese Wed 2 Dec 21:00, Juventus v Sassuolo Thu 3 Dec (time not published: stored 14:00 UTC, timeConfirmed false), Bologna v Palermo Tue 15 Dec, Napoli v Fiorentina Wed 16 Dec, Roma v Verona Tue 12 Jan 2027, Milan v Monza Wed 13 Jan, Atalanta v Udinese Tue 26 Jan, all 21:00 Italian time (20:00 UTC). Quarter-finals 3 and 10 Feb 2027 (pairings follow the bracket, not read), semi-finals two legs 3 Mar and 21 Apr 2027, final Wed 19 May 2027 (CU n. 200; time and stadium not published: stored 14:00 UTC, timeConfirmed false, neutral, no venue)."
+ ]
+}

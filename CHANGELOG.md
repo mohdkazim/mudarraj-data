@@ -2227,3 +2227,1089 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result laliga-2026-27-regular-r10-es-celta-vigo-es-real-betis 0-0 FT
   - ✓ fixture gulf-club-cl-2026-27-groups-gb-r02-bh-al-riffa-qa-qatar-sc kick-off 2026-10-27T17:00:00Z
   - ✓ table-check laliga overall reference table laliga overall (20 rows)
+
+## 2026-10-26 (2026-10-26T08:00:00Z)
+- 26 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ team de-union-berlin team de-union-berlin added
+  - ✓ team de-borussia-monchengladbach team de-borussia-monchengladbach added
+  - ✓ team de-fc-augsburg team de-fc-augsburg added
+  - ✓ team de-fc-koln team de-fc-koln added
+  - ✓ team de-hamburger-sv team de-hamburger-sv added
+  - ✓ team de-mainz-05 team de-mainz-05 added
+  - ✓ team de-sc-freiburg team de-sc-freiburg added
+  - ✓ team de-sc-paderborn team de-sc-paderborn added
+  - ✓ team de-sv-elversberg team de-sv-elversberg added
+  - ✓ team de-schalke-04 team de-schalke-04 added
+  - ✓ team de-tsg-hoffenheim team de-tsg-hoffenheim added
+  - ✓ team de-werder-bremen team de-werder-bremen added
+  - ✓ team it-ac-milan team it-ac-milan added
+  - ✓ team it-bologna team it-bologna added
+  - ✓ team it-cagliari team it-cagliari added
+  - ✓ team it-fiorentina team it-fiorentina added
+  - ✓ team it-frosinone team it-frosinone added
+  - ✓ team it-genoa team it-genoa added
+  - ✓ team it-lazio team it-lazio added
+  - ✓ team it-lecce team it-lecce added
+  - ✓ team it-monza team it-monza added
+  - ✓ team it-parma team it-parma added
+  - ✓ team it-sassuolo team it-sassuolo added
+  - ✓ team it-torino team it-torino added
+  - ✓ team it-udinese team it-udinese added
+  - ✓ team it-venezia team it-venezia added
+
+## 2026-10-26 (2026-10-26T08:00:00Z)
+- 369 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ fixture bundesliga-2026-27-regular-r01-de-bayern-munich-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r01-de-fc-koln-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r01-de-mainz-05-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r01-de-rb-leipzig-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r01-de-sv-elversberg-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r01-de-union-berlin-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r01-de-borussia-dortmund-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r01-de-sc-freiburg-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r01-de-fc-augsburg-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r02-de-vfb-stuttgart-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r02-de-bayer-leverkusen-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r02-de-borussia-monchengladbach-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r02-de-sc-paderborn-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r02-de-tsg-hoffenheim-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r02-de-werder-bremen-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r02-de-schalke-04-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r02-de-hamburger-sv-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r02-de-eintracht-frankfurt-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r03-de-union-berlin-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r03-de-borussia-dortmund-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r03-de-fc-augsburg-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r03-de-mainz-05-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r03-de-sc-freiburg-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r03-de-tsg-hoffenheim-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r03-de-fc-koln-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r03-de-rb-leipzig-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r03-de-sv-elversberg-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r04-de-bayern-munich-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r04-de-borussia-monchengladbach-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r04-de-eintracht-frankfurt-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r04-de-hamburger-sv-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r04-de-werder-bremen-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r04-de-vfb-stuttgart-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r04-de-bayer-leverkusen-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r04-de-schalke-04-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r04-de-sc-paderborn-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r05-de-borussia-dortmund-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r05-de-fc-augsburg-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r05-de-mainz-05-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r05-de-sc-paderborn-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r05-de-tsg-hoffenheim-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r05-de-union-berlin-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r05-de-rb-leipzig-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r05-de-fc-koln-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r05-de-sc-freiburg-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r06-de-eintracht-frankfurt-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r06-de-hamburger-sv-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r06-de-schalke-04-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r06-de-sv-elversberg-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r06-de-union-berlin-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r06-de-werder-bremen-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r06-de-bayern-munich-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r06-de-bayer-leverkusen-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r06-de-borussia-monchengladbach-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r07-de-vfb-stuttgart-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r07-de-fc-augsburg-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r07-de-fc-koln-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r07-de-mainz-05-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r07-de-rb-leipzig-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r07-de-sc-paderborn-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r07-de-borussia-dortmund-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r07-de-tsg-hoffenheim-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r07-de-sc-freiburg-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r08-de-sv-elversberg-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r08-de-bayer-leverkusen-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r08-de-borussia-monchengladbach-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r08-de-fc-augsburg-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r08-de-schalke-04-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r08-de-werder-bremen-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r08-de-bayern-munich-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r08-de-union-berlin-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r08-de-eintracht-frankfurt-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r09-de-hamburger-sv-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r09-de-borussia-dortmund-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r09-de-mainz-05-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r09-de-rb-leipzig-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r09-de-sc-paderborn-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r09-de-vfb-stuttgart-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r09-de-fc-koln-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r09-de-sc-freiburg-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r09-de-tsg-hoffenheim-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r10-de-bayern-munich-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r10-de-bayer-leverkusen-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r10-de-borussia-monchengladbach-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r10-de-eintracht-frankfurt-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r10-de-sv-elversberg-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r10-de-union-berlin-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r10-de-schalke-04-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r10-de-fc-augsburg-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r10-de-werder-bremen-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r11-de-werder-bremen-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r11-de-fc-koln-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r11-de-hamburger-sv-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r11-de-mainz-05-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r11-de-sc-paderborn-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r11-de-vfb-stuttgart-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r11-de-tsg-hoffenheim-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r11-de-sc-freiburg-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r11-de-borussia-dortmund-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-bayer-leverkusen-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-bayern-munich-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-eintracht-frankfurt-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-fc-augsburg-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-rb-leipzig-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-sc-freiburg-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-schalke-04-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-sv-elversberg-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-union-berlin-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r13-de-borussia-dortmund-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r13-de-borussia-monchengladbach-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r13-de-fc-koln-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r13-de-hamburger-sv-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r13-de-mainz-05-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r13-de-sc-paderborn-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r13-de-tsg-hoffenheim-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r13-de-vfb-stuttgart-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r13-de-werder-bremen-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r14-de-bayer-leverkusen-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r14-de-bayern-munich-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r14-de-fc-augsburg-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r14-de-mainz-05-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r14-de-rb-leipzig-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r14-de-sc-freiburg-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r14-de-schalke-04-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r14-de-sv-elversberg-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r14-de-union-berlin-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r15-de-borussia-dortmund-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r15-de-borussia-monchengladbach-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r15-de-eintracht-frankfurt-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r15-de-fc-koln-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r15-de-hamburger-sv-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r15-de-sc-paderborn-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r15-de-tsg-hoffenheim-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r15-de-vfb-stuttgart-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r15-de-werder-bremen-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r16-de-bayern-munich-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r16-de-fc-augsburg-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r16-de-fc-koln-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r16-de-mainz-05-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r16-de-rb-leipzig-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r16-de-sc-freiburg-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r16-de-schalke-04-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r16-de-sv-elversberg-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r16-de-union-berlin-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r17-de-bayer-leverkusen-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r17-de-borussia-dortmund-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r17-de-borussia-monchengladbach-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r17-de-eintracht-frankfurt-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r17-de-hamburger-sv-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r17-de-sc-paderborn-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r17-de-tsg-hoffenheim-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r17-de-vfb-stuttgart-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r17-de-werder-bremen-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r18-de-bayer-leverkusen-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r18-de-borussia-monchengladbach-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r18-de-eintracht-frankfurt-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r18-de-hamburger-sv-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r18-de-sc-paderborn-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r18-de-schalke-04-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r18-de-tsg-hoffenheim-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r18-de-vfb-stuttgart-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r18-de-werder-bremen-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r19-de-bayern-munich-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r19-de-borussia-dortmund-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r19-de-fc-augsburg-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r19-de-fc-koln-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r19-de-mainz-05-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r19-de-rb-leipzig-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r19-de-sc-freiburg-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r19-de-sv-elversberg-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r19-de-union-berlin-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r20-de-bayer-leverkusen-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r20-de-bayern-munich-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r20-de-borussia-monchengladbach-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r20-de-eintracht-frankfurt-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r20-de-hamburger-sv-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r20-de-sc-paderborn-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r20-de-schalke-04-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r20-de-vfb-stuttgart-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r20-de-werder-bremen-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r21-de-borussia-dortmund-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r21-de-fc-augsburg-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r21-de-fc-koln-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r21-de-mainz-05-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r21-de-rb-leipzig-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r21-de-sc-freiburg-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r21-de-sv-elversberg-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r21-de-tsg-hoffenheim-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r21-de-union-berlin-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r22-de-bayer-leverkusen-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r22-de-bayern-munich-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r22-de-borussia-monchengladbach-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r22-de-eintracht-frankfurt-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r22-de-hamburger-sv-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r22-de-schalke-04-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r22-de-sv-elversberg-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r22-de-vfb-stuttgart-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r22-de-werder-bremen-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r23-de-borussia-dortmund-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r23-de-fc-augsburg-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r23-de-fc-koln-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r23-de-mainz-05-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r23-de-rb-leipzig-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r23-de-sc-freiburg-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r23-de-sc-paderborn-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r23-de-tsg-hoffenheim-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r23-de-vfb-stuttgart-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r24-de-bayer-leverkusen-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r24-de-bayern-munich-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r24-de-borussia-monchengladbach-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r24-de-eintracht-frankfurt-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r24-de-hamburger-sv-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r24-de-schalke-04-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r24-de-sv-elversberg-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r24-de-union-berlin-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r24-de-werder-bremen-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r25-de-borussia-dortmund-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r25-de-fc-koln-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r25-de-hamburger-sv-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r25-de-mainz-05-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r25-de-rb-leipzig-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r25-de-sc-freiburg-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r25-de-sc-paderborn-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r25-de-tsg-hoffenheim-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r25-de-vfb-stuttgart-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r26-de-bayer-leverkusen-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r26-de-bayern-munich-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r26-de-borussia-monchengladbach-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r26-de-eintracht-frankfurt-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r26-de-fc-augsburg-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r26-de-schalke-04-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r26-de-sv-elversberg-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r26-de-union-berlin-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r26-de-werder-bremen-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r27-de-borussia-dortmund-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r27-de-fc-koln-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r27-de-hamburger-sv-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r27-de-mainz-05-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r27-de-rb-leipzig-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r27-de-sc-freiburg-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r27-de-sc-paderborn-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r27-de-tsg-hoffenheim-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r27-de-vfb-stuttgart-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r28-de-bayer-leverkusen-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r28-de-bayern-munich-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r28-de-borussia-monchengladbach-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r28-de-eintracht-frankfurt-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r28-de-fc-augsburg-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r28-de-rb-leipzig-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r28-de-schalke-04-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r28-de-sv-elversberg-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r28-de-union-berlin-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r29-de-borussia-dortmund-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r29-de-borussia-monchengladbach-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r29-de-fc-koln-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r29-de-hamburger-sv-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r29-de-mainz-05-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r29-de-sc-paderborn-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r29-de-tsg-hoffenheim-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r29-de-vfb-stuttgart-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r29-de-werder-bremen-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r30-de-bayer-leverkusen-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r30-de-bayern-munich-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r30-de-eintracht-frankfurt-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r30-de-fc-augsburg-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r30-de-rb-leipzig-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r30-de-sc-freiburg-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r30-de-schalke-04-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r30-de-sv-elversberg-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r30-de-union-berlin-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r31-de-borussia-dortmund-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r31-de-borussia-monchengladbach-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r31-de-eintracht-frankfurt-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r31-de-fc-koln-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r31-de-hamburger-sv-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r31-de-sc-paderborn-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r31-de-tsg-hoffenheim-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r31-de-vfb-stuttgart-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r31-de-werder-bremen-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r32-de-bayer-leverkusen-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r32-de-bayern-munich-de-borussia-monchengladbach added
+  - ✓ fixture bundesliga-2026-27-regular-r32-de-fc-augsburg-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r32-de-mainz-05-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r32-de-rb-leipzig-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r32-de-sc-freiburg-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r32-de-schalke-04-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r32-de-sv-elversberg-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r32-de-union-berlin-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r33-de-bayer-leverkusen-de-bayern-munich added
+  - ✓ fixture bundesliga-2026-27-regular-r33-de-borussia-dortmund-de-fc-koln added
+  - ✓ fixture bundesliga-2026-27-regular-r33-de-borussia-monchengladbach-de-fc-augsburg added
+  - ✓ fixture bundesliga-2026-27-regular-r33-de-eintracht-frankfurt-de-sv-elversberg added
+  - ✓ fixture bundesliga-2026-27-regular-r33-de-hamburger-sv-de-sc-freiburg added
+  - ✓ fixture bundesliga-2026-27-regular-r33-de-sc-paderborn-de-union-berlin added
+  - ✓ fixture bundesliga-2026-27-regular-r33-de-tsg-hoffenheim-de-mainz-05 added
+  - ✓ fixture bundesliga-2026-27-regular-r33-de-vfb-stuttgart-de-rb-leipzig added
+  - ✓ fixture bundesliga-2026-27-regular-r33-de-werder-bremen-de-schalke-04 added
+  - ✓ fixture bundesliga-2026-27-regular-r34-de-bayern-munich-de-eintracht-frankfurt added
+  - ✓ fixture bundesliga-2026-27-regular-r34-de-fc-augsburg-de-hamburger-sv added
+  - ✓ fixture bundesliga-2026-27-regular-r34-de-fc-koln-de-sc-paderborn added
+  - ✓ fixture bundesliga-2026-27-regular-r34-de-mainz-05-de-vfb-stuttgart added
+  - ✓ fixture bundesliga-2026-27-regular-r34-de-rb-leipzig-de-tsg-hoffenheim added
+  - ✓ fixture bundesliga-2026-27-regular-r34-de-sc-freiburg-de-borussia-dortmund added
+  - ✓ fixture bundesliga-2026-27-regular-r34-de-schalke-04-de-bayer-leverkusen added
+  - ✓ fixture bundesliga-2026-27-regular-r34-de-sv-elversberg-de-werder-bremen added
+  - ✓ fixture bundesliga-2026-27-regular-r34-de-union-berlin-de-borussia-monchengladbach added
+  - ✓ result bundesliga-2026-27-regular-r01-de-bayern-munich-de-vfb-stuttgart 5-1 FT
+  - ✓ result bundesliga-2026-27-regular-r01-de-fc-koln-de-tsg-hoffenheim 3-2 FT
+  - ✓ result bundesliga-2026-27-regular-r01-de-mainz-05-de-sc-paderborn 0-0 FT
+  - ✓ result bundesliga-2026-27-regular-r01-de-rb-leipzig-de-borussia-monchengladbach 3-0 FT
+  - ✓ result bundesliga-2026-27-regular-r01-de-sv-elversberg-de-bayer-leverkusen 3-2 FT
+  - ✓ result bundesliga-2026-27-regular-r01-de-union-berlin-de-eintracht-frankfurt 3-3 FT
+  - ✓ result bundesliga-2026-27-regular-r01-de-borussia-dortmund-de-hamburger-sv 2-0 FT
+  - ✓ result bundesliga-2026-27-regular-r01-de-sc-freiburg-de-werder-bremen 4-1 FT
+  - ✓ result bundesliga-2026-27-regular-r01-de-fc-augsburg-de-schalke-04 3-0 FT
+  - ✓ result bundesliga-2026-27-regular-r02-de-vfb-stuttgart-de-fc-koln 4-1 FT
+  - ✓ result bundesliga-2026-27-regular-r02-de-bayer-leverkusen-de-union-berlin 4-0 FT
+  - ✓ result bundesliga-2026-27-regular-r02-de-borussia-monchengladbach-de-sv-elversberg 3-4 FT
+  - ✓ result bundesliga-2026-27-regular-r02-de-sc-paderborn-de-sc-freiburg 0-1 FT
+  - ✓ result bundesliga-2026-27-regular-r02-de-tsg-hoffenheim-de-borussia-dortmund 2-3 FT
+  - ✓ result bundesliga-2026-27-regular-r02-de-werder-bremen-de-rb-leipzig 3-1 FT
+  - ✓ result bundesliga-2026-27-regular-r02-de-schalke-04-de-bayern-munich 0-0 FT
+  - ✓ result bundesliga-2026-27-regular-r02-de-hamburger-sv-de-mainz-05 0-5 FT
+  - ✓ result bundesliga-2026-27-regular-r02-de-eintracht-frankfurt-de-fc-augsburg 1-4 FT
+  - ✓ result bundesliga-2026-27-regular-r03-de-union-berlin-de-schalke-04 1-3 FT
+  - ✓ result bundesliga-2026-27-regular-r03-de-borussia-dortmund-de-sc-paderborn 3-0 FT
+  - ✓ result bundesliga-2026-27-regular-r03-de-fc-augsburg-de-bayer-leverkusen 2-2 FT
+  - ✓ result bundesliga-2026-27-regular-r03-de-mainz-05-de-eintracht-frankfurt 1-3 FT
+  - ✓ result bundesliga-2026-27-regular-r03-de-sc-freiburg-de-borussia-monchengladbach 5-0 FT
+  - ✓ result bundesliga-2026-27-regular-r03-de-tsg-hoffenheim-de-vfb-stuttgart 2-1 FT
+  - ✓ result bundesliga-2026-27-regular-r03-de-fc-koln-de-werder-bremen 1-1 FT
+  - ✓ result bundesliga-2026-27-regular-r03-de-rb-leipzig-de-hamburger-sv 5-0 FT
+  - ✓ result bundesliga-2026-27-regular-r03-de-sv-elversberg-de-bayern-munich 1-2 FT
+  - ✓ result bundesliga-2026-27-regular-r04-de-bayern-munich-de-union-berlin 7-0 FT
+  - ✓ result bundesliga-2026-27-regular-r04-de-borussia-monchengladbach-de-mainz-05 3-4 FT
+  - ✓ result bundesliga-2026-27-regular-r04-de-eintracht-frankfurt-de-sc-freiburg 2-2 FT
+  - ✓ result bundesliga-2026-27-regular-r04-de-hamburger-sv-de-fc-koln 2-1 FT
+  - ✓ result bundesliga-2026-27-regular-r04-de-werder-bremen-de-fc-augsburg 3-2 FT
+  - ✓ result bundesliga-2026-27-regular-r04-de-vfb-stuttgart-de-borussia-dortmund 0-1 FT
+  - ✓ result bundesliga-2026-27-regular-r04-de-bayer-leverkusen-de-rb-leipzig 2-0 FT
+  - ✓ result bundesliga-2026-27-regular-r04-de-schalke-04-de-sv-elversberg 0-0 FT
+  - ✓ result bundesliga-2026-27-regular-r04-de-sc-paderborn-de-tsg-hoffenheim 3-1 FT
+  - ✓ result bundesliga-2026-27-regular-r05-de-borussia-dortmund-de-werder-bremen 2-2 FT
+  - ✓ result bundesliga-2026-27-regular-r05-de-fc-augsburg-de-bayern-munich 2-2 FT
+  - ✓ result bundesliga-2026-27-regular-r05-de-mainz-05-de-bayer-leverkusen 3-4 FT
+  - ✓ result bundesliga-2026-27-regular-r05-de-sc-paderborn-de-vfb-stuttgart 0-2 FT
+  - ✓ result bundesliga-2026-27-regular-r05-de-tsg-hoffenheim-de-hamburger-sv 2-3 FT
+  - ✓ result bundesliga-2026-27-regular-r05-de-union-berlin-de-sv-elversberg 1-0 FT
+  - ✓ result bundesliga-2026-27-regular-r05-de-rb-leipzig-de-eintracht-frankfurt 6-0 FT
+  - ✓ result bundesliga-2026-27-regular-r05-de-fc-koln-de-borussia-monchengladbach 2-1 FT
+  - ✓ result bundesliga-2026-27-regular-r05-de-sc-freiburg-de-schalke-04 2-1 FT
+  - ✓ result bundesliga-2026-27-regular-r06-de-eintracht-frankfurt-de-fc-koln 1-0 FT
+  - ✓ result bundesliga-2026-27-regular-r06-de-hamburger-sv-de-vfb-stuttgart 1-0 FT
+  - ✓ result bundesliga-2026-27-regular-r06-de-schalke-04-de-mainz-05 0-1 FT
+  - ✓ result bundesliga-2026-27-regular-r06-de-sv-elversberg-de-fc-augsburg 4-3 FT
+  - ✓ result bundesliga-2026-27-regular-r06-de-union-berlin-de-borussia-dortmund 0-0 FT
+  - ✓ result bundesliga-2026-27-regular-r06-de-werder-bremen-de-sc-paderborn 2-2 FT
+  - ✓ result bundesliga-2026-27-regular-r06-de-bayern-munich-de-rb-leipzig 6-1 FT
+  - ✓ result bundesliga-2026-27-regular-r06-de-bayer-leverkusen-de-sc-freiburg 2-1 FT
+  - ✓ result bundesliga-2026-27-regular-r06-de-borussia-monchengladbach-de-tsg-hoffenheim 1-2 FT
+  - ✓ result bundesliga-2026-27-regular-r07-de-vfb-stuttgart-de-borussia-monchengladbach 2-3 FT
+  - ✓ result bundesliga-2026-27-regular-r07-de-fc-augsburg-de-union-berlin 1-1 FT
+  - ✓ result bundesliga-2026-27-regular-r07-de-fc-koln-de-schalke-04 0-0 FT
+  - ✓ result bundesliga-2026-27-regular-r07-de-mainz-05-de-werder-bremen 2-3 FT
+  - ✓ result bundesliga-2026-27-regular-r07-de-rb-leipzig-de-sv-elversberg 4-0 FT
+  - ✓ result bundesliga-2026-27-regular-r07-de-sc-paderborn-de-hamburger-sv 1-0 FT
+  - ✓ result bundesliga-2026-27-regular-r07-de-borussia-dortmund-de-eintracht-frankfurt 1-0 FT
+  - ✓ result bundesliga-2026-27-regular-r07-de-tsg-hoffenheim-de-bayer-leverkusen 3-0 FT
+  - ✓ result bundesliga-2026-27-regular-r07-de-sc-freiburg-de-bayern-munich 1-3 FT
+
+## 2026-10-26 (2026-10-26T08:00:00Z)
+- 460 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ fixture serie-a-2026-27-regular-r01-it-inter-milan-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r01-it-udinese-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r01-it-genoa-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r01-it-parma-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r01-it-frosinone-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r01-it-venezia-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r01-it-atalanta-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r01-it-torino-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r01-it-bologna-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r01-it-roma-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r02-it-ac-milan-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r02-it-fiorentina-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r02-it-monza-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r02-it-sassuolo-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r02-it-juventus-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r02-it-napoli-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r02-it-cagliari-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r02-it-lazio-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r02-it-lecce-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r02-it-atalanta-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r03-it-genoa-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r03-it-fiorentina-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r03-it-inter-milan-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r03-it-roma-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r03-it-frosinone-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r03-it-parma-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r03-it-bologna-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r03-it-juventus-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r03-it-cagliari-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r03-it-udinese-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r04-it-venezia-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r04-it-genoa-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r04-it-lazio-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r04-it-atalanta-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r04-it-lecce-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r04-it-napoli-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r04-it-sassuolo-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r04-it-como-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r04-it-torino-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r04-it-inter-milan-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r05-it-monza-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r05-it-bologna-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r05-it-udinese-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r05-it-roma-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r05-it-venezia-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r05-it-fiorentina-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r05-it-frosinone-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r05-it-parma-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r05-it-juventus-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r05-it-ac-milan-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r06-it-genoa-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r06-it-inter-milan-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r06-it-napoli-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r06-it-como-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r06-it-lazio-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r06-it-lecce-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r06-it-sassuolo-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r06-it-cagliari-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r06-it-atalanta-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r06-it-torino-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r07-it-frosinone-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r07-it-venezia-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r07-it-bologna-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r07-it-roma-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r07-it-udinese-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r07-it-fiorentina-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r07-it-ac-milan-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r07-it-juventus-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r07-it-monza-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r07-it-parma-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r08-it-torino-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r08-it-cagliari-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r08-it-como-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r08-it-napoli-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r08-it-lazio-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r08-it-inter-milan-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r08-it-atalanta-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r08-it-genoa-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r08-it-lecce-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r08-it-udinese-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r09-it-sassuolo-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r09-it-roma-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r09-it-torino-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r09-it-ac-milan-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r09-it-parma-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r09-it-venezia-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r09-it-genoa-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r09-it-monza-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r09-it-frosinone-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r09-it-fiorentina-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r10-it-bologna-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r10-it-udinese-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r10-it-ac-milan-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r10-it-como-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r10-it-frosinone-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r10-it-lazio-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r10-it-lecce-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r10-it-juventus-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r10-it-sassuolo-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r10-it-atalanta-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r11-it-venezia-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r11-it-cagliari-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r11-it-torino-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r11-it-parma-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r11-it-roma-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r11-it-napoli-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r11-it-genoa-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r11-it-monza-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r11-it-inter-milan-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r11-it-fiorentina-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r12-it-como-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r12-it-lazio-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r12-it-parma-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r12-it-napoli-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r12-it-juventus-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r12-it-bologna-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r12-it-sassuolo-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r12-it-ac-milan-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r12-it-atalanta-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r12-it-monza-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r13-it-venezia-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r13-it-frosinone-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r13-it-torino-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r13-it-inter-milan-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r13-it-udinese-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r13-it-sassuolo-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r13-it-roma-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r13-it-como-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r13-it-lecce-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r13-it-cagliari-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r14-it-bologna-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r14-it-monza-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r14-it-frosinone-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r14-it-napoli-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r14-it-genoa-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r14-it-lazio-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r14-it-juventus-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r14-it-ac-milan-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r14-it-venezia-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r14-it-fiorentina-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r15-it-udinese-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r15-it-cagliari-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r15-it-lecce-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r15-it-como-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r15-it-lazio-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r15-it-inter-milan-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r15-it-parma-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r15-it-napoli-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r15-it-atalanta-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r15-it-juventus-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r16-it-frosinone-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r16-it-lecce-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r16-it-sassuolo-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r16-it-ac-milan-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r16-it-roma-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r16-it-fiorentina-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r16-it-torino-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r16-it-venezia-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r16-it-genoa-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r16-it-atalanta-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r17-it-cagliari-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r17-it-fiorentina-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r17-it-torino-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r17-it-roma-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r17-it-monza-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r17-it-inter-milan-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r17-it-como-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r17-it-udinese-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r17-it-parma-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r17-it-bologna-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r18-it-genoa-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r18-it-venezia-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r18-it-ac-milan-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r18-it-juventus-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r18-it-frosinone-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r18-it-lecce-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r18-it-atalanta-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r18-it-lazio-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r18-it-sassuolo-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r18-it-napoli-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r19-it-monza-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r19-it-roma-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r19-it-bologna-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r19-it-como-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r19-it-fiorentina-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r19-it-parma-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r19-it-torino-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r19-it-inter-milan-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r19-it-cagliari-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r19-it-udinese-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r20-it-ac-milan-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r20-it-atalanta-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r20-it-cagliari-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r20-it-juventus-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r20-it-lazio-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r20-it-lecce-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r20-it-napoli-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r20-it-parma-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r20-it-sassuolo-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r20-it-venezia-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r21-it-bologna-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r21-it-como-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r21-it-fiorentina-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r21-it-frosinone-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r21-it-genoa-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r21-it-inter-milan-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r21-it-juventus-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r21-it-lecce-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r21-it-monza-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r21-it-roma-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r22-it-ac-milan-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r22-it-atalanta-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r22-it-cagliari-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r22-it-genoa-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r22-it-lazio-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r22-it-monza-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r22-it-napoli-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r22-it-sassuolo-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r22-it-torino-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r22-it-udinese-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r23-it-atalanta-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r23-it-bologna-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r23-it-como-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r23-it-fiorentina-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r23-it-inter-milan-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r23-it-juventus-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r23-it-lecce-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r23-it-parma-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r23-it-roma-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r23-it-venezia-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r24-it-bologna-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r24-it-cagliari-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r24-it-frosinone-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r24-it-genoa-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r24-it-inter-milan-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r24-it-monza-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r24-it-napoli-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r24-it-roma-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r24-it-torino-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r24-it-udinese-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r25-it-ac-milan-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r25-it-atalanta-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r25-it-como-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r25-it-fiorentina-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r25-it-juventus-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r25-it-lazio-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r25-it-lecce-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r25-it-sassuolo-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r25-it-udinese-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r25-it-venezia-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r26-it-bologna-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r26-it-cagliari-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r26-it-como-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r26-it-frosinone-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r26-it-genoa-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r26-it-inter-milan-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r26-it-monza-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r26-it-parma-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r26-it-roma-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r26-it-torino-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r27-it-ac-milan-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r27-it-atalanta-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r27-it-fiorentina-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r27-it-juventus-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r27-it-lazio-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r27-it-lecce-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r27-it-monza-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r27-it-napoli-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r27-it-sassuolo-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r27-it-udinese-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r28-it-ac-milan-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r28-it-bologna-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r28-it-cagliari-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r28-it-como-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r28-it-frosinone-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r28-it-genoa-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r28-it-lazio-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r28-it-parma-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r28-it-torino-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r28-it-venezia-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r29-it-atalanta-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r29-it-fiorentina-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r29-it-inter-milan-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r29-it-juventus-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r29-it-monza-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r29-it-napoli-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r29-it-parma-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r29-it-roma-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r29-it-sassuolo-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r29-it-udinese-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r30-it-ac-milan-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r30-it-cagliari-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r30-it-como-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r30-it-frosinone-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r30-it-genoa-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r30-it-lecce-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r30-it-roma-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r30-it-sassuolo-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r30-it-torino-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r30-it-venezia-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r31-it-bologna-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r31-it-cagliari-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r31-it-fiorentina-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r31-it-frosinone-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r31-it-inter-milan-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r31-it-juventus-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r31-it-lazio-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r31-it-napoli-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r31-it-parma-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r31-it-udinese-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r32-it-ac-milan-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r32-it-atalanta-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r32-it-bologna-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r32-it-como-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r32-it-fiorentina-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r32-it-monza-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r32-it-roma-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r32-it-sassuolo-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r32-it-torino-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r32-it-venezia-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r33-it-cagliari-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r33-it-frosinone-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r33-it-genoa-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r33-it-inter-milan-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r33-it-juventus-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r33-it-lazio-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r33-it-lecce-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r33-it-napoli-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r33-it-parma-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r33-it-venezia-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r34-it-ac-milan-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r34-it-atalanta-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r34-it-bologna-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r34-it-como-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r34-it-lecce-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r34-it-monza-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r34-it-roma-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r34-it-sassuolo-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r34-it-torino-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r34-it-udinese-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r35-it-fiorentina-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r35-it-frosinone-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r35-it-genoa-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r35-it-inter-milan-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r35-it-lazio-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r35-it-napoli-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r35-it-parma-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r35-it-torino-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r35-it-udinese-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r35-it-venezia-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r36-it-ac-milan-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r36-it-bologna-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r36-it-cagliari-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r36-it-como-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r36-it-juventus-it-inter-milan added
+  - ✓ fixture serie-a-2026-27-regular-r36-it-lazio-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r36-it-lecce-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r36-it-monza-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r36-it-napoli-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r36-it-sassuolo-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r37-it-atalanta-it-lecce added
+  - ✓ fixture serie-a-2026-27-regular-r37-it-fiorentina-it-monza added
+  - ✓ fixture serie-a-2026-27-regular-r37-it-frosinone-it-cagliari added
+  - ✓ fixture serie-a-2026-27-regular-r37-it-genoa-it-bologna added
+  - ✓ fixture serie-a-2026-27-regular-r37-it-inter-milan-it-lazio added
+  - ✓ fixture serie-a-2026-27-regular-r37-it-parma-it-juventus added
+  - ✓ fixture serie-a-2026-27-regular-r37-it-roma-it-como added
+  - ✓ fixture serie-a-2026-27-regular-r37-it-torino-it-napoli added
+  - ✓ fixture serie-a-2026-27-regular-r37-it-udinese-it-sassuolo added
+  - ✓ fixture serie-a-2026-27-regular-r37-it-venezia-it-ac-milan added
+  - ✓ fixture serie-a-2026-27-regular-r38-it-ac-milan-it-udinese added
+  - ✓ fixture serie-a-2026-27-regular-r38-it-bologna-it-parma added
+  - ✓ fixture serie-a-2026-27-regular-r38-it-cagliari-it-roma added
+  - ✓ fixture serie-a-2026-27-regular-r38-it-como-it-genoa added
+  - ✓ fixture serie-a-2026-27-regular-r38-it-juventus-it-frosinone added
+  - ✓ fixture serie-a-2026-27-regular-r38-it-lazio-it-fiorentina added
+  - ✓ fixture serie-a-2026-27-regular-r38-it-lecce-it-venezia added
+  - ✓ fixture serie-a-2026-27-regular-r38-it-monza-it-torino added
+  - ✓ fixture serie-a-2026-27-regular-r38-it-napoli-it-atalanta added
+  - ✓ fixture serie-a-2026-27-regular-r38-it-sassuolo-it-inter-milan added
+  - ✓ result serie-a-2026-27-regular-r01-it-inter-milan-it-monza 4-1 FT
+  - ✓ result serie-a-2026-27-regular-r01-it-udinese-it-como 1-1 FT
+  - ✓ result serie-a-2026-27-regular-r01-it-genoa-it-napoli 0-2 FT
+  - ✓ result serie-a-2026-27-regular-r01-it-parma-it-cagliari 0-1 FT
+  - ✓ result serie-a-2026-27-regular-r01-it-frosinone-it-juventus 0-1 FT
+  - ✓ result serie-a-2026-27-regular-r01-it-venezia-it-lecce 0-2 FT
+  - ✓ result serie-a-2026-27-regular-r01-it-atalanta-it-sassuolo 2-1 FT
+  - ✓ result serie-a-2026-27-regular-r01-it-torino-it-ac-milan 1-2 FT
+  - ✓ result serie-a-2026-27-regular-r01-it-bologna-it-lazio 0-1 FT
+  - ✓ result serie-a-2026-27-regular-r01-it-roma-it-fiorentina 4-0 FT
+  - ✓ result serie-a-2026-27-regular-r02-it-ac-milan-it-venezia 2-0 FT
+  - ✓ result serie-a-2026-27-regular-r02-it-fiorentina-it-frosinone 0-3 FT
+  - ✓ result serie-a-2026-27-regular-r02-it-monza-it-udinese 2-3 FT
+  - ✓ result serie-a-2026-27-regular-r02-it-sassuolo-it-torino 2-1 FT
+  - ✓ result serie-a-2026-27-regular-r02-it-juventus-it-parma 2-0 FT
+  - ✓ result serie-a-2026-27-regular-r02-it-napoli-it-como 1-2 FT
+  - ✓ result serie-a-2026-27-regular-r02-it-cagliari-it-inter-milan 0-1 FT
+  - ✓ result serie-a-2026-27-regular-r02-it-lazio-it-genoa 1-0 FT
+  - ✓ result serie-a-2026-27-regular-r02-it-lecce-it-roma 0-4 FT
+  - ✓ result serie-a-2026-27-regular-r02-it-atalanta-it-bologna 1-0 FT
+  - ✓ result serie-a-2026-27-regular-r03-it-genoa-it-como 1-4 FT
+  - ✓ result serie-a-2026-27-regular-r03-it-fiorentina-it-torino 1-2 FT
+  - ✓ result serie-a-2026-27-regular-r03-it-inter-milan-it-napoli 3-2 FT
+  - ✓ result serie-a-2026-27-regular-r03-it-roma-it-atalanta 2-1 FT
+  - ✓ result serie-a-2026-27-regular-r03-it-frosinone-it-venezia 3-2 FT
+  - ✓ result serie-a-2026-27-regular-r03-it-parma-it-monza 1-1 FT
+  - ✓ result serie-a-2026-27-regular-r03-it-bologna-it-sassuolo 2-2 FT
+  - ✓ result serie-a-2026-27-regular-r03-it-juventus-it-ac-milan 1-1 FT
+  - ✓ result serie-a-2026-27-regular-r03-it-cagliari-it-lecce 1-0 FT
+  - ✓ result serie-a-2026-27-regular-r03-it-udinese-it-lazio 1-2 FT
+  - ✓ result serie-a-2026-27-regular-r04-it-venezia-it-fiorentina 2-4 FT
+  - ✓ result serie-a-2026-27-regular-r04-it-genoa-it-frosinone 1-1 FT
+  - ✓ result serie-a-2026-27-regular-r04-it-lazio-it-ac-milan 2-2 FT
+  - ✓ result serie-a-2026-27-regular-r04-it-atalanta-it-cagliari 1-2 FT
+  - ✓ result serie-a-2026-27-regular-r04-it-lecce-it-monza 3-2 FT
+  - ✓ result serie-a-2026-27-regular-r04-it-napoli-it-bologna 1-0 FT
+  - ✓ result serie-a-2026-27-regular-r04-it-sassuolo-it-juventus 3-2 FT
+  - ✓ result serie-a-2026-27-regular-r04-it-como-it-parma 2-1 FT
+  - ✓ result serie-a-2026-27-regular-r04-it-torino-it-roma 0-2 FT
+  - ✓ result serie-a-2026-27-regular-r04-it-inter-milan-it-udinese 5-3 FT
+  - ✓ result serie-a-2026-27-regular-r05-it-monza-it-sassuolo 2-1 FT
+  - ✓ result serie-a-2026-27-regular-r05-it-bologna-it-torino 1-1 FT
+  - ✓ result serie-a-2026-27-regular-r05-it-udinese-it-cagliari 0-1 FT
+  - ✓ result serie-a-2026-27-regular-r05-it-roma-it-inter-milan 2-2 FT
+  - ✓ result serie-a-2026-27-regular-r05-it-venezia-it-lazio 0-2 FT
+  - ✓ result serie-a-2026-27-regular-r05-it-fiorentina-it-napoli 1-1 FT
+  - ✓ result serie-a-2026-27-regular-r05-it-frosinone-it-como 2-0 FT
+  - ✓ result serie-a-2026-27-regular-r05-it-parma-it-genoa 2-1 FT
+  - ✓ result serie-a-2026-27-regular-r05-it-juventus-it-atalanta 2-0 FT
+  - ✓ result serie-a-2026-27-regular-r05-it-ac-milan-it-lecce 3-0 FT
+  - ✓ result serie-a-2026-27-regular-r06-it-genoa-it-fiorentina 2-1 FT
+  - ✓ result serie-a-2026-27-regular-r06-it-inter-milan-it-parma 3-0 FT
+  - ✓ result serie-a-2026-27-regular-r06-it-napoli-it-frosinone 3-0 FT
+  - ✓ result serie-a-2026-27-regular-r06-it-como-it-roma 0-0 FT
+  - ✓ result serie-a-2026-27-regular-r06-it-lazio-it-monza 3-1 FT
+  - ✓ result serie-a-2026-27-regular-r06-it-lecce-it-bologna 1-2 FT
+  - ✓ result serie-a-2026-27-regular-r06-it-sassuolo-it-ac-milan 1-1 FT
+  - ✓ result serie-a-2026-27-regular-r06-it-cagliari-it-juventus 1-1 FT
+  - ✓ result serie-a-2026-27-regular-r06-it-atalanta-it-venezia 3-1 FT
+  - ✓ result serie-a-2026-27-regular-r06-it-torino-it-udinese 2-1 FT
+  - ✓ result serie-a-2026-27-regular-r07-it-frosinone-it-sassuolo 4-2 FT
+  - ✓ result serie-a-2026-27-regular-r07-it-venezia-it-napoli 1-0 FT
+  - ✓ result serie-a-2026-27-regular-r07-it-bologna-it-inter-milan 1-3 FT
+  - ✓ result serie-a-2026-27-regular-r07-it-roma-it-genoa 2-0 FT
+  - ✓ result serie-a-2026-27-regular-r07-it-udinese-it-lecce 0-3 FT
+  - ✓ result serie-a-2026-27-regular-r07-it-fiorentina-it-como 1-3 FT
+  - ✓ result serie-a-2026-27-regular-r07-it-ac-milan-it-atalanta 3-2 FT
+  - ✓ result serie-a-2026-27-regular-r07-it-juventus-it-lazio 0-3 FT
+  - ✓ result serie-a-2026-27-regular-r07-it-monza-it-cagliari 4-0 FT
+  - ✓ result serie-a-2026-27-regular-r07-it-parma-it-torino 0-3 FT
+  - ✓ result serie-a-2026-27-regular-r08-it-torino-it-monza 3-2 FT
+  - ✓ result serie-a-2026-27-regular-r08-it-cagliari-it-bologna 0-2 FT
+  - ✓ result serie-a-2026-27-regular-r08-it-como-it-sassuolo 2-0 FT
+  - ✓ result serie-a-2026-27-regular-r08-it-napoli-it-roma 3-3 FT
+  - ✓ result serie-a-2026-27-regular-r08-it-lazio-it-parma 2-1 FT
+  - ✓ result serie-a-2026-27-regular-r08-it-inter-milan-it-fiorentina 2-1 FT
+  - ✓ result serie-a-2026-27-regular-r08-it-atalanta-it-frosinone 4-4 FT
+  - ✓ result serie-a-2026-27-regular-r08-it-genoa-it-venezia 1-0 FT
+  - ✓ result serie-a-2026-27-regular-r08-it-lecce-it-juventus 0-2 FT
+  - ✓ result serie-a-2026-27-regular-r08-it-udinese-it-ac-milan 0-2 FT
+
+## 2026-10-26 (2026-10-26T08:00:00Z)
+- 127 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ team de-fc-heidenheim team de-fc-heidenheim added
+  - ✓ team de-fc-magdeburg team de-fc-magdeburg added
+  - ✓ team de-fc-nurnberg team de-fc-nurnberg added
+  - ✓ team de-phonix-lubeck team de-phonix-lubeck added
+  - ✓ team de-arminia-bielefeld team de-arminia-bielefeld added
+  - ✓ team de-bahlinger-sc team de-bahlinger-sc added
+  - ✓ team de-dynamo-dresden team de-dynamo-dresden added
+  - ✓ team de-eintracht-trier team de-eintracht-trier added
+  - ✓ team de-energie-cottbus team de-energie-cottbus added
+  - ✓ team de-carl-zeiss-jena team de-carl-zeiss-jena added
+  - ✓ team de-erzgebirge-aue team de-erzgebirge-aue added
+  - ✓ team de-fortuna-dusseldorf team de-fortuna-dusseldorf added
+  - ✓ team de-hebc-hamburg team de-hebc-hamburg added
+  - ✓ team de-hallescher-fc team de-hallescher-fc added
+  - ✓ team de-hannover-96 team de-hannover-96 added
+  - ✓ team de-hansa-rostock team de-hansa-rostock added
+  - ✓ team de-hemelingen team de-hemelingen added
+  - ✓ team de-hertha-berlin team de-hertha-berlin added
+  - ✓ team de-holstein-kiel team de-holstein-kiel added
+  - ✓ team de-kaiserslautern team de-kaiserslautern added
+  - ✓ team de-karlsruher-sc team de-karlsruher-sc added
+  - ✓ team de-luneburger-sk-hansa team de-luneburger-sk-hansa added
+  - ✓ team de-msv-duisburg team de-msv-duisburg added
+  - ✓ team de-preussen-munster team de-preussen-munster added
+  - ✓ team de-rot-weiss-essen team de-rot-weiss-essen added
+  - ✓ team de-sc-st-tonis team de-sc-st-tonis added
+  - ✓ team de-sc-verl team de-sc-verl added
+  - ✓ team de-sonnenhof-grossaspach team de-sonnenhof-grossaspach added
+  - ✓ team de-ssv-jeddeloh-ii team de-ssv-jeddeloh-ii added
+  - ✓ team de-darmstadt-98 team de-darmstadt-98 added
+  - ✓ team de-waldhof-mannheim team de-waldhof-mannheim added
+  - ✓ team de-wehen-wiesbaden team de-wehen-wiesbaden added
+  - ✓ team de-fc-saarbrucken team de-fc-saarbrucken added
+  - ✓ team de-tsv-schott-mainz team de-tsv-schott-mainz added
+  - ✓ team de-greuther-furth team de-greuther-furth added
+  - ✓ team de-st-pauli team de-st-pauli added
+  - ✓ team de-1860-munich team de-1860-munich added
+  - ✓ team de-eintracht-braunschweig team de-eintracht-braunschweig added
+  - ✓ team de-vfb-krieschow team de-vfb-krieschow added
+  - ✓ team de-vsg-altglienicke team de-vsg-altglienicke added
+  - ✓ team de-vfl-bochum team de-vfl-bochum added
+  - ✓ team de-vfl-osnabruck team de-vfl-osnabruck added
+  - ✓ team de-vfl-wolfsburg team de-vfl-wolfsburg added
+  - ✓ team de-viktoria-koln team de-viktoria-koln added
+  - ✓ team de-westfalia-rhynern team de-westfalia-rhynern added
+  - ✓ team de-wurzburger-kickers team de-wurzburger-kickers added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-preussen-munster-de-karlsruher-sc added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-waldhof-mannheim-de-kaiserslautern added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-sc-st-tonis-de-eintracht-frankfurt added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-hansa-rostock-de-vfb-stuttgart added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-wehen-wiesbaden-de-bayer-leverkusen added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-energie-cottbus-de-fc-augsburg added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-hemelingen-de-hannover-96 added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-luneburger-sk-hansa-de-werder-bremen added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-msv-duisburg-de-sv-elversberg added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-viktoria-koln-de-fc-nurnberg added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-fc-saarbrucken-de-hertha-berlin added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-erzgebirge-aue-de-tsg-hoffenheim added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-1860-munich-de-holstein-kiel added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-eintracht-trier-de-rb-leipzig added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-sonnenhof-grossaspach-de-arminia-bielefeld added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-greuther-furth-de-vfl-bochum added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-ssv-jeddeloh-ii-de-fc-heidenheim added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-tsv-schott-mainz-de-borussia-monchengladbach added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-westfalia-rhynern-de-dynamo-dresden added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-bahlinger-sc-de-fc-magdeburg added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-carl-zeiss-jena-de-darmstadt-98 added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-vfb-krieschow-de-mainz-05 added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-eintracht-braunschweig-de-union-berlin added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-phonix-lubeck-de-sc-paderborn added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-fortuna-dusseldorf-de-sc-freiburg added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-rot-weiss-essen-de-st-pauli added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-wurzburger-kickers-de-fc-koln added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-vsg-altglienicke-de-vfl-wolfsburg added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-sc-verl-de-hamburger-sv added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-hallescher-fc-de-schalke-04 added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-hebc-hamburg-de-borussia-dortmund added
+  - ✓ fixture dfb-pokal-2026-27-r1-de-vfl-osnabruck-de-bayern-munich added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-hamburger-sv-de-eintracht-frankfurt added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-rot-weiss-essen-de-rb-leipzig added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-sonnenhof-grossaspach-de-fc-augsburg added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-vfl-bochum-de-mainz-05 added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-sv-elversberg-de-darmstadt-98 added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-fc-koln-de-union-berlin added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-borussia-dortmund-de-werder-bremen added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-borussia-monchengladbach-de-karlsruher-sc added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-ssv-jeddeloh-ii-de-hertha-berlin added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-dynamo-dresden-de-schalke-04 added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-sc-paderborn-de-vfb-stuttgart added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-sc-freiburg-de-vfl-wolfsburg added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-hannover-96-de-kaiserslautern added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-bayer-leverkusen-de-fc-nurnberg added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-holstein-kiel-de-tsg-hoffenheim added
+  - ✓ fixture dfb-pokal-2026-27-r2-de-bayern-munich-de-fc-magdeburg added
+  - ✓ fixture dfb-pokal-2026-27-final-tbd-tbd added
+  - ✓ result dfb-pokal-2026-27-r1-de-preussen-munster-de-karlsruher-sc 1-2 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-waldhof-mannheim-de-kaiserslautern 0-1 AET
+  - ✓ result dfb-pokal-2026-27-r1-de-sc-st-tonis-de-eintracht-frankfurt 0-11 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-hansa-rostock-de-vfb-stuttgart 0-4 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-wehen-wiesbaden-de-bayer-leverkusen 0-4 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-energie-cottbus-de-fc-augsburg 0-2 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-hemelingen-de-hannover-96 1-9 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-luneburger-sk-hansa-de-werder-bremen 0-3 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-msv-duisburg-de-sv-elversberg 1-3 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-viktoria-koln-de-fc-nurnberg 1-1 PEN
+  - ✓ result dfb-pokal-2026-27-r1-de-fc-saarbrucken-de-hertha-berlin 1-1 PEN
+  - ✓ result dfb-pokal-2026-27-r1-de-erzgebirge-aue-de-tsg-hoffenheim 0-4 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-1860-munich-de-holstein-kiel 0-2 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-eintracht-trier-de-rb-leipzig 0-6 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-sonnenhof-grossaspach-de-arminia-bielefeld 2-2 PEN
+  - ✓ result dfb-pokal-2026-27-r1-de-greuther-furth-de-vfl-bochum 1-2 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-ssv-jeddeloh-ii-de-fc-heidenheim 5-2 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-tsv-schott-mainz-de-borussia-monchengladbach 0-5 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-westfalia-rhynern-de-dynamo-dresden 0-6 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-bahlinger-sc-de-fc-magdeburg 0-4 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-carl-zeiss-jena-de-darmstadt-98 1-2 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-vfb-krieschow-de-mainz-05 0-9 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-eintracht-braunschweig-de-union-berlin 2-4 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-phonix-lubeck-de-sc-paderborn 2-4 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-fortuna-dusseldorf-de-sc-freiburg 1-5 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-rot-weiss-essen-de-st-pauli 2-0 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-wurzburger-kickers-de-fc-koln 1-2 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-vsg-altglienicke-de-vfl-wolfsburg 3-3 PEN
+  - ✓ result dfb-pokal-2026-27-r1-de-sc-verl-de-hamburger-sv 0-3 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-hallescher-fc-de-schalke-04 2-5 AET
+  - ✓ result dfb-pokal-2026-27-r1-de-hebc-hamburg-de-borussia-dortmund 0-5 FT
+  - ✓ result dfb-pokal-2026-27-r1-de-vfl-osnabruck-de-bayern-munich 1-4 FT
+
+## 2026-10-26 (2026-10-26T08:00:00Z)
+- 89 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ team it-vicenza team it-vicenza added
+  - ✓ team it-catania team it-catania added
+  - ✓ team it-ascoli team it-ascoli added
+  - ✓ team it-potenza team it-potenza added
+  - ✓ team it-arezzo team it-arezzo added
+  - ✓ team it-union-brescia team it-union-brescia added
+  - ✓ team it-benevento team it-benevento added
+  - ✓ team it-ravenna team it-ravenna added
+  - ✓ team it-avellino team it-avellino added
+  - ✓ team it-catanzaro team it-catanzaro added
+  - ✓ team it-sudtirol team it-sudtirol added
+  - ✓ team it-padova team it-padova added
+  - ✓ team it-modena team it-modena added
+  - ✓ team it-carrarese team it-carrarese added
+  - ✓ team it-juve-stabia team it-juve-stabia added
+  - ✓ team it-hellas-verona team it-hellas-verona added
+  - ✓ team it-virtus-entella team it-virtus-entella added
+  - ✓ team it-mantova team it-mantova added
+  - ✓ team it-pisa team it-pisa added
+  - ✓ team it-empoli team it-empoli added
+  - ✓ team it-cesena team it-cesena added
+  - ✓ team it-cremonese team it-cremonese added
+  - ✓ team it-sampdoria team it-sampdoria added
+  - ✓ team it-palermo team it-palermo added
+  - ✓ fixture coppa-italia-2026-27-prelim-it-vicenza-it-catania added
+  - ✓ fixture coppa-italia-2026-27-prelim-it-ascoli-it-potenza added
+  - ✓ fixture coppa-italia-2026-27-prelim-it-arezzo-it-union-brescia added
+  - ✓ fixture coppa-italia-2026-27-prelim-it-benevento-it-ravenna added
+  - ✓ fixture coppa-italia-2026-27-r1-it-parma-it-catania added
+  - ✓ fixture coppa-italia-2026-27-r1-it-cagliari-it-arezzo added
+  - ✓ fixture coppa-italia-2026-27-r1-it-monza-it-avellino added
+  - ✓ fixture coppa-italia-2026-27-r1-it-fiorentina-it-benevento added
+  - ✓ fixture coppa-italia-2026-27-r1-it-catanzaro-it-sudtirol added
+  - ✓ fixture coppa-italia-2026-27-r1-it-udinese-it-padova added
+  - ✓ fixture coppa-italia-2026-27-r1-it-venezia-it-modena added
+  - ✓ fixture coppa-italia-2026-27-r1-it-torino-it-carrarese added
+  - ✓ fixture coppa-italia-2026-27-r1-it-frosinone-it-juve-stabia added
+  - ✓ fixture coppa-italia-2026-27-r1-it-genoa-it-ascoli added
+  - ✓ fixture coppa-italia-2026-27-r1-it-hellas-verona-it-virtus-entella added
+  - ✓ fixture coppa-italia-2026-27-r1-it-lazio-it-mantova added
+  - ✓ fixture coppa-italia-2026-27-r1-it-pisa-it-empoli added
+  - ✓ fixture coppa-italia-2026-27-r1-it-sassuolo-it-cesena added
+  - ✓ fixture coppa-italia-2026-27-r1-it-cremonese-it-sampdoria added
+  - ✓ fixture coppa-italia-2026-27-r1-it-palermo-it-lecce added
+  - ✓ fixture coppa-italia-2026-27-r2-it-parma-it-cremonese added
+  - ✓ fixture coppa-italia-2026-27-r2-it-torino-it-monza added
+  - ✓ fixture coppa-italia-2026-27-r2-it-sassuolo-it-frosinone added
+  - ✓ fixture coppa-italia-2026-27-r2-it-udinese-it-venezia added
+  - ✓ fixture coppa-italia-2026-27-r2-it-palermo-it-mantova added
+  - ✓ fixture coppa-italia-2026-27-r2-it-cagliari-it-hellas-verona added
+  - ✓ fixture coppa-italia-2026-27-r2-it-genoa-it-sudtirol added
+  - ✓ fixture coppa-italia-2026-27-r2-it-fiorentina-it-pisa added
+  - ✓ fixture coppa-italia-2026-27-r16-it-inter-milan-it-genoa added
+  - ✓ fixture coppa-italia-2026-27-r16-it-como-it-cremonese added
+  - ✓ fixture coppa-italia-2026-27-r16-it-juventus-it-sassuolo added
+  - ✓ fixture coppa-italia-2026-27-r16-it-bologna-it-palermo added
+  - ✓ fixture coppa-italia-2026-27-r16-it-napoli-it-fiorentina added
+  - ✓ fixture coppa-italia-2026-27-r16-it-roma-it-hellas-verona added
+  - ✓ fixture coppa-italia-2026-27-r16-it-ac-milan-it-monza added
+  - ✓ fixture coppa-italia-2026-27-r16-it-atalanta-it-udinese added
+  - ✓ fixture coppa-italia-2026-27-final-tbd-tbd added
+  - ✓ result coppa-italia-2026-27-prelim-it-vicenza-it-catania 1-1 PEN
+  - ✓ result coppa-italia-2026-27-prelim-it-ascoli-it-potenza 3-1 FT
+  - ✓ result coppa-italia-2026-27-prelim-it-arezzo-it-union-brescia 2-0 FT
+  - ✓ result coppa-italia-2026-27-prelim-it-benevento-it-ravenna 5-3 FT
+  - ✓ result coppa-italia-2026-27-r1-it-parma-it-catania 2-0 FT
+  - ✓ result coppa-italia-2026-27-r1-it-cagliari-it-arezzo 1-0 FT
+  - ✓ result coppa-italia-2026-27-r1-it-monza-it-avellino 3-0 FT
+  - ✓ result coppa-italia-2026-27-r1-it-fiorentina-it-benevento 4-1 FT
+  - ✓ result coppa-italia-2026-27-r1-it-catanzaro-it-sudtirol 2-2 PEN
+  - ✓ result coppa-italia-2026-27-r1-it-udinese-it-padova 1-0 FT
+  - ✓ result coppa-italia-2026-27-r1-it-venezia-it-modena 3-2 FT
+  - ✓ result coppa-italia-2026-27-r1-it-torino-it-carrarese 1-0 FT
+  - ✓ result coppa-italia-2026-27-r1-it-frosinone-it-juve-stabia 4-1 FT
+  - ✓ result coppa-italia-2026-27-r1-it-genoa-it-ascoli 4-1 FT
+  - ✓ result coppa-italia-2026-27-r1-it-hellas-verona-it-virtus-entella 2-2 PEN
+  - ✓ result coppa-italia-2026-27-r1-it-lazio-it-mantova 0-2 FT
+  - ✓ result coppa-italia-2026-27-r1-it-pisa-it-empoli 1-1 PEN
+  - ✓ result coppa-italia-2026-27-r1-it-sassuolo-it-cesena 3-0 FT
+  - ✓ result coppa-italia-2026-27-r1-it-cremonese-it-sampdoria 2-0 FT
+  - ✓ result coppa-italia-2026-27-r1-it-palermo-it-lecce 2-0 FT
+  - ✓ result coppa-italia-2026-27-r2-it-parma-it-cremonese 0-2 FT
+  - ✓ result coppa-italia-2026-27-r2-it-torino-it-monza 0-1 FT
+  - ✓ result coppa-italia-2026-27-r2-it-sassuolo-it-frosinone 1-1 PEN
+  - ✓ result coppa-italia-2026-27-r2-it-udinese-it-venezia 2-1 FT
+  - ✓ result coppa-italia-2026-27-r2-it-palermo-it-mantova 5-2 FT
+  - ✓ result coppa-italia-2026-27-r2-it-cagliari-it-hellas-verona 1-2 FT
+  - ✓ result coppa-italia-2026-27-r2-it-genoa-it-sudtirol 1-0 FT
+  - ✓ result coppa-italia-2026-27-r2-it-fiorentina-it-pisa 3-0 FT

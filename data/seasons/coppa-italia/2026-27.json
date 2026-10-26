@@ -1,0 +1,1603 @@
+{
+ "competition": "coppa-italia",
+ "season": "2026-27",
+ "matches": [
+  {
+   "id": "coppa-italia-2026-27-prelim-it-vicenza-it-catania",
+   "stage": {
+    "key": "prelim",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-08T18:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-vicenza",
+   "away": "it-catania",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "PEN",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "regular": [
+     1,
+     1
+    ],
+    "pens": [
+     3,
+     4
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260808&limit=37",
+    "https://www.skysports.com/football-scores-fixtures/2026-08-08",
+    "https://www.corrieredellosport.it/live/partita/vicenza-catania-2649007"
+   ],
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "Gabriele Moncini",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Emmanuele Pio Cicerelli",
+     "type": "penalty"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-prelim-it-ascoli-it-potenza",
+   "stage": {
+    "key": "prelim",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-08T18:30:00Z",
+   "timeConfirmed": true,
+   "home": "it-ascoli",
+   "away": "it-potenza",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260808&limit=37",
+    "https://www.skysports.com/football-scores-fixtures/2026-08-08"
+   ],
+   "goals": [
+    {
+     "minute": 1,
+     "side": "away",
+     "player": "Gabriele Selleri",
+     "type": "goal"
+    },
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Tommaso Milanese",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Gabriele Gori",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Giovanni Corradini",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-prelim-it-arezzo-it-union-brescia",
+   "stage": {
+    "key": "prelim",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-09T17:45:00Z",
+   "timeConfirmed": true,
+   "home": "it-arezzo",
+   "away": "it-union-brescia",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260809&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/la-coppa-italia-frecciarossa-entra-nel-vivo-con-i-trentaduesimi",
+    "https://www.legaseriea.it/coppa-italia/news/la-programmazione-dei-trentaduesimi"
+   ],
+   "goals": [
+    {
+     "minute": 24,
+     "side": "home",
+     "player": "Alessandro Arena",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "Camillo Tavernelli",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-prelim-it-benevento-it-ravenna",
+   "stage": {
+    "key": "prelim",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-09T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-benevento",
+   "away": "it-ravenna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260809&limit=37",
+    "https://www.skysports.com/football/benevento-vs-ravenna/562193"
+   ],
+   "goals": [
+    {
+     "minute": 3,
+     "side": "away",
+     "player": "Vinicius Negro Di Stefano",
+     "type": "goal"
+    },
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Matteo Maggio",
+     "type": "goal"
+    },
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "Antonio Prisco",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "Francesco Salvemini",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Vinicius Negro Di Stefano",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Raffaele Romano",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Stefano Scognamillo",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Francesco Salvemini",
+     "type": "goal",
+     "extra": 1
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-parma-it-catania",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-14T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-parma",
+   "away": "it-catania",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260814&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://en.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/coppa-italia/news/la-coppa-italia-frecciarossa-entra-nel-vivo-con-i-trentaduesimi"
+   ],
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Simone Lontani",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Simone Lontani",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-cagliari-it-arezzo",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-14T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "it-cagliari",
+   "away": "it-arezzo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260814&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/coppa-italia/news/cagliari-verona-chiude-il-programma-dei-sedicesimi"
+   ],
+   "goals": [
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Alessandro Deiola",
+     "type": "penalty"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-monza-it-avellino",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-14T18:45:00Z",
+   "timeConfirmed": true,
+   "home": "it-monza",
+   "away": "it-avellino",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260814&limit=37",
+    "https://www.corrieredellosport.it/live/partita/monza-avellino-2649012"
+   ],
+   "goals": [
+    {
+     "minute": 22,
+     "side": "home",
+     "player": "Gustavo Varela",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Gustavo Varela",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Omari Forson",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-fiorentina-it-benevento",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-14T19:15:00Z",
+   "timeConfirmed": true,
+   "home": "it-fiorentina",
+   "away": "it-benevento",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260814&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/fiorentina-pisa-chiude-il-programma-dei-sedicesimi"
+   ],
+   "goals": [
+    {
+     "minute": 2,
+     "side": "home",
+     "player": "Albert Gudmundsson",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Moise Kean",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Luca Ranieri",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "Cher Ndour",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Davide Lamesta",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-catanzaro-it-sudtirol",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-15T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-catanzaro",
+   "away": "it-sudtirol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "PEN",
+   "score": {
+    "home": 2,
+    "away": 2,
+    "regular": [
+     2,
+     2
+    ],
+    "pens": [
+     3,
+     4
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260815&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/genoa-e-sud-tirol-si-giocno-gli-ottavi-contro-l-inter",
+    "https://www.legaseriea.it/coppa-italia/news/la-programmazione-dei-trentaduesimi"
+   ],
+   "goals": [
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Niklas Pyyhtia",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Simone Pafundi",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Pietro Iemmello",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Kenny Mixtur",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-udinese-it-padova",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-15T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "it-udinese",
+   "away": "it-padova",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260815&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/udinese-venezia-il-derby-del-triveneto-vale-gli-ottavi-di-finale"
+   ],
+   "goals": [
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Keinan Davis",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-venezia-it-modena",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-15T18:45:00Z",
+   "timeConfirmed": true,
+   "home": "it-venezia",
+   "away": "it-modena",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260815&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/udinese-venezia-il-derby-del-triveneto-vale-gli-ottavi-di-finale"
+   ],
+   "goals": [
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Giuseppe Ambrosino",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Akor Adams",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Giuseppe Ambrosino",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "John Yeboah",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Akor Adams",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-torino-it-carrarese",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-15T19:15:00Z",
+   "timeConfirmed": true,
+   "home": "it-torino",
+   "away": "it-carrarese",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260815&limit=37",
+    "https://www.corrieredellosport.it/live/partita/torino-carrarese-2649017"
+   ],
+   "goals": [
+    {
+     "minute": 9,
+     "side": "home",
+     "player": "Giovanni Simeone",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-frosinone-it-juve-stabia",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-16T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-frosinone",
+   "away": "it-juve-stabia",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260816&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/sassuolo-frosinone-agli-ottavi-c-e-la-juventus-che-aspetta"
+   ],
+   "goals": [
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Giorgi Kvernadze",
+     "type": "goal"
+    },
+    {
+     "minute": 29,
+     "side": "home",
+     "player": "Matteo Cichella",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Antonio Raimondo",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "away",
+     "player": "Leonardo Candellone",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Giorgi Kvernadze",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-genoa-it-ascoli",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-16T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "it-genoa",
+   "away": "it-ascoli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260816&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/genoa-e-sud-tirol-si-giocno-gli-ottavi-contro-l-inter"
+   ],
+   "goals": [
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Andrea Silipo",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "Alessandro Marcandalli",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Tommaso Baldanzi",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Lorenzo Colombo",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Elias Havel",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-hellas-verona-it-virtus-entella",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-16T18:45:00Z",
+   "timeConfirmed": true,
+   "home": "it-hellas-verona",
+   "away": "it-virtus-entella",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "PEN",
+   "score": {
+    "home": 2,
+    "away": 2,
+    "regular": [
+     2,
+     2
+    ],
+    "pens": [
+     3,
+     2
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260816&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/cagliari-verona-chiude-il-programma-dei-sedicesimi"
+   ],
+   "goals": [
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "Bernat Guiu",
+     "type": "goal"
+    },
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Mattia Compagnon",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Amin Sarr",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Andrea Franzoni",
+     "type": "penalty"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-lazio-it-mantova",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-16T19:15:00Z",
+   "timeConfirmed": true,
+   "home": "it-lazio",
+   "away": "it-mantova",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260816&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/palermo-mantova-profumo-di-ottavi-e-di-serie-a"
+   ],
+   "goals": [
+    {
+     "minute": 75,
+     "side": "away",
+     "player": "Francesco Ruocco",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Ismael Cajazzo",
+     "type": "goal",
+     "extra": 6
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-pisa-it-empoli",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-17T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-pisa",
+   "away": "it-empoli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "PEN",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "regular": [
+     1,
+     1
+    ],
+    "pens": [
+     4,
+     3
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260817&limit=37",
+    "https://www.corrieredellosport.it/live/partita/pisa-empoli-2649022"
+   ],
+   "goals": [
+    {
+     "minute": 44,
+     "side": "home",
+     "player": "Tommaso Marras",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Edoardo Saporiti",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-sassuolo-it-cesena",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-17T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "it-sassuolo",
+   "away": "it-cesena",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260817&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/sassuolo-frosinone-agli-ottavi-c-e-la-juventus-che-aspetta"
+   ],
+   "goals": [
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "Cristian Volpato",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Vasilije Adzic",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Luca Lipani",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-cremonese-it-sampdoria",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-17T18:45:00Z",
+   "timeConfirmed": true,
+   "home": "it-cremonese",
+   "away": "it-sampdoria",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260817&limit=37",
+    "https://www.corrieredellosport.it/live/partita/cremonese-sampdoria-2649024"
+   ],
+   "goals": [
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "David Stuckler",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Tommaso Berti",
+     "type": "goal",
+     "extra": 3
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r1-it-palermo-it-lecce",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-17T19:15:00Z",
+   "timeConfirmed": true,
+   "home": "it-palermo",
+   "away": "it-lecce",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260817&limit=37",
+    "https://www.legaseriea.it/coppa-italia/news/palermo-mantova-profumo-di-ottavi-e-di-serie-a"
+   ],
+   "goals": [
+    {
+     "minute": 14,
+     "side": "home",
+     "player": "Dominic Vavassori",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "Joel Pohjanpalo",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r2-it-parma-it-cremonese",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-09-01T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-parma",
+   "away": "it-cremonese",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260901&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/coppa-italia/videos/highlights",
+    "https://www.legaseriea.it/team/parma/",
+    "https://www.legaseriea.it/coppa-italia/news/ecco-quando-si-giocano-i-sedicesimi",
+    "https://en.legaseriea.it/coppa-italia/news/the-referees-for-the-round-of-32-x6848"
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Simone Lottici Tessadri",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Adin Licina",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r2-it-torino-it-monza",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-09-01T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-torino",
+   "away": "it-monza",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260901&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/coppa-italia/videos/highlights",
+    "https://www.legaseriea.it/team/torino/"
+   ],
+   "goals": [
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Dany Mota",
+     "type": "goal",
+     "extra": 3
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r2-it-sassuolo-it-frosinone",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-09-02T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-sassuolo",
+   "away": "it-frosinone",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "PEN",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "regular": [
+     1,
+     1
+    ],
+    "pens": [
+     4,
+     3
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260902&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/team/sassuolo/",
+    "https://www.legaseriea.it/team/frosinone/"
+   ],
+   "goals": [
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Benjamín Domínguez",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Aleksa Terzic",
+     "type": "goal",
+     "extra": 2
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r2-it-udinese-it-venezia",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-09-02T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-udinese",
+   "away": "it-venezia",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260902&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/team/udinese/",
+    "https://www.legaseriea.it/team/venezia/"
+   ],
+   "goals": [
+    {
+     "minute": 9,
+     "side": "away",
+     "player": "Richie Sagrado",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "Bayo Youssouf",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Bayo Youssouf",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r2-it-palermo-it-mantova",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-09-03T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-palermo",
+   "away": "it-mantova",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260903&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/coppa-italia/videos/highlights"
+   ],
+   "goals": [
+    {
+     "minute": 9,
+     "side": "home",
+     "player": "Gabriel Strefezza",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Antonio Palumbo",
+     "type": "penalty",
+     "extra": 6
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Francesco Ruocco",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Rachid Kouda",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Joel Pohjanpalo",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "home",
+     "player": "Dennis Johnsen",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Joel Pohjanpalo",
+     "type": "goal",
+     "extra": 5
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r2-it-cagliari-it-hellas-verona",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-09-03T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-cagliari",
+   "away": "it-hellas-verona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260903&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/team/cagliari/"
+   ],
+   "goals": [
+    {
+     "minute": 23,
+     "side": "away",
+     "player": "Abdou Harroui",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Paul Mendy",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Samuele Mulattieri",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r2-it-genoa-it-sudtirol",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-09-15T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-genoa",
+   "away": "it-sudtirol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260915&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/team/genoa/",
+    "https://www.legaseriea.it/coppa-italia/news/ecco-quando-si-giocano-i-sedicesimi"
+   ],
+   "goals": [
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Johan Vásquez",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r2-it-fiorentina-it-pisa",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-09-15T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-fiorentina",
+   "away": "it-pisa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.coppa_italia/scoreboard?dates=20260915&limit=37",
+    "https://www.legaseriea.it/coppa-italia",
+    "https://www.legaseriea.it/team/fiorentina/",
+    "https://www.legaseriea.it/coppa-italia/news/fiorentina-pisa-chiude-il-programma-dei-sedicesimi"
+   ],
+   "goals": [
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "Mateo Pellegrino",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Wilfried Gnonto",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Pedro Gonçalves",
+     "type": "goal",
+     "extra": 2
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.823Z"
+  },
+  {
+   "id": "coppa-italia-2026-27-r16-it-inter-milan-it-genoa",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-01T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-inter-milan",
+   "away": "it-genoa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "id": "coppa-italia-2026-27-r16-it-como-it-cremonese",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-02T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-como",
+   "away": "it-cremonese",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "id": "coppa-italia-2026-27-r16-it-juventus-it-sassuolo",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-03T14:00:00Z",
+   "timeConfirmed": false,
+   "home": "it-juventus",
+   "away": "it-sassuolo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "id": "coppa-italia-2026-27-r16-it-bologna-it-palermo",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-15T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-bologna",
+   "away": "it-palermo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "id": "coppa-italia-2026-27-r16-it-napoli-it-fiorentina",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-16T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-napoli",
+   "away": "it-fiorentina",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "id": "coppa-italia-2026-27-r16-it-roma-it-hellas-verona",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-12T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-roma",
+   "away": "it-hellas-verona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "id": "coppa-italia-2026-27-r16-it-ac-milan-it-monza",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-13T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-ac-milan",
+   "away": "it-monza",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "id": "coppa-italia-2026-27-r16-it-atalanta-it-udinese",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-01-26T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "it-atalanta",
+   "away": "it-udinese",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
+   ]
+  },
+  {
+   "id": "coppa-italia-2026-27-final-tbd-tbd",
+   "stage": {
+    "key": "final",
+    "type": "final",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-05-19T14:00:00Z",
+   "timeConfirmed": false,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Winner semi-final 1",
+    "ar": "الفائز في نصف النهائي 1"
+   },
+   "awayPlaceholder": {
+    "en": "Winner semi-final 2",
+    "ar": "الفائز في نصف النهائي 2"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": true,
+   "sources": [
+    "https://www.legaseriea.it/serie-a/news/le-date-della-stagione-2026-2027"
+   ]
+  }
+ ]
+}

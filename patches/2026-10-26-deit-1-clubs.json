@@ -1,0 +1,1136 @@
+{
+ "run": "2026-10-26T08:00:00Z",
+ "changes": [
+  {
+   "op": "team",
+   "team": {
+    "id": "de-union-berlin",
+    "name": {
+     "en": "Union Berlin",
+     "ar": "يونيون برلين"
+    },
+    "shortName": {
+     "en": "Union Berlin",
+     "ar": "يونيون برلين"
+    },
+    "code": "FCU",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+    "aliases": [
+     "1. FC Union Berlin"
+    ],
+    "venue": {
+     "name": {
+      "en": "Stadion An der Alten Försterei",
+      "ar": "شتاديون آن دير آلته فورشتراي"
+     },
+     "city": {
+      "en": "Berlin",
+      "ar": "برلين"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.aljazeera.net/sport/2026/10/17/%D8%A8%D8%A7%D9%8A%D8%B1%D9%86-%D9%85%D9%8A%D9%88%D9%86%D8%AE-%D9%8A%D9%83%D8%AA%D8%B3%D8%AD-%D9%84%D8%A7%D9%8A%D8%A8%D8%B2%D9%8A%D8%BA-%D8%A8%D8%B3%D8%AF%D8%A7%D8%B3%D9%8A%D8%A9",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%94%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ger",
+    "https://www.kooora.com/?n=1246967",
+    "https://www.albayan.ae/sports/international/2024-06-11-1.4888045",
+    "https://www.aljazeera.net/amp/sport/2026/6/6/%D8%AE%D8%B7%D8%A9-%D8%B7%D9%85%D9%88%D8%AD%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/clubs",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-borussia-monchengladbach",
+    "name": {
+     "en": "Borussia Mönchengladbach",
+     "ar": "بوروسيا مونشنغلادباخ"
+    },
+    "shortName": {
+     "en": "Gladbach",
+     "ar": "مونشنغلادباخ"
+    },
+    "code": "BMG",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+    "aliases": [
+     "Borussia Monchengladbach"
+    ],
+    "venue": {
+     "name": {
+      "en": "Borussia-Park",
+      "ar": "بوروسيا بارك"
+     },
+     "city": {
+      "en": "Mönchengladbach",
+      "ar": "مونشنغلادباخ"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%94%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ger",
+    "https://www.albayan.ae/sports/international/2024-08-22-1.4922659",
+    "https://www.aljazeera.net/amp/sport/2026/6/6/%D8%AE%D8%B7%D8%A9-%D8%B7%D9%85%D9%88%D8%AD%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/clubs",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-fc-augsburg",
+    "name": {
+     "en": "FC Augsburg",
+     "ar": "أوغسبورغ"
+    },
+    "shortName": {
+     "en": "Augsburg",
+     "ar": "أوغسبورغ"
+    },
+    "code": "FCA",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%94%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ger",
+    "https://www.albayan.ae/culture/2002-11-26-1.1352457",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/clubs",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-fc-koln",
+    "name": {
+     "en": "1. FC Köln",
+     "ar": "كولن"
+    },
+    "shortName": {
+     "en": "Köln",
+     "ar": "كولن"
+    },
+    "code": "KOE",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+    "aliases": [
+     "1. FC Koln",
+     "Cologne",
+     "FC Cologne"
+    ],
+    "venue": {
+     "name": {
+      "en": "RheinEnergieStadion",
+      "ar": "راين إنرجي شتاديون"
+     },
+     "city": {
+      "en": "Cologne",
+      "ar": "كولونيا"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%94%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ger",
+    "https://www.aljazeera.net/sport/2024/6/2/%D8%B9%D8%B4%D8%B1%D8%A9-%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D9%88%D9%85%D8%AF%D9%86-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D9%8A%D9%88%D8%B1%D9%88-2024",
+    "https://www.albayan.ae/sports/international/2024-06-11-1.4888045",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%83%D9%88%D9%84%D9%86-%D8%B6%D8%AF-%D8%A8%D8%A7%D9%8A%D8%B1%D9%86-%D9%85%D9%8A%D9%88%D9%86%D8%AE/N1NhBJxryS6-83UjUWjkl",
+    "https://www.aljazeera.net/amp/sport/2026/6/6/%D8%AE%D8%B7%D8%A9-%D8%B7%D9%85%D9%88%D8%AD%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/clubs",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-hamburger-sv",
+    "name": {
+     "en": "Hamburger SV",
+     "ar": "هامبورغ"
+    },
+    "shortName": {
+     "en": "Hamburg",
+     "ar": "هامبورغ"
+    },
+    "code": "HSV",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+    "aliases": [
+     "Hamburg SV"
+    ],
+    "venue": {
+     "name": {
+      "en": "Volksparkstadion",
+      "ar": "فولكسبارك شتاديون"
+     },
+     "city": {
+      "en": "Hamburg",
+      "ar": "هامبورغ"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%94%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ger",
+    "https://www.aljazeera.net/sport/2024/6/2/%D8%B9%D8%B4%D8%B1%D8%A9-%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D9%88%D9%85%D8%AF%D9%86-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D9%8A%D9%88%D8%B1%D9%88-2024",
+    "https://www.albayan.ae/sports/international/2024-06-11-1.4888045",
+    "https://www.aljazeera.net/amp/sport/2026/6/6/%D8%AE%D8%B7%D8%A9-%D8%B7%D9%85%D9%88%D8%AD%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/clubs",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%87%D8%A7%D9%85%D8%A8%D9%88%D8%B1%D8%AC-%D8%B6%D8%AF-%D9%87%D9%88%D9%81%D9%8A%D9%86%D9%87%D8%A7%D9%8A%D9%85/jbm0zeqBhJbuZoefusxqp",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-mainz-05",
+    "name": {
+     "en": "Mainz 05",
+     "ar": "ماينز"
+    },
+    "shortName": {
+     "en": "Mainz",
+     "ar": "ماينز"
+    },
+    "code": "M05",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+    "aliases": [
+     "1. FSV Mainz 05"
+    ],
+    "venue": {
+     "name": {
+      "en": "MEWA Arena",
+      "ar": "ميوا أرينا"
+     },
+     "city": {
+      "en": "Mainz",
+      "ar": "ماينتس"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%94%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ger",
+    "https://www.kooora.com/?n=1374890",
+    "https://www.albayan.ae/economy/business/world-economy/106931",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/clubs",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%85%D8%A7%D9%8A%D9%86%D8%AA%D8%B3-%D8%B6%D8%AF-%D8%B4%D8%AA%D9%88%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA/PynJnok86BkTrgSQxr6u_",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-sc-freiburg",
+    "name": {
+     "en": "SC Freiburg",
+     "ar": "فرايبورغ"
+    },
+    "shortName": {
+     "en": "Freiburg",
+     "ar": "فرايبورغ"
+    },
+    "code": "SCF",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+    "aliases": [
+     "Sport-Club Freiburg"
+    ],
+    "venue": {
+     "name": {
+      "en": "Europa-Park Stadion",
+      "ar": "ملعب يوروبا بارك"
+     },
+     "city": {
+      "en": "Freiburg im Breisgau",
+      "ar": "فرايبورغ"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%94%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ger",
+    "https://www.albayan.ae/sports/international-stadiums/1254449",
+    "https://www.aljazeera.net/travel/2024/12/31/7-%D8%A3%D9%85%D8%A7%D9%83%D9%86-%D9%81%D9%8A-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/clubs",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%81%D8%B1%D8%A7%D9%8A%D8%A8%D9%88%D8%B1%D8%AC-%D8%B6%D8%AF-%D9%84%D8%A7%D9%8A%D8%A8%D8%B2%D9%8A%D8%AC/5QpeIHTHQo0MA7gCVevbI",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-sc-paderborn",
+    "name": {
+     "en": "SC Paderborn 07",
+     "ar": "بادربورن"
+    },
+    "shortName": {
+     "en": "Paderborn",
+     "ar": "بادربورن"
+    },
+    "code": "PAD",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
+    "aliases": [
+     "SC Paderborn"
+    ]
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%94%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ger",
+    "https://www.albayan.ae/world/global/2022-05-20-1.4439184",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/clubs",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%A8%D8%A7%D8%AF%D9%8A%D8%B1%D8%A8%D9%88%D8%B1%D9%86-%D8%B6%D8%AF-%D9%85%D8%A7%D9%8A%D9%86%D8%AA%D8%B3/6vVIFBsg4fuKyecM83Fm8",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-sv-elversberg",
+    "name": {
+     "en": "SV Elversberg",
+     "ar": "إلفرسبرغ"
+    },
+    "shortName": {
+     "en": "Elversberg",
+     "ar": "إلفرسبرغ"
+    },
+    "code": "ELV",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Ursapharm-Arena",
+      "ar": "أورسافارم أرينا"
+     },
+     "city": {
+      "en": "Spiesen-Elversberg",
+      "ar": "سبيسن-إلفرسبيرغ"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%94%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ger",
+    "https://www.aljazeera.net/sport/2026/5/19/%D9%82%D8%B1%D9%8A%D8%A9-%D8%B5%D8%BA%D9%8A%D8%B1%D8%A9-%D8%A8%D8%A3%D8%AD%D9%84%D8%A7%D9%85-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%82%D8%B5%D8%A9-%D8%B5%D8%B9%D9%88%D8%AF",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/clubs",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-schalke-04",
+    "name": {
+     "en": "Schalke 04",
+     "ar": "شالكه"
+    },
+    "shortName": {
+     "en": "Schalke",
+     "ar": "شالكه"
+    },
+    "code": "S04",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+    "aliases": [
+     "FC Schalke 04"
+    ],
+    "venue": {
+     "name": {
+      "en": "Veltins-Arena",
+      "ar": "فيلتينس أرينا"
+     },
+     "city": {
+      "en": "Gelsenkirchen",
+      "ar": "غيلسنكيرشن"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%94%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ger",
+    "https://www.albayan.ae/sports/international/2024-06-11-1.4888045",
+    "https://www.aljazeera.net/sport/2024/6/2/%D8%B9%D8%B4%D8%B1%D8%A9-%D9%85%D9%84%D8%A7%D8%B9%D8%A8-%D9%88%D9%85%D8%AF%D9%86-%D8%AA%D8%B3%D8%AA%D8%B6%D9%8A%D9%81-%D9%8A%D9%88%D8%B1%D9%88-2024",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%B4%D8%A7%D9%84%D9%83%D9%87-04-%D8%B6%D8%AF-%D9%85%D8%A7%D9%8A%D9%86%D8%AA%D8%B3/CdJQMrwniyWJJaExzajlP",
+    "https://www.aljazeera.net/amp/sport/2026/6/6/%D8%AE%D8%B7%D8%A9-%D8%B7%D9%85%D9%88%D8%AD%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/clubs",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-tsg-hoffenheim",
+    "name": {
+     "en": "TSG Hoffenheim",
+     "ar": "هوفنهايم"
+    },
+    "shortName": {
+     "en": "Hoffenheim",
+     "ar": "هوفنهايم"
+    },
+    "code": "TSG",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "SNP Arena",
+      "ar": "راين نيكار أرينا"
+     },
+     "city": {
+      "en": "Sinsheim",
+      "ar": "سينسهايم"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%94%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ger",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%87%D9%88%D9%81%D9%8A%D9%86%D9%87%D8%A7%D9%8A%D9%85-%D8%B6%D8%AF-%D8%B4%D8%AA%D9%88%D8%AA%D8%AC%D8%A7%D8%B1%D8%AA/EO224FUoX98HZEVidlKXH",
+    "https://www.kooora.com/?n=45615",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/clubs",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-werder-bremen",
+    "name": {
+     "en": "Werder Bremen",
+     "ar": "فيردر بريمن"
+    },
+    "shortName": {
+     "en": "Bremen",
+     "ar": "بريمن"
+    },
+    "code": "SVW",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+    "aliases": [
+     "SV Werder Bremen"
+    ],
+    "venue": {
+     "name": {
+      "en": "Weserstadion",
+      "ar": "ويسير-ستاديون"
+     },
+     "city": {
+      "en": "Bremen",
+      "ar": "بريمن"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%94%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ger",
+    "https://www.albayan.ae/sports/international/2024-09-21-1.4937131",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%81%D9%8A%D8%B1%D8%AF%D8%B1-%D8%A8%D8%B1%D9%8A%D9%85%D9%86-%D8%B6%D8%AF-%D9%84%D8%A7%D9%8A%D8%A8%D8%B2%D9%8A%D8%AC/pL50okCFWJXievJf3R7pC",
+    "https://www.aljazeera.net/amp/sport/2026/6/6/%D8%AE%D8%B7%D8%A9-%D8%B7%D9%85%D9%88%D8%AD%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%A9-%D9%83%D8%A3%D8%B3-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Bundesliga",
+    "https://www.bundesliga.com/en/bundesliga/clubs",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-ac-milan",
+    "name": {
+     "en": "AC Milan",
+     "ar": "ميلان"
+    },
+    "shortName": {
+     "en": "Milan",
+     "ar": "ميلان"
+    },
+    "code": "MIL",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "San Siro",
+      "ar": "سان سيرو"
+     },
+     "city": {
+      "en": "Milan",
+      "ar": "ميلانو"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.emaratalyoum.com/sports/arab-and-international/2026-10-11-1.2091370",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%85%D9%8A%D9%84%D8%A7%D9%86-%D8%B6%D8%AF-%D9%84%D9%8A%D8%AA%D8%B4%D9%8A/X7qW0dcpTiiOozULzTaiP",
+    "https://www.aljazeera.net/sport/2026/8/2/%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D9%8A%D9%88%D8%B1%D9%88-2032",
+    "https://www.albayan.ae/sports/international/2023-04-12-1.4646937",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-bologna",
+    "name": {
+     "en": "Bologna",
+     "ar": "بولونيا"
+    },
+    "shortName": {
+     "en": "Bologna",
+     "ar": "بولونيا"
+    },
+    "code": "BOL",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Stadio Renato Dall'Ara",
+      "ar": "ملعب ريناتو دالارا"
+     },
+     "city": {
+      "en": "Bologna",
+      "ar": "بولونيا"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.emaratalyoum.com/sports/arab-and-international/2026-10-11-1.2091370",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%A8%D9%88%D9%84%D9%88%D9%86%D9%8A%D8%A7-%D8%B6%D8%AF-%D8%A7%D9%95%D9%86%D8%AA%D8%B1/Y_hgH0m0Okjm7p7cnvVJS",
+    "https://www.aljazeera.net/sport/2026/8/2/%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D9%8A%D9%88%D8%B1%D9%88-2032",
+    "https://www.albayan.ae/sports/international/2023-04-12-1.4646937",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-cagliari",
+    "name": {
+     "en": "Cagliari",
+     "ar": "كالياري"
+    },
+    "shortName": {
+     "en": "Cagliari",
+     "ar": "كالياري"
+    },
+    "code": "CAG",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Unipol Domus",
+      "ar": "ملعب أونيبول دوموس"
+     },
+     "city": {
+      "en": "Cagliari",
+      "ar": "كالياري"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.emaratalyoum.com/sports/arab-and-international/2026-10-11-1.2091370",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%83%D8%A7%D9%84%D9%8A%D8%A7%D8%B1%D9%8A-%D8%B6%D8%AF-%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3/BnqMIHh6-5oE_1AtAr2DJ",
+    "https://www.aljazeera.net/sport/2026/8/2/%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D9%8A%D9%88%D8%B1%D9%88-2032",
+    "https://www.albayan.ae/sports/international/2023-04-12-1.4646937",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-fiorentina",
+    "name": {
+     "en": "Fiorentina",
+     "ar": "فيورنتينا"
+    },
+    "shortName": {
+     "en": "Fiorentina",
+     "ar": "فيورنتينا"
+    },
+    "code": "FIO",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Stadio Artemio Franchi",
+      "ar": "ملعب أرتيميو فرانتشي"
+     },
+     "city": {
+      "en": "Florence",
+      "ar": "فلورنسا"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.aljazeera.net/sport/2026/10/26/%D8%A5%D9%86%D8%AA%D8%B1-%D9%84%D8%A7%D8%AA%D8%B3%D9%8A%D9%88-%D8%A7%D9%84%D9%8A%D9%88%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%81%D9%8A%D9%88%D8%B1%D9%86%D8%AA%D9%8A%D9%86%D8%A7-%D8%B6%D8%AF-%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3/9n9Ksmg7KzSPyfqRvugVK",
+    "https://www.aljazeera.net/sport/2026/8/2/%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D9%8A%D9%88%D8%B1%D9%88-2032",
+    "https://www.albayan.ae/sports/international/2023-04-12-1.4646937",
+    "https://www.aljazeera.net/travel/2025/12/25/10-%D9%85%D8%AF%D9%86-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%B4%D8%AF-%D8%A5%D9%84%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-frosinone",
+    "name": {
+     "en": "Frosinone",
+     "ar": "فروسينوني"
+    },
+    "shortName": {
+     "en": "Frosinone",
+     "ar": "فروسينوني"
+    },
+    "code": "FRO",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Stadio Benito Stirpe",
+      "ar": "ملعب بينيتو ستيرب"
+     },
+     "city": {
+      "en": "Frosinone",
+      "ar": "فروزينوني"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.aljazeera.net/sport/2026/10/26/%D8%A5%D9%86%D8%AA%D8%B1-%D9%84%D8%A7%D8%AA%D8%B3%D9%8A%D9%88-%D8%A7%D9%84%D9%8A%D9%88%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%81%D8%B1%D9%88%D8%B3%D9%8A%D9%86%D9%88%D9%86%D9%8A-%D8%B6%D8%AF-%D9%85%D9%8A%D9%84%D8%A7%D9%86/vQpBj769OAC8XErwhSXtR",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%81%D8%B1%D9%88%D8%B3%D9%8A%D9%86%D9%88%D9%86%D9%8A-%D8%B6%D8%AF-%D9%83%D8%A7%D9%84%D9%8A%D8%A7%D8%B1%D9%8A/9kdu24r1pxehbqg1fid611dzo",
+    "https://www.kooora.com/?n=465806",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-genoa",
+    "name": {
+     "en": "Genoa",
+     "ar": "جنوى"
+    },
+    "shortName": {
+     "en": "Genoa",
+     "ar": "جنوى"
+    },
+    "code": "GEN",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Stadio Luigi Ferraris",
+      "ar": "ملعب لويجي فيراريس"
+     },
+     "city": {
+      "en": "Genoa",
+      "ar": "جنوة"
+     }
+    }
+   },
+   "sources": [
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%AC%D9%86%D9%88%D9%89-%D8%B6%D8%AF-%D9%86%D8%A7%D8%A8%D9%88%D9%84%D9%8A/wuEsGaaRQafhKj-65hYxy",
+    "https://www.albayan.ae/sports/international/2023-04-12-1.4646937",
+    "https://www.aljazeera.net/travel/2025/12/25/10-%D9%85%D8%AF%D9%86-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%B4%D8%AF-%D8%A5%D9%84%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8",
+    "https://www.aljazeera.net/sport/2026/8/2/%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D9%8A%D9%88%D8%B1%D9%88-2032",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-lazio",
+    "name": {
+     "en": "Lazio",
+     "ar": "لاتسيو"
+    },
+    "shortName": {
+     "en": "Lazio",
+     "ar": "لاتسيو"
+    },
+    "code": "LAZ",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Stadio Olimpico",
+      "ar": "الملعب الأولمبي"
+     },
+     "city": {
+      "en": "Rome",
+      "ar": "روما"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.emaratalyoum.com/sports/arab-and-international/2026-10-11-1.2091370",
+    "https://www.aljazeera.net/sport/2026/10/26/%D8%A5%D9%86%D8%AA%D8%B1-%D9%84%D8%A7%D8%AA%D8%B3%D9%8A%D9%88-%D8%A7%D9%84%D9%8A%D9%88%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%84%D8%A7%D8%AA%D8%B3%D9%8A%D9%88-%D8%B6%D8%AF-%D9%85%D9%88%D9%86%D8%B2%D8%A7/NDd_8YtNCvgvH_8b6xnj3",
+    "https://www.aljazeera.net/sport/2026/8/2/%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D9%8A%D9%88%D8%B1%D9%88-2032",
+    "https://www.albayan.ae/sports/international/2023-04-12-1.4646937",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-lecce",
+    "name": {
+     "en": "Lecce",
+     "ar": "ليتشي"
+    },
+    "shortName": {
+     "en": "Lecce",
+     "ar": "ليتشي"
+    },
+    "code": "LEC",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Stadio Via del Mare",
+      "ar": "ملعب فيا ديل ماري"
+     },
+     "city": {
+      "en": "Lecce",
+      "ar": "ليتشي"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.emaratalyoum.com/sports/arab-and-international/2026-10-11-1.2091370",
+    "https://www.aljazeera.net/sport/2026/10/26/%D8%A5%D9%86%D8%AA%D8%B1-%D9%84%D8%A7%D8%AA%D8%B3%D9%8A%D9%88-%D8%A7%D9%84%D9%8A%D9%88%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%84%D9%8A%D8%AA%D8%B4%D9%8A-%D8%B6%D8%AF-%D9%84%D8%A7%D8%AA%D8%B3%D9%8A%D9%88/fe5phV8S-cBBLdIoId3Uw",
+    "https://www.aljazeera.net/sport/2026/8/2/%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D9%8A%D9%88%D8%B1%D9%88-2032",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-monza",
+    "name": {
+     "en": "Monza",
+     "ar": "مونزا"
+    },
+    "shortName": {
+     "en": "Monza",
+     "ar": "مونزا"
+    },
+    "code": "MON",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Stadio Brianteo",
+      "ar": "ملعب بريانتيو"
+     },
+     "city": {
+      "en": "Monza",
+      "ar": "مونزا"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.emaratalyoum.com/sports/arab-and-international/2026-10-11-1.2091370",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%85%D9%88%D9%86%D8%B2%D8%A7-%D8%B6%D8%AF-%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3/XRbleNTGSLJqg7t5By8SU",
+    "https://www.emaratalyoum.com/sports/arab-and-international/2018-09-07-1.1132439",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-parma",
+    "name": {
+     "en": "Parma",
+     "ar": "بارما"
+    },
+    "shortName": {
+     "en": "Parma",
+     "ar": "بارما"
+    },
+    "code": "PAR",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Stadio Ennio Tardini",
+      "ar": "ملعب إنيو تارديني"
+     },
+     "city": {
+      "en": "Parma",
+      "ar": "بارما"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.aljazeera.net/sport/2026/10/26/%D8%A5%D9%86%D8%AA%D8%B1-%D9%84%D8%A7%D8%AA%D8%B3%D9%8A%D9%88-%D8%A7%D9%84%D9%8A%D9%88%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%A8%D8%A7%D8%B1%D9%85%D8%A7-%D8%B6%D8%AF-%D8%B1%D9%88%D9%85%D8%A7/euYEey64vZCXEXFjRE_K3",
+    "https://www.aljazeera.net/ebusiness/2008/12/19/%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D8%B9%D8%B4%D8%B1-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A-%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D8%A3%D9%83%D8%A8%D8%B1",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-sassuolo",
+    "name": {
+     "en": "Sassuolo",
+     "ar": "ساسولو"
+    },
+    "shortName": {
+     "en": "Sassuolo",
+     "ar": "ساسولو"
+    },
+    "code": "SAS",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Mapei Stadium",
+      "ar": "ملعب مابي"
+     },
+     "city": {
+      "en": "Reggio Emilia",
+      "ar": "ريدجو إميليا"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.emaratalyoum.com/sports/arab-and-international/2026-10-11-1.2091370",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%B3%D8%A7%D8%B3%D9%88%D9%84%D9%88-%D8%B6%D8%AF-%D9%85%D9%8A%D9%84%D8%A7%D9%86/ItrJLmwj6Ppdcx79TPOua",
+    "https://www.emaratalyoum.com/politics/international/2026-05-13-1.2045489",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-torino",
+    "name": {
+     "en": "Torino",
+     "ar": "تورينو"
+    },
+    "shortName": {
+     "en": "Torino",
+     "ar": "تورينو"
+    },
+    "code": "TOR",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Stadio Olimpico Grande Torino",
+      "ar": "ملعب أولمبيكو دي تورينو"
+     },
+     "city": {
+      "en": "Turin",
+      "ar": "تورينو"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%AA%D9%88%D8%B1%D9%8A%D9%86%D9%88-%D8%B6%D8%AF-%D8%B1%D9%88%D9%85%D8%A7/Hc5KWhy7UJOf9UP3ySXkI",
+    "https://www.aljazeera.net/sport/2026/8/2/%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%AF%D9%86-%D9%8A%D9%88%D8%B1%D9%88-2032",
+    "https://www.albayan.ae/sports/international/2023-04-12-1.4646937",
+    "https://www.aljazeera.net/travel/2025/12/25/10-%D9%85%D8%AF%D9%86-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%B4%D8%AF-%D8%A5%D9%84%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-udinese",
+    "name": {
+     "en": "Udinese",
+     "ar": "أودينيزي"
+    },
+    "shortName": {
+     "en": "Udinese",
+     "ar": "أودينيزي"
+    },
+    "code": "UDI",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Stadio Friuli",
+      "ar": "ملعب فريولي"
+     },
+     "city": {
+      "en": "Udine",
+      "ar": "أوديني"
+     }
+    }
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%A7%D9%94%D9%88%D8%AF%D9%8A%D9%86%D9%8A%D8%B2%D9%8A-%D8%B6%D8%AF-%D9%85%D9%8A%D9%84%D8%A7%D9%86/azj-yTFZm0u0EnV1ha-bU",
+    "https://www.aljazeera.net/sport/2025/8/12/%D9%85%D9%88%D8%B9%D8%AF-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%B3%D8%A7%D9%86-%D8%AC%D9%8A%D8%B1%D9%85%D8%A7%D9%86-%D8%B6%D8%AF-%D8%AA%D9%88%D8%AA%D9%86%D9%87%D8%A7%D9%85-%D9%81%D9%8A",
+    "https://www.emaratalyoum.com/sports/local/2025-08-13-1.1965088",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "it-venezia",
+    "name": {
+     "en": "Venezia",
+     "ar": "فينيسيا"
+    },
+    "shortName": {
+     "en": "Venezia",
+     "ar": "فينيسيا"
+    },
+    "code": "VEN",
+    "country": "it",
+    "countryName": {
+     "en": "Italy",
+     "ar": "إيطاليا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+    "aliases": [],
+    "venue": {
+     "name": {
+      "en": "Stadio Pier Luigi Penzo",
+      "ar": "ملعب بيير لويجي بينزو"
+     },
+     "city": {
+      "en": "Venice",
+      "ar": "البندقية"
+     }
+    }
+   },
+   "sources": [
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D8%AF%D9%88%D9%84%D8%A9/%D8%A7%D9%95%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7/%D8%AC%D8%AF%D9%88%D9%84/ita",
+    "https://www.albayan.ae/sports/international-stadiums/1548405",
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D9%81%D9%8A%D9%86%D9%8A%D8%B3%D9%8A%D8%A7-%D8%B6%D8%AF-%D9%86%D8%A7%D8%A8%D9%88%D9%84%D9%8A/vZClfroOBY5SIbPkE7VBm",
+    "https://www.aljazeera.net/travel/2025/12/25/10-%D9%85%D8%AF%D9%86-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A9-%D9%8A%D8%B4%D8%AF-%D8%A5%D9%84%D9%8A%D9%87%D8%A7-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%AD-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8",
+    "https://en.wikipedia.org/wiki/2026%E2%80%9327_Serie_A",
+    "https://en.legaseriea.it/team",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/teams"
+   ]
+  }
+ ],
+ "unconfirmed": [],
+ "notes": [
+  "26 new Bundesliga and Serie A clubs (12 + 14; the other 12 were already in data/teams.json). English names and ESPN ids from ESPN's team lists (ger.1/teams, ita.1/teams); Arabic names from Gulf papers (Al Ittihad, Al Khaleej, Al Bayan, Emarat Al Youm), Kooora and other Arabic outlets (each club's sources list). Stadiums: English from the clubs/leagues/ESPN, Arabic from Arabic outlets; Augsburg (WWK Arena) and Paderborn (Home Deluxe Arena) have no Arabic name on any page read, so no stadium is stored for them yet. Some Arabic pages use an older stadium name: Hoffenheim 'SNP Arena' (bundesliga.com) is 'راين نيكار أرينا' (Rhein-Neckar-Arena) in Arabic; Udinese is stored as 'Stadio Friuli' / 'ملعب فريولي' (ESPN and Arabic pages; now sponsored as Bluenergy Stadium) and Monza as 'Stadio Brianteo' / 'ملعب بريانتيو' (ESPN: U-Power Stadium). AC Milan shares San Siro with Inter and Lazio the Stadio Olimpico with Roma (legaseriea.it).",
+  "Crests: ESPN's logo server (a.espncdn.com/i/teamlogos/soccer/500/<ESPN team id>.png), allowed by the site's image proxy from the 26 Oct 2026 bundle.",
+  "Codes: ESPN's abbreviations where free; Paderborn PAD (SCP is Sporting CP)."
+ ]
+}

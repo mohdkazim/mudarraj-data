@@ -1911,5 +1911,435 @@
         "region": null
       }
     ]
+  },
+  {
+    "id": "bundesliga",
+    "name": {
+      "en": "Bundesliga",
+      "ar": "الدوري الألماني"
+    },
+    "season": "2026-27",
+    "format": "league",
+    "since": 2,
+    "stages": [
+      {
+        "key": "regular",
+        "type": "league",
+        "name": {
+          "en": "Regular season",
+          "ar": "الموسم المنتظم"
+        },
+        "order": 0
+      }
+    ],
+    "tables": [
+      {
+        "id": "overall",
+        "name": null,
+        "stage": "regular",
+        "group": null,
+        "teams": [
+          "de-bayern-munich",
+          "de-borussia-dortmund",
+          "de-rb-leipzig",
+          "de-vfb-stuttgart",
+          "de-bayer-leverkusen",
+          "de-eintracht-frankfurt",
+          "de-sc-freiburg",
+          "de-tsg-hoffenheim",
+          "de-werder-bremen",
+          "de-borussia-monchengladbach",
+          "de-union-berlin",
+          "de-fc-augsburg",
+          "de-mainz-05",
+          "de-fc-koln",
+          "de-hamburger-sv",
+          "de-schalke-04",
+          "de-sc-paderborn",
+          "de-sv-elversberg"
+        ],
+        "tiebreak": "points-gd-gf",
+        "zones": [
+          {
+            "from": 1,
+            "to": 4,
+            "zone": "ucl"
+          },
+          {
+            "from": 5,
+            "to": 5,
+            "zone": "uel"
+          },
+          {
+            "from": 6,
+            "to": 6,
+            "zone": "uecl"
+          },
+          {
+            "from": 16,
+            "to": 16,
+            "zone": "relegation-playoff"
+          },
+          {
+            "from": 17,
+            "to": 18,
+            "zone": "relegation"
+          }
+        ]
+      }
+    ],
+    "rounds": []
+  },
+  {
+    "id": "dfb-pokal",
+    "name": {
+      "en": "DFB-Pokal",
+      "ar": "كأس ألمانيا"
+    },
+    "season": "2026-27",
+    "format": "knockout",
+    "since": 2,
+    "stages": [
+      {
+        "key": "r1",
+        "type": "knockout",
+        "name": {
+          "en": "First round",
+          "ar": "الدور الأول"
+        },
+        "order": 0
+      },
+      {
+        "key": "r2",
+        "type": "knockout",
+        "name": {
+          "en": "Second round",
+          "ar": "الدور الثاني"
+        },
+        "order": 1
+      },
+      {
+        "key": "r16",
+        "type": "knockout",
+        "name": {
+          "en": "Round of 16",
+          "ar": "دور الـ16"
+        },
+        "order": 2
+      },
+      {
+        "key": "qf",
+        "type": "knockout",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 3
+      },
+      {
+        "key": "sf",
+        "type": "knockout",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 4
+      },
+      {
+        "key": "final",
+        "type": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 5
+      }
+    ],
+    "tables": [],
+    "rounds": [
+      {
+        "key": "r1",
+        "name": {
+          "en": "First round",
+          "ar": "الدور الأول"
+        },
+        "order": 0,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "r2",
+        "name": {
+          "en": "Second round",
+          "ar": "الدور الثاني"
+        },
+        "order": 1,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "r16",
+        "name": {
+          "en": "Round of 16",
+          "ar": "دور الـ16"
+        },
+        "order": 2,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "qf",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 3,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "sf",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 4,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 5,
+        "legs": 1,
+        "region": null
+      }
+    ]
+  },
+  {
+    "id": "serie-a",
+    "name": {
+      "en": "Serie A",
+      "ar": "الدوري الإيطالي"
+    },
+    "season": "2026-27",
+    "format": "league",
+    "since": 2,
+    "stages": [
+      {
+        "key": "regular",
+        "type": "league",
+        "name": {
+          "en": "Regular season",
+          "ar": "الموسم المنتظم"
+        },
+        "order": 0
+      }
+    ],
+    "tables": [
+      {
+        "id": "overall",
+        "name": null,
+        "stage": "regular",
+        "group": null,
+        "teams": [
+          "it-inter-milan",
+          "it-napoli",
+          "it-juventus",
+          "it-atalanta",
+          "it-roma",
+          "it-como",
+          "it-ac-milan",
+          "it-bologna",
+          "it-lazio",
+          "it-fiorentina",
+          "it-torino",
+          "it-genoa",
+          "it-udinese",
+          "it-cagliari",
+          "it-lecce",
+          "it-parma",
+          "it-sassuolo",
+          "it-frosinone",
+          "it-monza",
+          "it-venezia"
+        ],
+        "tiebreak": "points-h2h",
+        "zones": [
+          {
+            "from": 1,
+            "to": 4,
+            "zone": "ucl"
+          },
+          {
+            "from": 5,
+            "to": 5,
+            "zone": "uel"
+          },
+          {
+            "from": 6,
+            "to": 6,
+            "zone": "uecl"
+          },
+          {
+            "from": 18,
+            "to": 20,
+            "zone": "relegation"
+          }
+        ]
+      }
+    ],
+    "rounds": []
+  },
+  {
+    "id": "coppa-italia",
+    "name": {
+      "en": "Coppa Italia",
+      "ar": "كأس إيطاليا"
+    },
+    "season": "2026-27",
+    "format": "knockout",
+    "since": 2,
+    "stages": [
+      {
+        "key": "prelim",
+        "type": "knockout",
+        "name": {
+          "en": "Preliminary round",
+          "ar": "الدور التمهيدي"
+        },
+        "order": 0
+      },
+      {
+        "key": "r1",
+        "type": "knockout",
+        "name": {
+          "en": "First round",
+          "ar": "الدور الأول"
+        },
+        "order": 1
+      },
+      {
+        "key": "r2",
+        "type": "knockout",
+        "name": {
+          "en": "Second round",
+          "ar": "الدور الثاني"
+        },
+        "order": 2
+      },
+      {
+        "key": "r16",
+        "type": "knockout",
+        "name": {
+          "en": "Round of 16",
+          "ar": "دور الـ16"
+        },
+        "order": 3
+      },
+      {
+        "key": "qf",
+        "type": "knockout",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 4
+      },
+      {
+        "key": "sf",
+        "type": "knockout",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 5
+      },
+      {
+        "key": "final",
+        "type": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 6
+      }
+    ],
+    "tables": [],
+    "rounds": [
+      {
+        "key": "prelim",
+        "name": {
+          "en": "Preliminary round",
+          "ar": "الدور التمهيدي"
+        },
+        "order": 0,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "r1",
+        "name": {
+          "en": "First round",
+          "ar": "الدور الأول"
+        },
+        "order": 1,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "r2",
+        "name": {
+          "en": "Second round",
+          "ar": "الدور الثاني"
+        },
+        "order": 2,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "r16",
+        "name": {
+          "en": "Round of 16",
+          "ar": "دور الـ16"
+        },
+        "order": 3,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "qf",
+        "name": {
+          "en": "Quarter-finals",
+          "ar": "ربع النهائي"
+        },
+        "order": 4,
+        "legs": 1,
+        "region": null
+      },
+      {
+        "key": "sf",
+        "name": {
+          "en": "Semi-finals",
+          "ar": "نصف النهائي"
+        },
+        "order": 5,
+        "legs": 2,
+        "region": null
+      },
+      {
+        "key": "final",
+        "name": {
+          "en": "Final",
+          "ar": "النهائي"
+        },
+        "order": 6,
+        "legs": 1,
+        "region": null
+      }
+    ]
   }
 ]

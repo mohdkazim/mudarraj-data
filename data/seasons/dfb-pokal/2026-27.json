@@ -1,0 +1,2299 @@
+{
+ "competition": "dfb-pokal",
+ "season": "2026-27",
+ "matches": [
+  {
+   "id": "dfb-pokal-2026-27-r1-de-preussen-munster-de-karlsruher-sc",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-21T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-preussen-munster",
+   "away": "de-karlsruher-sc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260821&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Montell Ndikom",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Marvin Wanitzek",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "Sebastian Jung",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-sc-st-tonis-de-eintracht-frankfurt",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-21T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-sc-st-tonis",
+   "away": "de-eintracht-frankfurt",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 11
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260821&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "away",
+     "player": "Jonathan Burkardt",
+     "type": "goal"
+    },
+    {
+     "minute": 10,
+     "side": "away",
+     "player": "Robin Koch",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Ayoube Amaimouni",
+     "type": "goal"
+    },
+    {
+     "minute": 29,
+     "side": "away",
+     "player": "Jonathan Burkardt",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Can Uzun",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "away",
+     "player": "Can Uzun",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Jonathan Burkardt",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "away",
+     "player": "Elias Baum",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Younes Ebnoutalib",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Mario Götze",
+     "type": "goal",
+     "extra": 5
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Farès Chaïbi",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-waldhof-mannheim-de-kaiserslautern",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-21T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-waldhof-mannheim",
+   "away": "de-kaiserslautern",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "AET",
+   "score": {
+    "home": 0,
+    "away": 1,
+    "regular": [
+     0,
+     0
+    ],
+    "et": [
+     0,
+     1
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260821&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 120,
+     "side": "away",
+     "player": "Ibrahim Kanate",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-hansa-rostock-de-vfb-stuttgart",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-21T18:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-hansa-rostock",
+   "away": "de-vfb-stuttgart",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260821&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Dzenan Pejcinovic",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "away",
+     "player": "Dzenan Pejcinovic",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Tiago Tomás",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Dzenan Pejcinovic",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-energie-cottbus-de-fc-augsburg",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-22T11:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-energie-cottbus",
+   "away": "de-fc-augsburg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Anton Kade",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Kristijan Jakic",
+     "type": "goal",
+     "extra": 5
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-wehen-wiesbaden-de-bayer-leverkusen",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-22T11:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-wehen-wiesbaden",
+   "away": "de-bayer-leverkusen",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Patrik Schick",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "away",
+     "player": "Lucas Vázquez",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Nathan Tella",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Christian Kofane",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-erzgebirge-aue-de-tsg-hoffenheim",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-22T13:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-erzgebirge-aue",
+   "away": "de-tsg-hoffenheim",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 6,
+     "side": "away",
+     "player": "Patrick Wimmer",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Wouter Burger",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Patrick Wimmer",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 63,
+     "side": "away",
+     "player": "Max Moerstedt",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-fc-saarbrucken-de-hertha-berlin",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-22T13:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-fc-saarbrucken",
+   "away": "de-hertha-berlin",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "PEN",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "regular": [
+     1,
+     1
+    ],
+    "et": [
+     0,
+     0
+    ],
+    "pens": [
+     2,
+     4
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/1-runde/1-fc-saarbruecken-hertha-bsc-2418324"
+   ],
+   "goals": [
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Paul Seguin",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Philip Fahrner",
+     "type": "goal",
+     "extra": 2
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-hemelingen-de-hannover-96",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-22T13:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-hemelingen",
+   "away": "de-hannover-96",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 9
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Stefán Teitur Thórdarson",
+     "type": "goal"
+    },
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Lars Gindorf",
+     "type": "goal"
+    },
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "Marcel Hartel",
+     "type": "goal"
+    },
+    {
+     "minute": 19,
+     "side": "away",
+     "player": "Stefán Teitur Thórdarson",
+     "type": "goal"
+    },
+    {
+     "minute": 21,
+     "side": "away",
+     "player": "Benedikt Pichler",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Lars Gindorf",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Lars Gindorf",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "home",
+     "player": "Ledjon Fikaj",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Benedikt Pichler",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Taycan Macid Etcibasi",
+     "type": "goal",
+     "extra": 1
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-luneburger-sk-hansa-de-werder-bremen",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-22T13:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-luneburger-sk-hansa",
+   "away": "de-werder-bremen",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Jens Stage",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Niclas Füllkrug",
+     "type": "penalty"
+    },
+    {
+     "minute": 76,
+     "side": "away",
+     "player": "Ludovit Reis",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-msv-duisburg-de-sv-elversberg",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-22T13:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-msv-duisburg",
+   "away": "de-sv-elversberg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 38,
+     "side": "away",
+     "player": "Luca Schnellbacher",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Lex-Tyger Lobinge",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Francis-Ikechukwu Onyeka",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Francis-Ikechukwu Onyeka",
+     "type": "goal",
+     "extra": 1
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-viktoria-koln-de-fc-nurnberg",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-22T13:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-viktoria-koln",
+   "away": "de-fc-nurnberg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "PEN",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "regular": [
+     1,
+     1
+    ],
+    "et": [
+     0,
+     0
+    ],
+    "pens": [
+     4,
+     5
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401875180",
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/1-runde/fc-viktoria-koeln-1-fc-nuernberg-2418325"
+   ],
+   "goals": [
+    {
+     "minute": 56,
+     "side": "away",
+     "player": "Piet Scobel",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Meiko Sponsel",
+     "type": "goal",
+     "extra": 6
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-1860-munich-de-holstein-kiel",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-22T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-1860-munich",
+   "away": "de-holstein-kiel",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401874892",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Phil Harres",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Guillermo Balzi",
+     "type": "goal",
+     "extra": 5
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-eintracht-trier-de-rb-leipzig",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-22T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-eintracht-trier",
+   "away": "de-rb-leipzig",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 6
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401874893",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 2,
+     "side": "away",
+     "player": "Brajan Gruda",
+     "type": "goal"
+    },
+    {
+     "minute": 6,
+     "side": "away",
+     "player": "Willi Orbán",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Ridle Baku",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 76,
+     "side": "away",
+     "player": "Conrad Harder",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Antonio Nusa",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Ezechiel Banzuzi",
+     "type": "goal",
+     "extra": 5
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-sonnenhof-grossaspach-de-arminia-bielefeld",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-22T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-sonnenhof-grossaspach",
+   "away": "de-arminia-bielefeld",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "PEN",
+   "score": {
+    "home": 2,
+    "away": 2,
+    "regular": [
+     2,
+     2
+    ],
+    "et": [
+     0,
+     0
+    ],
+    "pens": [
+     3,
+     0
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401875186",
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/1-runde/sg-sonnenhof-grossaspach-arminia-bielefeld-2418315"
+   ],
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Jan Elias Rahn",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Stefano Russo",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "away",
+     "player": "Joel Grodowski",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "home",
+     "player": "Fabian Eisele",
+     "type": "penalty"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-greuther-furth-de-vfl-bochum",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-23T11:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-greuther-furth",
+   "away": "de-vfl-bochum",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Christian Rasmussen",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Philipp Hofmann",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Maxim Dal",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-ssv-jeddeloh-ii-de-fc-heidenheim",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-23T11:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-ssv-jeddeloh-ii",
+   "away": "de-fc-heidenheim",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 12,
+     "side": "away",
+     "player": "Yannik Wagner",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "Kamer Krasniqi",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Jan Schöppner",
+     "type": "own-goal"
+    },
+    {
+     "minute": 29,
+     "side": "home",
+     "player": "Haris Huseni",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Haris Huseni",
+     "type": "penalty"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Tim Janssen",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Mikkel Kaufmann",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-bahlinger-sc-de-fc-magdeburg",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-23T13:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-bahlinger-sc",
+   "away": "de-fc-magdeburg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Mateusz Zukowski",
+     "type": "goal"
+    },
+    {
+     "minute": 31,
+     "side": "away",
+     "player": "Falko Michel",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "away",
+     "player": "Mateusz Zukowski",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Falko Michel",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-carl-zeiss-jena-de-darmstadt-98",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-23T13:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-carl-zeiss-jena",
+   "away": "de-darmstadt-98",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Milan Smit",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Elias Löder",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Lance Duijvestijn",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-eintracht-braunschweig-de-union-berlin",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-23T13:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-eintracht-braunschweig",
+   "away": "de-union-berlin",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Max Marie",
+     "type": "goal"
+    },
+    {
+     "minute": 31,
+     "side": "away",
+     "player": "Zeno Van Den Bosch",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Max Marie",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "away",
+     "player": "Tom Rothe",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "away",
+     "player": "Marin Ljubicic",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Marin Ljubicic",
+     "type": "goal",
+     "extra": 4
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-tsv-schott-mainz-de-borussia-monchengladbach",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-23T13:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-tsv-schott-mainz",
+   "away": "de-borussia-monchengladbach",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 5
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Hugo Bolin",
+     "type": "goal"
+    },
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Daiki Hashioka",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "away",
+     "player": "Hugo Bolin",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Lukas Ullrich",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Wael Mohya",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-vfb-krieschow-de-mainz-05",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-23T13:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-vfb-krieschow",
+   "away": "de-mainz-05",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 9
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 19,
+     "side": "away",
+     "player": "Phillip Tietz",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "away",
+     "player": "Phillip Tietz",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "Phillip Tietz",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Nadiem Amiri",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Sheraldo Becker",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "away",
+     "player": "Nadiem Amiri",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Phillip Tietz",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "away",
+     "player": "Ransford-Yeboah Königsdörffer",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "William Bøving",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-westfalia-rhynern-de-dynamo-dresden",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-23T13:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-westfalia-rhynern",
+   "away": "de-dynamo-dresden",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 6
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 8,
+     "side": "away",
+     "player": "Henrik Koch",
+     "type": "own-goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Niklas Hauptmann",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "away",
+     "player": "Vincent Vermeij",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Ben Bobzien",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Kaan Inanoglu",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Robert Wagner",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-fortuna-dusseldorf-de-sc-freiburg",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-23T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-fortuna-dusseldorf",
+   "away": "de-sc-freiburg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 5
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401874901",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Lucas Höler",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "away",
+     "player": "Igor Matanovic",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Lukas Kübler",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "Fabian Schleusener",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Jordy Makengo",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Igor Matanovic",
+     "type": "goal",
+     "extra": 4
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-phonix-lubeck-de-sc-paderborn",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-23T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-phonix-lubeck",
+   "away": "de-sc-paderborn",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401874900",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Jano Horst",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Santiago Castaneda",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Moritz Kretzer",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Stefano Marino",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "away",
+     "player": "Gabriel Vidovic",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Tjark Scheller",
+     "type": "own-goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-rot-weiss-essen-de-st-pauli",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-23T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-rot-weiss-essen",
+   "away": "de-st-pauli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401875188",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Marek Janssen",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Semir Telalovic",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-sc-verl-de-hamburger-sv",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-24T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-sc-verl",
+   "away": "de-hamburger-sv",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260824&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Albert Grønbaek",
+     "type": "goal"
+    },
+    {
+     "minute": 46,
+     "side": "away",
+     "player": "Albert Grønbaek",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Louis Lemke",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-vsg-altglienicke-de-vfl-wolfsburg",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-24T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-vsg-altglienicke",
+   "away": "de-vfl-wolfsburg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "PEN",
+   "score": {
+    "home": 3,
+    "away": 3,
+    "regular": [
+     2,
+     2
+    ],
+    "et": [
+     1,
+     1
+    ],
+    "pens": [
+     5,
+     6
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260824&limit=37",
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/1-runde/vsg-altglienicke-vfl-wolfsburg-2418337"
+   ],
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "Jonas Nietfeld",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Maximilian Arnold",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Jonas Saliger",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "away",
+     "player": "Maximilian Arnold",
+     "type": "goal"
+    },
+    {
+     "minute": 109,
+     "side": "home",
+     "player": "Mehmet Ibrahimi",
+     "type": "goal"
+    },
+    {
+     "minute": 119,
+     "side": "away",
+     "player": "Hauke Wahl",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-wurzburger-kickers-de-fc-koln",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-24T16:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-wurzburger-kickers",
+   "away": "de-fc-koln",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260824&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "home",
+     "player": "David Abrangao",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Ísak Jóhannesson",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Ísak Jóhannesson",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-hallescher-fc-de-schalke-04",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-08-24T18:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-hallescher-fc",
+   "away": "de-schalke-04",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "AET",
+   "score": {
+    "home": 2,
+    "away": 5,
+    "regular": [
+     2,
+     2
+    ],
+    "et": [
+     0,
+     3
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260824&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Vin Kastull",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Dejan Ljubicic",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "Edin Dzeko",
+     "type": "penalty"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Niclas Stierlin",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 98,
+     "side": "away",
+     "player": "Moussa Sylla",
+     "type": "goal"
+    },
+    {
+     "minute": 105,
+     "side": "away",
+     "player": "Junior Adamu",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 117,
+     "side": "away",
+     "player": "Edin Dzeko",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-hebc-hamburg-de-borussia-dortmund",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-09-01T18:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-hebc-hamburg",
+   "away": "de-borussia-dortmund",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 5
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260901&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 33,
+     "side": "away",
+     "player": "Janek Wrede",
+     "type": "own-goal"
+    },
+    {
+     "minute": 36,
+     "side": "away",
+     "player": "Daniel Svensson",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Samuele Inácio",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Samuele Inácio",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Fábio Silva",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r1-de-vfl-osnabruck-de-bayern-munich",
+   "stage": {
+    "key": "r1",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-09-02T18:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-vfl-osnabruck",
+   "away": "de-bayern-munich",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260902&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "home",
+     "player": "Robin Meißner",
+     "type": "goal"
+    },
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Harry Kane",
+     "type": "goal"
+    },
+    {
+     "minute": 24,
+     "side": "away",
+     "player": "Tom Bischof",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "away",
+     "player": "Michael Olise",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "away",
+     "player": "Harry Kane",
+     "type": "penalty"
+    }
+   ],
+   "updatedAt": "2026-10-26T06:42:02.679Z"
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-hamburger-sv-de-eintracht-frankfurt",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-27T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-hamburger-sv",
+   "away": "de-eintracht-frankfurt",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-rot-weiss-essen-de-rb-leipzig",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-27T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-rot-weiss-essen",
+   "away": "de-rb-leipzig",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-sonnenhof-grossaspach-de-fc-augsburg",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-27T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-sonnenhof-grossaspach",
+   "away": "de-fc-augsburg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-vfl-bochum-de-mainz-05",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-27T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-vfl-bochum",
+   "away": "de-mainz-05",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-borussia-dortmund-de-werder-bremen",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-27T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-borussia-dortmund",
+   "away": "de-werder-bremen",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-borussia-monchengladbach-de-karlsruher-sc",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-27T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-borussia-monchengladbach",
+   "away": "de-karlsruher-sc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-fc-koln-de-union-berlin",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-27T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-fc-koln",
+   "away": "de-union-berlin",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-sv-elversberg-de-darmstadt-98",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-27T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-sv-elversberg",
+   "away": "de-darmstadt-98",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-dynamo-dresden-de-schalke-04",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-28T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-dynamo-dresden",
+   "away": "de-schalke-04",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-sc-freiburg-de-vfl-wolfsburg",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-28T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-sc-freiburg",
+   "away": "de-vfl-wolfsburg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-sc-paderborn-de-vfb-stuttgart",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-28T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-sc-paderborn",
+   "away": "de-vfb-stuttgart",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-ssv-jeddeloh-ii-de-hertha-berlin",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-28T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-ssv-jeddeloh-ii",
+   "away": "de-hertha-berlin",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-bayer-leverkusen-de-fc-nurnberg",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-28T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-bayer-leverkusen",
+   "away": "de-fc-nurnberg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-bayern-munich-de-fc-magdeburg",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-28T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-bayern-munich",
+   "away": "de-fc-magdeburg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-hannover-96-de-kaiserslautern",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-28T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-hannover-96",
+   "away": "de-kaiserslautern",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r2-de-holstein-kiel-de-tsg-hoffenheim",
+   "stage": {
+    "key": "r2",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-10-28T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-holstein-kiel",
+   "away": "de-tsg-hoffenheim",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-final-tbd-tbd",
+   "stage": {
+    "key": "final",
+    "type": "final",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-05-29T18:00:00Z",
+   "timeConfirmed": true,
+   "home": null,
+   "away": null,
+   "homePlaceholder": {
+    "en": "Winner semi-final 1",
+    "ar": "الفائز في نصف النهائي 1"
+   },
+   "awayPlaceholder": {
+    "en": "Winner semi-final 2",
+    "ar": "الفائز في نصف النهائي 2"
+   },
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": true,
+   "sources": [
+    "https://www.dfb.de/maenner/wettbewerbe/dfb-pokal/wettbewerbsinformationen"
+   ]
+  }
+ ]
+}

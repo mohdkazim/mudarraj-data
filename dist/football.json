@@ -1,8 +1,8 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-26T01:46:08.537Z",
+ "generatedAt": "2026-10-26T06:42:09.878Z",
  "counts": {
-  "teams": 221,
+  "teams": 317,
   "competitions": 11,
   "matches": 805,
   "results": 372,
@@ -1060,6 +1060,86 @@
    "apiFootballId": 560
   },
   {
+   "id": "de-1860-munich",
+   "name": {
+    "en": "1860 Munich",
+    "ar": "1860 ميونخ"
+   },
+   "shortName": {
+    "en": "1860 Munich",
+    "ar": "1860 ميونخ"
+   },
+   "code": "M60",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/135.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "1860 Munchen",
+    "1860 München",
+    "TSV 1860 Munich",
+    "TSV 1860 München"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-arminia-bielefeld",
+   "name": {
+    "en": "Arminia Bielefeld",
+    "ar": "أرمينيا بيليفيلد"
+   },
+   "shortName": {
+    "en": "Bielefeld",
+    "ar": "بيليفيلد"
+   },
+   "code": "DSC",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Bielefeld"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-bahlinger-sc",
+   "name": {
+    "en": "Bahlinger SC",
+    "ar": "بالينغر إس سي"
+   },
+   "shortName": {
+    "en": "Bahlinger SC",
+    "ar": "بالينغر"
+   },
+   "code": "BAH",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7277.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Bahlingen",
+    "Bahlinger",
+    "Bahlinger SC 1929"
+   ],
+   "apiFootballId": null
+  },
+  {
    "id": "de-bayer-leverkusen",
    "name": {
     "en": "Bayer Leverkusen",
@@ -1156,6 +1236,144 @@
    "apiFootballId": 165
   },
   {
+   "id": "de-borussia-monchengladbach",
+   "name": {
+    "en": "Borussia Mönchengladbach",
+    "ar": "بوروسيا مونشنغلادباخ"
+   },
+   "shortName": {
+    "en": "Gladbach",
+    "ar": "مونشنغلادباخ"
+   },
+   "code": "BMG",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Borussia-Park",
+     "ar": "بوروسيا بارك"
+    },
+    "city": {
+     "en": "Mönchengladbach",
+     "ar": "مونشنغلادباخ"
+    }
+   },
+   "aliases": [
+    "Borussia Monchengladbach"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-carl-zeiss-jena",
+   "name": {
+    "en": "Carl Zeiss Jena",
+    "ar": "كارل زايس يينا"
+   },
+   "shortName": {
+    "en": "Jena",
+    "ar": "يينا"
+   },
+   "code": "FCC",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9865.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "FC Carl Zeiss Jena",
+    "Jena"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-darmstadt-98",
+   "name": {
+    "en": "SV Darmstadt 98",
+    "ar": "دارمشتات"
+   },
+   "shortName": {
+    "en": "Darmstadt",
+    "ar": "دارمشتات"
+   },
+   "code": "D98",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3812.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Darmstadt",
+    "Darmstadt 98"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-dynamo-dresden",
+   "name": {
+    "en": "Dynamo Dresden",
+    "ar": "دينامو دريسدن"
+   },
+   "shortName": {
+    "en": "Dresden",
+    "ar": "دريسدن"
+   },
+   "code": "SGD",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7017.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Dresden",
+    "SG Dynamo Dresden"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-eintracht-braunschweig",
+   "name": {
+    "en": "Eintracht Braunschweig",
+    "ar": "آينتراخت براونشفايغ"
+   },
+   "shortName": {
+    "en": "Braunschweig",
+    "ar": "براونشفايغ"
+   },
+   "code": "EBS",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3067.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Braunschweig",
+    "TSV Eintracht Braunschweig"
+   ],
+   "apiFootballId": null
+  },
+  {
    "id": "de-eintracht-frankfurt",
    "name": {
     "en": "Eintracht Frankfurt",
@@ -1186,6 +1404,749 @@
    },
    "aliases": [],
    "apiFootballId": 169
+  },
+  {
+   "id": "de-eintracht-trier",
+   "name": {
+    "en": "Eintracht Trier",
+    "ar": "آينتراخت ترير"
+   },
+   "shortName": {
+    "en": "Trier",
+    "ar": "ترير"
+   },
+   "code": "TRI",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7891.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Trier"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-energie-cottbus",
+   "name": {
+    "en": "Energie Cottbus",
+    "ar": "إينرجي كوتبوس"
+   },
+   "shortName": {
+    "en": "Cottbus",
+    "ar": "كوتبوس"
+   },
+   "code": "FCE",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/123.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Cottbus",
+    "FC Energie Cottbus"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-erzgebirge-aue",
+   "name": {
+    "en": "Erzgebirge Aue",
+    "ar": "إرزغيبيرغه آوه"
+   },
+   "shortName": {
+    "en": "Aue",
+    "ar": "آوه"
+   },
+   "code": "AUE",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3849.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Aue",
+    "FC Erzgebirge Aue"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-fc-augsburg",
+   "name": {
+    "en": "FC Augsburg",
+    "ar": "أوغسبورغ"
+   },
+   "shortName": {
+    "en": "Augsburg",
+    "ar": "أوغسبورغ"
+   },
+   "code": "FCA",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3841.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-fc-heidenheim",
+   "name": {
+    "en": "1. FC Heidenheim",
+    "ar": "هايدنهايم"
+   },
+   "shortName": {
+    "en": "Heidenheim",
+    "ar": "هايدنهايم"
+   },
+   "code": "FCH",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6418.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "1. FC Heidenheim 1846",
+    "FC Heidenheim",
+    "Heidenheim"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-fc-koln",
+   "name": {
+    "en": "1. FC Köln",
+    "ar": "كولن"
+   },
+   "shortName": {
+    "en": "Köln",
+    "ar": "كولن"
+   },
+   "code": "KOE",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "RheinEnergieStadion",
+     "ar": "راين إنرجي شتاديون"
+    },
+    "city": {
+     "en": "Cologne",
+     "ar": "كولونيا"
+    }
+   },
+   "aliases": [
+    "1. FC Koln",
+    "Cologne",
+    "FC Cologne"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-fc-magdeburg",
+   "name": {
+    "en": "1. FC Magdeburg",
+    "ar": "ماغديبورغ"
+   },
+   "shortName": {
+    "en": "Magdeburg",
+    "ar": "ماغديبورغ"
+   },
+   "code": "FCM",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10382.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "FC Magdeburg",
+    "Magdeburg"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-fc-nurnberg",
+   "name": {
+    "en": "1. FC Nürnberg",
+    "ar": "نورنبرغ"
+   },
+   "shortName": {
+    "en": "Nuremberg",
+    "ar": "نورنبرغ"
+   },
+   "code": "FCN",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/269.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Max-Morlock-Stadion",
+     "ar": "ملعب ماكس مورلوك"
+    },
+    "city": {
+     "en": "Nuremberg",
+     "ar": "نورنبرغ"
+    }
+   },
+   "aliases": [
+    "1. FC Nuremberg",
+    "1. FC Nurnberg",
+    "FC Nürnberg",
+    "Nuremberg",
+    "Nurnberg",
+    "Nürnberg"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-fc-saarbrucken",
+   "name": {
+    "en": "1. FC Saarbrücken",
+    "ar": "زاربروكن"
+   },
+   "shortName": {
+    "en": "Saarbrücken",
+    "ar": "زاربروكن"
+   },
+   "code": "FCS",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18741.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "1. FC Saarbrucken",
+    "FC Saarbrücken",
+    "Saarbrucken",
+    "Saarbrücken"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-fortuna-dusseldorf",
+   "name": {
+    "en": "Fortuna Düsseldorf",
+    "ar": "فورتونا دوسلدورف"
+   },
+   "shortName": {
+    "en": "Düsseldorf",
+    "ar": "دوسلدورف"
+   },
+   "code": "F95",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9707.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Dusseldorf",
+    "Düsseldorf",
+    "Fortuna Dusseldorf"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-greuther-furth",
+   "name": {
+    "en": "Greuther Fürth",
+    "ar": "غرويتر فورت"
+   },
+   "shortName": {
+    "en": "Fürth",
+    "ar": "فورت"
+   },
+   "code": "SGF",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3070.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Sportpark Ronhof Thomas Sommer",
+     "ar": "سبورتبارك رونهوف"
+    },
+    "city": {
+     "en": "Fürth",
+     "ar": "فورت"
+    }
+   },
+   "aliases": [
+    "Furth",
+    "Fürth",
+    "Greuther Furth",
+    "SpVgg Greuther Fürth"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-hallescher-fc",
+   "name": {
+    "en": "Hallescher FC",
+    "ar": "هاليشر إف سي"
+   },
+   "shortName": {
+    "en": "Hallescher FC",
+    "ar": "هاليشر"
+   },
+   "code": "HFC",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6318.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-hamburger-sv",
+   "name": {
+    "en": "Hamburger SV",
+    "ar": "هامبورغ"
+   },
+   "shortName": {
+    "en": "Hamburg",
+    "ar": "هامبورغ"
+   },
+   "code": "HSV",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Volksparkstadion",
+     "ar": "فولكسبارك شتاديون"
+    },
+    "city": {
+     "en": "Hamburg",
+     "ar": "هامبورغ"
+    }
+   },
+   "aliases": [
+    "Hamburg SV"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-hannover-96",
+   "name": {
+    "en": "Hannover 96",
+    "ar": "هانوفر 96"
+   },
+   "shortName": {
+    "en": "Hannover",
+    "ar": "هانوفر"
+   },
+   "code": "H96",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2428.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Hannover",
+    "Hanover",
+    "Hanover 96"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-hansa-rostock",
+   "name": {
+    "en": "Hansa Rostock",
+    "ar": "هانزا روستوك"
+   },
+   "shortName": {
+    "en": "Rostock",
+    "ar": "روستوك"
+   },
+   "code": "HRO",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/128.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "F.C. Hansa Rostock",
+    "FC Hansa Rostock",
+    "Rostock"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-hebc-hamburg",
+   "name": {
+    "en": "HEBC Hamburg",
+    "ar": "إتش إي بي سي هامبورغ"
+   },
+   "shortName": {
+    "en": "HEBC",
+    "ar": "إتش إي بي سي"
+   },
+   "code": "HEB",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131785.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "HEBC",
+    "Hamburg Eimsbütteler Ballspiel Club",
+    "Hamburg-Eimsbütteler",
+    "Hamburg-Eimsbütteler BC",
+    "Hamburg-Eimsbütteler Ballspiel-Club von 1911"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-hemelingen",
+   "name": {
+    "en": "SV Hemelingen",
+    "ar": "إس في هيملينغن"
+   },
+   "shortName": {
+    "en": "Hemelingen",
+    "ar": "هيملينغن"
+   },
+   "code": "HEM",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131218.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Hemelingen"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-hertha-berlin",
+   "name": {
+    "en": "Hertha Berlin",
+    "ar": "هيرتا برلين"
+   },
+   "shortName": {
+    "en": "Hertha",
+    "ar": "هيرتا"
+   },
+   "code": "BSC",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Olympiastadion",
+     "ar": "الملعب الأولمبي"
+    },
+    "city": {
+     "en": "Berlin",
+     "ar": "برلين"
+    }
+   },
+   "aliases": [
+    "Hertha",
+    "Hertha BSC"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-holstein-kiel",
+   "name": {
+    "en": "Holstein Kiel",
+    "ar": "هولشتاين كيل"
+   },
+   "shortName": {
+    "en": "Kiel",
+    "ar": "كيل"
+   },
+   "code": "KSV",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7884.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Kiel"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-kaiserslautern",
+   "name": {
+    "en": "Kaiserslautern",
+    "ar": "كايزرسلاوترن"
+   },
+   "shortName": {
+    "en": "Kaiserslautern",
+    "ar": "كايزرسلاوترن"
+   },
+   "code": "FCL",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/130.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "1. FC Kaiserslautern",
+    "FC Kaiserslautern"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-karlsruher-sc",
+   "name": {
+    "en": "Karlsruher SC",
+    "ar": "كارلسروه"
+   },
+   "shortName": {
+    "en": "Karlsruhe",
+    "ar": "كارلسروه"
+   },
+   "code": "KAR",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4471.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "KSC",
+    "Karlsruhe",
+    "SC Karlsruhe"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-luneburger-sk-hansa",
+   "name": {
+    "en": "Lüneburger SK Hansa",
+    "ar": "هانزا لونيبورغ"
+   },
+   "shortName": {
+    "en": "Lüneburg",
+    "ar": "لونيبورغ"
+   },
+   "code": "LSK",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18747.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "LSK Lüneburg",
+    "Luneburg",
+    "Luneburger SK Hansa",
+    "Lüneburg",
+    "Lüneburger Hansa"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-mainz-05",
+   "name": {
+    "en": "Mainz 05",
+    "ar": "ماينز"
+   },
+   "shortName": {
+    "en": "Mainz",
+    "ar": "ماينز"
+   },
+   "code": "M05",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "MEWA Arena",
+     "ar": "ميوا أرينا"
+    },
+    "city": {
+     "en": "Mainz",
+     "ar": "ماينتس"
+    }
+   },
+   "aliases": [
+    "1. FSV Mainz 05"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-msv-duisburg",
+   "name": {
+    "en": "MSV Duisburg",
+    "ar": "دويسبورغ"
+   },
+   "shortName": {
+    "en": "Duisburg",
+    "ar": "دويسبورغ"
+   },
+   "code": "MSV",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3308.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Duisburg"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-phonix-lubeck",
+   "name": {
+    "en": "1. FC Phönix Lübeck",
+    "ar": "فينيكس لوبيك"
+   },
+   "shortName": {
+    "en": "Phönix Lübeck",
+    "ar": "فينيكس لوبيك"
+   },
+   "code": "PHL",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22272.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "1. FC Phonix Lubeck",
+    "Phoenix Lübeck",
+    "Phonix Lubeck",
+    "Phönix Lübeck"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-preussen-munster",
+   "name": {
+    "en": "Preußen Münster",
+    "ar": "برويسين مونستر"
+   },
+   "shortName": {
+    "en": "Münster",
+    "ar": "مونستر"
+   },
+   "code": "PRM",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9867.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Munster",
+    "Münster",
+    "Preussen Munster",
+    "Preussen Münster",
+    "SC Preußen Münster"
+   ],
+   "apiFootballId": null
   },
   {
    "id": "de-rb-leipzig",
@@ -1220,6 +2181,412 @@
    "apiFootballId": 173
   },
   {
+   "id": "de-rot-weiss-essen",
+   "name": {
+    "en": "Rot-Weiss Essen",
+    "ar": "روت فايس إيسن"
+   },
+   "shortName": {
+    "en": "Essen",
+    "ar": "إيسن"
+   },
+   "code": "RWE",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9705.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Essen",
+    "RW Essen",
+    "Rot Weiss Essen"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-sc-freiburg",
+   "name": {
+    "en": "SC Freiburg",
+    "ar": "فرايبورغ"
+   },
+   "shortName": {
+    "en": "Freiburg",
+    "ar": "فرايبورغ"
+   },
+   "code": "SCF",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/126.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Europa-Park Stadion",
+     "ar": "ملعب يوروبا بارك"
+    },
+    "city": {
+     "en": "Freiburg im Breisgau",
+     "ar": "فرايبورغ"
+    }
+   },
+   "aliases": [
+    "Sport-Club Freiburg"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-sc-paderborn",
+   "name": {
+    "en": "SC Paderborn 07",
+    "ar": "بادربورن"
+   },
+   "shortName": {
+    "en": "Paderborn",
+    "ar": "بادربورن"
+   },
+   "code": "PAD",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "SC Paderborn"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-sc-st-tonis",
+   "name": {
+    "en": "SC St. Tönis",
+    "ar": "سانت تونيس"
+   },
+   "shortName": {
+    "en": "St. Tönis",
+    "ar": "سانت تونيس"
+   },
+   "code": "STT",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131787.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "SC St. Tonis",
+    "SC St. Tönis 11/20",
+    "St. Tonis",
+    "St. Tönis"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-sc-verl",
+   "name": {
+    "en": "SC Verl",
+    "ar": "إس سي فيرل"
+   },
+   "shortName": {
+    "en": "Verl",
+    "ar": "فيرل"
+   },
+   "code": "SCV",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6325.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "SC Verl 1924",
+    "Verl"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-schalke-04",
+   "name": {
+    "en": "Schalke 04",
+    "ar": "شالكه"
+   },
+   "shortName": {
+    "en": "Schalke",
+    "ar": "شالكه"
+   },
+   "code": "S04",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Veltins-Arena",
+     "ar": "فيلتينس أرينا"
+    },
+    "city": {
+     "en": "Gelsenkirchen",
+     "ar": "غيلسنكيرشن"
+    }
+   },
+   "aliases": [
+    "FC Schalke 04"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-sonnenhof-grossaspach",
+   "name": {
+    "en": "Sonnenhof Großaspach",
+    "ar": "زونينهوف غروساسباخ"
+   },
+   "shortName": {
+    "en": "Großaspach",
+    "ar": "غروساسباخ"
+   },
+   "code": "SGS",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6631.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Grossaspach",
+    "Großaspach",
+    "SG Sonnenhof Grossaspach",
+    "SG Sonnenhof Großaspach",
+    "Sonnenhof Grossaspach"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-ssv-jeddeloh-ii",
+   "name": {
+    "en": "SSV Jeddeloh II",
+    "ar": "إس إس في جيديلوه"
+   },
+   "shortName": {
+    "en": "Jeddeloh",
+    "ar": "جيديلوه"
+   },
+   "code": "JDL",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19233.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Jeddeloh",
+    "Jeddeloh II",
+    "SSV Jeddeloh"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-st-pauli",
+   "name": {
+    "en": "St. Pauli",
+    "ar": "سانت باولي"
+   },
+   "shortName": {
+    "en": "St. Pauli",
+    "ar": "سانت باولي"
+   },
+   "code": "STP",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "FC St. Pauli"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-sv-elversberg",
+   "name": {
+    "en": "SV Elversberg",
+    "ar": "إلفرسبرغ"
+   },
+   "shortName": {
+    "en": "Elversberg",
+    "ar": "إلفرسبرغ"
+   },
+   "code": "ELV",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Ursapharm-Arena",
+     "ar": "أورسافارم أرينا"
+    },
+    "city": {
+     "en": "Spiesen-Elversberg",
+     "ar": "سبيسن-إلفرسبيرغ"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-tsg-hoffenheim",
+   "name": {
+    "en": "TSG Hoffenheim",
+    "ar": "هوفنهايم"
+   },
+   "shortName": {
+    "en": "Hoffenheim",
+    "ar": "هوفنهايم"
+   },
+   "code": "TSG",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "SNP Arena",
+     "ar": "راين نيكار أرينا"
+    },
+    "city": {
+     "en": "Sinsheim",
+     "ar": "سينسهايم"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-tsv-schott-mainz",
+   "name": {
+    "en": "TSV Schott Mainz",
+    "ar": "شوت ماينز"
+   },
+   "shortName": {
+    "en": "Schott Mainz",
+    "ar": "شوت ماينز"
+   },
+   "code": "TSM",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21508.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Schott",
+    "Schott Mainz"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-union-berlin",
+   "name": {
+    "en": "Union Berlin",
+    "ar": "يونيون برلين"
+   },
+   "shortName": {
+    "en": "Union Berlin",
+    "ar": "يونيون برلين"
+   },
+   "code": "FCU",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Stadion An der Alten Försterei",
+     "ar": "شتاديون آن دير آلته فورشتراي"
+    },
+    "city": {
+     "en": "Berlin",
+     "ar": "برلين"
+    }
+   },
+   "aliases": [
+    "1. FC Union Berlin"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-vfb-krieschow",
+   "name": {
+    "en": "VfB Krieschow",
+    "ar": "كريشو"
+   },
+   "shortName": {
+    "en": "Krieschow",
+    "ar": "كريشو"
+   },
+   "code": "KRI",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131786.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Krieschow",
+    "VFB Krieschow",
+    "VfB 1921 Krieschow"
+   ],
+   "apiFootballId": null
+  },
+  {
    "id": "de-vfb-stuttgart",
    "name": {
     "en": "VfB Stuttgart",
@@ -1250,6 +2617,277 @@
    },
    "aliases": [],
    "apiFootballId": 172
+  },
+  {
+   "id": "de-vfl-bochum",
+   "name": {
+    "en": "VfL Bochum",
+    "ar": "بوخوم"
+   },
+   "shortName": {
+    "en": "Bochum",
+    "ar": "بوخوم"
+   },
+   "code": "BOC",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/121.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Bochum",
+    "VfL Bochum 1848"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-vfl-osnabruck",
+   "name": {
+    "en": "VfL Osnabrück",
+    "ar": "أوسنابروك"
+   },
+   "shortName": {
+    "en": "Osnabrück",
+    "ar": "أوسنابروك"
+   },
+   "code": "OSN",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7013.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Osnabruck",
+    "Osnabrück",
+    "VfL Osnabruck"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-vfl-wolfsburg",
+   "name": {
+    "en": "VfL Wolfsburg",
+    "ar": "فولفسبورغ"
+   },
+   "shortName": {
+    "en": "Wolfsburg",
+    "ar": "فولفسبورغ"
+   },
+   "code": "WOB",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Wolfsburg"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-viktoria-koln",
+   "name": {
+    "en": "Viktoria Köln",
+    "ar": "فيكتوريا كولن"
+   },
+   "shortName": {
+    "en": "Viktoria Köln",
+    "ar": "فيكتوريا كولن"
+   },
+   "code": "VKO",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17492.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "FC Viktoria Köln",
+    "Viktoria Cologne",
+    "Viktoria Koln"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-vsg-altglienicke",
+   "name": {
+    "en": "VSG Altglienicke",
+    "ar": "ألتغلينيكه"
+   },
+   "shortName": {
+    "en": "Altglienicke",
+    "ar": "ألتغلينيكه"
+   },
+   "code": "VSG",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20735.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Altglienicke"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-waldhof-mannheim",
+   "name": {
+    "en": "Waldhof Mannheim",
+    "ar": "فالدهوف مانهايم"
+   },
+   "shortName": {
+    "en": "Mannheim",
+    "ar": "مانهايم"
+   },
+   "code": "WAL",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6610.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Mannheim",
+    "SV Waldhof Mannheim",
+    "Waldhof"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-wehen-wiesbaden",
+   "name": {
+    "en": "Wehen Wiesbaden",
+    "ar": "فيهن فيسبادن"
+   },
+   "shortName": {
+    "en": "Wiesbaden",
+    "ar": "فيسبادن"
+   },
+   "code": "SWW",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3769.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "SV Wehen Wiesbaden",
+    "Wehen",
+    "Wiesbaden"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-werder-bremen",
+   "name": {
+    "en": "Werder Bremen",
+    "ar": "فيردر بريمن"
+   },
+   "shortName": {
+    "en": "Bremen",
+    "ar": "بريمن"
+   },
+   "code": "SVW",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Weserstadion",
+     "ar": "ويسير-ستاديون"
+    },
+    "city": {
+     "en": "Bremen",
+     "ar": "بريمن"
+    }
+   },
+   "aliases": [
+    "SV Werder Bremen"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-westfalia-rhynern",
+   "name": {
+    "en": "Westfalia Rhynern",
+    "ar": "ويستفاليا راينيرن"
+   },
+   "shortName": {
+    "en": "Rhynern",
+    "ar": "راينيرن"
+   },
+   "code": "RHY",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21957.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Rhynern",
+    "SV Westfalia Rhynern"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "de-wurzburger-kickers",
+   "name": {
+    "en": "Würzburger Kickers",
+    "ar": "فورزبورغر كيكرز"
+   },
+   "shortName": {
+    "en": "Würzburger Kickers",
+    "ar": "فورزبورغر كيكرز"
+   },
+   "code": "FWK",
+   "national": false,
+   "country": "de",
+   "countryName": {
+    "en": "Germany",
+    "ar": "ألمانيا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17491.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Wurzburg",
+    "Wurzburger Kickers",
+    "Würzburg"
+   ],
+   "apiFootballId": null
   },
   {
    "id": "dk-copenhagen",
@@ -3271,6 +4909,84 @@
    "apiFootballId": 2737
   },
   {
+   "id": "it-ac-milan",
+   "name": {
+    "en": "AC Milan",
+    "ar": "ميلان"
+   },
+   "shortName": {
+    "en": "Milan",
+    "ar": "ميلان"
+   },
+   "code": "MIL",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "San Siro",
+     "ar": "سان سيرو"
+    },
+    "city": {
+     "en": "Milan",
+     "ar": "ميلانو"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-arezzo",
+   "name": {
+    "en": "Arezzo",
+    "ar": "أريتسو"
+   },
+   "shortName": {
+    "en": "Arezzo",
+    "ar": "أريتسو"
+   },
+   "code": "ARE",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3345.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-ascoli",
+   "name": {
+    "en": "Ascoli",
+    "ar": "أسكولي"
+   },
+   "shortName": {
+    "en": "Ascoli",
+    "ar": "أسكولي"
+   },
+   "code": "ASC",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3346.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
    "id": "it-atalanta",
    "name": {
     "en": "Atalanta",
@@ -3301,6 +5017,210 @@
    },
    "aliases": [],
    "apiFootballId": 499
+  },
+  {
+   "id": "it-avellino",
+   "name": {
+    "en": "Avellino",
+    "ar": "أفيلينو"
+   },
+   "shortName": {
+    "en": "Avellino",
+    "ar": "أفيلينو"
+   },
+   "code": "AVE",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4055.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "US Avellino"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-benevento",
+   "name": {
+    "en": "Benevento",
+    "ar": "بينيفنتو"
+   },
+   "shortName": {
+    "en": "Benevento",
+    "ar": "بينيفنتو"
+   },
+   "code": "BNV",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4059.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-bologna",
+   "name": {
+    "en": "Bologna",
+    "ar": "بولونيا"
+   },
+   "shortName": {
+    "en": "Bologna",
+    "ar": "بولونيا"
+   },
+   "code": "BOL",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Stadio Renato Dall'Ara",
+     "ar": "ملعب ريناتو دالارا"
+    },
+    "city": {
+     "en": "Bologna",
+     "ar": "بولونيا"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-cagliari",
+   "name": {
+    "en": "Cagliari",
+    "ar": "كالياري"
+   },
+   "shortName": {
+    "en": "Cagliari",
+    "ar": "كالياري"
+   },
+   "code": "CAG",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Unipol Domus",
+     "ar": "ملعب أونيبول دوموس"
+    },
+    "city": {
+     "en": "Cagliari",
+     "ar": "كالياري"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-carrarese",
+   "name": {
+    "en": "Carrarese",
+    "ar": "كاراريزي"
+   },
+   "shortName": {
+    "en": "Carrarese",
+    "ar": "كاراريزي"
+   },
+   "code": "CAR",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3988.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-catania",
+   "name": {
+    "en": "Catania",
+    "ar": "كاتانيا"
+   },
+   "shortName": {
+    "en": "Catania",
+    "ar": "كاتانيا"
+   },
+   "code": "CAT",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3258.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-catanzaro",
+   "name": {
+    "en": "Catanzaro",
+    "ar": "كاتانزارو"
+   },
+   "shortName": {
+    "en": "Catanzaro",
+    "ar": "كاتانزارو"
+   },
+   "code": "CTZ",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3257.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-cesena",
+   "name": {
+    "en": "Cesena",
+    "ar": "تشيزينا"
+   },
+   "shortName": {
+    "en": "Cesena",
+    "ar": "تشيزينا"
+   },
+   "code": "CES",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3337.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
   },
   {
    "id": "it-como",
@@ -3335,6 +5255,171 @@
    "apiFootballId": 895
   },
   {
+   "id": "it-cremonese",
+   "name": {
+    "en": "Cremonese",
+    "ar": "كريمونيزي"
+   },
+   "shortName": {
+    "en": "Cremonese",
+    "ar": "كريمونيزي"
+   },
+   "code": "CRE",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4050.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-empoli",
+   "name": {
+    "en": "Empoli",
+    "ar": "إمبولي"
+   },
+   "shortName": {
+    "en": "Empoli",
+    "ar": "إمبولي"
+   },
+   "code": "EMP",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2574.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-fiorentina",
+   "name": {
+    "en": "Fiorentina",
+    "ar": "فيورنتينا"
+   },
+   "shortName": {
+    "en": "Fiorentina",
+    "ar": "فيورنتينا"
+   },
+   "code": "FIO",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Stadio Artemio Franchi",
+     "ar": "ملعب أرتيميو فرانتشي"
+    },
+    "city": {
+     "en": "Florence",
+     "ar": "فلورنسا"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-frosinone",
+   "name": {
+    "en": "Frosinone",
+    "ar": "فروسينوني"
+   },
+   "shortName": {
+    "en": "Frosinone",
+    "ar": "فروسينوني"
+   },
+   "code": "FRO",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Stadio Benito Stirpe",
+     "ar": "ملعب بينيتو ستيرب"
+    },
+    "city": {
+     "en": "Frosinone",
+     "ar": "فروزينوني"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-genoa",
+   "name": {
+    "en": "Genoa",
+    "ar": "جنوى"
+   },
+   "shortName": {
+    "en": "Genoa",
+    "ar": "جنوى"
+   },
+   "code": "GEN",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Stadio Luigi Ferraris",
+     "ar": "ملعب لويجي فيراريس"
+    },
+    "city": {
+     "en": "Genoa",
+     "ar": "جنوة"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-hellas-verona",
+   "name": {
+    "en": "Hellas Verona",
+    "ar": "هيلاس فيرونا"
+   },
+   "shortName": {
+    "en": "Verona",
+    "ar": "فيرونا"
+   },
+   "code": "VER",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
    "id": "it-inter-milan",
    "name": {
     "en": "Inter Milan",
@@ -3365,6 +5450,29 @@
    },
    "aliases": [],
    "apiFootballId": 505
+  },
+  {
+   "id": "it-juve-stabia",
+   "name": {
+    "en": "Juve Stabia",
+    "ar": "يوفي ستابيا"
+   },
+   "shortName": {
+    "en": "Juve Stabia",
+    "ar": "يوفي ستابيا"
+   },
+   "code": "JST",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3975.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
   },
   {
    "id": "it-juventus",
@@ -3399,6 +5507,150 @@
    "apiFootballId": 496
   },
   {
+   "id": "it-lazio",
+   "name": {
+    "en": "Lazio",
+    "ar": "لاتسيو"
+   },
+   "shortName": {
+    "en": "Lazio",
+    "ar": "لاتسيو"
+   },
+   "code": "LAZ",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Stadio Olimpico",
+     "ar": "الملعب الأولمبي"
+    },
+    "city": {
+     "en": "Rome",
+     "ar": "روما"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-lecce",
+   "name": {
+    "en": "Lecce",
+    "ar": "ليتشي"
+   },
+   "shortName": {
+    "en": "Lecce",
+    "ar": "ليتشي"
+   },
+   "code": "LEC",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Stadio Via del Mare",
+     "ar": "ملعب فيا ديل ماري"
+    },
+    "city": {
+     "en": "Lecce",
+     "ar": "ليتشي"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-mantova",
+   "name": {
+    "en": "Mantova",
+    "ar": "مانتوفا"
+   },
+   "shortName": {
+    "en": "Mantova",
+    "ar": "مانتوفا"
+   },
+   "code": "MAN",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3991.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "Mantua"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-modena",
+   "name": {
+    "en": "Modena",
+    "ar": "مودينا"
+   },
+   "shortName": {
+    "en": "Modena",
+    "ar": "مودينا"
+   },
+   "code": "MOD",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2573.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-monza",
+   "name": {
+    "en": "Monza",
+    "ar": "مونزا"
+   },
+   "shortName": {
+    "en": "Monza",
+    "ar": "مونزا"
+   },
+   "code": "MON",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4007.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Stadio Brianteo",
+     "ar": "ملعب بريانتيو"
+    },
+    "city": {
+     "en": "Monza",
+     "ar": "مونزا"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
    "id": "it-napoli",
    "name": {
     "en": "Napoli",
@@ -3431,6 +5683,153 @@
    "apiFootballId": 492
   },
   {
+   "id": "it-padova",
+   "name": {
+    "en": "Padova",
+    "ar": "بادوفا"
+   },
+   "shortName": {
+    "en": "Padova",
+    "ar": "بادوفا"
+   },
+   "code": "PDV",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3952.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-palermo",
+   "name": {
+    "en": "Palermo",
+    "ar": "باليرمو"
+   },
+   "shortName": {
+    "en": "Palermo",
+    "ar": "باليرمو"
+   },
+   "code": "PAL",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2923.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-parma",
+   "name": {
+    "en": "Parma",
+    "ar": "بارما"
+   },
+   "shortName": {
+    "en": "Parma",
+    "ar": "بارما"
+   },
+   "code": "PAR",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Stadio Ennio Tardini",
+     "ar": "ملعب إنيو تارديني"
+    },
+    "city": {
+     "en": "Parma",
+     "ar": "بارما"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-pisa",
+   "name": {
+    "en": "Pisa",
+    "ar": "بيزا"
+   },
+   "shortName": {
+    "en": "Pisa",
+    "ar": "بيزا"
+   },
+   "code": "PIS",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3956.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-potenza",
+   "name": {
+    "en": "Potenza",
+    "ar": "بوتينزا"
+   },
+   "shortName": {
+    "en": "Potenza",
+    "ar": "بوتينزا"
+   },
+   "code": "POT",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4002.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-ravenna",
+   "name": {
+    "en": "Ravenna",
+    "ar": "رافينا"
+   },
+   "shortName": {
+    "en": "Ravenna",
+    "ar": "رافينا"
+   },
+   "code": "RAV",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4347.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
    "id": "it-roma",
    "name": {
     "en": "Roma",
@@ -3461,6 +5860,258 @@
    },
    "aliases": [],
    "apiFootballId": 497
+  },
+  {
+   "id": "it-sampdoria",
+   "name": {
+    "en": "Sampdoria",
+    "ar": "سامبدوريا"
+   },
+   "shortName": {
+    "en": "Sampdoria",
+    "ar": "سامبدوريا"
+   },
+   "code": "SAM",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2734.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-sassuolo",
+   "name": {
+    "en": "Sassuolo",
+    "ar": "ساسولو"
+   },
+   "shortName": {
+    "en": "Sassuolo",
+    "ar": "ساسولو"
+   },
+   "code": "SAS",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Mapei Stadium",
+     "ar": "ملعب مابي"
+    },
+    "city": {
+     "en": "Reggio Emilia",
+     "ar": "ريدجو إميليا"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-sudtirol",
+   "name": {
+    "en": "Südtirol",
+    "ar": "سودتيرول"
+   },
+   "shortName": {
+    "en": "Südtirol",
+    "ar": "سودتيرول"
+   },
+   "code": "SUD",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11139.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "FC Südtirol",
+    "Sud Tirol",
+    "Sudtirol"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-torino",
+   "name": {
+    "en": "Torino",
+    "ar": "تورينو"
+   },
+   "shortName": {
+    "en": "Torino",
+    "ar": "تورينو"
+   },
+   "code": "TOR",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Stadio Olimpico Grande Torino",
+     "ar": "ملعب أولمبيكو دي تورينو"
+    },
+    "city": {
+     "en": "Turin",
+     "ar": "تورينو"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-udinese",
+   "name": {
+    "en": "Udinese",
+    "ar": "أودينيزي"
+   },
+   "shortName": {
+    "en": "Udinese",
+    "ar": "أودينيزي"
+   },
+   "code": "UDI",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Stadio Friuli",
+     "ar": "ملعب فريولي"
+    },
+    "city": {
+     "en": "Udine",
+     "ar": "أوديني"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-union-brescia",
+   "name": {
+    "en": "Union Brescia",
+    "ar": "يونيون بريشيا"
+   },
+   "shortName": {
+    "en": "Union Brescia",
+    "ar": "يونيون بريشيا"
+   },
+   "code": "UBR",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131836.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-venezia",
+   "name": {
+    "en": "Venezia",
+    "ar": "فينيسيا"
+   },
+   "shortName": {
+    "en": "Venezia",
+    "ar": "فينيسيا"
+   },
+   "code": "VEN",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
+   "color": null,
+   "venue": {
+    "name": {
+     "en": "Stadio Pier Luigi Penzo",
+     "ar": "ملعب بيير لويجي بينزو"
+    },
+    "city": {
+     "en": "Venice",
+     "ar": "البندقية"
+    }
+   },
+   "aliases": [],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-vicenza",
+   "name": {
+    "en": "Vicenza",
+    "ar": "فيتشينزا"
+   },
+   "shortName": {
+    "en": "Vicenza",
+    "ar": "فيتشينزا"
+   },
+   "code": "VIC",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/120.png",
+   "color": null,
+   "venue": null,
+   "aliases": [
+    "L.R. Vicenza",
+    "LR Vicenza",
+    "Lanerossi",
+    "Lanerossi Vicenza"
+   ],
+   "apiFootballId": null
+  },
+  {
+   "id": "it-virtus-entella",
+   "name": {
+    "en": "Virtus Entella",
+    "ar": "فيرتوس إينتيلا"
+   },
+   "shortName": {
+    "en": "Virtus Entella",
+    "ar": "فيرتوس إينتيلا"
+   },
+   "code": "ENT",
+   "national": false,
+   "country": "it",
+   "countryName": {
+    "en": "Italy",
+    "ar": "إيطاليا"
+   },
+   "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/11137.png",
+   "color": null,
+   "venue": null,
+   "aliases": [],
+   "apiFootballId": null
   },
   {
    "id": "jo-al-faisaly",
@@ -47113,7 +49764,7 @@
   }
  ],
  "news": {
-  "_note": "Settings for the site's related-news card (published with the data as 'news'). 'sites' replaces the built-in outlet list for that language. 24 Oct 2026: Kooora and 365Scores added at Mohamed's request. 25 Oct 2026: Saudi outlets (Okaz, Sabq, Al Riyadh, Al Yaum; Saudi Gazette) added with the Saudi competitions.",
+  "_note": "Settings for the site's related-news card (published with the data as 'news'). 'sites' replaces the built-in outlet list for that language. 24 Oct 2026: Kooora and 365Scores added at Mohamed's request. 25 Oct 2026: Saudi outlets (Okaz, Sabq, Al Riyadh, Al Yaum; Saudi Gazette) added with the Saudi competitions. 26 Oct 2026: bundesliga.com and legaseriea.it (English) added with the German and Italian competitions.",
   "sites": {
    "ar": [
     "alkhaleej.ae",
@@ -47145,7 +49796,9 @@
     "365scores.com",
     "the-afc.com",
     "uefa.com",
-    "saudigazette.com.sa"
+    "saudigazette.com.sa",
+    "bundesliga.com",
+    "legaseriea.it"
    ]
   }
  }

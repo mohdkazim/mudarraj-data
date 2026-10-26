@@ -44,7 +44,8 @@ const lastFixture = new Map();
 for (const s of all.seasons.values()) {
   for (const m of s.matches) {
     const t = m.kickoff ? Date.parse(m.kickoff) : null;
-    if (t && (lastFixture.get(s.competition) ?? 0) < t) lastFixture.set(s.competition, t);
+    // Only fixtures with both teams known: a placeholder (a final waiting for its semi-finals) doesn't make a list complete.
+    if (t && m.home && m.away && (lastFixture.get(s.competition) ?? 0) < t) lastFixture.set(s.competition, t);
     if (m.status === "PST" || m.status === "ABD") watch.push({ s, m });
     if (!t) continue;
     if (t < now - 2 * 3600_000 && t >= from && !FINISHED.has(m.status) && !["CANC", "PST", "ABD"].includes(m.status)) needResult.push({ s, m });

@@ -61,7 +61,10 @@
     "timesofoman.com": "Times of Oman",
     "gdnonline.com": "Gulf Daily News (Bahrain)",
     "akhbar-alkhaleej.com": "Akhbar Al Khaleej (Bahrain)",
-    "alayam.com": "Al Ayam (Bahrain)"
+    "alayam.com": "Al Ayam (Bahrain)",
+    "corrieredellosport.it": "Corriere dello Sport — Italian national sports daily; its live match pages (corrieredellosport.it/live/partita/<home>-<away>-<id>) give the score, half-time and every goal (same data as tuttosport.com: never use the two together)",
+    "gazzetta.it": "La Gazzetta dello Sport — Italian national sports daily",
+    "sport.sky.it": "Sky Sport Italia — Italian sports news (a different newsroom from skysports.com, but use it with a non-Sky second source)"
   },
   "tier3": {
     "wikipedia.org": "Wikipedia — community-maintained; cross-check only",

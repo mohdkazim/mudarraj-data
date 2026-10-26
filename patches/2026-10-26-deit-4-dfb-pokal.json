@@ -1,0 +1,3934 @@
+{
+ "run": "2026-10-26T08:00:00Z",
+ "changes": [
+  {
+   "op": "team",
+   "team": {
+    "id": "de-fc-heidenheim",
+    "name": {
+     "en": "1. FC Heidenheim",
+     "ar": "هايدنهايم"
+    },
+    "shortName": {
+     "en": "Heidenheim",
+     "ar": "هايدنهايم"
+    },
+    "code": "FCH",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6418.png",
+    "aliases": [
+     "1. FC Heidenheim 1846",
+     "FC Heidenheim",
+     "Heidenheim"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.aletihad.ae/news/الرياضي/4616838/قمة-بين-فرانكفورت-ودورتموند-في-كأس-ألمانيا",
+    "https://ajel.sa/sports/lzqzvp",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/ssv-jeddeloh-ii-vs-1-fc-heidenheim-1846/liveticker"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-fc-magdeburg",
+    "name": {
+     "en": "1. FC Magdeburg",
+     "ar": "ماغديبورغ"
+    },
+    "shortName": {
+     "en": "Magdeburg",
+     "ar": "ماغديبورغ"
+    },
+    "code": "FCM",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10382.png",
+    "aliases": [
+     "FC Magdeburg",
+     "Magdeburg"
+    ]
+   },
+   "sources": [
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28/matches#results",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.kooora.com/?c=22455",
+    "https://www.aletihad.ae/news/الرياضي/4616838/قمة-بين-فرانكفورت-ودورتموند-في-كأس-ألمانيا",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/bahlinger-sc-vs-1-fc-magdeburg/liveticker"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-fc-nurnberg",
+    "name": {
+     "en": "1. FC Nürnberg",
+     "ar": "نورنبرغ"
+    },
+    "shortName": {
+     "en": "Nuremberg",
+     "ar": "نورنبرغ"
+    },
+    "code": "FCN",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/269.png",
+    "aliases": [
+     "1. FC Nuremberg",
+     "1. FC Nurnberg",
+     "FC Nürnberg",
+     "Nuremberg",
+     "Nurnberg",
+     "Nürnberg"
+    ],
+    "venue": {
+     "name": {
+      "en": "Max-Morlock-Stadion",
+      "ar": "ملعب ماكس مورلوك"
+     },
+     "city": {
+      "en": "Nuremberg",
+      "ar": "نورنبرغ"
+     }
+    }
+   },
+   "sources": [
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://ar.wikipedia.org/wiki/%D9%86%D8%A7%D8%AF%D9%8A_%D9%86%D9%88%D8%B1%D9%86%D8%A8%D8%B1%D8%BA",
+    "https://ar.wikipedia.org/wiki/%D9%85%D9%84%D8%B9%D8%A8_%D9%85%D8%A7%D9%83%D8%B3_%D9%85%D9%88%D8%B1%D9%84%D9%88%D9%83",
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28/matches#results",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/fc-viktoria-koeln-vs-1-fc-nuernberg/liveticker"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-phonix-lubeck",
+    "name": {
+     "en": "1. FC Phönix Lübeck",
+     "ar": "فينيكس لوبيك"
+    },
+    "shortName": {
+     "en": "Phönix Lübeck",
+     "ar": "فينيكس لوبيك"
+    },
+    "code": "PHL",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22272.png",
+    "aliases": [
+     "1. FC Phonix Lubeck",
+     "Phoenix Lübeck",
+     "Phonix Lubeck",
+     "Phönix Lübeck"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-arminia-bielefeld",
+    "name": {
+     "en": "Arminia Bielefeld",
+     "ar": "أرمينيا بيليفيلد"
+    },
+    "shortName": {
+     "en": "Bielefeld",
+     "ar": "بيليفيلد"
+    },
+    "code": "DSC",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2506.png",
+    "aliases": [
+     "Bielefeld"
+    ]
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/football/big-teams/30933",
+    "https://www.aletihad.ae/news/الرياضي/4616838/قمة-بين-فرانكفورت-ودورتموند-في-كأس-ألمانيا",
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-bahlinger-sc",
+    "name": {
+     "en": "Bahlinger SC",
+     "ar": "بالينغر إس سي"
+    },
+    "shortName": {
+     "en": "Bahlinger SC",
+     "ar": "بالينغر"
+    },
+    "code": "BAH",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7277.png",
+    "aliases": [
+     "Bahlingen",
+     "Bahlinger",
+     "Bahlinger SC 1929"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/bahlinger-sc-vs-1-fc-magdeburg/liveticker",
+    "https://www.albayan.ae/amp/deutsche-welle/sport/2015-08-09-1.2433314"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-dynamo-dresden",
+    "name": {
+     "en": "Dynamo Dresden",
+     "ar": "دينامو دريسدن"
+    },
+    "shortName": {
+     "en": "Dresden",
+     "ar": "دريسدن"
+    },
+    "code": "SGD",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7017.png",
+    "aliases": [
+     "Dresden",
+     "SG Dynamo Dresden"
+    ]
+   },
+   "sources": [
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28",
+    "https://www.emaratalyoum.com/sports/arab-and-international/2011-08-01-1.413270",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/sv-westfalia-rhynern-vs-sg-dynamo-dresden/liveticker"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-eintracht-trier",
+    "name": {
+     "en": "Eintracht Trier",
+     "ar": "آينتراخت ترير"
+    },
+    "shortName": {
+     "en": "Trier",
+     "ar": "ترير"
+    },
+    "code": "TRI",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7891.png",
+    "aliases": [
+     "Trier"
+    ]
+   },
+   "sources": [
+    "https://www.fotmob.com/ar/matches/eintracht-trier-vs-eintracht-frankfurt-ii/2k341v",
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-energie-cottbus",
+    "name": {
+     "en": "Energie Cottbus",
+     "ar": "إينرجي كوتبوس"
+    },
+    "shortName": {
+     "en": "Cottbus",
+     "ar": "كوتبوس"
+    },
+    "code": "FCE",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/123.png",
+    "aliases": [
+     "Cottbus",
+     "FC Energie Cottbus"
+    ]
+   },
+   "sources": [
+    "https://www.aletihad.ae/news/الرياضي/4616838/قمة-بين-فرانكفورت-ودورتموند-في-كأس-ألمانيا",
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-carl-zeiss-jena",
+    "name": {
+     "en": "Carl Zeiss Jena",
+     "ar": "كارل زايس يينا"
+    },
+    "shortName": {
+     "en": "Jena",
+     "ar": "يينا"
+    },
+    "code": "FCC",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9865.png",
+    "aliases": [
+     "FC Carl Zeiss Jena",
+     "Jena"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.albayan.ae/amp/deutsche-welle/sport/2015-08-09-1.2433314",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-erzgebirge-aue",
+    "name": {
+     "en": "Erzgebirge Aue",
+     "ar": "إرزغيبيرغه آوه"
+    },
+    "shortName": {
+     "en": "Aue",
+     "ar": "آوه"
+    },
+    "code": "AUE",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3849.png",
+    "aliases": [
+     "Aue",
+     "FC Erzgebirge Aue"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-fortuna-dusseldorf",
+    "name": {
+     "en": "Fortuna Düsseldorf",
+     "ar": "فورتونا دوسلدورف"
+    },
+    "shortName": {
+     "en": "Düsseldorf",
+     "ar": "دوسلدورف"
+    },
+    "code": "F95",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9707.png",
+    "aliases": [
+     "Dusseldorf",
+     "Düsseldorf",
+     "Fortuna Dusseldorf"
+    ]
+   },
+   "sources": [
+    "https://www.aletihad.ae/news/الرياضي/4616838/قمة-بين-فرانكفورت-ودورتموند-في-كأس-ألمانيا",
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-hebc-hamburg",
+    "name": {
+     "en": "HEBC Hamburg",
+     "ar": "إتش إي بي سي هامبورغ"
+    },
+    "shortName": {
+     "en": "HEBC",
+     "ar": "إتش إي بي سي"
+    },
+    "code": "HEB",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131785.png",
+    "aliases": [
+     "HEBC",
+     "Hamburg Eimsbütteler Ballspiel Club",
+     "Hamburg-Eimsbütteler",
+     "Hamburg-Eimsbütteler BC",
+     "Hamburg-Eimsbütteler Ballspiel-Club von 1911"
+    ]
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548666",
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/hamburg-eimsbuetteler-ballspiel-club-von-1911-vs-borussia-dortmund/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-hallescher-fc",
+    "name": {
+     "en": "Hallescher FC",
+     "ar": "هاليشر إف سي"
+    },
+    "shortName": {
+     "en": "Hallescher FC",
+     "ar": "هاليشر"
+    },
+    "code": "HFC",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6318.png",
+    "aliases": []
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-hannover-96",
+    "name": {
+     "en": "Hannover 96",
+     "ar": "هانوفر 96"
+    },
+    "shortName": {
+     "en": "Hannover",
+     "ar": "هانوفر"
+    },
+    "code": "H96",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2428.png",
+    "aliases": [
+     "Hannover",
+     "Hanover",
+     "Hanover 96"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28/matches#results",
+    "https://www.albayan.ae/sports/international/2022-09-04-1.4507875",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/sv-hemelingen-vs-hannover-96/liveticker"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-hansa-rostock",
+    "name": {
+     "en": "Hansa Rostock",
+     "ar": "هانزا روستوك"
+    },
+    "shortName": {
+     "en": "Rostock",
+     "ar": "روستوك"
+    },
+    "code": "HRO",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/128.png",
+    "aliases": [
+     "F.C. Hansa Rostock",
+     "FC Hansa Rostock",
+     "Rostock"
+    ]
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-hemelingen",
+    "name": {
+     "en": "SV Hemelingen",
+     "ar": "إس في هيملينغن"
+    },
+    "shortName": {
+     "en": "Hemelingen",
+     "ar": "هيملينغن"
+    },
+    "code": "HEM",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131218.png",
+    "aliases": [
+     "Hemelingen"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/sv-hemelingen-vs-hannover-96/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-hertha-berlin",
+    "name": {
+     "en": "Hertha Berlin",
+     "ar": "هيرتا برلين"
+    },
+    "shortName": {
+     "en": "Hertha",
+     "ar": "هيرتا"
+    },
+    "code": "BSC",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/129.png",
+    "aliases": [
+     "Hertha",
+     "Hertha BSC"
+    ],
+    "venue": {
+     "name": {
+      "en": "Olympiastadion",
+      "ar": "الملعب الأولمبي"
+     },
+     "city": {
+      "en": "Berlin",
+      "ar": "برلين"
+     }
+    }
+   },
+   "sources": [
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.kooora.com/?c=22455",
+    "https://ar.wikipedia.org/wiki/%D9%87%D8%B1%D8%AA%D8%A7_%D8%A8%D8%B1%D9%84%D9%8A%D9%86",
+    "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D9%84%D8%B9%D8%A8_%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A_(%D8%A8%D8%B1%D9%84%D9%8A%D9%86)",
+    "https://www.omandaily.om/article/1196716",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/1-fc-saarbruecken-vs-hertha-bsc/liveticker"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-holstein-kiel",
+    "name": {
+     "en": "Holstein Kiel",
+     "ar": "هولشتاين كيل"
+    },
+    "shortName": {
+     "en": "Kiel",
+     "ar": "كيل"
+    },
+    "code": "KSV",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7884.png",
+    "aliases": [
+     "Kiel"
+    ]
+   },
+   "sources": [
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.kooora.com/?c=22455",
+    "https://www.okaz.com.sa/sport/international/2219751",
+    "https://www.omandaily.om/article/1196716",
+    "https://ajel.sa/sports/frh4zp",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-kaiserslautern",
+    "name": {
+     "en": "Kaiserslautern",
+     "ar": "كايزرسلاوترن"
+    },
+    "shortName": {
+     "en": "Kaiserslautern",
+     "ar": "كايزرسلاوترن"
+    },
+    "code": "FCL",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/130.png",
+    "aliases": [
+     "1. FC Kaiserslautern",
+     "FC Kaiserslautern"
+    ]
+   },
+   "sources": [
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28/matches#results",
+    "https://www.aletihad.ae/news/الرياضي/4616838/قمة-بين-فرانكفورت-ودورتموند-في-كأس-ألمانيا",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-karlsruher-sc",
+    "name": {
+     "en": "Karlsruher SC",
+     "ar": "كارلسروه"
+    },
+    "shortName": {
+     "en": "Karlsruhe",
+     "ar": "كارلسروه"
+    },
+    "code": "KAR",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4471.png",
+    "aliases": [
+     "KSC",
+     "Karlsruhe",
+     "SC Karlsruhe"
+    ]
+   },
+   "sources": [
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.kooora.com/?c=22455",
+    "https://www.aletihad.ae/news/الرياضي/4616838/قمة-بين-فرانكفورت-ودورتموند-في-كأس-ألمانيا",
+    "https://www.aletihad.ae/news/4512074/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D9%82%D8%B1%D8%B9%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%84%D9%83%D8%A3%D8%B3-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28/matches#results",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-luneburger-sk-hansa",
+    "name": {
+     "en": "Lüneburger SK Hansa",
+     "ar": "هانزا لونيبورغ"
+    },
+    "shortName": {
+     "en": "Lüneburg",
+     "ar": "لونيبورغ"
+    },
+    "code": "LSK",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18747.png",
+    "aliases": [
+     "LSK Lüneburg",
+     "Luneburg",
+     "Luneburger SK Hansa",
+     "Lüneburg",
+     "Lüneburger Hansa"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/lueneburger-sk-hansa-vs-sv-werder-bremen/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-msv-duisburg",
+    "name": {
+     "en": "MSV Duisburg",
+     "ar": "دويسبورغ"
+    },
+    "shortName": {
+     "en": "Duisburg",
+     "ar": "دويسبورغ"
+    },
+    "code": "MSV",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3308.png",
+    "aliases": [
+     "Duisburg"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-preussen-munster",
+    "name": {
+     "en": "Preußen Münster",
+     "ar": "برويسين مونستر"
+    },
+    "shortName": {
+     "en": "Münster",
+     "ar": "مونستر"
+    },
+    "code": "PRM",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9867.png",
+    "aliases": [
+     "Munster",
+     "Münster",
+     "Preussen Munster",
+     "Preussen Münster",
+     "SC Preußen Münster"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-rot-weiss-essen",
+    "name": {
+     "en": "Rot-Weiss Essen",
+     "ar": "روت فايس إيسن"
+    },
+    "shortName": {
+     "en": "Essen",
+     "ar": "إيسن"
+    },
+    "code": "RWE",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9705.png",
+    "aliases": [
+     "Essen",
+     "RW Essen",
+     "Rot Weiss Essen"
+    ]
+   },
+   "sources": [
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28/matches#results",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-sc-st-tonis",
+    "name": {
+     "en": "SC St. Tönis",
+     "ar": "سانت تونيس"
+    },
+    "shortName": {
+     "en": "St. Tönis",
+     "ar": "سانت تونيس"
+    },
+    "code": "STT",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131787.png",
+    "aliases": [
+     "SC St. Tonis",
+     "SC St. Tönis 11/20",
+     "St. Tonis",
+     "St. Tönis"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/sc-st-toenis-11-20-vs-eintracht-frankfurt/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-sc-verl",
+    "name": {
+     "en": "SC Verl",
+     "ar": "إس سي فيرل"
+    },
+    "shortName": {
+     "en": "Verl",
+     "ar": "فيرل"
+    },
+    "code": "SCV",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6325.png",
+    "aliases": [
+     "SC Verl 1924",
+     "Verl"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-sonnenhof-grossaspach",
+    "name": {
+     "en": "Sonnenhof Großaspach",
+     "ar": "زونينهوف غروساسباخ"
+    },
+    "shortName": {
+     "en": "Großaspach",
+     "ar": "غروساسباخ"
+    },
+    "code": "SGS",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6631.png",
+    "aliases": [
+     "Grossaspach",
+     "Großaspach",
+     "SG Sonnenhof Grossaspach",
+     "SG Sonnenhof Großaspach",
+     "Sonnenhof Grossaspach"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28/matches#results",
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-ssv-jeddeloh-ii",
+    "name": {
+     "en": "SSV Jeddeloh II",
+     "ar": "إس إس في جيديلوه"
+    },
+    "shortName": {
+     "en": "Jeddeloh",
+     "ar": "جيديلوه"
+    },
+    "code": "JDL",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/19233.png",
+    "aliases": [
+     "Jeddeloh",
+     "Jeddeloh II",
+     "SSV Jeddeloh"
+    ]
+   },
+   "sources": [
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28/matches#results",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/ssv-jeddeloh-ii-vs-1-fc-heidenheim-1846/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-darmstadt-98",
+    "name": {
+     "en": "SV Darmstadt 98",
+     "ar": "دارمشتات"
+    },
+    "shortName": {
+     "en": "Darmstadt",
+     "ar": "دارمشتات"
+    },
+    "code": "D98",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3812.png",
+    "aliases": [
+     "Darmstadt",
+     "Darmstadt 98"
+    ]
+   },
+   "sources": [
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28/matches#results",
+    "https://www.aletihad.ae/news/الرياضي/4616838/قمة-بين-فرانكفورت-ودورتموند-في-كأس-ألمانيا",
+    "https://ajel.sa/sports/frh4zp",
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-waldhof-mannheim",
+    "name": {
+     "en": "Waldhof Mannheim",
+     "ar": "فالدهوف مانهايم"
+    },
+    "shortName": {
+     "en": "Mannheim",
+     "ar": "مانهايم"
+    },
+    "code": "WAL",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6610.png",
+    "aliases": [
+     "Mannheim",
+     "SV Waldhof Mannheim",
+     "Waldhof"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-wehen-wiesbaden",
+    "name": {
+     "en": "Wehen Wiesbaden",
+     "ar": "فيهن فيسبادن"
+    },
+    "shortName": {
+     "en": "Wiesbaden",
+     "ar": "فيسبادن"
+    },
+    "code": "SWW",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3769.png",
+    "aliases": [
+     "SV Wehen Wiesbaden",
+     "Wehen",
+     "Wiesbaden"
+    ]
+   },
+   "sources": [
+    "https://www.albayan.ae/sports/international-stadiums/1548444",
+    "https://www.aletihad.ae/news/الرياضي/4616838/قمة-بين-فرانكفورت-ودورتموند-في-كأس-ألمانيا",
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-fc-saarbrucken",
+    "name": {
+     "en": "1. FC Saarbrücken",
+     "ar": "زاربروكن"
+    },
+    "shortName": {
+     "en": "Saarbrücken",
+     "ar": "زاربروكن"
+    },
+    "code": "FCS",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18741.png",
+    "aliases": [
+     "1. FC Saarbrucken",
+     "FC Saarbrücken",
+     "Saarbrucken",
+     "Saarbrücken"
+    ]
+   },
+   "sources": [
+    "https://www.fotmob.com/ar/matches/saarbrucken-vs-bayern-munchen/2pgziw",
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/1-fc-saarbruecken-vs-hertha-bsc/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-tsv-schott-mainz",
+    "name": {
+     "en": "TSV Schott Mainz",
+     "ar": "شوت ماينز"
+    },
+    "shortName": {
+     "en": "Schott Mainz",
+     "ar": "شوت ماينز"
+    },
+    "code": "TSM",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21508.png",
+    "aliases": [
+     "Schott",
+     "Schott Mainz"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/tsv-schott-mainz-vs-borussia-moenchengladbach/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-greuther-furth",
+    "name": {
+     "en": "Greuther Fürth",
+     "ar": "غرويتر فورت"
+    },
+    "shortName": {
+     "en": "Fürth",
+     "ar": "فورت"
+    },
+    "code": "SGF",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3070.png",
+    "aliases": [
+     "Furth",
+     "Fürth",
+     "Greuther Furth",
+     "SpVgg Greuther Fürth"
+    ],
+    "venue": {
+     "name": {
+      "en": "Sportpark Ronhof Thomas Sommer",
+      "ar": "سبورتبارك رونهوف"
+     },
+     "city": {
+      "en": "Fürth",
+      "ar": "فورت"
+     }
+    }
+   },
+   "sources": [
+    "https://ar.wikipedia.org/wiki/%D8%BA%D8%B1%D9%88%D9%8A%D8%AA%D8%B1_%D9%81%D9%88%D8%B1%D8%AA",
+    "https://www.aletihad.ae/news/الرياضي/4616838/قمة-بين-فرانكفورت-ودورتموند-في-كأس-ألمانيا",
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/spvgg-greuther-fuerth-vs-vfl-bochum-1848/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-st-pauli",
+    "name": {
+     "en": "St. Pauli",
+     "ar": "سانت باولي"
+    },
+    "shortName": {
+     "en": "St. Pauli",
+     "ar": "سانت باولي"
+    },
+    "code": "STP",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/270.png",
+    "aliases": [
+     "FC St. Pauli"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.omandaily.om/article/1196716",
+    "https://www.aletihad.ae/news/4512074/%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%89-%D9%82%D8%B1%D8%B9%D8%A9-%D8%A7%D9%84%D8%AF%D9%88%D8%B1-%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A-%D9%84%D9%83%D8%A3%D8%B3-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7",
+    "https://www.albayan.ae/sports/international/2022-09-04-1.4507875",
+    "https://www.365scores.com/ar/football/match/dfb-pokal-28/schalke-04-st.-pauli-335-359-28",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-1860-munich",
+    "name": {
+     "en": "1860 Munich",
+     "ar": "1860 ميونخ"
+    },
+    "shortName": {
+     "en": "1860 Munich",
+     "ar": "1860 ميونخ"
+    },
+    "code": "M60",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/135.png",
+    "aliases": [
+     "1860 Munchen",
+     "1860 München",
+     "TSV 1860 Munich",
+     "TSV 1860 München"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-eintracht-braunschweig",
+    "name": {
+     "en": "Eintracht Braunschweig",
+     "ar": "آينتراخت براونشفايغ"
+    },
+    "shortName": {
+     "en": "Braunschweig",
+     "ar": "براونشفايغ"
+    },
+    "code": "EBS",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3067.png",
+    "aliases": [
+     "Braunschweig",
+     "TSV Eintracht Braunschweig"
+    ]
+   },
+   "sources": [
+    "https://www.omandaily.om/ampArticle/1185153",
+    "https://www.albayan.ae/sports/international/2022-09-04-1.4507875",
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-vfb-krieschow",
+    "name": {
+     "en": "VfB Krieschow",
+     "ar": "كريشو"
+    },
+    "shortName": {
+     "en": "Krieschow",
+     "ar": "كريشو"
+    },
+    "code": "KRI",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/131786.png",
+    "aliases": [
+     "Krieschow",
+     "VFB Krieschow",
+     "VfB 1921 Krieschow"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/vfb-1921-krieschow-vs-1-fsv-mainz-05/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-vsg-altglienicke",
+    "name": {
+     "en": "VSG Altglienicke",
+     "ar": "ألتغلينيكه"
+    },
+    "shortName": {
+     "en": "Altglienicke",
+     "ar": "ألتغلينيكه"
+    },
+    "code": "VSG",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20735.png",
+    "aliases": [
+     "Altglienicke"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/vsg-altglienicke-vs-vfl-wolfsburg/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-vfl-bochum",
+    "name": {
+     "en": "VfL Bochum",
+     "ar": "بوخوم"
+    },
+    "shortName": {
+     "en": "Bochum",
+     "ar": "بوخوم"
+    },
+    "code": "BOC",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/121.png",
+    "aliases": [
+     "Bochum",
+     "VfL Bochum 1848"
+    ]
+   },
+   "sources": [
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28/matches#results",
+    "https://www.aletihad.ae/news/الرياضي/4616838/قمة-بين-فرانكفورت-ودورتموند-في-كأس-ألمانيا",
+    "https://ar.wikipedia.org/wiki/%D9%86%D8%A7%D8%AF%D9%8A_%D8%A8%D9%88%D8%AE%D9%88%D9%85",
+    "https://www.albayan.ae/amp/deutsche-welle/sport/2015-08-09-1.2433314",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/spvgg-greuther-fuerth-vs-vfl-bochum-1848/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-vfl-osnabruck",
+    "name": {
+     "en": "VfL Osnabrück",
+     "ar": "أوسنابروك"
+    },
+    "shortName": {
+     "en": "Osnabrück",
+     "ar": "أوسنابروك"
+    },
+    "code": "OSN",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7013.png",
+    "aliases": [
+     "Osnabruck",
+     "Osnabrück",
+     "VfL Osnabruck"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-vfl-wolfsburg",
+    "name": {
+     "en": "VfL Wolfsburg",
+     "ar": "فولفسبورغ"
+    },
+    "shortName": {
+     "en": "Wolfsburg",
+     "ar": "فولفسبورغ"
+    },
+    "code": "WOB",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/138.png",
+    "aliases": [
+     "Wolfsburg"
+    ]
+   },
+   "sources": [
+    "https://qna.org.qa/ar-QA/News-Area/News/2026-9/5/كاس-المانيا-مواجهة-سهلة-لبايرن-ميونخ-في-الدور-الثاني",
+    "https://www.okaz.com.sa/sport/international/2219751",
+    "https://www.emaratalyoum.com/sports/arab-and-international/2011-08-01-1.413270",
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/vsg-altglienicke-vs-vfl-wolfsburg/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-viktoria-koln",
+    "name": {
+     "en": "Viktoria Köln",
+     "ar": "فيكتوريا كولن"
+    },
+    "shortName": {
+     "en": "Viktoria Köln",
+     "ar": "فيكتوريا كولن"
+    },
+    "code": "VKO",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17492.png",
+    "aliases": [
+     "FC Viktoria Köln",
+     "Viktoria Cologne",
+     "Viktoria Koln"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/fc-viktoria-koeln-vs-1-fc-nuernberg/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-westfalia-rhynern",
+    "name": {
+     "en": "Westfalia Rhynern",
+     "ar": "ويستفاليا راينيرن"
+    },
+    "shortName": {
+     "en": "Rhynern",
+     "ar": "راينيرن"
+    },
+    "code": "RHY",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21957.png",
+    "aliases": [
+     "Rhynern",
+     "SV Westfalia Rhynern"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.bundesliga.com/en/dfb-cup/matchday/2026-2027/round-1/sv-westfalia-rhynern-vs-sg-dynamo-dresden/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "team",
+   "team": {
+    "id": "de-wurzburger-kickers",
+    "name": {
+     "en": "Würzburger Kickers",
+     "ar": "فورزبورغر كيكرز"
+    },
+    "shortName": {
+     "en": "Würzburger Kickers",
+     "ar": "فورزبورغر كيكرز"
+    },
+    "code": "FWK",
+    "country": "de",
+    "countryName": {
+     "en": "Germany",
+     "ar": "ألمانيا"
+    },
+    "national": false,
+    "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17491.png",
+    "aliases": [
+     "Wurzburg",
+     "Wurzburger Kickers",
+     "Würzburg"
+    ]
+   },
+   "sources": [
+    "https://www.kooora.com/?c=22455",
+    "https://www.365scores.com/ar/football/league/dfb-pokal-28",
+    "https://www.bundesliga.com/en/bundesliga/news/2026-27-dfb-cup-live-fixtures-results-draws-bayern-munich-dortmund-37709"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-preussen-munster",
+   "away": "de-karlsruher-sc",
+   "kickoff": "2026-08-21T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260821&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-waldhof-mannheim",
+   "away": "de-kaiserslautern",
+   "kickoff": "2026-08-21T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260821&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-sc-st-tonis",
+   "away": "de-eintracht-frankfurt",
+   "kickoff": "2026-08-21T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260821&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-hansa-rostock",
+   "away": "de-vfb-stuttgart",
+   "kickoff": "2026-08-21T18:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260821&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-wehen-wiesbaden",
+   "away": "de-bayer-leverkusen",
+   "kickoff": "2026-08-22T11:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-energie-cottbus",
+   "away": "de-fc-augsburg",
+   "kickoff": "2026-08-22T11:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-hemelingen",
+   "away": "de-hannover-96",
+   "kickoff": "2026-08-22T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-luneburger-sk-hansa",
+   "away": "de-werder-bremen",
+   "kickoff": "2026-08-22T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-msv-duisburg",
+   "away": "de-sv-elversberg",
+   "kickoff": "2026-08-22T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-viktoria-koln",
+   "away": "de-fc-nurnberg",
+   "kickoff": "2026-08-22T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401875180"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-fc-saarbrucken",
+   "away": "de-hertha-berlin",
+   "kickoff": "2026-08-22T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-erzgebirge-aue",
+   "away": "de-tsg-hoffenheim",
+   "kickoff": "2026-08-22T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-1860-munich",
+   "away": "de-holstein-kiel",
+   "kickoff": "2026-08-22T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401874892"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-eintracht-trier",
+   "away": "de-rb-leipzig",
+   "kickoff": "2026-08-22T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401874893"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-sonnenhof-grossaspach",
+   "away": "de-arminia-bielefeld",
+   "kickoff": "2026-08-22T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401875186"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-greuther-furth",
+   "away": "de-vfl-bochum",
+   "kickoff": "2026-08-23T11:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-ssv-jeddeloh-ii",
+   "away": "de-fc-heidenheim",
+   "kickoff": "2026-08-23T11:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-tsv-schott-mainz",
+   "away": "de-borussia-monchengladbach",
+   "kickoff": "2026-08-23T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-westfalia-rhynern",
+   "away": "de-dynamo-dresden",
+   "kickoff": "2026-08-23T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-bahlinger-sc",
+   "away": "de-fc-magdeburg",
+   "kickoff": "2026-08-23T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-carl-zeiss-jena",
+   "away": "de-darmstadt-98",
+   "kickoff": "2026-08-23T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-vfb-krieschow",
+   "away": "de-mainz-05",
+   "kickoff": "2026-08-23T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-eintracht-braunschweig",
+   "away": "de-union-berlin",
+   "kickoff": "2026-08-23T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-phonix-lubeck",
+   "away": "de-sc-paderborn",
+   "kickoff": "2026-08-23T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401874900"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-fortuna-dusseldorf",
+   "away": "de-sc-freiburg",
+   "kickoff": "2026-08-23T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401874901"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-rot-weiss-essen",
+   "away": "de-st-pauli",
+   "kickoff": "2026-08-23T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401875188"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-wurzburger-kickers",
+   "away": "de-fc-koln",
+   "kickoff": "2026-08-24T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260824&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-vsg-altglienicke",
+   "away": "de-vfl-wolfsburg",
+   "kickoff": "2026-08-24T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260824&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-sc-verl",
+   "away": "de-hamburger-sv",
+   "kickoff": "2026-08-24T16:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260824&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-hallescher-fc",
+   "away": "de-schalke-04",
+   "kickoff": "2026-08-24T18:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260824&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-hebc-hamburg",
+   "away": "de-borussia-dortmund",
+   "kickoff": "2026-09-01T18:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260901&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r1",
+    "type": "knockout"
+   },
+   "home": "de-vfl-osnabruck",
+   "away": "de-bayern-munich",
+   "kickoff": "2026-09-02T18:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260902&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-hamburger-sv",
+   "away": "de-eintracht-frankfurt",
+   "kickoff": "2026-10-27T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-rot-weiss-essen",
+   "away": "de-rb-leipzig",
+   "kickoff": "2026-10-27T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-sonnenhof-grossaspach",
+   "away": "de-fc-augsburg",
+   "kickoff": "2026-10-27T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-vfl-bochum",
+   "away": "de-mainz-05",
+   "kickoff": "2026-10-27T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-sv-elversberg",
+   "away": "de-darmstadt-98",
+   "kickoff": "2026-10-27T19:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-fc-koln",
+   "away": "de-union-berlin",
+   "kickoff": "2026-10-27T19:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-borussia-dortmund",
+   "away": "de-werder-bremen",
+   "kickoff": "2026-10-27T19:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-borussia-monchengladbach",
+   "away": "de-karlsruher-sc",
+   "kickoff": "2026-10-27T19:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-ssv-jeddeloh-ii",
+   "away": "de-hertha-berlin",
+   "kickoff": "2026-10-28T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-dynamo-dresden",
+   "away": "de-schalke-04",
+   "kickoff": "2026-10-28T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-sc-paderborn",
+   "away": "de-vfb-stuttgart",
+   "kickoff": "2026-10-28T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-sc-freiburg",
+   "away": "de-vfl-wolfsburg",
+   "kickoff": "2026-10-28T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-hannover-96",
+   "away": "de-kaiserslautern",
+   "kickoff": "2026-10-28T19:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-bayer-leverkusen",
+   "away": "de-fc-nurnberg",
+   "kickoff": "2026-10-28T19:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-holstein-kiel",
+   "away": "de-tsg-hoffenheim",
+   "kickoff": "2026-10-28T19:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r2",
+    "type": "knockout"
+   },
+   "home": "de-bayern-munich",
+   "away": "de-fc-magdeburg",
+   "kickoff": "2026-10-28T19:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "final",
+    "type": "final"
+   },
+   "homePlaceholder": {
+    "en": "Winner semi-final 1",
+    "ar": "الفائز في نصف النهائي 1"
+   },
+   "awayPlaceholder": {
+    "en": "Winner semi-final 2",
+    "ar": "الفائز في نصف النهائي 2"
+   },
+   "kickoff": "2027-05-29T18:00:00Z",
+   "timeConfirmed": true,
+   "neutral": true,
+   "sources": [
+    "https://www.dfb.de/maenner/wettbewerbe/dfb-pokal/wettbewerbsinformationen"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-preussen-munster",
+   "away": "de-karlsruher-sc",
+   "date": "2026-08-21",
+   "status": "FT",
+   "score": [
+    1,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Montell Ndikom",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Marvin Wanitzek",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "Sebastian Jung",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260821&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-waldhof-mannheim",
+   "away": "de-kaiserslautern",
+   "date": "2026-08-21",
+   "status": "AET",
+   "score": [
+    0,
+    1
+   ],
+   "regular": [
+    0,
+    0
+   ],
+   "et": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 120,
+     "side": "away",
+     "player": "Ibrahim Kanate",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260821&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-sc-st-tonis",
+   "away": "de-eintracht-frankfurt",
+   "date": "2026-08-21",
+   "status": "FT",
+   "score": [
+    0,
+    11
+   ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "away",
+     "player": "Jonathan Burkardt",
+     "type": "goal"
+    },
+    {
+     "minute": 10,
+     "side": "away",
+     "player": "Robin Koch",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Ayoube Amaimouni",
+     "type": "goal"
+    },
+    {
+     "minute": 29,
+     "side": "away",
+     "player": "Jonathan Burkardt",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Can Uzun",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "away",
+     "player": "Can Uzun",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Jonathan Burkardt",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "away",
+     "player": "Elias Baum",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Younes Ebnoutalib",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Mario Götze",
+     "type": "goal",
+     "extra": 5
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Farès Chaïbi",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260821&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-hansa-rostock",
+   "away": "de-vfb-stuttgart",
+   "date": "2026-08-21",
+   "status": "FT",
+   "score": [
+    0,
+    4
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Dzenan Pejcinovic",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "away",
+     "player": "Dzenan Pejcinovic",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Tiago Tomás",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Dzenan Pejcinovic",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260821&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-wehen-wiesbaden",
+   "away": "de-bayer-leverkusen",
+   "date": "2026-08-22",
+   "status": "FT",
+   "score": [
+    0,
+    4
+   ],
+   "goals": [
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Patrik Schick",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "away",
+     "player": "Lucas Vázquez",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Nathan Tella",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Christian Kofane",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-energie-cottbus",
+   "away": "de-fc-augsburg",
+   "date": "2026-08-22",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Anton Kade",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Kristijan Jakic",
+     "type": "goal",
+     "extra": 5
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-hemelingen",
+   "away": "de-hannover-96",
+   "date": "2026-08-22",
+   "status": "FT",
+   "score": [
+    1,
+    9
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Stefán Teitur Thórdarson",
+     "type": "goal"
+    },
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Lars Gindorf",
+     "type": "goal"
+    },
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "Marcel Hartel",
+     "type": "goal"
+    },
+    {
+     "minute": 19,
+     "side": "away",
+     "player": "Stefán Teitur Thórdarson",
+     "type": "goal"
+    },
+    {
+     "minute": 21,
+     "side": "away",
+     "player": "Benedikt Pichler",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Lars Gindorf",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Lars Gindorf",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "home",
+     "player": "Ledjon Fikaj",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Benedikt Pichler",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Taycan Macid Etcibasi",
+     "type": "goal",
+     "extra": 1
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-luneburger-sk-hansa",
+   "away": "de-werder-bremen",
+   "date": "2026-08-22",
+   "status": "FT",
+   "score": [
+    0,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Jens Stage",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "Niclas Füllkrug",
+     "type": "penalty"
+    },
+    {
+     "minute": 76,
+     "side": "away",
+     "player": "Ludovit Reis",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-msv-duisburg",
+   "away": "de-sv-elversberg",
+   "date": "2026-08-22",
+   "status": "FT",
+   "score": [
+    1,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 38,
+     "side": "away",
+     "player": "Luca Schnellbacher",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Lex-Tyger Lobinge",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "Francis-Ikechukwu Onyeka",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Francis-Ikechukwu Onyeka",
+     "type": "goal",
+     "extra": 1
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-viktoria-koln",
+   "away": "de-fc-nurnberg",
+   "date": "2026-08-22",
+   "status": "PEN",
+   "score": [
+    1,
+    1
+   ],
+   "regular": [
+    1,
+    1
+   ],
+   "et": [
+    0,
+    0
+   ],
+   "pens": [
+    4,
+    5
+   ],
+   "goals": [
+    {
+     "minute": 56,
+     "side": "away",
+     "player": "Piet Scobel",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Meiko Sponsel",
+     "type": "goal",
+     "extra": 6
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401875180",
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/1-runde/fc-viktoria-koeln-1-fc-nuernberg-2418325"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-fc-saarbrucken",
+   "away": "de-hertha-berlin",
+   "date": "2026-08-22",
+   "status": "PEN",
+   "score": [
+    1,
+    1
+   ],
+   "regular": [
+    1,
+    1
+   ],
+   "et": [
+    0,
+    0
+   ],
+   "pens": [
+    2,
+    4
+   ],
+   "goals": [
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Paul Seguin",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Philip Fahrner",
+     "type": "goal",
+     "extra": 2
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/1-runde/1-fc-saarbruecken-hertha-bsc-2418324"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-erzgebirge-aue",
+   "away": "de-tsg-hoffenheim",
+   "date": "2026-08-22",
+   "status": "FT",
+   "score": [
+    0,
+    4
+   ],
+   "goals": [
+    {
+     "minute": 6,
+     "side": "away",
+     "player": "Patrick Wimmer",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Wouter Burger",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Patrick Wimmer",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 63,
+     "side": "away",
+     "player": "Max Moerstedt",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260822&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-1860-munich",
+   "away": "de-holstein-kiel",
+   "date": "2026-08-22",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Phil Harres",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Guillermo Balzi",
+     "type": "goal",
+     "extra": 5
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401874892",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-eintracht-trier",
+   "away": "de-rb-leipzig",
+   "date": "2026-08-22",
+   "status": "FT",
+   "score": [
+    0,
+    6
+   ],
+   "goals": [
+    {
+     "minute": 2,
+     "side": "away",
+     "player": "Brajan Gruda",
+     "type": "goal"
+    },
+    {
+     "minute": 6,
+     "side": "away",
+     "player": "Willi Orbán",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Ridle Baku",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 76,
+     "side": "away",
+     "player": "Conrad Harder",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Antonio Nusa",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Ezechiel Banzuzi",
+     "type": "goal",
+     "extra": 5
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401874893",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-sonnenhof-grossaspach",
+   "away": "de-arminia-bielefeld",
+   "date": "2026-08-22",
+   "status": "PEN",
+   "score": [
+    2,
+    2
+   ],
+   "regular": [
+    2,
+    2
+   ],
+   "et": [
+    0,
+    0
+   ],
+   "pens": [
+    3,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Jan Elias Rahn",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Stefano Russo",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "away",
+     "player": "Joel Grodowski",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "home",
+     "player": "Fabian Eisele",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401875186",
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/1-runde/sg-sonnenhof-grossaspach-arminia-bielefeld-2418315"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-greuther-furth",
+   "away": "de-vfl-bochum",
+   "date": "2026-08-23",
+   "status": "FT",
+   "score": [
+    1,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Christian Rasmussen",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Philipp Hofmann",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Maxim Dal",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-ssv-jeddeloh-ii",
+   "away": "de-fc-heidenheim",
+   "date": "2026-08-23",
+   "status": "FT",
+   "score": [
+    5,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 12,
+     "side": "away",
+     "player": "Yannik Wagner",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "Kamer Krasniqi",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Jan Schöppner",
+     "type": "own-goal"
+    },
+    {
+     "minute": 29,
+     "side": "home",
+     "player": "Haris Huseni",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Haris Huseni",
+     "type": "penalty"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Tim Janssen",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Mikkel Kaufmann",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-tsv-schott-mainz",
+   "away": "de-borussia-monchengladbach",
+   "date": "2026-08-23",
+   "status": "FT",
+   "score": [
+    0,
+    5
+   ],
+   "goals": [
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Hugo Bolin",
+     "type": "goal"
+    },
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Daiki Hashioka",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "away",
+     "player": "Hugo Bolin",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Lukas Ullrich",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Wael Mohya",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-westfalia-rhynern",
+   "away": "de-dynamo-dresden",
+   "date": "2026-08-23",
+   "status": "FT",
+   "score": [
+    0,
+    6
+   ],
+   "goals": [
+    {
+     "minute": 8,
+     "side": "away",
+     "player": "Henrik Koch",
+     "type": "own-goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "Niklas Hauptmann",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "away",
+     "player": "Vincent Vermeij",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Ben Bobzien",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Kaan Inanoglu",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Robert Wagner",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-bahlinger-sc",
+   "away": "de-fc-magdeburg",
+   "date": "2026-08-23",
+   "status": "FT",
+   "score": [
+    0,
+    4
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Mateusz Zukowski",
+     "type": "goal"
+    },
+    {
+     "minute": 31,
+     "side": "away",
+     "player": "Falko Michel",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "away",
+     "player": "Mateusz Zukowski",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Falko Michel",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-carl-zeiss-jena",
+   "away": "de-darmstadt-98",
+   "date": "2026-08-23",
+   "status": "FT",
+   "score": [
+    1,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Milan Smit",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Elias Löder",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Lance Duijvestijn",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-vfb-krieschow",
+   "away": "de-mainz-05",
+   "date": "2026-08-23",
+   "status": "FT",
+   "score": [
+    0,
+    9
+   ],
+   "goals": [
+    {
+     "minute": 19,
+     "side": "away",
+     "player": "Phillip Tietz",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "away",
+     "player": "Phillip Tietz",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "Phillip Tietz",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Nadiem Amiri",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Sheraldo Becker",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "away",
+     "player": "Nadiem Amiri",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Phillip Tietz",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "away",
+     "player": "Ransford-Yeboah Königsdörffer",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "away",
+     "player": "William Bøving",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-eintracht-braunschweig",
+   "away": "de-union-berlin",
+   "date": "2026-08-23",
+   "status": "FT",
+   "score": [
+    2,
+    4
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Max Marie",
+     "type": "goal"
+    },
+    {
+     "minute": 31,
+     "side": "away",
+     "player": "Zeno Van Den Bosch",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Max Marie",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "away",
+     "player": "Tom Rothe",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "away",
+     "player": "Marin Ljubicic",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Marin Ljubicic",
+     "type": "goal",
+     "extra": 4
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260823&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-phonix-lubeck",
+   "away": "de-sc-paderborn",
+   "date": "2026-08-23",
+   "status": "FT",
+   "score": [
+    2,
+    4
+   ],
+   "goals": [
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Jano Horst",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Santiago Castaneda",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Moritz Kretzer",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Stefano Marino",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "away",
+     "player": "Gabriel Vidovic",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Tjark Scheller",
+     "type": "own-goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401874900",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-fortuna-dusseldorf",
+   "away": "de-sc-freiburg",
+   "date": "2026-08-23",
+   "status": "FT",
+   "score": [
+    1,
+    5
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Lucas Höler",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "away",
+     "player": "Igor Matanovic",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Lukas Kübler",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "Fabian Schleusener",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Jordy Makengo",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Igor Matanovic",
+     "type": "goal",
+     "extra": 4
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401874901",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-rot-weiss-essen",
+   "away": "de-st-pauli",
+   "date": "2026-08-23",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Marek Janssen",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Semir Telalovic",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard/401875188",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-wurzburger-kickers",
+   "away": "de-fc-koln",
+   "date": "2026-08-24",
+   "status": "FT",
+   "score": [
+    1,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "home",
+     "player": "David Abrangao",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Ísak Jóhannesson",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Ísak Jóhannesson",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260824&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-vsg-altglienicke",
+   "away": "de-vfl-wolfsburg",
+   "date": "2026-08-24",
+   "status": "PEN",
+   "score": [
+    3,
+    3
+   ],
+   "regular": [
+    2,
+    2
+   ],
+   "et": [
+    1,
+    1
+   ],
+   "pens": [
+    5,
+    6
+   ],
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "Jonas Nietfeld",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Maximilian Arnold",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Jonas Saliger",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "away",
+     "player": "Maximilian Arnold",
+     "type": "goal"
+    },
+    {
+     "minute": 109,
+     "side": "home",
+     "player": "Mehmet Ibrahimi",
+     "type": "goal"
+    },
+    {
+     "minute": 119,
+     "side": "away",
+     "player": "Hauke Wahl",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260824&limit=37",
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/1-runde/vsg-altglienicke-vfl-wolfsburg-2418337"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-sc-verl",
+   "away": "de-hamburger-sv",
+   "date": "2026-08-24",
+   "status": "FT",
+   "score": [
+    0,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Albert Grønbaek",
+     "type": "goal"
+    },
+    {
+     "minute": 46,
+     "side": "away",
+     "player": "Albert Grønbaek",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Louis Lemke",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260824&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-hallescher-fc",
+   "away": "de-schalke-04",
+   "date": "2026-08-24",
+   "status": "AET",
+   "score": [
+    2,
+    5
+   ],
+   "regular": [
+    2,
+    2
+   ],
+   "et": [
+    0,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Vin Kastull",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Dejan Ljubicic",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "Edin Dzeko",
+     "type": "penalty"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Niclas Stierlin",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 98,
+     "side": "away",
+     "player": "Moussa Sylla",
+     "type": "goal"
+    },
+    {
+     "minute": 105,
+     "side": "away",
+     "player": "Junior Adamu",
+     "type": "goal",
+     "extra": 1
+    },
+    {
+     "minute": 117,
+     "side": "away",
+     "player": "Edin Dzeko",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260824&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-hebc-hamburg",
+   "away": "de-borussia-dortmund",
+   "date": "2026-09-01",
+   "status": "FT",
+   "score": [
+    0,
+    5
+   ],
+   "goals": [
+    {
+     "minute": 33,
+     "side": "away",
+     "player": "Janek Wrede",
+     "type": "own-goal"
+    },
+    {
+     "minute": 36,
+     "side": "away",
+     "player": "Daniel Svensson",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Samuele Inácio",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Samuele Inácio",
+     "type": "goal",
+     "extra": 2
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Fábio Silva",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260901&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "home": "de-vfl-osnabruck",
+   "away": "de-bayern-munich",
+   "date": "2026-09-02",
+   "status": "FT",
+   "score": [
+    1,
+    4
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "home",
+     "player": "Robin Meißner",
+     "type": "goal"
+    },
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Harry Kane",
+     "type": "goal"
+    },
+    {
+     "minute": 24,
+     "side": "away",
+     "player": "Tom Bischof",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "away",
+     "player": "Michael Olise",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "away",
+     "player": "Harry Kane",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20260902&limit=37",
+    "https://datencenter.dfb.de/competitions/33/seasons/19478/matchday/58458"
+   ]
+  }
+ ],
+ "unconfirmed": [],
+ "notes": [
+  "All 48 matches come from ESPN's ger.dfb_pokal feed ('German Cup'): first round 32 (21-24 Aug, plus 1 and 2 Sep 2026 for Dortmund and Bayern after the Supercup, per dfb.de), second round 16 (27-28 Oct 2026). First-round results confirmed by the DFB Datencenter (Tier 1, datencenter.dfb.de) and, for 30 of 32, by Sky Sports. Every first-round winner is in the second round.",
+  "Format (dfb.de 'Modus' and 'Wettbewerbsinformationen'): 64 clubs, single matches, extra time (2 x 15 min) then penalties. Round of 16 on 1-2 Dec 2026 (draw Sun 1 Nov 2026, 19:15 German time, ARD Sportschau); quarter-finals 2/3 and 9/10 Feb 2027; semi-finals 20/21 Apr 2027; final Sat 29 May 2027, 20:00 German time (18:00 UTC) in Berlin (Wikipedia, Tier 3, names the Olympiastadion; DFB says only 'Berlin', so no venue is stored).",
+  "Shoot-outs: the DFB Datencenter shows the shoot-out score itself ('4 : 5 i.E.'); stored as PEN with the score after 120 minutes, regular time and extra time split by the goal minutes, and the shoot-out in pens. AET results are split the same way.",
+  "Second-round kick-offs: ESPN times; the DFB Datencenter round page gives the same times in German time (CET)."
+ ]
+}
