@@ -99,6 +99,39 @@ export function defaultVenue(m, comp, teamById) {
   return hosted ? home.venue : null;
 }
 
+// ---- crests ----------------------------------------------------------------------------------
+
+/**
+ * Where a team's crest ("logo") may come from. The site shows crests through its image proxy, which only
+ * fetches from these hosts (ALLOWED_HOSTS in the site's src/app/api/img/route.ts): keep the two lists the
+ * same. A crest from a host the installed site doesn't know yet shows as the team's code until the NAS
+ * update that adds the host (imagecache.365scores.com: site bundle of 26 Oct 2026, afternoon).
+ */
+export const LOGO_HOSTS = [
+  /^media(-\d+)?\.api-sports\.io$/,
+  /^media\.api-football\.com$/,
+  /^r2\.thesportsdb\.com$/,
+  /^www\.thesportsdb\.com$/,
+  /^a\.espncdn\.com$/,
+  /^imagecache\.365scores\.com$/,
+];
+
+/** An https link on a crest host, or a file shipped with the site (a path such as /flags/4x3/ae.svg). */
+export function logoOk(logo, { local = true } = {}) {
+  if (typeof logo !== "string") return false;
+  if (local && /^\/[A-Za-z0-9/_.-]+$/.test(logo)) return true;
+  try {
+    const u = new URL(logo);
+    return u.protocol === "https:" && LOGO_HOSTS.some((re) => re.test(u.hostname));
+  } catch {
+    return false;
+  }
+}
+
+/** TheSportsDB also serves smaller copies at <badge>.png/tiny, /small, /medium or /preview: keep the full-size file. */
+export const normLogo = (url) =>
+  url.trim().replace(/^(https:\/\/r2\.thesportsdb\.com\/images\/media\/team\/badge\/[^/]+\.(?:png|jpe?g|webp))\/(?:tiny|small|medium|preview)$/i, "$1");
+
 export function saveTeams(teams) {
   teams.sort((a, b) => a.id.localeCompare(b.id));
   writeJSON(path.join(DATA, "teams.json"), teams);

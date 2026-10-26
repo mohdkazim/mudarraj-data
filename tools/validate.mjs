@@ -8,7 +8,7 @@
  */
 import { readdirSync, existsSync } from "node:fs";
 import path from "node:path";
-import { DATA, FINISHED, STAGE_TYPES, STATUSES, confirmation, dubaiDate, isoOk, loadAll, pairOk, readJSON, venueOk } from "./lib.mjs";
+import { DATA, FINISHED, STAGE_TYPES, STATUSES, confirmation, dubaiDate, isoOk, loadAll, logoOk, pairOk, readJSON, venueOk } from "./lib.mjs";
 
 export function validate(all = loadAll(), now = Date.now()) {
   const errors = [];
@@ -24,7 +24,10 @@ export function validate(all = loadAll(), now = Date.now()) {
     if (!t.name?.en || !t.name?.ar) err(`team ${t.id}`, "needs English and Arabic names");
     if (!t.code) warn(`team ${t.id}`, "no 3-letter code");
     if (t.venue && !venueOk(t.venue)) err(`team ${t.id}`, "venue needs name {en, ar} (and city {en, ar} if given)");
+    if (t.logo != null && !logoOk(t.logo)) err(`team ${t.id}`, `crest must be an https link on a host the site's image proxy allows (LOGO_HOSTS in tools/lib.mjs) or a file shipped with the site, got ${t.logo}`);
   }
+  const noCrest = all.teams.filter((t) => !t.logo).map((t) => t.id);
+  if (noCrest.length) warn("teams", `${noCrest.length} without a crest (${noCrest.join(", ")}): add them with "team-logo" (RUNBOOK.md "Crests")`);
 
   // ---- competitions
   for (const c of all.competitions) {

@@ -13,6 +13,7 @@
  *     { "op": "status",  "match": "<id>", "status": "PST", "sources": ["https://…"] },
  *     { "op": "team",    "team": { "id": "…", "name": {"en":"…","ar":"…"}, "shortName": {...}, "code": "ABC", "country": "qa", "national": false }, "sources": ["https://…"] },
  *     { "op": "team-venue", "team": "<team id>", "venue": { "name": {"en":"…","ar":"…"}, "city": {"en":"…","ar":"…"} }, "sources": ["https://…"] },
+ *     { "op": "team-logo", "team": "<team id>", "logo": "https://r2.thesportsdb.com/images/media/team/badge/….png", "sources": ["https://… (the page showing it)"] },
  *     { "op": "venue", "match": "<id>", "venue": {...} | null, "neutral": true, "sources": ["https://…"] },
  *     { "op": "table-check", "competition": "…", "season": "…", "table": "overall", "asOf": "2026-10-23T08:00:00Z",
  *       "rows": [{ "team": "…", "played": 7, "points": 21 }], "sources": ["https://…"] },
@@ -31,6 +32,10 @@
  *       { "minute": 45, "extra": 2, "side": "home", "player": "Kodjo Laba", "type": "goal" }
  *     "side" is the team the goal counts for (for an own goal: the team that benefits); "type" is goal, penalty or own-goal;
  *     "extra" is stoppage time (45+2 → minute 45, extra 2). The list must add up to the score, or leave it out.
+ *
+ * Crests: every team needs one ("logo" in a "team" op, or a "team-logo" op), an https link on a host the
+ * site's image proxy allows (LOGO_HOSTS in tools/lib.mjs: ESPN, TheSportsDB, 365Scores, API-Football),
+ * with the page it was found on in "sources". See RUNBOOK.md "Crests".
  *
  * Venues: a club's stadium ("team-venue") is used for its home matches in league and group stages and
  * two-legged ties (tools/lib.mjs defaultVenue). Give a match its own "venue" only when it is played
@@ -53,7 +58,9 @@ import {
   fixtureTrust,
   isoOk,
   loadAll,
+  logoOk,
   makeMatchId,
+  normLogo,
   normVenue,
   pairOk,
   readJSON,
@@ -347,6 +354,11 @@ for (const c of patch.changes) {
           no(c, `team ${t.id} already exists`);
           break;
         }
+        const logo = typeof t.logo === "string" ? normLogo(t.logo) : null;
+        if (t.logo != null && !logoOk(logo, { local: false })) {
+          no(c, `logo must be an https link on a crest host the site shows (see LOGO_HOSTS in tools/lib.mjs), got ${t.logo}`);
+          break;
+        }
         const team = {
           id: t.id,
           name: t.name,
@@ -355,7 +367,7 @@ for (const c of patch.changes) {
           national: !!t.national,
           country: t.country ?? "",
           countryName: t.countryName ?? { en: "", ar: "" },
-          logo: t.logo ?? null,
+          logo,
           color: t.color ?? null,
           venue: t.venue ?? null,
           aliases: t.aliases ?? [],
@@ -364,7 +376,28 @@ for (const c of patch.changes) {
         all.teams.push(team);
         all.teamById.set(team.id, team);
         saveTeams(all.teams);
-        ok(c, `team ${t.id} added`);
+        ok(c, logo ? `team ${t.id} added` : `team ${t.id} added — no crest yet: add one with "team-logo" (RUNBOOK.md "Crests")`);
+        break;
+      }
+      case "team-logo": {
+        const t = all.teamById.get(c.team);
+        if (!t) {
+          no(c, `unknown team ${c.team}`);
+          break;
+        }
+        const logo = typeof c.logo === "string" ? normLogo(c.logo) : null;
+        if (!logoOk(logo, { local: false })) {
+          no(c, `logo must be an https link on a crest host the site shows (see LOGO_HOSTS in tools/lib.mjs), got ${c.logo}`);
+          break;
+        }
+        if (!c.sources.length || !c.sources.every((u) => typeof u === "string" && /^https:\/\//.test(u))) {
+          no(c, "sources: the https page(s) where this crest was found");
+          break;
+        }
+        const before = t.logo ?? null;
+        t.logo = logo;
+        saveTeams(all.teams);
+        ok({ ...c, team: t.id }, before === logo ? "crest unchanged" : before ? `crest replaced (was ${before})` : "crest added");
         break;
       }
       case "table-check": {

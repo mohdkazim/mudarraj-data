@@ -4,8 +4,8 @@
  *   node tools/status.mjs            (window: 4 days back → 21 days ahead, Asia/Dubai dates)
  *   node tools/status.mjs --back 10 --ahead 30
  * Lists: matches that should have a result, results of the last 3 days without goal scorers, kick-off
- * times still unconfirmed, claims waiting for a second source, and competitions whose fixture list runs
- * out soon.
+ * times still unconfirmed, claims waiting for a second source, teams without a crest, and competitions
+ * whose fixture list runs out soon.
  *
  * Evening results run (hourly, see RUNBOOK.md):
  *   node tools/status.mjs --results              (matches that kicked off in the last 12 hours)
@@ -102,6 +102,9 @@ for (const x of watch.sort((a, b) => (a.m.kickoff ?? "").localeCompare(b.m.kicko
 const pending = readJSON(path.join(ROOT, "data", "pending.json"), []);
 console.log(`\nWAITING FOR A SECOND SOURCE (${pending.length}):`);
 for (const p of pending) console.log(`  ${p.match ?? "?"}  claim ${p.claim ?? "?"}  from ${(p.sources ?? []).join(", ")}`);
+const noCrest = all.teams.filter((t) => !t.logo);
+console.log(`\nTEAMS WITHOUT A CREST — add one with "team-logo", see RUNBOOK.md "Crests" (${noCrest.length}):`);
+for (const t of noCrest) console.log(`  ${t.id.padEnd(28)} ${t.name.en}${t.countryName?.en ? ` (${t.countryName.en})` : ""}`);
 console.log(`\nFIXTURE LISTS (add fixtures when a list ends within the window or a draw has happened):`);
 for (const c of all.competitions) {
   const last = lastFixture.get(c.id);

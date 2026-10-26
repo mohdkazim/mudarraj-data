@@ -38,10 +38,11 @@ node tools/status.mjs
    - **FIXTURE LISTS:** when a list ends inside the window, or a draw or schedule announcement happened, add the new fixtures. Fill knockout placeholders once the teams are known: use a `fixture` op with the existing match id plus `home`/`away`.
    - **Postponed, cancelled or abandoned** matches: use a `status` op (Tier 1 or 2 source).
    - **POSTPONED OR ABANDONED** (listed by `status.mjs`): look for the new date or the organiser's decision. New date → `fixture` op with the existing `match` id and the new `kickoff` (the match goes back to "not started"). Result awarded or the match resumed and finished → `result` op.
+   - **TEAMS WITHOUT A CREST:** find each club's crest and add it with a `team-logo` op (see "Crests" below). Normally this list is empty; a club added without a crest shows up here the next morning.
    - **Venues:** when a source lists a match's stadium and it isn't the home club's usual ground (finals and other neutral venues, single-match cup rounds, a club hosting elsewhere), add a `venue` op (see "Venues" below).
    - **Mondays:** add a `table-check` for each league table (EPL from Sky Sports, LALIGA from laliga.com, others when a Tier 1 or 2 table is readable). Copy `played` and `points` for every team and set `asOf` to when that table was last updated. The build then fails if our results don't add up to the same table. That's how missing or wrong results are caught.
 
-3. **Write the patch** `patches/<UAE date>.json`. The format is documented at the top of `tools/apply.mjs`. Stage keys and table ids are in `data/competitions.json`, team ids in `data/teams.json`. A club that isn't listed needs a `team` op first, with its English and Arabic names from a Tier 1 or 2 source (Arabic news sites and official Arabic pages are best).
+3. **Write the patch** `patches/<UAE date>.json`. The format is documented at the top of `tools/apply.mjs`. Stage keys and table ids are in `data/competitions.json`, team ids in `data/teams.json`. A club that isn't listed needs a `team` op first, with its English and Arabic names from a Tier 1 or 2 source (Arabic news sites and official Arabic pages are best), and its crest in `logo` (see "Crests"; add the crest page to the op's `sources`).
 
 4. **Apply and build:**
    ```bash
@@ -89,7 +90,7 @@ A small run with one job: results of matches that have just finished, with their
 5. Publish only if the build passes, also when the run only added scorers: `git commit -m "data: <UAE date> <HH:MM> — <n> results, <s> scorers"` and push. Push rejected → `git pull --rebase`, build again, push.
 6. **No report when things went normally** — the morning run reports the day. Only report a problem that stopped publishing (no GitHub access, a build you couldn't fix, a push that kept failing).
 
-Don't do in an evening run: fixture lists, kick-off times, venues, postponed matches, table checks, older gaps from previous days. Those are the morning run's.
+Don't do in an evening run: fixture lists, kick-off times, venues, crests, postponed matches, table checks, older gaps from previous days. Those are the morning run's.
 
 ## Venues
 
@@ -98,6 +99,19 @@ Don't do in an evening run: fixture lists, kick-off times, venues, postponed mat
 - A club changes ground (new stadium, renovation, AFC/UEFA stadium rules, a neutral home venue for the whole season) → `team-venue` op with the new stadium and a Tier 1 or Tier 2 source.
 - A new club (`team` op) should include its `venue` when the source gives it.
 - Never guess: no venue is better than a wrong one. Evening runs don't do venues.
+
+## Crests
+
+Every club on the site shows its crest; a club without one shows a circle with its 3-letter code. Mohamed doesn't want any club without a crest, so every new club gets one, and `node tools/status.mjs` lists any club still without one (TEAMS WITHOUT A CREST).
+
+- **Where crests come from:** only hosts the site's image proxy allows (`LOGO_HOSTS` in `tools/lib.mjs`); the tools reject any other link. Try in this order (tested 26 Oct 2026):
+  1. **TheSportsDB** (most clubs, European, Asian and Gulf): WebSearch `<club name> thesportsdb team` with `allowed_domains: ["thesportsdb.com"]` → open the club's team page (`thesportsdb.com/team/<id>-<name>`; a match, venue or season page showing the club works too) and copy its badge link `https://r2.thesportsdb.com/images/media/team/badge/<file>.png` exactly (a trailing `/medium`, `/small` or `/tiny` is dropped automatically: that's a smaller copy of the same badge). Check the page is the right club: name, town, country and league.
+  2. **365Scores** (when TheSportsDB doesn't have the club): WebSearch `<club name>` with `allowed_domains: ["365scores.com"]` → open the club's team page (`365scores.com/football/team/<name>-<id>`; a standings or match page links it) and copy the crest link from the page header exactly (`https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,…/Competitors/<id>`).
+  3. **ESPN** (only when an ESPN page or feed you already opened in this run gives the club's ESPN team id; never search with `espn.com` in `allowed_domains`): `https://a.espncdn.com/i/teamlogos/soccer/500/<ESPN team id>.png`. The German and Italian clubs' crests come from here.
+- **Op:** `{ "op": "team-logo", "team": "<team id>", "logo": "<crest link>", "sources": ["<the page you copied it from>"] }`. A new club: put the link in the `team` op's `logo` instead and add that page to its `sources`.
+- **Copy, never build:** take the link from a page you opened in this run. Don't put together a TheSportsDB file name or a 365Scores id from memory: a wrong link shows nothing.
+- **Not found** on any of the three → leave it (the club keeps its code circle), mention it in the report, and the next morning run tries again.
+- **Wrong or outdated crest** (a club rebrands) → `team-logo` with the new link replaces it.
 
 ## When something goes wrong
 
