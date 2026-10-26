@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-26T21:37:21.482Z",
+ "generatedAt": "2026-10-26T22:37:03.119Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 691,
+  "results": 692,
   "pending": 0
  },
  "teams": [
@@ -54745,8 +54745,15 @@
    "away": "es-osasuna",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Ramón Sánchez-Pizjuán",
@@ -54759,10 +54766,24 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+    "https://www.kooora.com/%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9/%D8%A7%D9%95%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D8%A9-%D8%B6%D8%AF-%D8%A7%D9%94%D9%88%D8%B3%D8%A7%D8%B3%D9%88%D9%86%D8%A7/gxXDKFRus5yh4Onpy47Ad",
+    "https://www.skysports.com/la-liga-scores-fixtures"
    ],
+   "goals": [
+    {
+     "minute": 24,
+     "side": "home",
+     "player": "Isaac Romero",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "Félix Correia",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T22:37:02.967Z",
    "venueFrom": "home-ground"
   },
   {

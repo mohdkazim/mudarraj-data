@@ -3374,3 +3374,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result acle-2026-27-league-west-gwest-r03-sa-al-ahli-saudi-qa-al-gharafa 2-1 FT
   - ✓ result acle-2026-27-league-west-gwest-r03-iq-al-quwa-al-jawiya-uz-pakhtakor 1-0 FT
   - ✓ result acle-2026-27-league-west-gwest-r03-sa-al-qadsiah-qa-al-sadd 1-1 FT
+
+## 2026-10-27 (2026-10-26T22:35:00Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r10-es-sevilla-es-osasuna 2-0 FT
