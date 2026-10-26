@@ -10,7 +10,8 @@
  *     { "op": "result",  "competition": "uae-pro-league", "season": "2026-27", "home": "ae-al-ain", "away": "ae-ajman", "date": "2026-10-29", … },
  *     { "op": "fixture", "competition": "…", "season": "…", "stage": {"key":"regular","type":"league","round":8}, "home": "…", "away": "…",
  *       "kickoff": "2026-11-06T13:05:00Z", "timeConfirmed": true, "venue": {...}, "sources": ["https://…"] },
- *     { "op": "status",  "match": "<id>", "status": "PST", "sources": ["https://…"] },
+ *     { "op": "status",  "match": "<id>", "status": "PST", "sources": ["https://…"] },   (postponed: leave out kickoff — the
+ *        original date stays; the new date comes later as a "fixture" change with the same match id)
  *     { "op": "team",    "team": { "id": "…", "name": {"en":"…","ar":"…"}, "shortName": {...}, "code": "ABC", "country": "qa", "national": false }, "sources": ["https://…"] },
  *     { "op": "team-venue", "team": "<team id>", "venue": { "name": {"en":"…","ar":"…"}, "city": {"en":"…","ar":"…"} }, "sources": ["https://…"] },
  *     { "op": "team-logo", "team": "<team id>", "logo": "https://r2.thesportsdb.com/images/media/team/badge/….png", "sources": ["https://… (the page showing it)"] },
@@ -254,6 +255,8 @@ for (const c of patch.changes) {
             }
             m.kickoff = c.kickoff;
             m.timeConfirmed = trust === "trusted" ? c.timeConfirmed !== false : false;
+            // a tie that was waiting for its date ("TBD") is now scheduled
+            if (c.kickoff && m.status === "TBD") m.status = "NS";
           }
           const unknown = ["home", "away"].find((side) => c[side] && m[side] === null && !all.teamById.has(c[side]));
           if (unknown) {
@@ -336,8 +339,14 @@ for (const c of patch.changes) {
           no(c, "match already has a result (use correction)");
           break;
         }
+        if (c.kickoff !== undefined && c.kickoff !== null && !isoOk(c.kickoff)) {
+          no(c, `bad kickoff ${c.kickoff}`);
+          break;
+        }
         m.status = c.status;
-        if (c.kickoff !== undefined) m.kickoff = c.kickoff;
+        // A postponement keeps the original date (the site shows it with "Postponed" until the new date is
+        // added with a "fixture" change); "kickoff": null is ignored rather than wiping the date.
+        if (c.kickoff) m.kickoff = c.kickoff;
         m.sources = [...new Set([...(m.sources ?? []), ...c.sources])].slice(-6);
         touched.add(s);
         resolved.add(m.id);

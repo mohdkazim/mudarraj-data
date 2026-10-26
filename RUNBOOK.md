@@ -36,7 +36,7 @@ node tools/status.mjs
    - **KICK-OFF TIME NOT CONFIRMED:** look for the time on a Tier 1 or 2 site.
    - **WAITING FOR A SECOND SOURCE:** try to confirm or correct each claim.
    - **FIXTURE LISTS:** when a list ends inside the window, or a draw or schedule announcement happened, add the new fixtures. Fill knockout placeholders once the teams are known: use a `fixture` op with the existing match id plus `home`/`away`.
-   - **Postponed, cancelled or abandoned** matches: use a `status` op (Tier 1 or 2 source).
+   - **CHECK FOR POSTPONEMENTS** (the matches of the next 48 hours, by competition): search each competition's news once for a postponement, cancellation or move, and record what you find (see "Postponements" below). Also whenever a page you read for anything else says a match was postponed, cancelled or abandoned.
    - **POSTPONED OR ABANDONED** (listed by `status.mjs`): look for the new date or the organiser's decision. New date → `fixture` op with the existing `match` id and the new `kickoff` (the match goes back to "not started"). Result awarded or the match resumed and finished → `result` op.
    - **TEAMS WITHOUT A CREST:** find each club's crest and add it with a `team-logo` op (see "Crests" below). Normally this list is empty; a club added without a crest shows up here the next morning.
    - **Venues:** when a source lists a match's stadium and it isn't the home club's usual ground (finals and other neutral venues, single-match cup rounds, a club hosting elsewhere), add a `venue` op (see "Venues" below).
@@ -83,14 +83,16 @@ A small run with one job: results of matches that have just finished, with their
    ```bash
    node tools/status.mjs --results
    ```
-   It lists matches that kicked off in the last 12 hours, should have finished (kick-off at least 2 hours ago: 90 minutes, half-time and stoppage time) and still have no result, second-source claims about them, and results recorded in the last 2 hours that still have no scorers (NEEDS SCORERS).
+   It lists matches that kicked off in the last 12 hours, should have finished (kick-off at least 2 hours ago: 90 minutes, half-time and stoppage time) and still have no result, second-source claims about them, and results recorded in the last 2 hours that still have no scorers (NEEDS SCORERS). The first run of the evening (16:35) also lists LATER TODAY: the matches still to come today, to check once for postponements.
 2. **"NOTHING TO DO" → stop.** No web lookups, no commit, no report. Most runs end here.
 3. Otherwise confirm each listed result exactly as in step 2 above (same sources, same rules: one Tier 1, or two different Tier 2, or Tier 2 + Tier 3; single-source claims go under `unconfirmed`). A match that is still going (extra time, a late kick-off, a delay) or has no confirmed result yet is simply left for the next run. Record each result's scorers with it, and try once for each match under NEEDS SCORERS (see "Goal scorers"). Scorers often appear a little after the score; a later run or the morning run tries again.
+   - **A listed match turns out postponed, abandoned or cancelled** (the pages you read for its result say so): record it now with a `status` change (see "Postponements"), so the site stops showing it as in progress or "result due".
+   - **LATER TODAY** (16:35 run only): one search per group of competitions for postponements of those matches (see "Postponements"); record any you find.
 4. Write `patches/<UAE date>-<HHMM>.json` (e.g. `patches/2026-10-24-2135.json`, so runs never overwrite each other or the morning patch), then `node tools/apply.mjs` and `node tools/build.mjs` as in step 4.
-5. Publish only if the build passes, also when the run only added scorers: `git commit -m "data: <UAE date> <HH:MM> — <n> results, <s> scorers"` and push. Push rejected → `git pull --rebase`, build again, push.
+5. Publish only if the build passes, also when the run only added scorers or a postponement: `git commit -m "data: <UAE date> <HH:MM> — <n> results, <s> scorers"` (add `, <p> postponed` when there are some) and push. Push rejected → `git pull --rebase`, build again, push.
 6. **No report when things went normally** — the morning run reports the day. Only report a problem that stopped publishing (no GitHub access, a build you couldn't fix, a push that kept failing).
 
-Don't do in an evening run: fixture lists, kick-off times, venues, crests, postponed matches, table checks, older gaps from previous days. Those are the morning run's.
+Don't do in an evening run: fixture lists, kick-off times, venues, crests, new dates for postponed matches, table checks, older gaps from previous days. Those are the morning run's. (Recording that a listed or LATER TODAY match was postponed or abandoned is the evening run's job: see above.)
 
 ## Venues
 
@@ -99,6 +101,22 @@ Don't do in an evening run: fixture lists, kick-off times, venues, crests, postp
 - A club changes ground (new stadium, renovation, AFC/UEFA stadium rules, a neutral home venue for the whole season) → `team-venue` op with the new stadium and a Tier 1 or Tier 2 source.
 - A new club (`team` op) should include its `venue` when the source gives it.
 - Never guess: no venue is better than a wrong one. Evening runs don't do venues.
+
+## Postponements
+
+A postponed match that stays "not started" in the data shows on the site as scheduled, then "in progress" and "result due". (Mohamed spotted Al Nassr v Al Wasl, ACL Elite 26 Oct, still listed on the evening it should have been played: the AFC had postponed it the day before.) So the runs look for postponements before kick-off, not only after.
+
+- **When:** the morning run checks the matches of the next 48 hours (CHECK FOR POSTPONEMENTS in `node tools/status.mjs`); the 16:35 evening run checks today's remaining matches (LATER TODAY in `--results`); every run records one it comes across while reading about something else.
+- **How to look** (one search per group of competitions, then open the articles the search returns; a postponement is news, so news sites carry it within hours):
+  - AFC competitions and the Gulf Club Champions League: WebSearch `<competition> postponed` (e.g. `AFC Champions League Elite postponed`) with `allowed_domains: ["the-afc.com", "thenationalnews.com", "khaleejtimes.com", "gulfnews.com", "arabnews.com", "spa.gov.sa"]`; in Arabic `تأجيل مباراة <team>` with the Gulf papers.
+  - Saudi competitions: WebSearch `<home> <away> postponed` or `Saudi Pro League postponed` with `allowed_domains: ["arabnews.com", "saudigazette.com.sa", "spa.gov.sa"]`, or `تأجيل مباراة <team>` with `["okaz.com.sa", "sabq.org", "alriyadh.com", "alyaum.com"]`.
+  - UAE competitions: `تأجيل مباراة <team>` with `["uaeproleague.ae", "wam.ae", "aletihad.ae", "alkhaleej.ae", "albayan.ae", "emaratalyoum.com"]`; English with `["thenationalnews.com", "gulfnews.com", "khaleejtimes.com"]`.
+  - European competitions: `<competition> postponed` with `allowed_domains: ["skysports.com"]`; the organiser's own site for LALIGA (laliga.com), the Bundesliga (bundesliga.com), Serie A (legaseriea.it: search without a filter).
+  - Check each article is about this season's match and this date: searches also return older postponements of the same teams.
+- **Record it:** `{ "op": "status", "match": "<match id>", "status": "PST", "sources": ["…"] }` — one Tier 1 or Tier 2 source (the organiser, or a reputable paper or agency). Leave out `kickoff`: the original date stays and the site shows "مؤجلة / Postponed" with "the new date appears here once announced". Cancelled for good → `CANC`. Stopped during play → `ABD` (the morning run then follows the organiser's decision: replay, resumption or awarded result).
+- **Moved, not postponed** (a new date or time is already announced): a `fixture` change with the match id and the new `kickoff`, nothing else.
+- **New date announced later:** the match is listed every morning under POSTPONED OR ABANDONED; once the organiser gives the new date, a `fixture` change with the match id and the new `kickoff` puts it back to "not started".
+- **Doubtful only** ("may be postponed", "at risk"): record nothing; the next run checks again.
 
 ## Crests
 

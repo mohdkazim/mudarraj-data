@@ -4,8 +4,8 @@
  *   node tools/status.mjs            (window: 4 days back → 21 days ahead, Asia/Dubai dates)
  *   node tools/status.mjs --back 10 --ahead 30
  * Lists: matches that should have a result, results of the last 3 days without goal scorers, kick-off
- * times still unconfirmed, claims waiting for a second source, teams without a crest, and competitions
- * whose fixture list runs out soon.
+ * times still unconfirmed, matches of the next 48 hours to check for postponements, claims waiting for a
+ * second source, teams without a crest, and competitions whose fixture list runs out soon.
  *
  * Evening results run (hourly, see RUNBOOK.md):
  *   node tools/status.mjs --results              (matches that kicked off in the last 12 hours)
@@ -13,7 +13,9 @@
  * Lists only matches that should have finished (kick-off at least 2 hours ago) and still have no
  * result, second-source claims about them, and results recorded in the last 2 hours without scorers
  * (so the run that adds a result and the next one or two look for its scorers; the morning run tries
- * again for 3 days). Prints "NOTHING TO DO" when there is nothing.
+ * again for 3 days). The first evening run (16:xx UAE) also lists the matches still to come today, to
+ * check once for postponements (RUNBOOK.md "Postponements"). Prints "NOTHING TO DO" when there is nothing.
+ *   node tools/status.mjs --results --later      (list the matches still to come today at any hour)
  */
 import path from "node:path";
 import { FINISHED, ROOT, dubaiDate, loadAll, readJSON } from "./lib.mjs";
@@ -29,6 +31,7 @@ const hours = arg("hours", 12);
 const scorerDays = arg("scorer-days", 3); // morning run: results this recent without scorers
 const scorerHours = arg("scorer-hours", 2); // evening runs: results recorded this recently without scorers
 const now = Date.now();
+const dubaiHour = Number(new Date(now).toLocaleString("en-GB", { timeZone: "Asia/Dubai", hour: "2-digit", hourCycle: "h23" }));
 const from = now - back * 86400_000;
 const to = now + ahead * 86400_000;
 const all = loadAll();
@@ -40,6 +43,8 @@ const needScorers = [];
 const needResult = [];
 const needTime = [];
 const watch = []; // postponed or abandoned: waiting for a new date or a decision
+const soon = []; // not started, kicking off in the next 48 hours: check for postponements (morning run)
+const later = []; // not started, kicking off in the next 10 hours: check for postponements (first evening run)
 const lastFixture = new Map();
 for (const s of all.seasons.values()) {
   for (const m of s.matches) {
@@ -50,11 +55,29 @@ for (const s of all.seasons.values()) {
     if (!t) continue;
     if (t < now - 2 * 3600_000 && t >= from && !FINISHED.has(m.status) && !["CANC", "PST", "ABD"].includes(m.status)) needResult.push({ s, m });
     if (t >= now && t <= to && m.timeConfirmed === false) needTime.push({ s, m });
+    if (t >= now && (m.status === "NS" || m.status === "TBD") && m.home && m.away) {
+      if (t <= now + 48 * 3600_000) soon.push({ s, m });
+      if (t <= now + 10 * 3600_000) later.push({ s, m });
+    }
     if (lacksScorers(m)) needScorers.push({ s, m });
   }
 }
 
-const line = ({ s, m }) => `  ${m.id}\n      ${dubaiDate(m.kickoff)}  ${name(m.home)} v ${name(m.away)}  [${s.competition}]`;
+// A postponed match may have no date at all ("kickoff": null): print "date TBA" rather than fail.
+const line = ({ s, m }) => `  ${m.id}\n      ${m.kickoff ? dubaiDate(m.kickoff) : "date TBA"}  ${name(m.home)} v ${name(m.away)}  [${s.competition}]`;
+const dubaiTime = (iso) => new Date(iso).toLocaleString("en-GB", { timeZone: "Asia/Dubai", weekday: "short", day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit", hourCycle: "h23" });
+// Matches grouped by competition, one line each: the postponement check searches each competition's news once.
+function byCompetition(list) {
+  const groups = new Map();
+  for (const x of [...list].sort((a, b) => a.m.kickoff.localeCompare(b.m.kickoff))) {
+    if (!groups.has(x.s.competition)) groups.set(x.s.competition, []);
+    groups.get(x.s.competition).push(x);
+  }
+  for (const [comp, xs] of groups) {
+    console.log(`  ${comp} (${xs.length}):`);
+    for (const { m } of xs) console.log(`      ${dubaiTime(m.kickoff)}  ${name(m.home)} v ${name(m.away)}   ${m.id}`);
+  }
+}
 const pair = (p) => `${p[0] ?? p.home}-${p[1] ?? p.away}`;
 // The recorded result, as the "result" op that adds scorers must repeat it (status, score, extra time).
 const recorded = (m) => {
@@ -84,7 +107,13 @@ if (resultsOnly) {
     .sort((a, b) => a.m.kickoff.localeCompare(b.m.kickoff));
   console.log(`\nNEEDS SCORERS — results recorded in the last ${scorerHours} hours without goal scorers (${scorers.length}):`);
   for (const x of scorers) console.log(scorerLine(x));
-  if (!due.length && !claims.length && !scorers.length) console.log("\nNOTHING TO DO");
+  // First evening run only (16:xx UAE): today's remaining matches, checked once for postponements.
+  const checkLater = (dubaiHour === 16 || process.argv.includes("--later")) && later.length > 0;
+  if (checkLater) {
+    console.log(`\nLATER TODAY — check once whether any of these was postponed; a postponed one gets a "status" change (RUNBOOK.md "Postponements") (${later.length}):`);
+    byCompetition(later);
+  }
+  if (!due.length && !claims.length && !scorers.length && !checkLater) console.log("\nNOTHING TO DO");
   process.exit(0);
 }
 console.log(`Window (Dubai): ${dubaiDate(new Date(from).toISOString())} → ${dubaiDate(new Date(to).toISOString())}\n`);
@@ -97,6 +126,8 @@ console.log(`\nNEEDS SCORERS — results of the last ${scorerDays} days without 
 for (const x of recentScorers) console.log(scorerLine(x));
 console.log(`\nKICK-OFF TIME NOT CONFIRMED (${needTime.length}):`);
 for (const x of needTime.sort((a, b) => a.m.kickoff.localeCompare(b.m.kickoff))) console.log(line(x));
+console.log(`\nCHECK FOR POSTPONEMENTS — matches in the next 48 hours: search each competition's news once (RUNBOOK.md "Postponements") (${soon.length}):`);
+byCompetition(soon);
 console.log(`\nPOSTPONED OR ABANDONED — look for a new date or a decision (${watch.length}):`);
 for (const x of watch.sort((a, b) => (a.m.kickoff ?? "").localeCompare(b.m.kickoff ?? ""))) console.log(`${line(x)}  ${x.m.status}`);
 const pending = readJSON(path.join(ROOT, "data", "pending.json"), []);
