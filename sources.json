@@ -9,7 +9,10 @@
     "the-afc.com": "Asian Football Confederation — official (ACL Elite, ACL Two, Asian Cup)",
     "agcff.org": "Arab Gulf Cup Football Federation — official (Gulf Club Champions League)",
     "spl.com.sa": "Saudi Pro League — official organiser of the Roshn Saudi League (names, stadiums, regulations, news and schedule PDFs read well; its results and match pages load with JavaScript and show nothing to the reader)",
-    "saff.com.sa": "Saudi Arabian Football Federation — official organiser of the King's Cup and the Saudi Super Cup (some pages unreliable to the reader)"
+    "saff.com.sa": "Saudi Arabian Football Federation — official organiser of the King's Cup and the Saudi Super Cup (some pages unreliable to the reader)",
+    "bundesliga.com": "DFL (Deutsche Fußball Liga) — official site of the Bundesliga (matchday pages read well: fixtures, kick-off times, results)",
+    "dfb.de": "German Football Association (DFB) — official organiser of the DFB-Pokal",
+    "legaseriea.it": "Lega Serie A — official organiser of Serie A and the Coppa Italia"
   },
   "enoughAlone": {
     "_note": "Not organisers, but enough on their own by Mohamed's decision (24 Oct 2026). The page must be about this fixture: check its date, season and both teams (searches also return older meetings of the same teams).",

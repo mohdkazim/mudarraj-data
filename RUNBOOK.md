@@ -31,7 +31,7 @@ node tools/status.mjs
 ```
 
 2. **Gather facts** for everything listed:
-   - **NEEDS A RESULT:** look the match up on the competition's sources and confirm the score (see the rule above). Record half-time if a source shows it. For extra time or penalties, record `regular`, `et` and `pens`. Record the goal scorers too (see "Goal scorers").
+   - **NEEDS A RESULT:** look the match up on the competition's sources and confirm the score (see the rule above). Record half-time if a source shows it. For extra time or penalties, record `regular`, `et` and `pens`; a shoot-out straight after 90 minutes (no extra time played, as in the Coppa Italia before the final and the Super Cups) is `PEN` with `"noExtraTime": true`, `regular` equal to the score and no `et`. Record the goal scorers too (see "Goal scorers").
    - **NEEDS SCORERS** (results of the last 3 days without goal scorers): find one trusted page that lists every goal with its minute and add them (see "Goal scorers"). Not found → leave it; after 3 days a match drops off the list.
    - **KICK-OFF TIME NOT CONFIRMED:** look for the time on a Tier 1 or 2 site.
    - **WAITING FOR A SECOND SOURCE:** try to confirm or correct each claim.
@@ -66,7 +66,7 @@ Every run that records a result also records its goal scorers, and `node tools/s
 
 - **One page with every goal.** Use one trusted page (Tier 1, Kooora/365Scores, or Tier 2) that lists every goal with its minute. Tested pages and how to reach them are in `SOURCES.md` ("Goal scorers"). The goals must add up to the score; the tools reject a list that doesn't.
 - **With a new result:** add `"goals"` (and `"ht"` when the page shows it) to its `result` op. If the pages that confirmed the score don't list every goal, make one more search for a page that does.
-- **For a result already recorded** (NEEDS SCORERS): send a `result` op that repeats the recorded status and score exactly as `status.mjs` prints them (for AET and PEN also `regular`, `et` and `pens`), adds `"goals"` (and `"ht"`), and lists the scorers page in `sources`. One Tier 1, Kooora/365Scores or Tier 2 page is enough; `apply.mjs` answers "added scorers to the confirmed result".
+- **For a result already recorded** (NEEDS SCORERS): send a `result` op that repeats the recorded status and score exactly as `status.mjs` prints them (for AET and PEN also `regular`, `et` and `pens`, or `noExtraTime` as printed), adds `"goals"` (and `"ht"`), and lists the scorers page in `sources`. One Tier 1, Kooora/365Scores or Tier 2 page is enough; `apply.mjs` answers "added scorers to the confirmed result".
 - **Format:** one entry per goal, in time order: `{ "minute": 45, "extra": 2, "side": "home", "player": "Name", "type": "goal" }`.
   - `side`: the team the goal counts for. An own goal counts for the other team, and `player` is the player who scored it.
   - `type`: `goal`, `penalty` or `own-goal`.
@@ -126,5 +126,9 @@ Don't do in an evening run: fixture lists, kick-off times, venues, postponed mat
 | `saudi-pro-league` | `{"key":"regular","type":"league","round":N}` (34 rounds) | — |
 | `saudi-kings-cup` | — | `r32`, `r16`, `qf`, `sf` (`type` `knockout`), `final` (`type` `final`); single matches |
 | `saudi-super-cup` | — | `sf` (`type` `knockout`), `final` (`type` `final`); neutral venue (Kuwait, Dec 2026) |
+| `bundesliga` | `{"key":"regular","type":"league","round":N}` (34 matchdays) | — |
+| `serie-a` | `{"key":"regular","type":"league","round":N}` (38 matchdays) | — |
+| `dfb-pokal` | — | `r1`, `r2`, `r16`, `qf`, `sf` (`type` `knockout`), `final` (`type` `final`); single matches, extra time then penalties |
+| `coppa-italia` | — | `prelim`, `r1`, `r2`, `r16`, `qf` (`type` `knockout`), `sf` (two legs: `"leg": 1` / `"leg": 2`), `final` (`type` `final`) |
 
 Two-legged ties: add `"leg": 1` / `"leg": 2`. The second leg is the one with the teams swapped.

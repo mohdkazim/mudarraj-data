@@ -82,7 +82,10 @@ export function validate(all = loadAll(), now = Date.now()) {
         const { ht, regular, et, pens } = m.score;
         if (ht && !pairOk(ht)) err(where, "bad half-time score");
         if (ht && (ht[0] > m.score.home || ht[1] > m.score.away)) err(where, "half-time score higher than the final score");
-        if (m.status === "AET" || m.status === "PEN") {
+        if (m.status === "PEN" && !et) {
+          // a shoot-out straight after 90 minutes (no extra time played): the regular-time score is the final score
+          if (!pairOk(regular) || regular[0] !== m.score.home || regular[1] !== m.score.away) err(where, "PEN without extra time needs a regular-time score equal to the final score");
+        } else if (m.status === "AET" || m.status === "PEN") {
           if (!pairOk(regular) || !pairOk(et)) err(where, `${m.status} needs regular-time and extra-time scores`);
           else if (regular[0] + et[0] !== m.score.home || regular[1] + et[1] !== m.score.away) err(where, "regular + extra time must add up to the final score");
         }

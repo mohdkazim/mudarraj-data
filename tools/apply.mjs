@@ -25,7 +25,8 @@
  * Result details:
  *   - "score" is the final score; "ht" the half-time score (optional).
  *   - Extra time (AET) or penalties (PEN): also "regular": [h,a] (after 90 min) and "et": [h,a] (goals in extra time);
- *     PEN adds "pens": [h,a] (the shoot-out).
+ *     PEN adds "pens": [h,a] (the shoot-out). A shoot-out straight after 90 minutes (no extra time played, e.g. the
+ *     early rounds of the Coppa Italia, the Super Cups): PEN with "noExtraTime": true, "regular" = "score" and no "et".
  *   - "goals" (optional, all or none): one entry per goal, e.g.
  *       { "minute": 45, "extra": 2, "side": "home", "player": "Kodjo Laba", "type": "goal" }
  *     "side" is the team the goal counts for (for an own goal: the team that benefits); "type" is goal, penalty or own-goal;
@@ -129,8 +130,12 @@ function checkResultShape(c) {
   if (!FINISHED.has(c.status) && c.status !== "ABD") return `status must be FT, AET, PEN, AWD or ABD (got ${c.status})`;
   if (FINISHED.has(c.status) && !pairOk(c.score)) return "needs score [home, away]";
   if (c.ht && !pairOk(c.ht)) return "bad half-time score";
-  if (c.status === "AET" || c.status === "PEN") {
-    if (!pairOk(c.regular) || !pairOk(c.et)) return `${c.status} needs regular [h,a] and et [h,a]`;
+  if (c.noExtraTime !== undefined && (c.noExtraTime !== true || c.status !== "PEN")) return 'noExtraTime: true is only for PEN (a shoot-out straight after 90 minutes)';
+  if (c.noExtraTime) {
+    if (c.et !== undefined) return "noExtraTime: leave out et";
+    if (!pairOk(c.regular) || c.regular[0] !== c.score[0] || c.regular[1] !== c.score[1]) return "noExtraTime: regular [h,a] must equal score";
+  } else if (c.status === "AET" || c.status === "PEN") {
+    if (!pairOk(c.regular) || !pairOk(c.et)) return `${c.status} needs regular [h,a] and et [h,a] (or, for a shoot-out straight after 90 minutes, "noExtraTime": true)`;
     if (c.regular[0] + c.et[0] !== c.score[0] || c.regular[1] + c.et[1] !== c.score[1]) return "regular + et must equal score";
   }
   if (c.status === "PEN" && (!pairOk(c.pens) || c.pens[0] === c.pens[1])) return "PEN needs a decisive pens [h,a]";

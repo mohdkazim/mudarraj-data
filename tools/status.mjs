@@ -60,6 +60,7 @@ const recorded = (m) => {
   const sc = m.score;
   let r = `${sc.home}-${sc.away} ${m.status}`;
   if (sc.regular && sc.et) r += ` (regular ${pair(sc.regular)}, et ${pair(sc.et)}${sc.pens ? `, pens ${pair(sc.pens)}` : ""})`;
+  else if (sc.regular && sc.pens) r += ` (regular ${pair(sc.regular)}, noExtraTime, pens ${pair(sc.pens)})`;
   return r;
 };
 const scorerLine = (x) => `${line(x)}  ${recorded(x.m)}`;

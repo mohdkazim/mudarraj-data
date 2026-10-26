@@ -133,7 +133,7 @@ A match's goals are recorded only from one trusted page that lists **every** goa
 - **Tier 3:** Wikipedia season pages
 
 ### EMAAR Super Cup (`uae-super-cup`)
-- **2026-27:** Al Ain v Shabab Al Ahli, 29 Nov 2026, 19:30 UAE, Mohammed bin Zayed Stadium (Al Bayan). In 2025-26 a draw went straight to penalties after 90 minutes: record that as `PEN` with `"et": [0, 0]`.
+- **2026-27:** Al Ain v Shabab Al Ahli, 29 Nov 2026, 19:30 UAE, Mohammed bin Zayed Stadium (Al Bayan). In 2025-26 a draw went straight to penalties after 90 minutes: record that as `PEN` with `"noExtraTime": true`, `"regular"` equal to the score and no `"et"`.
 
 ### Gulf Club Champions League (`gulf-club-cl`)
 - **Format 2026-27:** three groups of four, home and away, 13 Oct 2026 – 17 Feb 2027; the top two in each group plus the two best third-placed teams reach two-legged quarter-finals (2–17 Mar 2027); semi-finals and final 23–30 Apr 2027 (check whether the semi-finals are one match).
@@ -153,5 +153,5 @@ A match's goals are recorded only from one trusted page that lists **every** goa
 - **Times:** Saudi time is UTC+3 (no daylight saving). Kooora showed US Eastern times to the reader (25 Oct 2026): convert with care.
 - **League:** 18 clubs, 34 rounds, 13 Aug 2026 – 29 May 2027. Rounds 13–34 were published with one date per round and no times; they're stored on that date at 17:00 UTC with `"timeConfirmed": false` until the league sets them (matches then spread over 2–3 days). Moved matches keep their original round (R9 Al Ahli v Al Nassr → 6 Mar 2027 etc.). Table tie-break during the season: goal difference, then goals scored (`points-gd-gf`); head-to-head decides only the final standings. Relegation: 16th–18th.
 - **King's Cup:** single matches, extra time then penalties; open draws after each round. Round of 16 on 30 Nov – 1 Dec 2026, quarter-finals 22–23 Feb 2027, semi-finals 4–5 May 2027; the final's date and venue are to be announced. Lower-division clubs host the round of 32.
-- **Super Cup (2026 edition):** Al Qadsiah v Al Ahli (19 Dec) and Al Nassr v Al Kholood (20 Dec), final 23 Dec, all at Jaber Al-Ahmad International Stadium, Kuwait (neutral). A draw goes straight to penalties: record `PEN` with `"et": [0, 0]`. The final's kick-off time isn't published by a trusted site yet.
+- **Super Cup (2026 edition):** Al Qadsiah v Al Ahli (19 Dec) and Al Nassr v Al Kholood (20 Dec), final 23 Dec, all at Jaber Al-Ahmad International Stadium, Kuwait (neutral). A draw goes straight to penalties: record `PEN` with `"noExtraTime": true`, `"regular"` equal to the score and no `"et"`. The final's kick-off time isn't published by a trusted site yet.
 - **Crests:** TheSportsDB badges (`r2.thesportsdb.com`), as the site shows them; API-Football ids for these clubs and competitions weren't found.
