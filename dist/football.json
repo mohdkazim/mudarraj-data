@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-26T08:09:01.271Z",
+ "generatedAt": "2026-10-26T08:52:36.207Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 372,
-  "pending": 1
+  "results": 373,
+  "pending": 0
  },
  "teams": [
   {
@@ -33498,8 +33498,15 @@
    "away": "gb-eng-nottingham-forest",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Portman Road",
@@ -33512,9 +33519,25 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=8&s=2026-2027"
+    "https://www.365scores.com/en-uk/football/match/premier-league-7/ipswich-nottingham-forest-9-29-7",
+    "https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/table/559520",
+    "https://www.365scores.com/es/news/julio-enciso-primer-gol-con-ipswich-town/"
    ],
+   "goals": [
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Neco Williams",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Julio Enciso",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T08:52:36.067Z",
    "venueFrom": "home-ground"
   },
   {

@@ -1,0 +1,21 @@
+{
+  "run": "2026-10-26T09:05:00Z",
+  "changes": [
+    {
+      "op": "result",
+      "match": "epl-2026-27-regular-r08-gb-eng-ipswich-town-gb-eng-nottingham-forest",
+      "status": "FT",
+      "score": [1, 1],
+      "ht": [1, 1],
+      "goals": [
+        { "minute": 13, "side": "away", "player": "Neco Williams", "type": "goal" },
+        { "minute": 41, "side": "home", "player": "Julio Enciso", "type": "goal" }
+      ],
+      "sources": [
+        "https://www.365scores.com/en-uk/football/match/premier-league-7/ipswich-nottingham-forest-9-29-7",
+        "https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/table/559520",
+        "https://www.365scores.com/es/news/julio-enciso-primer-gol-con-ipswich-town/"
+      ]
+    }
+  ]
+}

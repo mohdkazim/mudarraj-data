@@ -3345,3 +3345,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ team-logo vn-cong-an-ha-noi crest added
   - ✓ team-logo vn-the-cong-viettel crest added
   - ✓ team-logo ye-shaab-hadramaut crest added
+
+## 2026-10-26 (2026-10-26T09:05:00Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result epl-2026-27-regular-r08-gb-eng-ipswich-town-gb-eng-nottingham-forest 1-1 FT
