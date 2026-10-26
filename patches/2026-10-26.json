@@ -1,0 +1,52 @@
+{
+  "run": "2026-10-26T01:36:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r10-es-athletic-club-es-getafe", "status": "FT", "score": [4,0], "ht": [2,0],
+      "goals": [
+        { "minute": 17, "side": "home", "player": "Alex Berenguer", "type": "goal" },
+        { "minute": 35, "side": "home", "player": "Iñaki Williams", "type": "goal" },
+        { "minute": 70, "side": "home", "player": "Aitor Paredes", "type": "goal" },
+        { "minute": 88, "side": "home", "player": "Yuri Berchiche", "type": "goal" }
+      ],
+      "sources": ["https://www.laliga.com/en-GB/laliga-easports/results", "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-athletic-club-getafe-cf-10", "https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r10-es-real-sociedad-es-levante", "status": "FT", "score": [2,1], "ht": [2,1],
+      "goals": [
+        { "minute": 6, "side": "home", "player": "Orri Óskarsson", "type": "goal" },
+        { "minute": 22, "side": "away", "player": "Nacho Pérez", "type": "goal" },
+        { "minute": 27, "side": "home", "player": "Beñat Turrientes", "type": "goal" }
+      ],
+      "sources": ["https://www.laliga.com/en-GB/laliga-easports/results", "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-sociedad-levante-ud-10", "https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r10-es-celta-vigo-es-real-betis", "status": "FT", "score": [0,0], "goals": [],
+      "sources": ["https://www.laliga.com/en-GB/laliga-easports/results", "https://www.skysports.com/football-scores-fixtures"] },
+    { "op": "fixture", "match": "gulf-club-cl-2026-27-groups-gb-r02-bh-al-riffa-qa-qatar-sc", "kickoff": "2026-10-27T17:00:00Z", "timeConfirmed": true,
+      "sources": ["https://www.raya.com/2026/10/26/%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D8%A7%D9%88%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85"] },
+    { "op": "table-check", "competition": "laliga", "season": "2026-27", "table": "overall", "asOf": "2026-10-25T12:00:00Z",
+      "rows": [
+        { "team": "es-barcelona", "played": 9, "points": 27 },
+        { "team": "es-atletico-madrid", "played": 10, "points": 25 },
+        { "team": "es-real-madrid", "played": 9, "points": 21 },
+        { "team": "es-real-betis", "played": 9, "points": 19 },
+        { "team": "es-real-sociedad", "played": 9, "points": 16 },
+        { "team": "es-sevilla", "played": 9, "points": 14 },
+        { "team": "es-alaves", "played": 10, "points": 12 },
+        { "team": "es-villarreal", "played": 10, "points": 12 },
+        { "team": "es-celta-vigo", "played": 9, "points": 11 },
+        { "team": "es-deportivo-la-coruna", "played": 10, "points": 11 },
+        { "team": "es-osasuna", "played": 9, "points": 11 },
+        { "team": "es-racing-santander", "played": 10, "points": 11 },
+        { "team": "es-levante", "played": 9, "points": 10 },
+        { "team": "es-elche", "played": 10, "points": 10 },
+        { "team": "es-athletic-club", "played": 8, "points": 9 },
+        { "team": "es-getafe", "played": 9, "points": 9 },
+        { "team": "es-rayo-vallecano", "played": 9, "points": 9 },
+        { "team": "es-espanyol", "played": 10, "points": 8 },
+        { "team": "es-valencia", "played": 10, "points": 6 },
+        { "team": "es-malaga", "played": 10, "points": 5 }
+      ],
+      "sources": ["https://www.laliga.com/en-GB/laliga-easports/standing"] }
+  ],
+  "unconfirmed": [
+    { "match": "epl-2026-27-regular-r08-gb-eng-ipswich-town-gb-eng-nottingham-forest", "claim": "1-1 (N Williams 13', J Enciso 41')",
+      "sources": ["https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/table/559520", "https://www.skysports.com/football/ipswich-town-vs-nottingham-forest/8459007743001179232"] }
+  ]
+}

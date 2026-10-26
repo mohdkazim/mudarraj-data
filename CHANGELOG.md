@@ -2219,3 +2219,11 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 4 waiting for a second source
   - ✓ result laliga-2026-27-regular-r10-es-barcelona-es-real-madrid 1-2 FT
   - ✓ result epl-2026-27-regular-r08-gb-eng-sunderland-gb-eng-leeds-united 0-0 FT
+
+## 2026-10-26 (2026-10-26T01:36:00Z)
+- 5 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r10-es-athletic-club-es-getafe 4-0 FT
+  - ✓ result laliga-2026-27-regular-r10-es-real-sociedad-es-levante 2-1 FT
+  - ✓ result laliga-2026-27-regular-r10-es-celta-vigo-es-real-betis 0-0 FT
+  - ✓ fixture gulf-club-cl-2026-27-groups-gb-r02-bh-al-riffa-qa-qatar-sc kick-off 2026-10-27T17:00:00Z
+  - ✓ table-check laliga overall reference table laliga overall (20 rows)

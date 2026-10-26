@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-25T22:37:45.348Z",
+ "generatedAt": "2026-10-26T01:46:08.537Z",
  "counts": {
   "teams": 221,
   "competitions": 11,
   "matches": 805,
-  "results": 369,
-  "pending": 4
+  "results": 372,
+  "pending": 1
  },
  "teams": [
   {
@@ -31579,8 +31579,15 @@
    "away": "es-getafe",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "San Mamés",
@@ -31594,9 +31601,36 @@
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-athletic-club-getafe-cf-10",
+    "https://www.skysports.com/la-liga-scores-fixtures"
    ],
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Alex Berenguer",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Iñaki Williams",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Aitor Paredes",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Yuri Berchiche",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T01:46:08.441Z",
    "venueFrom": "home-ground"
   },
   {
@@ -31817,8 +31851,11 @@
    "away": "es-real-betis",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Abanca-Balaídos",
@@ -31832,9 +31869,10 @@
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+    "https://www.skysports.com/football-scores-fixtures"
    ],
+   "goals": [],
+   "updatedAt": "2026-10-26T01:46:08.441Z",
    "venueFrom": "home-ground"
   },
   {
@@ -31893,8 +31931,15 @@
    "away": "es-levante",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     2,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Reale Arena",
@@ -31908,9 +31953,30 @@
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-sociedad-levante-ud-10",
+    "https://www.skysports.com/la-liga-scores-fixtures"
    ],
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "Orri Óskarsson",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Nacho Pérez",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Beñat Turrientes",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T01:46:08.441Z",
    "venueFrom": "home-ground"
   },
   {
@@ -32469,30 +32535,6 @@
    "venueFrom": "home-ground"
   },
   {
-   "competition": "gulf-club-cl",
-   "season": "2026-27",
-   "id": "gulf-club-cl-2026-27-groups-gb-r02-bh-al-riffa-qa-qatar-sc",
-   "stage": {
-    "key": "groups",
-    "type": "group",
-    "group": "B",
-    "round": 2
-   },
-   "kickoff": "2026-10-27T14:00:00Z",
-   "timeConfirmed": false,
-   "home": "bh-al-riffa",
-   "away": "qa-qatar-sc",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://www.gdnonline.com/Details/1409602/Riffa-off-to-losing-start"
-   ]
-  },
-  {
    "competition": "acl2",
    "season": "2026-27",
    "id": "acl2-2026-27-groups-gd-r03-om-al-seeb-in-east-bengal",
@@ -32561,6 +32603,31 @@
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
    ],
    "venueFrom": "home-ground"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gb-r02-bh-al-riffa-qa-qatar-sc",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 2
+   },
+   "kickoff": "2026-10-27T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "bh-al-riffa",
+   "away": "qa-qatar-sc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.gdnonline.com/Details/1409602/Riffa-off-to-losing-start",
+    "https://www.raya.com/2026/10/26/%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D8%A7%D9%88%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85"
+   ]
   },
   {
    "competition": "acl2",

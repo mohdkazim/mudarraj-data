@@ -372,8 +372,8 @@
     "group": "B",
     "round": 2
    },
-   "kickoff": "2026-10-27T14:00:00Z",
-   "timeConfirmed": false,
+   "kickoff": "2026-10-27T17:00:00Z",
+   "timeConfirmed": true,
    "home": "bh-al-riffa",
    "away": "qa-qatar-sc",
    "homePlaceholder": null,
@@ -383,7 +383,8 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.gdnonline.com/Details/1409602/Riffa-off-to-losing-start"
+    "https://www.gdnonline.com/Details/1409602/Riffa-off-to-losing-start",
+    "https://www.raya.com/2026/10/26/%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D8%A7%D9%88%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85"
    ]
   }
  ]

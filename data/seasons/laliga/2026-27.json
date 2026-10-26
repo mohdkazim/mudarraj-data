@@ -5039,15 +5039,49 @@
    "away": "es-getafe",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
-   ]
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-athletic-club-getafe-cf-10",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Alex Berenguer",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Iñaki Williams",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Aitor Paredes",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Yuri Berchiche",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T01:46:08.441Z"
   },
   {
    "id": "laliga-2026-27-regular-r10-es-celta-vigo-es-real-betis",
@@ -5063,15 +5097,19 @@
    "away": "es-real-betis",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
-   ]
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "goals": [],
+   "updatedAt": "2026-10-26T01:46:08.441Z"
   },
   {
    "id": "laliga-2026-27-regular-r10-es-real-sociedad-es-levante",
@@ -5087,15 +5125,43 @@
    "away": "es-levante",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     2,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results",
-    "https://www.skysports.com/la-liga-results",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01"
-   ]
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-real-sociedad-levante-ud-10",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "Orri Óskarsson",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Nacho Pérez",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Beñat Turrientes",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T01:46:08.441Z"
   },
   {
    "id": "laliga-2026-27-regular-r10-es-barcelona-es-real-madrid",
