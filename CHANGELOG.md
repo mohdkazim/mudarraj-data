@@ -3313,3 +3313,35 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result coppa-italia-2026-27-r2-it-cagliari-it-hellas-verona 1-2 FT
   - ✓ result coppa-italia-2026-27-r2-it-genoa-it-sudtirol 1-0 FT
   - ✓ result coppa-italia-2026-27-r2-it-fiorentina-it-pisa 3-0 FT
+
+## 2026-10-26 (2026-10-26T08:10:00Z)
+- 29 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ team-logo ae-united crest added
+  - ✓ team-logo bh-al-khaldiya crest added
+  - ✓ team-logo bh-al-muharraq crest added
+  - ✓ team-logo bh-al-riffa crest added
+  - ✓ team-logo hk-kitchee crest added
+  - ✓ team-logo hk-tai-po crest added
+  - ✓ team-logo id-persib-bandung crest added
+  - ✓ team-logo iq-al-shorta crest added
+  - ✓ team-logo iq-al-zawraa crest added
+  - ✓ team-logo iq-erbil crest added
+  - ✓ team-logo jo-al-faisaly crest added
+  - ✓ team-logo kh-phnom-penh-crown crest added
+  - ✓ team-logo kh-pkr-svay-rieng crest added
+  - ✓ team-logo kw-kazma crest added
+  - ✓ team-logo kw-kuwait-sc crest added
+  - ✓ team-logo my-kuching-city crest added
+  - ✓ team-logo om-al-nahda crest added
+  - ✓ team-logo om-al-seeb crest added
+  - ✓ team-logo om-al-shabab-oman crest added
+  - ✓ team-logo sa-al-qadsiah crest added
+  - ✓ team-logo sa-al-taawoun crest added
+  - ✓ team-logo sg-lion-city-sailors crest added
+  - ✓ team-logo sg-tampines-rovers crest added
+  - ✓ team-logo th-bg-pathum-united crest added
+  - ✓ team-logo tm-arkadag crest added
+  - ✓ team-logo uz-nasaf crest added
+  - ✓ team-logo vn-cong-an-ha-noi crest added
+  - ✓ team-logo vn-the-cong-viettel crest added
+  - ✓ team-logo ye-shaab-hadramaut crest added

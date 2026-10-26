@@ -1,0 +1,237 @@
+{
+  "run": "2026-10-26T08:10:00Z",
+  "changes": [
+    {
+      "op": "team-logo",
+      "team": "ae-united",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/ko3xtx1783529180.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/156157-united-fc-dubai"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "bh-al-khaldiya",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/h9pyg11720076059.png",
+      "sources": [
+        "https://www.thesportsdb.com/season/4826-bahrain-premier-league/2023-2024&t=143645-khalidiya"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "bh-al-muharraq",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/tqoqzy1589802047.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139832-Al-Muharraq-SC"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "bh-al-riffa",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/reyfmv1693033386.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139524-Al-Riffa-SC"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "hk-kitchee",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/grq9681583952832.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139515-kitchee"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "hk-tai-po",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/deikl71724646398.png",
+      "sources": [
+        "https://www.thesportsdb.com/venue/26991-Tai-Po-Sports-Ground"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "id-persib-bandung",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/yicyke1733590181.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139356-persib-bandung"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "iq-al-shorta",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/357uy81782794401.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139016-al-shorta"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "iq-al-zawraa",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/1hkbtn1693029092.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/140375-al-zawraa"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "iq-erbil",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/b41q2g1624721445.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/141853-erbil"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "jo-al-faisaly",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/ja0udy1753205043.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139529-al-faisaly-amman"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "kh-phnom-penh-crown",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/gn6rcc1693035778.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139401-phnom-penh-crown"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "kh-pkr-svay-rieng",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/lko9bw1583341546.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139407-svay-rieng"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "kw-kazma",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/np2nxb1692253751.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139875-kazma-sc"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "kw-kuwait-sc",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/qinw481583952839.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139510-kuwait-sc"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "my-kuching-city",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/49xztr1614887710.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139346-kuching-city"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "om-al-nahda",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/2bbb0l1724605751.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/145457-al-nahda"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "om-al-seeb",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/xlskhy1693027251.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/141307-al-seeb"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "om-al-shabab-oman",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/l64quu1723610337.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/149206-al-shabab"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "sa-al-qadsiah",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/ok63wb1719134839.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/136015-al-qadsiah"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "sa-al-taawoun",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/rlsmp91646835052.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/136012-al-taawon"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "sg-lion-city-sailors",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/xzu6751583166979.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139394-lion-city-sailors"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "sg-tampines-rovers",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/kfpndj1583167068.png",
+      "sources": [
+        "https://www.thesportsdb.com/event/2548629-lion-city-sailors-vs-tampines-rovers"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "th-bg-pathum-united",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/pyrvk31582396407.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139227-bg-pathum-united"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "tm-arkadag",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/vabwq61702481415.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/147344-arkadag"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "uz-nasaf",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/ezlsi91724091113.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139378-Nasaf"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "vn-cong-an-ha-noi",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/bwld2x1755751111.png",
+      "sources": [
+        "https://www.thesportsdb.com/event/2580026-johor-darul-tazim-vs-c%C3%B4ng-an-h%C3%A0-n%E1%BB%99i"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "vn-the-cong-viettel",
+      "logo": "https://r2.thesportsdb.com/images/media/team/badge/o0fu2m1788454777.png",
+      "sources": [
+        "https://www.thesportsdb.com/team/139501-th%E1%BB%83-c%C3%B4ng-viettel"
+      ]
+    },
+    {
+      "op": "team-logo",
+      "team": "ye-shaab-hadramaut",
+      "logo": "https://imagecache.365scores.com/image/upload/f_png,w_64,h_64,c_limit,q_auto:eco,dpr_2,d_Competitors:default1.png/v2/Competitors/11492",
+      "sources": [
+        "https://www.365scores.com/football/team/sha'ab-hadramaut-11492"
+      ]
+    }
+  ]
+}
