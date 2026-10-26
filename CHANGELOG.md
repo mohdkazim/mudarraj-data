@@ -3356,3 +3356,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-10-26 (2026-10-26T16:36:00Z)
 - 0 change(s) applied, 0 rejected, 1 waiting for a second source
+
+## 2026-10-26 (2026-10-26T17:35:00Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result acle-2026-27-league-west-gwest-r03-uz-neftchi-fergana-sa-al-ittihad 1-2 FT

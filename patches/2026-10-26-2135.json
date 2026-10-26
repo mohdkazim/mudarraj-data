@@ -1,0 +1,8 @@
+{
+  "run": "2026-10-26T17:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r03-uz-neftchi-fergana-sa-al-ittihad", "status": "FT", "score": [1, 2],
+      "sources": ["https://sabq.org/article/xuf5xtn", "https://www.okaz.com.sa/sport/na/2272559"] }
+  ],
+  "unconfirmed": []
+}

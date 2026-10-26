@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-26T16:37:13.957Z",
+ "generatedAt": "2026-10-26T17:37:00.227Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 686,
-  "pending": 1
+  "results": 687,
+  "pending": 0
  },
  "teams": [
   {
@@ -54466,8 +54466,11 @@
    "away": "sa-al-ittihad",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Istiqlol Stadium",
@@ -54480,9 +54483,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261026",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+    "https://sabq.org/article/xuf5xtn",
+    "https://www.okaz.com.sa/sport/na/2272559"
    ],
+   "updatedAt": "2026-10-26T17:37:00.110Z",
    "venueFrom": "home-ground"
   },
   {
