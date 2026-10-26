@@ -103,8 +103,7 @@ export function defaultVenue(m, comp, teamById) {
 
 /**
  * Where a team's crest ("logo") may come from. The site shows crests through its image proxy, which only
- * fetches from these hosts (ALLOWED_HOSTS in the site's src/app/api/img/route.ts): keep the two lists the
- * same. A crest from a host the installed site doesn't know yet shows as the team's code until the NAS
+ * fetches from these hosts (IMG_HOSTS in the site's src/lib/img-hosts.ts): keep the two lists the same. A crest from a host the installed site doesn't know yet shows as the team's code until the NAS
  * update that adds the host (imagecache.365scores.com: site bundle of 26 Oct 2026, afternoon).
  */
 export const LOGO_HOSTS = [
