@@ -3353,3 +3353,6 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-26 (2026-10-26T15:20:00Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ status acle-2026-27-league-west-gwest-r03-sa-al-nassr-ae-al-wasl PST
+
+## 2026-10-26 (2026-10-26T16:36:00Z)
+- 0 change(s) applied, 0 rejected, 1 waiting for a second source
