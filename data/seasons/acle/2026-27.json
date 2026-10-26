@@ -1652,7 +1652,28 @@
     "https://sabq.org/article/xuf5xtn",
     "https://www.okaz.com.sa/sport/na/2272559"
    ],
-   "updatedAt": "2026-10-26T17:37:00.110Z"
+   "updatedAt": "2026-10-26T17:37:00.110Z",
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Jamshid Iskanderov",
+     "type": "penalty"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Houssem Aouar",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "away",
+     "player": "Youssef En-Nesyri",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r03-ae-al-ain-ir-tractor",
@@ -1668,14 +1689,42 @@
    "away": "ir-tractor",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261026",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-al-ain-fc-uae-2-1-tractor-fc-irn",
+    "https://www.albayan.ae/sports/uae-stadiums/1560757"
+   ],
+   "goals": [
+    {
+     "minute": 22,
+     "side": "home",
+     "player": "Rami Rabia",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Halilović",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Houssine Rahimi",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-26T18:38:14.306Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r03-sa-al-ahli-saudi-qa-al-gharafa",

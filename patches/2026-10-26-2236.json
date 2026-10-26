@@ -1,0 +1,22 @@
+{
+  "run": "2026-10-26T18:36:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r03-ae-al-ain-ir-tractor", "status": "FT", "score": [2,1], "ht": [1,0],
+      "goals": [
+        { "minute": 22, "side": "home", "player": "Rami Rabia", "type": "goal" },
+        { "minute": 55, "side": "away", "player": "Halilović", "type": "goal" },
+        { "minute": 69, "side": "home", "player": "Houssine Rahimi", "type": "goal" }
+      ],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-al-ain-fc-uae-2-1-tractor-fc-irn", "https://www.albayan.ae/sports/uae-stadiums/1560757"] },
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r03-uz-neftchi-fergana-sa-al-ittihad", "status": "FT", "score": [1,2],
+      "goals": [
+        { "minute": 17, "side": "home", "player": "Jamshid Iskanderov", "type": "penalty" },
+        { "minute": 34, "side": "away", "player": "Houssem Aouar", "type": "goal" },
+        { "minute": 90, "extra": 1, "side": "away", "player": "Youssef En-Nesyri", "type": "goal" }
+      ],
+      "sources": ["https://sabq.org/article/xuf5xtn"] }
+  ],
+  "unconfirmed": [
+    { "match": "acle-2026-27-league-west-gwest-r03-sa-al-ahli-saudi-qa-al-gharafa", "claim": "2-1", "sources": ["https://sabq.org/article/641vbmj"] }
+  ]
+}
