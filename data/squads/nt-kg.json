@@ -1,0 +1,225 @@
+{
+ "team": "nt-kg",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/5893/overview/kyrgyzstan"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Artem Pryadkin",
+   "pos": "GK",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Aziret Ysmanaliev",
+   "pos": "GK",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Erzhan Tokotaev",
+   "pos": "GK",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Kurmanbek Nurlanbekov",
+   "pos": "GK",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Sultan Chomoev",
+   "pos": "GK",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Aleksander Mishchenko",
+   "pos": "DF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Amantur Shamurzaev",
+   "pos": "DF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Arslan Bekberdinov",
+   "pos": "DF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Christian Brauzman",
+   "pos": "DF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Esenbek Uson uulu",
+   "pos": "DF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Kayrat Zhyrgalbek Uulu",
+   "pos": "DF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Said Datsiev",
+   "pos": "DF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Tamirlan Kozubaev",
+   "pos": "DF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Ulanbek Sulaymanov",
+   "pos": "DF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Valeri Kichin",
+   "pos": "DF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Adilet Kanybekov",
+   "pos": "MF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Amir Zhaparov",
+   "pos": "MF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Argen Zhumataev",
+   "pos": "MF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Arlen Sharshenbekov",
+   "pos": "MF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Atay Dzhumashev",
+   "pos": "MF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Baybol Ermekov",
+   "pos": "MF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Eldiyar Zarypbekov",
+   "pos": "MF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Erbol Atabaev",
+   "pos": "MF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Ermek Kenzhebaev",
+   "pos": "MF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Gulzhigit Alykulov",
+   "pos": "MF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Magamed Uzdenov",
+   "pos": "MF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Odiljon Abdurahmonov",
+   "pos": "MF",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Alimardon Shukurov",
+   "pos": "FW",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Aybek Sukenaliev",
+   "pos": "FW",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Beknaz Almazbekov",
+   "pos": "FW",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Gulzhigit Borubaev",
+   "pos": "FW",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Joel Kojo",
+   "pos": "FW",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Kai Merk",
+   "pos": "FW",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Kimi Merk",
+   "pos": "FW",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Maksat Alygulov",
+   "pos": "FW",
+   "nat": "KG"
+  },
+  {
+   "n": null,
+   "name": "Mukhammad Karimov",
+   "pos": "FW",
+   "nat": "KG"
+  }
+ ]
+}

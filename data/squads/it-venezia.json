@@ -1,0 +1,225 @@
+{
+ "team": "it-venezia",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/it/teams/7881/overview/venezia"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Alessio Pozzi",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Filip Stanković",
+   "pos": "GK",
+   "nat": "RS"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Montipò",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matteo Grandi",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Ale Gomes",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Armel Bella-Kotchap",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Bartol Franjić",
+   "pos": "DF",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Joël Schingtienne",
+   "pos": "DF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Juan Jesus",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Marin Šverko",
+   "pos": "DF",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Matías Moreno",
+   "pos": "DF",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Redouane Halhal",
+   "pos": "DF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Rufai Mohammed",
+   "pos": "DF",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Thierry Correia",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Alfred Duncan",
+   "pos": "MF",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Antoine Hainaut",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Gianluca Busio",
+   "pos": "MF",
+   "nat": "US"
+  },
+  {
+   "n": null,
+   "name": "Kike Pérez",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Kornel Lisman",
+   "pos": "MF",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Lamine Fanne",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Berardi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matteo Dagasso",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Pasquale Mazzocchi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Richie Sagrado",
+   "pos": "MF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Ridgeciano Haps",
+   "pos": "MF",
+   "nat": "SR"
+  },
+  {
+   "n": null,
+   "name": "Simon Sohm",
+   "pos": "MF",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Simone Panada",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Thórir Helgason",
+   "pos": "MF",
+   "nat": "IS"
+  },
+  {
+   "n": null,
+   "name": "Toma Bašić",
+   "pos": "MF",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Toni Fernández",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Akor Adams",
+   "pos": "FW",
+   "nat": "NG"
+  },
+  {
+   "n": null,
+   "name": "Albion Rrahmani",
+   "pos": "FW",
+   "nat": "XK"
+  },
+  {
+   "n": null,
+   "name": "Andrea Adorante",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "John Yeboah",
+   "pos": "FW",
+   "nat": "EC"
+  },
+  {
+   "n": null,
+   "name": "Lion Lauberbach",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Toure",
+   "pos": "FW",
+   "nat": "SN"
+  }
+ ]
+}

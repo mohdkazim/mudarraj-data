@@ -1,0 +1,225 @@
+{
+ "team": "it-cremonese",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/da/teams/7801/overview/cremonese"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Andrea Fulignati",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Federico Agazzi",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marco Festa",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Riccardo Liberal",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alessandro Vogliacco",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Federico Baschirotto",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Fellipe Jack",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Filippo Rino Bignamini",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matteo Bianchetti",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Riccardo Villa",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Sebastiano Luperto",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Simone Marsi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Yuri Rocchetti",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Adrian Lickūnas",
+   "pos": "MF",
+   "nat": "LT"
+  },
+  {
+   "n": null,
+   "name": "Alberto Grassi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alessio Brambilla",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Dachi Lordkipanidze",
+   "pos": "MF",
+   "nat": "GE"
+  },
+  {
+   "n": null,
+   "name": "Fabio Gerli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Giuseppe Pezzella",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Jari Vandeputte",
+   "pos": "MF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Morten Thorsby",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Ronie Barros Cabezas",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Salvatore Elia",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Simone Lottici Tessadri",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Simone Pontisso",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Barbieri",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Berti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Adin Ličina",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "David Stückler",
+   "pos": "FW",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Federico Bonazzoli",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Gabriel Herzuah",
+   "pos": "FW",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Manuel De Luca",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marco Nasti",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Michele Collocolo",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Milan Djuric",
+   "pos": "FW",
+   "nat": "BA"
+  },
+  {
+   "n": null,
+   "name": "Nouroudine Faye",
+   "pos": "FW",
+   "nat": "IT"
+  }
+ ]
+}

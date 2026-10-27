@@ -1,0 +1,177 @@
+{
+ "team": "nt-jo",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/5816/overview/jordan"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Abdallah Al Fakhori",
+   "pos": "GK",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ahmad Al Juaidi",
+   "pos": "GK",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Yazeed Abulaila",
+   "pos": "GK",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Abdallah Nasib",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ahmad Assaf",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Anas Badawi",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Hadi Al Hourani",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Abu Al Nadi",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Saed Al Rosan",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Yazan Al Arab",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ali Azaizeh",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Amer Jamous",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ehsan Haddad",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Sadeh",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Mahmoud Al Mardi",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Mahmoud Shawkat",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Mohannad Abu Taha",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Mousa Al Tamari",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Nizar Al Rashdan",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Noor Al Rawabdeh",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Yousef Abu Jalboush",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Yousef Qashi",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ahmad Ersan",
+   "pos": "FW",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ali Olwan",
+   "pos": "FW",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Anas Al Awadat",
+   "pos": "FW",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Abu Zraiq",
+   "pos": "FW",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Odeh Fakhoury",
+   "pos": "FW",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Tammer Bany",
+   "pos": "FW",
+   "nat": "JO"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "team": "nt-id",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/6324"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Emil Audero",
+   "pos": "GK",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Maarten Paes",
+   "pos": "GK",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Nadeo Argawinata",
+   "pos": "GK",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Calvin Verdonk",
+   "pos": "DF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Dean James",
+   "pos": "DF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Dion Markx",
+   "pos": "DF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Dony Pamungkas",
+   "pos": "DF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Elkan Baggott",
+   "pos": "DF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Jordi Amat",
+   "pos": "DF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Justin Hubner",
+   "pos": "DF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Kevin Diks",
+   "pos": "DF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Nathan Tjoe-A-On",
+   "pos": "DF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Rizky Ridho",
+   "pos": "DF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Shayne Pattynama",
+   "pos": "DF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Ivar Jenner",
+   "pos": "MF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Joey Pelupessy",
+   "pos": "MF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Ragnar Oratmangoen",
+   "pos": "MF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Rayhan Hannan",
+   "pos": "MF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Thom Haye",
+   "pos": "MF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Egy Vikri",
+   "pos": "FW",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Luke Vickery",
+   "pos": "FW",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Mitchell Baker",
+   "pos": "FW",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Ole Romeny",
+   "pos": "FW",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Rizky Eka Pratama",
+   "pos": "FW",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Yakob Sayuri",
+   "pos": "FW",
+   "nat": "ID"
+  }
+ ]
+}

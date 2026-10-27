@@ -1,0 +1,183 @@
+{
+ "team": "pt-benfica",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/ja/teams/9772/overview/benfica"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Anatoliy Trubin",
+   "pos": "GK",
+   "nat": "UA"
+  },
+  {
+   "n": null,
+   "name": "Samuel Soares",
+   "pos": "GK",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Alessandro Circati",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Alexander Bah",
+   "pos": "DF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Clément Lenglet",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Daniel Banjaqui",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Gabriel Índio",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Samuel Dahl",
+   "pos": "DF",
+   "nat": "SE"
+  },
+  {
+   "n": null,
+   "name": "Souffian El Karouani",
+   "pos": "DF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Tomás Araújo",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Enzo Barrenechea",
+   "pos": "MF",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Fredrik Aursnes",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Georgiy Sudakov",
+   "pos": "MF",
+   "nat": "UA"
+  },
+  {
+   "n": null,
+   "name": "Gonçalo Moreira",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Jakub Kamiński",
+   "pos": "MF",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "João Palhinha",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "José Neto",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Leandro Barreiro",
+   "pos": "MF",
+   "nat": "LU"
+  },
+  {
+   "n": null,
+   "name": "Manu Silva",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Miguel Figueiredo",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Andreas Schjelderup",
+   "pos": "FW",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Anísio Cabral",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Anisse Saidi",
+   "pos": "FW",
+   "nat": "TN"
+  },
+  {
+   "n": null,
+   "name": "Claudio Echeverri",
+   "pos": "FW",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Dodi Lukébakio",
+   "pos": "FW",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Gianluca Prestianni",
+   "pos": "FW",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Jhon Durán",
+   "pos": "FW",
+   "nat": "CO"
+  },
+  {
+   "n": null,
+   "name": "Rafa Silva",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Vangelis Pavlidis",
+   "pos": "FW",
+   "nat": "GR"
+  }
+ ]
+}

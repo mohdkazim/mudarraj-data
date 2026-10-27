@@ -1,0 +1,165 @@
+{
+ "team": "nt-ir",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/6711/overview/iran,teams"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Alireza Beiranvand",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Hossein Hosseini",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Payam Niazmand",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Ali Nemati",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Aria Yousefi",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Ehsan Haji Safi",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Mehdi Zare Mohazabieh",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Naderi",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Ramin Rezaeian",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Saleh Hardani",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Saman Fallah",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Shoja Khalilzadeh",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Aref Aghasi",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Aref Haji Eydi",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Mehdi Limouchi",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Ghorbani",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Omid Noorafkan",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Saeid Ezatolahi",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Amirhossein Mahmoudi",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Dennis Eckert",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Mehdi Taremi",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Milad Sourgi",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Mohebi",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Mohammadmehdi Mohebi",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Sardar Azmoun",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Shahab Zahedi",
+   "pos": "FW",
+   "nat": "IR"
+  }
+ ]
+}

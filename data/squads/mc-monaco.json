@@ -1,0 +1,183 @@
+{
+ "team": "mc-monaco",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9829"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Lukás Hrádecky",
+   "pos": "GK",
+   "nat": "FI"
+  },
+  {
+   "n": null,
+   "name": "Philipp Köhn",
+   "pos": "GK",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Christian Mawissa",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Eric Dier",
+   "pos": "DF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Flávio Nazinho",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Salisu",
+   "pos": "DF",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Sadibou Sané",
+   "pos": "DF",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Samuel Nibombé",
+   "pos": "DF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Vanderson",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Aleksandr Golovin",
+   "pos": "MF",
+   "nat": "RU"
+  },
+  {
+   "n": null,
+   "name": "Anis Soubeir",
+   "pos": "MF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Ansu Fati",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Aymen Assab",
+   "pos": "MF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Denis Zakaria",
+   "pos": "MF",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Edan Diop",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Ilane Touré",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Jordan Teze",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Lamine Camara",
+   "pos": "MF",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Mamadou Coulibaly",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Oumar Konaté",
+   "pos": "MF",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Pape Cabral",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Takumi Minamino",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Folarin Balogun",
+   "pos": "FW",
+   "nat": "US"
+  },
+  {
+   "n": null,
+   "name": "Mathys Detourbet",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Matthis Abline",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Mika Biereth",
+   "pos": "FW",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Paris Brunner",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Safouane Benzahra",
+   "pos": "FW",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Stanis Idumbo",
+   "pos": "FW",
+   "nat": "BE"
+  }
+ ]
+}

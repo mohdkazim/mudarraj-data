@@ -1,0 +1,213 @@
+{
+ "team": "it-sampdoria",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9882/overview/sampdoria"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Andrey Krastev",
+   "pos": "GK",
+   "nat": "BG"
+  },
+  {
+   "n": null,
+   "name": "Nicholas Scardigno",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Peter Vindahl Jensen",
+   "pos": "GK",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Samuelle Massolo",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alessandro Di Pardo",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alex Ferrari",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Bjorn Meijer",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Federico Piermattei",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Filippo Delli Carri",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Karim Diop",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Leonardo Cosi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luca Ravanelli",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mattia Viti",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Noah Mondani",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Oliver Abildgaard",
+   "pos": "DF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Stefan Gartenmann",
+   "pos": "DF",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Antoine Makoumbou",
+   "pos": "MF",
+   "nat": "CG"
+  },
+  {
+   "n": null,
+   "name": "Danel Sinani",
+   "pos": "MF",
+   "nat": "LU"
+  },
+  {
+   "n": null,
+   "name": "Fabio Depaoli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Francesco Conti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Kevin Mbabu",
+   "pos": "MF",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Leo Rodella",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Liam Henderson",
+   "pos": "MF",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Insigne",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Manuel Cicconi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Salvatore Esposito",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Tjaš Begić",
+   "pos": "MF",
+   "nat": "SI"
+  },
+  {
+   "n": null,
+   "name": "Yari Verschaeren",
+   "pos": "MF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Gennaro Tutino",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Giuseppe Forte",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Mezzotero",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nikola Sekulov",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Tobias Lauritsen",
+   "pos": "FW",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Yann Karamoh",
+   "pos": "FW",
+   "nat": "FR"
+  }
+ ]
+}

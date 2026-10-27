@@ -1,0 +1,165 @@
+{
+ "team": "nt-jp",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/6715"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Keisuke Osako",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Tomoki Hayakawa",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Zion Suzuki",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Ayumu Seko",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Hiroki Ito",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Junnosuke Suzuki",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Ko Itakura",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Shogo Taniguchi",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Takehiro Tomiyasu",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Tsuyoshi Watanabe",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Yukinari Sugawara",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Yuto Nagatomo",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Ao Tanaka",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Daichi Kamada",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Kaishu Sano",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Ritsu Doan",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Yuito Suzuki",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Ayase Ueda",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Daizen Maeda",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Junya Ito",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Keisuke Goto",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Keito Nakamura",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Kento Shiogai",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Koki Ogawa",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Shuto Machino",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Takefusa Kubo",
+   "pos": "FW",
+   "nat": "JP"
+  }
+ ]
+}

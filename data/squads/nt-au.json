@@ -1,0 +1,171 @@
+{
+ "team": "nt-au",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/6716/overview/undefined,teams,teams"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Jacob Chapman",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Patrick Beach",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Paul Izzo",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Alessandro Circati",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Aziz Behich",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Dylan Leonard",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Harry Souttar",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Jason Geria",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Kasey Bos",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Kealey Adamson",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Lucas Herrington",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Miloš Degenek",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Aiden O'Neill",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Alex Robertson",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Connor Metcalfe",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Jackson Irvine",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Jacob Italiano",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Nestory Irankunda",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Patrick Yazbek",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Paul Okon-Engstler",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Riley McGree",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Yaya Dukuly",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Eli Adams",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Marcus Younis",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Touré",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Nishan Velupillay",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Tete Yengi",
+   "pos": "FW",
+   "nat": "AU"
+  }
+ ]
+}

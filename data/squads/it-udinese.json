@@ -1,0 +1,189 @@
+{
+ "team": "it-udinese",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/pt-PT/teams/8600/overview"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Bartosz Mrozek",
+   "pos": "GK",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Daniele Padelli",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Edoardo Piana",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Maduka Okoye",
+   "pos": "GK",
+   "nat": "NG"
+  },
+  {
+   "n": null,
+   "name": "Christian Kabasele",
+   "pos": "DF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "David Alaba",
+   "pos": "DF",
+   "nat": "AT"
+  },
+  {
+   "n": null,
+   "name": "Enzo Ebosse",
+   "pos": "DF",
+   "nat": "CM"
+  },
+  {
+   "n": null,
+   "name": "James Abankwah",
+   "pos": "DF",
+   "nat": "IE"
+  },
+  {
+   "n": null,
+   "name": "Matteo Palma",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nicolò Bertola",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Oumar Solet",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Alessandro Zanoli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "David Pejičić",
+   "pos": "MF",
+   "nat": "SI"
+  },
+  {
+   "n": null,
+   "name": "Giorgi Chakvetadze",
+   "pos": "MF",
+   "nat": "GE"
+  },
+  {
+   "n": null,
+   "name": "Hassane Kamara",
+   "pos": "MF",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Jakub Piotrowski",
+   "pos": "MF",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Jesper Karlström",
+   "pos": "MF",
+   "nat": "SE"
+  },
+  {
+   "n": null,
+   "name": "Juan Arizala",
+   "pos": "MF",
+   "nat": "CO"
+  },
+  {
+   "n": null,
+   "name": "Jurgen Ekkelenkamp",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Lennon Miller",
+   "pos": "MF",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": null,
+   "name": "Mërgim Vojvoda",
+   "pos": "MF",
+   "nat": "XK"
+  },
+  {
+   "n": null,
+   "name": "Oier Zarraga",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Sandi Lovrić",
+   "pos": "MF",
+   "nat": "SI"
+  },
+  {
+   "n": null,
+   "name": "Unai Gómez",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Giulio Vinciati",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Idrissa Gueye",
+   "pos": "FW",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Keinan Davis",
+   "pos": "FW",
+   "nat": "JM"
+  },
+  {
+   "n": null,
+   "name": "Lazar Jovanović",
+   "pos": "FW",
+   "nat": "RS"
+  },
+  {
+   "n": null,
+   "name": "Nicolò Zaniolo",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Vakoun Issouf Bayo",
+   "pos": "FW",
+   "nat": "CI"
+  }
+ ]
+}

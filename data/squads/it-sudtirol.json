@@ -1,0 +1,213 @@
+{
+ "team": "it-sudtirol",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/189475/overview"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Alessandro Plizzari",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Daniele Borra",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Bonifacio",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Lukas Ploner",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marius Adamonis",
+   "pos": "GK",
+   "nat": "LT"
+  },
+  {
+   "n": null,
+   "name": "Rok Vadjunec",
+   "pos": "GK",
+   "nat": "SI"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Laureti",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Andrea Giorgini",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Andrea Masiello",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Carlo Sabatini",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Davide Veroli",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Federico Davi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Giacomo Stabile",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Hamza El Kaouakibi",
+   "pos": "DF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Marco Iuliano",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marco Varnier",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mattia Pellini",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Riccardo Stivanello",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Aljoša Vasić",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Bjarki Steinn Bjarkason",
+   "pos": "MF",
+   "nat": "IS"
+  },
+  {
+   "n": null,
+   "name": "Dhirar Brik",
+   "pos": "MF",
+   "nat": "TN"
+  },
+  {
+   "n": null,
+   "name": "Elias Schrott",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Fabian Tait",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Fabio Rispoli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Kevin Zeroli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Anghelè",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Niklas Pyyhtiä",
+   "pos": "MF",
+   "nat": "FI"
+  },
+  {
+   "n": null,
+   "name": "Salvatore Molina",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Simone Davì",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Simone Tronchin",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alvin Okoro",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Kenny Mixtur",
+   "pos": "FW",
+   "nat": "GP"
+  },
+  {
+   "n": null,
+   "name": "Rareş Burnete",
+   "pos": "FW",
+   "nat": "RO"
+  },
+  {
+   "n": null,
+   "name": "Vasco Lopes",
+   "pos": "FW",
+   "nat": "CV"
+  }
+ ]
+}

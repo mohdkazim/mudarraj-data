@@ -1,0 +1,165 @@
+{
+ "team": "nt-bh",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/5901/overview/players"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Ebrahim Lutfallah",
+   "pos": "GK",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Al Gharably",
+   "pos": "GK",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Omar Salem",
+   "pos": "GK",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Abdulla Al Khulasi",
+   "pos": "DF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Amine Benaddi",
+   "pos": "DF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Hamad Al Shamsan",
+   "pos": "DF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Abdul Kayoum",
+   "pos": "DF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Sayed Hashim Isa",
+   "pos": "DF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Sayed Mahdi Baqer",
+   "pos": "DF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Vincent Ani Emmanuel",
+   "pos": "DF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Waleed Al Hayam",
+   "pos": "DF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Abbas Al Asfoor",
+   "pos": "MF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Rabeea",
+   "pos": "MF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Ali Al Dosari",
+   "pos": "MF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Ebrahim Al Khatal",
+   "pos": "MF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Komail Al Aswad",
+   "pos": "MF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Marhoon",
+   "pos": "MF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Omar Saber",
+   "pos": "MF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Sayed Dhiya",
+   "pos": "MF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Ali Madan",
+   "pos": "FW",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Hasan Al Karani",
+   "pos": "FW",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Husain Abdulkarim",
+   "pos": "FW",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Jassim Al Shaikh",
+   "pos": "FW",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Mahdi Abduljabbar",
+   "pos": "FW",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Mahdi Al Humaidan",
+   "pos": "FW",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Al Romaihi",
+   "pos": "FW",
+   "nat": "BH"
+  }
+ ]
+}

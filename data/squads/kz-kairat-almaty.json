@@ -1,0 +1,153 @@
+{
+ "team": "kz-kairat-almaty",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8037/overview/undefined,teams"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Danila Buch",
+   "pos": "GK",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Sherhan Kalmurza",
+   "pos": "GK",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Temirlan Anarbekov",
+   "pos": "GK",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Adlan Nurgaliev",
+   "pos": "DF",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Aleksandr Martynovich",
+   "pos": "DF",
+   "nat": "BY"
+  },
+  {
+   "n": null,
+   "name": "Aleksandr Mrynskiy",
+   "pos": "DF",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Aleksandr Shirobokov",
+   "pos": "DF",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Daniyar Tashpulatov",
+   "pos": "DF",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Erkin Tapalov",
+   "pos": "DF",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Lucas Áfrico",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Luís Mata",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Adilet Sadybekov",
+   "pos": "MF",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Damir Kasabulat",
+   "pos": "MF",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Gustavo Mendonça",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Jaakko Oksanen",
+   "pos": "MF",
+   "nat": "FI"
+  },
+  {
+   "n": null,
+   "name": "Jorginho",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Mukhamedali Abish",
+   "pos": "MF",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Olzhas Baybek",
+   "pos": "MF",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Azamat Tuyakbayev",
+   "pos": "FW",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Edmilson Filho",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Ismail Bekbolat",
+   "pos": "FW",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Lev Kurgin",
+   "pos": "FW",
+   "nat": "KZ"
+  },
+  {
+   "n": null,
+   "name": "Marc Gual",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Oiva Jukkola",
+   "pos": "FW",
+   "nat": "FI"
+  }
+ ]
+}

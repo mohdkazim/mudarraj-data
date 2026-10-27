@@ -1,0 +1,153 @@
+{
+ "team": "nt-iq",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/5819/overview/iraq"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Ahmed Basil",
+   "pos": "GK",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Hussein Hasan",
+   "pos": "GK",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Saleh",
+   "pos": "GK",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Akam Hashim",
+   "pos": "DF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Josef Al Imam",
+   "pos": "DF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Maytham Jabbar",
+   "pos": "DF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Merchas Doski",
+   "pos": "DF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Mustafa Saadoon",
+   "pos": "DF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Zaid Tahseen",
+   "pos": "DF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Abdulrazzaq Qasim",
+   "pos": "MF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Amir Al Ammari",
+   "pos": "MF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Bayesh",
+   "pos": "MF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Jussef Nasrawe",
+   "pos": "MF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Karar Nabeel",
+   "pos": "MF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Qasim",
+   "pos": "MF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Zaid Ismail Al Dulaimi",
+   "pos": "MF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Zidane Iqbal",
+   "pos": "MF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Qasem",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Ali Al Hamadi",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Ali Jasim",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Aymen Hussein",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Hasan Abdulkareem",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Mustafa Qabeel",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Saif Rashid",
+   "pos": "FW",
+   "nat": "IQ"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "team": "nl-ajax",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/fr/teams/8593/overview/players"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Maarten Paes",
+   "pos": "GK",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Marc ter Stegen",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Aaron Bouwman",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Anton Gaaei",
+   "pos": "DF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Caio Henrique",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Daley Blind",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Dies Janse",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Jofre Torrents",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Lucas Rosa",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Owen Wijndal",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Thilo Kehrer",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Youri Baas",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Abdellah Ouazane",
+   "pos": "MF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Davy Klaassen",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Jorthy Mokio",
+   "pos": "MF",
+   "nat": "CD"
+  },
+  {
+   "n": null,
+   "name": "Julian Brandt",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Oscar Gloukh",
+   "pos": "MF",
+   "nat": "IL"
+  },
+  {
+   "n": null,
+   "name": "Sofyan Amrabat",
+   "pos": "MF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Yves Bissouma",
+   "pos": "MF",
+   "nat": "ML"
+  },
+  {
+   "n": null,
+   "name": "Kasper Dolberg",
+   "pos": "FW",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Marcos Leonardo",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Oliver Edvardsen",
+   "pos": "FW",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Rayane Bounida",
+   "pos": "FW",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Simon Adingra",
+   "pos": "FW",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Steven Berghuis",
+   "pos": "FW",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Tolu Arokodare",
+   "pos": "FW",
+   "nat": "NG"
+  },
+  {
+   "n": null,
+   "name": "Viktor Tsigankov",
+   "pos": "FW",
+   "nat": "UA"
+  }
+ ]
+}

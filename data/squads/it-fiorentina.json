@@ -1,0 +1,189 @@
+{
+ "team": "it-fiorentina",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/8535/overview"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "David de Gea",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Luca Lezzerini",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mattia Magalotti",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Oliver Christensen",
+   "pos": "GK",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Álex Jiménez",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Dodô",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Edoardo Sadotti",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "João Mário",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Luca Ranieri",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marin Pongračić",
+   "pos": "DF",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Radu Drăgușin",
+   "pos": "DF",
+   "nat": "RO"
+  },
+  {
+   "n": null,
+   "name": "Valde",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Viery",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Arthur Atta",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Cher Ndour",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Christ Inao Oulaï",
+   "pos": "MF",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Marco Brescianini",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nicolò Fagioli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Piergiorgio Bonanno",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alieu Njie",
+   "pos": "FW",
+   "nat": "SE"
+  },
+  {
+   "n": null,
+   "name": "Beto",
+   "pos": "FW",
+   "nat": "GW"
+  },
+  {
+   "n": null,
+   "name": "Fabiano Parisi",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Federico Croci",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Franco Mastantuono",
+   "pos": "FW",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Gabriele Bertolini",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mateo Pellegrino",
+   "pos": "FW",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Pote",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Riccardo Sottil",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Sulayman Jallow",
+   "pos": "FW",
+   "nat": "GM"
+  },
+  {
+   "n": null,
+   "name": "Wilfried Gnonto",
+   "pos": "FW",
+   "nat": "IT"
+  }
+ ]
+}
