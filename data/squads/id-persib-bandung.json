@@ -1,0 +1,192 @@
+{
+ "team": "id-persib-bandung",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/nl/teams/165196/squad/persib-bandung"
+ ],
+ "players": [
+  {
+   "n": 14,
+   "name": "Teja Paku Alam",
+   "pos": "GK",
+   "nat": "ID"
+  },
+  {
+   "n": 50,
+   "name": "Fitrah Maulana",
+   "pos": "GK",
+   "nat": "ID"
+  },
+  {
+   "n": 60,
+   "name": "Rhaka Syafaka",
+   "pos": "GK",
+   "nat": "ID"
+  },
+  {
+   "n": 2,
+   "name": "Eliano Reijnders",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ID"
+  },
+  {
+   "n": 3,
+   "name": "Gabriel Mutombo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 4,
+   "name": "Júlio César",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 5,
+   "name": "Kakang Rudianto",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ID"
+  },
+  {
+   "n": 6,
+   "name": "Sandy Walsh",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ID"
+  },
+  {
+   "n": 22,
+   "name": "Danijel Lončar",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HR"
+  },
+  {
+   "n": 48,
+   "name": "Patricio Matricardi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 8,
+   "name": "Luciano Guaycochea",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AR"
+  },
+  {
+   "n": 11,
+   "name": "Dedi Kusnandar",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ID"
+  },
+  {
+   "n": 13,
+   "name": "Febri Hariyadi",
+   "pos": "MF",
+   "nat": "ID"
+  },
+  {
+   "n": 17,
+   "name": "Gakuto Notsuda",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "JP"
+  },
+  {
+   "n": 18,
+   "name": "Adam Alis",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ID"
+  },
+  {
+   "n": 23,
+   "name": "Marc Klok",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ID"
+  },
+  {
+   "n": 30,
+   "name": "Rafi Rasyiq",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "ID"
+  },
+  {
+   "n": 33,
+   "name": "Thom Haye",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ID"
+  },
+  {
+   "n": 40,
+   "name": "Ikhwan Tanamal",
+   "pos": "MF",
+   "nat": "ID"
+  },
+  {
+   "n": 77,
+   "name": "Ragnar Oratmangoen",
+   "pos": "MF",
+   "nat": "ID"
+  },
+  {
+   "n": 85,
+   "name": "Nazriel Alfaro",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ID"
+  },
+  {
+   "n": 7,
+   "name": "Beckham Putra",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ID"
+  },
+  {
+   "n": 9,
+   "name": "Luka Menalo",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BA"
+  },
+  {
+   "n": 10,
+   "name": "Mariano Peralta",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AR"
+  },
+  {
+   "n": 94,
+   "name": "Uilliam Barros",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 97,
+   "name": "Berguinho",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 99,
+   "name": "Balša Sekulić",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ME"
+  }
+ ]
+}

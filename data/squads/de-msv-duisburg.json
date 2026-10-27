@@ -1,0 +1,204 @@
+{
+ "team": "de-msv-duisburg",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8293/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Maximilian Braune",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Toni Stahl",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Martin Ens",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Tobias Fleckstein",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Niklas Jessen",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "Dennis Borkowski",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Can Coşkun",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Florian Egerer",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Joshua Bitter",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 40,
+   "name": "Ben Schlicke",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 51,
+   "name": "Reda Haddou",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Dominik Becker",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Frederik Christensen",
+   "pos": "MF",
+   "nat": "DK"
+  },
+  {
+   "n": 6,
+   "name": "Rasim Bulić",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Jakob Bookjans",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Aljaž Casar",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SI"
+  },
+  {
+   "n": 10,
+   "name": "Christian Viet",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Conor Noß",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Max Besuschkow",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 38,
+   "name": "Gabriel Sadlek",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Leon Müller",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Lex-Tyger Lobinger",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Dominik Kother",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Ramien Safi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "AF"
+  },
+  {
+   "n": 23,
+   "name": "Jan-Simon Symalla",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Florian Krüger",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 34,
+   "name": "Jannik Zahmel",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 37,
+   "name": "Patrick Sussek",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 39,
+   "name": "Peter Remmert",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  }
+ ]
+}

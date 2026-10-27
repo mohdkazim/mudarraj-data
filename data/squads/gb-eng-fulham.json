@@ -1,0 +1,182 @@
+{
+ "team": "gb-eng-fulham",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9879/squad/fulham"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Bernd Leno",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Benjamin Lecomte",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 2,
+   "name": "Kenny Tete",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "NL"
+  },
+  {
+   "n": 3,
+   "name": "Calvin Bassey",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NG"
+  },
+  {
+   "n": 4,
+   "name": "Jorge Cuenca",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Joachim Andersen",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DK"
+  },
+  {
+   "n": 21,
+   "name": "Timothy Castagne",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BE"
+  },
+  {
+   "n": 22,
+   "name": "David Affengruber",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 30,
+   "name": "Ryan Sessegnon",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 33,
+   "name": "Antonee Robinson",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "US"
+  },
+  {
+   "n": 6,
+   "name": "Harrison Reed",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 10,
+   "name": "Tom Cairney",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 15,
+   "name": "Hugo Larsson",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SE"
+  },
+  {
+   "n": 16,
+   "name": "Sander Berge",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NO"
+  },
+  {
+   "n": 17,
+   "name": "Alex Iwobi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NG"
+  },
+  {
+   "n": 19,
+   "name": "Shea Charles",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-NIR"
+  },
+  {
+   "n": 20,
+   "name": "Manuel Ángel",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "ES"
+  },
+  {
+   "n": 24,
+   "name": "Joshua King",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 32,
+   "name": "Emile Smith Rowe",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 7,
+   "name": "Gonzalo García",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "César Palacios",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Rodrigo Muniz",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Kevin",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 14,
+   "name": "Oscar Bobb",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "NO"
+  },
+  {
+   "n": 18,
+   "name": "Jonah Kusi-Asare",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SE"
+  }
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "team": "de-sc-verl",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/en-GB/teams/7783/squad/sc-verl"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Timo Schlieck",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 12,
+   "name": "Julian Fuest",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 32,
+   "name": "Fabian Pekruhl",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 40,
+   "name": "Marlon Zacharias",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Raphael Araoye",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Nick Seidel",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Paul Lehmann",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Niko Kijewski",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Noah König",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Michel Stöcker",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Felix Vogler",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 34,
+   "name": "Janne Berner",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 46,
+   "name": "Tim Hoffmann",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Tobias Knost",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KE"
+  },
+  {
+   "n": 6,
+   "name": "Joshua Eze",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Dennis Waidner",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Lukas Demming",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Fabian Wessig",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Mika Clausen",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Marco Mannhardt",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Kasim Rabihić",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Emmanuel Bamba",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Almin Mešanović",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BA"
+  },
+  {
+   "n": 7,
+   "name": "Amin Farouk",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Alem Japaur",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BA"
+  },
+  {
+   "n": 10,
+   "name": "Bilal Yalçinkaya",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Moritz Kaube",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Yari Otto",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "André Leipold",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "PH"
+  },
+  {
+   "n": 24,
+   "name": "Dominik Martinović",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "Tim Heike",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "António Fóti",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CY"
+  },
+  {
+   "n": 48,
+   "name": "Tanay Cosar",
+   "pos": "FW",
+   "nat": "TR"
+  }
+ ]
+}

@@ -1,0 +1,211 @@
+{
+ "team": "ir-gol-gohar-sirjan",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/id/teams/389880/squad/gol-gohar"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Farzin Karousian",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": 31,
+   "name": "Mohammadali Shakiba",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": 97,
+   "name": "Mohammadreza Akhbari",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": 2,
+   "name": "Mojtaba Najarian",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "IR"
+  },
+  {
+   "n": 3,
+   "name": "Seyed Hosseini",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IR"
+  },
+  {
+   "n": 5,
+   "name": "Milad Kor",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IR"
+  },
+  {
+   "n": 6,
+   "name": "Mohammad Masoumi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IR"
+  },
+  {
+   "n": 14,
+   "name": "Amir Jafari",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": 19,
+   "name": "Pedram Ghazipour",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "IR"
+  },
+  {
+   "n": 26,
+   "name": "Masih Zahedi",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": 27,
+   "name": "Amirmehdi Khammar",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": 55,
+   "name": "Ali Hassani",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": 76,
+   "name": "Soheil Sahraei",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": 4,
+   "name": "Alireza Alizadeh",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IR"
+  },
+  {
+   "n": 11,
+   "name": "Mehdi Goudarzi",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IR"
+  },
+  {
+   "n": 16,
+   "name": "Mohammad Bordbar",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 60,
+   "name": "Ahmadreza Zendehrooh",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 64,
+   "name": "Benyamin Alipour",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 69,
+   "name": "Mohammad Amin Kazemian",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 80,
+   "name": "Mohammadhossein Jamali",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 88,
+   "name": "Siamak Nemati",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 99,
+   "name": "Louay Ben Hassine",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "TN"
+  },
+  {
+   "n": null,
+   "name": "Aliasghar Ashouri",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 7,
+   "name": "Mojtaba Fakhrian",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 8,
+   "name": "Ali Ashouri",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 9,
+   "name": "Omid Alishah",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 10,
+   "name": "Majid Aliyari",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IR"
+  },
+  {
+   "n": 13,
+   "name": "Mohammad Alinejad",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 20,
+   "name": "Mohammadreza Abbasi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IR"
+  },
+  {
+   "n": 21,
+   "name": "Parsa Kafafi",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 70,
+   "name": "Ali Sheikholeslami",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Afshin Sadeghnejad",
+   "pos": "FW",
+   "nat": "IR"
+  }
+ ]
+}

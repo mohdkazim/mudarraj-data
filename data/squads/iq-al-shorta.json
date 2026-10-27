@@ -1,0 +1,168 @@
+{
+ "team": "iq-al-shorta",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/101655/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Mohammad Kareem",
+   "pos": "GK",
+   "nat": "IQ"
+  },
+  {
+   "n": 12,
+   "name": "Jalal Hassan",
+   "pos": "GK",
+   "nat": "IQ"
+  },
+  {
+   "n": 16,
+   "name": "Hasan Ahmed",
+   "pos": "GK",
+   "nat": "IQ"
+  },
+  {
+   "n": 2,
+   "name": "Adam Rasheed",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IQ"
+  },
+  {
+   "n": 3,
+   "name": "Mojtaba Saleh",
+   "pos": "DF",
+   "nat": "IQ"
+  },
+  {
+   "n": 4,
+   "name": "Rubén Ramírez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "VE"
+  },
+  {
+   "n": 5,
+   "name": "Maytham Jabbar",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IQ"
+  },
+  {
+   "n": 15,
+   "name": "Ahmed Yahia",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IQ"
+  },
+  {
+   "n": 32,
+   "name": "Diego Hernández",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CO"
+  },
+  {
+   "n": 13,
+   "name": "Boaz Ngalamulume",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CD"
+  },
+  {
+   "n": 14,
+   "name": "Abdoul Moumouni",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NE"
+  },
+  {
+   "n": 19,
+   "name": "Ali Mohsin",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IQ"
+  },
+  {
+   "n": 23,
+   "name": "Kingsley Kuku",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "NG"
+  },
+  {
+   "n": 25,
+   "name": "Atheer Saleh",
+   "pos": "MF",
+   "nat": "IQ"
+  },
+  {
+   "n": 33,
+   "name": "Cristian Barco",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AR"
+  },
+  {
+   "n": 6,
+   "name": "Abbas Fadhil",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": 9,
+   "name": "Hussein Ali Jasim Al Saedi",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IQ"
+  },
+  {
+   "n": 10,
+   "name": "Leonel Ateba",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CM"
+  },
+  {
+   "n": 11,
+   "name": "Bassam Shakir",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "IQ"
+  },
+  {
+   "n": 17,
+   "name": "Ahmed Farhan",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IQ"
+  },
+  {
+   "n": 18,
+   "name": "Mohanad Ali",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IQ"
+  },
+  {
+   "n": 26,
+   "name": "Abdulkhaleq Mohammad",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": 29,
+   "name": "Abdullah Basim",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": 31,
+   "name": "Ahmad Zero",
+   "pos": "FW",
+   "nat": "IQ"
+  }
+ ]
+}

@@ -1,0 +1,209 @@
+{
+ "team": "gb-eng-coventry-city",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8669/squad/coventry"
+ ],
+ "players": [
+  {
+   "n": 13,
+   "name": "Ben Wilson",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 19,
+   "name": "Carl Rushworth",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 25,
+   "name": "Daniel Bentley",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 2,
+   "name": "Ethan Pinnock",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JM"
+  },
+  {
+   "n": 3,
+   "name": "Jay Dasilva",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 4,
+   "name": "Bobby Thomas",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 12,
+   "name": "Stephen Mfuni",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 20,
+   "name": "Kaine Kesler-Hayden",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 21,
+   "name": "Jake Bidwell",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 22,
+   "name": "Joel Latibeaudiere",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JM"
+  },
+  {
+   "n": 24,
+   "name": "Aurèle Amenda",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CH"
+  },
+  {
+   "n": 26,
+   "name": "Luke Woolfenden",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 27,
+   "name": "Milan van Ewijk",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "NL"
+  },
+  {
+   "n": 5,
+   "name": "Jack Rudoni",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 6,
+   "name": "Matt Grimes",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 8,
+   "name": "Caleb Yirenkyi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GH"
+  },
+  {
+   "n": 16,
+   "name": "Frank Onyeka",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NG"
+  },
+  {
+   "n": 28,
+   "name": "Josh Eccles",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 29,
+   "name": "Victor Torp",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DK"
+  },
+  {
+   "n": 34,
+   "name": "Yann Gboho",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "CI"
+  },
+  {
+   "n": 7,
+   "name": "Tatsuhiro Sakamoto",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "JP"
+  },
+  {
+   "n": 9,
+   "name": "Ellis Simms",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 10,
+   "name": "Ephron Mason-Clark",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "JM"
+  },
+  {
+   "n": 11,
+   "name": "Haji Wright",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "US"
+  },
+  {
+   "n": 14,
+   "name": "Taiwo Awoniyi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NG"
+  },
+  {
+   "n": 17,
+   "name": "Loum Tchaouna",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "FR"
+  },
+  {
+   "n": 23,
+   "name": "Brandon Thomas-Asante",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GH"
+  },
+  {
+   "n": 38,
+   "name": "Gustavo Hamer",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NL"
+  },
+  {
+   "n": 49,
+   "name": "Sidiki Cherif",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  }
+ ]
+}

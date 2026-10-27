@@ -1,0 +1,232 @@
+{
+ "team": "sa-al-faisaly",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/205687/squad/al-faisaly"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Fernando Pacheco",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Abdulelah Nassief",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 26,
+   "name": "Mohammed Al Hasawi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 2,
+   "name": "Yaseen Barnawi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Khalid Al Harbi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 4,
+   "name": "Abdoulaye Seck",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 5,
+   "name": "Andrei Girotto",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 25,
+   "name": "Moayad Saleem",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 50,
+   "name": "Mohammed Al Shanqiti",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 70,
+   "name": "Mohammed Jahfali",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 82,
+   "name": "Hussain Al Zarie",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 87,
+   "name": "Abdullah Bin Subayt",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 88,
+   "name": "Saud Haddad",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulrahman Al Safari",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Fawaz Rabie",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Eid Al Muwallad",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Jaber Issa",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 8,
+   "name": "Flávio",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Ibrahima Ndiaye",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "SN"
+  },
+  {
+   "n": 11,
+   "name": "André-Jordy Ella",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "GA"
+  },
+  {
+   "n": 14,
+   "name": "Abdullah Al Mogren",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 18,
+   "name": "Mohammed Al Aqeel",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 20,
+   "name": "Jaime Seoane",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 77,
+   "name": "Abdulrahman Al Sharif",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 95,
+   "name": "Ayman Fallatah",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Yousef Al Shammari",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 10,
+   "name": "Théo Bongonda",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CD"
+  },
+  {
+   "n": 13,
+   "name": "Christian Bassogog",
+   "pos": "FW",
+   "nat": "CM"
+  },
+  {
+   "n": 19,
+   "name": "Alexandre Mendy",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GW"
+  },
+  {
+   "n": 24,
+   "name": "Abdulaziz Al Bishi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  },
+  {
+   "n": 37,
+   "name": "Wael Kadan",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 47,
+   "name": "Faisal Al Fahad",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 71,
+   "name": "Ahmed Abdu",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  }
+ ]
+}

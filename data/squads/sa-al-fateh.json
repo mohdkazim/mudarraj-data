@@ -1,0 +1,226 @@
+{
+ "team": "sa-al-fateh",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/fr/teams/177356/squad/al-fateh-fc,teams,teams,teams,teams,teams,teams,players"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Adrian Šemper",
+   "pos": "GK",
+   "nat": "HR"
+  },
+  {
+   "n": 31,
+   "name": "Habib Al Watyan",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 94,
+   "name": "Waleed Al Anzi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Kennedy Boateng",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "TG"
+  },
+  {
+   "n": 4,
+   "name": "Ziyad Al Jari",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 5,
+   "name": "Faisal Darisi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 16,
+   "name": "Abdulelah Al Khaibari",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 17,
+   "name": "Marwane Saadane",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MA"
+  },
+  {
+   "n": 19,
+   "name": "Robin Kelder",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": 22,
+   "name": "Abdul Rahman Al Khaibari",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 27,
+   "name": "Ali Alamine Ali",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": 63,
+   "name": "Muntathir Al Shaqaq",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 78,
+   "name": "Abdulaziz Al Suwailem",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Ali Al Hassan",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 8,
+   "name": "Mihai Lixandru",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "RO"
+  },
+  {
+   "n": 18,
+   "name": "Abdulaziz Al Fawaz",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 20,
+   "name": "Hossam Essadak",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MA"
+  },
+  {
+   "n": 24,
+   "name": "Mehdi Al Aboud",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 25,
+   "name": "Mohammed Al Sahihi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 28,
+   "name": "Zaydou Youssouf",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "KM"
+  },
+  {
+   "n": 70,
+   "name": "Jordan Harrison",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": 80,
+   "name": "Faisal Al Abdulwahed",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 87,
+   "name": "Sattam Al Tumbukti",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "SA"
+  },
+  {
+   "n": 88,
+   "name": "Othman Al Othman",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Fahad Al Zubaidi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 9,
+   "name": "Wilfried Kanga",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CI"
+  },
+  {
+   "n": 10,
+   "name": "Lukás Haraslín",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "SK"
+  },
+  {
+   "n": 11,
+   "name": "Mourad Batna",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  },
+  {
+   "n": 21,
+   "name": "Jefferson Ramos",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CV"
+  },
+  {
+   "n": 23,
+   "name": "Sorriso",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 29,
+   "name": "Ali Al Masoud",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  },
+  {
+   "n": 49,
+   "name": "Saad Al Sharfa",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  }
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "team": "de-sonnenhof-grossaspach",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/94941/squad/sonnenhof-gro%EF%BF%BD%EF%BF%BDaspach,teams,teams,players,players,teams,teams,teams,players"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Maximilian Reule",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Robin Dittrich",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Tim Schulz",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Elias Rahn",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 15,
+   "name": "Antonis Aidonis",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Marius Uhl",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Leon Maier",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Luka Molinari",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Benedikt Landwehr",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "Arbnor Nuraj",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Bastian Frolich",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Brooklyn Schwarz",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Mark Gashi",
+   "pos": "DF",
+   "nat": "XK"
+  },
+  {
+   "n": 4,
+   "name": "Franz Bleicher",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Volkan Celiktas",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "TR"
+  },
+  {
+   "n": 6,
+   "name": "Christian Mistl",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Lukas Stoppel",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "DE"
+  },
+  {
+   "n": 13,
+   "name": "Nikos Zografakis",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Marius Kunde",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Niklas Pollex",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Noah Santiago Lorch",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 34,
+   "name": "Nico Jüllich",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Deli Hajdini",
+   "pos": "FW",
+   "nat": "XK"
+  },
+  {
+   "n": 9,
+   "name": "Marlon Fass",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Tim Rossmann",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Lorenz Ender",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Fabian Eisele",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Loris Maier",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 37,
+   "name": "Leon Schuerer",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}

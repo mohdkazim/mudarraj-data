@@ -1,0 +1,226 @@
+{
+ "team": "de-hansa-rostock",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/fa/teams/8294/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Luca Unbehaun",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "Philipp Klewin",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Yannic Stein",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Jaaso Jantunen",
+   "pos": "GK",
+   "nat": "FI"
+  },
+  {
+   "n": null,
+   "name": "Max Hagemoser",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Florian Bohnert",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "LU"
+  },
+  {
+   "n": 8,
+   "name": "Ouassim Karada",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 15,
+   "name": "Ahmet Gürleyen",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Lukas Wallner",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 17,
+   "name": "Florian Carstens",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Jan Mejdr",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CZ"
+  },
+  {
+   "n": 22,
+   "name": "Leon Reichardt",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Franz Pfanne",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Dario Gebuhr",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 32,
+   "name": "Niklas Kölle",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Nico Neidhart",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Kenan Fatkić",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SI"
+  },
+  {
+   "n": 5,
+   "name": "Marco Schuster",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Jonas Dirkner",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Paul Stock",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "David Kopacz",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PL"
+  },
+  {
+   "n": 37,
+   "name": "Milosz Brzozowski",
+   "pos": "MF",
+   "nat": "PL"
+  },
+  {
+   "n": 42,
+   "name": "Benno Dietze",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Bernie Lennemann",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Andreas Voglsammer",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Emil Holten",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DK"
+  },
+  {
+   "n": 21,
+   "name": "David Hummel",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Peter Kiedl",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AT"
+  },
+  {
+   "n": 35,
+   "name": "Maximilian Krauß",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Fiete Bock",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 41,
+   "name": "Yannick Michaelis",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Leon Dajaku",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  }
+ ]
+}

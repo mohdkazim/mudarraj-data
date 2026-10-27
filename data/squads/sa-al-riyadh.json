@@ -1,0 +1,231 @@
+{
+ "team": "sa-al-riyadh",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/fr/teams/582739/squad/al-riyadh,teams"
+ ],
+ "players": [
+  {
+   "n": 82,
+   "name": "Milan Borjan",
+   "pos": "GK",
+   "nat": "CA"
+  },
+  {
+   "n": 97,
+   "name": "Emad Fidaa",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 2,
+   "name": "Sultan Al Essa",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Yasser Al Musa",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 5,
+   "name": "Hussam Majrashi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 12,
+   "name": "Sulaiman Hazazi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 13,
+   "name": "Osama Al Bawardi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 17,
+   "name": "Abdullah Tarmin",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "SA"
+  },
+  {
+   "n": 23,
+   "name": "Hussain Qassem",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "SA"
+  },
+  {
+   "n": 26,
+   "name": "Rodrigo Abascal",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UY"
+  },
+  {
+   "n": 67,
+   "name": "Mohammed Al Khaibari",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 79,
+   "name": "Fahad Al Jayzani",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Awad Dahal",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Kader Keïta",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CI"
+  },
+  {
+   "n": 11,
+   "name": "Hassan Al Ali",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "SA"
+  },
+  {
+   "n": 16,
+   "name": "Faisal Al Subhi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 18,
+   "name": "Khaled Al Asbahi",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 19,
+   "name": "Hussain Al Shurafaa",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 20,
+   "name": "Tozé",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 22,
+   "name": "Victor Lekhal",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DZ"
+  },
+  {
+   "n": 24,
+   "name": "Abdulilah Al Tale",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 29,
+   "name": "Salman Matar",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 43,
+   "name": "Bernard Mensah",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GH"
+  },
+  {
+   "n": 66,
+   "name": "Majed Nasser Al Qahtani",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 88,
+   "name": "Yahia Al Shehri",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 96,
+   "name": "Cheikh Fall",
+   "pos": "MF",
+   "nat": "SN"
+  },
+  {
+   "n": 7,
+   "name": "Trezeguet",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "EG"
+  },
+  {
+   "n": 10,
+   "name": "Teddy Okou",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "FR"
+  },
+  {
+   "n": 14,
+   "name": "Essam Bahri",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "SA"
+  },
+  {
+   "n": 17,
+   "name": "Hussain Al Raqwani",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 32,
+   "name": "Luca Ramirez",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 77,
+   "name": "Leandro Antunes",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Battal Al Harthi",
+   "pos": "FW",
+   "nat": "SA"
+  }
+ ]
+}

@@ -1,0 +1,242 @@
+{
+ "team": "de-kaiserslautern",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8350/squad/kaiserslautern"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Julian Krahl",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Avdo Spahić",
+   "pos": "GK",
+   "nat": "BA"
+  },
+  {
+   "n": 34,
+   "name": "Yannick Onohiol",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 40,
+   "name": "Enis Kamga",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Alex Murphy",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IE"
+  },
+  {
+   "n": 4,
+   "name": "Maxwell Gyamfi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Kelven Frees",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Jacob Rasmussen",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DK"
+  },
+  {
+   "n": 33,
+   "name": "Jan Elvedi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CH"
+  },
+  {
+   "n": 37,
+   "name": "Leon Robinson",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Hendrick Zuck",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Jean Zimmer",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Simon Asta",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Fabian Kunze",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Marlon Ritter",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Semih Şahin",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 15,
+   "name": "Naatan Skyttä",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FI"
+  },
+  {
+   "n": 21,
+   "name": "Mário Sauer",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SK"
+  },
+  {
+   "n": 22,
+   "name": "Mika Haas",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Paul Joly",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": 38,
+   "name": "Neal Gibs",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "DE"
+  },
+  {
+   "n": 39,
+   "name": "Thierry Fidjeu-Tazemeta",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AT"
+  },
+  {
+   "n": 41,
+   "name": "David Schramm",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 42,
+   "name": "Erik Müller",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Owen Gibs",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 44,
+   "name": "Dion Hofmeister",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 47,
+   "name": "Ben Jungfleisch",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Frank Ronstadt",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Kenny-Prince Redondo",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Ivan Prtajin",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "HR"
+  },
+  {
+   "n": 11,
+   "name": "Ibrahim Kanaté",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ML"
+  },
+  {
+   "n": 17,
+   "name": "Erencan Yardımcı",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "TR"
+  },
+  {
+   "n": 20,
+   "name": "Mërgim Berisha",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 45,
+   "name": "Miloš Luković",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "RS"
+  },
+  {
+   "n": 46,
+   "name": "Kian Scheer",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}

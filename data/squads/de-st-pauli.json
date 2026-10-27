@@ -1,0 +1,198 @@
+{
+ "team": "de-st-pauli",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/ja/teams/8152/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Ben Alexander Voll",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Simon Spari",
+   "pos": "GK",
+   "nat": "AT"
+  },
+  {
+   "n": 33,
+   "name": "Dimitar Mitov",
+   "pos": "GK",
+   "nat": "BG"
+  },
+  {
+   "n": 2,
+   "name": "Rony Jansson",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FI"
+  },
+  {
+   "n": 4,
+   "name": "David Nemeth",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 6,
+   "name": "Marcus Mathisen",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DK"
+  },
+  {
+   "n": 8,
+   "name": "Eric Smith",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SE"
+  },
+  {
+   "n": 15,
+   "name": "Tomoya Andō",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 25,
+   "name": "Adam Dźwigała",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PL"
+  },
+  {
+   "n": 41,
+   "name": "Jannik Westphal",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Branimir Hrgota",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SE"
+  },
+  {
+   "n": 11,
+   "name": "Arkadiusz Pyrka",
+   "pos": "MF",
+   "nat": "PL"
+  },
+  {
+   "n": 16,
+   "name": "Joel Chima Fujita",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 20,
+   "name": "Mathias Rasmussen",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NO"
+  },
+  {
+   "n": 21,
+   "name": "Lars Ritzka",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Samuel Klein",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AU"
+  },
+  {
+   "n": 23,
+   "name": "Louis Oppie",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Connor Metcalfe",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AU"
+  },
+  {
+   "n": 42,
+   "name": "Marwin Schmitz",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Gísli Thórdarson",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IS"
+  },
+  {
+   "n": 7,
+   "name": "Youssoupha Niang",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Abdoulie Ceesay",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GM"
+  },
+  {
+   "n": 14,
+   "name": "Erik Ahlstrand",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SE"
+  },
+  {
+   "n": 17,
+   "name": "Scott Banks",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 18,
+   "name": "Taichi Hara",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 19,
+   "name": "Martijn Kaars",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NL"
+  },
+  {
+   "n": 26,
+   "name": "Ricky-Jade Jones",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 28,
+   "name": "Mathias Pereira Lage",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PT"
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "team": "iq-al-quwa-al-jawiya",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/en-GB/teams/101656/squad/al-quwa-al-jawiya"
+ ],
+ "players": [
+  {
+   "n": 22,
+   "name": "Zainulabdeen Nassif",
+   "pos": "GK",
+   "nat": "IQ"
+  },
+  {
+   "n": 31,
+   "name": "Mohammed Ziyadi",
+   "pos": "GK",
+   "nat": "IQ"
+  },
+  {
+   "n": 95,
+   "name": "Mohammed Salih",
+   "pos": "GK",
+   "nat": "IQ"
+  },
+  {
+   "n": 2,
+   "name": "Ruslan Hanoon",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IQ"
+  },
+  {
+   "n": 3,
+   "name": "Muslim Moussa",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IQ"
+  },
+  {
+   "n": 5,
+   "name": "Saed Al-Rosan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JO"
+  },
+  {
+   "n": 6,
+   "name": "Mohanad Jeahze",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IQ"
+  },
+  {
+   "n": 16,
+   "name": "Moses Orkuma",
+   "pos": "DF",
+   "nat": "NG"
+  },
+  {
+   "n": 17,
+   "name": "Abbas Adel",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "IQ"
+  },
+  {
+   "n": 19,
+   "name": "Achref Boudrama",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DZ"
+  },
+  {
+   "n": 21,
+   "name": "Sipan Sediq",
+   "pos": "DF",
+   "nat": "IQ"
+  },
+  {
+   "n": 90,
+   "name": "Karar Ali Hassan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IQ"
+  },
+  {
+   "n": 8,
+   "name": "Al Hareth Hatam",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IR"
+  },
+  {
+   "n": 13,
+   "name": "Mujtabo Aeel",
+   "pos": "MF",
+   "nat": "IQ"
+  },
+  {
+   "n": 23,
+   "name": "Tomás Andrade",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AR"
+  },
+  {
+   "n": 24,
+   "name": "Abbas Fawzi",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "IQ"
+  },
+  {
+   "n": 25,
+   "name": "Saad Abdul-Amir",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IQ"
+  },
+  {
+   "n": 29,
+   "name": "Tuisila Kisinda",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "CD"
+  },
+  {
+   "n": 40,
+   "name": "Mohammed Yasser",
+   "pos": "MF",
+   "nat": "IQ"
+  },
+  {
+   "n": 77,
+   "name": "Mohammed Sami",
+   "pos": "MF",
+   "nat": "IQ"
+  },
+  {
+   "n": 7,
+   "name": "Anthony Okpotu",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NG"
+  },
+  {
+   "n": 9,
+   "name": "Haythem Jouini",
+   "pos": "FW",
+   "nat": "TN"
+  },
+  {
+   "n": 10,
+   "name": "Mohammed Jawad",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IQ"
+  },
+  {
+   "n": 11,
+   "name": "Murad Mohammad",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": 18,
+   "name": "Ali Akbar Taher",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": 73,
+   "name": "Ali Saad",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Sabri",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Maytham Waad",
+   "pos": "FW",
+   "nat": "IQ"
+  }
+ ]
+}

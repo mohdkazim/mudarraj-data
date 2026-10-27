@@ -1,0 +1,194 @@
+{
+ "team": "gb-eng-chelsea",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/it/teams/8455/squad/chelsea"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Emiliano Martínez",
+   "pos": "GK",
+   "nat": "AR"
+  },
+  {
+   "n": 28,
+   "name": "Teddy Sharman-Lowe",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 39,
+   "name": "Mike Penders",
+   "pos": "GK",
+   "nat": "BE"
+  },
+  {
+   "n": 44,
+   "name": "Gabriel Słonina",
+   "pos": "GK",
+   "nat": "US"
+  },
+  {
+   "n": 3,
+   "name": "Wesley Fofana",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 5,
+   "name": "Maxence Lacroix",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 6,
+   "name": "Levi Colwill",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 21,
+   "name": "Jorrel Hato",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "NL"
+  },
+  {
+   "n": 27,
+   "name": "Malo Gusto",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FR"
+  },
+  {
+   "n": 29,
+   "name": "Pep Chavarría",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 30,
+   "name": "Aaron Anselmino",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 34,
+   "name": "Josh Acheampong",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 2,
+   "name": "Marco Palestra",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IT"
+  },
+  {
+   "n": 4,
+   "name": "Valentín Barco",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AR"
+  },
+  {
+   "n": 10,
+   "name": "Cole Palmer",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 14,
+   "name": "Jordan Henderson",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 17,
+   "name": "Morgan Rogers",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 24,
+   "name": "Reece James",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 25,
+   "name": "Moisés Caicedo",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "EC"
+  },
+  {
+   "n": 45,
+   "name": "Roméo Lavia",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BE"
+  },
+  {
+   "n": 7,
+   "name": "Pedro Neto",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "PT"
+  },
+  {
+   "n": 9,
+   "name": "João Pedro",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Jamie Gittens",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 18,
+   "name": "Danny Welbeck",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 22,
+   "name": "Emanuel Emegha",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NL"
+  },
+  {
+   "n": 23,
+   "name": "Geovany Quenda",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "PT"
+  },
+  {
+   "n": 41,
+   "name": "Estêvão",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  }
+ ]
+}

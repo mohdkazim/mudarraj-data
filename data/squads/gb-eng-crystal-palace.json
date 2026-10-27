@@ -1,0 +1,198 @@
+{
+ "team": "gb-eng-crystal-palace",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9826/squad/undefined,teams,teams"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Dean Henderson",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 31,
+   "name": "Remi Matthews",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 44,
+   "name": "Walter Benítez",
+   "pos": "GK",
+   "nat": "AR"
+  },
+  {
+   "n": 4,
+   "name": "Chadi Riad",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MA"
+  },
+  {
+   "n": 5,
+   "name": "Axel Disasi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 6,
+   "name": "Jaydee Canvot",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 17,
+   "name": "Takehiro Tomiyasu",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 21,
+   "name": "Honest Ahanor",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 26,
+   "name": "Chris Richards",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "US"
+  },
+  {
+   "n": 33,
+   "name": "Ben Chilwell",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 3,
+   "name": "Tyrick Mitchell",
+   "pos": "MF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 7,
+   "name": "Ismaïla Sarr",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SN"
+  },
+  {
+   "n": 8,
+   "name": "Jefferson Lerma",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CO"
+  },
+  {
+   "n": 9,
+   "name": "Edward Nketiah",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 10,
+   "name": "Yéremi Pino",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "Zavier Gozo",
+   "pos": "MF",
+   "nat": "US"
+  },
+  {
+   "n": 18,
+   "name": "Daichi Kamada",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 19,
+   "name": "Will Hughes",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 20,
+   "name": "Adam Wharton",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 23,
+   "name": "Quinten Timber",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NL"
+  },
+  {
+   "n": 24,
+   "name": "Darío Osorio",
+   "pos": "MF",
+   "nat": "CL"
+  },
+  {
+   "n": 25,
+   "name": "Anan Khalaili",
+   "pos": "MF",
+   "nat": "IL"
+  },
+  {
+   "n": 28,
+   "name": "Cheick Oumar Doucouré",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ML"
+  },
+  {
+   "n": 30,
+   "name": "Óscar Mingueza",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Dwight McNeil",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 14,
+   "name": "Jean-Philippe Mateta",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 22,
+   "name": "Jørgen Strand Larsen",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NO"
+  },
+  {
+   "n": 29,
+   "name": "Evann Guessand",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CI"
+  }
+ ]
+}

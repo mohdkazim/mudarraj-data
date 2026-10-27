@@ -1,0 +1,235 @@
+{
+ "team": "gb-eng-hull-city",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8667/squad/teams"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Jack Butland",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 12,
+   "name": "Dillon Phillips",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 19,
+   "name": "Konstantinos Tzolakis",
+   "pos": "GK",
+   "nat": "GR"
+  },
+  {
+   "n": 2,
+   "name": "Lewie Coyle",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 3,
+   "name": "Ryan Giles",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 4,
+   "name": "Charlie Hughes",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 6,
+   "name": "Semi Ajayi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NG"
+  },
+  {
+   "n": 15,
+   "name": "John Egan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IE"
+  },
+  {
+   "n": 17,
+   "name": "Paddy McNair",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-NIR"
+  },
+  {
+   "n": 22,
+   "name": "Lucas Herrington",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AU"
+  },
+  {
+   "n": 23,
+   "name": "Matt Targett",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 32,
+   "name": "Nobel Mendy",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 5,
+   "name": "Hidemasa Morita",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 8,
+   "name": "Eliot Matazo",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BE"
+  },
+  {
+   "n": 11,
+   "name": "Joe Gelhardt",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 14,
+   "name": "Jens Hjertø-Dahl",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NO"
+  },
+  {
+   "n": 18,
+   "name": "Brooke Norton-Cuffy",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 20,
+   "name": "Óscar Zambrano",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "EC"
+  },
+  {
+   "n": 21,
+   "name": "Elliot Stroud",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "SE"
+  },
+  {
+   "n": 24,
+   "name": "Darko Gyabi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 25,
+   "name": "Matt Crooks",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 26,
+   "name": "Kieran Dowell",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 27,
+   "name": "Regan Slater",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 29,
+   "name": "Lucas Gourna-Douath",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FR"
+  },
+  {
+   "n": 33,
+   "name": "Abdülkadir Ömür",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": 36,
+   "name": "Christos Mouzakitis",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GR"
+  },
+  {
+   "n": 42,
+   "name": "Tim Iroegbunam",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 7,
+   "name": "Sorba Thomas",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 9,
+   "name": "Oli McBurnie",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 10,
+   "name": "Mohamed Belloumi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DZ"
+  },
+  {
+   "n": 28,
+   "name": "Ilyas Ansah",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 47,
+   "name": "Robinio Vaz",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 50,
+   "name": "Mohamed-Ali Cho",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "FR"
+  }
+ ]
+}

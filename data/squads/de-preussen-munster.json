@@ -1,0 +1,239 @@
+{
+ "team": "de-preussen-munster",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/vi/teams/8171/squad/preussen-munster"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Morten Behrens",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 38,
+   "name": "Matthis Harsmann",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 40,
+   "name": "Paul Ervens",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Marian Kirsch",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Louis Kolbe",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Tim-Justin Dietrich",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Antonio Tikvić",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HR"
+  },
+  {
+   "n": 5,
+   "name": "Lucas Zeller",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 15,
+   "name": "Simon Scherder",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Torge Paetow",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Niko Koulis",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "Luca Bolay",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 41,
+   "name": "Melih Sayin",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Wesley Adeh",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Joshua Mees",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Marvin Schulz",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Haralambos Makridis",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Mika Stuhlmacher",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Mikail Demirhan",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Ryan Johansson",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "LU"
+  },
+  {
+   "n": 21,
+   "name": "Rico Preißinger",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Philipp Maier",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Jakob Korte",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Montell Ndikom",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Leon Tasov",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "MK"
+  },
+  {
+   "n": 36,
+   "name": "Niklas Varelmann",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Romario Rösch",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 44,
+   "name": "Samuel Althaus",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Tidiane Gueye",
+   "pos": "MF",
+   "nat": "SN"
+  },
+  {
+   "n": 11,
+   "name": "Oscar Vilhelmsson",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SE"
+  },
+  {
+   "n": 23,
+   "name": "Malik Batmaz",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "TR"
+  },
+  {
+   "n": 30,
+   "name": "Marvin Schulz",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Felix Higl",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Luca Steinfeldt",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}

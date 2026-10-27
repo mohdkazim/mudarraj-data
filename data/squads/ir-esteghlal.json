@@ -1,0 +1,180 @@
+{
+ "team": "ir-esteghlal",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/de/teams/101614/squad/undefined,players"
+ ],
+ "players": [
+  {
+   "n": 40,
+   "name": "Ahoora Nabizadeh",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": 60,
+   "name": "Seyed Aria Hosseinifard",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": 76,
+   "name": "Habib Far Abbasi",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": 2,
+   "name": "Saleh Hardani",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IR"
+  },
+  {
+   "n": 5,
+   "name": "Rustam Ashurmatov",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UZ"
+  },
+  {
+   "n": 6,
+   "name": "Saman Fallah",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IR"
+  },
+  {
+   "n": 18,
+   "name": "Abolfazl Zoleikhaei",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": 22,
+   "name": "Saman Touranian",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": 27,
+   "name": "Hossein Goudarzi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IR"
+  },
+  {
+   "n": 44,
+   "name": "Iliya Ebrahimi",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": 45,
+   "name": "Hossein Gharloghi",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": 4,
+   "name": "Roozbeh Cheshmi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IR"
+  },
+  {
+   "n": 8,
+   "name": "Amir Mohammad Razzaghinia",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IR"
+  },
+  {
+   "n": 10,
+   "name": "Jaloliddin Masharipov",
+   "pos": "MF",
+   "nat": "UZ"
+  },
+  {
+   "n": 15,
+   "name": "Abolfazl Zamani",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IR"
+  },
+  {
+   "n": 26,
+   "name": "Mehdi Ghayedi",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 33,
+   "name": "Aref Aghasi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IR"
+  },
+  {
+   "n": 36,
+   "name": "Alireza Mohebali",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 80,
+   "name": "Mohammadhossein Eslami",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IR"
+  },
+  {
+   "n": 88,
+   "name": "Mehran Ahmadi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IR"
+  },
+  {
+   "n": 7,
+   "name": "Jasir Asani",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "AL"
+  },
+  {
+   "n": 9,
+   "name": "Mohammad Reza Azadi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IR"
+  },
+  {
+   "n": 11,
+   "name": "Saeid Saharkhizan",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IR"
+  },
+  {
+   "n": 20,
+   "name": "Alireza Koushki",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IR"
+  },
+  {
+   "n": 37,
+   "name": "Ehsan Kheradpisheh",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 87,
+   "name": "Esmaeil Gholizadeh",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IR"
+  }
+ ]
+}

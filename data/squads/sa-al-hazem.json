@@ -1,0 +1,230 @@
+{
+ "team": "sa-al-hazem",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/101911/squad/al-hazm"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Yazan Al Ruwaili",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 14,
+   "name": "Bruno Varela",
+   "pos": "GK",
+   "nat": "CV"
+  },
+  {
+   "n": 23,
+   "name": "Ibrahim Zaied",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 33,
+   "name": "Majed Al Ghamdi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 36,
+   "name": "Jindřich Staněk",
+   "pos": "GK",
+   "nat": "CZ"
+  },
+  {
+   "n": 2,
+   "name": "Saud Al Rashed",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Mohamed Amine Ben Hmida",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "TN"
+  },
+  {
+   "n": 4,
+   "name": "Sultan Tanker",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 5,
+   "name": "Mohammed Issa",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 8,
+   "name": "Mory Konaté",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GN"
+  },
+  {
+   "n": 12,
+   "name": "Farhan Al Azzmi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 13,
+   "name": "Abdullah Al Shanqiti",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 27,
+   "name": "Ahmed Al Nakhli",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 34,
+   "name": "Abdurahman Al Dakheel",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 70,
+   "name": "Ahmed Al Shamrani",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 82,
+   "name": "Abdulaziz Al Harbi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 95,
+   "name": "Jaser Ateeq",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 17,
+   "name": "Bonheur Mugisha",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "RW"
+  },
+  {
+   "n": 24,
+   "name": "Aboubacar Bah",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GN"
+  },
+  {
+   "n": 28,
+   "name": "Sofiane Bendebka",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DZ"
+  },
+  {
+   "n": 90,
+   "name": "Hassan Idris",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Khalid Al Subaie",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Elton Acolatse",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NL"
+  },
+  {
+   "n": 9,
+   "name": "Afimico Pululu",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CD"
+  },
+  {
+   "n": 10,
+   "name": "Amir Sayoud",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DZ"
+  },
+  {
+   "n": 11,
+   "name": "Waleed Al Shanqiti",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 20,
+   "name": "Nawaf Al Bishri",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 21,
+   "name": "Amadou Bamba Dieng",
+   "pos": "FW",
+   "nat": "SN"
+  },
+  {
+   "n": 22,
+   "name": "Abdulaziz Al Dhuwayhi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  },
+  {
+   "n": 29,
+   "name": "Aboubacar Diakité",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ML"
+  },
+  {
+   "n": 30,
+   "name": "Abdulrazzaq Awaji",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 77,
+   "name": "Mohammed Al Hamdani",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "SA"
+  },
+  {
+   "n": 98,
+   "name": "Ayman Al Hujaili",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  }
+ ]
+}

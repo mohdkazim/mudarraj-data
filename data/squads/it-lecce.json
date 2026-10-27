@@ -1,0 +1,236 @@
+{
+ "team": "it-lecce",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-us/football/team/lecce-246/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Marco Bleve",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 30,
+   "name": "Wladimiro Falcone",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 33,
+   "name": "Plamen Penev",
+   "pos": "GK",
+   "nat": "BG"
+  },
+  {
+   "n": null,
+   "name": "Alexandru Borbei",
+   "pos": "GK",
+   "nat": "RO"
+  },
+  {
+   "n": 2,
+   "name": "Ali Dembélé",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FR"
+  },
+  {
+   "n": 3,
+   "name": "Corrie Ndaba",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IE"
+  },
+  {
+   "n": 4,
+   "name": "Kialonda Gaspar",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AO"
+  },
+  {
+   "n": 5,
+   "name": "Jamil Siebert",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Danilo Veiga",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "PT"
+  },
+  {
+   "n": 18,
+   "name": "Gaby Jean",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 25,
+   "name": "Antonino Gallo",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 31,
+   "name": "Elijah Scott",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "US"
+  },
+  {
+   "n": 36,
+   "name": "Marlon Ubani",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 44,
+   "name": "Tiago Gabriel",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Sebastian Esposito",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Vernon Addo",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "NL"
+  },
+  {
+   "n": 8,
+   "name": "Sadik Fofana",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "TG"
+  },
+  {
+   "n": 10,
+   "name": "Medon Berisha",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AL"
+  },
+  {
+   "n": 14,
+   "name": "Youssef Maleh",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MA"
+  },
+  {
+   "n": 16,
+   "name": "Omri Gandelman",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IL"
+  },
+  {
+   "n": 20,
+   "name": "Ivan Ilić",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "RS"
+  },
+  {
+   "n": 28,
+   "name": "Olaf Gorter",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NL"
+  },
+  {
+   "n": 29,
+   "name": "Lassana Coulibaly",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ML"
+  },
+  {
+   "n": 77,
+   "name": "Mohamed Kaba",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GN"
+  },
+  {
+   "n": 79,
+   "name": "Oumar Ngom",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "MR"
+  },
+  {
+   "n": 80,
+   "name": "Niko Kovač",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BA"
+  },
+  {
+   "n": 99,
+   "name": "Joel Monteiro",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "CH"
+  },
+  {
+   "n": 7,
+   "name": "Amar Fatah",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "SE"
+  },
+  {
+   "n": 9,
+   "name": "Nikola Stulic",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "RS"
+  },
+  {
+   "n": 11,
+   "name": "Konan N'Dri",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "NE"
+  },
+  {
+   "n": 22,
+   "name": "Paco Esteban",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 50,
+   "name": "Santiago Pierotti",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "AR"
+  },
+  {
+   "n": 69,
+   "name": "Willem Geubbels",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  }
+ ]
+}

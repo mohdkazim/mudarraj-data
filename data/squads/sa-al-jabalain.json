@@ -1,0 +1,179 @@
+{
+ "team": "sa-al-jabalain",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/1115133/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Abdul Rahman Al Ghubaini",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 30,
+   "name": "Mohammed Al Waked",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Fahad Al Harbi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 4,
+   "name": "Ahmad Al Mhemaid",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 5,
+   "name": "Ibrahim Musa Al Nakhli",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 27,
+   "name": "Hussain Al Nuweqi",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "SA"
+  },
+  {
+   "n": 33,
+   "name": "Abdulelah Al Bukhari",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "SA"
+  },
+  {
+   "n": 55,
+   "name": "Zaid Al Shammari",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "SA"
+  },
+  {
+   "n": 78,
+   "name": "Ali Al Mzyad",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 87,
+   "name": "Ghassan Hawsawi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 88,
+   "name": "Ibrahim Hussain Al Nakhli",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Sattam Al Ruqi",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "SA"
+  },
+  {
+   "n": 8,
+   "name": "Yannick Semedo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CV"
+  },
+  {
+   "n": 17,
+   "name": "Hassan Al Majhad",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 18,
+   "name": "Khaled Al Shammari",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 19,
+   "name": "Yazeed Al Rshaidan",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 28,
+   "name": "Carlos Daniel",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 6,
+   "name": "Abdulmalik Al Harbi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  },
+  {
+   "n": 9,
+   "name": "Saleh Al Rahmani",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 10,
+   "name": "Ênio",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Al Mutasim Sediq",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 61,
+   "name": "Rasheed Akanbi",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NG"
+  },
+  {
+   "n": 71,
+   "name": "Hussain Al Sultan",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 90,
+   "name": "Luvannor",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MD"
+  },
+  {
+   "n": 99,
+   "name": "Majed Khalifa",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  }
+ ]
+}

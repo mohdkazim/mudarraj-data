@@ -1,0 +1,246 @@
+{
+ "team": "de-holstein-kiel",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8150/squad/holstein-kiel"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Timon Weiner",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Marcel Engelhardt",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 41,
+   "name": "Lio Rothenhagen",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Frederik Roslyng",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DK"
+  },
+  {
+   "n": 3,
+   "name": "Niko Takahashi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "JP"
+  },
+  {
+   "n": 4,
+   "name": "Sebastian Schonlau",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Carl Johansson",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SE"
+  },
+  {
+   "n": 5,
+   "name": "Noah Madsen",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DK"
+  },
+  {
+   "n": 13,
+   "name": "Ivan Nekić",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HR"
+  },
+  {
+   "n": 23,
+   "name": "Lasse Rosenboom",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "David Zec",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SI"
+  },
+  {
+   "n": 32,
+   "name": "Hiroki Sekine",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "JP"
+  },
+  {
+   "n": 40,
+   "name": "Leon Parduzi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "XK"
+  },
+  {
+   "n": 43,
+   "name": "Lenny Borges",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 46,
+   "name": "Caspar Medlin",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 47,
+   "name": "John Tolkin",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "US"
+  },
+  {
+   "n": 4,
+   "name": "Patrick Erras",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Steven Skrzybski",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Guillermo Balzi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AR"
+  },
+  {
+   "n": 10,
+   "name": "Jonas Torrissen Therkelsen",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "NO"
+  },
+  {
+   "n": 15,
+   "name": "Kasper Davidsen",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DK"
+  },
+  {
+   "n": 16,
+   "name": "Andu Yobel Kelati",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Taisei Abe",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 27,
+   "name": "Ikem Ugoh",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Jonas Meffert",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Tayar Tasdelen",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Till Wiese",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 44,
+   "name": "Mark Richter Monserrat",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 48,
+   "name": "Hamza Muqaj",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "XK"
+  },
+  {
+   "n": 9,
+   "name": "Giorgi Kvilitaia",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GE"
+  },
+  {
+   "n": 11,
+   "name": "Gyan de Regt",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NL"
+  },
+  {
+   "n": 17,
+   "name": "Faride Alidou",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Phil Harres",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Adrián Kaprálik",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SK"
+  },
+  {
+   "n": 22,
+   "name": "Moritz Reimers",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  }
+ ]
+}

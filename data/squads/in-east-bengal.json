@@ -1,0 +1,253 @@
+{
+ "team": "in-east-bengal",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/165184/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Phurba Lachenpa",
+   "pos": "GK",
+   "nat": "IN"
+  },
+  {
+   "n": 13,
+   "name": "Prabhsukhan Gill",
+   "pos": "GK",
+   "nat": "IN"
+  },
+  {
+   "n": 95,
+   "name": "Gourab Shaw",
+   "pos": "GK",
+   "nat": "IN"
+  },
+  {
+   "n": 3,
+   "name": "Hardik Bhatt",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IN"
+  },
+  {
+   "n": 4,
+   "name": "Anwar Ali",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IN"
+  },
+  {
+   "n": 5,
+   "name": "Lal Chungnunga",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IN"
+  },
+  {
+   "n": 12,
+   "name": "Mohamad Rakip",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IN"
+  },
+  {
+   "n": 17,
+   "name": "Boris Singh",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IN"
+  },
+  {
+   "n": 18,
+   "name": "Narender Gahlot",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IN"
+  },
+  {
+   "n": 21,
+   "name": "Diego Živulić",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HR"
+  },
+  {
+   "n": 24,
+   "name": "Nacho Monsalve",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 25,
+   "name": "Jeakson Singh",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IN"
+  },
+  {
+   "n": 27,
+   "name": "Jay Gupta",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IN"
+  },
+  {
+   "n": 34,
+   "name": "Sandip Mandi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IN"
+  },
+  {
+   "n": 85,
+   "name": "Chaku Mandi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IN"
+  },
+  {
+   "n": 90,
+   "name": "Joseph Justin",
+   "pos": "DF",
+   "nat": "IN"
+  },
+  {
+   "n": 6,
+   "name": "Rohit Kumar",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IN"
+  },
+  {
+   "n": 7,
+   "name": "Vishnu Puthiya",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "IN"
+  },
+  {
+   "n": 10,
+   "name": "Edmund Lalrindika",
+   "pos": "MF",
+   "nat": "IN"
+  },
+  {
+   "n": 11,
+   "name": "Dani Ramírez",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Mahesh Naorem",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IN"
+  },
+  {
+   "n": 16,
+   "name": "Martand Raina",
+   "pos": "MF",
+   "nat": "IN"
+  },
+  {
+   "n": 19,
+   "name": "Rohit Danu",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "IN"
+  },
+  {
+   "n": 20,
+   "name": "Raynier Fernandes",
+   "pos": "MF",
+   "nat": "IN"
+  },
+  {
+   "n": 23,
+   "name": "Souvik Chakrabarti",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IN"
+  },
+  {
+   "n": 29,
+   "name": "Bipin Singh",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IN"
+  },
+  {
+   "n": 30,
+   "name": "Guite Vanlalpeka",
+   "pos": "MF",
+   "nat": "IN"
+  },
+  {
+   "n": 36,
+   "name": "Asif Khan",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IN"
+  },
+  {
+   "n": 74,
+   "name": "Mohammed Rashid",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PS"
+  },
+  {
+   "n": null,
+   "name": "Danish Farooq",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IN"
+  },
+  {
+   "n": 8,
+   "name": "Chris Ikonomidis",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AU"
+  },
+  {
+   "n": 9,
+   "name": "Effiong Nsungusi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NG"
+  },
+  {
+   "n": 14,
+   "name": "David Lalhlansanga",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IN"
+  },
+  {
+   "n": 22,
+   "name": "Jesin Thonikkara",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IN"
+  },
+  {
+   "n": 90,
+   "name": "Aké Loba",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CI"
+  },
+  {
+   "n": 99,
+   "name": "Łukasz Zwoliński",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PL"
+  }
+ ]
+}

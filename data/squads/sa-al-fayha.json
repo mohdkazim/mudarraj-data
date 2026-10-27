@@ -1,0 +1,210 @@
+{
+ "team": "sa-al-fayha",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/582749/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Abdulraouf Al Duqayl",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 13,
+   "name": "Sattam Al Shammari",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 31,
+   "name": "Osama Al Thumayri",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 52,
+   "name": "Orlando Mosquera",
+   "pos": "GK",
+   "nat": "PA"
+  },
+  {
+   "n": 2,
+   "name": "Makhir Al Rashidi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 12,
+   "name": "Turki Al Jaadi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 15,
+   "name": "Paulo Oliveira",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 21,
+   "name": "Ziyad Al Sahafi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 22,
+   "name": "Mohammed Al Baqawi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 24,
+   "name": "Ahmed Bamasud",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 42,
+   "name": "Ali Dhafer Al Harshan",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 47,
+   "name": "Mohammed Al Dowaish",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "SA"
+  },
+  {
+   "n": 77,
+   "name": "Rayan Enad",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Omar Colley",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GM"
+  },
+  {
+   "n": 5,
+   "name": "Hugo Moura",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BR"
+  },
+  {
+   "n": 6,
+   "name": "Al Hussain Boulahrech",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Nawaf Al Harthi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 14,
+   "name": "Mansor Al Beshe",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 20,
+   "name": "Abdullah Al Qahtani",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "SA"
+  },
+  {
+   "n": 29,
+   "name": "Al Baraa Adawi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 30,
+   "name": "Alfa Semedo",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GW"
+  },
+  {
+   "n": 40,
+   "name": "Yago",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 43,
+   "name": "Fahad Majed Alhubayshi",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulhadi Al Harajin",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 9,
+   "name": "Malek Al Abadalmanam",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 10,
+   "name": "Fashion Sakala",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ZM"
+  },
+  {
+   "n": 17,
+   "name": "Lázaro",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 23,
+   "name": "Jason",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 27,
+   "name": "Sultan Al Jabri",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  },
+  {
+   "n": 41,
+   "name": "Ammar Al Khaibari",
+   "pos": "FW",
+   "nat": "SA"
+  }
+ ]
+}

@@ -1,0 +1,219 @@
+{
+ "team": "it-palermo",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8540/squad/palermo"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Alfred Gomis",
+   "pos": "GK",
+   "nat": "SN"
+  },
+  {
+   "n": 1,
+   "name": "Mattia Perin",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 12,
+   "name": "Manfredi Nespola",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 14,
+   "name": "Mattia Fortin",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 63,
+   "name": "Nils Balagušs",
+   "pos": "GK",
+   "nat": "LV"
+  },
+  {
+   "n": 66,
+   "name": "Jesse Joronen",
+   "pos": "GK",
+   "nat": "FI"
+  },
+  {
+   "n": 13,
+   "name": "Mattia Bani",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 15,
+   "name": "Ettore Karol Nicolosi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": 29,
+   "name": "Patryk Peda",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PL"
+  },
+  {
+   "n": 32,
+   "name": "Pietro Ceccaroni",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 84,
+   "name": "Tommaso Cassandro",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 93,
+   "name": "Federico Barba",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 96,
+   "name": "Giangiacomo Magnani",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 3,
+   "name": "Tommaso Augello",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 5,
+   "name": "Antonio Palumbo",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 6,
+   "name": "Claudio Gomes",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FR"
+  },
+  {
+   "n": 8,
+   "name": "Jacopo Segre",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 10,
+   "name": "Filippo Ranocchia",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 11,
+   "name": "Emmanuel Quartsin Gyasi",
+   "pos": "MF",
+   "nat": "GH"
+  },
+  {
+   "n": 18,
+   "name": "Pietro Avena",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 23,
+   "name": "Hernani",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": 24,
+   "name": "Nahuel Estévez",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AR"
+  },
+  {
+   "n": 27,
+   "name": "Niccolò Pierozzi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 33,
+   "name": "Andrea Bozzolan",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 36,
+   "name": "Luca Mazzitelli",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 80,
+   "name": "Salvatore Squillacioti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Valerio Brutto",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 7,
+   "name": "Gabriel Strefezza",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 9,
+   "name": "Dominic Vavassori",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "IT"
+  },
+  {
+   "n": 17,
+   "name": "Dennis Tørset Johnsen",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NO"
+  },
+  {
+   "n": 20,
+   "name": "Joel Pohjanpalo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FI"
+  },
+  {
+   "n": 99,
+   "name": "Alessandro Gabrielloni",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  }
+ ]
+}
