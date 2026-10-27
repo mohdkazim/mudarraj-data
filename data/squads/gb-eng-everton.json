@@ -1,0 +1,135 @@
+{
+ "team": "gb-eng-everton",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/en-GB/teams/8668/overview/undefined"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Jordan Pickford",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Mark Travers",
+   "pos": "GK",
+   "nat": "IE"
+  },
+  {
+   "n": null,
+   "name": "Tom King",
+   "pos": "GK",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": null,
+   "name": "Ainsley Maitland-Niles",
+   "pos": "DF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Jake O'Brien",
+   "pos": "DF",
+   "nat": "IE"
+  },
+  {
+   "n": null,
+   "name": "James Tarkowski",
+   "pos": "DF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Jarrad Branthwaite",
+   "pos": "DF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Merlin Röhl",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Michael Keane",
+   "pos": "DF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Vitaliy Mykolenko",
+   "pos": "DF",
+   "nat": "UA"
+  },
+  {
+   "n": null,
+   "name": "Charly Alcaraz",
+   "pos": "MF",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Christian Nørgaard",
+   "pos": "MF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Harrison Armstrong",
+   "pos": "MF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Hayden Hackney",
+   "pos": "MF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "James Garner",
+   "pos": "MF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Kiernan Dewsbury-Hall",
+   "pos": "MF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Brennan Johnson",
+   "pos": "FW",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": null,
+   "name": "Jack Grealish",
+   "pos": "FW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Thierno Barry",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Tyler Dibling",
+   "pos": "FW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Tyrique George",
+   "pos": "FW",
+   "nat": "GB-ENG"
+  }
+ ]
+}

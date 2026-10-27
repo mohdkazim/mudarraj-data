@@ -1,0 +1,141 @@
+{
+ "team": "sa-al-okhdood",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/582759/overview/al-akhdoud"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Ali Al Amri",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Rakan Najjar",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Saad Al Qarni",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Alex Nascimento",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Hassan Al Harbi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Abu Abdul",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Nawaf Al Hawsawi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Hazazi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Al Daghrir",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Ali Majrashi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Ashi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Nayef",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Qahtani",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Nasser Al Bishi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Rui Pedro",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Saif Balhareth",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Saud Salem",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Agi Dambelley",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Balla Sangaré",
+   "pos": "FW",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Khaled Al Lazam",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Saleh Al Abbas",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Zinho Gano",
+   "pos": "FW",
+   "nat": "GW"
+  }
+ ]
+}

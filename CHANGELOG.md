@@ -3762,3 +3762,10 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad sa-al-zulfi squad added (22 players)
   - ✓ squad sa-damac squad added (25 players)
   - ✓ squad sa-jeddah-club squad added (30 players)
+
+## 2026-10-27 (2026-10-27T19:04:18.290Z)
+- 4 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad gb-eng-everton squad added (21 players)
+  - ✓ squad de-union-berlin squad added (30 players)
+  - ✓ squad sa-al-okhdood squad added (22 players)
+  - ✓ squad sa-al-orobah squad added (29 players)

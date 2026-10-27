@@ -1,0 +1,189 @@
+{
+ "team": "de-union-berlin",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/8149/overview"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Carl Klaus",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Frederik Rønnow",
+   "pos": "GK",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Matheo Raab",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Andrik Markgraf",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Felix Uduokhai",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Josip Juranović",
+   "pos": "DF",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Leopold Querfeld",
+   "pos": "DF",
+   "nat": "AT"
+  },
+  {
+   "n": null,
+   "name": "Marvin Friedrich",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Stanley N'Soki",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Tom Rothe",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Zeno Van Den Bosch",
+   "pos": "DF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Aljoscha Kemlein",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "András Schäfer",
+   "pos": "MF",
+   "nat": "HU"
+  },
+  {
+   "n": null,
+   "name": "Christopher Trimmel",
+   "pos": "MF",
+   "nat": "AT"
+  },
+  {
+   "n": null,
+   "name": "Derrick Köhn",
+   "pos": "MF",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Janik Haberer",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Julien Friedrich",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Kastriot Imeri",
+   "pos": "MF",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Linus Guether",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Michel Aebischer",
+   "pos": "MF",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Rani Khedira",
+   "pos": "MF",
+   "nat": "TN"
+  },
+  {
+   "n": null,
+   "name": "Robert Skov",
+   "pos": "MF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Woo-Yeong Jeong",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": null,
+   "name": "Andrej Ilić",
+   "pos": "FW",
+   "nat": "RS"
+  },
+  {
+   "n": null,
+   "name": "Emmanuel Latte Lath",
+   "pos": "FW",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Livan Burcu",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Marin Ljubičić",
+   "pos": "FW",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Mekhi Gray",
+   "pos": "FW",
+   "nat": "JM"
+  },
+  {
+   "n": null,
+   "name": "Oliver Burke",
+   "pos": "FW",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": null,
+   "name": "Tim Skarke",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}
