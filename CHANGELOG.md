@@ -3576,3 +3576,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad de-wurzburger-kickers squad added (34 players); 1 note(s): shirt number(s) used twice: 16, 19 (as the page lists them)
   - ✓ squad dk-copenhagen squad added (24 players)
   - ✓ squad es-girona squad added (32 players)
+
+## 2026-10-27 (2026-10-27T17:49:52.144Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad ae-al-wahda squad updated (38 players, was 38)
