@@ -3412,3 +3412,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad sk-slovan-bratislava squad added (29 players)
   - ✓ squad kr-daejeon-hana-citizen squad added (35 players)
   - ✓ squad my-johor-darul-ta-zim squad added (51 players); 1 note(s): shirt number(s) used twice: 13, 81, 7, 21, 77 (as the page lists them)
+
+## 2026-10-27 (2026-10-27T16:39:49Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result saudi-pro-league-2026-27-regular-r08-sa-abha-sa-al-faisaly 0-1 FT

@@ -1,0 +1,9 @@
+{
+  "run": "2026-10-27T16:39:49Z",
+  "changes": [
+    { "op": "result", "match": "saudi-pro-league-2026-27-regular-r08-sa-abha-sa-al-faisaly", "status": "FT", "score": [0,1], "ht": [0,0],
+      "goals": [ { "minute": 70, "side": "away", "player": "Flavio", "type": "goal" } ],
+      "sources": ["https://www.365scores.com/en-us/football/match/saudi-league-649/abha-club-al-faysaly-8949-14898-649"] }
+  ],
+  "unconfirmed": []
+}

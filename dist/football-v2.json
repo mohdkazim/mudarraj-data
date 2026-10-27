@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-27T16:23:43.067Z",
+ "generatedAt": "2026-10-27T16:40:38.433Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 696,
+  "results": 697,
   "pending": 0
  },
  "teams": [
@@ -55070,8 +55070,15 @@
    "away": "sa-al-faisaly",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Prince Sultan bin Abdulaziz Sports City Stadium",
@@ -55084,10 +55091,17 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261027&lang=en&region=us",
-    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
-    "https://www.spl.com.sa/en/news/spl-announces-postponement-of-abha-s-home-match-with-al-faisaly"
+    "https://www.365scores.com/en-us/football/match/saudi-league-649/abha-club-al-faysaly-8949-14898-649"
    ],
+   "goals": [
+    {
+     "minute": 70,
+     "side": "away",
+     "player": "Flavio",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-27T16:40:38.312Z",
    "venueFrom": "home-ground"
   },
   {
