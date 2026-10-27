@@ -1,0 +1,193 @@
+{
+ "team": "es-real-betis",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8603/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Álvaro Vallés",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Diego Conde",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Héctor Bellerín",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 3,
+   "name": "Diego Llorente",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Natan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 5,
+   "name": "Marc Bartra",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Fran García",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "Ángel Ortiz",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Valentín Gómez",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AR"
+  },
+  {
+   "n": 23,
+   "name": "Júnior Firpo",
+   "pos": "DF",
+   "role": "LB"
+  },
+  {
+   "n": 24,
+   "name": "Aitor Ruibal",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Facundo Bernal",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "UY"
+  },
+  {
+   "n": 8,
+   "name": "Pablo Fornals",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Iker Losada",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Álvaro Fidalgo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MX"
+  },
+  {
+   "n": 18,
+   "name": "Nelson Deossa",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CO"
+  },
+  {
+   "n": 20,
+   "name": "Giovani Lo Celso",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AR"
+  },
+  {
+   "n": 21,
+   "name": "Marc Roca",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Isco",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 25,
+   "name": "Dani Ceballos",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Antony",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 9,
+   "name": "Juan Hernández",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CO"
+  },
+  {
+   "n": 10,
+   "name": "Abdessamad Ezzalzouli",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "MA"
+  },
+  {
+   "n": 17,
+   "name": "Rodrigo Riquelme",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Troy Parrott",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IE"
+  },
+  {
+   "n": 27,
+   "name": "José Antonio Morante",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Dylan Vanney",
+   "pos": "FW",
+   "nat": "US"
+  }
+ ]
+}

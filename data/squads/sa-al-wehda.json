@@ -1,0 +1,192 @@
+{
+ "team": "sa-al-wehda",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/6354/squad/al-wehda"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Abdullah Al Owaishir",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 34,
+   "name": "Jassim Al Ashban",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 44,
+   "name": "Abdulrahman Al Shammari",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 60,
+   "name": "Khaled Al Sharif",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Ali Al Salem",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "SA"
+  },
+  {
+   "n": 5,
+   "name": "Rawaf Al Maqadi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Adel Khodari",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 14,
+   "name": "Bandar Darwish",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 19,
+   "name": "Saad Al Qahtani",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 66,
+   "name": "Bander Whaeshi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 67,
+   "name": "Yahya Kharmi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 99,
+   "name": "Saif Al Amri",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Ahmed Al Juwaid",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 11,
+   "name": "Muralha",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": 16,
+   "name": "Dino Halilović",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "HR"
+  },
+  {
+   "n": 18,
+   "name": "Mohammed Al Qunayan",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 20,
+   "name": "Khaled Majrashi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 23,
+   "name": "Abdulaziz Majrashi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 24,
+   "name": "Salem Al Maqadi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 29,
+   "name": "Fahad Al Taleb",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 30,
+   "name": "Hazem Abdulrahim",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "EG"
+  },
+  {
+   "n": 9,
+   "name": "Peter Olayinka",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NG"
+  },
+  {
+   "n": 12,
+   "name": "Abdulaziz Makin",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "SA"
+  },
+  {
+   "n": 12,
+   "name": "Morato",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 17,
+   "name": "Satam Al Lehiyani",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 20,
+   "name": "Darwin González",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "VE"
+  },
+  {
+   "n": null,
+   "name": "Majed Abdullah",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "team": "es-racing-santander",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8696/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Simon Eriksson",
+   "pos": "GK",
+   "nat": "SE"
+  },
+  {
+   "n": 13,
+   "name": "Julen Agirrezabala",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Álvaro Mantilla",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Manu",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Pablo Ramón",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Facundo González",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UY"
+  },
+  {
+   "n": 17,
+   "name": "Jorge Salinas",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Pedro Felipe",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 24,
+   "name": "Jeanuël Belocian",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 3,
+   "name": "Aarón Martín",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Íñigo Sainz-Maza",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "André Almeida",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 14,
+   "name": "Maguette Gueye",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SN"
+  },
+  {
+   "n": 18,
+   "name": "Matteo Prati",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 20,
+   "name": "Sergio Canales",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Iván Martin",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Giorgi Guliashvili",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GE"
+  },
+  {
+   "n": 9,
+   "name": "Juan Carlos Arana",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Iñigo Vicente",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Andrés Martin",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "Asier Villalibre",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Pablo García",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Iker Luque",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Yassir Zabiri",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  }
+ ]
+}

@@ -1,0 +1,233 @@
+{
+ "team": "kr-fc-seoul",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/ro/teams/92630/squad/fc-seoul"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Lim Jun-Sub",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 25,
+   "name": "Gu Sung-Yun",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 31,
+   "name": "Kang Hyeon-Mu",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 71,
+   "name": "Yun Ki-Wook",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": null,
+   "name": "Baek Jong-Beom",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 4,
+   "name": "Lee Sang-Min",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 5,
+   "name": "Yazan Al Arab",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JO"
+  },
+  {
+   "n": 16,
+   "name": "Choi Jun",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 17,
+   "name": "Ahn Jae-Min",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 20,
+   "name": "Lee Han-Do",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 22,
+   "name": "Kim Jin-Su",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "KR"
+  },
+  {
+   "n": 37,
+   "name": "Juan Antonio Ros",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 40,
+   "name": "Park Seong-Hoon",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 66,
+   "name": "Park Soo-Il",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 6,
+   "name": "Hrvoje Babec",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "HR"
+  },
+  {
+   "n": 8,
+   "name": "Lee Seung-Mo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 14,
+   "name": "Jeong Hyeon-Woo",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 21,
+   "name": "Jung Ha-Won",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 23,
+   "name": "Ko Pil-Gwan",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 24,
+   "name": "Kim Min-Jun",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 27,
+   "name": "Moon Seon-Min",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 36,
+   "name": "Kim Jee-Won",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 41,
+   "name": "Hwang Do-Yun",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 42,
+   "name": "Son Jeong-Beom",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 73,
+   "name": "Shin Ji-Seop",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 88,
+   "name": "Park Jang Han-Gyeol",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 7,
+   "name": "Jeong Seung-Won",
+   "pos": "FW",
+   "nat": "KR"
+  },
+  {
+   "n": 9,
+   "name": "Patryk Klimala",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PL"
+  },
+  {
+   "n": 10,
+   "name": "Anderson Oliveira",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Leonardo Ruiz",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CO"
+  },
+  {
+   "n": 18,
+   "name": "Cho Young-Wook",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 19,
+   "name": "Cheon Seong-Hoon",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 47,
+   "name": "Jeong Hyeon-Ung",
+   "pos": "FW",
+   "nat": "KR"
+  },
+  {
+   "n": 99,
+   "name": "Gbato Samuel",
+   "pos": "FW",
+   "nat": "CI"
+  }
+ ]
+}

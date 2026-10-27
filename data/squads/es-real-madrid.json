@@ -1,0 +1,187 @@
+{
+ "team": "es-real-madrid",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8633/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Thibaut Courtois",
+   "pos": "GK",
+   "nat": "BE"
+  },
+  {
+   "n": 13,
+   "name": "Andriy Lunin",
+   "pos": "GK",
+   "nat": "UA"
+  },
+  {
+   "n": 2,
+   "name": "Raúl Asencio",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 3,
+   "name": "Éder Militao",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 4,
+   "name": "Dean Huijsen",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "Trent Alexander-Arnold",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 16,
+   "name": "Ibrahima Konaté",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 17,
+   "name": "Marc Cucurella",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 18,
+   "name": "Alvaro Carreras",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Antonio Rüdiger",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Ferland Mendy",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "FR"
+  },
+  {
+   "n": 24,
+   "name": "Denzel Dumfries",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "NL"
+  },
+  {
+   "n": 5,
+   "name": "Jude Bellingham",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 6,
+   "name": "Eduardo Camavinga",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FR"
+  },
+  {
+   "n": 8,
+   "name": "Federico Valverde",
+   "pos": "MF",
+   "nat": "UY"
+  },
+  {
+   "n": 14,
+   "name": "Aurélien Tchouaméni",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 15,
+   "name": "Arda Güler",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "TR"
+  },
+  {
+   "n": 20,
+   "name": "Bernardo Silva",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PT"
+  },
+  {
+   "n": 27,
+   "name": "Thiago Pitarch",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Vinícius Júnior",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 9,
+   "name": "Endrick",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Kylian Mbappé",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 11,
+   "name": "Rodrygo",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": 19,
+   "name": "Carlos Espí",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Brahim Díaz",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "MA"
+  },
+  {
+   "n": 25,
+   "name": "Yan Diomande",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CI"
+  }
+ ]
+}

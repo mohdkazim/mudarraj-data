@@ -1,0 +1,175 @@
+{
+ "team": "es-villarreal",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/10205/squad/villarreal"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Luíz Júnior",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": 25,
+   "name": "Péter Gulácsi",
+   "pos": "GK",
+   "nat": "HU"
+  },
+  {
+   "n": 2,
+   "name": "Logan Costa",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CV"
+  },
+  {
+   "n": 3,
+   "name": "Alex Freeman",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "US"
+  },
+  {
+   "n": 6,
+   "name": "Pau Navarro",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Juan Foyth",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 12,
+   "name": "Renato Veiga",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 15,
+   "name": "Santiago Mouriño",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "UY"
+  },
+  {
+   "n": 20,
+   "name": "Carlos Romero",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Sergi Cardona",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Alassane Diatta",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "SN"
+  },
+  {
+   "n": 10,
+   "name": "Alberto Moleiro",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Santi Comesaña",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Carlos Maciá",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Tajon Buchanan",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "CA"
+  },
+  {
+   "n": 18,
+   "name": "Pape Gueye",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SN"
+  },
+  {
+   "n": 19,
+   "name": "Nicolas Pépé",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "CI"
+  },
+  {
+   "n": 24,
+   "name": "Nathan Saliba",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CA"
+  },
+  {
+   "n": 7,
+   "name": "Gerard Moreno",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Georges Mikautadze",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GE"
+  },
+  {
+   "n": 11,
+   "name": "Ilias Akhomach",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "MA"
+  },
+  {
+   "n": 21,
+   "name": "Tani Oluwaseyi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CA"
+  },
+  {
+   "n": 22,
+   "name": "Ayoze Pérez",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 28,
+   "name": "Joselillo Gaitán",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  }
+ ]
+}

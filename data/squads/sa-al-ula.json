@@ -1,0 +1,219 @@
+{
+ "team": "sa-al-ula",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/1793879/squad/al-ula-fc"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Ahmed Al Jubaya",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 13,
+   "name": "Abdulquddus Atiah",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 37,
+   "name": "Faris Afandy",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 2,
+   "name": "Ali Al Zubaidi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 2,
+   "name": "Yasser Yaqoub Ibrahim",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 4,
+   "name": "Yousef Haqawi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 5,
+   "name": "Yoann Barbet",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 14,
+   "name": "Fahad Jumayah",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 23,
+   "name": "Abdulrahman Al Obaid",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 24,
+   "name": "Ammar Al Dohaim",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 26,
+   "name": "Mohammed Hawsawi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 27,
+   "name": "Hamdan Al Shamrani",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 49,
+   "name": "Ahmed Al Zain",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 66,
+   "name": "Khaled Al Ruwaily",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "André Horta",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PT"
+  },
+  {
+   "n": 8,
+   "name": "Abdulmajeed Al Sulayhim",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 11,
+   "name": "Zaid Al Enezi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 19,
+   "name": "Abdulaziz Al Hatila",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 29,
+   "name": "Mohammed Al Majhad",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 30,
+   "name": "Damyan Yordanov",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BG"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Abbas Al Nakhli",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Nasser Al Hadhood",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Aseel Abdul Razzaq",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Badr Al Omair",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 9,
+   "name": "Abdulfattah Adam",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 10,
+   "name": "Ayman Al Khulaif",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "SA"
+  },
+  {
+   "n": 67,
+   "name": "Romell Quioto",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "HN"
+  },
+  {
+   "n": 88,
+   "name": "Sumayhan Al Nabit",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "SA"
+  },
+  {
+   "n": 91,
+   "name": "Sylla Sow",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NL"
+  },
+  {
+   "n": 96,
+   "name": "Michael",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Thaar Al Otaibi",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "SA"
+  }
+ ]
+}

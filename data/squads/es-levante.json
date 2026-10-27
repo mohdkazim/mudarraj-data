@@ -1,0 +1,179 @@
+{
+ "team": "es-levante",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8581/squad/teams"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Pablo Campos",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Mathew Ryan",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": 2,
+   "name": "Aïssa Mandi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DZ"
+  },
+  {
+   "n": 3,
+   "name": "Ifeanyi Ndukwe",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 4,
+   "name": "Adrián De La Fuente",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Jorge Cabello",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Axel Tape",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": 22,
+   "name": "Jeremy Toljan",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Manuel Sánchez",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 29,
+   "name": "Nacho Pérez",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 33,
+   "name": "Marc Santos",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Hugo Sotelo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Dani Requena",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Jon Olasagasti",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 18,
+   "name": "Enzo Bardeli",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 20,
+   "name": "Oriol Rey",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Roger Brugué",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Iván Romero",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Petar Ratkov",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "RS"
+  },
+  {
+   "n": 11,
+   "name": "Yanis Musuayi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BE"
+  },
+  {
+   "n": 17,
+   "name": "Víctor García",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Etta Eyong",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CM"
+  },
+  {
+   "n": 24,
+   "name": "Thiago Fernández",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AR"
+  },
+  {
+   "n": 27,
+   "name": "Paco Cortés",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Jorge de Asís",
+   "pos": "FW",
+   "nat": "AR"
+  }
+ ]
+}

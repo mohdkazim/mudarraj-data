@@ -1,0 +1,195 @@
+{
+ "team": "es-rayo-vallecano",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8370/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Dani Cárdenas",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Augusto Batalla",
+   "pos": "GK",
+   "nat": "AR"
+  },
+  {
+   "n": 25,
+   "name": "Emil Audero",
+   "pos": "GK",
+   "nat": "ID"
+  },
+  {
+   "n": 2,
+   "name": "Andrei Rațiu",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "RO"
+  },
+  {
+   "n": 3,
+   "name": "Marash Kumbulla",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AL"
+  },
+  {
+   "n": 5,
+   "name": "Luiz Felipe",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 15,
+   "name": "Mujaid Sadick",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Adrià Pedrosa",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 20,
+   "name": "Iván Balliu",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AL"
+  },
+  {
+   "n": 22,
+   "name": "Pelayo Fernández",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 24,
+   "name": "Florian Lejeune",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 33,
+   "name": "Jozhua Vertrouwd",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "NL"
+  },
+  {
+   "n": 4,
+   "name": "Pedro Díaz",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Pathé Ciss",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SN"
+  },
+  {
+   "n": 7,
+   "name": "Isi Palazón",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Unai López",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Óscar Valentín",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 36,
+   "name": "Gnangoro Bouare",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Alemão",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Sergio Camello",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Randy Nteka",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AO"
+  },
+  {
+   "n": 14,
+   "name": "Giorgi Tsitaishvili",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GE"
+  },
+  {
+   "n": 18,
+   "name": "Álvaro Garcia",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Jorge de Frutos",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Fran Pérez",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 37,
+   "name": "Rayane Belaid",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Raúl de Tomás",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "team": "gb-eng-wolverhampton-wanderers",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/de/teams/8602/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "José Sá",
+   "pos": "GK",
+   "nat": "PT"
+  },
+  {
+   "n": 13,
+   "name": "João Virgínia",
+   "pos": "GK",
+   "nat": "PT"
+  },
+  {
+   "n": 26,
+   "name": "John Ruddy",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 2,
+   "name": "Kieran Trippier",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 15,
+   "name": "Yerson Mosquera",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CO"
+  },
+  {
+   "n": 24,
+   "name": "Toti Gomes",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 33,
+   "name": "Ghislain Konan",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CI"
+  },
+  {
+   "n": 34,
+   "name": "Nasser Djiga",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BF"
+  },
+  {
+   "n": 37,
+   "name": "Ladislav Krejcí",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CZ"
+  },
+  {
+   "n": 3,
+   "name": "Hugo Bueno",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Marshall Munetsi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "RH"
+  },
+  {
+   "n": 7,
+   "name": "André",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BR"
+  },
+  {
+   "n": 8,
+   "name": "Jordan James",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 12,
+   "name": "Boubacar Traoré",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ML"
+  },
+  {
+   "n": 20,
+   "name": "Tommy Doyle",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 27,
+   "name": "Jean-Ricner Bellegarde",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "HT"
+  },
+  {
+   "n": 28,
+   "name": "Fer López",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 36,
+   "name": "Mateus Mané",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 38,
+   "name": "Jackson Tchatchoua",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "CM"
+  },
+  {
+   "n": 9,
+   "name": "Raúl Jiménez",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MX"
+  },
+  {
+   "n": 10,
+   "name": "Adam Armstrong",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 11,
+   "name": "Bertrand Traoré",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BF"
+  },
+  {
+   "n": 14,
+   "name": "Sean Neave",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 19,
+   "name": "Rafiki Saïd",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "KM"
+  },
+  {
+   "n": 21,
+   "name": "Rodrigo Gomes",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "PT"
+  },
+  {
+   "n": 23,
+   "name": "Tawanda Chirewa",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "RH"
+  }
+ ]
+}

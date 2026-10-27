@@ -1,0 +1,212 @@
+{
+ "team": "de-vfl-wolfsburg",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8721/squad/wolfsburg"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Timon Wellenreuther",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 12,
+   "name": "Pavao Pervan",
+   "pos": "GK",
+   "nat": "AT"
+  },
+  {
+   "n": 30,
+   "name": "Jakub Zieliński",
+   "pos": "GK",
+   "nat": "PL"
+  },
+  {
+   "n": 2,
+   "name": "Kilian Fischer",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Hauke Wahl",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 13,
+   "name": "Rogério",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 18,
+   "name": "Jonas Adjetey",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GH"
+  },
+  {
+   "n": 21,
+   "name": "Joakim Mæhle",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DK"
+  },
+  {
+   "n": 22,
+   "name": "Mathys Angély",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 25,
+   "name": "Aaron Zehnter",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Saël Kumbedi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FR"
+  },
+  {
+   "n": 33,
+   "name": "Cleiton Santos",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 5,
+   "name": "Vini Souza",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BR"
+  },
+  {
+   "n": 8,
+   "name": "Bence Dárdai",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "HU"
+  },
+  {
+   "n": 10,
+   "name": "Fraser Hornby",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 14,
+   "name": "Pharrell Hensel",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Alexander Bernhardsson",
+   "pos": "MF",
+   "nat": "SE"
+  },
+  {
+   "n": 20,
+   "name": "Muhammed Mehmet Damar",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Christian Eriksen",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DK"
+  },
+  {
+   "n": 27,
+   "name": "Maximilian Arnold",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Yannick Gerhardt",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 32,
+   "name": "Mattias Svanberg",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SE"
+  },
+  {
+   "n": 37,
+   "name": "Elvis Rexhbeçaj",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "XK"
+  },
+  {
+   "n": null,
+   "name": "Aster Vranckx",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BE"
+  },
+  {
+   "n": 7,
+   "name": "Kento Shiogai",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 11,
+   "name": "Fabian Reese",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Robert Glatzel",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Alessio Besio",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "CH"
+  },
+  {
+   "n": 42,
+   "name": "Bruno Katz",
+   "pos": "FW",
+   "nat": "FI"
+  },
+  {
+   "n": 43,
+   "name": "Trevor Benedict",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}

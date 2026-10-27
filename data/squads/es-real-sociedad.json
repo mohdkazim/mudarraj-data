@@ -1,0 +1,188 @@
+{
+ "team": "es-real-sociedad",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8560/squad/players"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Alex Remiro",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Unai Marrero",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Jon Aramburu",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "VE"
+  },
+  {
+   "n": 3,
+   "name": "Aihen Muñoz",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Igor Zubeldia",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Jon Martín",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Jon Pacheco",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Sergio Gómez",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Mamadou Sarr",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 20,
+   "name": "Álvaro Odriozola",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Héctor Fort",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "ES"
+  },
+  {
+   "n": 34,
+   "name": "Luken Beitia",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Jon Gorrotxategi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Beñat Turrientes",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 18,
+   "name": "Carlos Soler",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Yangel Herrera",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "VE"
+  },
+  {
+   "n": 24,
+   "name": "Luka Sučić",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "HR"
+  },
+  {
+   "n": 7,
+   "name": "Ander Barrenetxea",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Orri Óskarsson",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IS"
+  },
+  {
+   "n": 10,
+   "name": "Mikel Oyarzabal",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Gonçalo Guedes",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "PT"
+  },
+  {
+   "n": 12,
+   "name": "Job Ochieng",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "KE"
+  },
+  {
+   "n": 14,
+   "name": "Takefusa Kubo",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "JP"
+  },
+  {
+   "n": 15,
+   "name": "Pablo Marín",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Arsen Zakharyan",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "RU"
+  },
+  {
+   "n": 29,
+   "name": "Álex Marchal",
+   "pos": "FW",
+   "nat": "ES"
+  }
+ ]
+}

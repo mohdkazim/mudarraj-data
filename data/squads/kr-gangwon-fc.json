@@ -1,0 +1,323 @@
+{
+ "team": "kr-gangwon-fc",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/164734/squad/gangwon-fc"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Park Cheong-Hyo",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 31,
+   "name": "Hong Jin-Hyeok",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 41,
+   "name": "Kim Yu-Sung",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 51,
+   "name": "Cho Min-Kyu",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 91,
+   "name": "Kim Jung-Hun",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 3,
+   "name": "Jeong Seung-Bin",
+   "pos": "DF",
+   "nat": "KR"
+  },
+  {
+   "n": 5,
+   "name": "Abdelkarim Mammar Chaouche",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SE"
+  },
+  {
+   "n": 13,
+   "name": "Lee Gi-Hyuk",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 23,
+   "name": "Marko Tući",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ME"
+  },
+  {
+   "n": 24,
+   "name": "Park Ho-Yeong",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 25,
+   "name": "Lee Hyo-Bin",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "KR"
+  },
+  {
+   "n": 27,
+   "name": "Kim Do-Hyun",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 29,
+   "name": "Choi Jae-Hyeok",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 33,
+   "name": "Hong Chul",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "KR"
+  },
+  {
+   "n": 37,
+   "name": "Kwon Seok-Joo",
+   "pos": "DF",
+   "nat": "KR"
+  },
+  {
+   "n": 38,
+   "name": "Ko Eun-Seok",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 45,
+   "name": "Lee Jeong-Hyun",
+   "pos": "DF",
+   "nat": "KR"
+  },
+  {
+   "n": 47,
+   "name": "Shin Min-Ha",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 71,
+   "name": "Kang Seong-Yun",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 88,
+   "name": "Hwang Mun-Ki",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 99,
+   "name": "Kang Joon-Hyuck",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 4,
+   "name": "Seo Min-Woo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 6,
+   "name": "Kim Dong-Hyun",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 7,
+   "name": "Kim Dae-Won",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "KR"
+  },
+  {
+   "n": 8,
+   "name": "Kim Yi-Seok",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 14,
+   "name": "Kang Yun-Gu",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "KR"
+  },
+  {
+   "n": 28,
+   "name": "Lee Seung-Won",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 35,
+   "name": "Kim Tae-Hwan",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "KR"
+  },
+  {
+   "n": 36,
+   "name": "Hwang Eun-Chong",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 40,
+   "name": "Won Hee-Do",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 42,
+   "name": "Mo Jae-Hyeon",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "KR"
+  },
+  {
+   "n": 46,
+   "name": "Kim Eo-Jin",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 57,
+   "name": "Lee Yong-Jae",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "KR"
+  },
+  {
+   "n": 60,
+   "name": "Yeo Jun-Yeop",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 70,
+   "name": "Jesse Sekidika",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "NG"
+  },
+  {
+   "n": 97,
+   "name": "Lee You-Hyeon",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 9,
+   "name": "Kim Gun-Hee",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 11,
+   "name": "Goh Young-Jun",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 15,
+   "name": "Jin Jun-Seo",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "KR"
+  },
+  {
+   "n": 19,
+   "name": "Park Sang-Hyeok",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 32,
+   "name": "Yoo Byung-Heon",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 39,
+   "name": "Lee Ji-Ho",
+   "pos": "FW",
+   "nat": "KR"
+  },
+  {
+   "n": 50,
+   "name": "Lee Eun-Ho",
+   "pos": "FW",
+   "nat": "KR"
+  },
+  {
+   "n": 74,
+   "name": "Choe Ji-Nam",
+   "pos": "FW",
+   "nat": "KR"
+  },
+  {
+   "n": 79,
+   "name": "Cho Won-Woo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 80,
+   "name": "Abdalla Halaihal",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IL"
+  },
+  {
+   "n": 96,
+   "name": "Choe Byeong-Chan",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  }
+ ]
+}

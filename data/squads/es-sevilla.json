@@ -1,0 +1,189 @@
+{
+ "team": "es-sevilla",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8302/squad/sevilla"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Odysseas Vlachodimos",
+   "pos": "GK",
+   "nat": "GR"
+  },
+  {
+   "n": 13,
+   "name": "Fran González",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Juan Iglesias",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 3,
+   "name": "Julio Díaz",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Kike Salas",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Andrés Lopez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "Arouna Sangante",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 15,
+   "name": "Fábio Cardoso",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 17,
+   "name": "Gabriel Suazo",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CL"
+  },
+  {
+   "n": 22,
+   "name": "José Ángel Carmona",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Marcão",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 6,
+   "name": "Lucien Agoumé",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 8,
+   "name": "Giorgi Kochorashvili",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GE"
+  },
+  {
+   "n": 10,
+   "name": "Peque Fernández",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Manu Bueno",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 18,
+   "name": "Jon Guridi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 24,
+   "name": "Youssouf Fofana",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 27,
+   "name": "Nico Guillen",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Alfon González",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Robbie Ure",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 11,
+   "name": "Rubén Vargas",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "CH"
+  },
+  {
+   "n": 16,
+   "name": "Isaac Romero",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Lucas Stassin",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BE"
+  },
+  {
+   "n": 20,
+   "name": "Félix Correia",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "PT"
+  },
+  {
+   "n": 21,
+   "name": "Chidera Ejuke",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "NG"
+  },
+  {
+   "n": 30,
+   "name": "Miguel Sierra",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  }
+ ]
+}

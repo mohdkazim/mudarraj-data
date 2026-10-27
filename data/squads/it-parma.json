@@ -1,0 +1,214 @@
+{
+ "team": "it-parma",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/10167/squad/parma"
+ ],
+ "players": [
+  {
+   "n": 22,
+   "name": "Simone Ghidotti",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 30,
+   "name": "Giovanni Daffara",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 40,
+   "name": "Edoardo Corvi",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 75,
+   "name": "Alessandro Mazzocchi",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 3,
+   "name": "Abdoulaye Ndiaye",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 5,
+   "name": "Lautaro Valenti",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 7,
+   "name": "Djibril Diallo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 15,
+   "name": "Enrico Del Prato",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 34,
+   "name": "Diego Carlos",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 37,
+   "name": "Mariano Troilo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 72,
+   "name": "Dominik Drobnič",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SI"
+  },
+  {
+   "n": 4,
+   "name": "Vincent Sierro",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CH"
+  },
+  {
+   "n": 10,
+   "name": "Adrián Bernabé",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Emanuele Valeri",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "IT"
+  },
+  {
+   "n": 16,
+   "name": "Mandela Keita",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BE"
+  },
+  {
+   "n": 27,
+   "name": "Sascha Britschgi",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "CH"
+  },
+  {
+   "n": 29,
+   "name": "Franco Carboni",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AR"
+  },
+  {
+   "n": 32,
+   "name": "Christian Ordóñez",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AR"
+  },
+  {
+   "n": 41,
+   "name": "Hans Nicolussi Caviglia",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 47,
+   "name": "Abdou-Salam Konaté",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 80,
+   "name": "Giovanni Fabbian",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 7,
+   "name": "Ousmane Diallo",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Benjamín Cremaschi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "US"
+  },
+  {
+   "n": 9,
+   "name": "David Romero",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 11,
+   "name": "Pontus Almqvist",
+   "pos": "FW",
+   "nat": "SE"
+  },
+  {
+   "n": 19,
+   "name": "El Bilal Touré",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ML"
+  },
+  {
+   "n": 20,
+   "name": "Matija Frigan",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "HR"
+  },
+  {
+   "n": 23,
+   "name": "Nesta Elphege",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 25,
+   "name": "Thomás de Martis",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 76,
+   "name": "Simone Lontani",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  }
+ ]
+}

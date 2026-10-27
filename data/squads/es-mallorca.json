@@ -1,0 +1,224 @@
+{
+ "team": "es-mallorca",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/nl/teams/8661/squad/mallorca"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Arnau Tenas",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Lucas Bergström",
+   "pos": "GK",
+   "nat": "FI"
+  },
+  {
+   "n": 25,
+   "name": "Iván Cuéllar",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 37,
+   "name": "Toni Dols",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 3,
+   "name": "Toni Lato",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "David López",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Alberto Moreno",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "John Donald",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Antonio Raíllo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Aboubaka Soumahoro",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "FR"
+  },
+  {
+   "n": 24,
+   "name": "Martin Valjent",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SK"
+  },
+  {
+   "n": 29,
+   "name": "Luis Orejuela",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 32,
+   "name": "Leo Sanchez",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": 34,
+   "name": "Miguel Calatayud",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Guille Fernández",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Antonio Sánchez",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Álex Sala",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Manu Morlanes",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Sergi Darder",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 20,
+   "name": "Pablo Torre",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Antoniu Roca",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "ES"
+  },
+  {
+   "n": 33,
+   "name": "Adrián Liso",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": 39,
+   "name": "Jandro Garcia",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Jan Salas",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Abdón Prats",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Zito Luvumbo",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "AO"
+  },
+  {
+   "n": 16,
+   "name": "Adam Buksa",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PL"
+  },
+  {
+   "n": 17,
+   "name": "Arnau Puigmal",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 18,
+   "name": "Adrián Fuentes",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Josep Cerdà",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 30,
+   "name": "Justin Kalumba",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 36,
+   "name": "Aimar Pena",
+   "pos": "FW",
+   "nat": "ES"
+  }
+ ]
+}

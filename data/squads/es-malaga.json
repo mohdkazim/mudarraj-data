@@ -1,0 +1,222 @@
+{
+ "team": "es-malaga",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/9864/squad/malaga"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Alfonso Herrero",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Carlos López",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 30,
+   "name": "Andrés Céspedes",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 3,
+   "name": "Carlos Puga",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Einar Galilea",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Álex Pastor",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "José Salinas",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Moussa Diarra",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ML"
+  },
+  {
+   "n": 16,
+   "name": "Diego Murillo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 18,
+   "name": "Dani Sánchez",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 20,
+   "name": "Fernando Calero",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 25,
+   "name": "Juan Berrocal",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 31,
+   "name": "Rafita",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 39,
+   "name": "Adam Aznou",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Antonito",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Jens-Lys Cajuste",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SE"
+  },
+  {
+   "n": 6,
+   "name": "Ramón Enríquez",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Haitam Abaida",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "MA"
+  },
+  {
+   "n": 8,
+   "name": "Carlos Dotor",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "David Larrubia",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Joaquín Muñoz",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Rafa Rodríguez",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 18,
+   "name": "Pablo Martínez",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Dani Lorenzo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Izan Merino",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 35,
+   "name": "Aarón Ochoa",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "IE"
+  },
+  {
+   "n": 9,
+   "name": "Chupe",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Eneko Jauregi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Juan Cruz",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Adrián Nino",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 24,
+   "name": "Julen Lobete",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  }
+ ]
+}

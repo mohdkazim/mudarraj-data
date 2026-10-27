@@ -1,0 +1,175 @@
+{
+ "team": "es-osasuna",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8371/squad/undefined,teams,players"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Sergio Herrera",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Aitor Fernández",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Jorge Herrando",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Diego Rico",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Valentin Rosier",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FR"
+  },
+  {
+   "n": 22,
+   "name": "Flavien Boyomo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CM"
+  },
+  {
+   "n": 23,
+   "name": "Abel Bretones",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 24,
+   "name": "Alejandro Catena",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 27,
+   "name": "Iñigo Arguibide",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 29,
+   "name": "Asier Osambela",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 35,
+   "name": "Unai Santos",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 48,
+   "name": "Rockson Yeboah",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GH"
+  },
+  {
+   "n": 6,
+   "name": "Lucas Torró",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Jon Moncayola",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Iker Muñoz",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Aimar Oroz",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Moi Gómez",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Raúl García",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Enrique Barja",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Rubén Garcia",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Ante Budimir",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "HR"
+  },
+  {
+   "n": 18,
+   "name": "Raúl Moro",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 20,
+   "name": "Romain Del Castillo",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "FR"
+  },
+  {
+   "n": 21,
+   "name": "Jonathan Dubasin",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BE"
+  }
+ ]
+}

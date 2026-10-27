@@ -1,0 +1,187 @@
+{
+ "team": "gb-eng-west-ham-united",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/my/teams/8654/squad/players"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Mads Hermansen",
+   "pos": "GK",
+   "nat": "DK"
+  },
+  {
+   "n": 23,
+   "name": "Alphonse Areola",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 49,
+   "name": "Finlay Herrick",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 2,
+   "name": "Kyle Walker-Peters",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 3,
+   "name": "Maximilian Kilman",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 5,
+   "name": "Morato",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 15,
+   "name": "Konstantinos Mavropanos",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GR"
+  },
+  {
+   "n": 18,
+   "name": "Adama Boiro",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 30,
+   "name": "Ollie Scarles",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 34,
+   "name": "Joël Veltman",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "NL"
+  },
+  {
+   "n": 4,
+   "name": "Edson Álvarez",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "MX"
+  },
+  {
+   "n": 7,
+   "name": "Arne Engels",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BE"
+  },
+  {
+   "n": 14,
+   "name": "Divine Mukasa",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 17,
+   "name": "Mohamadou Kanté",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 27,
+   "name": "Soungoutou Magassa",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FR"
+  },
+  {
+   "n": 28,
+   "name": "Tomás Souček",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CZ"
+  },
+  {
+   "n": 61,
+   "name": "Lewis Orford",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 66,
+   "name": "Joshua Ajala",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 9,
+   "name": "Joël Piroe",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SR"
+  },
+  {
+   "n": 10,
+   "name": "Manor Solomon",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IL"
+  },
+  {
+   "n": 11,
+   "name": "Valentín Castellanos",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 19,
+   "name": "Pablo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 20,
+   "name": "Jarrod Bowen",
+   "pos": "FW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 21,
+   "name": "Keiber Lamadrid",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "VE"
+  },
+  {
+   "n": 22,
+   "name": "Maxwel Cornet",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CI"
+  },
+  {
+   "n": 35,
+   "name": "Edvin Austbø",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NO"
+  }
+ ]
+}

@@ -1,0 +1,267 @@
+{
+ "team": "jp-kyoto-sanga",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/ko/teams/8542/squad/undefined"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Gakuji Ota",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 21,
+   "name": "Kentaro Kakoi",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 36,
+   "name": "Akira Fantini",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 90,
+   "name": "Halls",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": 94,
+   "name": "Masaaki Murakami",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 5,
+   "name": "Hisashi Tawiah",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 15,
+   "name": "Kodai Nagata",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 26,
+   "name": "Ren Kato",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "JP"
+  },
+  {
+   "n": 33,
+   "name": "Sota Yamamoto",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": 34,
+   "name": "Henrique",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 40,
+   "name": "Yusuke Ishida",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 43,
+   "name": "Weverton",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 44,
+   "name": "Kyo Sato",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "JP"
+  },
+  {
+   "n": 50,
+   "name": "Yoshinori Suzuki",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 60,
+   "name": "Ryosuke Yamanaka",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "JP"
+  },
+  {
+   "n": 6,
+   "name": "João Pedro",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": 8,
+   "name": "Takuji Yonemoto",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 10,
+   "name": "Shimpei Fukuoka",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 14,
+   "name": "Thiago",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 16,
+   "name": "Taiyo Hiraoka",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 24,
+   "name": "Hiroto Morooka",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "JP"
+  },
+  {
+   "n": 25,
+   "name": "Sung-Jun Yoon",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "KR"
+  },
+  {
+   "n": 32,
+   "name": "Mitsuki Saito",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 48,
+   "name": "Ryuma Nakano",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "JP"
+  },
+  {
+   "n": 62,
+   "name": "Takaaki Shichi",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 7,
+   "name": "Masaya Okugawa",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "JP"
+  },
+  {
+   "n": 9,
+   "name": "Rafael Elias",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Marco Túlio",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 17,
+   "name": "Alex Negueba",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 18,
+   "name": "Temma Matsuda",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "JP"
+  },
+  {
+   "n": 19,
+   "name": "David Silva",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": 23,
+   "name": "Takumi Kato",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 29,
+   "name": "Kou Sakai",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "JP"
+  },
+  {
+   "n": 31,
+   "name": "Sora Hiraga",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "JP"
+  },
+  {
+   "n": 38,
+   "name": "Maceió",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 77,
+   "name": "Haruki Arai",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "JP"
+  },
+  {
+   "n": 93,
+   "name": "Shun Nagasawa",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 99,
+   "name": "Fuchi Honda",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "JP"
+  }
+ ]
+}

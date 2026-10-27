@@ -1,0 +1,186 @@
+{
+ "team": "fr-marseille",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/it/teams/8592/squad/marseille"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Jeffrey De Lange",
+   "pos": "GK",
+   "nat": "NL"
+  },
+  {
+   "n": 40,
+   "name": "Jelle Van Neck",
+   "pos": "GK",
+   "nat": "BE"
+  },
+  {
+   "n": 41,
+   "name": "Ibrahim Gomis",
+   "pos": "GK",
+   "nat": "MA"
+  },
+  {
+   "n": 92,
+   "name": "Théo Vermot",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 4,
+   "name": "CJ Egan-Riley",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 13,
+   "name": "Derek Cornelius",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CA"
+  },
+  {
+   "n": 18,
+   "name": "Bamo Meité",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CI"
+  },
+  {
+   "n": 21,
+   "name": "Nayef Aguerd",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MA"
+  },
+  {
+   "n": 22,
+   "name": "Timothy Weah",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "US"
+  },
+  {
+   "n": 25,
+   "name": "Ulisses Garcia",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CH"
+  },
+  {
+   "n": 33,
+   "name": "Emerson",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 74,
+   "name": "Kelyann Bezahaf",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FR"
+  },
+  {
+   "n": 6,
+   "name": "Tochukwu Nnadi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NG"
+  },
+  {
+   "n": 7,
+   "name": "Angel Gomes",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 8,
+   "name": "Himad Abdelli",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DZ"
+  },
+  {
+   "n": 19,
+   "name": "Geoffrey Kondogbia",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CF"
+  },
+  {
+   "n": 23,
+   "name": "Pierre-Emile Højbjerg",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DK"
+  },
+  {
+   "n": 42,
+   "name": "Nouhoum Kamissoko",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ML"
+  },
+  {
+   "n": 43,
+   "name": "Tadjidine Mmadi",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": 9,
+   "name": "Amine Gouiri",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DZ"
+  },
+  {
+   "n": 11,
+   "name": "Neal Maupay",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 14,
+   "name": "Igor Paixão",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 29,
+   "name": "Faris Moumbagna",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CM"
+  },
+  {
+   "n": 44,
+   "name": "Antoine Valero",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 48,
+   "name": "Keyliane Abdallah",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "FR"
+  },
+  {
+   "n": 77,
+   "name": "Amine Harit",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "MA"
+  }
+ ]
+}

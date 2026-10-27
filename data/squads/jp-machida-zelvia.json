@@ -1,0 +1,189 @@
+{
+ "team": "jp-machida-zelvia",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/vi/teams/194011/squad/machida-zelvia"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Kosei Tani",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 13,
+   "name": "Tatsuya Morita",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 66,
+   "name": "Aki Koch",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 89,
+   "name": "Nicholas Guimarães",
+   "pos": "GK",
+   "nat": "PH"
+  },
+  {
+   "n": 2,
+   "name": "Thomas Ouwejan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 3,
+   "name": "Gen Shōji",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 4,
+   "name": "Ryuho Kikuchi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 5,
+   "name": "Ibrahim Drešević",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "XK"
+  },
+  {
+   "n": 6,
+   "name": "Henry Mochizuki",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 24,
+   "name": "Kim Min-Tae",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 50,
+   "name": "Daihachi Okamura",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 7,
+   "name": "Yuki Soma",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 8,
+   "name": "Keiya Sento",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 14,
+   "name": "Yusuke Matsuo",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 16,
+   "name": "Hiroyuki Mae",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 18,
+   "name": "Hokuto Shimoda",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 20,
+   "name": "Takuma Nishimura",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 23,
+   "name": "Ryohei Shirasaki",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 28,
+   "name": "Cha Je-Hoon",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 31,
+   "name": "Neta Lavi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IL"
+  },
+  {
+   "n": 33,
+   "name": "Takahiro Akimoto",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 34,
+   "name": "Futa Tokumura",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 88,
+   "name": "Hotaka Nakamura",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Chui Mayaka",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 9,
+   "name": "Koki Ogawa",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 15,
+   "name": "Mitch Duke",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AU"
+  },
+  {
+   "n": 99,
+   "name": "Tete Yengi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AU"
+  }
+ ]
+}

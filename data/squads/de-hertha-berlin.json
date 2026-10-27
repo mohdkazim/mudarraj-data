@@ -1,0 +1,197 @@
+{
+ "team": "de-hertha-berlin",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8177/squad/hertha-bsc"
+ ],
+ "players": [
+  {
+   "n": 13,
+   "name": "Konstantin Heide",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 35,
+   "name": "Marius Gersbeck",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Tim Goller",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Julian Eitschberger",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Mads Valentin Pedersen",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DK"
+  },
+  {
+   "n": 27,
+   "name": "Niklas Kolbe",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Márton Dárdai",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HU"
+  },
+  {
+   "n": 37,
+   "name": "Toni Leistner",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 42,
+   "name": "Deyovaisio Zeefuik",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "NL"
+  },
+  {
+   "n": 44,
+   "name": "Linus Gechter",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Diego Demme",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Kevin Sessa",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Boris Lum",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Paul Seguin",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Soufian Gouram",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "EE"
+  },
+  {
+   "n": 36,
+   "name": "Kian Todorovic",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": 41,
+   "name": "Pascal Klemens",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 47,
+   "name": "Selim Telib",
+   "pos": "MF",
+   "nat": "EG"
+  },
+  {
+   "n": null,
+   "name": "Julius Gottschalk",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Josip Brekalo",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "HR"
+  },
+  {
+   "n": 9,
+   "name": "Gustaf Nilsson",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SE"
+  },
+  {
+   "n": 17,
+   "name": "Sebastian Grønning",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DK"
+  },
+  {
+   "n": 18,
+   "name": "Luca Schuler",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Oluwaseun Adewumi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AT"
+  },
+  {
+   "n": 20,
+   "name": "Farid Alfa-Ruprecht",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Jón Thorsteinsson",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IS"
+  },
+  {
+   "n": 26,
+   "name": "Niklas Hildebrandt",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Jelani Ndi",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}

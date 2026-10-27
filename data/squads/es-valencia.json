@@ -1,0 +1,207 @@
+{
+ "team": "es-valencia",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/10267/squad/undefined"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Stole Dimitrievski",
+   "pos": "GK",
+   "nat": "MK"
+  },
+  {
+   "n": 13,
+   "name": "Cristian Rivero",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 25,
+   "name": "Kayne van Oevelen",
+   "pos": "GK",
+   "nat": "NL"
+  },
+  {
+   "n": 3,
+   "name": "José Copete",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Mouctar Diakhaby",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GN"
+  },
+  {
+   "n": 5,
+   "name": "César Tárrega",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "Justin De Haas",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 14,
+   "name": "José Gayà",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 20,
+   "name": "Dimitri Foulquier",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GP"
+  },
+  {
+   "n": 21,
+   "name": "Jesus Vázquez",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Arnau Martínez",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 24,
+   "name": "Pablo Maffeo",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AR"
+  },
+  {
+   "n": 36,
+   "name": "Iker Córdoba",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Guido Rodríguez",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AR"
+  },
+  {
+   "n": 8,
+   "name": "Javier Guerra",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Harvey Elliott",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 11,
+   "name": "Luis Rioja",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Aliou Dieng",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ML"
+  },
+  {
+   "n": 18,
+   "name": "Pepelu",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Filip Ugrinic",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CH"
+  },
+  {
+   "n": 27,
+   "name": "David Otorbi",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "ES"
+  },
+  {
+   "n": 33,
+   "name": "Aaron Mayol",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 39,
+   "name": "Ryunosuke Sato",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 6,
+   "name": "Umar Sadiq",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NG"
+  },
+  {
+   "n": 7,
+   "name": "Arnaut Danjuma",
+   "pos": "FW",
+   "nat": "NL"
+  },
+  {
+   "n": 9,
+   "name": "Hugo Duro",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Diego López",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Dani Raba",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Sergi Canós",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  }
+ ]
+}

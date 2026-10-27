@@ -1,0 +1,221 @@
+{
+ "team": "gr-olympiacos",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/it/teams/8638/squad/olympiacos"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Stefan Ortega",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Balša Popović",
+   "pos": "GK",
+   "nat": "ME"
+  },
+  {
+   "n": 91,
+   "name": "Dimitrios Stournaras",
+   "pos": "GK",
+   "nat": "GR"
+  },
+  {
+   "n": 4,
+   "name": "Zinedin Smajlović",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BA"
+  },
+  {
+   "n": 5,
+   "name": "Lorenzo Pirola",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 6,
+   "name": "David Carmo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AO"
+  },
+  {
+   "n": 45,
+   "name": "Panagiotis Retsos",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GR"
+  },
+  {
+   "n": 70,
+   "name": "Bruno Onyemaechi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "NG"
+  },
+  {
+   "n": 71,
+   "name": "Nair Tiknizyan",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AM"
+  },
+  {
+   "n": 72,
+   "name": "Athanasios Koutsogoulas",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GR"
+  },
+  {
+   "n": 2,
+   "name": "Manolis Saliakas",
+   "pos": "MF",
+   "nat": "GR"
+  },
+  {
+   "n": 8,
+   "name": "Gustavo Sá",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 15,
+   "name": "Gustavo Puerta",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CO"
+  },
+  {
+   "n": 16,
+   "name": "Lorenzo Scipioni",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AR"
+  },
+  {
+   "n": 19,
+   "name": "Remo Freuler",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CH"
+  },
+  {
+   "n": 21,
+   "name": "Theofanis Bakoulas",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GR"
+  },
+  {
+   "n": 22,
+   "name": "Chiquinho",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 27,
+   "name": "Marcus Holmgren Pedersen",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": 32,
+   "name": "Santiago Hezze",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AR"
+  },
+  {
+   "n": 77,
+   "name": "Christos Filis",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GR"
+  },
+  {
+   "n": 7,
+   "name": "Konstantinos Fortounis",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GR"
+  },
+  {
+   "n": 9,
+   "name": "Ayoub El Kaabi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  },
+  {
+   "n": 10,
+   "name": "Gelson Martins",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "PT"
+  },
+  {
+   "n": 11,
+   "name": "Roman Yaremchuk",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "UA"
+  },
+  {
+   "n": 17,
+   "name": "Leon Bailey",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "JM"
+  },
+  {
+   "n": 20,
+   "name": "Jota Silva",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "PT"
+  },
+  {
+   "n": 34,
+   "name": "Armando González",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MX"
+  },
+  {
+   "n": 73,
+   "name": "Joel Roca",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 90,
+   "name": "Clayton",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 97,
+   "name": "Yusuf Yazıcı",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "TR"
+  },
+  {
+   "n": 99,
+   "name": "Marius Mouandilmadji",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "TD"
+  }
+ ]
+}

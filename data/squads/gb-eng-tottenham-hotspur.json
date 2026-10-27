@@ -1,0 +1,201 @@
+{
+ "team": "gb-eng-tottenham-hotspur",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8586/squad/tottenham-hotspur-fc"
+ ],
+ "players": [
+  {
+   "n": 31,
+   "name": "Antonín Kinský",
+   "pos": "GK",
+   "nat": "CZ"
+  },
+  {
+   "n": 39,
+   "name": "Martin Dúbravka",
+   "pos": "GK",
+   "nat": "SK"
+  },
+  {
+   "n": 40,
+   "name": "Brandon Austin",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 3,
+   "name": "Andrew Robertson",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 4,
+   "name": "Tosin Adarabioyo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 5,
+   "name": "Marcos Senesi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 6,
+   "name": "Jan Paul van Hecke",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 13,
+   "name": "Destiny Udogie",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 23,
+   "name": "Pedro Porro",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 33,
+   "name": "Ben Davies",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 37,
+   "name": "Micky van de Ven",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 7,
+   "name": "Xavi Simons",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "NL"
+  },
+  {
+   "n": 8,
+   "name": "Conor Gallagher",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 10,
+   "name": "James Maddison",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 14,
+   "name": "Archie Gray",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 15,
+   "name": "Lucas Bergvall",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SE"
+  },
+  {
+   "n": 16,
+   "name": "Sandro Tonali",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 18,
+   "name": "Mateus Fernandes",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PT"
+  },
+  {
+   "n": 21,
+   "name": "Dejan Kulusevski",
+   "pos": "MF",
+   "nat": "SE"
+  },
+  {
+   "n": 30,
+   "name": "Rodrigo Bentancur",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "UY"
+  },
+  {
+   "n": 9,
+   "name": "Richarlison",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Mathys Tel",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "FR"
+  },
+  {
+   "n": 17,
+   "name": "Sávio",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 19,
+   "name": "Dominic Solanke",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 20,
+   "name": "Mohammed Kudus",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GH"
+  },
+  {
+   "n": 22,
+   "name": "Omar Marmoush",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "EG"
+  },
+  {
+   "n": 27,
+   "name": "Mykhaylo Mudryk",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "UA"
+  },
+  {
+   "n": 28,
+   "name": "Wilson Odobert",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "FR"
+  }
+ ]
+}

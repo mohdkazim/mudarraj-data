@@ -1,0 +1,267 @@
+{
+ "team": "jp-vissel-kobe",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/sw/teams/4688/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Daiya Maekawa",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 21,
+   "name": "Shota Arai",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 32,
+   "name": "Richard Monday Ubong",
+   "pos": "GK",
+   "nat": "NG"
+  },
+  {
+   "n": 39,
+   "name": "Shioki Takayama",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 71,
+   "name": "Shuichi Gonda",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 2,
+   "name": "Nanasei Iino",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": 3,
+   "name": "Matheus Thuler",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 4,
+   "name": "Tetsushi Yamakawa",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 15,
+   "name": "Diego",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": 16,
+   "name": "Caetano",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 17,
+   "name": "Issei Takahashi",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": 24,
+   "name": "Gotoku Sakai",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": 31,
+   "name": "Takuya Iwanami",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 41,
+   "name": "Katsuya Nagato",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": 42,
+   "name": "Justin Homma",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": 43,
+   "name": "Kaito Yamada",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": 57,
+   "name": "Ryosuke Irie",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": 5,
+   "name": "Yuta Goke",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 6,
+   "name": "Takahiro Ogihara",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 7,
+   "name": "Yosuke Ideguchi",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 18,
+   "name": "Haruya Ide",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 20,
+   "name": "Kota Watanabe",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 23,
+   "name": "Yuan Iwamoto",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 25,
+   "name": "Yuya Kuwasaki",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 28,
+   "name": "Kento Hamasaki",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 33,
+   "name": "Rikuto Hashimoto",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 44,
+   "name": "Mitsuki Hidaka",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 55,
+   "name": "Yuta Miyahara",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 61,
+   "name": "Ryotaro Inouchi",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 94,
+   "name": "Erik",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Tafuko Satomi",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 10,
+   "name": "Yuya Osako",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": 11,
+   "name": "Yoshinori Muto",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": 13,
+   "name": "Daiju Sasaki",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": 26,
+   "name": "Jean Patrick",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": 29,
+   "name": "Ren Komatsu",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": 35,
+   "name": "Niina Tominaga",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": 38,
+   "name": "Juzo Ura",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": 46,
+   "name": "Sota Ito",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": 53,
+   "name": "Hayato Watanabe",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": 62,
+   "name": "Hyoei Kawabata",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Anderson Lopes",
+   "pos": "FW",
+   "nat": "BR"
+  }
+ ]
+}

@@ -1,0 +1,223 @@
+{
+ "team": "kh-phnom-penh-crown",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/202520/squad/phnom-penh"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Samnang Chiem",
+   "pos": "GK",
+   "nat": "KH"
+  },
+  {
+   "n": 21,
+   "name": "Tin Razak",
+   "pos": "GK",
+   "nat": "KH"
+  },
+  {
+   "n": 22,
+   "name": "Um Vichet",
+   "pos": "GK",
+   "nat": "KH"
+  },
+  {
+   "n": 33,
+   "name": "Reth Bunrak",
+   "pos": "GK",
+   "nat": "KH"
+  },
+  {
+   "n": 2,
+   "name": "Riku Matsuda",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "JP"
+  },
+  {
+   "n": 4,
+   "name": "Rick Ketting",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 5,
+   "name": "Raúl-Mihai Feher",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RO"
+  },
+  {
+   "n": 6,
+   "name": "Chhin Vennin",
+   "pos": "DF",
+   "nat": "KH"
+  },
+  {
+   "n": 29,
+   "name": "Usos Sa",
+   "pos": "DF",
+   "nat": "KH"
+  },
+  {
+   "n": 30,
+   "name": "Khiv Chansireyrith",
+   "pos": "DF",
+   "nat": "KH"
+  },
+  {
+   "n": 32,
+   "name": "Eam Ratana",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "KH"
+  },
+  {
+   "n": 39,
+   "name": "Pisa Choum",
+   "pos": "DF",
+   "nat": "KH"
+  },
+  {
+   "n": 8,
+   "name": "Orn Chanpolin",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KH"
+  },
+  {
+   "n": 9,
+   "name": "Sa Ty",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "KH"
+  },
+  {
+   "n": 11,
+   "name": "Yem Devit",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "KH"
+  },
+  {
+   "n": 14,
+   "name": "Valerii Hryshyn",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "UA"
+  },
+  {
+   "n": 15,
+   "name": "Choun Chanchav",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "KH"
+  },
+  {
+   "n": 16,
+   "name": "Long Phearath",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "KH"
+  },
+  {
+   "n": 19,
+   "name": "Sorm Borith",
+   "pos": "MF",
+   "nat": "KH"
+  },
+  {
+   "n": 20,
+   "name": "Koeut Pich",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KH"
+  },
+  {
+   "n": 23,
+   "name": "Bong Samuel",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KH"
+  },
+  {
+   "n": 25,
+   "name": "Hort Kimlong",
+   "pos": "MF",
+   "nat": "KH"
+  },
+  {
+   "n": 31,
+   "name": "Chan Huong",
+   "pos": "MF",
+   "nat": "KH"
+  },
+  {
+   "n": 40,
+   "name": "Anderson Zogbe",
+   "pos": "MF",
+   "nat": "CI"
+  },
+  {
+   "n": 45,
+   "name": "Callum Timmins",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AU"
+  },
+  {
+   "n": 7,
+   "name": "Guytho Mijland",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NL"
+  },
+  {
+   "n": 10,
+   "name": "Moses Dyer",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NZ"
+  },
+  {
+   "n": 18,
+   "name": "Brak Thiva",
+   "pos": "FW",
+   "nat": "KH"
+  },
+  {
+   "n": 24,
+   "name": "Amir Luca",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": 26,
+   "name": "Chandarareach Bun",
+   "pos": "FW",
+   "nat": "KH"
+  },
+  {
+   "n": 27,
+   "name": "Sakakibara Rintaro",
+   "pos": "FW",
+   "nat": "KH"
+  },
+  {
+   "n": 28,
+   "name": "Daniel Bareš",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CZ"
+  },
+  {
+   "n": 44,
+   "name": "Pov Ponvuthy",
+   "pos": "FW",
+   "nat": "KH"
+  }
+ ]
+}

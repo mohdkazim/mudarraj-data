@@ -1,0 +1,171 @@
+{
+ "team": "gb-eng-nottingham-forest",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/10203/squad/nottingham-forest,players,players"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Steven Benda",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 12,
+   "name": "John Victor",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": 26,
+   "name": "Matz Sels",
+   "pos": "GK",
+   "nat": "BE"
+  },
+  {
+   "n": 2,
+   "name": "Ousmane Diomande",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CI"
+  },
+  {
+   "n": 3,
+   "name": "Neco Williams",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 5,
+   "name": "Murillo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 23,
+   "name": "Jair Cunha",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 31,
+   "name": "Nikola Milenković",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RS"
+  },
+  {
+   "n": 34,
+   "name": "Ola Aina",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "NG"
+  },
+  {
+   "n": 37,
+   "name": "Nicolò Savona",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 6,
+   "name": "Ibrahim Sangaré",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CI"
+  },
+  {
+   "n": 8,
+   "name": "Nicolás Dominguez",
+   "pos": "MF",
+   "nat": "AR"
+  },
+  {
+   "n": 10,
+   "name": "Morgan Gibbs-White",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 21,
+   "name": "Xaver Schlager",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AT"
+  },
+  {
+   "n": 22,
+   "name": "Ryan Yates",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 24,
+   "name": "James McAtee",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 25,
+   "name": "Luca Netz",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Daniel Muñoz",
+   "pos": "MF",
+   "nat": "CO"
+  },
+  {
+   "n": 7,
+   "name": "Callum Hudson-Odoi",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 9,
+   "name": "Chris Wood",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NZ"
+  },
+  {
+   "n": 11,
+   "name": "Igor Jesus",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 14,
+   "name": "Dan Ndoye",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CH"
+  },
+  {
+   "n": 15,
+   "name": "Arnaud Kalimuendo-Muinga",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 19,
+   "name": "Liam Delap",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  }
+ ]
+}

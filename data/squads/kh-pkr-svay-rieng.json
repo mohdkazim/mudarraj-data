@@ -1,0 +1,235 @@
+{
+ "team": "kh-pkr-svay-rieng",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/542025/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Sang Hankhun",
+   "pos": "GK",
+   "nat": "KH"
+  },
+  {
+   "n": 18,
+   "name": "Aim Sovannarath",
+   "pos": "GK",
+   "nat": "KH"
+  },
+  {
+   "n": 27,
+   "name": "Vireak Dara",
+   "pos": "GK",
+   "nat": "KH"
+  },
+  {
+   "n": 31,
+   "name": "Lon Vathana",
+   "pos": "GK",
+   "nat": "KH"
+  },
+  {
+   "n": 2,
+   "name": "Barbosa",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 3,
+   "name": "Takaki Ose",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KH"
+  },
+  {
+   "n": 4,
+   "name": "Faris Hammouti",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MA"
+  },
+  {
+   "n": 5,
+   "name": "Soeuy Visal",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KH"
+  },
+  {
+   "n": 12,
+   "name": "Visa Poy",
+   "pos": "DF",
+   "nat": "KH"
+  },
+  {
+   "n": 13,
+   "name": "Saret Krya",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KH"
+  },
+  {
+   "n": 16,
+   "name": "Kim Sokyuth",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KH"
+  },
+  {
+   "n": 19,
+   "name": "Seut Baraing",
+   "pos": "DF",
+   "nat": "KH"
+  },
+  {
+   "n": 33,
+   "name": "David Var",
+   "pos": "DF",
+   "nat": "KH"
+  },
+  {
+   "n": 35,
+   "name": "Sophal Dimong",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KH"
+  },
+  {
+   "n": 61,
+   "name": "Takashi Odawara",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "JP"
+  },
+  {
+   "n": 6,
+   "name": "Rui Pires",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PT"
+  },
+  {
+   "n": 7,
+   "name": "Tiago Alves",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 8,
+   "name": "Breninho",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Nhean Sosidan",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "KH"
+  },
+  {
+   "n": 11,
+   "name": "Min Ratanak",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KH"
+  },
+  {
+   "n": 17,
+   "name": "Meak Cheareaksa",
+   "pos": "MF",
+   "nat": "KH"
+  },
+  {
+   "n": 23,
+   "name": "Chin Nareak",
+   "pos": "MF",
+   "nat": "KH"
+  },
+  {
+   "n": 25,
+   "name": "Chou Sinti",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "KH"
+  },
+  {
+   "n": 28,
+   "name": "Ryo Fujii",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Sovan Dauna",
+   "pos": "MF",
+   "nat": "KH"
+  },
+  {
+   "n": 9,
+   "name": "Sieng Chanthea",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KH"
+  },
+  {
+   "n": 21,
+   "name": "Martins Júnior",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 22,
+   "name": "Chantha Chanteaka",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "KH"
+  },
+  {
+   "n": 24,
+   "name": "Ky Rina",
+   "pos": "FW",
+   "nat": "KH"
+  },
+  {
+   "n": 37,
+   "name": "Johannes Tartarotti",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AT"
+  },
+  {
+   "n": 45,
+   "name": "Narong Kakada",
+   "pos": "FW",
+   "nat": "KH"
+  },
+  {
+   "n": 46,
+   "name": "Kwame Peprah",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GH"
+  },
+  {
+   "n": 96,
+   "name": "Silvester van der Water",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "NL"
+  },
+  {
+   "n": 97,
+   "name": "Connor Shields",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GB-SCT"
+  }
+ ]
+}

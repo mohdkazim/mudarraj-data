@@ -1,0 +1,200 @@
+{
+ "team": "es-real-oviedo",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/de/teams/8670/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Miguel Narváez",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Aarón Escandell",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 27,
+   "name": "Samu Franganillo",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Aisar Ahmed",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 3,
+   "name": "Juan Cruz",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "David Costas",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "Dani Calvo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Samu Rodríguez",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "David Jiménez",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Nacho Vidal",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Carlos Domínguez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 30,
+   "name": "Marco Esteban",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Youness Lachhab",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MA"
+  },
+  {
+   "n": 6,
+   "name": "Dani Villahermosa",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Mikel Goti",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Alberto Reina",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Aritz Aldasoro",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Estanis Pedrola",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Ilyas Chaira",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "MA"
+  },
+  {
+   "n": 9,
+   "name": "Christopher Ramos",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Jacobo González",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Carlos Fernández",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 18,
+   "name": "Victor Mingo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Brandon Dominguès",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": 20,
+   "name": "Pablo Sáenz",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 24,
+   "name": "Alexandru Ișfan",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "RO"
+  },
+  {
+   "n": 25,
+   "name": "José Luis Morales",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 32,
+   "name": "Enzo Perez",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  }
+ ]
+}

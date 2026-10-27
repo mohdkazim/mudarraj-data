@@ -1,0 +1,230 @@
+{
+ "team": "gb-eng-burnley",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8191/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Max Weiß",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 13,
+   "name": "Ben Amos",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 37,
+   "name": "Grégoire Coudert",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 2,
+   "name": "Kyle Walker",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 3,
+   "name": "Max Alleyne",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 6,
+   "name": "Bashir Humphreys",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 14,
+   "name": "Connor Roberts",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 15,
+   "name": "Anel Ahmedhodžić",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BA"
+  },
+  {
+   "n": 18,
+   "name": "Hjalmar Ekdal",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SE"
+  },
+  {
+   "n": 20,
+   "name": "Shurandy Sambo",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CW"
+  },
+  {
+   "n": 22,
+   "name": "Oliver Sonne",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "PE"
+  },
+  {
+   "n": 23,
+   "name": "Lucas Pires",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 36,
+   "name": "Jordan Beyer",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 99,
+   "name": "Igor Julio",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 5,
+   "name": "Reo Hatate",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "JP"
+  },
+  {
+   "n": 8,
+   "name": "Ugo Raghouber",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FR"
+  },
+  {
+   "n": 21,
+   "name": "Aaron Ramsey",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 24,
+   "name": "Josh Cullen",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IE"
+  },
+  {
+   "n": 28,
+   "name": "Hannibal Mejbri",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "TN"
+  },
+  {
+   "n": 29,
+   "name": "Josh Laurent",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 7,
+   "name": "Jacob Bruun Larsen",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DK"
+  },
+  {
+   "n": 9,
+   "name": "Jamie Vardy",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 10,
+   "name": "Marcus Edwards",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CY"
+  },
+  {
+   "n": 11,
+   "name": "Zeki Amdouni",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CH"
+  },
+  {
+   "n": 12,
+   "name": "Dastan Satpaev",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KZ"
+  },
+  {
+   "n": 17,
+   "name": "Andréas Hountondji",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BJ"
+  },
+  {
+   "n": 19,
+   "name": "Largie Ramazani",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BE"
+  },
+  {
+   "n": 27,
+   "name": "Armando Broja",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AL"
+  },
+  {
+   "n": 31,
+   "name": "Mike Trésor",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BE"
+  },
+  {
+   "n": 34,
+   "name": "Jaydon Banel",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NL"
+  },
+  {
+   "n": 35,
+   "name": "Ashley Barnes",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 45,
+   "name": "Michael Obafemi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IE"
+  }
+ ]
+}

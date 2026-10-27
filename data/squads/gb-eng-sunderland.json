@@ -1,0 +1,192 @@
+{
+ "team": "gb-eng-sunderland",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/da/teams/8472/squad/sunderland"
+ ],
+ "players": [
+  {
+   "n": 21,
+   "name": "Simon Moore",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 22,
+   "name": "Robin Roefs",
+   "pos": "GK",
+   "nat": "NL"
+  },
+  {
+   "n": 31,
+   "name": "Melker Ellborg",
+   "pos": "GK",
+   "nat": "SE"
+  },
+  {
+   "n": 4,
+   "name": "Kevin Danso",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 5,
+   "name": "Daniel Ballard",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-NIR"
+  },
+  {
+   "n": 12,
+   "name": "Thomas Meunier",
+   "pos": "DF",
+   "nat": "BE"
+  },
+  {
+   "n": 13,
+   "name": "Luke O'Nien",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 15,
+   "name": "Omar Alderete",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PY"
+  },
+  {
+   "n": 17,
+   "name": "Reinildo",
+   "pos": "DF",
+   "nat": "MZ"
+  },
+  {
+   "n": 20,
+   "name": "Nordi Mukiele",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": 32,
+   "name": "Trai Hume",
+   "pos": "DF",
+   "nat": "GB-NIR"
+  },
+  {
+   "n": 42,
+   "name": "Ajibola Alese",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 6,
+   "name": "Dayann Méthalie",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": 8,
+   "name": "Alan Browne",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IE"
+  },
+  {
+   "n": 19,
+   "name": "Habib Diarra",
+   "pos": "MF",
+   "nat": "SN"
+  },
+  {
+   "n": 27,
+   "name": "Noah Sadiki",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CD"
+  },
+  {
+   "n": 28,
+   "name": "Enzo Le Fée",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": 29,
+   "name": "Jules Ahoka",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CD"
+  },
+  {
+   "n": 34,
+   "name": "Granit Xhaka",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CH"
+  },
+  {
+   "n": 7,
+   "name": "Chemsdine Talbi",
+   "pos": "FW",
+   "nat": "MA"
+  },
+  {
+   "n": 9,
+   "name": "Brian Brobbey",
+   "pos": "FW",
+   "nat": "NL"
+  },
+  {
+   "n": 10,
+   "name": "Nilson Angulo",
+   "pos": "FW",
+   "nat": "EC"
+  },
+  {
+   "n": 11,
+   "name": "Chris Rigg",
+   "pos": "FW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 14,
+   "name": "Romaine Mundle",
+   "pos": "FW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 18,
+   "name": "Wilson Isidor",
+   "pos": "FW",
+   "nat": "HT"
+  },
+  {
+   "n": 37,
+   "name": "Jocelin Ta Bi",
+   "pos": "FW",
+   "nat": "CI"
+  },
+  {
+   "n": 39,
+   "name": "Malick Fofana",
+   "pos": "FW",
+   "nat": "BE"
+  },
+  {
+   "n": 46,
+   "name": "Abdoullah Ba",
+   "pos": "FW",
+   "nat": "MR"
+  },
+  {
+   "n": 50,
+   "name": "Juan Riquelme Angulo",
+   "pos": "FW",
+   "nat": "EC"
+  }
+ ]
+}
