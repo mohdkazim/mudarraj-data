@@ -3438,3 +3438,9 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad it-genoa squad added (26 players)
   - ✓ squad it-inter-milan squad added (24 players)
   - ✓ squad it-napoli squad added (35 players)
+
+## 2026-10-27 (2026-10-27T17:03:44.097Z)
+- 3 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad ae-ajman squad added (28 players)
+  - ✓ squad ae-al-dhafra squad added (24 players)
+  - ✓ squad de-borussia-dortmund squad added (34 players)

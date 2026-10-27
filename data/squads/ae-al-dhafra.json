@@ -1,0 +1,153 @@
+{
+ "team": "ae-al-dhafra",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/it/teams/102118/squad/al-dhafra"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Mazin Zayid",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 17,
+   "name": "Eisa Al Houti",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 44,
+   "name": "Amjad Al Sayed",
+   "pos": "GK",
+   "nat": "SY"
+  },
+  {
+   "n": 55,
+   "name": "Sultan Al Zaabi",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 3,
+   "name": "Dramane Koumare",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 4,
+   "name": "Serafim",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": 6,
+   "name": "Ezeckiel Noumonvi",
+   "pos": "DF",
+   "nat": "TG"
+  },
+  {
+   "n": 15,
+   "name": "Abdulla Al Karbi",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 20,
+   "name": "Leonard Amesimeku",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 26,
+   "name": "Yousif Al Marzooqi",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 33,
+   "name": "Samir",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": 77,
+   "name": "Adem Ben Fajria",
+   "pos": "DF",
+   "nat": "TN"
+  },
+  {
+   "n": 5,
+   "name": "Mansor Al Harbi",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 8,
+   "name": "Zackariah Mohammed",
+   "pos": "MF",
+   "nat": "GH"
+  },
+  {
+   "n": 10,
+   "name": "Regi Lushkja",
+   "pos": "MF",
+   "nat": "AL"
+  },
+  {
+   "n": 11,
+   "name": "Mohammed El Khaloui",
+   "pos": "MF",
+   "nat": "MA"
+  },
+  {
+   "n": 14,
+   "name": "Khalid Bawazir",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 21,
+   "name": "Rostand Djooh",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 22,
+   "name": "Rayan Yaslam",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 88,
+   "name": "Dominique Mendy",
+   "pos": "MF",
+   "nat": "SN"
+  },
+  {
+   "n": 9,
+   "name": "Sory Kaba",
+   "pos": "FW",
+   "nat": "GN"
+  },
+  {
+   "n": 19,
+   "name": "Abdullah Batal",
+   "pos": "FW",
+   "nat": "SY"
+  },
+  {
+   "n": 99,
+   "name": "Marcelinho",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Arielson",
+   "pos": "FW",
+   "nat": "BR"
+  }
+ ]
+}

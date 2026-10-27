@@ -1,0 +1,198 @@
+{
+ "team": "ae-ajman",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/149994/squad/ajman"
+ ],
+ "players": [
+  {
+   "n": 30,
+   "name": "Yousuf Ahmed",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 40,
+   "name": "Abdulla Al Tamimi",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 81,
+   "name": "Ali Al Hosani",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 2,
+   "name": "Abdelrahman Rakan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 3,
+   "name": "Abdulla Saleh",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 4,
+   "name": "Salem Suleiman",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 5,
+   "name": "Gjoko Zajkov",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MK"
+  },
+  {
+   "n": 12,
+   "name": "Mohammad Nasser",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 14,
+   "name": "Fradj Ben Njima",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "TN"
+  },
+  {
+   "n": 22,
+   "name": "Vitão",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 23,
+   "name": "Ahmed Sulaiman",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "AE"
+  },
+  {
+   "n": 31,
+   "name": "Yassine Jabri",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "MA"
+  },
+  {
+   "n": 32,
+   "name": "Jay Baisley",
+   "pos": "DF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 44,
+   "name": "Yuri Matias",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 6,
+   "name": "Victor Hugo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 8,
+   "name": "Jobson",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Mohammad Juma",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "AE"
+  },
+  {
+   "n": 11,
+   "name": "Abdulla Abdelaziz",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 18,
+   "name": "Ismail Moumen",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MA"
+  },
+  {
+   "n": 26,
+   "name": "Bilal Yousef",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 29,
+   "name": "Carlinhos",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 33,
+   "name": "Lithierry",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 67,
+   "name": "Anas Mtitache",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MA"
+  },
+  {
+   "n": 99,
+   "name": "Victor Henrique",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": 7,
+   "name": "Lourency",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 9,
+   "name": "Waleed Azaro",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  },
+  {
+   "n": 17,
+   "name": "Sékou Gassama",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ML"
+  },
+  {
+   "n": 48,
+   "name": "Saad El Hadani",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  }
+ ]
+}

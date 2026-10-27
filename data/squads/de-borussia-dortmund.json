@@ -1,0 +1,240 @@
+{
+ "team": "de-borussia-dortmund",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9789/squad/borussia-dortmund,players,players,teams"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Gregor Kobel",
+   "pos": "GK",
+   "nat": "CH"
+  },
+  {
+   "n": 30,
+   "name": "Patrick Drewes",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Silas Ostrzinski",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Alexander Meyer",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Waldemar Anton",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Nico Schlotterbeck",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Ramy Bensebaini",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DZ"
+  },
+  {
+   "n": 22,
+   "name": "Joane Gadou",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 23,
+   "name": "Emre Can",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Kauã Prates",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 39,
+   "name": "Filippo Mane",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 49,
+   "name": "Luca Reggiani",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Jan-Luca Riedl",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Roméo Ritter",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Jobe Bellingham",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 8,
+   "name": "Felix Nmecha",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Maximilian Beier",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Carney Chukwuemeka",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AT"
+  },
+  {
+   "n": 18,
+   "name": "Ethan Nwaneri",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 20,
+   "name": "Marcel Sabitzer",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AT"
+  },
+  {
+   "n": 24,
+   "name": "Daniel Svensson",
+   "pos": "MF",
+   "nat": "SE"
+  },
+  {
+   "n": 25,
+   "name": "Joey Veerman",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NL"
+  },
+  {
+   "n": 26,
+   "name": "Julian Ryerson",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": 28,
+   "name": "Justin Lerma",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "EC"
+  },
+  {
+   "n": 40,
+   "name": "Samuele Inácio",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 44,
+   "name": "Enzo Duarte",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "LU"
+  },
+  {
+   "n": 45,
+   "name": "Giannis Konstantelias",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GR"
+  },
+  {
+   "n": 48,
+   "name": "Mussa Kaba",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Miguel Adje",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Serhou Guirassy",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GN"
+  },
+  {
+   "n": 19,
+   "name": "Konstantinos Karetsas",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GR"
+  },
+  {
+   "n": 21,
+   "name": "Fábio Silva",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PT"
+  },
+  {
+   "n": 41,
+   "name": "Mathis Albert",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "US"
+  },
+  {
+   "n": null,
+   "name": "Marwan-Omir Mirza",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}
