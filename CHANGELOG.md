@@ -3656,3 +3656,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad th-bg-pathum-united squad added (43 players)
   - ✓ squad it-benevento squad added (31 players)
   - ✓ squad de-erzgebirge-aue squad added (23 players)
+
+## 2026-10-27 (2026-10-27T18:35:00Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result acle-2026-27-league-west-gwest-r03-ae-shabab-al-ahli-ir-esteghlal 2-0 FT

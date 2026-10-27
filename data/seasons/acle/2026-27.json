@@ -2040,14 +2040,22 @@
    "away": "ir-esteghlal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
-   ]
+    "https://www.albayan.ae/sports/uae-stadiums/1560994",
+    "https://www.emaratalyoum.com/sports/local/2026-10-27-1.2096706"
+   ],
+   "updatedAt": "2026-10-27T18:37:04.567Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r03-qa-al-shamal-sa-al-hilal",

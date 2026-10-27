@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-27T18:30:54.153Z",
+ "generatedAt": "2026-10-27T18:37:04.840Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 385,
+  "results": 386,
   "pending": 0
  },
  "teams": [
@@ -35379,8 +35379,15 @@
    "away": "ir-esteghlal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Rashid Stadium",
@@ -35393,9 +35400,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+    "https://www.albayan.ae/sports/uae-stadiums/1560994",
+    "https://www.emaratalyoum.com/sports/local/2026-10-27-1.2096706"
    ],
+   "updatedAt": "2026-10-27T18:37:04.567Z",
    "venueFrom": "home-ground"
   },
   {
