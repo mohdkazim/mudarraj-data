@@ -1,0 +1,149 @@
+{
+ "team": "hk-kitchee",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/my/teams/165165/squad/kitchee"
+ ],
+ "players": [
+  {
+   "n": 13,
+   "name": "Enikar Mehmud",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 17,
+   "name": "Pong Cheuk Hei",
+   "pos": "GK",
+   "nat": "HK"
+  },
+  {
+   "n": 23,
+   "name": "Shek Tuscany",
+   "pos": "GK",
+   "nat": "HK"
+  },
+  {
+   "n": 2,
+   "name": "Marcão Santos",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 3,
+   "name": "Roger Riera",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Jay Haddow",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "HK"
+  },
+  {
+   "n": 14,
+   "name": "Kam Chi Kin Jason",
+   "pos": "DF",
+   "nat": "HK"
+  },
+  {
+   "n": 20,
+   "name": "Dudú",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HK"
+  },
+  {
+   "n": 22,
+   "name": "Callum Beattie",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "HK"
+  },
+  {
+   "n": 5,
+   "name": "Asier Illarramendi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Ruslan Mingazow",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "TM"
+  },
+  {
+   "n": 8,
+   "name": "Cheng Chin Lung",
+   "pos": "MF",
+   "nat": "HK"
+  },
+  {
+   "n": 10,
+   "name": "Kendy",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Yumemi Kanda",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 15,
+   "name": "Víctor Camarasa",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Tan Chun Lok",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "HK"
+  },
+  {
+   "n": 18,
+   "name": "Everton Camargo",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "HK"
+  },
+  {
+   "n": 27,
+   "name": "Jordan Lam Lok Kan",
+   "pos": "MF",
+   "nat": "HK"
+  },
+  {
+   "n": 30,
+   "name": "Juninho",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "HK"
+  },
+  {
+   "n": 9,
+   "name": "Adrián Revilla",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Koldo Obieta",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  }
+ ]
+}

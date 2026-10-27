@@ -1,0 +1,225 @@
+{
+ "team": "de-fortuna-dusseldorf",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/fr/teams/8194/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Lasse Rieß",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Louis Lord",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 41,
+   "name": "Milan Czako",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Steven van der Sloot",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "NL"
+  },
+  {
+   "n": 3,
+   "name": "Dominique Heintz",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Lukas Bornschein",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Erik Wekesser",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 15,
+   "name": "Tim Oberdorf",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Marcel Benger",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Felix Meiser",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "Matthias Zimmermann",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Sascha Risch",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 37,
+   "name": "Levi Mentzel",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 39,
+   "name": "Kaden Amaniampong",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 42,
+   "name": "Leonard Brodersen",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Noah Egouli",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 44,
+   "name": "Elias Egouli",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Yassine Bouchama",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Andreas Müller",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Jorrit Hendrix",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NL"
+  },
+  {
+   "n": 10,
+   "name": "Philipp Förster",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Lukas Eixler",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Miguel Gonçalves",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "LU"
+  },
+  {
+   "n": 29,
+   "name": "Kilian Sauck",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 38,
+   "name": "Elias Arden",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 40,
+   "name": "Hamza Anhari",
+   "pos": "MF",
+   "nat": "MA"
+  },
+  {
+   "n": 9,
+   "name": "Eric Hottmann",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Jomaine Consbruch",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Filimon Gerezgiher",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ER"
+  },
+  {
+   "n": 24,
+   "name": "Fabian Schleusener",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Jordi Paulina",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CW"
+  },
+  {
+   "n": 34,
+   "name": "Anas Slimani",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  }
+ ]
+}

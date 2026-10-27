@@ -1,0 +1,186 @@
+{
+ "team": "sa-neom",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/id/teams/1699505/squad/neom-sc"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Marcin Bułka",
+   "pos": "GK",
+   "nat": "PL"
+  },
+  {
+   "n": 33,
+   "name": "Abdulrahman Dagriri",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 81,
+   "name": "Luís Maximiano",
+   "pos": "GK",
+   "nat": "PT"
+  },
+  {
+   "n": 2,
+   "name": "Mohammed Al Burayk",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 4,
+   "name": "Khalifah Al Dawsari",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 5,
+   "name": "Malang Sarr",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 15,
+   "name": "Abdulmalik Al Oyayari",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 27,
+   "name": "Islam Hawsawi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 44,
+   "name": "Nathan Zézé",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 55,
+   "name": "Mohammed Al Dossary",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 75,
+   "name": "Khaled Al Rammah",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Abbas Al Hassan",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Giorgos Masouras",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "GR"
+  },
+  {
+   "n": 8,
+   "name": "Faisal Al Ghamdi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 10,
+   "name": "Saïd Benrahma",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "DZ"
+  },
+  {
+   "n": 14,
+   "name": "Khalil Al Absi",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "SA"
+  },
+  {
+   "n": 18,
+   "name": "Alaa Al Hejji",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 19,
+   "name": "Mohannad Abu Taha",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": 23,
+   "name": "Valentín Vada",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AR"
+  },
+  {
+   "n": 24,
+   "name": "Abdulaziz Noor",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "SA"
+  },
+  {
+   "n": 72,
+   "name": "Amadou Koné",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CI"
+  },
+  {
+   "n": 77,
+   "name": "Muhannad Al Saad",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "SA"
+  },
+  {
+   "n": 9,
+   "name": "Abdulaziz Al Othman",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 22,
+   "name": "Ahmed Al Anazi",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 70,
+   "name": "Haroune Camara",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 91,
+   "name": "Alexandre Lacazette",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  }
+ ]
+}

@@ -1,0 +1,175 @@
+{
+ "team": "de-hannover-96",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9904/squad/hannover-96"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Pascal Loretz",
+   "pos": "GK",
+   "nat": "CH"
+  },
+  {
+   "n": 30,
+   "name": "Leo Weinkauf",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Boris Tomiak",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Jean Hugonet",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 5,
+   "name": "Virgil Ghiță",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RO"
+  },
+  {
+   "n": 17,
+   "name": "Bastian Allgeier",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Ime Okon",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ZA"
+  },
+  {
+   "n": 24,
+   "name": "Yunus Uenal",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Karl Steinmann",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Marcel Hartel",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 13,
+   "name": "Franz Roggow",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Mwisho Mhango",
+   "pos": "MF",
+   "nat": "MW"
+  },
+  {
+   "n": 23,
+   "name": "Stefán Thórdarson",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IS"
+  },
+  {
+   "n": 27,
+   "name": "Hayate Matsuda",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "JP"
+  },
+  {
+   "n": 33,
+   "name": "Maurice Neubauer",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 37,
+   "name": "Alexander Vogel",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 38,
+   "name": "Jasper Reinhold",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Mustapha Bundu",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SL"
+  },
+  {
+   "n": 8,
+   "name": "Waniss Taïbi",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": 9,
+   "name": "Benjamin Källman",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FI"
+  },
+  {
+   "n": 11,
+   "name": "Benedikt Pichler",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AT"
+  },
+  {
+   "n": 25,
+   "name": "Lars Gindorf",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Tom Hobrecht",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Taycan Etçibasi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 44,
+   "name": "Emir Sahiti",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "XK"
+  }
+ ]
+}

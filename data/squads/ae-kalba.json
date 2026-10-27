@@ -1,0 +1,209 @@
+{
+ "team": "ae-kalba",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/209190/squad/kalba-fc"
+ ],
+ "players": [
+  {
+   "n": 17,
+   "name": "Saif Yousif",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 33,
+   "name": "Sultan Al Mantheri",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 55,
+   "name": "Hamad Al Mansoori",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 3,
+   "name": "Amirhossein Samdaliri",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IR"
+  },
+  {
+   "n": 12,
+   "name": "Salem Rashid",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 19,
+   "name": "Alejandro Vergaz",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Koray Günter",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Waleed Rashid",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 25,
+   "name": "Abdul Sallam Mohameed",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 26,
+   "name": "Ibrahim Cissé",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 34,
+   "name": "Yousif Ali Al Mheiri",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 96,
+   "name": "Marwan Fahad",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Bader Nasser",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AE"
+  },
+  {
+   "n": 5,
+   "name": "Ali Salmin",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 6,
+   "name": "Rejan Alivoda",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "AL"
+  },
+  {
+   "n": 7,
+   "name": "Saman Ghoddos",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IR"
+  },
+  {
+   "n": 8,
+   "name": "Caio Eduardo",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BR"
+  },
+  {
+   "n": 9,
+   "name": "Guilherme Biro",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Ahmad Noorollahi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IR"
+  },
+  {
+   "n": 20,
+   "name": "Saile Samuel",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 24,
+   "name": "Khalid Al Darmaki",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 41,
+   "name": "Neto",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 42,
+   "name": "Ahmed Abunamous",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "PS"
+  },
+  {
+   "n": 77,
+   "name": "Adyson",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "BR"
+  },
+  {
+   "n": 94,
+   "name": "Juninho",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "BR"
+  },
+  {
+   "n": 27,
+   "name": "Yaser Al Blooshi",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AE"
+  },
+  {
+   "n": 30,
+   "name": "Benjamin Tetteh",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GH"
+  },
+  {
+   "n": 80,
+   "name": "Nemanja Jović",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "RS"
+  },
+  {
+   "n": 99,
+   "name": "Carlos Alberto",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  }
+ ]
+}

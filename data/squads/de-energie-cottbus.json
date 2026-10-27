@@ -1,0 +1,223 @@
+{
+ "team": "de-energie-cottbus",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es-419/teams/8398/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Marcel Lotka",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Kevin Kratzsch",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Max Böhnke",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Alexander Sebald",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "King Manu",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Henry Rorig",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Tim Campulka",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Ryan Malone",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "US"
+  },
+  {
+   "n": 20,
+   "name": "Axel Borgmann",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Luca Erlein",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Fabian Balg",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Fousseny Doumbia",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Anderson Lucoqui",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AO"
+  },
+  {
+   "n": 25,
+   "name": "Leon Guwara",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GM"
+  },
+  {
+   "n": 42,
+   "name": "Jannis Zaydan",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Aaron Reschke",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Joel Awuah",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Dominik Pelivan",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Jonas Hofmann",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Lukas Michelbrink",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "LT"
+  },
+  {
+   "n": 10,
+   "name": "Tolcay Ciğerci",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "TR"
+  },
+  {
+   "n": 14,
+   "name": "Félix Schubart",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Julian Guttau",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Jannis Boziaris",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GR"
+  },
+  {
+   "n": 32,
+   "name": "Leonardo Bittencourt",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 41,
+   "name": "Edwin Kracht",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Christian Kinsombi",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Lucas Copado",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Moritz Hannemann",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 13,
+   "name": "Dmytro Bogdanov",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "UA"
+  },
+  {
+   "n": 18,
+   "name": "Erik Engelhardt",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Justin Butler",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  }
+ ]
+}

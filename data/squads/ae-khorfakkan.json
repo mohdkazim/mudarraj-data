@@ -1,0 +1,210 @@
+{
+ "team": "ae-khorfakkan",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/149993/squad/khorfakkan"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Ahmed Al Hosani",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 50,
+   "name": "Rashed Ali",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 95,
+   "name": "Rashid Abdalla",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 99,
+   "name": "Rashid Al Naour",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 2,
+   "name": "Yousef Al Ameri",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 3,
+   "name": "Kayque Campos",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 4,
+   "name": "Rafael Pereira",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 6,
+   "name": "Akram Al Nakach",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MA"
+  },
+  {
+   "n": 11,
+   "name": "Ahmed Jashkak",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 12,
+   "name": "Ilyass Lagrimi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "MA"
+  },
+  {
+   "n": 16,
+   "name": "Pedro Pavlov",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AR"
+  },
+  {
+   "n": 17,
+   "name": "Sultan Al Zaabi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 19,
+   "name": "Luís Haquín",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BO"
+  },
+  {
+   "n": 34,
+   "name": "Serano Seymor",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 5,
+   "name": "Ahmadou Camara",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GN"
+  },
+  {
+   "n": 7,
+   "name": "Junior Flemmings",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "JM"
+  },
+  {
+   "n": 8,
+   "name": "Abdalla Al Naqbi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AE"
+  },
+  {
+   "n": 13,
+   "name": "Ahmed Barman",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 20,
+   "name": "Abubakar Adams",
+   "pos": "MF",
+   "nat": "GH"
+  },
+  {
+   "n": 21,
+   "name": "Selim Amallah",
+   "pos": "MF",
+   "nat": "MA"
+  },
+  {
+   "n": 24,
+   "name": "Ahmed Mahmoud",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AE"
+  },
+  {
+   "n": 79,
+   "name": "Jean N'Guessan",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "CI"
+  },
+  {
+   "n": 80,
+   "name": "Ramiro Vaca",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BO"
+  },
+  {
+   "n": 9,
+   "name": "Tarik Tissoudali",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  },
+  {
+   "n": 10,
+   "name": "Aylton Boa Morte",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "PT"
+  },
+  {
+   "n": 28,
+   "name": "Mohammed Jamal",
+   "pos": "FW",
+   "nat": "AE"
+  },
+  {
+   "n": 77,
+   "name": "Rilwanu Sarki",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "NG"
+  },
+  {
+   "n": 84,
+   "name": "Malang Sagna",
+   "pos": "FW",
+   "nat": "SN"
+  },
+  {
+   "n": 90,
+   "name": "Adama Diallo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CI"
+  },
+  {
+   "n": 91,
+   "name": "Oumar Traoré",
+   "pos": "FW",
+   "nat": "ML"
+  }
+ ]
+}

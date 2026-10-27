@@ -1,0 +1,119 @@
+{
+ "team": "hk-tai-po",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/ko/teams/165169/squad/tai-po"
+ ],
+ "players": [
+  {
+   "n": 94,
+   "name": "Tse Ka Wing",
+   "pos": "GK",
+   "nat": "HK"
+  },
+  {
+   "n": 4,
+   "name": "Léo Rigo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 12,
+   "name": "Gérson",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": 13,
+   "name": "Sim Seung-Hyeon",
+   "pos": "DF",
+   "nat": "KR"
+  },
+  {
+   "n": 26,
+   "name": "Lee Ka Ho",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "HK"
+  },
+  {
+   "n": 33,
+   "name": "Gabriel Moreira",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 44,
+   "name": "Weverton Rangel",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 6,
+   "name": "Chan Hoi Pak Paco",
+   "pos": "MF",
+   "nat": "HK"
+  },
+  {
+   "n": 8,
+   "name": "Nando Welter",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Facundo Aranda",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AR"
+  },
+  {
+   "n": 16,
+   "name": "Philip Chan Siu Kwan",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "HK"
+  },
+  {
+   "n": 7,
+   "name": "Chang Hei Yin",
+   "pos": "FW",
+   "nat": "HK"
+  },
+  {
+   "n": 9,
+   "name": "Paulinho Simionato",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Fernando",
+   "pos": "FW",
+   "nat": "HK"
+  },
+  {
+   "n": 18,
+   "name": "Igor Sartori",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 23,
+   "name": "Emilio Estevez",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "TW"
+  },
+  {
+   "n": 97,
+   "name": "Marquinhos",
+   "pos": "FW",
+   "nat": "BR"
+  }
+ ]
+}

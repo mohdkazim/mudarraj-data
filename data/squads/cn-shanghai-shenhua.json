@@ -1,0 +1,194 @@
+{
+ "team": "cn-shanghai-shenhua",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/vi/teams/6628/squad/shanghai-shenhua"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Xue Qinghao",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 24,
+   "name": "Ma Zhen",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 39,
+   "name": "Sun Dongyang",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 2,
+   "name": "Wang Shilong",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CN"
+  },
+  {
+   "n": 3,
+   "name": "Jin Shunkai",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CN"
+  },
+  {
+   "n": 4,
+   "name": "Jiang Shenglong",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CN"
+  },
+  {
+   "n": 5,
+   "name": "Zhu Chenjie",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CN"
+  },
+  {
+   "n": 6,
+   "name": "Li Songyi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CN"
+  },
+  {
+   "n": 13,
+   "name": "Wilson Manafá",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "PT"
+  },
+  {
+   "n": 16,
+   "name": "Yang Zexiang",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CN"
+  },
+  {
+   "n": 25,
+   "name": "Zhu Yue",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "CN"
+  },
+  {
+   "n": 26,
+   "name": "Yang Shuai",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CN"
+  },
+  {
+   "n": 27,
+   "name": "Shinichi Chan",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "HK"
+  },
+  {
+   "n": 36,
+   "name": "Huang Ming",
+   "pos": "DF",
+   "nat": "CN"
+  },
+  {
+   "n": 8,
+   "name": "Li Ke",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CN"
+  },
+  {
+   "n": 10,
+   "name": "João Teixeira",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 15,
+   "name": "Wu Xi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CN"
+  },
+  {
+   "n": 17,
+   "name": "Gao Tianyi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CN"
+  },
+  {
+   "n": 21,
+   "name": "Xu Haoyang",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "CN"
+  },
+  {
+   "n": 30,
+   "name": "Xie Pengfei",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "CN"
+  },
+  {
+   "n": 33,
+   "name": "Wang Haijian",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CN"
+  },
+  {
+   "n": 38,
+   "name": "Wu Qipeng",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CN"
+  },
+  {
+   "n": 9,
+   "name": "Rafael Ratão",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 18,
+   "name": "Liu Chengyu",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CN"
+  },
+  {
+   "n": 19,
+   "name": "Luís Asué",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GQ"
+  },
+  {
+   "n": 29,
+   "name": "Makhtar Gueye",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SN"
+  },
+  {
+   "n": 43,
+   "name": "Yang Haoyu",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "CN"
+  }
+ ]
+}

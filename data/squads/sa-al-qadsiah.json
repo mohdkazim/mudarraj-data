@@ -1,0 +1,204 @@
+{
+ "team": "sa-al-qadsiah",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/id/teams/101919/squad/al-qadsiah"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Koen Casteels",
+   "pos": "GK",
+   "nat": "BE"
+  },
+  {
+   "n": 28,
+   "name": "Ahmed Al Kassar",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 50,
+   "name": "Meshari Sunyur",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 4,
+   "name": "Jehad Thakri",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Nacho",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "Yasser Al Shahrani",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 17,
+   "name": "Gastón Álvarez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UY"
+  },
+  {
+   "n": 23,
+   "name": "Waleed Al Ahmad",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 24,
+   "name": "Mohammed Qassim",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 26,
+   "name": "Ali Diabaté",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CI"
+  },
+  {
+   "n": 2,
+   "name": "Mohammed Abu Al Shamat",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "SA"
+  },
+  {
+   "n": 5,
+   "name": "Julian Weigl",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Turki Al Ammar",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "SA"
+  },
+  {
+   "n": 8,
+   "name": "Nahitan Nández",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "UY"
+  },
+  {
+   "n": 10,
+   "name": "Musab Al Juwayr",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 11,
+   "name": "Ali Hazazi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 14,
+   "name": "Tijjani Reijnders",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NL"
+  },
+  {
+   "n": 15,
+   "name": "Mohammed Al Qahtani",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 18,
+   "name": "Abdulmalik Al Jaber",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 22,
+   "name": "Christopher Bonsu Baah",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "GH"
+  },
+  {
+   "n": 27,
+   "name": "Eyad Houssa",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 35,
+   "name": "Ahmed Al Siyahi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 46,
+   "name": "Abdulaziz Al Elewai",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 9,
+   "name": "Abdullah Al Salem",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 19,
+   "name": "Haitham Asiri",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 30,
+   "name": "Mahamadou Sangaré",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 32,
+   "name": "Mateo Retegui",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 33,
+   "name": "Julián Quiñones",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MX"
+  },
+  {
+   "n": 70,
+   "name": "Suleman Sani",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NG"
+  }
+ ]
+}

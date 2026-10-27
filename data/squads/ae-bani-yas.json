@@ -1,0 +1,197 @@
+{
+ "team": "ae-bani-yas",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/182933/squad/baniyas"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Mohammed Khalaf",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 17,
+   "name": "Luiz Turatto",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": 33,
+   "name": "Adel Fadaq",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 55,
+   "name": "Fahad Al Dhanhani",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 2,
+   "name": "Mahamadou Camara",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ML"
+  },
+  {
+   "n": 3,
+   "name": "João Victor",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 5,
+   "name": "Hasan Al Muharrami",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 16,
+   "name": "Khalid Al Hashemi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 18,
+   "name": "Suhail Al Noobi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 21,
+   "name": "Mackenzie Hunt",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AE"
+  },
+  {
+   "n": 23,
+   "name": "Khamis Al Hammadi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AE"
+  },
+  {
+   "n": 25,
+   "name": "Nemanja Đeković",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RS"
+  },
+  {
+   "n": 26,
+   "name": "Khamis Al Mansoori",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 71,
+   "name": "Khalifa Hussain",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 4,
+   "name": "Solomon Sosu",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 6,
+   "name": "Jacob Awoute",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GH"
+  },
+  {
+   "n": 7,
+   "name": "Fawaz Awana",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AE"
+  },
+  {
+   "n": 10,
+   "name": "Lionel Verde",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AR"
+  },
+  {
+   "n": 19,
+   "name": "Rocky Marciano",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "CM"
+  },
+  {
+   "n": 20,
+   "name": "Saif Al Menhali",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 27,
+   "name": "Burak Ince",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "TR"
+  },
+  {
+   "n": 28,
+   "name": "Alassane Diallo",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ML"
+  },
+  {
+   "n": 70,
+   "name": "Aziz G'aniev",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "UZ"
+  },
+  {
+   "n": 8,
+   "name": "Mater Al Hosani",
+   "pos": "FW",
+   "nat": "AE"
+  },
+  {
+   "n": 9,
+   "name": "Ahmed Fawzi",
+   "pos": "FW",
+   "nat": "AE"
+  },
+  {
+   "n": 11,
+   "name": "Alhassan Koroma",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SL"
+  },
+  {
+   "n": 12,
+   "name": "Youssoufou Niakaté",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ML"
+  },
+  {
+   "n": 77,
+   "name": "Saviour Godwin",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NG"
+  }
+ ]
+}

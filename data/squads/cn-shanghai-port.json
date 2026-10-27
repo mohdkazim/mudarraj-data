@@ -1,0 +1,264 @@
+{
+ "team": "cn-shanghai-port",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/th/teams/198616/squad/players"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Junling Yan",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 12,
+   "name": "Wei Chen",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 53,
+   "name": "Zhiliang Li",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 55,
+   "name": "Yuhang Zhang",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 3,
+   "name": "Tyias Browning",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CN"
+  },
+  {
+   "n": 4,
+   "name": "Shenchao Wang",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "CN"
+  },
+  {
+   "n": 5,
+   "name": "Linpeng Zhang",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CN"
+  },
+  {
+   "n": 13,
+   "name": "Zhen Wei",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CN"
+  },
+  {
+   "n": 19,
+   "name": "Zhenao Wang",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "CN"
+  },
+  {
+   "n": 22,
+   "name": "Alex Yang",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CN"
+  },
+  {
+   "n": 23,
+   "name": "Huan Fu",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "CN"
+  },
+  {
+   "n": 28,
+   "name": "Xin Yue",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CN"
+  },
+  {
+   "n": 31,
+   "name": "Shimeng Bao",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "CN"
+  },
+  {
+   "n": 32,
+   "name": "Shuai Li",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CN"
+  },
+  {
+   "n": 40,
+   "name": "Umidjan Yusup",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CN"
+  },
+  {
+   "n": 44,
+   "name": "Miguel Campos",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 54,
+   "name": "Dongcheng Wang",
+   "pos": "DF",
+   "nat": "CN"
+  },
+  {
+   "n": 6,
+   "name": "Yuan Zhang",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CN"
+  },
+  {
+   "n": 8,
+   "name": "Jean Claude",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "TG"
+  },
+  {
+   "n": 10,
+   "name": "Mateus Vital",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 16,
+   "name": "Jaume Grau",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 20,
+   "name": "Shiyuan Yang",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CN"
+  },
+  {
+   "n": 21,
+   "name": "Óscar Melendo",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 24,
+   "name": "Ruilong Li",
+   "pos": "MF",
+   "nat": "CN"
+  },
+  {
+   "n": 33,
+   "name": "Zhurun Liu",
+   "pos": "MF",
+   "nat": "CN"
+  },
+  {
+   "n": 38,
+   "name": "Yongtao Lu",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CN"
+  },
+  {
+   "n": 47,
+   "name": "Jiwen Kuai",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "CN"
+  },
+  {
+   "n": 58,
+   "name": "Zhezhe Cao",
+   "pos": "MF",
+   "nat": "CN"
+  },
+  {
+   "n": 7,
+   "name": "Lei Wu",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CN"
+  },
+  {
+   "n": 11,
+   "name": "Gabrielzinho",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 14,
+   "name": "Matthew Orr",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "HK"
+  },
+  {
+   "n": 17,
+   "name": "Prince Ampem",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GH"
+  },
+  {
+   "n": 26,
+   "name": "Ruofan Liu",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CN"
+  },
+  {
+   "n": 35,
+   "name": "Junxiang Wen",
+   "pos": "FW",
+   "nat": "CN"
+  },
+  {
+   "n": 37,
+   "name": "Junjie Zhang",
+   "pos": "FW",
+   "nat": "CN"
+  },
+  {
+   "n": 45,
+   "name": "Leonardo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 46,
+   "name": "Juncheng Cui",
+   "pos": "FW",
+   "nat": "CN"
+  },
+  {
+   "n": 49,
+   "name": "Xinxiang Li",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CN"
+  }
+ ]
+}

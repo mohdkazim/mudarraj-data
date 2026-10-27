@@ -1,0 +1,280 @@
+{
+ "team": "de-fc-saarbrucken",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8271/squad/saarbrucken"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Matteo Bignetti",
+   "pos": "GK",
+   "nat": "AT"
+  },
+  {
+   "n": 13,
+   "name": "Phillip Menzel",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Benjamin Lade",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Kevin Broll",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 35,
+   "name": "Ricco Cymer",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Jonas Nickisch",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Tim Paterok",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Siemen Voet",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BE"
+  },
+  {
+   "n": 7,
+   "name": "Calogero Rizzuto",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Gökdeniz Gürpüz",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "TR"
+  },
+  {
+   "n": 21,
+   "name": "Mladen Cvjetinović",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Nikola Aracic",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Niko Bretschneider",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 32,
+   "name": "Robin Bormuth",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 42,
+   "name": "Philip Fahrner",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Luca Beher",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Rhani Abdennour",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": 3,
+   "name": "Anton Bäuerle",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Daniel Gleiber",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Patrick Sontheimer",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Zac Shuaib",
+   "pos": "MF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 15,
+   "name": "Abdoulaye Kamara",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GN"
+  },
+  {
+   "n": 16,
+   "name": "Seung-Joon Lee",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "KR"
+  },
+  {
+   "n": 19,
+   "name": "Sebastian Vasiliadis",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GR"
+  },
+  {
+   "n": 22,
+   "name": "Kaan Çaliskaner",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "Amine Naïfi",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": 34,
+   "name": "Nils Krämer",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 99,
+   "name": "Finn Rupp",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Elijah Krahn",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Manuel Zeitz",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Richard Neudecker",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Till Schumacher",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Kai Brünker",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Christian Kühlwetter",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Maurice Multhaup",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Abdenego Nankishi",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Florian Pick",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Alexander Staff",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Dominic Baumann",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Kelsey Meisel",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 39,
+   "name": "Patrick Schmidt",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "team": "sa-al-ittihad",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/id/teams/8577/squad/al-ittihad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Predrag Rajković",
+   "pos": "GK",
+   "nat": "RS"
+  },
+  {
+   "n": 50,
+   "name": "Mohammed Al Absi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 88,
+   "name": "Osama Al Mermesh",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 2,
+   "name": "Danilo Pereira",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 4,
+   "name": "Jan-Carlo Šimić",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RS"
+  },
+  {
+   "n": 6,
+   "name": "Saad Al Mosa",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 13,
+   "name": "Muhannad Al Shanqiti",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 15,
+   "name": "Hassan Kadish",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 20,
+   "name": "Ahmed Sharahili",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 25,
+   "name": "Faris Abdi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 32,
+   "name": "Ahmed Al Julaydan",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 42,
+   "name": "Muath Fagihy",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 66,
+   "name": "Mohammed Barnawi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 5,
+   "name": "Richard Ríos",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CO"
+  },
+  {
+   "n": 8,
+   "name": "Mukhtar Ali",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 10,
+   "name": "Houssem Aouar",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DZ"
+  },
+  {
+   "n": 17,
+   "name": "Mahamadou Doumbia",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ML"
+  },
+  {
+   "n": 23,
+   "name": "Georginio Wijnaldum",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": 29,
+   "name": "Farhah Al Shamrani",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 30,
+   "name": "Dion Lopy",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SN"
+  },
+  {
+   "n": 41,
+   "name": "Mohammed Fallatah",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 60,
+   "name": "Rakan Kaabi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 80,
+   "name": "Hamed Al Ghamdi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Roger Fernandes",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "PT"
+  },
+  {
+   "n": 9,
+   "name": "George Ilenikhena",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NG"
+  },
+  {
+   "n": 11,
+   "name": "Saleh Al Shehri",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 21,
+   "name": "Youssef En-Nesyri",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  },
+  {
+   "n": 22,
+   "name": "Marwan Al Sahafi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  },
+  {
+   "n": 27,
+   "name": "Ahmed Al Ghamdi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  },
+  {
+   "n": 34,
+   "name": "Steven Bergwijn",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NL"
+  }
+ ]
+}

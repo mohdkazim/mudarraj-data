@@ -1,0 +1,222 @@
+{
+ "team": "it-frosinone",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9891/squad"
+ ],
+ "players": [
+  {
+   "n": 12,
+   "name": "Matteo Pisseri",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 22,
+   "name": "Lorenzo Palmisani",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 91,
+   "name": "Sebastiano Desplanches",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Eldin Lolić",
+   "pos": "GK",
+   "nat": "BA"
+  },
+  {
+   "n": 2,
+   "name": "Giorgio Cittadini",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 3,
+   "name": "Gabriele Calvani",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 5,
+   "name": "Wisdom Amey",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 20,
+   "name": "Anthony Oyono",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GA"
+  },
+  {
+   "n": 25,
+   "name": "Kevin Akpoguma",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NG"
+  },
+  {
+   "n": 30,
+   "name": "Ilario Monterisi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 71,
+   "name": "Aleksa Terzić",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "RS"
+  },
+  {
+   "n": 74,
+   "name": "Omar Fayed",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "EG"
+  },
+  {
+   "n": 79,
+   "name": "Gabriele Bracaglia",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 90,
+   "name": "Enzo Tchato",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CM"
+  },
+  {
+   "n": 10,
+   "name": "Romano Schmid",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AT"
+  },
+  {
+   "n": 14,
+   "name": "Giacomo Calò",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 16,
+   "name": "Matteo Cichella",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 24,
+   "name": "Alessio Zerbin",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IT"
+  },
+  {
+   "n": 27,
+   "name": "Florian Grillitsch",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AT"
+  },
+  {
+   "n": 34,
+   "name": "Anouar El Azzouzi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NL"
+  },
+  {
+   "n": 70,
+   "name": "Luis Hasa",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AL"
+  },
+  {
+   "n": 73,
+   "name": "Patrizio Masini",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 92,
+   "name": "Benjamin Lhassine Kone",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CI"
+  },
+  {
+   "n": 96,
+   "name": "Francesco Gelli",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 7,
+   "name": "Farès Ghedjemis",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DZ"
+  },
+  {
+   "n": 9,
+   "name": "Antonio Raimondo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 11,
+   "name": "Daniel Bîrligea",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "RO"
+  },
+  {
+   "n": 17,
+   "name": "Giorgi Kvernadze",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GE"
+  },
+  {
+   "n": 29,
+   "name": "Alejandro Cichero",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "VE"
+  },
+  {
+   "n": 40,
+   "name": "Seydou Fini",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "IT"
+  },
+  {
+   "n": 89,
+   "name": "Tomás Bobček",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SK"
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "team": "de-fc-nurnberg",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8165/squad/nurnberg"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Jan Reichert",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 13,
+   "name": "Robin Lisewski",
+   "pos": "GK",
+   "nat": "PL"
+  },
+  {
+   "n": 26,
+   "name": "Christian Mathenia",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 46,
+   "name": "Nicolas Ortegel",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Alexios Kalogeropoulos",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GR"
+  },
+  {
+   "n": 5,
+   "name": "Styopa Mkrtchyan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AM"
+  },
+  {
+   "n": 14,
+   "name": "Andrea Ceresoli",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": 15,
+   "name": "Mikayil Faye",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 20,
+   "name": "Fynn Otto",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Giannis Masouras",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GR"
+  },
+  {
+   "n": 22,
+   "name": "Enrico Valentini",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 32,
+   "name": "Tim Janisch",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Kristian Mandic",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "HR"
+  },
+  {
+   "n": 41,
+   "name": "Eric Porstner",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Tobias Hess",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 44,
+   "name": "Khalid Abu El Haija",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PS"
+  },
+  {
+   "n": 6,
+   "name": "Adam Markhiev",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FI"
+  },
+  {
+   "n": 8,
+   "name": "Javier Fernández",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Marko Soldic",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Rafael Lubach",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Finn Becker",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Can Moustfa",
+   "pos": "MF",
+   "nat": "SY"
+  },
+  {
+   "n": 35,
+   "name": "Simon Joachims",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Marc Kornwachs",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Winners Osawe",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Rayan Ghrieb",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "FR"
+  },
+  {
+   "n": 9,
+   "name": "Sigurd Haugen",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NO"
+  },
+  {
+   "n": 10,
+   "name": "Julian Justvan",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "William Bøving",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DK"
+  },
+  {
+   "n": 19,
+   "name": "Piet Scobel",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Mohamed Alì Zoma",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IT"
+  },
+  {
+   "n": 39,
+   "name": "Adriano Grimaldi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Levin Chiumento",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}

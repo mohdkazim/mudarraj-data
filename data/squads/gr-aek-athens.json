@@ -1,0 +1,219 @@
+{
+ "team": "gr-aek-athens",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/fa/teams/8563/squad/aek-athens"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Thomas Strakosha",
+   "pos": "GK",
+   "nat": "AL"
+  },
+  {
+   "n": 31,
+   "name": "Georgios Sarakasidis",
+   "pos": "GK",
+   "nat": "GR"
+  },
+  {
+   "n": 41,
+   "name": "Marios Balamotis",
+   "pos": "GK",
+   "nat": "GR"
+  },
+  {
+   "n": 91,
+   "name": "Alberto Brignoli",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 2,
+   "name": "Harold Moukoudi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CM"
+  },
+  {
+   "n": 3,
+   "name": "Stavros Pilios",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AL"
+  },
+  {
+   "n": 5,
+   "name": "Christos Alexiou",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GR"
+  },
+  {
+   "n": 12,
+   "name": "Lazaros Rota",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GR"
+  },
+  {
+   "n": 15,
+   "name": "Martin Georgiev",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BG"
+  },
+  {
+   "n": 21,
+   "name": "Domagoj Vida",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HR"
+  },
+  {
+   "n": 22,
+   "name": "Charalambos Lykogiannis",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GR"
+  },
+  {
+   "n": 44,
+   "name": "Filipe Relvas",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 57,
+   "name": "Spyros Christakopoulos",
+   "pos": "DF",
+   "nat": "GR"
+  },
+  {
+   "n": 6,
+   "name": "Kaan Kairinen",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FI"
+  },
+  {
+   "n": 7,
+   "name": "Dereck Kutesa",
+   "pos": "MF",
+   "nat": "CH"
+  },
+  {
+   "n": 8,
+   "name": "Mijat Gaćinović",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "RS"
+  },
+  {
+   "n": 11,
+   "name": "Aboubakary Koïta",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "MR"
+  },
+  {
+   "n": 14,
+   "name": "Lovro Majer",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "HR"
+  },
+  {
+   "n": 16,
+   "name": "Kervin Arriaga",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "HN"
+  },
+  {
+   "n": 18,
+   "name": "Răzvan Marin",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "RO"
+  },
+  {
+   "n": 20,
+   "name": "Petros Mantalos",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GR"
+  },
+  {
+   "n": 27,
+   "name": "Milán Vitális",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "HU"
+  },
+  {
+   "n": 80,
+   "name": "Hakim Sahabo",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "RW"
+  },
+  {
+   "n": 9,
+   "name": "Luka Jović",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "RS"
+  },
+  {
+   "n": 10,
+   "name": "Oleksandr Zubkov",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "UA"
+  },
+  {
+   "n": 17,
+   "name": "Dimitrios Kaloskamis",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GR"
+  },
+  {
+   "n": 19,
+   "name": "Barnabás Varga",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "HU"
+  },
+  {
+   "n": 23,
+   "name": "Joao Mário",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "PT"
+  },
+  {
+   "n": 39,
+   "name": "Zois Karagyris",
+   "pos": "FW",
+   "nat": "GR"
+  },
+  {
+   "n": 90,
+   "name": "Zine",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AO"
+  },
+  {
+   "n": null,
+   "name": "Frantzdy Pierrot",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "HT"
+  }
+ ]
+}

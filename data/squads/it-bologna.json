@@ -1,0 +1,213 @@
+{
+ "team": "it-bologna",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9857/squad/bologna"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Łukasz Skorupski",
+   "pos": "GK",
+   "nat": "PL"
+  },
+  {
+   "n": 25,
+   "name": "Massimo Pessina",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 72,
+   "name": "Ukko Happonen",
+   "pos": "GK",
+   "nat": "FI"
+  },
+  {
+   "n": null,
+   "name": "Francesco Raffaelli",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 2,
+   "name": "Emil Holm",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SE"
+  },
+  {
+   "n": 3,
+   "name": "Arthur Theate",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BE"
+  },
+  {
+   "n": 5,
+   "name": "Eivind Helland",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NO"
+  },
+  {
+   "n": 14,
+   "name": "Torbjørn Heggem",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NO"
+  },
+  {
+   "n": 16,
+   "name": "Nicolò Casale",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 20,
+   "name": "Nadir Zortea",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 23,
+   "name": "Rahim Alhassane",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "NE"
+  },
+  {
+   "n": 29,
+   "name": "Lorenzo De Silvestri",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 33,
+   "name": "Juan Miranda",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 41,
+   "name": "Martin Vitík",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CZ"
+  },
+  {
+   "n": 4,
+   "name": "Tommaso Pobega",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 6,
+   "name": "Nikola Moro",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "HR"
+  },
+  {
+   "n": 8,
+   "name": "Mikel Amondarain",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AR"
+  },
+  {
+   "n": 17,
+   "name": "Oussama El Azzouzi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MA"
+  },
+  {
+   "n": 18,
+   "name": "Marco Libra",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "VE"
+  },
+  {
+   "n": 19,
+   "name": "Lewis Ferguson",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 21,
+   "name": "Jens Odgaard",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DK"
+  },
+  {
+   "n": 36,
+   "name": "Matteo Darmian",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 7,
+   "name": "Riccardo Orsolini",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "IT"
+  },
+  {
+   "n": 9,
+   "name": "Artem Dovbyk",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "UA"
+  },
+  {
+   "n": 10,
+   "name": "Federico Bernardeschi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "IT"
+  },
+  {
+   "n": 11,
+   "name": "Samuel Mbangula",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BE"
+  },
+  {
+   "n": 22,
+   "name": "Jay Enem",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NL"
+  },
+  {
+   "n": 28,
+   "name": "Nicolò Cambiaghi",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IT"
+  },
+  {
+   "n": 74,
+   "name": "Simone Negri",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": 91,
+   "name": "Roberto Piccoli",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  }
+ ]
+}

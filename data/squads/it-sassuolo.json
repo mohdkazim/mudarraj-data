@@ -1,0 +1,247 @@
+{
+ "team": "it-sassuolo",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/7943/squad"
+ ],
+ "players": [
+  {
+   "n": 12,
+   "name": "Giacomo Satalino",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 22,
+   "name": "Lorenzo Nyarko",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 49,
+   "name": "Arijanet Murić",
+   "pos": "GK",
+   "nat": "XK"
+  },
+  {
+   "n": 80,
+   "name": "Stefano Turati",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 3,
+   "name": "Josh Doig",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 5,
+   "name": "Fali Candé",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GW"
+  },
+  {
+   "n": 6,
+   "name": "Sebastian Walukiewicz",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "PL"
+  },
+  {
+   "n": 15,
+   "name": "Duje Ćaleta-Car",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HR"
+  },
+  {
+   "n": 16,
+   "name": "Fedde Leysen",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BE"
+  },
+  {
+   "n": 20,
+   "name": "Ignace Van Der Brempt",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BE"
+  },
+  {
+   "n": 21,
+   "name": "Jay Idzes",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ID"
+  },
+  {
+   "n": 26,
+   "name": "Cas Odenthal",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 27,
+   "name": "Yeferson Paz",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "CO"
+  },
+  {
+   "n": 36,
+   "name": "Giorgio Vezzosi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": 46,
+   "name": "Simone Cinquegrano",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Edoardo Pieragnolo",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 8,
+   "name": "Andrea Ghion",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 11,
+   "name": "Daniel Boloca",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "RO"
+  },
+  {
+   "n": 17,
+   "name": "Vasilije Adžić",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ME"
+  },
+  {
+   "n": 18,
+   "name": "Nemanja Matić",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "RS"
+  },
+  {
+   "n": 33,
+   "name": "Rafael Obrador",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": 35,
+   "name": "Luca Lipani",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 42,
+   "name": "Kristian Thorstvedt",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NO"
+  },
+  {
+   "n": 50,
+   "name": "Darryl Bakola",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 55,
+   "name": "Ibrahim Sulemana",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GH"
+  },
+  {
+   "n": 90,
+   "name": "Ismaël Koné",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CA"
+  },
+  {
+   "n": 7,
+   "name": "Cristian Volpato",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "AU"
+  },
+  {
+   "n": 9,
+   "name": "Kieron Bowie",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 10,
+   "name": "Domenico Berardi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "IT"
+  },
+  {
+   "n": 14,
+   "name": "Gabriel Kulla",
+   "pos": "FW",
+   "nat": "AL"
+  },
+  {
+   "n": 19,
+   "name": "Laurs Skjellerup",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DK"
+  },
+  {
+   "n": 25,
+   "name": "Benja Domínguez",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AR"
+  },
+  {
+   "n": 45,
+   "name": "Armand Laurienté",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "FR"
+  },
+  {
+   "n": 77,
+   "name": "Nicholas Pierini",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IT"
+  },
+  {
+   "n": 94,
+   "name": "Sebastiano Esposito",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  }
+ ]
+}

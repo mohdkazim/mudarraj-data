@@ -1,0 +1,219 @@
+{
+ "team": "it-monza",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/6504/squad/players"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Noel Törnqvist",
+   "pos": "GK",
+   "nat": "SE"
+  },
+  {
+   "n": 20,
+   "name": "Demba Thiam",
+   "pos": "GK",
+   "nat": "SN"
+  },
+  {
+   "n": 43,
+   "name": "Aljaž Strajnar",
+   "pos": "GK",
+   "nat": "SI"
+  },
+  {
+   "n": 2,
+   "name": "Saba Goglichidze",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GE"
+  },
+  {
+   "n": 3,
+   "name": "Lorenzo Lucchesi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 4,
+   "name": "Jan Ziólkowski",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PL"
+  },
+  {
+   "n": 5,
+   "name": "Yvan Kouadio Maye",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 6,
+   "name": "Valentin Antov",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BG"
+  },
+  {
+   "n": 44,
+   "name": "Andrea Carboni",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 60,
+   "name": "Eddy Kouadio",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 7,
+   "name": "Ricardo Mangas",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": 8,
+   "name": "Foe Ondoa",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 11,
+   "name": "Omari Forson",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 14,
+   "name": "Ebenezer Akinsanmiro",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NG"
+  },
+  {
+   "n": 17,
+   "name": "Keita Baldé",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SN"
+  },
+  {
+   "n": 19,
+   "name": "Samuele Birindelli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 21,
+   "name": "Leonardo Colombo",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 24,
+   "name": "Adam Bakoune",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 26,
+   "name": "Patrick Ciurria",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 27,
+   "name": "Idrissa Touré",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Andrea Colpani",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 32,
+   "name": "Matteo Pessina",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 46,
+   "name": "Jay Robinson",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 80,
+   "name": "Mathis Mout",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 90,
+   "name": "Michael Folorunsho",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 9,
+   "name": "Gustavo Varela",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PT"
+  },
+  {
+   "n": 10,
+   "name": "Patrick Cutrone",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 16,
+   "name": "Cyril Ngonge",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BE"
+  },
+  {
+   "n": 22,
+   "name": "Exequiel Zeballos",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AR"
+  },
+  {
+   "n": 47,
+   "name": "Dany Mota",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PT"
+  },
+  {
+   "n": 70,
+   "name": "Kevin Martins",
+   "pos": "FW",
+   "nat": "IT"
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "team": "sa-al-khaleej",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/550433/squad/undefined"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Mohammed Ibrahim",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 49,
+   "name": "Anthony Moris",
+   "pos": "GK",
+   "nat": "LU"
+  },
+  {
+   "n": 96,
+   "name": "Marwan Al Haidari",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 2,
+   "name": "Hamad Al Jayzani",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Mohammed Al Khabrani",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 4,
+   "name": "Kiki Kouyaté",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ML"
+  },
+  {
+   "n": 5,
+   "name": "Pedro Rebocho",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "PT"
+  },
+  {
+   "n": 13,
+   "name": "Ahmed Asiri",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 14,
+   "name": "Ali Al Shaafi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 17,
+   "name": "Abdullah Al Hafith",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 26,
+   "name": "Raed Al Shanqiti",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 27,
+   "name": "Fawaz Al Soqoor",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 39,
+   "name": "Saeed Al Hamsal",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Ammar",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 8,
+   "name": "Abdoulie Mboge",
+   "pos": "MF",
+   "nat": "GM"
+  },
+  {
+   "n": 8,
+   "name": "Omar Mascarell",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GQ"
+  },
+  {
+   "n": 10,
+   "name": "Angelo Fulgini",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NC"
+  },
+  {
+   "n": 11,
+   "name": "Saleh Al Amri",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "SA"
+  },
+  {
+   "n": 12,
+   "name": "Majed Kanabah",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 15,
+   "name": "Mansour Hamzi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 16,
+   "name": "Bader Munshi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 18,
+   "name": "Nawaf Al Saadi",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "SA"
+  },
+  {
+   "n": 19,
+   "name": "Miguel Crespo",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 19,
+   "name": "Mohammed Al Abdullah",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 28,
+   "name": "Hussain Al Eissa",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "SA"
+  },
+  {
+   "n": 97,
+   "name": "Fahad Al Rashidi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 97,
+   "name": "Sultan Al Dossari",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Joshua King",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NO"
+  },
+  {
+   "n": 9,
+   "name": "Mateo Benegas",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 20,
+   "name": "Witcha",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CV"
+  },
+  {
+   "n": 24,
+   "name": "Ali Abdoulraouf Alabdrabalnabi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 70,
+   "name": "Abdulmajeed Al Khathami",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 90,
+   "name": "Thamer Al Khaibri",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 99,
+   "name": "Musa Barrow",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GM"
+  }
+ ]
+}

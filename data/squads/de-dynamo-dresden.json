@@ -1,0 +1,212 @@
+{
+ "team": "de-dynamo-dresden",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8480/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Tim Schreiber",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Lennart Grill",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 37,
+   "name": "Daniel Mesenhöler",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 40,
+   "name": "Elias Bethke",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 45,
+   "name": "Marlon Grafe",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Kenneth Schmidt",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Brooklyn Ezeh",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Ahmet Muhamedbegović",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 19,
+   "name": "Alexander Rossipal",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Lars Bünning",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Lukas Boeder",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 32,
+   "name": "Jonas Sterner",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 34,
+   "name": "Till Neininger",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 39,
+   "name": "Thomas Leon Keller",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 42,
+   "name": "Friedrich Müller",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 44,
+   "name": "Simon Straudi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 6,
+   "name": "Nicolai Rapp",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Luca Herrmann",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Nils Fröling",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SE"
+  },
+  {
+   "n": 18,
+   "name": "Robert Wagner",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Tobias Raschl",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Patrice Čović",
+   "pos": "MF",
+   "nat": "HR"
+  },
+  {
+   "n": 27,
+   "name": "Niklas Hauptmann",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Kennedy Okpala",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Vincent Vermeij",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NL"
+  },
+  {
+   "n": 10,
+   "name": "Jakob Lemmer",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Kaan İnanoğlu",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "TR"
+  },
+  {
+   "n": 20,
+   "name": "Ben Bobzien",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Stefan Kutschke",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Christoph Daferner",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  }
+ ]
+}

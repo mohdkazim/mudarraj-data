@@ -1,0 +1,208 @@
+{
+ "team": "de-greuther-furth",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/fa/teams/8357/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Florian Hellstern",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 39,
+   "name": "Christian Ortag",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Silas Prüfrock",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Nils-Jonathan Körber",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Lukas Reich",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Elias Benkara",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Maxim Dal",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Jannis Heuer",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Jannik Dehm",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Gian-Luca Itter",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Krisztián Keresztes",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HU"
+  },
+  {
+   "n": 34,
+   "name": "Hendry Blank",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Loris Giandomenico",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CH"
+  },
+  {
+   "n": 6,
+   "name": "Sacha Bansé",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BF"
+  },
+  {
+   "n": 7,
+   "name": "Dennis Srbeny",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Shinta Appelkamp",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Ole Pohlmann",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Aaron Keller",
+   "pos": "MF",
+   "nat": "CH"
+  },
+  {
+   "n": 13,
+   "name": "Paul Will",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Mika Wallentowitz",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Marco John",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Doni Arifi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FI"
+  },
+  {
+   "n": 37,
+   "name": "Faton Ademi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "XK"
+  },
+  {
+   "n": 37,
+   "name": "Julian Green",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "US"
+  },
+  {
+   "n": 44,
+   "name": "Mehmet Avlayici",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Omar Megeed",
+   "pos": "MF",
+   "nat": "EG"
+  },
+  {
+   "n": 9,
+   "name": "Jordan Pefok",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "US"
+  },
+  {
+   "n": 19,
+   "name": "Benjamin Zank",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Felix Klaus",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 42,
+   "name": "Omar Sillah",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  }
+ ]
+}

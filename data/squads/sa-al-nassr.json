@@ -1,0 +1,217 @@
+{
+ "team": "sa-al-nassr",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/id/teams/101918/squad/al-nassr-fc"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Nawaf Al Aqidi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 22,
+   "name": "Abdulhadi Al Alwan",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 24,
+   "name": "Bento",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": 53,
+   "name": "Abdulrahman Al Otaibi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 61,
+   "name": "Mubarak Al Buainain",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 2,
+   "name": "Sultan Al Ghannam",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Mohamed Simakan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 4,
+   "name": "Nader Al Sharari",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 5,
+   "name": "Abdulelah Al Amri",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Saad Al Nasser",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 12,
+   "name": "Nawaf Bu Washl",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 23,
+   "name": "Aiman Yahya",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 26,
+   "name": "Iñigo Martínez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 46,
+   "name": "Yassine Sallem",
+   "pos": "DF",
+   "nat": "TN"
+  },
+  {
+   "n": 50,
+   "name": "Majed Qasheesh",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 70,
+   "name": "Awad Aman",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 83,
+   "name": "Salem Al Najdi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Aser Hawsawi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 10,
+   "name": "Sadio Mané",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "SN"
+  },
+  {
+   "n": 11,
+   "name": "Samú Costa",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PT"
+  },
+  {
+   "n": 14,
+   "name": "Sami Al Naji",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 16,
+   "name": "Mohammed Marran",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 17,
+   "name": "Abdullah Al Khaibari",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 20,
+   "name": "Ângelo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 21,
+   "name": "Kingsley Coman",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "FR"
+  },
+  {
+   "n": 56,
+   "name": "Rakan Al Ghamdi",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Cristiano Ronaldo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PT"
+  },
+  {
+   "n": 9,
+   "name": "Abdullah Al Hamddan",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 29,
+   "name": "Abdulrahman Ghareeb",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "SA"
+  },
+  {
+   "n": 60,
+   "name": "Saad Haqawi",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "SA"
+  },
+  {
+   "n": 79,
+   "name": "João Félix",
+   "pos": "FW",
+   "nat": "PT"
+  }
+ ]
+}

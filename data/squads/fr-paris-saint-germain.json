@@ -1,0 +1,174 @@
+{
+ "team": "fr-paris-saint-germain",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/th/teams/9847/squad/undefined,players,teams"
+ ],
+ "players": [
+  {
+   "n": 16,
+   "name": "Alessandro Longoni",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 30,
+   "name": "Lucas Chevalier",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 39,
+   "name": "Matvey Safonov",
+   "pos": "GK",
+   "nat": "RU"
+  },
+  {
+   "n": 2,
+   "name": "Achraf Hakimi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "MA"
+  },
+  {
+   "n": 5,
+   "name": "Marquinhos",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 6,
+   "name": "Ilya Zabarnyi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UA"
+  },
+  {
+   "n": 12,
+   "name": "Lucas Digne",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "FR"
+  },
+  {
+   "n": 21,
+   "name": "Lucas Hernández",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "FR"
+  },
+  {
+   "n": 25,
+   "name": "Nuno Mendes",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "PT"
+  },
+  {
+   "n": 51,
+   "name": "Willian Pacho",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "EC"
+  },
+  {
+   "n": 4,
+   "name": "Lucas Beraldo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 8,
+   "name": "Fabián Ruiz",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Vítinha",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PT"
+  },
+  {
+   "n": 24,
+   "name": "Senny Mayulu",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 27,
+   "name": "Dro Fernández",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 33,
+   "name": "Warren Zaïre-Emery",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 47,
+   "name": "Quentin Ndjantou",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 87,
+   "name": "João Neves",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PT"
+  },
+  {
+   "n": 7,
+   "name": "Khvicha Kvaratskhelia",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GE"
+  },
+  {
+   "n": 9,
+   "name": "Ferrán Torres",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Ousmane Dembélé",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 11,
+   "name": "Maghnes Akliouche",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "FR"
+  },
+  {
+   "n": 14,
+   "name": "Désiré Doué",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "FR"
+  },
+  {
+   "n": 22,
+   "name": "Mika Godts",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BE"
+  }
+ ]
+}

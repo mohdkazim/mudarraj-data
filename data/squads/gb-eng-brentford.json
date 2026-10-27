@@ -1,0 +1,201 @@
+{
+ "team": "gb-eng-brentford",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9937/squad/brentford"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Caoimhín Kelleher",
+   "pos": "GK",
+   "nat": "IE"
+  },
+  {
+   "n": 12,
+   "name": "Hákon Rafn Valdimarsson",
+   "pos": "GK",
+   "nat": "IS"
+  },
+  {
+   "n": 31,
+   "name": "Ellery Balcombe",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 2,
+   "name": "Aaron Hickey",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 3,
+   "name": "Rico Henry",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "JM"
+  },
+  {
+   "n": 4,
+   "name": "Sepp van den Berg",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 20,
+   "name": "Kristoffer Ajer",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NO"
+  },
+  {
+   "n": 22,
+   "name": "Nathan Collins",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IE"
+  },
+  {
+   "n": 23,
+   "name": "Keane Lewis-Potter",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 25,
+   "name": "Malick Diouf",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SN"
+  },
+  {
+   "n": 33,
+   "name": "Michael Kayode",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 36,
+   "name": "Ji-Soo Kim",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 44,
+   "name": "Jannik Schuster",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 48,
+   "name": "Benjamin Fredrick",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NG"
+  },
+  {
+   "n": 6,
+   "name": "Yehor Yarmoliuk",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "UA"
+  },
+  {
+   "n": 8,
+   "name": "Mathias Jensen",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DK"
+  },
+  {
+   "n": 10,
+   "name": "Joshua Dasilva",
+   "pos": "MF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 14,
+   "name": "Fábio Carvalho",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 17,
+   "name": "Antoni Milambo",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "NL"
+  },
+  {
+   "n": 18,
+   "name": "Mamadou Sangaré",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ML"
+  },
+  {
+   "n": 24,
+   "name": "Mikkel Damsgaard",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DK"
+  },
+  {
+   "n": 27,
+   "name": "Vitaly Janelt",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Kevin Schade",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Igor Thiago",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Dango Ouattara",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BF"
+  },
+  {
+   "n": 13,
+   "name": "Callum Wilson",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 19,
+   "name": "Jaidon Anthony",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 39,
+   "name": "Gustavo Nunes",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  }
+ ]
+}

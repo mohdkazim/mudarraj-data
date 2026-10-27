@@ -1,0 +1,7170 @@
+{
+ "run": "2026-10-27T17:23:52.830Z",
+ "changes": [
+  {
+   "op": "squad",
+   "team": "ae-bani-yas",
+   "players": [
+    {
+     "n": 1,
+     "name": "Mohammed Khalaf",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 17,
+     "name": "Luiz Turatto",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Brazil"
+    },
+    {
+     "n": 33,
+     "name": "Adel Fadaq",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 55,
+     "name": "Fahad Al Dhanhani",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 2,
+     "name": "Mahamadou Camara",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Mali"
+    },
+    {
+     "n": 3,
+     "name": "João Victor",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Brazil"
+    },
+    {
+     "n": 5,
+     "name": "Hasan Al Muharrami",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 16,
+     "name": "Khalid Al Hashemi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 18,
+     "name": "Suhail Al Noobi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 21,
+     "name": "Mackenzie Hunt",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 23,
+     "name": "Khamis Al Hammadi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 25,
+     "name": "Nemanja Đeković",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Serbia"
+    },
+    {
+     "n": 26,
+     "name": "Khamis Al Mansoori",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 71,
+     "name": "Khalifa Hussain",
+     "ar": "",
+     "pos": "Defender",
+     "role": "",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 4,
+     "name": "Solomon Sosu",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 6,
+     "name": "Jacob Awoute",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Ghana"
+    },
+    {
+     "n": 7,
+     "name": "Fawaz Awana",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 10,
+     "name": "Lionel Verde",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Argentina"
+    },
+    {
+     "n": 19,
+     "name": "Rocky Marciano",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Cameroon"
+    },
+    {
+     "n": 20,
+     "name": "Saif Al Menhali",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 27,
+     "name": "Burak Ince",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LM",
+     "nat": "Türkiye"
+    },
+    {
+     "n": 28,
+     "name": "Alassane Diallo",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Mali"
+    },
+    {
+     "n": 70,
+     "name": "Aziz G'aniev",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Uzbekistan"
+    },
+    {
+     "n": 8,
+     "name": "Mater Al Hosani",
+     "ar": "",
+     "pos": "Forward",
+     "role": "",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 9,
+     "name": "Ahmed Fawzi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RM",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 11,
+     "name": "Alhassan Koroma",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Sierra Leone"
+    },
+    {
+     "n": 12,
+     "name": "Youssoufou Niakaté",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Mali"
+    },
+    {
+     "n": 77,
+     "name": "Saviour Godwin",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Nigeria"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/182933/squad/baniyas"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "ae-kalba",
+   "players": [
+    {
+     "n": 17,
+     "name": "Saif Yousif",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 33,
+     "name": "Sultan Al Mantheri",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 55,
+     "name": "Hamad Al Mansoori",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": null,
+     "name": "Bader Nasser",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 3,
+     "name": "Amirhossein Samdaliri",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Iran"
+    },
+    {
+     "n": 12,
+     "name": "Salem Rashid",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 19,
+     "name": "Alejandro Vergaz",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Spain"
+    },
+    {
+     "n": 22,
+     "name": "Koray Günter",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 23,
+     "name": "Waleed Rashid",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 25,
+     "name": "Abdul Sallam Mohameed",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 26,
+     "name": "Ibrahim Cissé",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "France"
+    },
+    {
+     "n": 34,
+     "name": "Yousif Ali Al Mheiri",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 96,
+     "name": "Marwan Fahad",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RWB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 5,
+     "name": "Ali Salmin",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 6,
+     "name": "Rejan Alivoda",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "Albania"
+    },
+    {
+     "n": 7,
+     "name": "Saman Ghoddos",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Iran"
+    },
+    {
+     "n": 8,
+     "name": "Caio Eduardo",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Brazil"
+    },
+    {
+     "n": 9,
+     "name": "Guilherme Biro",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "Brazil"
+    },
+    {
+     "n": 10,
+     "name": "Ahmad Noorollahi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Iran"
+    },
+    {
+     "n": 20,
+     "name": "Saile Samuel",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 24,
+     "name": "Khalid Al Darmaki",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 41,
+     "name": "Neto",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Brazil"
+    },
+    {
+     "n": 42,
+     "name": "Ahmed Abunamous",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LM",
+     "nat": "Palestine"
+    },
+    {
+     "n": 77,
+     "name": "Adyson",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "Brazil"
+    },
+    {
+     "n": 94,
+     "name": "Juninho",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LM",
+     "nat": "Brazil"
+    },
+    {
+     "n": 27,
+     "name": "Yaser Al Blooshi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 30,
+     "name": "Benjamin Tetteh",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Ghana"
+    },
+    {
+     "n": 80,
+     "name": "Nemanja Jović",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Serbia"
+    },
+    {
+     "n": 99,
+     "name": "Carlos Alberto",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Brazil"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/209190/squad/kalba-fc"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "ae-khorfakkan",
+   "players": [
+    {
+     "n": 1,
+     "name": "Ahmed Al Hosani",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 50,
+     "name": "Rashed Ali",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 95,
+     "name": "Rashid Abdalla",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 99,
+     "name": "Rashid Al Naour",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 2,
+     "name": "Yousef Al Ameri",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 3,
+     "name": "Kayque Campos",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Brazil"
+    },
+    {
+     "n": 4,
+     "name": "Rafael Pereira",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Brazil"
+    },
+    {
+     "n": 6,
+     "name": "Akram Al Nakach",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Morocco"
+    },
+    {
+     "n": 11,
+     "name": "Ahmed Jashkak",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 12,
+     "name": "Ilyass Lagrimi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Morocco"
+    },
+    {
+     "n": 16,
+     "name": "Pedro Pavlov",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Argentina"
+    },
+    {
+     "n": 17,
+     "name": "Sultan Al Zaabi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 19,
+     "name": "Luís Haquín",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Bolivia"
+    },
+    {
+     "n": 34,
+     "name": "Serano Seymor",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 5,
+     "name": "Ahmadou Camara",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Guinea"
+    },
+    {
+     "n": 7,
+     "name": "Junior Flemmings",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LM",
+     "nat": "Jamaica"
+    },
+    {
+     "n": 8,
+     "name": "Abdalla Al Naqbi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 13,
+     "name": "Ahmed Barman",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 20,
+     "name": "Abubakar Adams",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "",
+     "nat": "Ghana"
+    },
+    {
+     "n": 21,
+     "name": "Selim Amallah",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "ST",
+     "nat": "Morocco"
+    },
+    {
+     "n": 24,
+     "name": "Ahmed Mahmoud",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 79,
+     "name": "Jean N'Guessan",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Ivory Coast"
+    },
+    {
+     "n": 80,
+     "name": "Ramiro Vaca",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Bolivia"
+    },
+    {
+     "n": 9,
+     "name": "Tarik Tissoudali",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Morocco"
+    },
+    {
+     "n": 10,
+     "name": "Aylton Boa Morte",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Portugal"
+    },
+    {
+     "n": 28,
+     "name": "Mohammed Jamal",
+     "ar": "",
+     "pos": "Forward",
+     "role": "",
+     "nat": "United Arab Emirates"
+    },
+    {
+     "n": 77,
+     "name": "Rilwanu Sarki",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 84,
+     "name": "Malang Sagna",
+     "ar": "",
+     "pos": "Forward",
+     "role": "",
+     "nat": "Senegal"
+    },
+    {
+     "n": 90,
+     "name": "Adama Diallo",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Ivory Coast"
+    },
+    {
+     "n": 91,
+     "name": "Oumar Traoré",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RM",
+     "nat": "Mali"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/149993/squad/khorfakkan"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "gb-eng-brentford",
+   "players": [
+    {
+     "n": 1,
+     "name": "Caoimhín Kelleher",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Ireland"
+    },
+    {
+     "n": 12,
+     "name": "Hákon Rafn Valdimarsson",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Iceland"
+    },
+    {
+     "n": 31,
+     "name": "Ellery Balcombe",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "England"
+    },
+    {
+     "n": 2,
+     "name": "Aaron Hickey",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Scotland"
+    },
+    {
+     "n": 3,
+     "name": "Rico Henry",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Jamaica"
+    },
+    {
+     "n": 4,
+     "name": "Sepp van den Berg",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 20,
+     "name": "Kristoffer Ajer",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Norway"
+    },
+    {
+     "n": 22,
+     "name": "Nathan Collins",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Ireland"
+    },
+    {
+     "n": 23,
+     "name": "Keane Lewis-Potter",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "England"
+    },
+    {
+     "n": 25,
+     "name": "Malick Diouf",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Senegal"
+    },
+    {
+     "n": 33,
+     "name": "Michael Kayode",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Italy"
+    },
+    {
+     "n": 36,
+     "name": "Ji-Soo Kim",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 44,
+     "name": "Jannik Schuster",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Austria"
+    },
+    {
+     "n": 48,
+     "name": "Benjamin Fredrick",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 6,
+     "name": "Yehor Yarmoliuk",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 8,
+     "name": "Mathias Jensen",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Denmark"
+    },
+    {
+     "n": 10,
+     "name": "Joshua Dasilva",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RW",
+     "nat": "England"
+    },
+    {
+     "n": 14,
+     "name": "Fábio Carvalho",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Portugal"
+    },
+    {
+     "n": 17,
+     "name": "Antoni Milambo",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 18,
+     "name": "Mamadou Sangaré",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Mali"
+    },
+    {
+     "n": 24,
+     "name": "Mikkel Damsgaard",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Denmark"
+    },
+    {
+     "n": 27,
+     "name": "Vitaly Janelt",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 7,
+     "name": "Kevin Schade",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Germany"
+    },
+    {
+     "n": 9,
+     "name": "Igor Thiago",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Brazil"
+    },
+    {
+     "n": 11,
+     "name": "Dango Ouattara",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Burkina Faso"
+    },
+    {
+     "n": 13,
+     "name": "Callum Wilson",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "England"
+    },
+    {
+     "n": 19,
+     "name": "Jaidon Anthony",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "England"
+    },
+    {
+     "n": 39,
+     "name": "Gustavo Nunes",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Brazil"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/9937/squad/brentford"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "sa-al-ittihad",
+   "players": [
+    {
+     "n": 1,
+     "name": "Predrag Rajković",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Serbia"
+    },
+    {
+     "n": 50,
+     "name": "Mohammed Al Absi",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 88,
+     "name": "Osama Al Mermesh",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 2,
+     "name": "Danilo Pereira",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Portugal"
+    },
+    {
+     "n": 4,
+     "name": "Jan-Carlo Šimić",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Serbia"
+    },
+    {
+     "n": 6,
+     "name": "Saad Al Mosa",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 13,
+     "name": "Muhannad Al Shanqiti",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 15,
+     "name": "Hassan Kadish",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 20,
+     "name": "Ahmed Sharahili",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 25,
+     "name": "Faris Abdi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 32,
+     "name": "Ahmed Al Julaydan",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 42,
+     "name": "Muath Fagihy",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 66,
+     "name": "Mohammed Barnawi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 5,
+     "name": "Richard Ríos",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Colombia"
+    },
+    {
+     "n": 8,
+     "name": "Mukhtar Ali",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 10,
+     "name": "Houssem Aouar",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Algeria"
+    },
+    {
+     "n": 17,
+     "name": "Mahamadou Doumbia",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Mali"
+    },
+    {
+     "n": 23,
+     "name": "Georginio Wijnaldum",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "ST",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 29,
+     "name": "Farhah Al Shamrani",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 30,
+     "name": "Dion Lopy",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Senegal"
+    },
+    {
+     "n": 41,
+     "name": "Mohammed Fallatah",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "-",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 60,
+     "name": "Rakan Kaabi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 80,
+     "name": "Hamed Al Ghamdi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 7,
+     "name": "Roger Fernandes",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Portugal"
+    },
+    {
+     "n": 9,
+     "name": "George Ilenikhena",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 11,
+     "name": "Saleh Al Shehri",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 21,
+     "name": "Youssef En-Nesyri",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Morocco"
+    },
+    {
+     "n": 22,
+     "name": "Marwan Al Sahafi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 27,
+     "name": "Ahmed Al Ghamdi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 34,
+     "name": "Steven Bergwijn",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Netherlands"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/id/teams/8577/squad/al-ittihad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "sa-al-khaleej",
+   "players": [
+    {
+     "n": 1,
+     "name": "Mohammed Ibrahim",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 49,
+     "name": "Anthony Moris",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Luxembourg"
+    },
+    {
+     "n": 96,
+     "name": "Marwan Al Haidari",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": null,
+     "name": "Abdullah Al Ammar",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 2,
+     "name": "Hamad Al Jayzani",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 3,
+     "name": "Mohammed Al Khabrani",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 4,
+     "name": "Kiki Kouyaté",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Mali"
+    },
+    {
+     "n": 5,
+     "name": "Pedro Rebocho",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Portugal"
+    },
+    {
+     "n": 13,
+     "name": "Ahmed Asiri",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 14,
+     "name": "Ali Al Shaafi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 17,
+     "name": "Abdullah Al Hafith",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 26,
+     "name": "Raed Al Shanqiti",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 27,
+     "name": "Fawaz Al Soqoor",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 39,
+     "name": "Saeed Al Hamsal",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 8,
+     "name": "Abdoulie Mboge",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "-",
+     "nat": "Gambia"
+    },
+    {
+     "n": 8,
+     "name": "Omar Mascarell",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Equatorial Guinea"
+    },
+    {
+     "n": 10,
+     "name": "Angelo Fulgini",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "New Caledonia"
+    },
+    {
+     "n": 11,
+     "name": "Saleh Al Amri",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 12,
+     "name": "Majed Kanabah",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 15,
+     "name": "Mansour Hamzi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 16,
+     "name": "Bader Munshi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 18,
+     "name": "Nawaf Al Saadi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 19,
+     "name": "Miguel Crespo",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Portugal"
+    },
+    {
+     "n": 19,
+     "name": "Mohammed Al Abdullah",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "-",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 28,
+     "name": "Hussain Al Eissa",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 97,
+     "name": "Fahad Al Rashidi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 97,
+     "name": "Sultan Al Dossari",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "-",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 7,
+     "name": "Joshua King",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Norway"
+    },
+    {
+     "n": 9,
+     "name": "Mateo Benegas",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Argentina"
+    },
+    {
+     "n": 20,
+     "name": "Witcha",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Cape Verde"
+    },
+    {
+     "n": 24,
+     "name": "Ali Abdoulraouf Alabdrabalnabi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 70,
+     "name": "Abdulmajeed Al Khathami",
+     "ar": "",
+     "pos": "Forward",
+     "role": "-",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 90,
+     "name": "Thamer Al Khaibri",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 99,
+     "name": "Musa Barrow",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Gambia"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/550433/squad/undefined"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "sa-al-nassr",
+   "players": [
+    {
+     "n": 1,
+     "name": "Nawaf Al Aqidi",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 22,
+     "name": "Abdulhadi Al Alwan",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 24,
+     "name": "Bento",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Brazil"
+    },
+    {
+     "n": 53,
+     "name": "Abdulrahman Al Otaibi",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 61,
+     "name": "Mubarak Al Buainain",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": null,
+     "name": "Aser Hawsawi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "DM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 2,
+     "name": "Sultan Al Ghannam",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 3,
+     "name": "Mohamed Simakan",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "France"
+    },
+    {
+     "n": 4,
+     "name": "Nader Al Sharari",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 5,
+     "name": "Abdulelah Al Amri",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 6,
+     "name": "Saad Al Nasser",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 12,
+     "name": "Nawaf Bu Washl",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 23,
+     "name": "Aiman Yahya",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 26,
+     "name": "Iñigo Martínez",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Spain"
+    },
+    {
+     "n": 46,
+     "name": "Yassine Sallem",
+     "ar": "",
+     "pos": "Defender",
+     "role": "-",
+     "nat": "Tunisia"
+    },
+    {
+     "n": 50,
+     "name": "Majed Qasheesh",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 70,
+     "name": "Awad Aman",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 83,
+     "name": "Salem Al Najdi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 10,
+     "name": "Sadio Mané",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LM",
+     "nat": "Senegal"
+    },
+    {
+     "n": 11,
+     "name": "Samú Costa",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Portugal"
+    },
+    {
+     "n": 14,
+     "name": "Sami Al Naji",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RW",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 16,
+     "name": "Mohammed Marran",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 17,
+     "name": "Abdullah Al Khaibari",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 20,
+     "name": "Ângelo",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Brazil"
+    },
+    {
+     "n": 21,
+     "name": "Kingsley Coman",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "France"
+    },
+    {
+     "n": 56,
+     "name": "Rakan Al Ghamdi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 7,
+     "name": "Cristiano Ronaldo",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Portugal"
+    },
+    {
+     "n": 9,
+     "name": "Abdullah Al Hamddan",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 29,
+     "name": "Abdulrahman Ghareeb",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 60,
+     "name": "Saad Haqawi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 79,
+     "name": "João Félix",
+     "ar": "",
+     "pos": "Forward",
+     "role": "AM",
+     "nat": "Portugal"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/id/teams/101918/squad/al-nassr-fc"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "sa-al-qadsiah",
+   "players": [
+    {
+     "n": 1,
+     "name": "Koen Casteels",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Belgium"
+    },
+    {
+     "n": 28,
+     "name": "Ahmed Al Kassar",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 50,
+     "name": "Meshari Sunyur",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 4,
+     "name": "Jehad Thakri",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 6,
+     "name": "Nacho",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Spain"
+    },
+    {
+     "n": 12,
+     "name": "Yasser Al Shahrani",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 17,
+     "name": "Gastón Álvarez",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Uruguay"
+    },
+    {
+     "n": 23,
+     "name": "Waleed Al Ahmad",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 24,
+     "name": "Mohammed Qassim",
+     "ar": "",
+     "pos": "Defender",
+     "role": "DM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 26,
+     "name": "Ali Diabaté",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Ivory Coast"
+    },
+    {
+     "n": 2,
+     "name": "Mohammed Abu Al Shamat",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 5,
+     "name": "Julian Weigl",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": 7,
+     "name": "Turki Al Ammar",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 8,
+     "name": "Nahitan Nández",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Uruguay"
+    },
+    {
+     "n": 10,
+     "name": "Musab Al Juwayr",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 11,
+     "name": "Ali Hazazi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 14,
+     "name": "Tijjani Reijnders",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 15,
+     "name": "Mohammed Al Qahtani",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LWB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 18,
+     "name": "Abdulmalik Al Jaber",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "-",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 22,
+     "name": "Christopher Bonsu Baah",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LM",
+     "nat": "Ghana"
+    },
+    {
+     "n": 27,
+     "name": "Eyad Houssa",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "-",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 35,
+     "name": "Ahmed Al Siyahi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 46,
+     "name": "Abdulaziz Al Elewai",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RW",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 9,
+     "name": "Abdullah Al Salem",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 19,
+     "name": "Haitham Asiri",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 30,
+     "name": "Mahamadou Sangaré",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "France"
+    },
+    {
+     "n": 32,
+     "name": "Mateo Retegui",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Italy"
+    },
+    {
+     "n": 33,
+     "name": "Julián Quiñones",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Mexico"
+    },
+    {
+     "n": 70,
+     "name": "Suleman Sani",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Nigeria"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/id/teams/101919/squad/al-qadsiah"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "sa-neom",
+   "players": [
+    {
+     "n": 1,
+     "name": "Marcin Bułka",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Poland"
+    },
+    {
+     "n": 33,
+     "name": "Abdulrahman Dagriri",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 81,
+     "name": "Luís Maximiano",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Portugal"
+    },
+    {
+     "n": 2,
+     "name": "Mohammed Al Burayk",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 4,
+     "name": "Khalifah Al Dawsari",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 5,
+     "name": "Malang Sarr",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Senegal"
+    },
+    {
+     "n": 15,
+     "name": "Abdulmalik Al Oyayari",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 27,
+     "name": "Islam Hawsawi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 44,
+     "name": "Nathan Zézé",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "France"
+    },
+    {
+     "n": 55,
+     "name": "Mohammed Al Dossary",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 75,
+     "name": "Khaled Al Rammah",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 6,
+     "name": "Abbas Al Hassan",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 7,
+     "name": "Giorgos Masouras",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LM",
+     "nat": "Greece"
+    },
+    {
+     "n": 8,
+     "name": "Faisal Al Ghamdi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 10,
+     "name": "Saïd Benrahma",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LM",
+     "nat": "Algeria"
+    },
+    {
+     "n": 14,
+     "name": "Khalil Al Absi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 18,
+     "name": "Alaa Al Hejji",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 19,
+     "name": "Mohannad Abu Taha",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LWB",
+     "nat": "Jordan"
+    },
+    {
+     "n": 23,
+     "name": "Valentín Vada",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Argentina"
+    },
+    {
+     "n": 24,
+     "name": "Abdulaziz Noor",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 72,
+     "name": "Amadou Koné",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Ivory Coast"
+    },
+    {
+     "n": 77,
+     "name": "Muhannad Al Saad",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 9,
+     "name": "Abdulaziz Al Othman",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 22,
+     "name": "Ahmed Al Anazi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "-",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 70,
+     "name": "Haroune Camara",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 91,
+     "name": "Alexandre Lacazette",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "France"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/id/teams/1699505/squad/neom-sc"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-dynamo-dresden",
+   "players": [
+    {
+     "n": 1,
+     "name": "Tim Schreiber",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 22,
+     "name": "Lennart Grill",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 37,
+     "name": "Daniel Mesenhöler",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 40,
+     "name": "Elias Bethke",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 45,
+     "name": "Marlon Grafe",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 4,
+     "name": "Kenneth Schmidt",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 14,
+     "name": "Brooklyn Ezeh",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LWB",
+     "nat": "Germany"
+    },
+    {
+     "n": 17,
+     "name": "Ahmet Muhamedbegović",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Austria"
+    },
+    {
+     "n": 19,
+     "name": "Alexander Rossipal",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Germany"
+    },
+    {
+     "n": 23,
+     "name": "Lars Bünning",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 29,
+     "name": "Lukas Boeder",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 32,
+     "name": "Jonas Sterner",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Germany"
+    },
+    {
+     "n": 34,
+     "name": "Till Neininger",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 39,
+     "name": "Thomas Leon Keller",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 42,
+     "name": "Friedrich Müller",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 44,
+     "name": "Simon Straudi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Italy"
+    },
+    {
+     "n": 6,
+     "name": "Nicolai Rapp",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 8,
+     "name": "Luca Herrmann",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 16,
+     "name": "Nils Fröling",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Sweden"
+    },
+    {
+     "n": 18,
+     "name": "Robert Wagner",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 21,
+     "name": "Tobias Raschl",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 24,
+     "name": "Patrice Čović",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RW",
+     "nat": "Croatia"
+    },
+    {
+     "n": 27,
+     "name": "Niklas Hauptmann",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Germany"
+    },
+    {
+     "n": 7,
+     "name": "Kennedy Okpala",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 9,
+     "name": "Vincent Vermeij",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 10,
+     "name": "Jakob Lemmer",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Germany"
+    },
+    {
+     "n": 11,
+     "name": "Kaan İnanoğlu",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Türkiye"
+    },
+    {
+     "n": 20,
+     "name": "Ben Bobzien",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Germany"
+    },
+    {
+     "n": 30,
+     "name": "Stefan Kutschke",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 33,
+     "name": "Christoph Daferner",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Germany"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/8480/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-fc-nurnberg",
+   "players": [
+    {
+     "n": 1,
+     "name": "Jan Reichert",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 13,
+     "name": "Robin Lisewski",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Poland"
+    },
+    {
+     "n": 26,
+     "name": "Christian Mathenia",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 46,
+     "name": "Nicolas Ortegel",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 4,
+     "name": "Alexios Kalogeropoulos",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Greece"
+    },
+    {
+     "n": 5,
+     "name": "Styopa Mkrtchyan",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Armenia"
+    },
+    {
+     "n": 14,
+     "name": "Andrea Ceresoli",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LM",
+     "nat": "Italy"
+    },
+    {
+     "n": 15,
+     "name": "Mikayil Faye",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Senegal"
+    },
+    {
+     "n": 20,
+     "name": "Fynn Otto",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 21,
+     "name": "Giannis Masouras",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Greece"
+    },
+    {
+     "n": 22,
+     "name": "Enrico Valentini",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Italy"
+    },
+    {
+     "n": 32,
+     "name": "Tim Janisch",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Germany"
+    },
+    {
+     "n": 36,
+     "name": "Kristian Mandic",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Croatia"
+    },
+    {
+     "n": 41,
+     "name": "Eric Porstner",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Germany"
+    },
+    {
+     "n": 43,
+     "name": "Tobias Hess",
+     "ar": "",
+     "pos": "Defender",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 44,
+     "name": "Khalid Abu El Haija",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Palestine"
+    },
+    {
+     "n": null,
+     "name": "Winners Osawe",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": 6,
+     "name": "Adam Markhiev",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Finland"
+    },
+    {
+     "n": 8,
+     "name": "Javier Fernández",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Spain"
+    },
+    {
+     "n": 16,
+     "name": "Marko Soldic",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 18,
+     "name": "Rafael Lubach",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": 22,
+     "name": "Finn Becker",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Germany"
+    },
+    {
+     "n": 28,
+     "name": "Can Moustfa",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LW",
+     "nat": "Syria"
+    },
+    {
+     "n": null,
+     "name": "Marc Kornwachs",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 35,
+     "name": "Simon Joachims",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Levin Chiumento",
+     "ar": "",
+     "pos": "Forward",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 7,
+     "name": "Rayan Ghrieb",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "France"
+    },
+    {
+     "n": 9,
+     "name": "Sigurd Haugen",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Norway"
+    },
+    {
+     "n": 10,
+     "name": "Julian Justvan",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Germany"
+    },
+    {
+     "n": 11,
+     "name": "William Bøving",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Denmark"
+    },
+    {
+     "n": 19,
+     "name": "Piet Scobel",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 23,
+     "name": "Mohamed Alì Zoma",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Italy"
+    },
+    {
+     "n": 39,
+     "name": "Adriano Grimaldi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Germany"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/8165/squad/nurnberg"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-hannover-96",
+   "players": [
+    {
+     "n": 1,
+     "name": "Pascal Loretz",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 30,
+     "name": "Leo Weinkauf",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Karl Steinmann",
+     "ar": "",
+     "pos": "Defender",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 3,
+     "name": "Boris Tomiak",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 4,
+     "name": "Jean Hugonet",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "France"
+    },
+    {
+     "n": 5,
+     "name": "Virgil Ghiță",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Romania"
+    },
+    {
+     "n": 17,
+     "name": "Bastian Allgeier",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 20,
+     "name": "Ime Okon",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "South Africa"
+    },
+    {
+     "n": 24,
+     "name": "Yunus Uenal",
+     "ar": "",
+     "pos": "Defender",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 10,
+     "name": "Marcel Hartel",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Germany"
+    },
+    {
+     "n": 13,
+     "name": "Franz Roggow",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": 21,
+     "name": "Mwisho Mhango",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LW",
+     "nat": "Malawi"
+    },
+    {
+     "n": 23,
+     "name": "Stefán Thórdarson",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Iceland"
+    },
+    {
+     "n": 27,
+     "name": "Hayate Matsuda",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "Japan"
+    },
+    {
+     "n": 33,
+     "name": "Maurice Neubauer",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": 37,
+     "name": "Alexander Vogel",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 38,
+     "name": "Jasper Reinhold",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 7,
+     "name": "Mustapha Bundu",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Sierra Leone"
+    },
+    {
+     "n": 8,
+     "name": "Waniss Taïbi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "AM",
+     "nat": "France"
+    },
+    {
+     "n": 9,
+     "name": "Benjamin Källman",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Finland"
+    },
+    {
+     "n": 11,
+     "name": "Benedikt Pichler",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Austria"
+    },
+    {
+     "n": 25,
+     "name": "Lars Gindorf",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 26,
+     "name": "Tom Hobrecht",
+     "ar": "",
+     "pos": "Forward",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 28,
+     "name": "Taycan Etçibasi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 44,
+     "name": "Emir Sahiti",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Kosovo"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/9904/squad/hannover-96"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "it-bologna",
+   "players": [
+    {
+     "n": 1,
+     "name": "Łukasz Skorupski",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Poland"
+    },
+    {
+     "n": 25,
+     "name": "Massimo Pessina",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 72,
+     "name": "Ukko Happonen",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Finland"
+    },
+    {
+     "n": null,
+     "name": "Francesco Raffaelli",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 2,
+     "name": "Emil Holm",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Sweden"
+    },
+    {
+     "n": 3,
+     "name": "Arthur Theate",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Belgium"
+    },
+    {
+     "n": 5,
+     "name": "Eivind Helland",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Norway"
+    },
+    {
+     "n": 14,
+     "name": "Torbjørn Heggem",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Norway"
+    },
+    {
+     "n": 16,
+     "name": "Nicolò Casale",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 20,
+     "name": "Nadir Zortea",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Italy"
+    },
+    {
+     "n": 23,
+     "name": "Rahim Alhassane",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Niger"
+    },
+    {
+     "n": 29,
+     "name": "Lorenzo De Silvestri",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Italy"
+    },
+    {
+     "n": 33,
+     "name": "Juan Miranda",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Spain"
+    },
+    {
+     "n": 41,
+     "name": "Martin Vitík",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Czech Republic"
+    },
+    {
+     "n": 4,
+     "name": "Tommaso Pobega",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Italy"
+    },
+    {
+     "n": 6,
+     "name": "Nikola Moro",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Croatia"
+    },
+    {
+     "n": 8,
+     "name": "Mikel Amondarain",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Argentina"
+    },
+    {
+     "n": 17,
+     "name": "Oussama El Azzouzi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Morocco"
+    },
+    {
+     "n": 18,
+     "name": "Marco Libra",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Venezuela"
+    },
+    {
+     "n": 19,
+     "name": "Lewis Ferguson",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Scotland"
+    },
+    {
+     "n": 21,
+     "name": "Jens Odgaard",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Denmark"
+    },
+    {
+     "n": 36,
+     "name": "Matteo Darmian",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 7,
+     "name": "Riccardo Orsolini",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Italy"
+    },
+    {
+     "n": 9,
+     "name": "Artem Dovbyk",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 10,
+     "name": "Federico Bernardeschi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Italy"
+    },
+    {
+     "n": 11,
+     "name": "Samuel Mbangula",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Belgium"
+    },
+    {
+     "n": 22,
+     "name": "Jay Enem",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 28,
+     "name": "Nicolò Cambiaghi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Italy"
+    },
+    {
+     "n": 74,
+     "name": "Simone Negri",
+     "ar": "",
+     "pos": "Forward",
+     "role": "",
+     "nat": "Italy"
+    },
+    {
+     "n": 91,
+     "name": "Roberto Piccoli",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Italy"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/9857/squad/bologna"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "it-frosinone",
+   "players": [
+    {
+     "n": null,
+     "name": "Eldin Lolić",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Bosnia-Herzegovina"
+    },
+    {
+     "n": 12,
+     "name": "Matteo Pisseri",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 22,
+     "name": "Lorenzo Palmisani",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 91,
+     "name": "Sebastiano Desplanches",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 2,
+     "name": "Giorgio Cittadini",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 3,
+     "name": "Gabriele Calvani",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 5,
+     "name": "Wisdom Amey",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 20,
+     "name": "Anthony Oyono",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Gabon"
+    },
+    {
+     "n": 25,
+     "name": "Kevin Akpoguma",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 30,
+     "name": "Ilario Monterisi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 71,
+     "name": "Aleksa Terzić",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Serbia"
+    },
+    {
+     "n": 74,
+     "name": "Omar Fayed",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Egypt"
+    },
+    {
+     "n": 79,
+     "name": "Gabriele Bracaglia",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Italy"
+    },
+    {
+     "n": 90,
+     "name": "Enzo Tchato",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Cameroon"
+    },
+    {
+     "n": 10,
+     "name": "Romano Schmid",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Austria"
+    },
+    {
+     "n": 14,
+     "name": "Giacomo Calò",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 16,
+     "name": "Matteo Cichella",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 24,
+     "name": "Alessio Zerbin",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "Italy"
+    },
+    {
+     "n": 27,
+     "name": "Florian Grillitsch",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Austria"
+    },
+    {
+     "n": 34,
+     "name": "Anouar El Azzouzi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 70,
+     "name": "Luis Hasa",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Albania"
+    },
+    {
+     "n": 73,
+     "name": "Patrizio Masini",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Italy"
+    },
+    {
+     "n": 92,
+     "name": "Benjamin Lhassine Kone",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Ivory Coast"
+    },
+    {
+     "n": 96,
+     "name": "Francesco Gelli",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 7,
+     "name": "Farès Ghedjemis",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Algeria"
+    },
+    {
+     "n": 9,
+     "name": "Antonio Raimondo",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Italy"
+    },
+    {
+     "n": 11,
+     "name": "Daniel Bîrligea",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Romania"
+    },
+    {
+     "n": 17,
+     "name": "Giorgi Kvernadze",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Georgia"
+    },
+    {
+     "n": 29,
+     "name": "Alejandro Cichero",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Venezuela"
+    },
+    {
+     "n": 40,
+     "name": "Seydou Fini",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Italy"
+    },
+    {
+     "n": 89,
+     "name": "Tomás Bobček",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Slovakia"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/9891/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "it-lazio",
+   "players": [
+    {
+     "n": 35,
+     "name": "Christos Mandas",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Greece"
+    },
+    {
+     "n": 40,
+     "name": "Edoardo Motta",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 47,
+     "name": "Davide Renzetti",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 55,
+     "name": "Alessio Furlanetto",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": null,
+     "name": "Mohamed Fares",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LW",
+     "nat": "Algeria"
+    },
+    {
+     "n": 2,
+     "name": "Diogo Leite",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Portugal"
+    },
+    {
+     "n": 3,
+     "name": "Luca Pellegrini",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Italy"
+    },
+    {
+     "n": 5,
+     "name": "Danilho Doekhi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 17,
+     "name": "Nuno Tavares",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Portugal"
+    },
+    {
+     "n": 23,
+     "name": "Alfonso Pedraza",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Spain"
+    },
+    {
+     "n": 25,
+     "name": "Oliver Provstgaard",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Denmark"
+    },
+    {
+     "n": 29,
+     "name": "Manuel Lazzari",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Italy"
+    },
+    {
+     "n": 33,
+     "name": "Ricardo Bordon",
+     "ar": "",
+     "pos": "Defender",
+     "role": "",
+     "nat": "Brazil"
+    },
+    {
+     "n": 37,
+     "name": "Josip Šutalo",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Croatia"
+    },
+    {
+     "n": 76,
+     "name": "Filipe Bordon",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Brazil"
+    },
+    {
+     "n": 77,
+     "name": "Adam Marušić",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Montenegro"
+    },
+    {
+     "n": 6,
+     "name": "Nicolò Rovella",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 7,
+     "name": "Fisayo Dele-Bashiru",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 8,
+     "name": "Bruno Galassi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "ST",
+     "nat": "Spain"
+    },
+    {
+     "n": 15,
+     "name": "Romano Floriani Mussolini",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RB",
+     "nat": "Italy"
+    },
+    {
+     "n": 16,
+     "name": "Davide Frattesi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 21,
+     "name": "Reda Belahyane",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Morocco"
+    },
+    {
+     "n": 24,
+     "name": "Kenneth Taylor",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 28,
+     "name": "Adrian Przyborek",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LM",
+     "nat": "Poland"
+    },
+    {
+     "n": 32,
+     "name": "Danilo Cataldi",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 71,
+     "name": "Valerio Farcomeni",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "",
+     "nat": "Italy"
+    },
+    {
+     "n": 9,
+     "name": "Andrea Pinamonti",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Italy"
+    },
+    {
+     "n": 10,
+     "name": "Mattia Zaccagni",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Italy"
+    },
+    {
+     "n": 11,
+     "name": "Gustav Isaksen",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Denmark"
+    },
+    {
+     "n": 14,
+     "name": "Tijjani Noslin",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 22,
+     "name": "Matteo Cancellieri",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Italy"
+    },
+    {
+     "n": 63,
+     "name": "Federico Serra",
+     "ar": "",
+     "pos": "Forward",
+     "role": "",
+     "nat": "Italy"
+    },
+    {
+     "n": 80,
+     "name": "Albert Guðmundsson",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Iceland"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/8543/squad/undefined"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "it-monza",
+   "players": [
+    {
+     "n": 1,
+     "name": "Noel Törnqvist",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Sweden"
+    },
+    {
+     "n": 20,
+     "name": "Demba Thiam",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Senegal"
+    },
+    {
+     "n": 43,
+     "name": "Aljaž Strajnar",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Slovenia"
+    },
+    {
+     "n": 2,
+     "name": "Saba Goglichidze",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Georgia"
+    },
+    {
+     "n": 3,
+     "name": "Lorenzo Lucchesi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 4,
+     "name": "Jan Ziólkowski",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Poland"
+    },
+    {
+     "n": 5,
+     "name": "Yvan Kouadio Maye",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "France"
+    },
+    {
+     "n": 6,
+     "name": "Valentin Antov",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Bulgaria"
+    },
+    {
+     "n": 44,
+     "name": "Andrea Carboni",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 60,
+     "name": "Eddy Kouadio",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 7,
+     "name": "Ricardo Mangas",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LWB",
+     "nat": "Portugal"
+    },
+    {
+     "n": 8,
+     "name": "Foe Ondoa",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "France"
+    },
+    {
+     "n": 11,
+     "name": "Omari Forson",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "England"
+    },
+    {
+     "n": 14,
+     "name": "Ebenezer Akinsanmiro",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 17,
+     "name": "Keita Baldé",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Senegal"
+    },
+    {
+     "n": 19,
+     "name": "Samuele Birindelli",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RWB",
+     "nat": "Italy"
+    },
+    {
+     "n": 21,
+     "name": "Leonardo Colombo",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Italy"
+    },
+    {
+     "n": 24,
+     "name": "Adam Bakoune",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RWB",
+     "nat": "Italy"
+    },
+    {
+     "n": 26,
+     "name": "Patrick Ciurria",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Italy"
+    },
+    {
+     "n": 27,
+     "name": "Idrissa Touré",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "RM",
+     "nat": "Germany"
+    },
+    {
+     "n": 28,
+     "name": "Andrea Colpani",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "Italy"
+    },
+    {
+     "n": 32,
+     "name": "Matteo Pessina",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "DM",
+     "nat": "Italy"
+    },
+    {
+     "n": 46,
+     "name": "Jay Robinson",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "AM",
+     "nat": "England"
+    },
+    {
+     "n": 80,
+     "name": "Mathis Mout",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 90,
+     "name": "Michael Folorunsho",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 9,
+     "name": "Gustavo Varela",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Portugal"
+    },
+    {
+     "n": 10,
+     "name": "Patrick Cutrone",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Italy"
+    },
+    {
+     "n": 16,
+     "name": "Cyril Ngonge",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Belgium"
+    },
+    {
+     "n": 22,
+     "name": "Exequiel Zeballos",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Argentina"
+    },
+    {
+     "n": 47,
+     "name": "Dany Mota",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Portugal"
+    },
+    {
+     "n": 70,
+     "name": "Kevin Martins",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RWB",
+     "nat": "Italy"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/6504/squad/players"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "it-sassuolo",
+   "players": [
+    {
+     "n": 12,
+     "name": "Giacomo Satalino",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 22,
+     "name": "Lorenzo Nyarko",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 49,
+     "name": "Arijanet Murić",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Kosovo"
+    },
+    {
+     "n": 80,
+     "name": "Stefano Turati",
+     "ar": "",
+     "pos": "Keeper",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": null,
+     "name": "Edoardo Pieragnolo",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Italy"
+    },
+    {
+     "n": 3,
+     "name": "Josh Doig",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Scotland"
+    },
+    {
+     "n": 5,
+     "name": "Fali Candé",
+     "ar": "",
+     "pos": "Defender",
+     "role": "LB",
+     "nat": "Guinea-Bissau"
+    },
+    {
+     "n": 6,
+     "name": "Sebastian Walukiewicz",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Poland"
+    },
+    {
+     "n": 15,
+     "name": "Duje Ćaleta-Car",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Croatia"
+    },
+    {
+     "n": 16,
+     "name": "Fedde Leysen",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Belgium"
+    },
+    {
+     "n": 20,
+     "name": "Ignace Van Der Brempt",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Belgium"
+    },
+    {
+     "n": 21,
+     "name": "Jay Idzes",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Indonesia"
+    },
+    {
+     "n": 26,
+     "name": "Cas Odenthal",
+     "ar": "",
+     "pos": "Defender",
+     "role": "CB",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 27,
+     "name": "Yeferson Paz",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RWB",
+     "nat": "Colombia"
+    },
+    {
+     "n": 36,
+     "name": "Giorgio Vezzosi",
+     "ar": "",
+     "pos": "Defender",
+     "role": "",
+     "nat": "Italy"
+    },
+    {
+     "n": 46,
+     "name": "Simone Cinquegrano",
+     "ar": "",
+     "pos": "Defender",
+     "role": "RB",
+     "nat": "Italy"
+    },
+    {
+     "n": 8,
+     "name": "Andrea Ghion",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 11,
+     "name": "Daniel Boloca",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Romania"
+    },
+    {
+     "n": 17,
+     "name": "Vasilije Adžić",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Montenegro"
+    },
+    {
+     "n": 18,
+     "name": "Nemanja Matić",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Serbia"
+    },
+    {
+     "n": 33,
+     "name": "Rafael Obrador",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "LWB",
+     "nat": "Spain"
+    },
+    {
+     "n": 35,
+     "name": "Luca Lipani",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 42,
+     "name": "Kristian Thorstvedt",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Norway"
+    },
+    {
+     "n": 50,
+     "name": "Darryl Bakola",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "France"
+    },
+    {
+     "n": 55,
+     "name": "Ibrahim Sulemana",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Ghana"
+    },
+    {
+     "n": 90,
+     "name": "Ismaël Koné",
+     "ar": "",
+     "pos": "Midfielder",
+     "role": "CM",
+     "nat": "Canada"
+    },
+    {
+     "n": 7,
+     "name": "Cristian Volpato",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Australia"
+    },
+    {
+     "n": 9,
+     "name": "Kieron Bowie",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Scotland"
+    },
+    {
+     "n": 10,
+     "name": "Domenico Berardi",
+     "ar": "",
+     "pos": "Forward",
+     "role": "RW",
+     "nat": "Italy"
+    },
+    {
+     "n": 14,
+     "name": "Gabriel Kulla",
+     "ar": "",
+     "pos": "Forward",
+     "role": "",
+     "nat": "Albania"
+    },
+    {
+     "n": 19,
+     "name": "Laurs Skjellerup",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Denmark"
+    },
+    {
+     "n": 25,
+     "name": "Benja Domínguez",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Argentina"
+    },
+    {
+     "n": 45,
+     "name": "Armand Laurienté",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "France"
+    },
+    {
+     "n": 77,
+     "name": "Nicholas Pierini",
+     "ar": "",
+     "pos": "Forward",
+     "role": "LW",
+     "nat": "Italy"
+    },
+    {
+     "n": 94,
+     "name": "Sebastiano Esposito",
+     "ar": "",
+     "pos": "Forward",
+     "role": "ST",
+     "nat": "Italy"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/7943/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "cn-shanghai-port",
+   "players": [
+    {
+     "n": 1,
+     "name": "Junling Yan",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "China"
+    },
+    {
+     "n": 12,
+     "name": "Wei Chen",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "China"
+    },
+    {
+     "n": 53,
+     "name": "Zhiliang Li",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "China"
+    },
+    {
+     "n": 55,
+     "name": "Yuhang Zhang",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "China"
+    },
+    {
+     "n": 3,
+     "name": "Tyias Browning",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "China"
+    },
+    {
+     "n": 4,
+     "name": "Shenchao Wang",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RWB",
+     "nat": "China"
+    },
+    {
+     "n": 5,
+     "name": "Linpeng Zhang",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "China"
+    },
+    {
+     "n": 13,
+     "name": "Zhen Wei",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "China"
+    },
+    {
+     "n": 19,
+     "name": "Zhenao Wang",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LWB",
+     "nat": "China"
+    },
+    {
+     "n": 22,
+     "name": "Alex Yang",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "China"
+    },
+    {
+     "n": 23,
+     "name": "Huan Fu",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RWB",
+     "nat": "China"
+    },
+    {
+     "n": 28,
+     "name": "Xin Yue",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "China"
+    },
+    {
+     "n": 31,
+     "name": "Shimeng Bao",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LWB",
+     "nat": "China"
+    },
+    {
+     "n": 32,
+     "name": "Shuai Li",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "China"
+    },
+    {
+     "n": 40,
+     "name": "Umidjan Yusup",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "China"
+    },
+    {
+     "n": 44,
+     "name": "Miguel Campos",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Portugal"
+    },
+    {
+     "n": 54,
+     "name": "Dongcheng Wang",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "China"
+    },
+    {
+     "n": 6,
+     "name": "Yuan Zhang",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "China"
+    },
+    {
+     "n": 8,
+     "name": "Jean Claude",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Togo"
+    },
+    {
+     "n": 10,
+     "name": "Mateus Vital",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Brazil"
+    },
+    {
+     "n": 16,
+     "name": "Jaume Grau",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Spain"
+    },
+    {
+     "n": 20,
+     "name": "Shiyuan Yang",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "China"
+    },
+    {
+     "n": 21,
+     "name": "Óscar Melendo",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Spain"
+    },
+    {
+     "n": 24,
+     "name": "Ruilong Li",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "China"
+    },
+    {
+     "n": 33,
+     "name": "Zhurun Liu",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "RW",
+     "nat": "China"
+    },
+    {
+     "n": 38,
+     "name": "Yongtao Lu",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "China"
+    },
+    {
+     "n": 47,
+     "name": "Jiwen Kuai",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "China"
+    },
+    {
+     "n": 58,
+     "name": "Zhezhe Cao",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "China"
+    },
+    {
+     "n": 7,
+     "name": "Lei Wu",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "China"
+    },
+    {
+     "n": 11,
+     "name": "Gabrielzinho",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Brazil"
+    },
+    {
+     "n": 14,
+     "name": "Matthew Orr",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 17,
+     "name": "Prince Ampem",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Ghana"
+    },
+    {
+     "n": 26,
+     "name": "Ruofan Liu",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "China"
+    },
+    {
+     "n": 35,
+     "name": "Junxiang Wen",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "",
+     "nat": "China"
+    },
+    {
+     "n": 37,
+     "name": "Junjie Zhang",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "",
+     "nat": "China"
+    },
+    {
+     "n": 45,
+     "name": "Leonardo",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Brazil"
+    },
+    {
+     "n": 46,
+     "name": "Juncheng Cui",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "",
+     "nat": "China"
+    },
+    {
+     "n": 49,
+     "name": "Xinxiang Li",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "China"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/th/teams/198616/squad/players"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "cn-shanghai-shenhua",
+   "players": [
+    {
+     "n": 1,
+     "name": "Xue Qinghao",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "China"
+    },
+    {
+     "n": 24,
+     "name": "Ma Zhen",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "China"
+    },
+    {
+     "n": 39,
+     "name": "Sun Dongyang",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "China"
+    },
+    {
+     "n": 2,
+     "name": "Wang Shilong",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "China"
+    },
+    {
+     "n": 3,
+     "name": "Jin Shunkai",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "China"
+    },
+    {
+     "n": 4,
+     "name": "Jiang Shenglong",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "China"
+    },
+    {
+     "n": 5,
+     "name": "Zhu Chenjie",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "China"
+    },
+    {
+     "n": 6,
+     "name": "Li Songyi",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "China"
+    },
+    {
+     "n": 13,
+     "name": "Wilson Manafá",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Portugal"
+    },
+    {
+     "n": 16,
+     "name": "Yang Zexiang",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "China"
+    },
+    {
+     "n": 25,
+     "name": "Zhu Yue",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RWB",
+     "nat": "China"
+    },
+    {
+     "n": 26,
+     "name": "Yang Shuai",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "China"
+    },
+    {
+     "n": 27,
+     "name": "Shinichi Chan",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 36,
+     "name": "Huang Ming",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "China"
+    },
+    {
+     "n": 8,
+     "name": "Li Ke",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "China"
+    },
+    {
+     "n": 10,
+     "name": "João Teixeira",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Portugal"
+    },
+    {
+     "n": 15,
+     "name": "Wu Xi",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "China"
+    },
+    {
+     "n": 17,
+     "name": "Gao Tianyi",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "China"
+    },
+    {
+     "n": 21,
+     "name": "Xu Haoyang",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "China"
+    },
+    {
+     "n": 30,
+     "name": "Xie Pengfei",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LM",
+     "nat": "China"
+    },
+    {
+     "n": 33,
+     "name": "Wang Haijian",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "China"
+    },
+    {
+     "n": 38,
+     "name": "Wu Qipeng",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "China"
+    },
+    {
+     "n": 9,
+     "name": "Rafael Ratão",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Brazil"
+    },
+    {
+     "n": 18,
+     "name": "Liu Chengyu",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "China"
+    },
+    {
+     "n": 19,
+     "name": "Luís Asué",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Equatorial Guinea"
+    },
+    {
+     "n": 29,
+     "name": "Makhtar Gueye",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Senegal"
+    },
+    {
+     "n": 43,
+     "name": "Yang Haoyu",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "China"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/vi/teams/6628/squad/shanghai-shenhua"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "fr-paris-saint-germain",
+   "players": [
+    {
+     "n": 16,
+     "name": "Alessandro Longoni",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 30,
+     "name": "Lucas Chevalier",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "France"
+    },
+    {
+     "n": 39,
+     "name": "Matvey Safonov",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Russia"
+    },
+    {
+     "n": 2,
+     "name": "Achraf Hakimi",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Morocco"
+    },
+    {
+     "n": 5,
+     "name": "Marquinhos",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Brazil"
+    },
+    {
+     "n": 6,
+     "name": "Ilya Zabarnyi",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 12,
+     "name": "Lucas Digne",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "France"
+    },
+    {
+     "n": 21,
+     "name": "Lucas Hernández",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "France"
+    },
+    {
+     "n": 25,
+     "name": "Nuno Mendes",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Portugal"
+    },
+    {
+     "n": 51,
+     "name": "Willian Pacho",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Ecuador"
+    },
+    {
+     "n": 4,
+     "name": "Lucas Beraldo",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Brazil"
+    },
+    {
+     "n": 8,
+     "name": "Fabián Ruiz",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Spain"
+    },
+    {
+     "n": 17,
+     "name": "Vítinha",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Portugal"
+    },
+    {
+     "n": 24,
+     "name": "Senny Mayulu",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "France"
+    },
+    {
+     "n": 27,
+     "name": "Dro Fernández",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Spain"
+    },
+    {
+     "n": 33,
+     "name": "Warren Zaïre-Emery",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "France"
+    },
+    {
+     "n": 47,
+     "name": "Quentin Ndjantou",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "France"
+    },
+    {
+     "n": 87,
+     "name": "João Neves",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Portugal"
+    },
+    {
+     "n": 7,
+     "name": "Khvicha Kvaratskhelia",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Georgia"
+    },
+    {
+     "n": 9,
+     "name": "Ferrán Torres",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Spain"
+    },
+    {
+     "n": 10,
+     "name": "Ousmane Dembélé",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "France"
+    },
+    {
+     "n": 11,
+     "name": "Maghnes Akliouche",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "France"
+    },
+    {
+     "n": 14,
+     "name": "Désiré Doué",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "France"
+    },
+    {
+     "n": 22,
+     "name": "Mika Godts",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Belgium"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/th/teams/9847/squad/undefined,players,teams"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "gr-aek-athens",
+   "players": [
+    {
+     "n": 1,
+     "name": "Thomas Strakosha",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Albania"
+    },
+    {
+     "n": 31,
+     "name": "Georgios Sarakasidis",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Greece"
+    },
+    {
+     "n": 41,
+     "name": "Marios Balamotis",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Greece"
+    },
+    {
+     "n": 91,
+     "name": "Alberto Brignoli",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 2,
+     "name": "Harold Moukoudi",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Cameroon"
+    },
+    {
+     "n": 3,
+     "name": "Stavros Pilios",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Albania"
+    },
+    {
+     "n": 5,
+     "name": "Christos Alexiou",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Greece"
+    },
+    {
+     "n": 12,
+     "name": "Lazaros Rota",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Greece"
+    },
+    {
+     "n": 15,
+     "name": "Martin Georgiev",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Bulgaria"
+    },
+    {
+     "n": 21,
+     "name": "Domagoj Vida",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Croatia"
+    },
+    {
+     "n": 22,
+     "name": "Charalambos Lykogiannis",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Greece"
+    },
+    {
+     "n": 44,
+     "name": "Filipe Relvas",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Portugal"
+    },
+    {
+     "n": 57,
+     "name": "Spyros Christakopoulos",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Greece"
+    },
+    {
+     "n": 6,
+     "name": "Kaan Kairinen",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Finland"
+    },
+    {
+     "n": 7,
+     "name": "Dereck Kutesa",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LW",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 8,
+     "name": "Mijat Gaćinović",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LM",
+     "nat": "Serbia"
+    },
+    {
+     "n": 11,
+     "name": "Aboubakary Koïta",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LM",
+     "nat": "Mauritania"
+    },
+    {
+     "n": 14,
+     "name": "Lovro Majer",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Croatia"
+    },
+    {
+     "n": 16,
+     "name": "Kervin Arriaga",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Honduras"
+    },
+    {
+     "n": 18,
+     "name": "Răzvan Marin",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Romania"
+    },
+    {
+     "n": 20,
+     "name": "Petros Mantalos",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Greece"
+    },
+    {
+     "n": 27,
+     "name": "Milán Vitális",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Hungary"
+    },
+    {
+     "n": 80,
+     "name": "Hakim Sahabo",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Rwanda"
+    },
+    {
+     "n": null,
+     "name": "Frantzdy Pierrot",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Haiti"
+    },
+    {
+     "n": 9,
+     "name": "Luka Jović",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Serbia"
+    },
+    {
+     "n": 10,
+     "name": "Oleksandr Zubkov",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 17,
+     "name": "Dimitrios Kaloskamis",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Greece"
+    },
+    {
+     "n": 19,
+     "name": "Barnabás Varga",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Hungary"
+    },
+    {
+     "n": 23,
+     "name": "Joao Mário",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Portugal"
+    },
+    {
+     "n": 39,
+     "name": "Zois Karagyris",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "",
+     "nat": "Greece"
+    },
+    {
+     "n": 90,
+     "name": "Zine",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Angola"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/fa/teams/8563/squad/aek-athens"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "hk-kitchee",
+   "players": [
+    {
+     "n": 13,
+     "name": "Enikar Mehmud",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "China"
+    },
+    {
+     "n": 17,
+     "name": "Pong Cheuk Hei",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 23,
+     "name": "Shek Tuscany",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 2,
+     "name": "Marcão Santos",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Brazil"
+    },
+    {
+     "n": 3,
+     "name": "Roger Riera",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Spain"
+    },
+    {
+     "n": 6,
+     "name": "Jay Haddow",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 14,
+     "name": "Kam Chi Kin Jason",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CM",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 20,
+     "name": "Dudú",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 22,
+     "name": "Callum Beattie",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 5,
+     "name": "Asier Illarramendi",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Spain"
+    },
+    {
+     "n": 7,
+     "name": "Ruslan Mingazow",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "RM",
+     "nat": "Turkmenistan"
+    },
+    {
+     "n": 8,
+     "name": "Cheng Chin Lung",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LW",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 10,
+     "name": "Kendy",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Brazil"
+    },
+    {
+     "n": 11,
+     "name": "Yumemi Kanda",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Japan"
+    },
+    {
+     "n": 15,
+     "name": "Víctor Camarasa",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Spain"
+    },
+    {
+     "n": 16,
+     "name": "Tan Chun Lok",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 18,
+     "name": "Everton Camargo",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "RM",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 27,
+     "name": "Jordan Lam Lok Kan",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 30,
+     "name": "Juninho",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LM",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 9,
+     "name": "Adrián Revilla",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Spain"
+    },
+    {
+     "n": 21,
+     "name": "Koldo Obieta",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Spain"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/my/teams/165165/squad/kitchee"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "hk-tai-po",
+   "players": [
+    {
+     "n": 94,
+     "name": "Tse Ka Wing",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 4,
+     "name": "Léo Rigo",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Brazil"
+    },
+    {
+     "n": 12,
+     "name": "Gérson",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "DM",
+     "nat": "Brazil"
+    },
+    {
+     "n": 13,
+     "name": "Sim Seung-Hyeon",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RM",
+     "nat": "South Korea"
+    },
+    {
+     "n": 26,
+     "name": "Lee Ka Ho",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 33,
+     "name": "Gabriel Moreira",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Brazil"
+    },
+    {
+     "n": 44,
+     "name": "Weverton Rangel",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Brazil"
+    },
+    {
+     "n": 6,
+     "name": "Chan Hoi Pak Paco",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 8,
+     "name": "Nando Welter",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Brazil"
+    },
+    {
+     "n": 11,
+     "name": "Facundo Aranda",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Argentina"
+    },
+    {
+     "n": 16,
+     "name": "Philip Chan Siu Kwan",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 7,
+     "name": "Chang Hei Yin",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 9,
+     "name": "Paulinho Simionato",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "DM",
+     "nat": "Brazil"
+    },
+    {
+     "n": 10,
+     "name": "Fernando",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "CM",
+     "nat": "Hong Kong"
+    },
+    {
+     "n": 18,
+     "name": "Igor Sartori",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Brazil"
+    },
+    {
+     "n": 23,
+     "name": "Emilio Estevez",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Chinese Taipei"
+    },
+    {
+     "n": 97,
+     "name": "Marquinhos",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "AM",
+     "nat": "Brazil"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/ko/teams/165169/squad/tai-po"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-eintracht-braunschweig",
+   "players": [
+    {
+     "n": 1,
+     "name": "Ron-Thorben Hoffmann",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 32,
+     "name": "Benjamin Uphoff",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 35,
+     "name": "Leon Herdes",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 3,
+     "name": "Noah Katterbach",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Germany"
+    },
+    {
+     "n": 4,
+     "name": "Andi Hoti",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Kosovo"
+    },
+    {
+     "n": 5,
+     "name": "Frederik Jäkel",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 8,
+     "name": "Mehmet Aydın",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Türkiye"
+    },
+    {
+     "n": 21,
+     "name": "Kevin Ehlers",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 22,
+     "name": "Fabio Di Michele",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Germany"
+    },
+    {
+     "n": 23,
+     "name": "Isidoros Koutsidis",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Greece"
+    },
+    {
+     "n": 25,
+     "name": "Sanoussy Ba",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Germany"
+    },
+    {
+     "n": 26,
+     "name": "Tristan Wagner",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 29,
+     "name": "Lukas Frenkert",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 43,
+     "name": "Damjan Kovacevic",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RWB",
+     "nat": "Austria"
+    },
+    {
+     "n": null,
+     "name": "Hugo Afonso",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CB",
+     "nat": "Luxembourg"
+    },
+    {
+     "n": null,
+     "name": "Léon Bell",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LWB",
+     "nat": "Cameroon"
+    },
+    {
+     "n": null,
+     "name": "Leonard Laatsch",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 6,
+     "name": "Florian Flick",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 10,
+     "name": "Samuele Di Benedetto",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 15,
+     "name": "Max Marie",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 18,
+     "name": "Anas Bakhat",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 20,
+     "name": "Lino Tempelmann",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Germany"
+    },
+    {
+     "n": 30,
+     "name": "Robin Heußer",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Germany"
+    },
+    {
+     "n": 37,
+     "name": "Sidney Raebiger",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LWB",
+     "nat": "Germany"
+    },
+    {
+     "n": 7,
+     "name": "Yann Sturm",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Germany"
+    },
+    {
+     "n": 9,
+     "name": "Maximilian Entrup",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Austria"
+    },
+    {
+     "n": 11,
+     "name": "Jovan Mijatović",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Serbia"
+    },
+    {
+     "n": 17,
+     "name": "Aaron Opoku",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Germany"
+    },
+    {
+     "n": 19,
+     "name": "Junior Zé",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 24,
+     "name": "Sidi Sané",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "AM",
+     "nat": "Germany"
+    },
+    {
+     "n": 27,
+     "name": "Jan Urbich",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/9776/squad/android-app:"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-energie-cottbus",
+   "players": [
+    {
+     "n": null,
+     "name": "Alexander Sebald",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 1,
+     "name": "Marcel Lotka",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 29,
+     "name": "Kevin Kratzsch",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 30,
+     "name": "Max Böhnke",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Joel Awuah",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 2,
+     "name": "King Manu",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 3,
+     "name": "Henry Rorig",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Germany"
+    },
+    {
+     "n": 4,
+     "name": "Tim Campulka",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 16,
+     "name": "Ryan Malone",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "USA"
+    },
+    {
+     "n": 20,
+     "name": "Axel Borgmann",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Germany"
+    },
+    {
+     "n": 21,
+     "name": "Luca Erlein",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 22,
+     "name": "Fabian Balg",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 23,
+     "name": "Fousseny Doumbia",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 24,
+     "name": "Anderson Lucoqui",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Angola"
+    },
+    {
+     "n": 25,
+     "name": "Leon Guwara",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Gambia"
+    },
+    {
+     "n": 42,
+     "name": "Jannis Zaydan",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Germany"
+    },
+    {
+     "n": 43,
+     "name": "Aaron Reschke",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 5,
+     "name": "Dominik Pelivan",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 6,
+     "name": "Jonas Hofmann",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": 8,
+     "name": "Lukas Michelbrink",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Lithuania"
+    },
+    {
+     "n": 10,
+     "name": "Tolcay Ciğerci",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Türkiye"
+    },
+    {
+     "n": 14,
+     "name": "Félix Schubart",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 17,
+     "name": "Julian Guttau",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "RW",
+     "nat": "Germany"
+    },
+    {
+     "n": 19,
+     "name": "Jannis Boziaris",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Greece"
+    },
+    {
+     "n": 32,
+     "name": "Leonardo Bittencourt",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 41,
+     "name": "Edwin Kracht",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 7,
+     "name": "Christian Kinsombi",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Germany"
+    },
+    {
+     "n": 9,
+     "name": "Lucas Copado",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 11,
+     "name": "Moritz Hannemann",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Germany"
+    },
+    {
+     "n": 13,
+     "name": "Dmytro Bogdanov",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 18,
+     "name": "Erik Engelhardt",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 31,
+     "name": "Justin Butler",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Germany"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/es-419/teams/8398/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-fc-heidenheim",
+   "players": [
+    {
+     "n": 1,
+     "name": "Frank Feller",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 33,
+     "name": "Thomas Dähne",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 34,
+     "name": "Paul Tschernuth",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Austria"
+    },
+    {
+     "n": 2,
+     "name": "Marnon-Thomas Busch",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Germany"
+    },
+    {
+     "n": 4,
+     "name": "Tim Siersleben",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 6,
+     "name": "Patrick Mainka",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 19,
+     "name": "Jonas Föhrenbach",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 22,
+     "name": "Oualid Mhamdi",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Morocco"
+    },
+    {
+     "n": 23,
+     "name": "Leart Paçarada",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Kosovo"
+    },
+    {
+     "n": 27,
+     "name": "Michael Heule",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 28,
+     "name": "Adam Kölle",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 3,
+     "name": "Jan Schöppner",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": 8,
+     "name": "Paul Hennrich",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "RW",
+     "nat": "Germany"
+    },
+    {
+     "n": 10,
+     "name": "Christian Conteh",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Germany"
+    },
+    {
+     "n": 16,
+     "name": "Julian Niehues",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": 20,
+     "name": "Luca Kerber",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": 31,
+     "name": "Sirlord Conteh",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Sierra Leone"
+    },
+    {
+     "n": 38,
+     "name": "Yannik Wagner",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LM",
+     "nat": "Germany"
+    },
+    {
+     "n": 41,
+     "name": "Marko Zrilic",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 11,
+     "name": "Budu Zivzivadze",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Georgia"
+    },
+    {
+     "n": 14,
+     "name": "Maximilian Breunig",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 17,
+     "name": "Mathias Honsak",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Austria"
+    },
+    {
+     "n": 18,
+     "name": "Alessandro Vogt",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 24,
+     "name": "Marcel Costly",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Germany"
+    },
+    {
+     "n": 29,
+     "name": "Mikkel Kaufmann",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Denmark"
+    },
+    {
+     "n": 37,
+     "name": "Tobias Weigel",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "",
+     "nat": "Germany"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/es/teams/94937/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-fc-saarbrucken",
+   "players": [
+    {
+     "n": null,
+     "name": "Jonas Nickisch",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Tim Paterok",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 1,
+     "name": "Matteo Bignetti",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Austria"
+    },
+    {
+     "n": 13,
+     "name": "Phillip Menzel",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 23,
+     "name": "Benjamin Lade",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 33,
+     "name": "Kevin Broll",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 35,
+     "name": "Ricco Cymer",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Luca Beher",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Rhani Abdennour",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "France"
+    },
+    {
+     "n": 4,
+     "name": "Siemen Voet",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Belgium"
+    },
+    {
+     "n": 7,
+     "name": "Calogero Rizzuto",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Germany"
+    },
+    {
+     "n": 8,
+     "name": "Gökdeniz Gürpüz",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Türkiye"
+    },
+    {
+     "n": 21,
+     "name": "Mladen Cvjetinović",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 26,
+     "name": "Nikola Aracic",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 28,
+     "name": "Niko Bretschneider",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Germany"
+    },
+    {
+     "n": 32,
+     "name": "Robin Bormuth",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 42,
+     "name": "Philip Fahrner",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Elijah Krahn",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Manuel Zeitz",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Richard Neudecker",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Till Schumacher",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LWB",
+     "nat": "Germany"
+    },
+    {
+     "n": 3,
+     "name": "Anton Bäuerle",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 5,
+     "name": "Daniel Gleiber",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 6,
+     "name": "Patrick Sontheimer",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 14,
+     "name": "Zac Shuaib",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "England"
+    },
+    {
+     "n": 15,
+     "name": "Abdoulaye Kamara",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Guinea"
+    },
+    {
+     "n": 16,
+     "name": "Seung-Joon Lee",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LM",
+     "nat": "South Korea"
+    },
+    {
+     "n": 19,
+     "name": "Sebastian Vasiliadis",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Greece"
+    },
+    {
+     "n": 22,
+     "name": "Kaan Çaliskaner",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Germany"
+    },
+    {
+     "n": 25,
+     "name": "Amine Naïfi",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LW",
+     "nat": "France"
+    },
+    {
+     "n": 34,
+     "name": "Nils Krämer",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 99,
+     "name": "Finn Rupp",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 9,
+     "name": "Kai Brünker",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 10,
+     "name": "Christian Kühlwetter",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 11,
+     "name": "Maurice Multhaup",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Germany"
+    },
+    {
+     "n": 17,
+     "name": "Abdenego Nankishi",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Germany"
+    },
+    {
+     "n": 20,
+     "name": "Florian Pick",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Germany"
+    },
+    {
+     "n": 29,
+     "name": "Alexander Staff",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 30,
+     "name": "Dominic Baumann",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 31,
+     "name": "Kelsey Meisel",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Germany"
+    },
+    {
+     "n": 39,
+     "name": "Patrick Schmidt",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/8271/squad/saarbrucken"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-fortuna-dusseldorf",
+   "players": [
+    {
+     "n": 1,
+     "name": "Lasse Rieß",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 22,
+     "name": "Louis Lord",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 41,
+     "name": "Milan Czako",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 2,
+     "name": "Steven van der Sloot",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 3,
+     "name": "Dominique Heintz",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 4,
+     "name": "Lukas Bornschein",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 7,
+     "name": "Erik Wekesser",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Germany"
+    },
+    {
+     "n": 15,
+     "name": "Tim Oberdorf",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 16,
+     "name": "Marcel Benger",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 20,
+     "name": "Felix Meiser",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 25,
+     "name": "Matthias Zimmermann",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Germany"
+    },
+    {
+     "n": 28,
+     "name": "Sascha Risch",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Germany"
+    },
+    {
+     "n": 37,
+     "name": "Levi Mentzel",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 39,
+     "name": "Kaden Amaniampong",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Germany"
+    },
+    {
+     "n": 42,
+     "name": "Leonard Brodersen",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 43,
+     "name": "Noah Egouli",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 44,
+     "name": "Elias Egouli",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 5,
+     "name": "Yassine Bouchama",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": 6,
+     "name": "Andreas Müller",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 8,
+     "name": "Jorrit Hendrix",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 10,
+     "name": "Philipp Förster",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Germany"
+    },
+    {
+     "n": 11,
+     "name": "Lukas Eixler",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 18,
+     "name": "Miguel Gonçalves",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Luxembourg"
+    },
+    {
+     "n": 29,
+     "name": "Kilian Sauck",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 38,
+     "name": "Elias Arden",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 40,
+     "name": "Hamza Anhari",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Morocco"
+    },
+    {
+     "n": 9,
+     "name": "Eric Hottmann",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 14,
+     "name": "Jomaine Consbruch",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Germany"
+    },
+    {
+     "n": 23,
+     "name": "Filimon Gerezgiher",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Eritrea"
+    },
+    {
+     "n": 24,
+     "name": "Fabian Schleusener",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 27,
+     "name": "Jordi Paulina",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Curaçao"
+    },
+    {
+     "n": 34,
+     "name": "Anas Slimani",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Morocco"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/fr/teams/8194/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-greuther-furth",
+   "players": [
+    {
+     "n": null,
+     "name": "Nils-Jonathan Körber",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 1,
+     "name": "Florian Hellstern",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 39,
+     "name": "Christian Ortag",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": 43,
+     "name": "Silas Prüfrock",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Loris Giandomenico",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 2,
+     "name": "Lukas Reich",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Germany"
+    },
+    {
+     "n": 4,
+     "name": "Elias Benkara",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 5,
+     "name": "Maxim Dal",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 22,
+     "name": "Jannis Heuer",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": 23,
+     "name": "Jannik Dehm",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Germany"
+    },
+    {
+     "n": 27,
+     "name": "Gian-Luca Itter",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Germany"
+    },
+    {
+     "n": 29,
+     "name": "Krisztián Keresztes",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Hungary"
+    },
+    {
+     "n": 34,
+     "name": "Hendry Blank",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Omar Megeed",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Egypt"
+    },
+    {
+     "n": 6,
+     "name": "Sacha Bansé",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Burkina Faso"
+    },
+    {
+     "n": 7,
+     "name": "Dennis Srbeny",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 8,
+     "name": "Shinta Appelkamp",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Germany"
+    },
+    {
+     "n": 10,
+     "name": "Ole Pohlmann",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LW",
+     "nat": "Germany"
+    },
+    {
+     "n": 11,
+     "name": "Aaron Keller",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LWB",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 13,
+     "name": "Paul Will",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Germany"
+    },
+    {
+     "n": 21,
+     "name": "Mika Wallentowitz",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "RWB",
+     "nat": "Germany"
+    },
+    {
+     "n": 24,
+     "name": "Marco John",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "LW",
+     "nat": "Germany"
+    },
+    {
+     "n": 28,
+     "name": "Doni Arifi",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Finland"
+    },
+    {
+     "n": 37,
+     "name": "Faton Ademi",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Kosovo"
+    },
+    {
+     "n": 37,
+     "name": "Julian Green",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "United States"
+    },
+    {
+     "n": 44,
+     "name": "Mehmet Avlayici",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Germany"
+    },
+    {
+     "n": 9,
+     "name": "Jordan Pefok",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "United States"
+    },
+    {
+     "n": 19,
+     "name": "Benjamin Zank",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 30,
+     "name": "Felix Klaus",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 42,
+     "name": "Omar Sillah",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/fa/teams/8357/squad/android-app:"
+   ]
+  }
+ ]
+}

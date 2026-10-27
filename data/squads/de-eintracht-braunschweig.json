@@ -1,0 +1,216 @@
+{
+ "team": "de-eintracht-braunschweig",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9776/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Ron-Thorben Hoffmann",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 32,
+   "name": "Benjamin Uphoff",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 35,
+   "name": "Leon Herdes",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Noah Katterbach",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Andi Hoti",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "XK"
+  },
+  {
+   "n": 5,
+   "name": "Frederik Jäkel",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Mehmet Aydın",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "TR"
+  },
+  {
+   "n": 21,
+   "name": "Kevin Ehlers",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Fabio Di Michele",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Isidoros Koutsidis",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GR"
+  },
+  {
+   "n": 25,
+   "name": "Sanoussy Ba",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Tristan Wagner",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Lukas Frenkert",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Damjan Kovacevic",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "AT"
+  },
+  {
+   "n": 6,
+   "name": "Florian Flick",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Samuele Di Benedetto",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 15,
+   "name": "Max Marie",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Anas Bakhat",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Lino Tempelmann",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Robin Heußer",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 37,
+   "name": "Sidney Raebiger",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Hugo Afonso",
+   "pos": "MF",
+   "nat": "LU"
+  },
+  {
+   "n": null,
+   "name": "Léon Bell",
+   "pos": "MF",
+   "nat": "CM"
+  },
+  {
+   "n": null,
+   "name": "Leonard Laatsch",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Yann Sturm",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Maximilian Entrup",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AT"
+  },
+  {
+   "n": 11,
+   "name": "Jovan Mijatović",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "RS"
+  },
+  {
+   "n": 17,
+   "name": "Aaron Opoku",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Junior Zé",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CH"
+  },
+  {
+   "n": 24,
+   "name": "Sidi Sané",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Jan Urbich",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  }
+ ]
+}

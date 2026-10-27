@@ -1,0 +1,230 @@
+{
+ "team": "it-lazio",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8543/squad/undefined"
+ ],
+ "players": [
+  {
+   "n": 35,
+   "name": "Christos Mandas",
+   "pos": "GK",
+   "nat": "GR"
+  },
+  {
+   "n": 40,
+   "name": "Edoardo Motta",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 47,
+   "name": "Davide Renzetti",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 55,
+   "name": "Alessio Furlanetto",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 2,
+   "name": "Diogo Leite",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 3,
+   "name": "Luca Pellegrini",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 5,
+   "name": "Danilho Doekhi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 17,
+   "name": "Nuno Tavares",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "PT"
+  },
+  {
+   "n": 23,
+   "name": "Alfonso Pedraza",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 25,
+   "name": "Oliver Provstgaard",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DK"
+  },
+  {
+   "n": 29,
+   "name": "Manuel Lazzari",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 33,
+   "name": "Ricardo Bordon",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": 37,
+   "name": "Josip Šutalo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HR"
+  },
+  {
+   "n": 76,
+   "name": "Filipe Bordon",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 77,
+   "name": "Adam Marušić",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ME"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Fares",
+   "pos": "DF",
+   "nat": "DZ"
+  },
+  {
+   "n": 6,
+   "name": "Nicolò Rovella",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 7,
+   "name": "Fisayo Dele-Bashiru",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NG"
+  },
+  {
+   "n": 8,
+   "name": "Bruno Galassi",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Romano Floriani Mussolini",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 16,
+   "name": "Davide Frattesi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 21,
+   "name": "Reda Belahyane",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MA"
+  },
+  {
+   "n": 24,
+   "name": "Kenneth Taylor",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NL"
+  },
+  {
+   "n": 28,
+   "name": "Adrian Przyborek",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "PL"
+  },
+  {
+   "n": 32,
+   "name": "Danilo Cataldi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 71,
+   "name": "Valerio Farcomeni",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 9,
+   "name": "Andrea Pinamonti",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 10,
+   "name": "Mattia Zaccagni",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IT"
+  },
+  {
+   "n": 11,
+   "name": "Gustav Isaksen",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DK"
+  },
+  {
+   "n": 14,
+   "name": "Tijjani Noslin",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NL"
+  },
+  {
+   "n": 22,
+   "name": "Matteo Cancellieri",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "IT"
+  },
+  {
+   "n": 63,
+   "name": "Federico Serra",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": 80,
+   "name": "Albert Guðmundsson",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IS"
+  }
+ ]
+}

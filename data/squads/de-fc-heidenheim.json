@@ -1,0 +1,185 @@
+{
+ "team": "de-fc-heidenheim",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/94937/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Frank Feller",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Thomas Dähne",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 34,
+   "name": "Paul Tschernuth",
+   "pos": "GK",
+   "nat": "AT"
+  },
+  {
+   "n": 2,
+   "name": "Marnon-Thomas Busch",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Tim Siersleben",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Patrick Mainka",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Jonas Föhrenbach",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Oualid Mhamdi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "MA"
+  },
+  {
+   "n": 23,
+   "name": "Leart Paçarada",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "XK"
+  },
+  {
+   "n": 27,
+   "name": "Michael Heule",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CH"
+  },
+  {
+   "n": 28,
+   "name": "Adam Kölle",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Jan Schöppner",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Paul Hennrich",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Christian Conteh",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Julian Niehues",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Luca Kerber",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Sirlord Conteh",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SL"
+  },
+  {
+   "n": 38,
+   "name": "Yannik Wagner",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "DE"
+  },
+  {
+   "n": 41,
+   "name": "Marko Zrilic",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Budu Zivzivadze",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GE"
+  },
+  {
+   "n": 14,
+   "name": "Maximilian Breunig",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Mathias Honsak",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AT"
+  },
+  {
+   "n": 18,
+   "name": "Alessandro Vogt",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CH"
+  },
+  {
+   "n": 24,
+   "name": "Marcel Costly",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Mikkel Kaufmann",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DK"
+  },
+  {
+   "n": 37,
+   "name": "Tobias Weigel",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}
