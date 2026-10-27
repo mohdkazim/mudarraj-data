@@ -1,0 +1,189 @@
+{
+ "team": "sa-al-najma",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/1523707/overview/al-najma"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Bader Al Khamali",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Belal Al Dawaa",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Khaled Al Muqaitib",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Salem Qaboos",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Diogo Queirós",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Fahad Al Abdulrazzaq",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Khaled Al Shammari",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Khalid Al Khathlan",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Khalid Al Shuwayyi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Fatil",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Kunaydiri",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mubarak Al Rajeh",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Omar Al Oudah",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulelah Al Shammry",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulwahid Al Nakhli",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Afonso Taira",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Ahmad Al Badah",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ammar Al Najjar",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Iyad Madani",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Jathob Al Dhafieri",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "João Novais",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Marin Prekodravac",
+   "pos": "MF",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Al Faridi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Nabil Emad Dunga",
+   "pos": "MF",
+   "nat": "EG"
+  },
+  {
+   "n": null,
+   "name": "Rayan Al Ghamdi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Faisal Al Mutairi",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Marcos André",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Marri",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Suhluli",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Suleiman Saeed",
+   "pos": "FW",
+   "nat": "SA"
+  }
+ ]
+}

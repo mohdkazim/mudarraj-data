@@ -1,0 +1,159 @@
+{
+ "team": "sa-damac",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/582823/overview/android-app:"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Ahmed Al Rashidi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Moataz Al Baqawi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Naser Al Ghamdi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdelkader Bedrane",
+   "pos": "DF",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Yousif",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Hassan Rabea",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Jawad Al Hassan",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Noor Al Rashidi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Osama Al Khalaf",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Riyadh Yami",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Sanousi Al Hawsawi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulaziz Al Shahrani",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Namazi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Omar",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Freej Al Jizani",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Issam Al Qarni",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Khaled Al Sumairi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Morlaye Sylla",
+   "pos": "MF",
+   "nat": "GN"
+  },
+  {
+   "n": null,
+   "name": "Tariq Abdullah",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Al Harbi",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Alsalkhadi",
+   "pos": "FW",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Omari",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Yahya Naji",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Yahya Sunbul",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Yakou Méïté",
+   "pos": "FW",
+   "nat": "CI"
+  }
+ ]
+}

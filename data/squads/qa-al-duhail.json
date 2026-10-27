@@ -1,0 +1,195 @@
+{
+ "team": "qa-al-duhail",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/203826"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Arthur Desmas",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Awad Osman",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Fahad Younis",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Jasim Sarour",
+   "pos": "GK",
+   "nat": "SD"
+  },
+  {
+   "n": null,
+   "name": "Salah Zakaria",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Adam Fraikh",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Amidou Doumbouya",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Bassam Al Rawi",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Hamada Mosabah Ghazy",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Ibrahima Bamba",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Jean-Charles Castelletto",
+   "pos": "DF",
+   "nat": "CM"
+  },
+  {
+   "n": null,
+   "name": "Sultan Al Brake",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Tuta",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Al Hamzah Al Saffar",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Asim Mohamed",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Assim Madibo",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Boubakary Soumaré",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Fares Said",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Karim Boudiaf",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Malik Majed",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Marco Verratti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Abdelaziz",
+   "pos": "MF",
+   "nat": "SD"
+  },
+  {
+   "n": null,
+   "name": "Mubarak Shanan",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Rashid Al Abdulla",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Saud Al Hamad",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Ziad El Jaouni",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Adam Belmadi",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Almoez Ali",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Edmílson Junior",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Krzysztof Piątek",
+   "pos": "FW",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Muhannad Jameel",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Omar Gamal Gad",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Sekou Yansané",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Tahsin Mohammed",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Yazan Mohamed",
+   "pos": "FW"
+  }
+ ]
+}

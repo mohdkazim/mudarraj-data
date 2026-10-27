@@ -1,0 +1,139 @@
+{
+ "team": "nt-qa",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/5902"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Mahmoud Abunada",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Salah Zakaria",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Shehab Ellethy",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Ayoub Al Oui",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Boualem Khoukhi",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Homam El Amin",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Issa Laye",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Pedro Miguel",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Sultan Al Brake",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Tarek Salman",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Abdulaziz Hatem",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Fathy",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Assim Madibo",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Hassan Al Haydos",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Jassem Gaber",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Karim Boudiaf",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Al Manai",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Naif Al Hadrami",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Al Ganehi",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Alaa",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Akram Afif",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Almoez Ali",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Edmílson Junior",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Hashim Ali",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Tahsin Mohammed",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Yusuf Abdurisag",
+   "pos": "FW"
+  }
+ ]
+}

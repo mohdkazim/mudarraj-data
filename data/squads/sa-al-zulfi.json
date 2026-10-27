@@ -1,0 +1,141 @@
+{
+ "team": "sa-al-zulfi",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/1699506/overview/android-app:"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Aqbah Al Mushawh",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Saad Al Saleh",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulrahman Al Hajri",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ali Abdulhadi Al Nakhli",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ali Daqarshawi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Baker",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mutair Al Zahrani",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Saud Al Tumbukti",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Suwailem Al Manhali",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulaziz Al Sharid",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Al Anzy",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Fares Al Habardi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Faris Hassan Al Otaibi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohannad Semreen",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ricardo Ryller",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Bassem Al Fanaital",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ben Malango",
+   "pos": "FW",
+   "nat": "CD"
+  },
+  {
+   "n": null,
+   "name": "Dejvi Bregu",
+   "pos": "FW",
+   "nat": "AL"
+  },
+  {
+   "n": null,
+   "name": "Demba Diallo",
+   "pos": "FW",
+   "nat": "ML"
+  },
+  {
+   "n": null,
+   "name": "Maher Al Mutairi",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Majed Madani",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Nawaf Bouamer",
+   "pos": "FW",
+   "nat": "SA"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "team": "nt-sg",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/5825/overview/undefined,teams"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Izwan Mahbud",
+   "pos": "GK",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Ridhuan Barudin",
+   "pos": "GK",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Syazwan Buhari",
+   "pos": "GK",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Hariss Harun",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Irfan Najeeb",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Jacob Mahler",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Lionel Tan",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Nur Abdullah",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Raoul Suhaimi",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Ryhan Stewart",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Safuwan Baharudin",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Hami Syahin",
+   "pos": "MF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Joel Chew",
+   "pos": "MF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Kyoga Nakamura",
+   "pos": "MF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Shah Shahiran",
+   "pos": "MF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Ui-Young Song",
+   "pos": "MF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Farhan Zulkifli",
+   "pos": "FW",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Faris Ramli",
+   "pos": "FW",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Glenn Kweh",
+   "pos": "FW",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Harhys Stewart",
+   "pos": "FW",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Ilhan Fandi",
+   "pos": "FW",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Muhammad Haziq Bin Kamarudin",
+   "pos": "FW",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Shawal Anuar",
+   "pos": "FW",
+   "nat": "SG"
+  }
+ ]
+}

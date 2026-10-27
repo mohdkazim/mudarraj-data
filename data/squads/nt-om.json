@@ -1,0 +1,177 @@
+{
+ "team": "nt-om",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/5824/overview"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Ahmed Al Rawahi",
+   "pos": "GK",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Al Mukhaini",
+   "pos": "GK",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Al Rajhi",
+   "pos": "GK",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Abdul Hafidh Al Mukhaini",
+   "pos": "DF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Saif Al-Mamari",
+   "pos": "DF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Al Kaabi",
+   "pos": "DF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Amjad Al Harthi",
+   "pos": "DF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Ghanim Al Habashi",
+   "pos": "DF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Khalid Al Braiki",
+   "pos": "DF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Khalid Al Ghatrifi",
+   "pos": "DF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Musab Al Shaqsi",
+   "pos": "DF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Turki Abdullah Bait Rabia",
+   "pos": "DF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Waleed Al Musalmi",
+   "pos": "DF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Fawaz",
+   "pos": "MF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Ahad Al Mashaikhi",
+   "pos": "MF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Al Harith Al Mukhaini",
+   "pos": "MF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Arshad Al Alawi",
+   "pos": "MF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Harib Al Saadi",
+   "pos": "MF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Hussain Al Shahri",
+   "pos": "MF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Musab Al Maamari",
+   "pos": "MF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Sultan Al Marzuq",
+   "pos": "MF",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Abdulsalam Al Shukaili",
+   "pos": "FW",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Issam Al Sabhi",
+   "pos": "FW",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Jameel Al Yahmadi",
+   "pos": "FW",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Muhsen Al Ghassani",
+   "pos": "FW",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Nasser Al Rawahi",
+   "pos": "FW",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Yousuf Al Malki",
+   "pos": "FW",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Zahir Al Aghbari",
+   "pos": "FW",
+   "nat": "OM"
+  }
+ ]
+}

@@ -1,0 +1,147 @@
+{
+ "team": "sa-al-bukayriyah",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/1017726/overview/android-app:"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Mansour Johar",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mutaz Akjah",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Bandar Baajaj",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Fernando Piñero",
+   "pos": "DF",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Hazza Asseri",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Hussain Al Zabdani",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Manaf Abu Yabis",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Meshal Sani",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mousa Al Harbi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Rayan Sharahili",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Santiago Flores",
+   "pos": "DF",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Abdulrahman Al Barakah",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Hatan Ahmed",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Hicham Faik",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Khaled Al Hazmi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Mahmudi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Osama Al Marwani",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Azzam Al Bishi",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Brandley Kuwas",
+   "pos": "FW",
+   "nat": "CW"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Al Sunaytan",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Isaac Success",
+   "pos": "FW",
+   "nat": "NG"
+  },
+  {
+   "n": null,
+   "name": "Saad Al Muwallad",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Yassine Zakir",
+   "pos": "FW",
+   "nat": "NL"
+  }
+ ]
+}

@@ -1,0 +1,159 @@
+{
+ "team": "sa-al-raed",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/150413/overview/al-raed"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Feras Al Rajhi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Al Otaibi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Khaibari",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Raed Ozaybi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Harbi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Bader Al Shardi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Bandar Al Shamrani",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Hassan Al Asmari",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Dosari",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Munif Dawshi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Redouane Mennioui",
+   "pos": "DF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Tamim Al Shuqayran",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulrahman Sahhari",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ayman Al Balawi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Claude Gnolou",
+   "pos": "MF",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Meshari Al Oufi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Omar Shami",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Salomon Tweh",
+   "pos": "MF",
+   "nat": "LR"
+  },
+  {
+   "n": null,
+   "name": "Yousef Saad Al Harbi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ziyad Al Refaei",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Hamoud Al Shammari",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Khaled Naréy",
+   "pos": "FW",
+   "nat": "TG"
+  },
+  {
+   "n": null,
+   "name": "Moussa Koné",
+   "pos": "FW",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Nawaf Hazazi",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Saad Al Salouli",
+   "pos": "FW",
+   "nat": "SA"
+  }
+ ]
+}

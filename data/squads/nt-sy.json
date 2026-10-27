@@ -1,0 +1,147 @@
+{
+ "team": "nt-sy",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/6320/overview/siria"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Ahmad Madanieh",
+   "pos": "GK",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Maksim Sarraf",
+   "pos": "GK",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Shaher Al Shakir",
+   "pos": "GK",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Abd Al Razaq Al Mohammad",
+   "pos": "DF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Abdul Rahman Weiss",
+   "pos": "DF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Shami",
+   "pos": "DF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Ahmad Faqa",
+   "pos": "DF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Khaled Kourdoghli",
+   "pos": "DF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Omar Al Midani",
+   "pos": "DF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Zakaria Hanan",
+   "pos": "DF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Ashkar",
+   "pos": "MF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Ammar Ramadan",
+   "pos": "MF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Elmar Abraham",
+   "pos": "MF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Mahmoud Al Mawas",
+   "pos": "MF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Mohamad Alshikh",
+   "pos": "MF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Osman",
+   "pos": "MF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Simon Amin",
+   "pos": "MF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Alaa Al Dali",
+   "pos": "FW",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Anas Al Dahhan",
+   "pos": "FW",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Mahmoud Al Aswad",
+   "pos": "FW",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Mohamad Ahmad Al-Sheikh",
+   "pos": "FW",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Al Mustafa",
+   "pos": "FW",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Pablo Sabbag",
+   "pos": "FW",
+   "nat": "SY"
+  }
+ ]
+}

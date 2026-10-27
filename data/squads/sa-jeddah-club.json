@@ -1,0 +1,189 @@
+{
+ "team": "sa-jeddah-club",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/1017737/overview/android-app:/com.mobilefootie.wc2010/http"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Abdulaziz Takrouni",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Fares Al Johani",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Yasser Al Mosailem",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulrahman Al Rio",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Fahad Al Sahafi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Faisal Abu Bakr",
+   "pos": "DF",
+   "nat": "SO"
+  },
+  {
+   "n": null,
+   "name": "Hassan Al Jubayri",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Muhammad Al Hussein",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Rayan Fallatah",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Wesam Al Hawsawi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Amoudi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Al Shamrani",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Carlos Jiménez",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Elias Al Tayeb",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Martin Šroler",
+   "pos": "MF",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Medwin Biteghé",
+   "pos": "MF",
+   "nat": "GA"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Rageh",
+   "pos": "MF",
+   "nat": "EG"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Dhafeeri",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Rafi Matmi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Rayan Al Harbi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Bader Mahbub",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Burayh",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Al Baraa Baazeem",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Bonfils Bimenyimana",
+   "pos": "FW",
+   "nat": "BI"
+  },
+  {
+   "n": null,
+   "name": "Evo Ememe",
+   "pos": "FW",
+   "nat": "NG"
+  },
+  {
+   "n": null,
+   "name": "Hassan Mukhtar",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Hazzaa Al Ghamdi",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Hussain Al Meani",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Jawad Haidar",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Saiari",
+   "pos": "FW",
+   "nat": "SA"
+  }
+ ]
+}

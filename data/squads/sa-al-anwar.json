@@ -1,0 +1,213 @@
+{
+ "team": "sa-al-anwar",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/1896040/overview/android-app:"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Khalid Sharahili",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mazen Hazazi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Nawaf Al Dous",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Chamseddine Derradji",
+   "pos": "DF",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Fahad Al Munaif",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Fawaz Rabie",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Hamad Al Aqili",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Majed Sharrahi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Ghamdi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Zahrani",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Rashid Al Mutairi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Saif Hussain",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulaziz Damdam",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Samti",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Majrashi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulmalek Al Shammari",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Bahusayn",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Faisal Al Mujalli",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Gabriel Kack",
+   "pos": "MF",
+   "nat": "CM"
+  },
+  {
+   "n": null,
+   "name": "Khalid Kaabi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Harthi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Majrashi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Sulaiman Al Nakhli",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Tamim Al Khalidi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Turki Al Mutairi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Bruno",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Issa Khalil Al Dhikr Allah",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Hazmi",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mshari Al-Twejri",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Nahir Al Mahri",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Rashed Al Salem",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Rida Bensayah",
+   "pos": "FW",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Šime Gržan",
+   "pos": "FW",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Yazeed Jawshan",
+   "pos": "FW",
+   "nat": "SA"
+  }
+ ]
+}

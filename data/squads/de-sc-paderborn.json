@@ -1,0 +1,207 @@
+{
+ "team": "de-sc-paderborn",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/8460/overview/paderborn"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Florian Pruhs",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Markus Schubert",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Nahuel Noll",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Felix Götze",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Jano ter Horst",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Marcel Hoffmeier",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Mattes Hansen",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Niklas Mohr",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Nyamekye Awortwie-Grant",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Tjark Scheller",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Tristan Zobel",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Albert Millgramm",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Clemens Lippmann",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Jonah Sticker",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Laurin Curda",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Laurin Ulrich",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Luka Djuric",
+   "pos": "MF",
+   "nat": "BA"
+  },
+  {
+   "n": null,
+   "name": "Raphael Obermair",
+   "pos": "MF",
+   "nat": "PH"
+  },
+  {
+   "n": null,
+   "name": "Ruben Müller",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Santiago Castañeda",
+   "pos": "MF",
+   "nat": "US"
+  },
+  {
+   "n": null,
+   "name": "Sebastian Klaas",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Sven Michel",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Timur Gayret",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Tom Baack",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Deniz Zeitler",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Gabriel Vidović",
+   "pos": "FW",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Lasse Eickel",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Marvin Pieringer",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Noah Ringbeck",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Oliver Batista Meier",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Rayan Philippe",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Stefano Marino",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Steffen Tigges",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}

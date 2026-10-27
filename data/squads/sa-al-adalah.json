@@ -1,0 +1,183 @@
+{
+ "team": "sa-al-adalah",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/582816/overview/com.mobilefootie.wc2010,http"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Mohammed Al Beladi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Dawsari",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Muwallad",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "André Teixeira",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Elyas Al Baladi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Khalid Al Muzayil",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Koffi Kouamé",
+   "pos": "DF",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Metaab Al Khadi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Metaab Al Khadi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Hejji",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Msalam",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Saeed",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Salman Al Omaish",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Sultan Faqihi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Tawfiq Bu Haymid",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Dossary",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Rashidi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ali Al Suwayj",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Amar Al Basha",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "David Tijanić",
+   "pos": "MF",
+   "nat": "SI"
+  },
+  {
+   "n": null,
+   "name": "Hassan Al Mohammed Saleh",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Hussain Al Nattar",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Khalid Hamithi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Riyadh Al Ibrahim",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulaziz Al Jamman",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ali Al Zaqan",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "André Bukia",
+   "pos": "FW",
+   "nat": "CD"
+  },
+  {
+   "n": null,
+   "name": "Diego Miranda",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Emmanuel Avornyo",
+   "pos": "FW",
+   "nat": "GH"
+  }
+ ]
+}

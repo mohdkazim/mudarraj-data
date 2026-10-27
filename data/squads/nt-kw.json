@@ -1,0 +1,159 @@
+{
+ "team": "nt-kw",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/5821/overview/koweit,teams"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Abdulrahman Al Fadhli",
+   "pos": "GK",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Khaled Al Rashidi",
+   "pos": "GK",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Saud Al Hoshan",
+   "pos": "GK",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Abd Al Wahab Awadi",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Fahad Al Hajeri",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Khaled Al Fadhli",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Mahdi Dashti",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Moaath Al Dhafiri",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Mohsen Ghareeb",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Rashed Al Dosary",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Yousef Al Haqan",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Qarzaei",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Ahmad Al Dhefiri",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Athbi Shehab",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Hussain Ashkanani",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Jasem Al Mutar",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Khaled Al Mershed",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Naser Faleh",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Redha Hani",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Youssef Majed",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Eid Al Rashedi",
+   "pos": "FW",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Daham",
+   "pos": "FW",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Mubarak Al Faneni",
+   "pos": "FW",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Shabaib Al Khaldi",
+   "pos": "FW",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Yousef Al Sulaiman",
+   "pos": "FW",
+   "nat": "KW"
+  }
+ ]
+}
