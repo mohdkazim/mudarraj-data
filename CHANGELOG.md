@@ -3776,3 +3776,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result dfb-pokal-2026-27-r2-de-hamburger-sv-de-eintracht-frankfurt 1-3 FT
   - ✓ result dfb-pokal-2026-27-r2-de-rot-weiss-essen-de-rb-leipzig 1-2 FT
   - ✓ result dfb-pokal-2026-27-r2-de-sonnenhof-grossaspach-de-fc-augsburg 2-4 FT
+
+## 2026-10-28 (2026-10-27T21:35:00Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result acle-2026-27-league-west-gwest-r03-qa-al-shamal-sa-al-hilal 3-1 FT

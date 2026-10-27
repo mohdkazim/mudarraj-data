@@ -1,0 +1,9 @@
+{
+  "run": "2026-10-27T21:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r03-qa-al-shamal-sa-al-hilal", "status": "FT", "score": [3,1],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-al-shamal-sc-qat-3-1-al-hilal-sfc-ksa",
+                  "https://www.arabnews.com/football/al-hilal-crushed-by-al-shamal-as-qatari-side-claim-first-ever-acl-elite-victory-3008586"] }
+  ],
+  "unconfirmed": []
+}

@@ -2071,14 +2071,18 @@
    "away": "sa-al-hilal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-al-shamal-sc-qat-3-1-al-hilal-sfc-ksa",
+    "https://www.arabnews.com/football/al-hilal-crushed-by-al-shamal-as-qatari-side-claim-first-ever-acl-elite-victory-3008586"
+   ],
+   "updatedAt": "2026-10-27T21:37:46.013Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r03-jp-gamba-osaka-th-buriram-united",
