@@ -2,172 +2,157 @@
  "team": "it-inter-milan",
  "checked": "2026-10-27",
  "sources": [
-  "https://www.365scores.com/football/team/inter-milan-224/squad"
+  "https://www.fotmob.com/it/teams/8636/overview/inter"
  ],
  "players": [
   {
-   "n": 1,
-   "name": "Yann Sommer",
+   "n": null,
+   "name": "Ivan Provedel",
    "pos": "GK",
-   "nat": "CH"
+   "nat": "IT"
   },
   {
-   "n": 12,
+   "n": null,
+   "name": "Josep Martínez",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": null,
    "name": "Raffaele Di Gennaro",
    "pos": "GK",
    "nat": "IT"
   },
   {
-   "n": 13,
-   "name": "Josep Martinez",
-   "pos": "GK",
-   "nat": "ES"
-  },
-  {
-   "n": 2,
-   "name": "Denzel Dumfries",
+   "n": null,
+   "name": "Alessandro Bastoni",
    "pos": "DF",
-   "role": "RB",
-   "nat": "NL"
-  },
-  {
-   "n": 6,
-   "name": "Stefan de Vrij",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "NL"
-  },
-  {
-   "n": 15,
-   "name": "Francesco Acerbi",
-   "pos": "DF",
-   "role": "CB",
    "nat": "IT"
   },
   {
-   "n": 25,
+   "n": null,
+   "name": "Benjamin Pavard",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Carlos Augusto",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Djed Spence",
+   "pos": "DF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "John Stones",
+   "pos": "DF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
    "name": "Manuel Akanji",
    "pos": "DF",
-   "role": "CB",
    "nat": "CH"
   },
   {
-   "n": 30,
-   "name": "Carlos Augusto",
+   "n": null,
+   "name": "Yann Aurel Bisseck",
    "pos": "DF",
-   "role": "LB",
-   "nat": "BR"
-  },
-  {
-   "n": 31,
-   "name": "Yann Bisseck",
-   "pos": "DF",
-   "role": "CB",
    "nat": "DE"
   },
   {
-   "n": 32,
-   "name": "Federico Dimarco",
-   "pos": "DF",
-   "role": "LB",
-   "nat": "IT"
-  },
-  {
-   "n": 36,
-   "name": "Matteo Darmian",
-   "pos": "DF",
-   "role": "RB",
-   "nat": "IT"
-  },
-  {
-   "n": 95,
-   "name": "Alessandro Bastoni",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "IT"
-  },
-  {
-   "n": 7,
-   "name": "Piotr Zielinski",
+   "n": null,
+   "name": "Aleksandar Stanković",
    "pos": "MF",
-   "role": "CM",
-   "nat": "PL"
+   "nat": "RS"
   },
   {
-   "n": 8,
-   "name": "Petar Sucic",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "HR"
-  },
-  {
-   "n": 11,
-   "name": "Luis Henrique",
-   "pos": "MF",
-   "role": "RM",
-   "nat": "BR"
-  },
-  {
-   "n": 16,
-   "name": "Davide Frattesi",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "IT"
-  },
-  {
-   "n": 17,
+   "n": null,
    "name": "Andy Diouf",
    "pos": "MF",
-   "role": "CM",
    "nat": "FR"
   },
   {
-   "n": 20,
-   "name": "Hakan Calhanoglu",
+   "n": null,
+   "name": "Curtis Jones",
    "pos": "MF",
-   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Federico Dimarco",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Hakan Çalhanoglu",
+   "pos": "MF",
    "nat": "TR"
   },
   {
-   "n": 22,
-   "name": "Henrik Mkhitaryan",
+   "n": null,
+   "name": "Henrikh Mkhitaryan",
    "pos": "MF",
-   "role": "AM",
    "nat": "AM"
   },
   {
-   "n": 23,
-   "name": "Nicolo Barella",
+   "n": null,
+   "name": "Luis Henrique",
    "pos": "MF",
-   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Nicolò Barella",
+   "pos": "MF",
    "nat": "IT"
   },
   {
-   "n": 9,
-   "name": "Marcus Thuram",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "FR"
+   "n": null,
+   "name": "Petar Sučić",
+   "pos": "MF",
+   "nat": "HR"
   },
   {
-   "n": 10,
+   "n": null,
+   "name": "Piotr Zieliński",
+   "pos": "MF",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Ange-Yoan Bonny",
+   "pos": "FW",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Francesco Pio Esposito",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
    "name": "Lautaro Martínez",
    "pos": "FW",
-   "role": "CF",
    "nat": "AR"
   },
   {
-   "n": 14,
-   "name": "Ange-Yoan Bonny",
+   "n": null,
+   "name": "Marcus Thuram",
    "pos": "FW",
-   "role": "CF",
    "nat": "FR"
   },
   {
-   "n": 94,
-   "name": "Pio Esposito",
+   "n": null,
+   "name": "Mattia Mosconi",
    "pos": "FW",
-   "role": "CF",
    "nat": "IT"
   }
  ]

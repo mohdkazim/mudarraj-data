@@ -3683,3 +3683,18 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad it-padova squad added (30 players)
   - ✓ squad it-pisa squad added (31 players)
   - ✓ squad de-ssv-jeddeloh-ii squad added (24 players)
+
+## 2026-10-27 (2026-10-27T18:45:17.071Z)
+- 12 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad gb-eng-arsenal squad updated (24 players, was 24)
+  - ✓ squad gb-eng-aston-villa squad updated (27 players, was 28)
+  - ✓ squad gb-eng-bournemouth squad updated (30 players, was 26)
+  - ✓ squad gb-eng-brighton squad updated (29 players, was 30)
+  - ✓ squad it-inter-milan squad updated (25 players, was 24)
+  - ✓ squad it-napoli squad updated (27 players, was 35)
+  - ✓ squad be-club-brugge squad updated (31 players, was 28)
+  - ✓ squad de-darmstadt-98 squad updated (34 players, was 31); 1 note(s): shirt number(s) used twice: 49, 11 (as the page lists them)
+  - ✓ squad de-vfl-bochum squad updated (31 players, was 32)
+  - ✓ squad fr-lille squad updated (29 players, was 29)
+  - ✓ squad it-genoa squad updated (32 players, was 26)
+  - ✓ squad it-hellas-verona squad updated (34 players, was 35)

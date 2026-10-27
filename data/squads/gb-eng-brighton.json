@@ -2,7 +2,7 @@
  "team": "gb-eng-brighton",
  "checked": "2026-10-27",
  "sources": [
-  "https://www.365scores.com/en-us/football/team/brighton-38/squad"
+  "https://www.fotmob.com/teams/10204/squad/undefined,teams"
  ],
  "players": [
   {
@@ -16,12 +16,6 @@
    "name": "Jason Steele",
    "pos": "GK",
    "nat": "GB-ENG"
-  },
-  {
-   "n": 38,
-   "name": "Thomas McGill",
-   "pos": "GK",
-   "nat": "CA"
   },
   {
    "n": 3,
@@ -60,7 +54,7 @@
   },
   {
    "n": 24,
-   "name": "Ferdi Kadioglu",
+   "name": "Ferdi Kadıoğlu",
    "pos": "DF",
    "role": "LB",
    "nat": "TR"
@@ -74,7 +68,7 @@
   },
   {
    "n": 29,
-   "name": "Maxim de Cuyper",
+   "name": "Maxim De Cuyper",
    "pos": "DF",
    "role": "LB",
    "nat": "BE"
@@ -97,14 +91,14 @@
    "n": 8,
    "name": "Jack Hinshelwood",
    "pos": "MF",
-   "role": "DM",
+   "role": "AM",
    "nat": "GB-ENG"
   },
   {
    "n": 13,
-   "name": "Pascal Gross",
+   "name": "Pascal Groß",
    "pos": "MF",
-   "role": "CM",
+   "role": "DM",
    "nat": "DE"
   },
   {
@@ -115,46 +109,25 @@
    "nat": "ES"
   },
   {
-   "n": 25,
-   "name": "Diego Gomez",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "PY"
-  },
-  {
    "n": 26,
    "name": "Yasin Ayari",
    "pos": "MF",
-   "role": "CM",
+   "role": "DM",
    "nat": "SE"
   },
   {
    "n": 33,
-   "name": "Matt O'Riley",
+   "name": "Matthew O'Riley",
    "pos": "MF",
    "role": "CM",
    "nat": "DK"
   },
   {
    "n": 35,
-   "name": "Malick Yalcouyé",
+   "name": "Malick Junior Yalcouyé",
    "pos": "MF",
-   "role": "CM",
+   "role": "AM",
    "nat": "CI"
-  },
-  {
-   "n": 39,
-   "name": "Femi Azeez",
-   "pos": "MF",
-   "role": "RM",
-   "nat": "NG"
-  },
-  {
-   "n": 7,
-   "name": "Kaoru Mitoma",
-   "pos": "FW",
-   "role": "LF",
-   "nat": "JP"
   },
   {
    "n": 9,
@@ -167,14 +140,13 @@
    "n": 10,
    "name": "Georginio Rutter",
    "pos": "FW",
-   "role": "CF",
    "nat": "FR"
   },
   {
    "n": 11,
    "name": "Yankuba Minteh",
    "pos": "FW",
-   "role": "RF",
+   "role": "RW",
    "nat": "GM"
   },
   {
@@ -188,7 +160,7 @@
    "n": 15,
    "name": "Ibrahim Osman",
    "pos": "FW",
-   "role": "LF",
+   "role": "LW",
    "nat": "GH"
   },
   {
@@ -197,6 +169,20 @@
    "pos": "FW",
    "role": "CF",
    "nat": "GR"
+  },
+  {
+   "n": 22,
+   "name": "Kaoru Mitoma",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "JP"
+  },
+  {
+   "n": 25,
+   "name": "Diego Gómez",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "PY"
   },
   {
    "n": 28,
@@ -209,7 +195,14 @@
    "n": 36,
    "name": "Zadok Yohanna",
    "pos": "FW",
-   "role": "RF",
+   "role": "RW",
+   "nat": "NG"
+  },
+  {
+   "n": 39,
+   "name": "Femi Azeez",
+   "pos": "FW",
+   "role": "RW",
    "nat": "NG"
   }
  ]

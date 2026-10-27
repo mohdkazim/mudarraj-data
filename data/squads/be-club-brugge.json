@@ -2,26 +2,38 @@
  "team": "be-club-brugge",
  "checked": "2026-10-27",
  "sources": [
-  "https://www.365scores.com/football/team/club-brugge-1169/squad"
+  "https://www.fotmob.com/nl/teams/8342/overview/club-brugge"
  ],
  "players": [
   {
-   "n": 29,
-   "name": "Nordin Jackers",
+   "n": null,
+   "name": "Argus Vanden Driessche",
    "pos": "GK",
    "nat": "BE"
   },
   {
-   "n": 71,
+   "n": null,
    "name": "Axl De Corte",
    "pos": "GK",
    "nat": "BE"
   },
   {
-   "n": 81,
-   "name": "Argus Vanden Driessche",
+   "n": null,
+   "name": "Nordin Jackers",
    "pos": "GK",
    "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Simon Mignolet",
+   "pos": "GK",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Stefan Ostoici",
+   "pos": "GK",
+   "nat": "HU"
   },
   {
    "n": null,
@@ -30,172 +42,154 @@
    "nat": "CH"
   },
   {
-   "n": 14,
-   "name": "Bjorn Meijer",
-   "pos": "DF",
-   "role": "LB",
-   "nat": "NL"
-  },
-  {
-   "n": 24,
-   "name": "Vince Osuji",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "SE"
-  },
-  {
-   "n": 41,
-   "name": "Hugo Siquet",
-   "pos": "DF",
-   "role": "RB",
-   "nat": "BE"
-  },
-  {
-   "n": 44,
+   "n": null,
    "name": "Brandon Mechele",
    "pos": "DF",
-   "role": "CB",
-   "nat": "BE"
-  },
-  {
-   "n": 58,
-   "name": "Jorne Spileers",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "BE"
-  },
-  {
-   "n": 64,
-   "name": "Kyriani Sabbe",
-   "pos": "DF",
-   "role": "RB",
-   "nat": "BE"
-  },
-  {
-   "n": 65,
-   "name": "Joaquin Seys",
-   "pos": "DF",
-   "role": "LB",
    "nat": "BE"
   },
   {
    "n": null,
-   "name": "Joel Ordonez",
+   "name": "Han-Beom Lee",
    "pos": "DF",
-   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": null,
+   "name": "Hugo Siquet",
+   "pos": "DF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Joaquin Seys",
+   "pos": "DF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Joel Ordóñez",
+   "pos": "DF",
    "nat": "EC"
   },
   {
-   "n": 6,
-   "name": "Ludovit Reis",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "NL"
-  },
-  {
-   "n": 10,
-   "name": "Hugo Vetlesen",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "NO"
-  },
-  {
-   "n": 11,
-   "name": "Cisse Sandra",
-   "pos": "MF",
-   "role": "AM",
+   "n": null,
+   "name": "Jorne Spileers",
+   "pos": "DF",
    "nat": "BE"
   },
   {
-   "n": 15,
-   "name": "Raphael Onyedika",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "NG"
-  },
-  {
-   "n": 20,
-   "name": "Hans Vanaken",
-   "pos": "MF",
-   "role": "AM",
+   "n": null,
+   "name": "Kyriani Sabbe",
+   "pos": "DF",
    "nat": "BE"
   },
   {
-   "n": 62,
-   "name": "Lynnt Audoor",
-   "pos": "MF",
-   "role": "DM",
+   "n": null,
+   "name": "Matteo Dams",
+   "pos": "DF",
    "nat": "BE"
   },
   {
-   "n": 80,
-   "name": "Félix Lemaréchal",
-   "pos": "MF",
-   "role": "AM",
+   "n": null,
+   "name": "Samba Coulibaly",
+   "pos": "DF",
    "nat": "FR"
   },
   {
-   "n": 85,
-   "name": "Tian Nai Koren",
+   "n": null,
+   "name": "Alejandro Granados",
    "pos": "MF",
-   "role": "AM",
-   "nat": "SI"
-  },
-  {
-   "n": 86,
-   "name": "Gianluca Okon-Engstler",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "IT"
+   "nat": "ES"
   },
   {
    "n": null,
    "name": "Cheveyo Tsawa",
    "pos": "MF",
-   "role": "CM",
    "nat": "CH"
   },
   {
-   "n": 7,
-   "name": "Nicolò Tresoldi",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "DE"
+   "n": null,
+   "name": "Félix Lemaréchal",
+   "pos": "MF",
+   "nat": "FR"
   },
   {
-   "n": 9,
-   "name": "Carlos Forbs",
-   "pos": "FW",
-   "role": "LF",
-   "nat": "PT"
+   "n": null,
+   "name": "Freddie Potts",
+   "pos": "MF",
+   "nat": "GB-ENG"
   },
   {
-   "n": 17,
-   "name": "Romeo Vermant",
-   "pos": "FW",
-   "role": "CF",
+   "n": null,
+   "name": "Hans Vanaken",
+   "pos": "MF",
    "nat": "BE"
   },
   {
-   "n": 19,
-   "name": "Gustaf Nilsson",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "SE"
+   "n": null,
+   "name": "Hugo Vetlesen",
+   "pos": "MF",
+   "nat": "NO"
   },
   {
-   "n": 67,
+   "n": null,
+   "name": "Lynnt Audoor",
+   "pos": "MF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Milan Robberechts",
+   "pos": "MF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Andrej Vasović",
+   "pos": "FW",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Carlos Forbs",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Jan Virgili",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
    "name": "Mamadou Diakhon",
    "pos": "FW",
-   "role": "LF",
    "nat": "SN"
   },
   {
    "n": null,
-   "name": "Andrej Vasovic",
+   "name": "Nicolò Tresoldi",
    "pos": "FW",
-   "role": "CF",
-   "nat": "CH"
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Romeo Vermant",
+   "pos": "FW",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Tian Nai Koren",
+   "pos": "FW",
+   "nat": "SI"
+  },
+  {
+   "n": null,
+   "name": "Wisdom Mike",
+   "pos": "FW",
+   "nat": "DE"
   }
  ]
 }

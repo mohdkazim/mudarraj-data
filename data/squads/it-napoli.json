@@ -2,250 +2,170 @@
  "team": "it-napoli",
  "checked": "2026-10-27",
  "sources": [
-  "https://www.365scores.com/football/team/napoli-234/squad"
+  "https://www.fotmob.com/da/teams/9875/overview"
  ],
  "players": [
   {
-   "n": 1,
+   "n": null,
    "name": "Alex Meret",
    "pos": "GK",
    "nat": "IT"
   },
   {
-   "n": 14,
+   "n": null,
+   "name": "Claudio Pugliese",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
    "name": "Nikita Contini",
    "pos": "GK",
    "nat": "IT"
   },
   {
-   "n": 32,
-   "name": "Vanja Milinkovic-Savic",
+   "n": null,
+   "name": "Vanja Milinković-Savić",
    "pos": "GK",
    "nat": "RS"
   },
   {
-   "n": 4,
+   "n": null,
    "name": "Alessandro Buongiorno",
    "pos": "DF",
-   "role": "CB",
-   "nat": "IT"
-  },
-  {
-   "n": 13,
-   "name": "Amir Rrahmani",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "XK"
-  },
-  {
-   "n": 17,
-   "name": "Mathias Olivera",
-   "pos": "DF",
-   "role": "LB",
-   "nat": "UY"
-  },
-  {
-   "n": 22,
-   "name": "Giovanni Di Lorenzo",
-   "pos": "DF",
-   "role": "RB",
-   "nat": "IT"
-  },
-  {
-   "n": 30,
-   "name": "Pasquale Mazzocchi",
-   "pos": "DF",
-   "role": "RB",
-   "nat": "IT"
-  },
-  {
-   "n": 31,
-   "name": "Sam Beukema",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "NL"
-  },
-  {
-   "n": 37,
-   "name": "Leonardo Spinazzola",
-   "pos": "DF",
-   "role": "LB",
    "nat": "IT"
   },
   {
    "n": null,
-   "name": "Christian Garofalo",
+   "name": "Amir Rrahmani",
    "pos": "DF",
-   "role": "CB",
+   "nat": "XK"
+  },
+  {
+   "n": null,
+   "name": "Benoît Badiashile",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Giovanni Di Lorenzo",
+   "pos": "DF",
    "nat": "IT"
   },
   {
    "n": null,
    "name": "Luca Marianucci",
    "pos": "DF",
-   "role": "CB",
    "nat": "IT"
   },
   {
    "n": null,
-   "name": "Nosa Edward Obaretin",
+   "name": "Mathías Olivera",
    "pos": "DF",
-   "role": "CB",
-   "nat": "IT"
+   "nat": "UY"
   },
   {
    "n": null,
    "name": "Rafa Marín",
    "pos": "DF",
-   "role": "CB",
    "nat": "ES"
   },
   {
-   "n": 6,
-   "name": "Billy Gilmour",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "GB-SCT"
+   "n": null,
+   "name": "Sam Beukema",
+   "pos": "DF",
+   "nat": "NL"
   },
   {
-   "n": 8,
-   "name": "Scott McTominay",
+   "n": null,
+   "name": "Alisson Santos",
    "pos": "MF",
-   "role": "CM",
-   "nat": "GB-SCT"
+   "nat": "BR"
   },
   {
-   "n": 11,
-   "name": "Kevin De Bruyne",
-   "pos": "MF",
-   "role": "AM",
-   "nat": "BE"
-  },
-  {
-   "n": 26,
+   "n": null,
    "name": "Antonio Vergara",
    "pos": "MF",
-   "role": "AM",
    "nat": "IT"
   },
   {
-   "n": 68,
-   "name": "Stanislav Lobotka",
+   "n": null,
+   "name": "Billy Gilmour",
    "pos": "MF",
-   "role": "DM",
-   "nat": "SK"
+   "nat": "GB-SCT"
   },
   {
-   "n": 99,
+   "n": null,
+   "name": "Costantino Favasuli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "David Neres",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
    "name": "Frank Anguissa",
    "pos": "MF",
-   "role": "CM",
    "nat": "CM"
   },
   {
    "n": null,
-   "name": "Gennaro Iaccarino",
+   "name": "Kevin De Bruyne",
    "pos": "MF",
-   "role": "DM",
-   "nat": "IT"
-  },
-  {
-   "n": null,
-   "name": "Jens Cajuste",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "SE"
-  },
-  {
-   "n": null,
-   "name": "Michael Folorunsho",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "IT"
-  },
-  {
-   "n": 7,
-   "name": "David Neres",
-   "pos": "FW",
-   "role": "RF",
-   "nat": "BR"
-  },
-  {
-   "n": 9,
-   "name": "Romelu Lukaku",
-   "pos": "FW",
-   "role": "CF",
    "nat": "BE"
   },
   {
-   "n": 21,
+   "n": null,
+   "name": "Leonardo Spinazzola",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
    "name": "Matteo Politano",
-   "pos": "FW",
-   "role": "RF",
+   "pos": "MF",
    "nat": "IT"
   },
   {
-   "n": 23,
-   "name": "Giovane",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "BR"
-  },
-  {
-   "n": 27,
-   "name": "Alisson Santos",
-   "pos": "FW",
-   "role": "LF",
-   "nat": "BR"
+   "n": null,
+   "name": "Scott McTominay",
+   "pos": "MF",
+   "nat": "GB-SCT"
   },
   {
    "n": null,
-   "name": "Cyril Ngonge",
-   "pos": "FW",
-   "role": "RF",
-   "nat": "BE"
+   "name": "Stanislav Lobotka",
+   "pos": "MF",
+   "nat": "SK"
   },
   {
    "n": null,
-   "name": "Jesper Lindstrom",
+   "name": "Giovane Nascimento",
    "pos": "FW",
-   "role": "RF",
-   "nat": "DK"
+   "nat": "BR"
   },
   {
    "n": null,
    "name": "Lorenzo Lucca",
    "pos": "FW",
-   "role": "CF",
-   "nat": "IT"
-  },
-  {
-   "n": null,
-   "name": "Lorenzo Sgarbi",
-   "pos": "FW",
-   "role": "SS",
    "nat": "IT"
   },
   {
    "n": null,
    "name": "Noa Lang",
    "pos": "FW",
-   "role": "LF",
    "nat": "NL"
   },
   {
    "n": null,
-   "name": "Rasmus Höjlund",
+   "name": "Rasmus Højlund",
    "pos": "FW",
-   "role": "CF",
    "nat": "DK"
-  },
-  {
-   "n": null,
-   "name": "Walid Cheddira",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "MA"
   }
  ]
 }

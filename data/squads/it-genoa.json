@@ -2,185 +2,200 @@
  "team": "it-genoa",
  "checked": "2026-10-27",
  "sources": [
-  "https://www.365scores.com/football/team/genoa-231/squad"
+  "https://www.fotmob.com/ja/teams/10233/overview/undefined"
  ],
  "players": [
   {
-   "n": 1,
-   "name": "Nicola Leali",
-   "pos": "GK",
-   "nat": "IT"
-  },
-  {
-   "n": 16,
-   "name": "Justin Bijlow",
-   "pos": "GK",
-   "nat": "NL"
-  },
-  {
-   "n": 31,
-   "name": "Benjamin Siegrist",
-   "pos": "GK",
-   "nat": "CH"
-  },
-  {
-   "n": 35,
-   "name": "Ernestas Lysionok",
-   "pos": "GK",
-   "nat": "LT"
-  },
-  {
-   "n": 39,
+   "n": null,
    "name": "Daniele Sommariva",
    "pos": "GK",
    "nat": "IT"
   },
   {
-   "n": 3,
-   "name": "Aaron Martín",
-   "pos": "DF",
-   "role": "LB",
-   "nat": "ES"
+   "n": null,
+   "name": "Franz Stolz",
+   "pos": "GK",
+   "nat": "AT"
   },
   {
-   "n": 5,
-   "name": "Leo Oestigaard",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "NO"
+   "n": null,
+   "name": "Justin Bijlow",
+   "pos": "GK",
+   "nat": "NL"
   },
   {
-   "n": 13,
-   "name": "Nils Zatterstrom",
+   "n": null,
+   "name": "Alessandro Marcandalli",
    "pos": "DF",
-   "role": "CB",
-   "nat": "SE"
+   "nat": "IT"
   },
   {
-   "n": 15,
-   "name": "Brooke Norton-Cuffy",
+   "n": null,
+   "name": "Cody Drameh",
    "pos": "DF",
-   "role": "RB",
    "nat": "GB-ENG"
   },
   {
-   "n": 20,
-   "name": "Stefano Sabelli",
+   "n": null,
+   "name": "David Puczka",
    "pos": "DF",
-   "role": "RB",
-   "nat": "IT"
+   "nat": "AT"
   },
   {
-   "n": 22,
+   "n": null,
    "name": "Johan Vásquez",
    "pos": "DF",
-   "role": "CB",
    "nat": "MX"
   },
   {
-   "n": 27,
-   "name": "Alessandro Marcandalli",
+   "n": null,
+   "name": "Leo Østigard",
    "pos": "DF",
-   "role": "CB",
-   "nat": "IT"
+   "nat": "NO"
   },
   {
-   "n": 34,
+   "n": null,
+   "name": "Lukas Klisys",
+   "pos": "DF",
+   "nat": "LT"
+  },
+  {
+   "n": null,
+   "name": "Mamedi Doucouré",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Marcelo Vaz",
+   "pos": "DF",
+   "nat": "GN"
+  },
+  {
+   "n": null,
+   "name": "Mario Mitaj",
+   "pos": "DF",
+   "nat": "AL"
+  },
+  {
+   "n": null,
    "name": "Sebastian Otoa",
    "pos": "DF",
-   "role": "CB",
    "nat": "DK"
   },
   {
-   "n": 4,
+   "n": null,
    "name": "Amorim",
    "pos": "MF",
-   "role": "AM",
    "nat": "BR"
   },
   {
-   "n": 8,
-   "name": "Tommaso Baldanzi",
+   "n": null,
+   "name": "Djibril Sow",
    "pos": "MF",
-   "role": "AM",
-   "nat": "IT"
+   "nat": "CH"
   },
   {
-   "n": 14,
-   "name": "Jean Onana",
+   "n": null,
+   "name": "Hamed Traorè",
    "pos": "MF",
-   "role": "DM",
-   "nat": "CM"
+   "nat": "CI"
   },
   {
-   "n": 17,
-   "name": "Ruslan Malinovskyi",
+   "n": null,
+   "name": "Junior Messias",
    "pos": "MF",
-   "role": "AM",
-   "nat": "UA"
+   "nat": "BR"
   },
   {
-   "n": 32,
-   "name": "Morten Frendrup",
+   "n": null,
+   "name": "Kingsley Ehizibue",
    "pos": "MF",
-   "role": "CM",
-   "nat": "DK"
+   "nat": "NL"
   },
   {
-   "n": 73,
-   "name": "Patrizio Masini",
+   "n": null,
+   "name": "Mikael Egill Ellertsson",
    "pos": "MF",
-   "role": "CM",
-   "nat": "IT"
-  },
-  {
-   "n": 77,
-   "name": "Mikael Ellertsson",
-   "pos": "MF",
-   "role": "CM",
    "nat": "IS"
   },
   {
-   "n": 9,
-   "name": "Vitinha",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "PT"
+   "n": null,
+   "name": "Morten Frendrup",
+   "pos": "MF",
+   "nat": "DK"
   },
   {
-   "n": 10,
-   "name": "Junior Messias",
+   "n": null,
+   "name": "Samuel Wiafe",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Stefano Sabelli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Stephan El Shaarawy",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Baldanzi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Elias Havel",
    "pos": "FW",
-   "role": "RF",
+   "nat": "AT"
+  },
+  {
+   "n": null,
+   "name": "Franz-Ethan Meichtry",
+   "pos": "FW",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Joi Xheto Nuredini",
+   "pos": "FW",
+   "nat": "AL"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Colombo",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Venturino",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Milutin Osmajić",
+   "pos": "FW",
+   "nat": "ME"
+  },
+  {
+   "n": null,
+   "name": "Robinho Júnior",
+   "pos": "FW",
    "nat": "BR"
   },
   {
-   "n": 18,
-   "name": "Caleb Ekuban",
+   "n": null,
+   "name": "Vítinha",
    "pos": "FW",
-   "role": "CF",
-   "nat": "GH"
-  },
-  {
-   "n": 21,
-   "name": "Jeff Ekhator",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "IT"
-  },
-  {
-   "n": 29,
-   "name": "Lorenzo Colombo",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "IT"
-  },
-  {
-   "n": 70,
-   "name": "Maxwel Cornet",
-   "pos": "FW",
-   "role": "LF",
-   "nat": "CI"
+   "nat": "PT"
   }
  ]
 }

@@ -2,7 +2,7 @@
  "team": "de-darmstadt-98",
  "checked": "2026-10-27",
  "sources": [
-  "https://www.365scores.com/en-us/football/team/sv-darmstadt-98-454/squad"
+  "https://www.fotmob.com/de/teams/8262/squad/darmstadt"
  ],
  "players": [
   {
@@ -24,200 +24,190 @@
    "nat": "DE"
   },
   {
-   "n": 3,
-   "name": "Florian Kleinhansl",
-   "pos": "DF",
-   "role": "LB",
-   "nat": "DE"
-  },
-  {
    "n": 4,
    "name": "Grayson Dettoni",
    "pos": "DF",
-   "role": "CB",
    "nat": "US"
   },
   {
    "n": 6,
    "name": "Patric Pfeiffer",
    "pos": "DF",
-   "role": "CB",
    "nat": "GH"
   },
   {
    "n": 14,
    "name": "Meldin Drešković",
    "pos": "DF",
-   "role": "CB",
    "nat": "ME"
+  },
+  {
+   "n": 15,
+   "name": "Fabian Nürnberger",
+   "pos": "DF",
+   "nat": "BG"
   },
   {
    "n": 18,
    "name": "Raoul Petretta",
    "pos": "DF",
-   "role": "LB",
    "nat": "IT"
   },
   {
    "n": 20,
-   "name": "Aleksandar Vukotic",
+   "name": "Aleksandar Vukotić",
    "pos": "DF",
-   "role": "CB",
    "nat": "RS"
-  },
-  {
-   "n": 25,
-   "name": "William Mikelbrencis",
-   "pos": "DF",
-   "role": "RB",
-   "nat": "FR"
   },
   {
    "n": 26,
    "name": "Matthias Bader",
    "pos": "DF",
-   "role": "RB",
    "nat": "DE"
   },
   {
    "n": 28,
    "name": "Christopher Lannert",
    "pos": "DF",
-   "role": "RB",
    "nat": "DE"
   },
   {
-   "n": 45,
+   "n": 32,
+   "name": "Fabian Holland",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 46,
+   "name": "Tim Arnold",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 49,
    "name": "Max Pfister",
    "pos": "DF",
-   "role": "CB",
    "nat": "DE"
   },
   {
    "n": 49,
    "name": "Yannik Lührs",
    "pos": "DF",
-   "role": "CB",
    "nat": "DE"
   },
   {
-   "n": 8,
-   "name": "Luca Marseiler",
+   "n": 3,
+   "name": "Florian Kleinhansl",
    "pos": "MF",
-   "role": "AM",
    "nat": "DE"
   },
   {
    "n": 10,
    "name": "Nicolas Verkooijen",
    "pos": "MF",
-   "role": "AM",
    "nat": "BE"
   },
   {
-   "n": 15,
-   "name": "Fabian Nurnberger",
+   "n": 11,
+   "name": "Tobias Kempe",
    "pos": "MF",
-   "role": "LM",
-   "nat": "BG"
+   "nat": "DE"
   },
   {
    "n": 16,
    "name": "Hiroki Akiyama",
    "pos": "MF",
-   "role": "DM",
    "nat": "JP"
   },
   {
    "n": 17,
    "name": "Kai Klefisch",
    "pos": "MF",
-   "role": "DM",
    "nat": "DE"
   },
   {
    "n": 21,
    "name": "Merveille Papela",
    "pos": "MF",
-   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Lars Kehl",
+   "pos": "MF",
    "nat": "DE"
   },
   {
    "n": 23,
    "name": "Carlo Sickinger",
    "pos": "MF",
-   "role": "DM",
    "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "William Mikelbrencis",
+   "pos": "MF",
+   "nat": "FR"
   },
   {
    "n": 41,
    "name": "Lance Duijvestijn",
    "pos": "MF",
-   "role": "AM",
    "nat": "NL"
   },
   {
-   "n": 47,
-   "name": "Milian Herbst",
+   "n": 48,
+   "name": "Manolo Merx",
    "pos": "MF",
-   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Marco Richter",
+   "pos": "FW",
    "nat": "DE"
   },
   {
    "n": 7,
-   "name": "Noah Weisshaupt",
+   "name": "Noah Weißhaupt",
    "pos": "FW",
-   "role": "LF",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Luca Marseiler",
+   "pos": "FW",
    "nat": "DE"
   },
   {
    "n": 9,
-   "name": "Lee Ho-Jae",
+   "name": "Ho-Jae Lee",
    "pos": "FW",
-   "role": "CF",
    "nat": "KR"
   },
   {
    "n": 11,
    "name": "Ibrahim El Kadiri",
    "pos": "FW",
-   "role": "LF",
-   "nat": "MA"
+   "nat": "NL"
   },
   {
    "n": 19,
    "name": "Fynn Lakenmacher",
    "pos": "FW",
-   "role": "CF",
-   "nat": "DE"
-  },
-  {
-   "n": 22,
-   "name": "Lars Keh",
-   "pos": "FW",
-   "role": "CF",
    "nat": "DE"
   },
   {
    "n": 36,
    "name": "Milan Smit",
    "pos": "FW",
-   "role": "CF",
    "nat": "NL"
   },
   {
    "n": 44,
    "name": "Yosuke Furukawa",
    "pos": "FW",
-   "role": "LF",
    "nat": "JP"
-  },
-  {
-   "n": 48,
-   "name": "Manolo Merx",
-   "pos": "FW",
-   "role": "RF",
-   "nat": "DE"
   }
  ]
 }

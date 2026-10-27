@@ -2,208 +2,181 @@
  "team": "fr-lille",
  "checked": "2026-10-27",
  "sources": [
-  "https://www.365scores.com/football/team/lille-478/squad"
+  "https://www.fotmob.com/es/teams/8639/overview/lille"
  ],
  "players": [
   {
-   "n": 1,
+   "n": null,
    "name": "Berke Özer",
    "pos": "GK",
    "nat": "TR"
   },
   {
-   "n": 16,
-   "name": "Arnaud Bodart",
+   "n": null,
+   "name": "Orlando Gill",
    "pos": "GK",
-   "nat": "BE"
+   "nat": "PY"
   },
   {
-   "n": 2,
-   "name": "Loun Srdanovic",
-   "pos": "DF",
-   "role": "RB",
-   "nat": "CH"
+   "n": null,
+   "name": "Thomas Sajous",
+   "pos": "GK",
+   "nat": "FR"
   },
   {
-   "n": 3,
-   "name": "Nathan Ngoy",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "BE"
+   "n": null,
+   "name": "Zadig Lanssade",
+   "pos": "GK",
+   "nat": "FR"
   },
   {
-   "n": 4,
+   "n": null,
    "name": "Alexsandro Ribeiro",
    "pos": "DF",
-   "role": "CB",
    "nat": "BR"
   },
   {
-   "n": 15,
-   "name": "Romain Perraud",
-   "pos": "DF",
-   "role": "LB",
-   "nat": "FR"
-  },
-  {
-   "n": 22,
-   "name": "Tiago Santos",
-   "pos": "DF",
-   "role": "RB",
-   "nat": "PT"
-  },
-  {
-   "n": 23,
-   "name": "Tanguy Nianzou",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "FR"
-  },
-  {
-   "n": 24,
+   "n": null,
    "name": "Calvin Verdonk",
    "pos": "DF",
-   "role": "LB",
    "nat": "ID"
-  },
-  {
-   "n": 36,
-   "name": "Ousmane Touré",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "FR"
   },
   {
    "n": null,
    "name": "Isaac Cossier",
    "pos": "DF",
-   "role": "CB",
-   "nat": "FR"
-  },
-  {
-   "n": 6,
-   "name": "Nabil Bentaleb",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "DZ"
-  },
-  {
-   "n": 10,
-   "name": "Hakon Haraldsson",
-   "pos": "MF",
-   "role": "AM",
-   "nat": "IS"
-  },
-  {
-   "n": 17,
-   "name": "Ngal'ayel Mukau",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "CD"
-  },
-  {
-   "n": 19,
-   "name": "Basar Onal",
-   "pos": "MF",
-   "role": "LM",
-   "nat": "TR"
-  },
-  {
-   "n": 21,
-   "name": "Benjamin André",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "FR"
-  },
-  {
-   "n": 32,
-   "name": "Ayyoub Bouaddi",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "MA"
-  },
-  {
-   "n": 7,
-   "name": "Matias Fernandez-Pardo",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "BE"
-  },
-  {
-   "n": 8,
-   "name": "Ethan Mbappé",
-   "pos": "FW",
-   "role": "RF",
-   "nat": "FR"
-  },
-  {
-   "n": 9,
-   "name": "Olivier Giroud",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "FR"
-  },
-  {
-   "n": 11,
-   "name": "Osame Sahraoui",
-   "pos": "FW",
-   "role": "LF",
-   "nat": "MA"
-  },
-  {
-   "n": 14,
-   "name": "Marius Broholm",
-   "pos": "FW",
-   "role": "RF",
-   "nat": "NO"
-  },
-  {
-   "n": 20,
-   "name": "Noah Edjouma",
-   "pos": "FW",
-   "role": "RF",
-   "nat": "FR"
-  },
-  {
-   "n": 27,
-   "name": "Félix Correia",
-   "pos": "FW",
-   "role": "LF",
-   "nat": "PT"
-  },
-  {
-   "n": 28,
-   "name": "Gaetan Perrin",
-   "pos": "FW",
-   "role": "RF",
-   "nat": "FR"
-  },
-  {
-   "n": 29,
-   "name": "Hamza Igamane",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "MA"
-  },
-  {
-   "n": 35,
-   "name": "Soriba Diaoune",
-   "pos": "FW",
-   "role": "LF",
    "nat": "FR"
   },
   {
    "n": null,
-   "name": "Mohamed Bayo",
+   "name": "Loun Srdanovic",
+   "pos": "DF",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Maxima Goffi",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Nathan Ngoy",
+   "pos": "DF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Romain Perraud",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Tanguy Nianzou",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Tiago Santos",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Başar Önal",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Benjamin André",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Hákon Arnar Haraldsson",
+   "pos": "MF",
+   "nat": "IS"
+  },
+  {
+   "n": null,
+   "name": "Maurits Kjærgaard",
+   "pos": "MF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Nabil Bentaleb",
+   "pos": "MF",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Ngal Ayel Mukau",
+   "pos": "MF",
+   "nat": "CD"
+  },
+  {
+   "n": null,
+   "name": "Angel Yondjo",
    "pos": "FW",
-   "role": "CF",
+   "nat": "CM"
+  },
+  {
+   "n": null,
+   "name": "Ayase Ueda",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Dilane Bakwa",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Ethan Mbappé",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Gaëtan Perrin",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Hamza Igamane",
+   "pos": "FW",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Olivier Giroud",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Osame Sahraoui",
+   "pos": "FW",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Soriba Diaoune",
+   "pos": "FW",
    "nat": "GN"
   },
   {
    "n": null,
    "name": "Tiago Morais",
    "pos": "FW",
-   "role": "LF",
    "nat": "PT"
   }
  ]

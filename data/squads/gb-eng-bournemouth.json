@@ -2,12 +2,12 @@
  "team": "gb-eng-bournemouth",
  "checked": "2026-10-27",
  "sources": [
-  "https://www.365scores.com/football/team/bournemouth-50/squad"
+  "https://www.fotmob.com/teams/8678/squad/bournemouth"
  ],
  "players": [
   {
    "n": 1,
-   "name": "Djordje Petrovic",
+   "name": "Djordje Petrović",
    "pos": "GK",
    "nat": "RS"
   },
@@ -18,10 +18,23 @@
    "nat": "GB-ENG"
   },
   {
-   "n": 29,
-   "name": "Christos Mandas",
+   "n": 20,
+   "name": "Michele Di Gregorio",
    "pos": "GK",
-   "nat": "GR"
+   "nat": "IT"
+  },
+  {
+   "n": 55,
+   "name": "Mack Allan",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 2,
+   "name": "Julián Araujo",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "MX"
   },
   {
    "n": 3,
@@ -32,10 +45,10 @@
   },
   {
    "n": 5,
-   "name": "Marcos Senesi",
+   "name": "James Hill",
    "pos": "DF",
    "role": "CB",
-   "nat": "AR"
+   "nat": "GB-ENG"
   },
   {
    "n": 6,
@@ -43,6 +56,13 @@
    "pos": "DF",
    "role": "LB",
    "nat": "AR"
+  },
+  {
+   "n": 14,
+   "name": "António Silva",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
   },
   {
    "n": 15,
@@ -53,24 +73,17 @@
   },
   {
    "n": 18,
-   "name": "Bafodé Diakite",
+   "name": "Bafodé Diakité",
    "pos": "DF",
    "role": "CB",
    "nat": "FR"
   },
   {
-   "n": 20,
-   "name": "Álex Jiménez",
+   "n": 24,
+   "name": "Juanlu Sánchez",
    "pos": "DF",
-   "role": "RB",
+   "role": "RWB",
    "nat": "ES"
-  },
-  {
-   "n": 23,
-   "name": "James Hill",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "GB-ENG"
   },
   {
    "n": 44,
@@ -80,24 +93,17 @@
    "nat": "RS"
   },
   {
-   "n": 45,
-   "name": "Matai Akinmboni",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "US"
-  },
-  {
    "n": 4,
    "name": "Lewis Cook",
    "pos": "MF",
-   "role": "CM",
+   "role": "DM",
    "nat": "GB-ENG"
   },
   {
    "n": 8,
    "name": "Alex Scott",
    "pos": "MF",
-   "role": "CM",
+   "role": "DM",
    "nat": "GB-ENG"
   },
   {
@@ -108,18 +114,18 @@
    "nat": "GB-SCT"
   },
   {
+   "n": 11,
+   "name": "Ben Gannon-Doak",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "GB-SCT"
+  },
+  {
    "n": 12,
    "name": "Tyler Adams",
    "pos": "MF",
    "role": "DM",
    "nat": "US"
-  },
-  {
-   "n": 16,
-   "name": "Marcus Tavernier",
-   "pos": "MF",
-   "role": "LM",
-   "nat": "GB-ENG"
   },
   {
    "n": 19,
@@ -129,6 +135,13 @@
    "nat": "NL"
   },
   {
+   "n": 22,
+   "name": "Junior Kroupi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
    "n": 27,
    "name": "Alex Tóth",
    "pos": "MF",
@@ -136,10 +149,24 @@
    "nat": "HU"
   },
   {
+   "n": 28,
+   "name": "Max Aarons",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "JM"
+  },
+  {
+   "n": 47,
+   "name": "Ben Winterburn",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-ENG"
+  },
+  {
    "n": 7,
    "name": "David Brooks",
    "pos": "FW",
-   "role": "RF",
+   "role": "RW",
    "nat": "GB-WLS"
   },
   {
@@ -150,38 +177,38 @@
    "nat": "BR"
   },
   {
-   "n": 11,
-   "name": "Ben Doak",
+   "n": 16,
+   "name": "Marcus Tavernier",
    "pos": "FW",
-   "role": "RF",
-   "nat": "GB-SCT"
+   "role": "LW",
+   "nat": "GB-ENG"
   },
   {
    "n": 21,
    "name": "Amine Adli",
    "pos": "FW",
-   "role": "LF",
+   "role": "LW",
    "nat": "MA"
   },
   {
-   "n": 22,
-   "name": "Eli Kroupi",
+   "n": 29,
+   "name": "Daniel Jebbison",
    "pos": "FW",
    "role": "CF",
-   "nat": "FR"
+   "nat": "CA"
   },
   {
-   "n": 26,
-   "name": "Enes Ünal",
+   "n": 30,
+   "name": "Álvaro Rodriguez",
    "pos": "FW",
    "role": "CF",
-   "nat": "TR"
+   "nat": "UY"
   },
   {
    "n": 37,
    "name": "Rayan",
    "pos": "FW",
-   "role": "RF",
+   "role": "RW",
    "nat": "BR"
   }
  ]
