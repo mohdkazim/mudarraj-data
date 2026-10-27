@@ -1,0 +1,12 @@
+{
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r03-my-johor-darul-ta-zim-th-port-fc", "status": "FT", "score": [3,0], "ht": [0,0],
+      "goals": [
+        { "minute": 53, "side": "home", "player": "Jonathan Silva", "type": "goal" },
+        { "minute": 62, "side": "home", "player": "Bergson", "type": "goal" },
+        { "minute": 86, "side": "home", "player": "Stoichkov", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/johor-darul-ta%E2%80%99zim-thai-port-fc-7769-10080-623"] }
+  ],
+  "unconfirmed": []
+}
