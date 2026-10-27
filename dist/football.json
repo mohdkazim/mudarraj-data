@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-27T21:37:46.227Z",
+ "generatedAt": "2026-10-27T22:50:02.734Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 387,
-  "pending": 0
+  "results": 389,
+  "pending": 1
  },
  "teams": [
   {
@@ -35344,8 +35344,11 @@
    "away": "in-east-bengal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Al Seeb Stadium",
@@ -35358,9 +35361,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-seeb-club-oma-0-0-east-bengal-fc-ind"
    ],
+   "goals": [],
+   "updatedAt": "2026-10-27T22:50:02.557Z",
    "venueFrom": "home-ground"
   },
   {
@@ -35482,8 +35486,11 @@
    "away": "jo-al-hussein",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Al Zawraa Stadium",
@@ -35496,9 +35503,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-shorta-irq-1-1-al-hussein-jor"
    ],
+   "updatedAt": "2026-10-27T22:50:02.557Z",
    "venueFrom": "home-ground"
   },
   {

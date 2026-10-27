@@ -3780,3 +3780,12 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-28 (2026-10-27T21:35:00Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result acle-2026-27-league-west-gwest-r03-qa-al-shamal-sa-al-hilal 3-1 FT
+
+## 2026-10-28 (2026-10-27T22:35:00Z)
+- 6 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result dfb-pokal-2026-27-r2-de-borussia-dortmund-de-werder-bremen 3-2 FT
+  - ✓ result dfb-pokal-2026-27-r2-de-fc-koln-de-union-berlin 5-0 FT
+  - ✓ result dfb-pokal-2026-27-r2-de-borussia-monchengladbach-de-karlsruher-sc 2-0 FT
+  - ✓ result dfb-pokal-2026-27-r2-de-sv-elversberg-de-darmstadt-98 0-2 FT
+  - ✓ result acl2-2026-27-groups-gd-r03-om-al-seeb-in-east-bengal 0-0 FT
+  - ✓ result acl2-2026-27-groups-gd-r03-iq-al-shorta-jo-al-hussein 1-1 FT

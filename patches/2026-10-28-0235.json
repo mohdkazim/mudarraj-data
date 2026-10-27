@@ -1,0 +1,35 @@
+{
+  "run": "2026-10-27T22:35:00Z",
+  "changes": [
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-borussia-dortmund-de-werder-bremen", "status": "FT", "score": [3,2], "ht": [2,0],
+      "goals": [
+        { "minute": 6, "side": "home", "player": "Serhou Guirassy", "type": "goal" },
+        { "minute": 17, "side": "home", "player": "Carney Chukwuemeka", "type": "goal" },
+        { "minute": 65, "side": "away", "player": "Niclas Füllkrug", "type": "penalty" },
+        { "minute": 68, "side": "away", "player": "Niclas Füllkrug", "type": "goal" },
+        { "minute": 90, "extra": 3, "side": "home", "player": "Marcel Sabitzer", "type": "goal" }
+      ],
+      "sources": ["https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/2-runde/borussia-dortmund-werder-bremen-2430548", "https://datencenter.dfb.de/matches/borussia-dortmund-werder-bremen-2430548/liveticker"] },
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-fc-koln-de-union-berlin", "status": "FT", "score": [5,0], "ht": [1,0],
+      "goals": [
+        { "minute": 32, "side": "home", "player": "Said El Mala", "type": "goal" },
+        { "minute": 51, "side": "home", "player": "Linton Maina", "type": "goal" },
+        { "minute": 60, "side": "home", "player": "Said El Mala", "type": "goal" },
+        { "minute": 78, "side": "home", "player": "Isak Jóhannesson", "type": "goal" },
+        { "minute": 88, "side": "home", "player": "Sebastian Sebulonsen", "type": "goal" }
+      ],
+      "sources": ["https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/2-runde/1-fc-koeln-1-fc-union-berlin-2430546"] },
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-borussia-monchengladbach-de-karlsruher-sc", "status": "FT", "score": [2,0], "ht": [1,0],
+      "sources": ["https://datencenter.dfb.de/matches/borussia-moenchengladbach-karlsruher-sc-2430551/liveticker"] },
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-sv-elversberg-de-darmstadt-98", "status": "FT", "score": [0,2], "ht": [0,1],
+      "sources": ["https://datencenter.dfb.de/matches/sv-elversberg-sv-darmstadt-98-2430557/liveticker"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gd-r03-om-al-seeb-in-east-bengal", "status": "FT", "score": [0,0], "goals": [],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-seeb-club-oma-0-0-east-bengal-fc-ind"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gd-r03-iq-al-shorta-jo-al-hussein", "status": "FT", "score": [1,1],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-shorta-irq-1-1-al-hussein-jor"] }
+  ],
+  "unconfirmed": [
+    { "match": "serie-a-2026-27-regular-r09-it-sassuolo-it-lazio", "claim": "2-6",
+      "sources": ["https://corrieredellosport.it/news/calcio/serie-a/2026/10/27-152193226/sassuolo-lazio_diretta_serie_a_segui_la_sfida_tra_aquilani_e_gattuso_il_risultato_live"] }
+  ]
+}

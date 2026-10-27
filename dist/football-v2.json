@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-27T21:37:46.227Z",
+ "generatedAt": "2026-10-27T22:50:02.734Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 705,
-  "pending": 0
+  "results": 711,
+  "pending": 1
  },
  "teams": [
   {
@@ -55127,8 +55127,11 @@
    "away": "in-east-bengal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Al Seeb Stadium",
@@ -55141,9 +55144,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-seeb-club-oma-0-0-east-bengal-fc-ind"
    ],
+   "goals": [],
+   "updatedAt": "2026-10-27T22:50:02.557Z",
    "venueFrom": "home-ground"
   },
   {
@@ -55526,8 +55530,11 @@
    "away": "jo-al-hussein",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Al Zawraa Stadium",
@@ -55540,9 +55547,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-shorta-irq-1-1-al-hussein-jor"
    ],
+   "updatedAt": "2026-10-27T22:50:02.557Z",
    "venueFrom": "home-ground"
   },
   {
@@ -55600,14 +55607,55 @@
    "away": "de-werder-bremen",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
-   ]
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/2-runde/borussia-dortmund-werder-bremen-2430548",
+    "https://datencenter.dfb.de/matches/borussia-dortmund-werder-bremen-2430548/liveticker"
+   ],
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "Serhou Guirassy",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Carney Chukwuemeka",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Niclas Füllkrug",
+     "type": "penalty"
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Niclas Füllkrug",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 3,
+     "side": "home",
+     "player": "Marcel Sabitzer",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-27T22:50:02.557Z"
   },
   {
    "competition": "dfb-pokal",
@@ -55625,14 +55673,21 @@
    "away": "de-karlsruher-sc",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
-   ]
+    "https://datencenter.dfb.de/matches/borussia-moenchengladbach-karlsruher-sc-2430551/liveticker"
+   ],
+   "updatedAt": "2026-10-27T22:50:02.557Z"
   },
   {
    "competition": "dfb-pokal",
@@ -55650,14 +55705,53 @@
    "away": "de-union-berlin",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
-   ]
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/2-runde/1-fc-koeln-1-fc-union-berlin-2430546"
+   ],
+   "goals": [
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Said El Mala",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Linton Maina",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Said El Mala",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "home",
+     "player": "Isak Jóhannesson",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Sebastian Sebulonsen",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-27T22:50:02.557Z"
   },
   {
    "competition": "dfb-pokal",
@@ -55675,14 +55769,21 @@
    "away": "de-darmstadt-98",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
-   ]
+    "https://datencenter.dfb.de/matches/sv-elversberg-sv-darmstadt-98-2430557/liveticker"
+   ],
+   "updatedAt": "2026-10-27T22:50:02.557Z"
   },
   {
    "competition": "serie-a",
