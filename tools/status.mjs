@@ -138,9 +138,9 @@ for (const p of pending) console.log(`  ${p.match ?? "?"}  claim ${p.claim ?? "?
 const noCrest = all.teams.filter((t) => !t.logo);
 console.log(`\nTEAMS WITHOUT A CREST — add one with "team-logo", see RUNBOOK.md "Crests" (${noCrest.length}):`);
 for (const t of noCrest) console.log(`  ${t.id.padEnd(28)} ${t.name.en}${t.countryName?.en ? ` (${t.countryName.en})` : ""}`);
-// Squads: clubs in a league we follow or with a match still to play, national teams with a match in the window.
-// Rechecked every 30 days, every 7 in transfer windows; at most SQUADS_PER_RUN a morning (the rest the next mornings).
-const SQUADS_PER_RUN = 15;
+// Squads (RUNBOOK.md "Squads"): every team gets one (Mohamed, 27 Oct 2026: "I want for all teams to have squads also for
+// all matches"). Teams in a league we follow or with a match still to play come first; their squads are rechecked every
+// 30 days (7 in transfer windows), the others' every 90. At most 30 a morning while many teams still have none, then 15.
 const squads = loadSquads();
 const maxAge = squadMaxAgeDays(now);
 const active = new Set();
@@ -149,27 +149,27 @@ for (const s of all.seasons.values())
   for (const m of s.matches) {
     if (!["NS", "TBD", "PST"].includes(m.status)) continue;
     const t = m.kickoff ? Date.parse(m.kickoff) : null;
-    for (const id of [m.home, m.away]) {
-      if (!id) continue;
-      const team = all.teamById.get(id);
-      if (team?.national ? t !== null && t >= now && t <= to : t === null || t >= now) active.add(id);
-    }
+    for (const id of [m.home, m.away]) if (id && (t === null || t >= now)) active.add(id);
   }
 const ageDays = (d) => Math.floor((Date.parse(dubaiDate(new Date(now).toISOString())) - Date.parse(d)) / 86400_000);
-// Clubs without a squad first (the site's home countries and the big leagues before the rest), then the oldest checks.
+// Without a squad first (active teams before the rest, the site's home countries and the big leagues first), then the oldest checks.
 const FIRST = ["ae", "sa", "gb-eng", "es", "de", "it", "qa", "fr", "pt", "nl"];
 const rank = (id) => {
   const i = FIRST.indexOf(all.teamById.get(id)?.country);
-  return i < 0 ? FIRST.length : i;
+  return (active.has(id) ? 0 : 100) + (i < 0 ? FIRST.length : i);
 };
-const squadsDue = [...active]
-  .filter((id) => all.teamById.has(id) && (!squads.has(id) || ageDays(squads.get(id).checked) >= maxAge))
+const squadsDue = all.teams
+  .map((t) => t.id)
+  .filter((id) => !squads.has(id) || ageDays(squads.get(id).checked) >= (active.has(id) ? maxAge : 90))
   .sort((a, b) => (squads.get(a)?.checked ?? "").localeCompare(squads.get(b)?.checked ?? "") || rank(a) - rank(b) || a.localeCompare(b));
-console.log(`\nSQUADS TO CHECK — copy or recheck these clubs' squads, see RUNBOOK.md "Squads" (rechecked every ${maxAge} days now) (${squadsDue.length}${squadsDue.length > SQUADS_PER_RUN ? `, today the first ${SQUADS_PER_RUN}` : ""}):`);
+const missingSquads = squadsDue.filter((id) => !squads.has(id)).length;
+const SQUADS_PER_RUN = missingSquads > 50 ? 30 : 15;
+console.log(`\nSQUADS TO CHECK — copy or recheck these teams' squads, see RUNBOOK.md "Squads" (${missingSquads} without a squad; ${squadsDue.length} due${squadsDue.length > SQUADS_PER_RUN ? `, today the first ${SQUADS_PER_RUN}` : ""}):`);
 for (const id of squadsDue.slice(0, SQUADS_PER_RUN)) {
   const t = all.teamById.get(id);
   const sq = squads.get(id);
-  console.log(`  ${id.padEnd(30)} ${t.name.en}${t.countryName?.en ? ` (${t.countryName.en})` : ""} — ${sq ? `last checked ${sq.checked}` : "no squad yet"}`);
+  const arabic = ["ae", "sa", "qa", "kw", "bh", "om", "iq", "jo", "ye", "sy", "lb", "ps", "eg", "ly", "tn", "dz", "ma"].includes(t.country) ? ", Arabic names" : "";
+  console.log(`  ${id.padEnd(30)} ${t.name.en}${t.countryName?.en ? ` (${t.countryName.en})` : ""} — ${sq ? `last checked ${sq.checked}` : "no squad yet"}${arabic}`);
 }
 console.log(`\nFIXTURE LISTS (add fixtures when a list ends within the window or a draw has happened):`);
 for (const c of all.competitions) {
