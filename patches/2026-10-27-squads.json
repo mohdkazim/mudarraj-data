@@ -1,0 +1,3289 @@
+{
+ "run": "2026-10-27T16:21:05.561Z",
+ "changes": [
+  {
+   "op": "squad",
+   "team": "gb-eng-arsenal",
+   "players": [
+    {
+     "n": 1,
+     "name": "David Raya",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Spain"
+    },
+    {
+     "n": 13,
+     "name": "Kepa Arrizabalaga",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Spain"
+    },
+    {
+     "n": 30,
+     "name": "Illan Meslier",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "France"
+    },
+    {
+     "n": 2,
+     "name": "William Saliba",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "France"
+    },
+    {
+     "n": 3,
+     "name": "Cristhian Mosquera",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Spain"
+    },
+    {
+     "n": 4,
+     "name": "Ben White",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "England"
+    },
+    {
+     "n": 5,
+     "name": "Piero Hincapie",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Ecuador"
+    },
+    {
+     "n": 6,
+     "name": "Gabriel Magalhaes",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Brazil"
+    },
+    {
+     "n": 12,
+     "name": "Jurriën Timber",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 15,
+     "name": "Ezri Konsa",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "England"
+    },
+    {
+     "n": 33,
+     "name": "Riccardo Calafiori",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 49,
+     "name": "Myles Lewis-Skelly",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "England"
+    },
+    {
+     "n": 8,
+     "name": "Martin Odegaard",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Norway"
+    },
+    {
+     "n": 10,
+     "name": "Eberechi Eze",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "England"
+    },
+    {
+     "n": 23,
+     "name": "Mikel Merino",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Spain"
+    },
+    {
+     "n": 36,
+     "name": "Martín Zubimendi",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Spain"
+    },
+    {
+     "n": 39,
+     "name": "Bruno Guimarães",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Brazil"
+    },
+    {
+     "n": 41,
+     "name": "Declan Rice",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "England"
+    },
+    {
+     "n": 7,
+     "name": "Bukayo Saka",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "England"
+    },
+    {
+     "n": 14,
+     "name": "Viktor Gyökeres",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Sweden"
+    },
+    {
+     "n": 17,
+     "name": "Christos Tzolis",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Greece"
+    },
+    {
+     "n": 20,
+     "name": "Noni Madueke",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "England"
+    },
+    {
+     "n": 29,
+     "name": "Kai Havertz",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Germany"
+    },
+    {
+     "n": 56,
+     "name": "Max Dowman",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "England"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/arsenal-104/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "gb-eng-aston-villa",
+   "players": [
+    {
+     "n": 1,
+     "name": "Zion Suzuki",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Japan"
+    },
+    {
+     "n": 23,
+     "name": "Emiliano Martinez",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Argentina"
+    },
+    {
+     "n": 40,
+     "name": "Marco Bizot",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 2,
+     "name": "Matty Cash",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Poland"
+    },
+    {
+     "n": 3,
+     "name": "Victor Lindelof",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Sweden"
+    },
+    {
+     "n": 5,
+     "name": "Tyrone Mings",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "England"
+    },
+    {
+     "n": 13,
+     "name": "Matteo Ruggeri",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 14,
+     "name": "Pau Torres",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Spain"
+    },
+    {
+     "n": 22,
+     "name": "Ian Maatsen",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 29,
+     "name": "Aaron Wan-Bissaka",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "DR Congo"
+    },
+    {
+     "n": 48,
+     "name": "Modou Kéba Cissé",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Senegal"
+    },
+    {
+     "n": null,
+     "name": "Leon Goretzka",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 6,
+     "name": "Ross Barkley",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "England"
+    },
+    {
+     "n": 7,
+     "name": "John McGinn",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Scotland"
+    },
+    {
+     "n": 8,
+     "name": "Boubacar Kamara",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "France"
+    },
+    {
+     "n": 24,
+     "name": "Amadou Onana",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Belgium"
+    },
+    {
+     "n": 26,
+     "name": "Lamare Bogarde",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 35,
+     "name": "João Gomes",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Brazil"
+    },
+    {
+     "n": 44,
+     "name": "Johan Manzambi",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 53,
+     "name": "George Hemmings",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "England"
+    },
+    {
+     "n": null,
+     "name": "Nicolas Jackson",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Senegal"
+    },
+    {
+     "n": 10,
+     "name": "Emilliano Buendía",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Argentina"
+    },
+    {
+     "n": 11,
+     "name": "Ollie Watkins",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "England"
+    },
+    {
+     "n": 17,
+     "name": "Alejandro Garnacho",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Argentina"
+    },
+    {
+     "n": 18,
+     "name": "Tammy Abraham",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "England"
+    },
+    {
+     "n": 31,
+     "name": "Leon Bailey",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "Jamaica"
+    },
+    {
+     "n": 39,
+     "name": "Brian Madjo",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "England"
+    },
+    {
+     "n": 47,
+     "name": "Alysson Edward",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "Brazil"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/aston-villa-109/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-bayer-leverkusen",
+   "players": [
+    {
+     "n": 1,
+     "name": "Mark Flekken",
+     "ar": "مارك فليكين",
+     "pos": "Goalkeeper",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 28,
+     "name": "Janis Blaswich",
+     "ar": "يانيس بلاسفيتش",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 36,
+     "name": "Niklas Lomb",
+     "ar": "نيكلاس لامب",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 2,
+     "name": "Facundo Medina",
+     "ar": "فاكوندو ميدينا",
+     "pos": "Centre Back",
+     "nat": "Argentina"
+    },
+    {
+     "n": 3,
+     "name": "Miguel Gutiérrez",
+     "ar": "ميجيل جوتيريز",
+     "pos": "Left Back",
+     "nat": "Spain"
+    },
+    {
+     "n": 4,
+     "name": "Jarell Quansah",
+     "ar": "جاريل كوانساه",
+     "pos": "Centre Back",
+     "nat": "England"
+    },
+    {
+     "n": 5,
+     "name": "Loïc Badé",
+     "ar": "لويك بادي",
+     "pos": "Centre Back",
+     "nat": "France"
+    },
+    {
+     "n": 12,
+     "name": "Edmond Tapsoba",
+     "ar": "إيدموند تابسوبا",
+     "pos": "Centre Back",
+     "nat": "Burkina Faso"
+    },
+    {
+     "n": 15,
+     "name": "Tim Oermann",
+     "ar": "تيم أورمان",
+     "pos": "Centre Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 17,
+     "name": "Lucas Vázquez",
+     "ar": "لوكاس فاسكيز",
+     "pos": "Right Back",
+     "nat": "Spain"
+    },
+    {
+     "n": 20,
+     "name": "Guéla Doué",
+     "ar": "جيلا دوي",
+     "pos": "Right Back",
+     "nat": "Ivory Coast"
+    },
+    {
+     "n": 6,
+     "name": "Ezequiel Fernández",
+     "ar": "إزيكويل فرنانديز",
+     "pos": "Defensive Midfield",
+     "nat": "Argentina"
+    },
+    {
+     "n": 7,
+     "name": "Jonas Hofmann",
+     "ar": "جوناس هوفمان",
+     "pos": "Attacking Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 8,
+     "name": "Robert Andrich",
+     "ar": "روبرت أندريخ",
+     "pos": "Defensive Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 10,
+     "name": "Malik Tillman",
+     "ar": "مالك تيلمان",
+     "pos": "Attacking Midfield",
+     "nat": "USA"
+    },
+    {
+     "n": 18,
+     "name": "Kennet Eichhorn",
+     "ar": "كينيت آيكهورن",
+     "pos": "Defensive Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 24,
+     "name": "Aleix Garcia",
+     "ar": "أليكس جارسيا",
+     "pos": "Central Midfield",
+     "nat": "Spain"
+    },
+    {
+     "n": 30,
+     "name": "Ibrahim Maza",
+     "ar": "إبراهيم مازا",
+     "pos": "Attacking Midfield",
+     "nat": "Algeria"
+    },
+    {
+     "n": null,
+     "name": "Ndjicoura Bomba",
+     "ar": "Ndjicoura Bomba",
+     "pos": "Centre Forward",
+     "nat": "Mali"
+    },
+    {
+     "n": 9,
+     "name": "Afonso Moreira",
+     "ar": "أفونسو موريرا",
+     "pos": "Left Forward",
+     "nat": "Portugal"
+    },
+    {
+     "n": 11,
+     "name": "Martin Terrier",
+     "ar": "مارتن تريير",
+     "pos": "Left Forward",
+     "nat": "France"
+    },
+    {
+     "n": 14,
+     "name": "Patrik Schick",
+     "ar": "باتريك شيك",
+     "pos": "Centre Forward",
+     "nat": "Czechia"
+    },
+    {
+     "n": 19,
+     "name": "Moussa Diaby",
+     "ar": "موسى ديابي",
+     "pos": "Right Forward",
+     "nat": "France"
+    },
+    {
+     "n": 22,
+     "name": "Victor Boniface",
+     "ar": "فيكتور بونيفاس",
+     "pos": "Centre Forward",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 23,
+     "name": "Nathan Tella",
+     "ar": "ناثان تيلا",
+     "pos": "Right Forward",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 29,
+     "name": "Eliesse Ben Seghir",
+     "ar": "إلياس بن صغير",
+     "pos": "Left Forward",
+     "nat": "Morocco"
+    },
+    {
+     "n": 35,
+     "name": "Christian Kofane",
+     "ar": "كريستيان كوفاني",
+     "pos": "Centre Forward",
+     "nat": "Cameroon"
+    },
+    {
+     "n": 42,
+     "name": "Montrell Culbreath",
+     "ar": "مونتريل كولبريث",
+     "pos": "Right Forward",
+     "nat": "Germany"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/team/bayer-leverkusen-333/squad",
+    "https://www.365scores.com/ar/football/team/bayer-leverkusen-333/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-bayern-munich",
+   "players": [
+    {
+     "n": 1,
+     "name": "Manuel Neuer",
+     "ar": "مانويل نوير",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 26,
+     "name": "Sven Ulreich",
+     "ar": "زفن أولريخ",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 40,
+     "name": "Jonas Urbig",
+     "ar": "يوناس أوربيغ",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 2,
+     "name": "Dayot Upamecano",
+     "ar": "دايوت أوباميكانو",
+     "pos": "Centre Back",
+     "nat": "France"
+    },
+    {
+     "n": 3,
+     "name": "Kim Min-Jae",
+     "ar": "كيم مين جاي",
+     "pos": "Centre Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 4,
+     "name": "Jonathan Tah",
+     "ar": "جوناتان تاه",
+     "pos": "Centre Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 11,
+     "name": "Nathaniel Brown",
+     "ar": "ناثانيل براون",
+     "pos": "Left Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 19,
+     "name": "Alphonso Davies",
+     "ar": "ألفونسو ديفيز",
+     "pos": "Left Back",
+     "nat": "Canada"
+    },
+    {
+     "n": 21,
+     "name": "Hiroki Ito",
+     "ar": "هيروكي إيتو",
+     "pos": "Centre Back",
+     "nat": "Japan"
+    },
+    {
+     "n": 23,
+     "name": "Sacha Boey",
+     "ar": "ساشا بوي",
+     "pos": "Right Back",
+     "nat": "France"
+    },
+    {
+     "n": 27,
+     "name": "Konrad Laimer",
+     "ar": "كونراد لايمر",
+     "pos": "Right Back",
+     "nat": "Austria"
+    },
+    {
+     "n": 44,
+     "name": "Josip Stanišić",
+     "ar": "جوسيب ستانيشيتش",
+     "pos": "Right Back",
+     "nat": "Croatia"
+    },
+    {
+     "n": 6,
+     "name": "Joshua Kimmich",
+     "ar": "جوشوا كيميتش",
+     "pos": "Defensive Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 8,
+     "name": "Tom Bischof",
+     "ar": "توم بيشوف",
+     "pos": "Central Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 10,
+     "name": "Jamal Musiala",
+     "ar": "جمال موسيالا",
+     "pos": "Attacking Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 34,
+     "name": "Ismael Saibari",
+     "ar": "إسماعيل صيباري",
+     "pos": "Attacking Midfield",
+     "nat": "Morocco"
+    },
+    {
+     "n": 39,
+     "name": "Bara Sapoko Ndiaye",
+     "ar": "بارا ندياي",
+     "pos": "Central Midfield",
+     "nat": "Senegal"
+    },
+    {
+     "n": 42,
+     "name": "Lennart Karl",
+     "ar": "لينارت كارل",
+     "pos": "Attacking Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 45,
+     "name": "Aleksandar Pavlović",
+     "ar": "ألكسندر بافلوفيتش",
+     "pos": "Defensive Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 7,
+     "name": "Serge Gnabry",
+     "ar": "سيرج جنابري",
+     "pos": "Secondary striker",
+     "nat": "Germany"
+    },
+    {
+     "n": 9,
+     "name": "Harry Kane",
+     "ar": "هاري كين",
+     "pos": "Centre Forward",
+     "nat": "England"
+    },
+    {
+     "n": 14,
+     "name": "Luis Díaz",
+     "ar": "لويس دياز",
+     "pos": "Left Forward",
+     "nat": "Colombia"
+    },
+    {
+     "n": 17,
+     "name": "Michael Olise",
+     "ar": "مايكل أوليز",
+     "pos": "Right Forward",
+     "nat": "France"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/bayern-munich-331/squad",
+    "https://www.365scores.com/ar/football/team/bayern-munich-331/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-fc-magdeburg",
+   "players": [
+    {
+     "n": 1,
+     "name": "Dominik Reimann",
+     "ar": "Dominik Reimann",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 30,
+     "name": "Noah Kruth",
+     "ar": "Noah Kruth",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 40,
+     "name": "Robert Kampa",
+     "ar": "Robert Kampa",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 42,
+     "name": "Tjark Möbius",
+     "ar": "Tjark Möbius",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 3,
+     "name": "Anselmo MacNulty",
+     "ar": "أنسيلمو ماكنولتي",
+     "pos": "Centre Back",
+     "nat": "Spain"
+    },
+    {
+     "n": 4,
+     "name": "Eldin Dzogovic",
+     "ar": "إلدين دزوغوفيتش",
+     "pos": "Right Back",
+     "nat": "Luxembourg"
+    },
+    {
+     "n": 5,
+     "name": "Tobias Muller",
+     "ar": "Tobias Muller",
+     "pos": "Centre Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 6,
+     "name": "Paul Jaeckel",
+     "ar": "باول جاكيل",
+     "pos": "Centre Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 7,
+     "name": "Herbert Bockhorn",
+     "ar": "هيربرت بوكهورن",
+     "pos": "Right Back",
+     "nat": "Uganda"
+    },
+    {
+     "n": 15,
+     "name": "Daniel Heber",
+     "ar": "Daniel Heber",
+     "pos": "Centre Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 17,
+     "name": "Alexander Nollenberger",
+     "ar": "Alexander Nollenberger",
+     "pos": "Left Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 19,
+     "name": "Lubambo Musonda",
+     "ar": "لوبامبو موسوندا",
+     "pos": "Left Back",
+     "nat": "Zambia"
+    },
+    {
+     "n": 28,
+     "name": "Pierre Nadjombe",
+     "ar": "Pierre Nadjombe",
+     "pos": "Right Back",
+     "nat": "Togo"
+    },
+    {
+     "n": 34,
+     "name": "Tarek Chahed",
+     "ar": "Tarek Chahed",
+     "pos": "Centre Back",
+     "nat": "Tunisia"
+    },
+    {
+     "n": 10,
+     "name": "Moritz-Broni Kwarteng",
+     "ar": "موريتز-بروني كووارتينج",
+     "pos": "Attacking Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 11,
+     "name": "Felipe Chavez",
+     "ar": "فيليبي تشافيز",
+     "pos": "Central Midfield",
+     "nat": "Peru"
+    },
+    {
+     "n": 14,
+     "name": "Tony Reitz",
+     "ar": "Tony Reitz",
+     "pos": "Defensive Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 21,
+     "name": "Falko Michel",
+     "ar": "Falko Michel",
+     "pos": "Central Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 26,
+     "name": "Torben Müsel",
+     "ar": "توربين موسيل",
+     "pos": "Attacking Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 33,
+     "name": "Leon Mergner",
+     "ar": "Leon Mergner",
+     "pos": "Central Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 38,
+     "name": "Luka Hyryläinen",
+     "ar": "لوكا هيريلاينين",
+     "pos": "Defensive Midfield",
+     "nat": "Finland"
+    },
+    {
+     "n": 8,
+     "name": "Emmanuel Iyoha",
+     "ar": "Emmanuel Iyoha",
+     "pos": "Right Forward",
+     "nat": "Germany"
+    },
+    {
+     "n": 9,
+     "name": "Roko Simic",
+     "ar": "روكو سيميتش",
+     "pos": "Centre Forward",
+     "nat": "Croatia"
+    },
+    {
+     "n": 18,
+     "name": "Chung-hyun Lee",
+     "ar": "Chung-hyun Lee",
+     "pos": "Centre Forward",
+     "nat": "South Korea"
+    },
+    {
+     "n": 20,
+     "name": "Kevin Manthey",
+     "ar": "Kevin Manthey",
+     "pos": "Centre Forward",
+     "nat": "Germany"
+    },
+    {
+     "n": 22,
+     "name": "Mateusz Zukowski",
+     "ar": "ماتيوس جوكوفسكي",
+     "pos": "Centre Forward",
+     "nat": "Poland"
+    },
+    {
+     "n": 23,
+     "name": "Baris Atik",
+     "ar": "بارايس عتيق",
+     "pos": "Left Forward",
+     "nat": "Germany"
+    },
+    {
+     "n": 27,
+     "name": "Do-young Yoon",
+     "ar": "دو يونغ يون",
+     "pos": "Right Forward",
+     "nat": "South Korea"
+    },
+    {
+     "n": 29,
+     "name": "Richmond Tachie",
+     "ar": "Richmond Tachie",
+     "pos": "Centre Forward",
+     "nat": "Germany"
+    },
+    {
+     "n": 35,
+     "name": "Magnus Baars",
+     "ar": "Magnus Baars",
+     "pos": "Right Forward",
+     "nat": "Germany"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/fc-magdeburg-400/squad",
+    "https://www.365scores.com/ar/football/team/fc-magdeburg-400/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "it-hellas-verona",
+   "players": [
+    {
+     "n": null,
+     "name": "Nicola Leali",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Italy"
+    },
+    {
+     "n": 1,
+     "name": "Lorenzo Montipo",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Italy"
+    },
+    {
+     "n": 34,
+     "name": "Simone Perilli",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Italy"
+    },
+    {
+     "n": 47,
+     "name": "Arthur Borghi",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Brazil"
+    },
+    {
+     "n": 94,
+     "name": "Giacomo Toniolo",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Italy"
+    },
+    {
+     "n": null,
+     "name": "Seid Korac",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Luxembourg"
+    },
+    {
+     "n": null,
+     "name": "Nicolo Calabrese",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Italy"
+    },
+    {
+     "n": null,
+     "name": "Christian Corradi",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Italy"
+    },
+    {
+     "n": null,
+     "name": "Davide De Battisti",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 2,
+     "name": "Daniel Oyegoke",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "England"
+    },
+    {
+     "n": 3,
+     "name": "Martin Frese",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Denmark"
+    },
+    {
+     "n": 5,
+     "name": "Andrias Edmundsson",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Faroe Islands"
+    },
+    {
+     "n": 7,
+     "name": "Rafik Belghali",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Algeria"
+    },
+    {
+     "n": 12,
+     "name": "Domagoj Bradarić",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Croatia"
+    },
+    {
+     "n": 19,
+     "name": "Tobias Slotsager",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Denmark"
+    },
+    {
+     "n": 70,
+     "name": "Fallou Cham",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Gambia"
+    },
+    {
+     "n": null,
+     "name": "Grigoris Kastanos",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Cyprus"
+    },
+    {
+     "n": null,
+     "name": "Mattia Compagnon",
+     "ar": "",
+     "pos": "Right Midfield",
+     "nat": "Italy"
+    },
+    {
+     "n": null,
+     "name": "Charlys",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Brazil"
+    },
+    {
+     "n": null,
+     "name": "Leorat Bega",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 8,
+     "name": "Suat Serdar",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 10,
+     "name": "Tomas Suslov",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 21,
+     "name": "Abdou Harroui",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Morocco"
+    },
+    {
+     "n": 24,
+     "name": "Antoine Bernede",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "France"
+    },
+    {
+     "n": 36,
+     "name": "Cheikh Niasse",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Senegal"
+    },
+    {
+     "n": null,
+     "name": "Samuele Mulattieri",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Italy"
+    },
+    {
+     "n": null,
+     "name": "Juan Cruz",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Argentina"
+    },
+    {
+     "n": null,
+     "name": "Kacper Sezonienko",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Poland"
+    },
+    {
+     "n": null,
+     "name": "Federico Caia",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Italy"
+    },
+    {
+     "n": null,
+     "name": "Livramento",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Cape Verde"
+    },
+    {
+     "n": null,
+     "name": "Ruben Akalé",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "France"
+    },
+    {
+     "n": null,
+     "name": "Salvatore Cerbone",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Italy"
+    },
+    {
+     "n": 9,
+     "name": "Amin Sarr",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Sweden"
+    },
+    {
+     "n": 25,
+     "name": "Daniel Mosquera",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Colombia"
+    },
+    {
+     "n": 41,
+     "name": "Isaac",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Brazil"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/hellas-verona-316/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "at-lask",
+   "players": [
+    {
+     "n": 1,
+     "name": "Lukas Jungwirth",
+     "ar": "لوكاس يونجفيرث",
+     "pos": "Goalkeeper",
+     "nat": "Austria"
+    },
+    {
+     "n": 33,
+     "name": "Tobias Schützenauer",
+     "ar": "توبياس شوتسيناور",
+     "pos": "Goalkeeper",
+     "nat": "Austria"
+    },
+    {
+     "n": 50,
+     "name": "Fabian Schillinger",
+     "ar": "فابيان شيلينغر",
+     "pos": "Goalkeeper",
+     "nat": "Austria"
+    },
+    {
+     "n": 2,
+     "name": "George Bello",
+     "ar": "جورج بيلو",
+     "pos": "Left Back",
+     "nat": "USA"
+    },
+    {
+     "n": 3,
+     "name": "Miguel Freckleton",
+     "ar": "ميغيل فريكلتون",
+     "pos": "Centre Back",
+     "nat": "England"
+    },
+    {
+     "n": 4,
+     "name": "Xavier Mbuyamba",
+     "ar": "كزافييه مبويامبا",
+     "pos": "Centre Back",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 16,
+     "name": "Andres Andrade",
+     "ar": "أندريس أندرادي",
+     "pos": "Centre Back",
+     "nat": "Panama"
+    },
+    {
+     "n": 20,
+     "name": "Kasper Jorgensen",
+     "ar": "كاسبر يورغنسن",
+     "pos": "Right Back",
+     "nat": "Denmark"
+    },
+    {
+     "n": 21,
+     "name": "Manoël Verhaeghe",
+     "ar": "مانويل فيرهاغ",
+     "pos": "Centre Back",
+     "nat": "DR Congo"
+    },
+    {
+     "n": 23,
+     "name": "Daniel Elfadli",
+     "ar": "دانيل الفاضلي",
+     "pos": "Centre Back",
+     "nat": "Libya"
+    },
+    {
+     "n": 25,
+     "name": "Yvan Dibango",
+     "ar": "إيفان ديبانغو",
+     "pos": "Left Back",
+     "nat": "Cameroon"
+    },
+    {
+     "n": 43,
+     "name": "João Tornich",
+     "ar": "جواو تورنيش",
+     "pos": "Centre Back",
+     "nat": "Brazil"
+    },
+    {
+     "n": 52,
+     "name": "Cheikne Kébé",
+     "ar": "Cheikne Kébé",
+     "pos": "Centre Back",
+     "nat": "Mali"
+    },
+    {
+     "n": 5,
+     "name": "Art Smakaj",
+     "ar": "آرت سماكاي",
+     "pos": "Defensive Midfield",
+     "nat": "Kosovo"
+    },
+    {
+     "n": 6,
+     "name": "Melayro Bogarde",
+     "ar": "ملييرو بوجاردا",
+     "pos": "Defensive Midfield",
+     "nat": "Suriname"
+    },
+    {
+     "n": 9,
+     "name": "Krystof Danek",
+     "ar": "كريشتوف دانيك",
+     "pos": "Attacking Midfield",
+     "nat": "Czechia"
+    },
+    {
+     "n": 10,
+     "name": "Robert Ljubicic",
+     "ar": "روبرت ليوبيسيتش",
+     "pos": "Central Midfield",
+     "nat": "Croatia"
+    },
+    {
+     "n": 18,
+     "name": "Alessandro Schöpf",
+     "ar": "أليساندرو شوبف",
+     "pos": "Central Midfield",
+     "nat": "Austria"
+    },
+    {
+     "n": 29,
+     "name": "Florian Flecker",
+     "ar": "فلوريان فليكر",
+     "pos": "Right Midfield",
+     "nat": "Austria"
+    },
+    {
+     "n": 30,
+     "name": "Sascha Horvath",
+     "ar": "ساشا هورفات",
+     "pos": "Attacking Midfield",
+     "nat": "Austria"
+    },
+    {
+     "n": 7,
+     "name": "Samuel Adeniran",
+     "ar": "صامويل أدينيران",
+     "pos": "Centre Forward",
+     "nat": "USA"
+    },
+    {
+     "n": 8,
+     "name": "Moses Usor",
+     "ar": "موزيس أسور",
+     "pos": "Centre Forward",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 11,
+     "name": "Sasa Kalajdzic",
+     "ar": "ساسا كالادزيتش",
+     "pos": "Centre Forward",
+     "nat": "Austria"
+    },
+    {
+     "n": 22,
+     "name": "Ramiz Harakaté",
+     "ar": "رامز هركاتيه",
+     "pos": "Centre Forward",
+     "nat": "France"
+    },
+    {
+     "n": 27,
+     "name": "Christoph Lang",
+     "ar": "كريستوف لانغ",
+     "pos": "Centre Forward",
+     "nat": "Austria"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/team/lask-linz-1743/squad",
+    "https://www.365scores.com/ar/football/team/lask-linz-1743/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "az-sabah",
+   "players": [
+    {
+     "n": 1,
+     "name": "Amin Ramazanov",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Azerbaijan"
+    },
+    {
+     "n": 92,
+     "name": "Stas Pokatilov",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Kazakhstan"
+    },
+    {
+     "n": null,
+     "name": "Junior Almeida",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Brazil"
+    },
+    {
+     "n": null,
+     "name": "Aden McCarthy",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "South Africa"
+    },
+    {
+     "n": 3,
+     "name": "Steve Solvet",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Guadeloupe"
+    },
+    {
+     "n": 5,
+     "name": "Rahman Dashdamirov",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Azerbaijan"
+    },
+    {
+     "n": 17,
+     "name": "Tellur Mutallimov",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Azerbaijan"
+    },
+    {
+     "n": 27,
+     "name": "Tymoteusz Puchacz",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Poland"
+    },
+    {
+     "n": 80,
+     "name": "Akim Zedadka",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Algeria"
+    },
+    {
+     "n": 6,
+     "name": "Abdulakh Khaybulayev",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Azerbaijan"
+    },
+    {
+     "n": 7,
+     "name": "Umarali Rahmonaliyev",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Uzbekistan"
+    },
+    {
+     "n": 10,
+     "name": "Aleksey Isayev",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Azerbaijan"
+    },
+    {
+     "n": 13,
+     "name": "Ivan Lepinjica",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Croatia"
+    },
+    {
+     "n": 16,
+     "name": "Rauf Rustamli",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Azerbaijan"
+    },
+    {
+     "n": 22,
+     "name": "Zinedine Ould Khaled",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "France"
+    },
+    {
+     "n": 37,
+     "name": "Du Queiroz",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Brazil"
+    },
+    {
+     "n": 88,
+     "name": "Rodrigo Fernandes",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Portugal"
+    },
+    {
+     "n": 89,
+     "name": "Jafar Mukhtarov",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Azerbaijan"
+    },
+    {
+     "n": null,
+     "name": "Veljko Simic",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Serbia"
+    },
+    {
+     "n": null,
+     "name": "Xander Severina",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "Curaçao"
+    },
+    {
+     "n": null,
+     "name": "Younes Lachaab",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "France"
+    },
+    {
+     "n": 8,
+     "name": "Christian Nwachukwu",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 9,
+     "name": "Khayal Aliyev",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Azerbaijan"
+    },
+    {
+     "n": 11,
+     "name": "Kaheem Parris",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "Jamaica"
+    },
+    {
+     "n": 18,
+     "name": "Carlos Eduardo",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 20,
+     "name": "Joy-Lance Mickels",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Rwanda"
+    },
+    {
+     "n": 99,
+     "name": "Orphé Mbina",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Gabon"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/sabah-50201/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "be-club-brugge",
+   "players": [
+    {
+     "n": null,
+     "name": "Yann Sommer",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 29,
+     "name": "Nordin Jackers",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Belgium"
+    },
+    {
+     "n": 71,
+     "name": "Axl De Corte",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Belgium"
+    },
+    {
+     "n": 81,
+     "name": "Argus Vanden Driessche",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Belgium"
+    },
+    {
+     "n": null,
+     "name": "Joel Ordonez",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Ecuador"
+    },
+    {
+     "n": 14,
+     "name": "Bjorn Meijer",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 24,
+     "name": "Vince Osuji",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Sweden"
+    },
+    {
+     "n": 41,
+     "name": "Hugo Siquet",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Belgium"
+    },
+    {
+     "n": 44,
+     "name": "Brandon Mechele",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Belgium"
+    },
+    {
+     "n": 58,
+     "name": "Jorne Spileers",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Belgium"
+    },
+    {
+     "n": 64,
+     "name": "Kyriani Sabbe",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Belgium"
+    },
+    {
+     "n": 65,
+     "name": "Joaquin Seys",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Belgium"
+    },
+    {
+     "n": null,
+     "name": "Cheveyo Tsawa",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 6,
+     "name": "Ludovit Reis",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 10,
+     "name": "Hugo Vetlesen",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Norway"
+    },
+    {
+     "n": 11,
+     "name": "Cisse Sandra",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Belgium"
+    },
+    {
+     "n": 15,
+     "name": "Raphael Onyedika",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 20,
+     "name": "Hans Vanaken",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Belgium"
+    },
+    {
+     "n": 62,
+     "name": "Lynnt Audoor",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Belgium"
+    },
+    {
+     "n": 80,
+     "name": "Félix Lemaréchal",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "France"
+    },
+    {
+     "n": 85,
+     "name": "Tian Nai Koren",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Slovenia"
+    },
+    {
+     "n": 86,
+     "name": "Gianluca Okon-Engstler",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Italy"
+    },
+    {
+     "n": null,
+     "name": "Andrej Vasovic",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 7,
+     "name": "Nicolò Tresoldi",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Germany"
+    },
+    {
+     "n": 9,
+     "name": "Carlos Forbs",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Portugal"
+    },
+    {
+     "n": 17,
+     "name": "Romeo Vermant",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Belgium"
+    },
+    {
+     "n": 19,
+     "name": "Gustaf Nilsson",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Sweden"
+    },
+    {
+     "n": 67,
+     "name": "Mamadou Diakhon",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Senegal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/club-brugge-1169/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "cz-slavia-prague",
+   "players": [
+    {
+     "n": 1,
+     "name": "Ondrej Kolar",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Czechia"
+    },
+    {
+     "n": 29,
+     "name": "Nazar Domchak",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 35,
+     "name": "Jakub Markovic",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Czechia"
+    },
+    {
+     "n": null,
+     "name": "Hamidou Kante",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Senegal"
+    },
+    {
+     "n": 2,
+     "name": "Štěpán Chaloupek",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Czechia"
+    },
+    {
+     "n": 3,
+     "name": "Tomas Holeš",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Czechia"
+    },
+    {
+     "n": 4,
+     "name": "David Zima",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Czechia"
+    },
+    {
+     "n": 5,
+     "name": "Igoh Ogbu",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 6,
+     "name": "Ange N'Guessan",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "France"
+    },
+    {
+     "n": 14,
+     "name": "Samuel Isife",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 27,
+     "name": "Tomáš Vlček",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Czechia"
+    },
+    {
+     "n": 39,
+     "name": "David Jurasek",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Czechia"
+    },
+    {
+     "n": 42,
+     "name": "Mikuláš Konečný",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Czechia"
+    },
+    {
+     "n": 43,
+     "name": "Eliáš Piták",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Czechia"
+    },
+    {
+     "n": 8,
+     "name": "Oskar Kubiak",
+     "ar": "",
+     "pos": "Left Midfield",
+     "nat": "Poland"
+    },
+    {
+     "n": 15,
+     "name": "Mubarak Suleiman",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 16,
+     "name": "David Moses",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 20,
+     "name": "Emmanuel Ayaosi",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 22,
+     "name": "Toumani Diakité",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Ivory Coast"
+    },
+    {
+     "n": 23,
+     "name": "Michal Sadilek",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Czechia"
+    },
+    {
+     "n": 30,
+     "name": "Wiktor Nowak",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Poland"
+    },
+    {
+     "n": 10,
+     "name": "Danijel Šturm",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Slovenia"
+    },
+    {
+     "n": 13,
+     "name": "Mojmir Chytil",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Czechia"
+    },
+    {
+     "n": 17,
+     "name": "Lukas Provod",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Czechia"
+    },
+    {
+     "n": 18,
+     "name": "Adonija Ouanda",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "Canada"
+    },
+    {
+     "n": 25,
+     "name": "Tomas Chorý",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Czechia"
+    },
+    {
+     "n": 26,
+     "name": "Ivan Schranz",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 32,
+     "name": "Pavel Kačor",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Czechia"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/slavia-praha-1789/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "fr-lens",
+   "players": [
+    {
+     "n": 1,
+     "name": "Regis Gurtner",
+     "ar": "ريغيس غورتنير",
+     "pos": "Goalkeeper",
+     "nat": "France"
+    },
+    {
+     "n": 16,
+     "name": "Mathieu Gorgelin",
+     "ar": "ماثيو غورغلين",
+     "pos": "Goalkeeper",
+     "nat": "France"
+    },
+    {
+     "n": 40,
+     "name": "Robin Risser",
+     "ar": "روبن ريسر",
+     "pos": "Goalkeeper",
+     "nat": "France"
+    },
+    {
+     "n": 60,
+     "name": "Ilan Jourdren",
+     "ar": "إيلان جوردرن",
+     "pos": "Goalkeeper",
+     "nat": "France"
+    },
+    {
+     "n": null,
+     "name": "Jhoanner Chávez",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Ecuador"
+    },
+    {
+     "n": 2,
+     "name": "Ruben Aguilar",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "France"
+    },
+    {
+     "n": 3,
+     "name": "Maik Nawrocki",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Poland"
+    },
+    {
+     "n": 4,
+     "name": "Nidal Celik",
+     "ar": "نيدال تشيليك",
+     "pos": "Centre Back",
+     "nat": "Bosnia & Herzegovina"
+    },
+    {
+     "n": 6,
+     "name": "Samson Baidoo",
+     "ar": "سامسون بايدو",
+     "pos": "Centre Back",
+     "nat": "Austria"
+    },
+    {
+     "n": 14,
+     "name": "Matthieu Udol",
+     "ar": "ماثيو ادول",
+     "pos": "Left Back",
+     "nat": "France"
+    },
+    {
+     "n": 20,
+     "name": "Jean-Clair Todibo",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "France"
+    },
+    {
+     "n": 23,
+     "name": "Saud Abdulhamid",
+     "ar": "سعود عبدالحميد",
+     "pos": "Right Back",
+     "nat": "Saudi Arabia"
+    },
+    {
+     "n": 24,
+     "name": "Jonathan Gradit",
+     "ar": "جوناثان جراديت",
+     "pos": "Centre Back",
+     "nat": "France"
+    },
+    {
+     "n": 25,
+     "name": "Ismaëlo Ganiou",
+     "ar": "إسماعيل جانيو",
+     "pos": "Centre Back",
+     "nat": "France"
+    },
+    {
+     "n": 31,
+     "name": "Souleymane Sagnan",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Mali"
+    },
+    {
+     "n": 32,
+     "name": "Kyllian Antonio",
+     "ar": "كيليان أنطونيو",
+     "pos": "Centre Back",
+     "nat": "France"
+    },
+    {
+     "n": 5,
+     "name": "Andrija Bulatović",
+     "ar": "أندريا بولاتوفيتش",
+     "pos": "Central Midfield",
+     "nat": "Montenegro"
+    },
+    {
+     "n": 8,
+     "name": "Yassine Titraoui",
+     "ar": "ياسين تيطراوي",
+     "pos": "Central Midfield",
+     "nat": "Algeria"
+    },
+    {
+     "n": 9,
+     "name": "Thorgan Hazard",
+     "ar": "ثورجان هازارد",
+     "pos": "Attacking Midfield",
+     "nat": "Belgium"
+    },
+    {
+     "n": 21,
+     "name": "Amadou Haidara",
+     "ar": "امادو هيدارا",
+     "pos": "Central Midfield",
+     "nat": "Mali"
+    },
+    {
+     "n": 27,
+     "name": "Mickael Cuisance",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "France"
+    },
+    {
+     "n": 38,
+     "name": "Mezian Mesloub",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Portugal"
+    },
+    {
+     "n": 7,
+     "name": "Florian Sotoca",
+     "ar": "فلورون سوطوكا",
+     "pos": "Centre Forward",
+     "nat": "France"
+    },
+    {
+     "n": 10,
+     "name": "Florian Thauvin",
+     "ar": "فلوران توفين",
+     "pos": "Right Forward",
+     "nat": "France"
+    },
+    {
+     "n": 11,
+     "name": "Odsonne Edouard",
+     "ar": "اودسون ادوارد",
+     "pos": "Centre Forward",
+     "nat": "France"
+    },
+    {
+     "n": 19,
+     "name": "Abdallah Sima",
+     "ar": "عبد الله ديبو سيما",
+     "pos": "Left Forward",
+     "nat": "Senegal"
+    },
+    {
+     "n": 22,
+     "name": "Michal Skóraś",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Poland"
+    },
+    {
+     "n": 28,
+     "name": "Junior Kadile",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "DR Congo"
+    },
+    {
+     "n": 29,
+     "name": "Franjo Ivanović",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Croatia"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/lens-481/squad",
+    "https://www.365scores.com/ar/football/team/lens-481/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "fr-lille",
+   "players": [
+    {
+     "n": 1,
+     "name": "Berke Özer",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Turkiye"
+    },
+    {
+     "n": 16,
+     "name": "Arnaud Bodart",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Belgium"
+    },
+    {
+     "n": null,
+     "name": "Isaac Cossier",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "France"
+    },
+    {
+     "n": 2,
+     "name": "Loun Srdanovic",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 3,
+     "name": "Nathan Ngoy",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Belgium"
+    },
+    {
+     "n": 4,
+     "name": "Alexsandro Ribeiro",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Brazil"
+    },
+    {
+     "n": 15,
+     "name": "Romain Perraud",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "France"
+    },
+    {
+     "n": 22,
+     "name": "Tiago Santos",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Portugal"
+    },
+    {
+     "n": 23,
+     "name": "Tanguy Nianzou",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "France"
+    },
+    {
+     "n": 24,
+     "name": "Calvin Verdonk",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Indonesia"
+    },
+    {
+     "n": 36,
+     "name": "Ousmane Touré",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "France"
+    },
+    {
+     "n": 6,
+     "name": "Nabil Bentaleb",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Algeria"
+    },
+    {
+     "n": 10,
+     "name": "Hakon Haraldsson",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Iceland"
+    },
+    {
+     "n": 17,
+     "name": "Ngal'ayel Mukau",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "DR Congo"
+    },
+    {
+     "n": 19,
+     "name": "Basar Onal",
+     "ar": "",
+     "pos": "Left Midfield",
+     "nat": "Turkiye"
+    },
+    {
+     "n": 21,
+     "name": "Benjamin André",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "France"
+    },
+    {
+     "n": 32,
+     "name": "Ayyoub Bouaddi",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Morocco"
+    },
+    {
+     "n": null,
+     "name": "Mohamed Bayo",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Guinea"
+    },
+    {
+     "n": null,
+     "name": "Tiago Morais",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Portugal"
+    },
+    {
+     "n": 7,
+     "name": "Matias Fernandez-Pardo",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Belgium"
+    },
+    {
+     "n": 8,
+     "name": "Ethan Mbappé",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "France"
+    },
+    {
+     "n": 9,
+     "name": "Olivier Giroud",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "France"
+    },
+    {
+     "n": 11,
+     "name": "Osame Sahraoui",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Morocco"
+    },
+    {
+     "n": 14,
+     "name": "Marius Broholm",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "Norway"
+    },
+    {
+     "n": 20,
+     "name": "Noah Edjouma",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "France"
+    },
+    {
+     "n": 27,
+     "name": "Félix Correia",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Portugal"
+    },
+    {
+     "n": 28,
+     "name": "Gaetan Perrin",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "France"
+    },
+    {
+     "n": 29,
+     "name": "Hamza Igamane",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Morocco"
+    },
+    {
+     "n": 35,
+     "name": "Soriba Diaoune",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "France"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/lille-478/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "sk-slovan-bratislava",
+   "players": [
+    {
+     "n": 1,
+     "name": "Aleksandar Popovic",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Serbia"
+    },
+    {
+     "n": 44,
+     "name": "Matus Macik",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 71,
+     "name": "Dominik Takáč",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 2,
+     "name": "Samuel Kozlovsky",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 6,
+     "name": "Kevin Wimmer",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Austria"
+    },
+    {
+     "n": 12,
+     "name": "Kenan Bajric",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Slovenia"
+    },
+    {
+     "n": 15,
+     "name": "Svetozar Markovic",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Serbia"
+    },
+    {
+     "n": 17,
+     "name": "Jurij Medvedev",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Czechia"
+    },
+    {
+     "n": 28,
+     "name": "Cesar Blackman",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Panama"
+    },
+    {
+     "n": 49,
+     "name": "Sahmkou Camara",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Guinea"
+    },
+    {
+     "n": 57,
+     "name": "Sandro Cruz",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Angola"
+    },
+    {
+     "n": 3,
+     "name": "Peter Pokorný",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 5,
+     "name": "Rahim Ibrahim",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Ghana"
+    },
+    {
+     "n": 8,
+     "name": "Artur Gajdoš",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 20,
+     "name": "Alen Mustafić",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Bosnia & Herzegovina"
+    },
+    {
+     "n": 41,
+     "name": "Daiki Matsuoka",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Japan"
+    },
+    {
+     "n": 70,
+     "name": "Cristian Martinez",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Panama"
+    },
+    {
+     "n": 77,
+     "name": "Danylo Ignatenko",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 9,
+     "name": "Mykola Kukharevych",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 10,
+     "name": "Nino Marcelli",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 11,
+     "name": "Tigran Barseghyan",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "Armenia"
+    },
+    {
+     "n": 13,
+     "name": "Roman Cerepkai",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 14,
+     "name": "Alasana Yirajang",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Gambia"
+    },
+    {
+     "n": 19,
+     "name": "Manasse Kianga",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "England"
+    },
+    {
+     "n": 21,
+     "name": "Suleiman Camara",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "Gambia"
+    },
+    {
+     "n": 24,
+     "name": "Matus Tomasko",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 29,
+     "name": "Alexej Maros",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 30,
+     "name": "Adam Griger",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 99,
+     "name": "Andraž Šporar",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Slovenia"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/team/slovan-bratislava-2112/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "kr-daejeon-hana-citizen",
+   "players": [
+    {
+     "n": 1,
+     "name": "Lee Chang-Geun",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "South Korea"
+    },
+    {
+     "n": 25,
+     "name": "Lee Joon-Seo",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "South Korea"
+    },
+    {
+     "n": 31,
+     "name": "Min-Soo Kim",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "South Korea"
+    },
+    {
+     "n": 40,
+     "name": "Kyeong-tae Lee",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "South Korea"
+    },
+    {
+     "n": 2,
+     "name": "Kyu-hyun Park",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 3,
+     "name": "Min-duk Kim",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 4,
+     "name": "Sung-gwon Cho",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 5,
+     "name": "Lim Jong-Eun",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 6,
+     "name": "Yun-sung Kang",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 13,
+     "name": "Jin-ya Kim",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 16,
+     "name": "Lee Myung-Jae",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 22,
+     "name": "Jae-suk Oh",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 23,
+     "name": "Young-jae Seo",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 26,
+     "name": "Lee Jung-Taek",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 33,
+     "name": "Moon-hwan Kim",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 42,
+     "name": "Lim Yu-Seok",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 45,
+     "name": "Chang-rae Ha",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 98,
+     "name": "Anton Krivotsyuk",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Azerbaijan"
+    },
+    {
+     "n": 8,
+     "name": "Victor Bobsin",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Brazil"
+    },
+    {
+     "n": 14,
+     "name": "Kim Joon-Beom",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "South Korea"
+    },
+    {
+     "n": 20,
+     "name": "Hyeon-sik Lee",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "South Korea"
+    },
+    {
+     "n": 30,
+     "name": "Bong-soo Kim",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "South Korea"
+    },
+    {
+     "n": 41,
+     "name": "Park Byeong-Chan",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "South Korea"
+    },
+    {
+     "n": 44,
+     "name": "Lee Soon-Min",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "South Korea"
+    },
+    {
+     "n": 7,
+     "name": "Masatoshi Ishida",
+     "ar": "",
+     "pos": "Secondary striker",
+     "nat": "Japan"
+    },
+    {
+     "n": 9,
+     "name": "Diogo Oliveira",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 10,
+     "name": "Joo Min-Kyu",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "South Korea"
+    },
+    {
+     "n": 11,
+     "name": "Um Won-Sang",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "South Korea"
+    },
+    {
+     "n": 17,
+     "name": "Gustav Ludwigson",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Sweden"
+    },
+    {
+     "n": 19,
+     "name": "Seo Jin-Su",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "South Korea"
+    },
+    {
+     "n": 27,
+     "name": "Jae-hee Jeong",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "South Korea"
+    },
+    {
+     "n": 29,
+     "name": "Moon Geon-Ho",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "South Korea"
+    },
+    {
+     "n": 70,
+     "name": "Kim Hyeon-Ug",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "South Korea"
+    },
+    {
+     "n": 77,
+     "name": "João Victor",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 99,
+     "name": "Yu Kang-Hyun",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "South Korea"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/team/daejeon-citizen-9816/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "my-johor-darul-ta-zim",
+   "players": [
+    {
+     "n": null,
+     "name": "Syihan Hazmi",
+     "ar": "سيهان حازمي",
+     "pos": "Goalkeeper",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 1,
+     "name": "Christian Abad",
+     "ar": "كريستيان عباد",
+     "pos": "Goalkeeper",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 58,
+     "name": "Andoni Zubiaurre",
+     "ar": "اندوني زوبياوري",
+     "pos": "Goalkeeper",
+     "nat": "Spain"
+    },
+    {
+     "n": null,
+     "name": "La'Vere Corbin-Ong",
+     "ar": "لا فير كوربين أونغ",
+     "pos": "Centre Back",
+     "nat": "Malaysia"
+    },
+    {
+     "n": null,
+     "name": "Dani Bolt",
+     "ar": "داني بولت",
+     "pos": "Right Back",
+     "nat": "Brazil"
+    },
+    {
+     "n": null,
+     "name": "Matthew Davies",
+     "ar": "ماثيو دافيس",
+     "pos": "Right Back",
+     "nat": "Malaysia"
+    },
+    {
+     "n": null,
+     "name": "Shahrul Saad",
+     "ar": "شهرول سعد",
+     "pos": "Centre Back",
+     "nat": "Malaysia"
+    },
+    {
+     "n": null,
+     "name": "Syahmi Safari",
+     "ar": "سياهمي سفاري",
+     "pos": "Centre Back",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 5,
+     "name": "Antonio Glauder",
+     "ar": "أنطونيو جلادر",
+     "pos": "Centre Back",
+     "nat": "Spain"
+    },
+    {
+     "n": 13,
+     "name": "Jun Heong Park",
+     "ar": "بارك جون هيونج",
+     "pos": "Centre Back",
+     "nat": "South Korea"
+    },
+    {
+     "n": 14,
+     "name": "Shane Lowry",
+     "ar": "شين لوري",
+     "pos": "Centre Back",
+     "nat": "Australia"
+    },
+    {
+     "n": 15,
+     "name": "Feroz Baharudin",
+     "ar": "فيروز باهاريدين",
+     "pos": "Centre Back",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 17,
+     "name": "Jon Irazábal",
+     "ar": "جون إيرازابال",
+     "pos": "Centre Back",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 33,
+     "name": "Jonathan Silva",
+     "ar": "جونثان سيلفا",
+     "pos": "Left Back",
+     "nat": "Argentina"
+    },
+    {
+     "n": 44,
+     "name": "Miquel Cuesta",
+     "ar": "ميغيل كويستا",
+     "pos": "Centre Back",
+     "nat": "Spain"
+    },
+    {
+     "n": 81,
+     "name": "Kevin Medina",
+     "ar": "كيفن ميدينا",
+     "pos": "Centre Back",
+     "nat": "Colombia"
+    },
+    {
+     "n": null,
+     "name": "Natxo Insa",
+     "ar": "ناتكسو إنسا",
+     "pos": "Central Midfield",
+     "nat": "Malaysia"
+    },
+    {
+     "n": null,
+     "name": "Syamer Kutty",
+     "ar": "محمد سمير",
+     "pos": "Central Midfield",
+     "nat": "Malaysia"
+    },
+    {
+     "n": null,
+     "name": "Aysar Hadi",
+     "ar": "أيسر هادي",
+     "pos": "Central Midfield",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 4,
+     "name": "Afiq Fazail",
+     "ar": "أفيق فزايل",
+     "pos": "Central Midfield",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 6,
+     "name": "Nathaniel Shio Hong Wan",
+     "ar": "هونج وان",
+     "pos": "Defensive Midfield",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 7,
+     "name": "Enzo Lombardo",
+     "ar": "إنزو لومباردو",
+     "pos": "Central Midfield",
+     "nat": "France"
+    },
+    {
+     "n": 8,
+     "name": "Hector Hevel",
+     "ar": "هيكتور هيفيل",
+     "pos": "Central Midfield",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 18,
+     "name": "Nené",
+     "ar": "كوريا نيني",
+     "pos": "Defensive Midfield",
+     "nat": "Portugal"
+    },
+    {
+     "n": 21,
+     "name": "Muhamad Nazmi Faiz",
+     "ar": "محمد نظمي فايز",
+     "pos": "Central Midfield",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 21,
+     "name": "Dejan Petrovič",
+     "ar": "ديان بيتروفيتش",
+     "pos": "Central Midfield",
+     "nat": "Slovenia"
+    },
+    {
+     "n": 23,
+     "name": "Eddy Israfilov",
+     "ar": "إيدي إسرافيلوف",
+     "pos": "Attacking Midfield",
+     "nat": "Azerbaijan"
+    },
+    {
+     "n": 28,
+     "name": "Nacho Mendez",
+     "ar": "ناتشو مينديز",
+     "pos": "Central Midfield",
+     "nat": "Spain"
+    },
+    {
+     "n": 40,
+     "name": "Adam Farhan",
+     "ar": "أدم فرحان",
+     "pos": "Central Midfield",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 80,
+     "name": "Danish Hakimi",
+     "ar": "دانيش حكيمي",
+     "pos": "Central Midfield",
+     "nat": "Malaysia"
+    },
+    {
+     "n": null,
+     "name": "Romel Morales",
+     "ar": "روميل موراليس",
+     "pos": "Centre Forward",
+     "nat": "Malaysia"
+    },
+    {
+     "n": null,
+     "name": "Yago César",
+     "ar": "ياغو سيزار",
+     "pos": "Left Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": null,
+     "name": "Arif Aiman",
+     "ar": "أريف أيمن",
+     "pos": "Right Forward",
+     "nat": "Malaysia"
+    },
+    {
+     "n": null,
+     "name": "Daniesh Amirruddin",
+     "ar": "دانيش أميرالدين",
+     "pos": "Left Forward",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 7,
+     "name": "Shahab Zahedi",
+     "ar": "شهاب زاهدي",
+     "pos": "Centre Forward",
+     "nat": "Iran"
+    },
+    {
+     "n": 9,
+     "name": "Bergson",
+     "ar": "بيرجسون",
+     "pos": "Centre Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 11,
+     "name": "Jairo da Silva",
+     "ar": "جايرو دا سيلفا",
+     "pos": "Secondary Striker",
+     "nat": "Brazil"
+    },
+    {
+     "n": 13,
+     "name": "Mohamadou Sumareh",
+     "ar": "محمدو سوماريه",
+     "pos": "Right Forward",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 20,
+     "name": "Teto Martin",
+     "ar": "تيتو مارتن",
+     "pos": "Right Forward",
+     "nat": "Spain"
+    },
+    {
+     "n": 24,
+     "name": "Oscar Arribas",
+     "ar": "أوسكار أريباس",
+     "pos": "Secondary Striker",
+     "nat": "Spain"
+    },
+    {
+     "n": 25,
+     "name": "João Figueiredo",
+     "ar": "جواو فيغويريدو",
+     "pos": "Centre Forward",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 36,
+     "name": "Pavithran Gunalan",
+     "ar": "بافيثران جونالان",
+     "pos": "Centre Forward",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 37,
+     "name": "Heberty",
+     "ar": "هيبرتي",
+     "pos": "Secondary Striker",
+     "nat": "Brazil"
+    },
+    {
+     "n": 47,
+     "name": "Ager Aketxe",
+     "ar": "أجير أكيتكس",
+     "pos": "Right Forward",
+     "nat": "Spain"
+    },
+    {
+     "n": 67,
+     "name": "Franco Casquete",
+     "ar": "فرانكو كاسكيت",
+     "pos": "Left Forward",
+     "nat": "Colombia"
+    },
+    {
+     "n": 70,
+     "name": "Samu Castillejo",
+     "ar": "صامويل كاستييخو",
+     "pos": "Right Forward",
+     "nat": "Spain"
+    },
+    {
+     "n": 77,
+     "name": "Najmuddin Akmal",
+     "ar": "نجم الدين أكمل",
+     "pos": "Right Forward",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 77,
+     "name": "Celso Bermejo",
+     "ar": "سيلسو بيرميجو",
+     "pos": "Centre Forward",
+     "nat": "Spain"
+    },
+    {
+     "n": 81,
+     "name": "Daryl Sham",
+     "ar": "داريل شام",
+     "pos": "Centre Forward",
+     "nat": "Malaysia"
+    },
+    {
+     "n": 88,
+     "name": "Manuel Hidalgo",
+     "ar": "مانويل هيدالغو",
+     "pos": "Right Forward",
+     "nat": "Argentina"
+    },
+    {
+     "n": 95,
+     "name": "Marcos Guilherme",
+     "ar": "ماركوس غوليرمي",
+     "pos": "Right Forward",
+     "nat": "Brazil"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/johor-darul-ta%E2%80%99zim-10080/squad",
+    "https://www.365scores.com/ar/football/team/johor-darul-ta%E2%80%99zim-10080/squad"
+   ]
+  }
+ ]
+}

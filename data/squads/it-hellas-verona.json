@@ -1,0 +1,249 @@
+{
+ "team": "it-hellas-verona",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/hellas-verona-316/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Lorenzo Montipo",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 34,
+   "name": "Simone Perilli",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 47,
+   "name": "Arthur Borghi",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": 94,
+   "name": "Giacomo Toniolo",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nicola Leali",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 2,
+   "name": "Daniel Oyegoke",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 3,
+   "name": "Martin Frese",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DK"
+  },
+  {
+   "n": 5,
+   "name": "Andrias Edmundsson",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FO"
+  },
+  {
+   "n": 7,
+   "name": "Rafik Belghali",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DZ"
+  },
+  {
+   "n": 12,
+   "name": "Domagoj Bradarić",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "HR"
+  },
+  {
+   "n": 19,
+   "name": "Tobias Slotsager",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DK"
+  },
+  {
+   "n": 70,
+   "name": "Fallou Cham",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GM"
+  },
+  {
+   "n": null,
+   "name": "Christian Corradi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Davide De Battisti",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nicolo Calabrese",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Seid Korac",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "LU"
+  },
+  {
+   "n": 8,
+   "name": "Suat Serdar",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Tomas Suslov",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SK"
+  },
+  {
+   "n": 21,
+   "name": "Abdou Harroui",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MA"
+  },
+  {
+   "n": 24,
+   "name": "Antoine Bernede",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 36,
+   "name": "Cheikh Niasse",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Charlys",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Grigoris Kastanos",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CY"
+  },
+  {
+   "n": null,
+   "name": "Leorat Bega",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Mattia Compagnon",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IT"
+  },
+  {
+   "n": 9,
+   "name": "Amin Sarr",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SE"
+  },
+  {
+   "n": 25,
+   "name": "Daniel Mosquera",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CO"
+  },
+  {
+   "n": 41,
+   "name": "Isaac",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Federico Caia",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Juan Cruz",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Kacper Sezonienko",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Livramento",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CV"
+  },
+  {
+   "n": null,
+   "name": "Ruben Akalé",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Salvatore Cerbone",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Samuele Mulattieri",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  }
+ ]
+}

@@ -5,7 +5,8 @@
  *   node tools/status.mjs --back 10 --ahead 30
  * Lists: matches that should have a result, results of the last 3 days without goal scorers, kick-off
  * times still unconfirmed, matches of the next 48 hours to check for postponements, claims waiting for a
- * second source, teams without a crest, and competitions whose fixture list runs out soon.
+ * second source, teams without a crest, squads to copy or recheck (RUNBOOK.md "Squads"), and competitions whose
+ * fixture list runs out soon.
  *
  * Evening results run (hourly, see RUNBOOK.md):
  *   node tools/status.mjs --results              (matches that kicked off in the last 12 hours)
@@ -19,6 +20,7 @@
  */
 import path from "node:path";
 import { FINISHED, ROOT, dubaiDate, loadAll, readJSON } from "./lib.mjs";
+import { loadSquads, squadMaxAgeDays } from "./squads.mjs";
 
 const arg = (name, def) => {
   const i = process.argv.indexOf(`--${name}`);
@@ -136,6 +138,39 @@ for (const p of pending) console.log(`  ${p.match ?? "?"}  claim ${p.claim ?? "?
 const noCrest = all.teams.filter((t) => !t.logo);
 console.log(`\nTEAMS WITHOUT A CREST — add one with "team-logo", see RUNBOOK.md "Crests" (${noCrest.length}):`);
 for (const t of noCrest) console.log(`  ${t.id.padEnd(28)} ${t.name.en}${t.countryName?.en ? ` (${t.countryName.en})` : ""}`);
+// Squads: clubs in a league we follow or with a match still to play, national teams with a match in the window.
+// Rechecked every 30 days, every 7 in transfer windows; at most SQUADS_PER_RUN a morning (the rest the next mornings).
+const SQUADS_PER_RUN = 15;
+const squads = loadSquads();
+const maxAge = squadMaxAgeDays(now);
+const active = new Set();
+for (const c of all.competitions) for (const tb of c.tables ?? []) for (const id of tb.teams) active.add(id);
+for (const s of all.seasons.values())
+  for (const m of s.matches) {
+    if (!["NS", "TBD", "PST"].includes(m.status)) continue;
+    const t = m.kickoff ? Date.parse(m.kickoff) : null;
+    for (const id of [m.home, m.away]) {
+      if (!id) continue;
+      const team = all.teamById.get(id);
+      if (team?.national ? t !== null && t >= now && t <= to : t === null || t >= now) active.add(id);
+    }
+  }
+const ageDays = (d) => Math.floor((Date.parse(dubaiDate(new Date(now).toISOString())) - Date.parse(d)) / 86400_000);
+// Clubs without a squad first (the site's home countries and the big leagues before the rest), then the oldest checks.
+const FIRST = ["ae", "sa", "gb-eng", "es", "de", "it", "qa", "fr", "pt", "nl"];
+const rank = (id) => {
+  const i = FIRST.indexOf(all.teamById.get(id)?.country);
+  return i < 0 ? FIRST.length : i;
+};
+const squadsDue = [...active]
+  .filter((id) => all.teamById.has(id) && (!squads.has(id) || ageDays(squads.get(id).checked) >= maxAge))
+  .sort((a, b) => (squads.get(a)?.checked ?? "").localeCompare(squads.get(b)?.checked ?? "") || rank(a) - rank(b) || a.localeCompare(b));
+console.log(`\nSQUADS TO CHECK — copy or recheck these clubs' squads, see RUNBOOK.md "Squads" (rechecked every ${maxAge} days now) (${squadsDue.length}${squadsDue.length > SQUADS_PER_RUN ? `, today the first ${SQUADS_PER_RUN}` : ""}):`);
+for (const id of squadsDue.slice(0, SQUADS_PER_RUN)) {
+  const t = all.teamById.get(id);
+  const sq = squads.get(id);
+  console.log(`  ${id.padEnd(30)} ${t.name.en}${t.countryName?.en ? ` (${t.countryName.en})` : ""} — ${sq ? `last checked ${sq.checked}` : "no squad yet"}`);
+}
 console.log(`\nFIXTURE LISTS (add fixtures when a list ends within the window or a draw has happened):`);
 for (const c of all.competitions) {
   const last = lastFixture.get(c.id);

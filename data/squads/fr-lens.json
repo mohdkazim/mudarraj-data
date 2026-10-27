@@ -1,0 +1,228 @@
+{
+ "team": "fr-lens",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/lens-481/squad",
+  "https://www.365scores.com/ar/football/team/lens-481/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Regis Gurtner",
+   "ar": "ريغيس غورتنير",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 16,
+   "name": "Mathieu Gorgelin",
+   "ar": "ماثيو غورغلين",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 40,
+   "name": "Robin Risser",
+   "ar": "روبن ريسر",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 60,
+   "name": "Ilan Jourdren",
+   "ar": "إيلان جوردرن",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 2,
+   "name": "Ruben Aguilar",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FR"
+  },
+  {
+   "n": 3,
+   "name": "Maik Nawrocki",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PL"
+  },
+  {
+   "n": 4,
+   "name": "Nidal Celik",
+   "ar": "نيدال تشيليك",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BA"
+  },
+  {
+   "n": 6,
+   "name": "Samson Baidoo",
+   "ar": "سامسون بايدو",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 14,
+   "name": "Matthieu Udol",
+   "ar": "ماثيو ادول",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "FR"
+  },
+  {
+   "n": 20,
+   "name": "Jean-Clair Todibo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 23,
+   "name": "Saud Abdulhamid",
+   "ar": "سعود عبدالحميد",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 24,
+   "name": "Jonathan Gradit",
+   "ar": "جوناثان جراديت",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 25,
+   "name": "Ismaëlo Ganiou",
+   "ar": "إسماعيل جانيو",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 31,
+   "name": "Souleymane Sagnan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ML"
+  },
+  {
+   "n": 32,
+   "name": "Kyllian Antonio",
+   "ar": "كيليان أنطونيو",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Jhoanner Chávez",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "EC"
+  },
+  {
+   "n": 5,
+   "name": "Andrija Bulatović",
+   "ar": "أندريا بولاتوفيتش",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ME"
+  },
+  {
+   "n": 8,
+   "name": "Yassine Titraoui",
+   "ar": "ياسين تيطراوي",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DZ"
+  },
+  {
+   "n": 9,
+   "name": "Thorgan Hazard",
+   "ar": "ثورجان هازارد",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BE"
+  },
+  {
+   "n": 21,
+   "name": "Amadou Haidara",
+   "ar": "امادو هيدارا",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ML"
+  },
+  {
+   "n": 27,
+   "name": "Mickael Cuisance",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 38,
+   "name": "Mezian Mesloub",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PT"
+  },
+  {
+   "n": 7,
+   "name": "Florian Sotoca",
+   "ar": "فلورون سوطوكا",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 10,
+   "name": "Florian Thauvin",
+   "ar": "فلوران توفين",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "FR"
+  },
+  {
+   "n": 11,
+   "name": "Odsonne Edouard",
+   "ar": "اودسون ادوارد",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 19,
+   "name": "Abdallah Sima",
+   "ar": "عبد الله ديبو سيما",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "SN"
+  },
+  {
+   "n": 22,
+   "name": "Michal Skóraś",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "PL"
+  },
+  {
+   "n": 28,
+   "name": "Junior Kadile",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "CD"
+  },
+  {
+   "n": 29,
+   "name": "Franjo Ivanović",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "HR"
+  }
+ ]
+}

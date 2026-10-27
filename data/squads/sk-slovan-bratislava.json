@@ -1,0 +1,209 @@
+{
+ "team": "sk-slovan-bratislava",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-us/football/team/slovan-bratislava-2112/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Aleksandar Popovic",
+   "pos": "GK",
+   "nat": "RS"
+  },
+  {
+   "n": 44,
+   "name": "Matus Macik",
+   "pos": "GK",
+   "nat": "SK"
+  },
+  {
+   "n": 71,
+   "name": "Dominik Takáč",
+   "pos": "GK",
+   "nat": "SK"
+  },
+  {
+   "n": 2,
+   "name": "Samuel Kozlovsky",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SK"
+  },
+  {
+   "n": 6,
+   "name": "Kevin Wimmer",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 12,
+   "name": "Kenan Bajric",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SI"
+  },
+  {
+   "n": 15,
+   "name": "Svetozar Markovic",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RS"
+  },
+  {
+   "n": 17,
+   "name": "Jurij Medvedev",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CZ"
+  },
+  {
+   "n": 28,
+   "name": "Cesar Blackman",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "PA"
+  },
+  {
+   "n": 49,
+   "name": "Sahmkou Camara",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GN"
+  },
+  {
+   "n": 57,
+   "name": "Sandro Cruz",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AO"
+  },
+  {
+   "n": 3,
+   "name": "Peter Pokorný",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SK"
+  },
+  {
+   "n": 5,
+   "name": "Rahim Ibrahim",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GH"
+  },
+  {
+   "n": 8,
+   "name": "Artur Gajdoš",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SK"
+  },
+  {
+   "n": 20,
+   "name": "Alen Mustafić",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BA"
+  },
+  {
+   "n": 41,
+   "name": "Daiki Matsuoka",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "JP"
+  },
+  {
+   "n": 70,
+   "name": "Cristian Martinez",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PA"
+  },
+  {
+   "n": 77,
+   "name": "Danylo Ignatenko",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "UA"
+  },
+  {
+   "n": 9,
+   "name": "Mykola Kukharevych",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "UA"
+  },
+  {
+   "n": 10,
+   "name": "Nino Marcelli",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "SK"
+  },
+  {
+   "n": 11,
+   "name": "Tigran Barseghyan",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "AM"
+  },
+  {
+   "n": 13,
+   "name": "Roman Cerepkai",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SK"
+  },
+  {
+   "n": 14,
+   "name": "Alasana Yirajang",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "GM"
+  },
+  {
+   "n": 19,
+   "name": "Manasse Kianga",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 21,
+   "name": "Suleiman Camara",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "GM"
+  },
+  {
+   "n": 24,
+   "name": "Matus Tomasko",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "SK"
+  },
+  {
+   "n": 29,
+   "name": "Alexej Maros",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "SK"
+  },
+  {
+   "n": 30,
+   "name": "Adam Griger",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SK"
+  },
+  {
+   "n": 99,
+   "name": "Andraž Šporar",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SI"
+  }
+ ]
+}

@@ -5,11 +5,15 @@
  *   dist/football.json     the same without competitions marked "since": 2 in data/competitions.json, for sites
  *                          installed earlier, which can't show a competition they don't know (Saudi football,
  *                          added 25 Oct 2026, is the first)
+ *   dist/squads.json       every club's squad (data/squads), for the team and match pages; it changes only when a
+ *                          squad does, so the site downloads it rarely
  *   node tools/build.mjs
  * Refuses to build (exit 1) if validation fails, so the published file is always consistent.
  */
 import path from "node:path";
+import { writeFileSync } from "node:fs";
 import { ROOT, defaultVenue, loadAll, readJSON, writeJSON } from "./lib.mjs";
+import { loadSquads } from "./squads.mjs";
 import { validate } from "./validate.mjs";
 
 const all = loadAll();
@@ -62,8 +66,30 @@ const legacy = {
 };
 writeJSON(path.join(ROOT, "dist", "football-v2.json"), out);
 writeJSON(path.join(ROOT, "dist", "football.json"), legacy);
-writeJSON(path.join(ROOT, "dist", "summary.json"), { format: out.format, generatedAt: out.generatedAt, counts: out.counts, legacyCounts: legacy.counts });
+// Squads: one compact file, ordered by team, without a build time (so it only changes when a squad changes).
+const squads = loadSquads();
+const site = (u) => {
+  try {
+    return new URL(u).hostname.replace(/^www\./, "");
+  } catch {
+    return "";
+  }
+};
+const squadTeams = {};
+for (const id of [...squads.keys()].sort()) {
+  const sq = squads.get(id);
+  squadTeams[id] = { checked: sq.checked, source: site(sq.sources[0]), players: sq.players };
+}
+const squadDates = Object.values(squadTeams).map((s) => s.checked).sort();
+writeFileSync(path.join(ROOT, "dist", "squads.json"), JSON.stringify({ format: "mudarraj-squads@1", updatedAt: squadDates.at(-1) ?? null, teams: squadTeams }) + "\n");
+writeJSON(path.join(ROOT, "dist", "summary.json"), {
+  format: out.format,
+  generatedAt: out.generatedAt,
+  counts: { ...out.counts, squads: squads.size, players: Object.values(squadTeams).reduce((n, s) => n + s.players.length, 0) },
+  legacyCounts: legacy.counts,
+});
 const noVenue = matches.filter((m) => !m.venue).length;
 console.log(`✓ built dist/football-v2.json — ${matches.length} matches (${out.counts.results} with results), ${warnings.length} warning(s)`);
 console.log(`  dist/football.json (sites installed before 25 Oct 2026) — ${legacyMatches.length} matches, without: ${all.competitions.filter((c) => !legacyComp(c.id)).map((c) => c.id).join(", ") || "nothing"}`);
 console.log(`  venues: ${matches.length - noVenue - homeGround} listed, ${homeGround} home ground, ${noVenue} none (neutral, final or unknown)`);
+console.log(`  dist/squads.json — ${squads.size} squads`);

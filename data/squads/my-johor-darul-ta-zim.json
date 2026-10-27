@@ -1,0 +1,415 @@
+{
+ "team": "my-johor-darul-ta-zim",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/johor-darul-ta%E2%80%99zim-10080/squad",
+  "https://www.365scores.com/ar/football/team/johor-darul-ta%E2%80%99zim-10080/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Christian Abad",
+   "ar": "كريستيان عباد",
+   "pos": "GK",
+   "nat": "MY"
+  },
+  {
+   "n": 58,
+   "name": "Andoni Zubiaurre",
+   "ar": "اندوني زوبياوري",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Syihan Hazmi",
+   "ar": "سيهان حازمي",
+   "pos": "GK",
+   "nat": "MY"
+  },
+  {
+   "n": 5,
+   "name": "Antonio Glauder",
+   "ar": "أنطونيو جلادر",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Jun Heong Park",
+   "ar": "بارك جون هيونج",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 14,
+   "name": "Shane Lowry",
+   "ar": "شين لوري",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AU"
+  },
+  {
+   "n": 15,
+   "name": "Feroz Baharudin",
+   "ar": "فيروز باهاريدين",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MY"
+  },
+  {
+   "n": 17,
+   "name": "Jon Irazábal",
+   "ar": "جون إيرازابال",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MY"
+  },
+  {
+   "n": 33,
+   "name": "Jonathan Silva",
+   "ar": "جونثان سيلفا",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AR"
+  },
+  {
+   "n": 44,
+   "name": "Miquel Cuesta",
+   "ar": "ميغيل كويستا",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 81,
+   "name": "Kevin Medina",
+   "ar": "كيفن ميدينا",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CO"
+  },
+  {
+   "n": null,
+   "name": "Dani Bolt",
+   "ar": "داني بولت",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "La'Vere Corbin-Ong",
+   "ar": "لا فير كوربين أونغ",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Matthew Davies",
+   "ar": "ماثيو دافيس",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Shahrul Saad",
+   "ar": "شهرول سعد",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Syahmi Safari",
+   "ar": "سياهمي سفاري",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MY"
+  },
+  {
+   "n": 4,
+   "name": "Afiq Fazail",
+   "ar": "أفيق فزايل",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MY"
+  },
+  {
+   "n": 6,
+   "name": "Nathaniel Shio Hong Wan",
+   "ar": "هونج وان",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "MY"
+  },
+  {
+   "n": 7,
+   "name": "Enzo Lombardo",
+   "ar": "إنزو لومباردو",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 8,
+   "name": "Hector Hevel",
+   "ar": "هيكتور هيفيل",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MY"
+  },
+  {
+   "n": 18,
+   "name": "Nené",
+   "ar": "كوريا نيني",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PT"
+  },
+  {
+   "n": 21,
+   "name": "Dejan Petrovič",
+   "ar": "ديان بيتروفيتش",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SI"
+  },
+  {
+   "n": 21,
+   "name": "Muhamad Nazmi Faiz",
+   "ar": "محمد نظمي فايز",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MY"
+  },
+  {
+   "n": 23,
+   "name": "Eddy Israfilov",
+   "ar": "إيدي إسرافيلوف",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AZ"
+  },
+  {
+   "n": 28,
+   "name": "Nacho Mendez",
+   "ar": "ناتشو مينديز",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 40,
+   "name": "Adam Farhan",
+   "ar": "أدم فرحان",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MY"
+  },
+  {
+   "n": 80,
+   "name": "Danish Hakimi",
+   "ar": "دانيش حكيمي",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Aysar Hadi",
+   "ar": "أيسر هادي",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Natxo Insa",
+   "ar": "ناتكسو إنسا",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Syamer Kutty",
+   "ar": "محمد سمير",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MY"
+  },
+  {
+   "n": 7,
+   "name": "Shahab Zahedi",
+   "ar": "شهاب زاهدي",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IR"
+  },
+  {
+   "n": 9,
+   "name": "Bergson",
+   "ar": "بيرجسون",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Jairo da Silva",
+   "ar": "جايرو دا سيلفا",
+   "pos": "FW",
+   "role": "SS",
+   "nat": "BR"
+  },
+  {
+   "n": 13,
+   "name": "Mohamadou Sumareh",
+   "ar": "محمدو سوماريه",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "MY"
+  },
+  {
+   "n": 20,
+   "name": "Teto Martin",
+   "ar": "تيتو مارتن",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "ES"
+  },
+  {
+   "n": 24,
+   "name": "Oscar Arribas",
+   "ar": "أوسكار أريباس",
+   "pos": "FW",
+   "role": "SS",
+   "nat": "ES"
+  },
+  {
+   "n": 25,
+   "name": "João Figueiredo",
+   "ar": "جواو فيغويريدو",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MY"
+  },
+  {
+   "n": 36,
+   "name": "Pavithran Gunalan",
+   "ar": "بافيثران جونالان",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MY"
+  },
+  {
+   "n": 37,
+   "name": "Heberty",
+   "ar": "هيبرتي",
+   "pos": "FW",
+   "role": "SS",
+   "nat": "BR"
+  },
+  {
+   "n": 47,
+   "name": "Ager Aketxe",
+   "ar": "أجير أكيتكس",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "ES"
+  },
+  {
+   "n": 67,
+   "name": "Franco Casquete",
+   "ar": "فرانكو كاسكيت",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "CO"
+  },
+  {
+   "n": 70,
+   "name": "Samu Castillejo",
+   "ar": "صامويل كاستييخو",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "ES"
+  },
+  {
+   "n": 77,
+   "name": "Celso Bermejo",
+   "ar": "سيلسو بيرميجو",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 77,
+   "name": "Najmuddin Akmal",
+   "ar": "نجم الدين أكمل",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "MY"
+  },
+  {
+   "n": 81,
+   "name": "Daryl Sham",
+   "ar": "داريل شام",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MY"
+  },
+  {
+   "n": 88,
+   "name": "Manuel Hidalgo",
+   "ar": "مانويل هيدالغو",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "AR"
+  },
+  {
+   "n": 95,
+   "name": "Marcos Guilherme",
+   "ar": "ماركوس غوليرمي",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Arif Aiman",
+   "ar": "أريف أيمن",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Daniesh Amirruddin",
+   "ar": "دانيش أميرالدين",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Romel Morales",
+   "ar": "روميل موراليس",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Yago César",
+   "ar": "ياغو سيزار",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "BR"
+  }
+ ]
+}

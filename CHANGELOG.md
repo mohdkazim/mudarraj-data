@@ -3394,3 +3394,21 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-27 (2026-10-27T13:41:56.216Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result acle-2026-27-league-east-geast-r03-my-johor-darul-ta-zim-th-port-fc added half-time and scorers to the confirmed result
+
+## 2026-10-27 (2026-10-27T16:21:05.561Z)
+- 15 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad gb-eng-arsenal squad added (24 players)
+  - ✓ squad gb-eng-aston-villa squad added (28 players)
+  - ✓ squad de-bayer-leverkusen squad added (28 players); 1 note(s): Ndjicoura Bomba: Arabic name "Ndjicoura Bomba" left out (not Arabic)
+  - ✓ squad de-bayern-munich squad added (23 players)
+  - ✓ squad de-fc-magdeburg squad added (30 players); 17 note(s): Dominik Reimann: Arabic name "Dominik Reimann" left out (not Arabic); Noah Kruth: Arabic name "Noah Kruth" left out (not Arabic); Robert Kampa: Arabic name "Robert Kampa" left out (not Arabic); Tjark Möbius: Arabic name "Tjark Möbius" left out (not Arabic) …
+  - ✓ squad it-hellas-verona squad added (35 players)
+  - ✓ squad at-lask squad added (25 players); 1 note(s): Cheikne Kébé: Arabic name "Cheikne Kébé" left out (not Arabic)
+  - ✓ squad az-sabah squad added (27 players)
+  - ✓ squad be-club-brugge squad added (28 players)
+  - ✓ squad cz-slavia-prague squad added (28 players)
+  - ✓ squad fr-lens squad added (29 players)
+  - ✓ squad fr-lille squad added (29 players)
+  - ✓ squad sk-slovan-bratislava squad added (29 players)
+  - ✓ squad kr-daejeon-hana-citizen squad added (35 players)
+  - ✓ squad my-johor-darul-ta-zim squad added (51 players); 1 note(s): shirt number(s) used twice: 13, 81, 7, 21, 77 (as the page lists them)

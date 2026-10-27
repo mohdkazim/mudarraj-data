@@ -1,0 +1,174 @@
+{
+ "team": "gb-eng-arsenal",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/arsenal-104/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "David Raya",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Kepa Arrizabalaga",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 30,
+   "name": "Illan Meslier",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 2,
+   "name": "William Saliba",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 3,
+   "name": "Cristhian Mosquera",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Ben White",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 5,
+   "name": "Piero Hincapie",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "EC"
+  },
+  {
+   "n": 6,
+   "name": "Gabriel Magalhaes",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 12,
+   "name": "Jurriën Timber",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "NL"
+  },
+  {
+   "n": 15,
+   "name": "Ezri Konsa",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 33,
+   "name": "Riccardo Calafiori",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 49,
+   "name": "Myles Lewis-Skelly",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 8,
+   "name": "Martin Odegaard",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "NO"
+  },
+  {
+   "n": 10,
+   "name": "Eberechi Eze",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 23,
+   "name": "Mikel Merino",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 36,
+   "name": "Martín Zubimendi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 39,
+   "name": "Bruno Guimarães",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 41,
+   "name": "Declan Rice",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 7,
+   "name": "Bukayo Saka",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 14,
+   "name": "Viktor Gyökeres",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SE"
+  },
+  {
+   "n": 17,
+   "name": "Christos Tzolis",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "GR"
+  },
+  {
+   "n": 20,
+   "name": "Noni Madueke",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 29,
+   "name": "Kai Havertz",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 56,
+   "name": "Max Dowman",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "GB-ENG"
+  }
+ ]
+}

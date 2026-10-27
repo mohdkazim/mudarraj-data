@@ -15,6 +15,8 @@
  *     { "op": "team",    "team": { "id": "…", "name": {"en":"…","ar":"…"}, "shortName": {...}, "code": "ABC", "country": "qa", "national": false }, "sources": ["https://…"] },
  *     { "op": "team-venue", "team": "<team id>", "venue": { "name": {"en":"…","ar":"…"}, "city": {"en":"…","ar":"…"} }, "sources": ["https://…"] },
  *     { "op": "team-logo", "team": "<team id>", "logo": "https://r2.thesportsdb.com/images/media/team/badge/….png", "sources": ["https://… (the page showing it)"] },
+ *     { "op": "squad", "team": "<team id>", "players": [ { "n": 1, "name": "David Raya", "ar": "ديفيد رايا", "pos": "Goalkeeper", "nat": "Spain" }, … ],
+ *       "sources": ["https://www.365scores.com/…/squad", "https://www.365scores.com/ar/…/squad"] },   (the whole current squad; see RUNBOOK.md "Squads")
  *     { "op": "venue", "match": "<id>", "venue": {...} | null, "neutral": true, "sources": ["https://…"] },
  *     { "op": "table-check", "competition": "…", "season": "…", "table": "overall", "asOf": "2026-10-23T08:00:00Z",
  *       "rows": [{ "team": "…", "played": 7, "points": 21 }], "sources": ["https://…"] },
@@ -70,6 +72,7 @@ import {
   venueOk,
   writeJSON,
 } from "./lib.mjs";
+import { loadSquads, normSquad, sameSquad, saveSquad } from "./squads.mjs";
 
 const file = process.argv[2];
 if (!file) {
@@ -83,6 +86,7 @@ if (!Array.isArray(patch.changes)) {
 }
 
 const all = loadAll();
+const squads = loadSquads();
 const now = Date.now();
 const touched = new Set();
 const accepted = [];
@@ -407,6 +411,31 @@ for (const c of patch.changes) {
         t.logo = logo;
         saveTeams(all.teams);
         ok({ ...c, team: t.id }, before === logo ? "crest unchanged" : before ? `crest replaced (was ${before})` : "crest added");
+        break;
+      }
+      case "squad": {
+        // The club's whole current squad, as a trusted page lists it (RUNBOOK.md "Squads"). Positions and
+        // nationalities may be the page's words; tools/squads.mjs turns them into codes and reports unknown ones.
+        const t = all.teamById.get(c.team);
+        if (!t) {
+          no(c, `unknown team ${c.team}`);
+          break;
+        }
+        if (fixtureTrust(c.sources) !== "trusted") {
+          no(c, "a squad needs a Tier 1 or Tier 2 source, or a site that is enough alone (365Scores, Kooora — sources.json)");
+          break;
+        }
+        const { players, problems } = normSquad(c.players);
+        if (!players) {
+          no(c, problems.join("; "));
+          break;
+        }
+        const before = squads.get(t.id);
+        const squad = { team: t.id, checked: dubaiDate(patch.run ?? new Date(now).toISOString()), sources: [...new Set(c.sources)], players };
+        saveSquad(squad);
+        squads.set(t.id, squad);
+        const what = !before ? `squad added (${players.length} players)` : sameSquad(before.players, players) ? "squad unchanged (rechecked)" : `squad updated (${players.length} players, was ${before.players.length})`;
+        ok({ ...c, team: t.id }, problems.length ? `${what}; ${problems.length} note(s): ${problems.slice(0, 4).join("; ")}${problems.length > 4 ? " …" : ""}` : what);
         break;
       }
       case "table-check": {

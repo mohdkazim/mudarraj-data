@@ -1,0 +1,250 @@
+{
+ "team": "kr-daejeon-hana-citizen",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-us/football/team/daejeon-citizen-9816/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Lee Chang-Geun",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 25,
+   "name": "Lee Joon-Seo",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 31,
+   "name": "Min-Soo Kim",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 40,
+   "name": "Kyeong-tae Lee",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 2,
+   "name": "Kyu-hyun Park",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "KR"
+  },
+  {
+   "n": 3,
+   "name": "Min-duk Kim",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 4,
+   "name": "Sung-gwon Cho",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 5,
+   "name": "Lim Jong-Eun",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 6,
+   "name": "Yun-sung Kang",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 13,
+   "name": "Jin-ya Kim",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "KR"
+  },
+  {
+   "n": 16,
+   "name": "Lee Myung-Jae",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "KR"
+  },
+  {
+   "n": 22,
+   "name": "Jae-suk Oh",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 23,
+   "name": "Young-jae Seo",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "KR"
+  },
+  {
+   "n": 26,
+   "name": "Lee Jung-Taek",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 33,
+   "name": "Moon-hwan Kim",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 42,
+   "name": "Lim Yu-Seok",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 45,
+   "name": "Chang-rae Ha",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 98,
+   "name": "Anton Krivotsyuk",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AZ"
+  },
+  {
+   "n": 8,
+   "name": "Victor Bobsin",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 14,
+   "name": "Kim Joon-Beom",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 20,
+   "name": "Hyeon-sik Lee",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "KR"
+  },
+  {
+   "n": 30,
+   "name": "Bong-soo Kim",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 41,
+   "name": "Park Byeong-Chan",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 44,
+   "name": "Lee Soon-Min",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 7,
+   "name": "Masatoshi Ishida",
+   "pos": "FW",
+   "role": "SS",
+   "nat": "JP"
+  },
+  {
+   "n": 9,
+   "name": "Diogo Oliveira",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Joo Min-Kyu",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 11,
+   "name": "Um Won-Sang",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "KR"
+  },
+  {
+   "n": 17,
+   "name": "Gustav Ludwigson",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "SE"
+  },
+  {
+   "n": 19,
+   "name": "Seo Jin-Su",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 27,
+   "name": "Jae-hee Jeong",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "KR"
+  },
+  {
+   "n": 29,
+   "name": "Moon Geon-Ho",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "KR"
+  },
+  {
+   "n": 70,
+   "name": "Kim Hyeon-Ug",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "KR"
+  },
+  {
+   "n": 77,
+   "name": "João Victor",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "BR"
+  },
+  {
+   "n": 99,
+   "name": "Yu Kang-Hyun",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  }
+ ]
+}

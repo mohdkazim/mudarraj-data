@@ -1,0 +1,229 @@
+{
+ "team": "de-fc-magdeburg",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/fc-magdeburg-400/squad",
+  "https://www.365scores.com/ar/football/team/fc-magdeburg-400/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Dominik Reimann",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Noah Kruth",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 40,
+   "name": "Robert Kampa",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 42,
+   "name": "Tjark Möbius",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Anselmo MacNulty",
+   "ar": "أنسيلمو ماكنولتي",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Eldin Dzogovic",
+   "ar": "إلدين دزوغوفيتش",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "LU"
+  },
+  {
+   "n": 5,
+   "name": "Tobias Muller",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Paul Jaeckel",
+   "ar": "باول جاكيل",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Herbert Bockhorn",
+   "ar": "هيربرت بوكهورن",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "UG"
+  },
+  {
+   "n": 15,
+   "name": "Daniel Heber",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Alexander Nollenberger",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Lubambo Musonda",
+   "ar": "لوبامبو موسوندا",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ZM"
+  },
+  {
+   "n": 28,
+   "name": "Pierre Nadjombe",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "TG"
+  },
+  {
+   "n": 34,
+   "name": "Tarek Chahed",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "TN"
+  },
+  {
+   "n": 10,
+   "name": "Moritz-Broni Kwarteng",
+   "ar": "موريتز-بروني كووارتينج",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Felipe Chavez",
+   "ar": "فيليبي تشافيز",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PE"
+  },
+  {
+   "n": 14,
+   "name": "Tony Reitz",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Falko Michel",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Torben Müsel",
+   "ar": "توربين موسيل",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Leon Mergner",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 38,
+   "name": "Luka Hyryläinen",
+   "ar": "لوكا هيريلاينين",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FI"
+  },
+  {
+   "n": 8,
+   "name": "Emmanuel Iyoha",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Roko Simic",
+   "ar": "روكو سيميتش",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "HR"
+  },
+  {
+   "n": 18,
+   "name": "Chung-hyun Lee",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 20,
+   "name": "Kevin Manthey",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Mateusz Zukowski",
+   "ar": "ماتيوس جوكوفسكي",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PL"
+  },
+  {
+   "n": 23,
+   "name": "Baris Atik",
+   "ar": "بارايس عتيق",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Do-young Yoon",
+   "ar": "دو يونغ يون",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "KR"
+  },
+  {
+   "n": 29,
+   "name": "Richmond Tachie",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 35,
+   "name": "Magnus Baars",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "DE"
+  }
+ ]
+}

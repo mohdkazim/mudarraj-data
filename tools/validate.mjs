@@ -9,6 +9,7 @@
 import { readdirSync, existsSync } from "node:fs";
 import path from "node:path";
 import { DATA, FINISHED, STAGE_TYPES, STATUSES, confirmation, dubaiDate, isoOk, loadAll, logoOk, pairOk, readJSON, venueOk } from "./lib.mjs";
+import { loadSquads, storedPlayerProblem } from "./squads.mjs";
 
 export function validate(all = loadAll(), now = Date.now()) {
   const errors = [];
@@ -28,6 +29,25 @@ export function validate(all = loadAll(), now = Date.now()) {
   }
   const noCrest = all.teams.filter((t) => !t.logo).map((t) => t.id);
   if (noCrest.length) warn("teams", `${noCrest.length} without a crest (${noCrest.join(", ")}): add them with "team-logo" (RUNBOOK.md "Crests")`);
+
+  // ---- squads (data/squads/<team>.json, see tools/squads.mjs)
+  for (const [id, sq] of loadSquads()) {
+    const where = `squad ${id}`;
+    if (sq.team !== id) err(where, "the file name and its team differ");
+    if (!all.teamById.has(id)) err(where, "unknown team");
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(sq.checked ?? "")) err(where, "needs checked (the Dubai date it was copied, YYYY-MM-DD)");
+    if (!Array.isArray(sq.sources) || !sq.sources.length || !sq.sources.every((u) => typeof u === "string" && /^https:\/\//.test(u))) err(where, "needs sources (https pages)");
+    if (!Array.isArray(sq.players) || sq.players.length < 11) {
+      err(where, "needs at least 11 players");
+      continue;
+    }
+    for (const [i, p] of sq.players.entries()) {
+      const problem = storedPlayerProblem(p);
+      if (problem) err(where, `player ${i + 1}: ${problem}`);
+    }
+    const numbers = sq.players.map((p) => p.n).filter((n) => n !== null);
+    if (new Set(numbers).size !== numbers.length) warn(where, "a shirt number is used twice (as the source lists it)");
+  }
 
   // ---- competitions
   for (const c of all.competitions) {

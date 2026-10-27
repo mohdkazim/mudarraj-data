@@ -1,0 +1,230 @@
+{
+ "team": "de-bayer-leverkusen",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-us/football/team/bayer-leverkusen-333/squad",
+  "https://www.365scores.com/ar/football/team/bayer-leverkusen-333/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Mark Flekken",
+   "ar": "مارك فليكين",
+   "pos": "GK",
+   "nat": "NL"
+  },
+  {
+   "n": 28,
+   "name": "Janis Blaswich",
+   "ar": "يانيس بلاسفيتش",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Niklas Lomb",
+   "ar": "نيكلاس لامب",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Facundo Medina",
+   "ar": "فاكوندو ميدينا",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 3,
+   "name": "Miguel Gutiérrez",
+   "ar": "ميجيل جوتيريز",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Jarell Quansah",
+   "ar": "جاريل كوانساه",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 5,
+   "name": "Loïc Badé",
+   "ar": "لويك بادي",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 12,
+   "name": "Edmond Tapsoba",
+   "ar": "إيدموند تابسوبا",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BF"
+  },
+  {
+   "n": 15,
+   "name": "Tim Oermann",
+   "ar": "تيم أورمان",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Lucas Vázquez",
+   "ar": "لوكاس فاسكيز",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 20,
+   "name": "Guéla Doué",
+   "ar": "جيلا دوي",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CI"
+  },
+  {
+   "n": 6,
+   "name": "Ezequiel Fernández",
+   "ar": "إزيكويل فرنانديز",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AR"
+  },
+  {
+   "n": 7,
+   "name": "Jonas Hofmann",
+   "ar": "جوناس هوفمان",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Robert Andrich",
+   "ar": "روبرت أندريخ",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Malik Tillman",
+   "ar": "مالك تيلمان",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "US"
+  },
+  {
+   "n": 18,
+   "name": "Kennet Eichhorn",
+   "ar": "كينيت آيكهورن",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Aleix Garcia",
+   "ar": "أليكس جارسيا",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 30,
+   "name": "Ibrahim Maza",
+   "ar": "إبراهيم مازا",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DZ"
+  },
+  {
+   "n": 9,
+   "name": "Afonso Moreira",
+   "ar": "أفونسو موريرا",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "PT"
+  },
+  {
+   "n": 11,
+   "name": "Martin Terrier",
+   "ar": "مارتن تريير",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "FR"
+  },
+  {
+   "n": 14,
+   "name": "Patrik Schick",
+   "ar": "باتريك شيك",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CZ"
+  },
+  {
+   "n": 19,
+   "name": "Moussa Diaby",
+   "ar": "موسى ديابي",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "FR"
+  },
+  {
+   "n": 22,
+   "name": "Victor Boniface",
+   "ar": "فيكتور بونيفاس",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NG"
+  },
+  {
+   "n": 23,
+   "name": "Nathan Tella",
+   "ar": "ناثان تيلا",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "NG"
+  },
+  {
+   "n": 29,
+   "name": "Eliesse Ben Seghir",
+   "ar": "إلياس بن صغير",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "MA"
+  },
+  {
+   "n": 35,
+   "name": "Christian Kofane",
+   "ar": "كريستيان كوفاني",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CM"
+  },
+  {
+   "n": 42,
+   "name": "Montrell Culbreath",
+   "ar": "مونتريل كولبريث",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Ndjicoura Bomba",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ML"
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "team": "de-bayern-munich",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/bayern-munich-331/squad",
+  "https://www.365scores.com/ar/football/team/bayern-munich-331/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Manuel Neuer",
+   "ar": "مانويل نوير",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Sven Ulreich",
+   "ar": "زفن أولريخ",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 40,
+   "name": "Jonas Urbig",
+   "ar": "يوناس أوربيغ",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Dayot Upamecano",
+   "ar": "دايوت أوباميكانو",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 3,
+   "name": "Kim Min-Jae",
+   "ar": "كيم مين جاي",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 4,
+   "name": "Jonathan Tah",
+   "ar": "جوناتان تاه",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Nathaniel Brown",
+   "ar": "ناثانيل براون",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Alphonso Davies",
+   "ar": "ألفونسو ديفيز",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CA"
+  },
+  {
+   "n": 21,
+   "name": "Hiroki Ito",
+   "ar": "هيروكي إيتو",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 23,
+   "name": "Sacha Boey",
+   "ar": "ساشا بوي",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FR"
+  },
+  {
+   "n": 27,
+   "name": "Konrad Laimer",
+   "ar": "كونراد لايمر",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AT"
+  },
+  {
+   "n": 44,
+   "name": "Josip Stanišić",
+   "ar": "جوسيب ستانيشيتش",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "HR"
+  },
+  {
+   "n": 6,
+   "name": "Joshua Kimmich",
+   "ar": "جوشوا كيميتش",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Tom Bischof",
+   "ar": "توم بيشوف",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Jamal Musiala",
+   "ar": "جمال موسيالا",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 34,
+   "name": "Ismael Saibari",
+   "ar": "إسماعيل صيباري",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "MA"
+  },
+  {
+   "n": 39,
+   "name": "Bara Sapoko Ndiaye",
+   "ar": "بارا ندياي",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SN"
+  },
+  {
+   "n": 42,
+   "name": "Lennart Karl",
+   "ar": "لينارت كارل",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 45,
+   "name": "Aleksandar Pavlović",
+   "ar": "ألكسندر بافلوفيتش",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Serge Gnabry",
+   "ar": "سيرج جنابري",
+   "pos": "FW",
+   "role": "SS",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Harry Kane",
+   "ar": "هاري كين",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 14,
+   "name": "Luis Díaz",
+   "ar": "لويس دياز",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "CO"
+  },
+  {
+   "n": 17,
+   "name": "Michael Olise",
+   "ar": "مايكل أوليز",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "FR"
+  }
+ ]
+}

@@ -39,6 +39,7 @@ node tools/status.mjs
    - **CHECK FOR POSTPONEMENTS** (the matches of the next 48 hours, by competition): search each competition's news once for a postponement, cancellation or move, and record what you find (see "Postponements" below). Also whenever a page you read for anything else says a match was postponed, cancelled or abandoned.
    - **POSTPONED OR ABANDONED** (listed by `status.mjs`): look for the new date or the organiser's decision. New date → `fixture` op with the existing `match` id and the new `kickoff` (the match goes back to "not started"). Result awarded or the match resumed and finished → `result` op.
    - **TEAMS WITHOUT A CREST:** find each club's crest and add it with a `team-logo` op (see "Crests" below). Normally this list is empty; a club added without a crest shows up here the next morning.
+   - **SQUADS TO CHECK** (at most 15 a morning): copy each club's current squad from its 365Scores squad page, English and Arabic, as one `squad` op per club (see "Squads" below). A squad that hasn't changed gets the same op again, so the club leaves the list until its next check.
    - **Venues:** when a source lists a match's stadium and it isn't the home club's usual ground (finals and other neutral venues, single-match cup rounds, a club hosting elsewhere), add a `venue` op (see "Venues" below).
    - **Mondays:** add a `table-check` for each league table (EPL from Sky Sports, LALIGA from laliga.com, others when a Tier 1 or 2 table is readable). Copy `played` and `points` for every team and set `asOf` to when that table was last updated. The build then fails if our results don't add up to the same table. That's how missing or wrong results are caught.
 
@@ -53,11 +54,11 @@ node tools/status.mjs
 
 5. **Publish:**
    ```bash
-   git add -A && git commit -m "data: <date> — <n> results, <s> scorers, <m> fixtures" && git push
+   git add -A && git commit -m "data: <date> — <n> results, <s> scorers, <m> fixtures, <q> squads" && git push
    ```
 
 6. **Report** in a few lines:
-   - what changed: results, scorers and fixtures added or moved (and recent results still without scorers)
+   - what changed: results, scorers and fixtures added or moved, squads copied or rechecked (and recent results still without scorers)
    - what is still waiting for a second source
    - anything that failed: unreadable sources, rejected changes
 
@@ -130,6 +131,22 @@ Every club on the site shows its crest; a club without one shows a circle with i
 - **Copy, never build:** take the link from a page you opened in this run. Don't put together a TheSportsDB file name or a 365Scores id from memory: a wrong link shows nothing.
 - **Not found** on any of the three → leave it (the club keeps its code circle), mention it in the report, and the next morning run tries again.
 - **Wrong or outdated crest** (a club rebrands) → `team-logo` with the new link replaces it.
+
+## Squads
+
+Every team page and match page shows the club's current squad (Mohamed, 27 Oct 2026: "add the squad before each match and also in each teams page"). The squads live in `data/squads/<team id>.json` and are published as `dist/squads.json`. `node tools/status.mjs` lists the clubs to copy or recheck (SQUADS TO CHECK): clubs in a league we follow or with a match still to play, and national teams with a match in the next three weeks. A squad is rechecked every 30 days, every 7 during transfer windows (January, mid-June to mid-September); status lists at most 15 a morning, oldest first.
+
+- **Where squads come from (tested 27 Oct 2026):** 365Scores' squad page (enough on its own, see SOURCES.md "Squads"): it lists every player with shirt number, position and nationality, and its Arabic version gives the Arabic names. Official sites don't work for this: bundesliga.com lists names and positions without numbers or nationalities; uaeproleague.ae's squad list and ESPN's squad pages come out empty to the reader.
+- **Opening the pages:** the fetch tool opens a link only when it came from a search in this run or appears in the text of a page you fetched. So when you fetch a page, ask it to give the exact links you'll need next (the squad tab, the Arabic version, the clubs' pages); those you can then open. Searches are limited per run: find clubs through their league's table rather than one search per club.
+  1. **The clubs' pages:** WebSearch `<league or cup name> 365scores standings` (e.g. "Premier League 365scores standings") with `allowed_domains: ["365scores.com"]` → the competition's table page; fetch it asking for each club's team page link (`365scores.com/<locale>/football/team/<name>-<id>`). For a single club: WebSearch `<club name> squad 365scores` with the same filter. Match a club by country and league, not only its name: namesakes (Al Hilal Omdurman, Al Ahli of another country), youth, reserve and women's teams come up too. A link's slug can be misleading (a "lebanon-50" link turned out to be Bournemouth): go by the page.
+  2. **English list:** fetch the club's squad tab (`…/squad`) asking for every player as `shirt number | full name | position | nationality` in the page's order, how many players it lists, and the exact link of the page's Arabic version (`/ar/…/squad`).
+  3. **Arabic list:** fetch that Arabic link for `shirt number | name | position | nationality` in the page's order: the same players in the same order. If the Arabic link is refused, fetch the club's Arabic team page instead (from the Arabic version of the league table, or WebSearch `<Arabic club name> 365scores` with the same filter) and take its squad tab ("قائمة الفريق"). Different counts or numbers → fetch once more; still different → pair by shirt number and leave out the Arabic name of the rest. Players the Arabic page writes in Latin letters simply get no Arabic name.
+  4. **Errors:** 365Scores sometimes answers with a server error, more often when many pages are asked for at once: open one page at a time, and retry a failed page once after a short pause; then move on (the club stays on the list).
+- **Op:** `{ "op": "squad", "team": "<team id>", "players": [ { "n": 1, "name": "David Raya", "ar": "ديفيد رايا", "pos": "Goalkeeper", "nat": "Spain" }, … ], "sources": ["<English squad page>", "<Arabic squad page>"] }`. The whole squad, as the page writes it: `n` the shirt number (null without one), `name` the English page's spelling, `ar` the Arabic page's, `pos` and `nat` the English page's words. `tools/squads.mjs` turns positions into groups and roles (Centre Back → DF/CB) and nationalities into codes (Ivory Coast → CI, England → GB-ENG); an unknown position rejects the squad, an unknown nationality is left out and reported — add a real one to `ALIASES` or `POSITION_WORDS` there.
+- **Unchanged squad:** the same op again; the tool notes "squad unchanged (rechecked)" and keeps the date of the check, so the club leaves the list for another 30 days.
+- **Not found**, or the page lists no players → leave it and mention it in the report; the club stays on the list.
+- **National teams:** their squads change with each call-up, so status lists a national team only when it has a match in the next three weeks. Copy the squad its 365Scores page shows (the latest call-up) the same way; when a tournament squad is announced (the Asian Cup's: late December 2026), recheck it.
+- **Never** fill in a squad from memory, from a news article's list of signings, or by adding a player you know joined: only the page's own list.
 
 ## When something goes wrong
 

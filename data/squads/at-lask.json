@@ -1,0 +1,206 @@
+{
+ "team": "at-lask",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-us/football/team/lask-linz-1743/squad",
+  "https://www.365scores.com/ar/football/team/lask-linz-1743/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Lukas Jungwirth",
+   "ar": "لوكاس يونجفيرث",
+   "pos": "GK",
+   "nat": "AT"
+  },
+  {
+   "n": 33,
+   "name": "Tobias Schützenauer",
+   "ar": "توبياس شوتسيناور",
+   "pos": "GK",
+   "nat": "AT"
+  },
+  {
+   "n": 50,
+   "name": "Fabian Schillinger",
+   "ar": "فابيان شيلينغر",
+   "pos": "GK",
+   "nat": "AT"
+  },
+  {
+   "n": 2,
+   "name": "George Bello",
+   "ar": "جورج بيلو",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "US"
+  },
+  {
+   "n": 3,
+   "name": "Miguel Freckleton",
+   "ar": "ميغيل فريكلتون",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 4,
+   "name": "Xavier Mbuyamba",
+   "ar": "كزافييه مبويامبا",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 16,
+   "name": "Andres Andrade",
+   "ar": "أندريس أندرادي",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PA"
+  },
+  {
+   "n": 20,
+   "name": "Kasper Jorgensen",
+   "ar": "كاسبر يورغنسن",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DK"
+  },
+  {
+   "n": 21,
+   "name": "Manoël Verhaeghe",
+   "ar": "مانويل فيرهاغ",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CD"
+  },
+  {
+   "n": 23,
+   "name": "Daniel Elfadli",
+   "ar": "دانيل الفاضلي",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "LY"
+  },
+  {
+   "n": 25,
+   "name": "Yvan Dibango",
+   "ar": "إيفان ديبانغو",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CM"
+  },
+  {
+   "n": 43,
+   "name": "João Tornich",
+   "ar": "جواو تورنيش",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 52,
+   "name": "Cheikne Kébé",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ML"
+  },
+  {
+   "n": 5,
+   "name": "Art Smakaj",
+   "ar": "آرت سماكاي",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "XK"
+  },
+  {
+   "n": 6,
+   "name": "Melayro Bogarde",
+   "ar": "ملييرو بوجاردا",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SR"
+  },
+  {
+   "n": 9,
+   "name": "Krystof Danek",
+   "ar": "كريشتوف دانيك",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "CZ"
+  },
+  {
+   "n": 10,
+   "name": "Robert Ljubicic",
+   "ar": "روبرت ليوبيسيتش",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "HR"
+  },
+  {
+   "n": 18,
+   "name": "Alessandro Schöpf",
+   "ar": "أليساندرو شوبف",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AT"
+  },
+  {
+   "n": 29,
+   "name": "Florian Flecker",
+   "ar": "فلوريان فليكر",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "AT"
+  },
+  {
+   "n": 30,
+   "name": "Sascha Horvath",
+   "ar": "ساشا هورفات",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AT"
+  },
+  {
+   "n": 7,
+   "name": "Samuel Adeniran",
+   "ar": "صامويل أدينيران",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "US"
+  },
+  {
+   "n": 8,
+   "name": "Moses Usor",
+   "ar": "موزيس أسور",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NG"
+  },
+  {
+   "n": 11,
+   "name": "Sasa Kalajdzic",
+   "ar": "ساسا كالادزيتش",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AT"
+  },
+  {
+   "n": 22,
+   "name": "Ramiz Harakaté",
+   "ar": "رامز هركاتيه",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 27,
+   "name": "Christoph Lang",
+   "ar": "كريستوف لانغ",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AT"
+  }
+ ]
+}

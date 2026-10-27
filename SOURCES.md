@@ -72,6 +72,15 @@ A match's goals are recorded only from one trusted page that lists **every** goa
 - **Not enough on their own:** the-afc.com match reports (some goals only "after the break"), Sky Sports month pages (`…-scores-fixtures`, no scorers), most news reports (they name scorers but rarely every minute).
 - **Arabic UAE papers** (Al Khaleej, Al Bayan, Emarat Al Youm) often list scorers with minutes; use them when nothing else does, and take the Latin spelling from an English page when there is one.
 
+## Squads (tested 27 Oct 2026)
+
+| Page | What it has | Use |
+|---|---|---|
+| 365Scores squad page `365scores.com/<locale>/football/team/<name>-<id>/squad` | every player: shirt number, name, detailed position (Centre Back, Left Forward…), nationality; the Arabic version (`/ar/…/squad`, linked from the page's language links) gives the same list with Arabic names, in the same order | the source for every squad (enough on its own, like its results). Reached through the competition's 365Scores table (WebSearch `<league> 365scores standings`, `allowed_domains: ["365scores.com"]`) or WebSearch `<club> squad 365scores`; see RUNBOOK.md "Squads". No birth dates or ages. The reader's copy can be a day or two old: fine for squads. Some Arabic pages write lesser-known players in Latin letters. 365Scores answers with server errors when asked for many pages at once |
+| bundesliga.com club page | names and positions only (no numbers, no nationalities) | cross-check a Bundesliga squad |
+| uaeproleague.ae club page (`/ar/clubs/<club>`) | the squad section comes out empty to the reader | — |
+| ESPN squad pages (`espn.com/soccer/team/squad/_/id/<id>`) | come out empty to the reader | — |
+
 ## Per competition (tested 23 Oct 2026)
 
 **Time zones (checked 23 Oct 2026).** Always store UTC.

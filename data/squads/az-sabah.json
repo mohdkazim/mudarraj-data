@@ -1,0 +1,196 @@
+{
+ "team": "az-sabah",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/sabah-50201/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Amin Ramazanov",
+   "pos": "GK",
+   "nat": "AZ"
+  },
+  {
+   "n": 92,
+   "name": "Stas Pokatilov",
+   "pos": "GK",
+   "nat": "KZ"
+  },
+  {
+   "n": 3,
+   "name": "Steve Solvet",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GP"
+  },
+  {
+   "n": 5,
+   "name": "Rahman Dashdamirov",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AZ"
+  },
+  {
+   "n": 17,
+   "name": "Tellur Mutallimov",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AZ"
+  },
+  {
+   "n": 27,
+   "name": "Tymoteusz Puchacz",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "PL"
+  },
+  {
+   "n": 80,
+   "name": "Akim Zedadka",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Aden McCarthy",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ZA"
+  },
+  {
+   "n": null,
+   "name": "Junior Almeida",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 6,
+   "name": "Abdulakh Khaybulayev",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AZ"
+  },
+  {
+   "n": 7,
+   "name": "Umarali Rahmonaliyev",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "UZ"
+  },
+  {
+   "n": 10,
+   "name": "Aleksey Isayev",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AZ"
+  },
+  {
+   "n": 13,
+   "name": "Ivan Lepinjica",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "HR"
+  },
+  {
+   "n": 16,
+   "name": "Rauf Rustamli",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AZ"
+  },
+  {
+   "n": 22,
+   "name": "Zinedine Ould Khaled",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 37,
+   "name": "Du Queiroz",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 88,
+   "name": "Rodrigo Fernandes",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PT"
+  },
+  {
+   "n": 89,
+   "name": "Jafar Mukhtarov",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AZ"
+  },
+  {
+   "n": 8,
+   "name": "Christian Nwachukwu",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "NG"
+  },
+  {
+   "n": 9,
+   "name": "Khayal Aliyev",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "AZ"
+  },
+  {
+   "n": 11,
+   "name": "Kaheem Parris",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "JM"
+  },
+  {
+   "n": 18,
+   "name": "Carlos Eduardo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 20,
+   "name": "Joy-Lance Mickels",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "RW"
+  },
+  {
+   "n": 99,
+   "name": "Orphé Mbina",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GA"
+  },
+  {
+   "n": null,
+   "name": "Veljko Simic",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "RS"
+  },
+  {
+   "n": null,
+   "name": "Xander Severina",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "CW"
+  },
+  {
+   "n": null,
+   "name": "Younes Lachaab",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "FR"
+  }
+ ]
+}

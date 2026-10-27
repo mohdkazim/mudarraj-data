@@ -1,0 +1,202 @@
+{
+ "team": "gb-eng-aston-villa",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/aston-villa-109/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Zion Suzuki",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 23,
+   "name": "Emiliano Martinez",
+   "pos": "GK",
+   "nat": "AR"
+  },
+  {
+   "n": 40,
+   "name": "Marco Bizot",
+   "pos": "GK",
+   "nat": "NL"
+  },
+  {
+   "n": 2,
+   "name": "Matty Cash",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "PL"
+  },
+  {
+   "n": 3,
+   "name": "Victor Lindelof",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SE"
+  },
+  {
+   "n": 5,
+   "name": "Tyrone Mings",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 13,
+   "name": "Matteo Ruggeri",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 14,
+   "name": "Pau Torres",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Ian Maatsen",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "NL"
+  },
+  {
+   "n": 29,
+   "name": "Aaron Wan-Bissaka",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CD"
+  },
+  {
+   "n": 48,
+   "name": "Modou Kéba Cissé",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 6,
+   "name": "Ross Barkley",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 7,
+   "name": "John McGinn",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 8,
+   "name": "Boubacar Kamara",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FR"
+  },
+  {
+   "n": 24,
+   "name": "Amadou Onana",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BE"
+  },
+  {
+   "n": 26,
+   "name": "Lamare Bogarde",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NL"
+  },
+  {
+   "n": 35,
+   "name": "João Gomes",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 44,
+   "name": "Johan Manzambi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "CH"
+  },
+  {
+   "n": 53,
+   "name": "George Hemmings",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Leon Goretzka",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Emilliano Buendía",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "AR"
+  },
+  {
+   "n": 11,
+   "name": "Ollie Watkins",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 17,
+   "name": "Alejandro Garnacho",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "AR"
+  },
+  {
+   "n": 18,
+   "name": "Tammy Abraham",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 31,
+   "name": "Leon Bailey",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "JM"
+  },
+  {
+   "n": 39,
+   "name": "Brian Madjo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 47,
+   "name": "Alysson Edward",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Nicolas Jackson",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SN"
+  }
+ ]
+}

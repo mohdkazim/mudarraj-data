@@ -1,0 +1,202 @@
+{
+ "team": "cz-slavia-prague",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/slavia-praha-1789/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Ondrej Kolar",
+   "pos": "GK",
+   "nat": "CZ"
+  },
+  {
+   "n": 29,
+   "name": "Nazar Domchak",
+   "pos": "GK",
+   "nat": "UA"
+  },
+  {
+   "n": 35,
+   "name": "Jakub Markovic",
+   "pos": "GK",
+   "nat": "CZ"
+  },
+  {
+   "n": 2,
+   "name": "Štěpán Chaloupek",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CZ"
+  },
+  {
+   "n": 3,
+   "name": "Tomas Holeš",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CZ"
+  },
+  {
+   "n": 4,
+   "name": "David Zima",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CZ"
+  },
+  {
+   "n": 5,
+   "name": "Igoh Ogbu",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NG"
+  },
+  {
+   "n": 6,
+   "name": "Ange N'Guessan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 14,
+   "name": "Samuel Isife",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "NG"
+  },
+  {
+   "n": 27,
+   "name": "Tomáš Vlček",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CZ"
+  },
+  {
+   "n": 39,
+   "name": "David Jurasek",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CZ"
+  },
+  {
+   "n": 42,
+   "name": "Mikuláš Konečný",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CZ"
+  },
+  {
+   "n": 43,
+   "name": "Eliáš Piták",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CZ"
+  },
+  {
+   "n": null,
+   "name": "Hamidou Kante",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SN"
+  },
+  {
+   "n": 8,
+   "name": "Oskar Kubiak",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "PL"
+  },
+  {
+   "n": 15,
+   "name": "Mubarak Suleiman",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NG"
+  },
+  {
+   "n": 16,
+   "name": "David Moses",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NG"
+  },
+  {
+   "n": 20,
+   "name": "Emmanuel Ayaosi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "NG"
+  },
+  {
+   "n": 22,
+   "name": "Toumani Diakité",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CI"
+  },
+  {
+   "n": 23,
+   "name": "Michal Sadilek",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CZ"
+  },
+  {
+   "n": 30,
+   "name": "Wiktor Nowak",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PL"
+  },
+  {
+   "n": 10,
+   "name": "Danijel Šturm",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "SI"
+  },
+  {
+   "n": 13,
+   "name": "Mojmir Chytil",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CZ"
+  },
+  {
+   "n": 17,
+   "name": "Lukas Provod",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "CZ"
+  },
+  {
+   "n": 18,
+   "name": "Adonija Ouanda",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "CA"
+  },
+  {
+   "n": 25,
+   "name": "Tomas Chorý",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CZ"
+  },
+  {
+   "n": 26,
+   "name": "Ivan Schranz",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "SK"
+  },
+  {
+   "n": 32,
+   "name": "Pavel Kačor",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "CZ"
+  }
+ ]
+}
