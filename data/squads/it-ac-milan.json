@@ -1,0 +1,202 @@
+{
+ "team": "it-ac-milan",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/ac-milan-227/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Pietro Terracciano",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 16,
+   "name": "Mike Maignan",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 96,
+   "name": "Lorenzo Torriani",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 2,
+   "name": "Pervis Estupinan",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "EC"
+  },
+  {
+   "n": 5,
+   "name": "Koni De Winter",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BE"
+  },
+  {
+   "n": 13,
+   "name": "Sankhoun Diawara",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 23,
+   "name": "Fikayo Tomori",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 31,
+   "name": "Strahinja Pavlovic",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RS"
+  },
+  {
+   "n": 33,
+   "name": "Davide Bartesaghi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 34,
+   "name": "Mario Gila",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 35,
+   "name": "Valeri Vladimirov",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BG"
+  },
+  {
+   "n": 42,
+   "name": "Filippo Terracciano",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 46,
+   "name": "Matteo Gabbia",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 8,
+   "name": "Ruben Loftus-Cheek",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 12,
+   "name": "Adrien Rabiot",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 14,
+   "name": "Luka Modric",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "HR"
+  },
+  {
+   "n": 22,
+   "name": "Diego Moreira",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "BE"
+  },
+  {
+   "n": 28,
+   "name": "Christian Comotto",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 30,
+   "name": "Ardon Jashari",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CH"
+  },
+  {
+   "n": 56,
+   "name": "Alexis Saelemaekers",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "BE"
+  },
+  {
+   "n": 70,
+   "name": "Alphadjo Cisse",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 80,
+   "name": "Yunus Musah",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "US"
+  },
+  {
+   "n": null,
+   "name": "Warren Bondo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 9,
+   "name": "Gonçalo Ramos",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PT"
+  },
+  {
+   "n": 11,
+   "name": "Christian Pulisic",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "US"
+  },
+  {
+   "n": 20,
+   "name": "Omari Hutchinson",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 21,
+   "name": "Samuel Chukwueze",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "NG"
+  },
+  {
+   "n": 73,
+   "name": "Francesco Camarda",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  }
+ ]
+}

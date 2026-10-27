@@ -1,0 +1,216 @@
+{
+ "team": "it-cagliari",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-us/football/team/cagliari-243/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Elia Caprile",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 12,
+   "name": "Alen Sherri",
+   "pos": "GK",
+   "nat": "AL"
+  },
+  {
+   "n": 23,
+   "name": "Boris Radunović",
+   "pos": "GK",
+   "nat": "RS"
+  },
+  {
+   "n": 2,
+   "name": "Zé Pedro",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 3,
+   "name": "Riyad Idrissi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 15,
+   "name": "Juan Rodríguez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UY"
+  },
+  {
+   "n": 22,
+   "name": "Raphael Kofler",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 24,
+   "name": "Giuseppe Aurelio",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 26,
+   "name": "Yerry Mina",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CO"
+  },
+  {
+   "n": 33,
+   "name": "Adam Obert",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SK"
+  },
+  {
+   "n": null,
+   "name": "Yukinari Sugawara",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "JP"
+  },
+  {
+   "n": 4,
+   "name": "Alessandro Romano",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 6,
+   "name": "Harry Winks",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 8,
+   "name": "Michel Adopo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CI"
+  },
+  {
+   "n": 10,
+   "name": "Jacopo Fazzini",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 14,
+   "name": "Alessandro Deiola",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 21,
+   "name": "Roberto Gagliardini",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 27,
+   "name": "Joseph Liteta",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ZM"
+  },
+  {
+   "n": 30,
+   "name": "Demi Akarakiri",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 32,
+   "name": "Ivan Sulev",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BG"
+  },
+  {
+   "n": 36,
+   "name": "Nicola Grandu",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "IT"
+  },
+  {
+   "n": 70,
+   "name": "Daniel Maldini",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 79,
+   "name": "Yanis Massolin",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 9,
+   "name": "Kevin Carlos",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Mattia Felici",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "IT"
+  },
+  {
+   "n": 18,
+   "name": "M'Bala Nzola",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AO"
+  },
+  {
+   "n": 19,
+   "name": "Yael Trepy",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 20,
+   "name": "Riccardo Ciervo",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "IT"
+  },
+  {
+   "n": 31,
+   "name": "Paul Mendy",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SN"
+  },
+  {
+   "n": 39,
+   "name": "Alieu Fadera",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "GM"
+  }
+ ]
+}

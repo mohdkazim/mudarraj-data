@@ -1,0 +1,236 @@
+{
+ "team": "sa-al-shabab",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/al-shabab-riyadh-8945/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Mory Diaw",
+   "pos": "GK",
+   "nat": "SN"
+  },
+  {
+   "n": 22,
+   "name": "Mohammed Al-Otaibi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 23,
+   "name": "Abdulaziz Al-Awairdhi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 33,
+   "name": "Mohammed Al-Mahasneh",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 2,
+   "name": "Mohammed Al Shwirekh",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Mamadou Thierno Barry",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 4,
+   "name": "Tin Jedvaj",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HR"
+  },
+  {
+   "n": 5,
+   "name": "Ali Maki",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 15,
+   "name": "Lazar Stojanović",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RS"
+  },
+  {
+   "n": 17,
+   "name": "Mohamed Al-Thani",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 21,
+   "name": "Dhari Al Anazi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 34,
+   "name": "Sultan Al-Anzi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 38,
+   "name": "Mohamed Harbush",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 45,
+   "name": "Amjad Ali Haraj",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 56,
+   "name": "Yazeed Al Dosari",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 66,
+   "name": "Muqrin Abanumay",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Hawsawi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ali Al-Bulaihi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Awad Al-Nashri",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 8,
+   "name": "Josh Brownhill",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 18,
+   "name": "Thomas Partey",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GH"
+  },
+  {
+   "n": 22,
+   "name": "Hammam Al Hammami",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 29,
+   "name": "Yacine Adli",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 40,
+   "name": "Ali Al-Asmari",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 74,
+   "name": "Abdulaziz Al-Hadhood",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 9,
+   "name": "Roger Martínez",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CO"
+  },
+  {
+   "n": 10,
+   "name": "Yannick Carrasco",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "BE"
+  },
+  {
+   "n": 11,
+   "name": "Daniel Podence",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "PT"
+  },
+  {
+   "n": 37,
+   "name": "Abdullah Matuq Saeed",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 97,
+   "name": "Mourad Khodari",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 99,
+   "name": "Hamad Al-Khorayef",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdulrahman Al-Oboud",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ricardo Mathias",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  }
+ ]
+}

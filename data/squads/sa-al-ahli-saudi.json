@@ -1,0 +1,249 @@
+{
+ "team": "sa-al-ahli-saudi",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-us/football/team/al-ahli-jeddah-8946/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Abdulrahman Al-Sanbi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 16,
+   "name": "Edouard Mendy",
+   "pos": "GK",
+   "nat": "SN"
+  },
+  {
+   "n": 22,
+   "name": "Ali Bakhashwin",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 62,
+   "name": "Abdullah Abdu",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 72,
+   "name": "Salman Al-Jadani",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 2,
+   "name": "Zakaria Hawsawi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Roger Ibanez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 5,
+   "name": "Mohammed Sulaiman Baker",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 15,
+   "name": "Saeed Baetaih",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 27,
+   "name": "Ali Majrashi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 28,
+   "name": "Merih Demiral",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "TR"
+  },
+  {
+   "n": 29,
+   "name": "Mohamed Abdelrahman",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 31,
+   "name": "Saad Yaslam",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 46,
+   "name": "Rayan Hamed",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abubacarr Kinteh",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GM"
+  },
+  {
+   "n": null,
+   "name": "Riyadh Yami",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Valentin Atangana",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 7,
+   "name": "Francisco Trincão",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 8,
+   "name": "Eduard Spertsyan",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AM"
+  },
+  {
+   "n": 19,
+   "name": "Artem Bondarenko",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "UA"
+  },
+  {
+   "n": 25,
+   "name": "Faisal Ibrahim Fallatah",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 30,
+   "name": "Ziyad Aljohani",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 40,
+   "name": "Ziyad Mallah",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 66,
+   "name": "Nayef Masoud",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Azzam",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Ibrahima Diaby",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Ramez Al-Attar",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 9,
+   "name": "Firas Al-Braikan",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 11,
+   "name": "Meshal Al-Mutairi",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "SA"
+  },
+  {
+   "n": 13,
+   "name": "Wenderson Galeno",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "BR"
+  },
+  {
+   "n": 17,
+   "name": "Ivan Toney",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 20,
+   "name": "Matheus Gonçalves",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BR"
+  },
+  {
+   "n": 21,
+   "name": "Abdullah Radif",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 47,
+   "name": "Saleh Abu Al-Shamat",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "SA"
+  },
+  {
+   "n": 49,
+   "name": "Salem Abdullah",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  }
+ ]
+}

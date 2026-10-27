@@ -1,0 +1,290 @@
+{
+ "team": "ae-al-ain",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/al-ain-8353/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Mohamed Bu Sanda",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 17,
+   "name": "Khalid Eisa",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 35,
+   "name": "Hassan Sani",
+   "pos": "GK",
+   "nat": "NG"
+  },
+  {
+   "n": 41,
+   "name": "Vedad Alibasic",
+   "pos": "GK",
+   "nat": "BA"
+  },
+  {
+   "n": 50,
+   "name": "Saif Khaled Al-Mazmi",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 65,
+   "name": "Abdullah Hamisi",
+   "pos": "GK",
+   "nat": "TZ"
+  },
+  {
+   "n": 2,
+   "name": "Rafael Rodrigues",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "PT"
+  },
+  {
+   "n": 3,
+   "name": "Marcos Maia",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 4,
+   "name": "Yahya Ben Khaleq",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MA"
+  },
+  {
+   "n": 6,
+   "name": "Djordje Skoko",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RS"
+  },
+  {
+   "n": 14,
+   "name": "Marcel Ratnik",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SI"
+  },
+  {
+   "n": 15,
+   "name": "Erik",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AE"
+  },
+  {
+   "n": 25,
+   "name": "Rami Rabia",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "EG"
+  },
+  {
+   "n": 42,
+   "name": "Ahmed Hijazi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SD"
+  },
+  {
+   "n": 44,
+   "name": "Manea Al-Shamsi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 48,
+   "name": "Yussif Suleiman",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 54,
+   "name": "Ismaila Okpoti",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GH"
+  },
+  {
+   "n": 56,
+   "name": "Amadou Niang",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 57,
+   "name": "Mame Niang",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 97,
+   "name": "Adis Jasic",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AT"
+  },
+  {
+   "n": 5,
+   "name": "Teun Gijselhart",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NL"
+  },
+  {
+   "n": 8,
+   "name": "Mohammed Abbas Al-Baloushi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AE"
+  },
+  {
+   "n": 10,
+   "name": "Alejandro Romero",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PY"
+  },
+  {
+   "n": 19,
+   "name": "Valentino Lazaro",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "AT"
+  },
+  {
+   "n": 20,
+   "name": "Matias Palacios",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AR"
+  },
+  {
+   "n": 30,
+   "name": "Hazem Mohammad Abbas",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AE"
+  },
+  {
+   "n": 38,
+   "name": "Ibrahim Junior",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SN"
+  },
+  {
+   "n": 45,
+   "name": "Khalifa Obaid",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 63,
+   "name": "Yousef Abdou",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 70,
+   "name": "Abdoul Karim Traore",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ML"
+  },
+  {
+   "n": 80,
+   "name": "Joshua Udoh",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NG"
+  },
+  {
+   "n": 88,
+   "name": "Hamid Mohammed",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Abdulla Rashed",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 7,
+   "name": "Georgios Giakoumakis",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GR"
+  },
+  {
+   "n": 11,
+   "name": "Jonatas Santos",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "AE"
+  },
+  {
+   "n": 13,
+   "name": "Houssine Rahimi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  },
+  {
+   "n": 18,
+   "name": "Baba Ilou",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CM"
+  },
+  {
+   "n": 21,
+   "name": "Soufiane Rahimi",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "MA"
+  },
+  {
+   "n": 68,
+   "name": "Sorin Ziane",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "CA"
+  },
+  {
+   "n": 90,
+   "name": "Eisa Khalfan",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AE"
+  },
+  {
+   "n": 94,
+   "name": "Yohan Gonzalez",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "VE"
+  }
+ ]
+}

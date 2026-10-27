@@ -1,0 +1,393 @@
+{
+ "team": "ae-al-jazira",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/jazira-abu-dhabi-8344/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Ersin Destanoglu",
+   "pos": "GK",
+   "nat": "TR"
+  },
+  {
+   "n": 52,
+   "name": "Zayed Fadaaq",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 53,
+   "name": "Jassem Abdulla Al-Hammadi",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 54,
+   "name": "Abdulla Mohamed Al-Hammadi",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 55,
+   "name": "Ali Khaseif",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 56,
+   "name": "Hamad Al Menhali",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 57,
+   "name": "Mubarak Ahmed Al-Braiki",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 96,
+   "name": "Saeed Al Kalbani",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 2,
+   "name": "Igor Serrote",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BR"
+  },
+  {
+   "n": 4,
+   "name": "Willyan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 5,
+   "name": "Khalifa Alhammadi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 6,
+   "name": "Mohamed Omar Al-Attas",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 12,
+   "name": "Mohammad Yousuf Atiq",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 14,
+   "name": "Johan Bångsbo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SE"
+  },
+  {
+   "n": 15,
+   "name": "Mohammed Rabii",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 16,
+   "name": "Marcus Meloni",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 17,
+   "name": "Ruben Amaral",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AE"
+  },
+  {
+   "n": 25,
+   "name": "Samer Farid",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 28,
+   "name": "Ravil Tagir",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "TR"
+  },
+  {
+   "n": 39,
+   "name": "Nermin Mujkić",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BA"
+  },
+  {
+   "n": 45,
+   "name": "Abdullah Khairi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 64,
+   "name": "Anwar Moutawafiq",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "MA"
+  },
+  {
+   "n": 68,
+   "name": "Hamdan Suhail",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AE"
+  },
+  {
+   "n": 72,
+   "name": "Abdullah Al Attas",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 93,
+   "name": "Jean Mendy",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Ekramy",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Hamdan Abdulrahman",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AE"
+  },
+  {
+   "n": 7,
+   "name": "Abdalla Ramadan Bekheet",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "AE"
+  },
+  {
+   "n": 8,
+   "name": "Mamadou Coulibaly",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AE"
+  },
+  {
+   "n": 20,
+   "name": "Mohamed Diallo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GN"
+  },
+  {
+   "n": 22,
+   "name": "Nikola Vukić",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "RS"
+  },
+  {
+   "n": 23,
+   "name": "Kristjan Asllani",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AL"
+  },
+  {
+   "n": 25,
+   "name": "Jay-Dee Geusens",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BE"
+  },
+  {
+   "n": 30,
+   "name": "Anthony Dennis",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NG"
+  },
+  {
+   "n": 31,
+   "name": "Mohamed Khaled",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "EG"
+  },
+  {
+   "n": 32,
+   "name": "Layth Gulzar",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 40,
+   "name": "Meshal Hamad",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 67,
+   "name": "Koffi Koblan",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "CI"
+  },
+  {
+   "n": 70,
+   "name": "Momodou Jatta",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GM"
+  },
+  {
+   "n": 74,
+   "name": "Salih Malkoçoğlu",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "TR"
+  },
+  {
+   "n": 83,
+   "name": "Zayed Khamis",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 88,
+   "name": "Mohmed Alwafi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 91,
+   "name": "Elias Sagna",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 94,
+   "name": "Anderson Talisca",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Malcom",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BR"
+  },
+  {
+   "n": 26,
+   "name": "Hazza Subait",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AE"
+  },
+  {
+   "n": 29,
+   "name": "Juan Cruz de los Santos",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "UY"
+  },
+  {
+   "n": 44,
+   "name": "Appolinaire Bougma",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BF"
+  },
+  {
+   "n": 58,
+   "name": "Saeed Bamasdoos",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "YE"
+  },
+  {
+   "n": 59,
+   "name": "Hamza Yassen",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "EG"
+  },
+  {
+   "n": 77,
+   "name": "Felicio Milson",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "AO"
+  },
+  {
+   "n": 78,
+   "name": "Mamadou Ndiaye",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SN"
+  },
+  {
+   "n": 80,
+   "name": "Bruno de Oliveira",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AE"
+  },
+  {
+   "n": 81,
+   "name": "Ali Mohamed Al-Memari",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "AE"
+  },
+  {
+   "n": 92,
+   "name": "Yasser Zahli",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  },
+  {
+   "n": 99,
+   "name": "Vinícius Mello",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  }
+ ]
+}

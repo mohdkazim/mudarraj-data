@@ -1,0 +1,188 @@
+{
+ "team": "gb-eng-bournemouth",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/bournemouth-50/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Djordje Petrovic",
+   "pos": "GK",
+   "nat": "RS"
+  },
+  {
+   "n": 17,
+   "name": "Fraser Forster",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 29,
+   "name": "Christos Mandas",
+   "pos": "GK",
+   "nat": "GR"
+  },
+  {
+   "n": 3,
+   "name": "Adrien Truffert",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "FR"
+  },
+  {
+   "n": 5,
+   "name": "Marcos Senesi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 6,
+   "name": "Julio Soler",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AR"
+  },
+  {
+   "n": 15,
+   "name": "Adam Smith",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 18,
+   "name": "Bafodé Diakite",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 20,
+   "name": "Álex Jiménez",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "James Hill",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 44,
+   "name": "Veljko Milosavljević",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RS"
+  },
+  {
+   "n": 45,
+   "name": "Matai Akinmboni",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "US"
+  },
+  {
+   "n": 4,
+   "name": "Lewis Cook",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 8,
+   "name": "Alex Scott",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 10,
+   "name": "Ryan Christie",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 12,
+   "name": "Tyler Adams",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "US"
+  },
+  {
+   "n": 16,
+   "name": "Marcus Tavernier",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 19,
+   "name": "Justin Kluivert",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "NL"
+  },
+  {
+   "n": 27,
+   "name": "Alex Tóth",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "HU"
+  },
+  {
+   "n": 7,
+   "name": "David Brooks",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 9,
+   "name": "Evanilson",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Ben Doak",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 21,
+   "name": "Amine Adli",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "MA"
+  },
+  {
+   "n": 22,
+   "name": "Eli Kroupi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 26,
+   "name": "Enes Ünal",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "TR"
+  },
+  {
+   "n": 37,
+   "name": "Rayan",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BR"
+  }
+ ]
+}

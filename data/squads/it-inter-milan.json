@@ -1,0 +1,174 @@
+{
+ "team": "it-inter-milan",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/inter-milan-224/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Yann Sommer",
+   "pos": "GK",
+   "nat": "CH"
+  },
+  {
+   "n": 12,
+   "name": "Raffaele Di Gennaro",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 13,
+   "name": "Josep Martinez",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Denzel Dumfries",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "NL"
+  },
+  {
+   "n": 6,
+   "name": "Stefan de Vrij",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 15,
+   "name": "Francesco Acerbi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 25,
+   "name": "Manuel Akanji",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CH"
+  },
+  {
+   "n": 30,
+   "name": "Carlos Augusto",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 31,
+   "name": "Yann Bisseck",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 32,
+   "name": "Federico Dimarco",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 36,
+   "name": "Matteo Darmian",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 95,
+   "name": "Alessandro Bastoni",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 7,
+   "name": "Piotr Zielinski",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PL"
+  },
+  {
+   "n": 8,
+   "name": "Petar Sucic",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "HR"
+  },
+  {
+   "n": 11,
+   "name": "Luis Henrique",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "BR"
+  },
+  {
+   "n": 16,
+   "name": "Davide Frattesi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 17,
+   "name": "Andy Diouf",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 20,
+   "name": "Hakan Calhanoglu",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "TR"
+  },
+  {
+   "n": 22,
+   "name": "Henrik Mkhitaryan",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AM"
+  },
+  {
+   "n": 23,
+   "name": "Nicolo Barella",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 9,
+   "name": "Marcus Thuram",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 10,
+   "name": "Lautaro Martínez",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 14,
+   "name": "Ange-Yoan Bonny",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 94,
+   "name": "Pio Esposito",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "team": "sa-al-hilal",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-uk/football/team/al-hilal-riyadh-5457/squad"
+ ],
+ "players": [
+  {
+   "n": 17,
+   "name": "Mohammed Al-Rubaie",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 33,
+   "name": "Mohammed Al Owais",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 35,
+   "name": "Rayan Al Dossary",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 37,
+   "name": "Yassine Bounou",
+   "pos": "GK",
+   "nat": "MA"
+  },
+  {
+   "n": 2,
+   "name": "Mohammed Mahzari",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Kalidou Koulibaly",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 4,
+   "name": "Yusuf Akçiçek",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "TR"
+  },
+  {
+   "n": 19,
+   "name": "Theo Hernández",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "FR"
+  },
+  {
+   "n": 24,
+   "name": "Moteb Al-Harbi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 44,
+   "name": "Saad Al-Mutairi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 55,
+   "name": "Mishaal Al-Dawood",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 73,
+   "name": "Mohammed Al-Sarnoukh",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 78,
+   "name": "Ali Lajami",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 87,
+   "name": "Hassan Al Tambakti",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 88,
+   "name": "Hamad Al Yami",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Nasser Al-Dawsari",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 8,
+   "name": "Ruben Neves",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PT"
+  },
+  {
+   "n": 18,
+   "name": "Murad Al-Hawsawi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 22,
+   "name": "Sergej Milinković-Savić",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "RS"
+  },
+  {
+   "n": 28,
+   "name": "Mohamed Kanno",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 70,
+   "name": "Saïmon Bouabré",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 96,
+   "name": "Suhayb Al-Zaid",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Gabriel Martinelli",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Ollie Watkins",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 27,
+   "name": "Sultan Mandash",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "SA"
+  },
+  {
+   "n": 29,
+   "name": "Salem Al Dawsari",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "SA"
+  },
+  {
+   "n": 38,
+   "name": "Crysencio Summerville",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "NL"
+  },
+  {
+   "n": 72,
+   "name": "Sabri Dahal",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "SA"
+  },
+  {
+   "n": 75,
+   "name": "Mohamed Kader Meïté",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CI"
+  },
+  {
+   "n": 77,
+   "name": "Nawaf Al Habashi",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "SA"
+  },
+  {
+   "n": 93,
+   "name": "Abdullah Al-Anazi",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "SA"
+  }
+ ]
+}

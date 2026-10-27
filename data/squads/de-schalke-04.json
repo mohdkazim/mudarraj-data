@@ -1,0 +1,195 @@
+{
+ "team": "de-schalke-04",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/schalke-04-335/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Loris Karius",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Kevin Müller",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Johannes Siebeking",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Hasan Kuruçay",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "TR"
+  },
+  {
+   "n": 5,
+   "name": "Timo Becker",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Robin Gosens",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Adrian Gantenbein",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CH"
+  },
+  {
+   "n": 25,
+   "name": "Nikola Katic",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BA"
+  },
+  {
+   "n": 33,
+   "name": "Vitalie Becker",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 39,
+   "name": "Maximilian Wöber",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 43,
+   "name": "Mertcan Ayhan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "TR"
+  },
+  {
+   "n": 6,
+   "name": "Ron Schallenberg",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 13,
+   "name": "Satoshi Tanaka",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 14,
+   "name": "Janik Bachmann",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Kenan Karaman",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "TR"
+  },
+  {
+   "n": 21,
+   "name": "Dejan Ljubicic",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AT"
+  },
+  {
+   "n": 23,
+   "name": "Soufiane El-Faouzi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MA"
+  },
+  {
+   "n": 24,
+   "name": "Adil Aouchiche",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DZ"
+  },
+  {
+   "n": 27,
+   "name": "Finn Porath",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Junior Dina Ebimbe",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "CM"
+  },
+  {
+   "n": 38,
+   "name": "Luca Vozar",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Hwang Hee-Chan",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 9,
+   "name": "Moussa Sylla",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ML"
+  },
+  {
+   "n": 10,
+   "name": "Edin Džeko",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BA"
+  },
+  {
+   "n": 11,
+   "name": "Bryan Lasme",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 15,
+   "name": "Emil Højlund",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DK"
+  },
+  {
+   "n": 20,
+   "name": "Junior Adamu",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AT"
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "team": "it-genoa",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/genoa-231/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Nicola Leali",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 16,
+   "name": "Justin Bijlow",
+   "pos": "GK",
+   "nat": "NL"
+  },
+  {
+   "n": 31,
+   "name": "Benjamin Siegrist",
+   "pos": "GK",
+   "nat": "CH"
+  },
+  {
+   "n": 35,
+   "name": "Ernestas Lysionok",
+   "pos": "GK",
+   "nat": "LT"
+  },
+  {
+   "n": 39,
+   "name": "Daniele Sommariva",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 3,
+   "name": "Aaron Martín",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Leo Oestigaard",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NO"
+  },
+  {
+   "n": 13,
+   "name": "Nils Zatterstrom",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SE"
+  },
+  {
+   "n": 15,
+   "name": "Brooke Norton-Cuffy",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 20,
+   "name": "Stefano Sabelli",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 22,
+   "name": "Johan Vásquez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MX"
+  },
+  {
+   "n": 27,
+   "name": "Alessandro Marcandalli",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 34,
+   "name": "Sebastian Otoa",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DK"
+  },
+  {
+   "n": 4,
+   "name": "Amorim",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": 8,
+   "name": "Tommaso Baldanzi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 14,
+   "name": "Jean Onana",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CM"
+  },
+  {
+   "n": 17,
+   "name": "Ruslan Malinovskyi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "UA"
+  },
+  {
+   "n": 32,
+   "name": "Morten Frendrup",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DK"
+  },
+  {
+   "n": 73,
+   "name": "Patrizio Masini",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 77,
+   "name": "Mikael Ellertsson",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IS"
+  },
+  {
+   "n": 9,
+   "name": "Vitinha",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PT"
+  },
+  {
+   "n": 10,
+   "name": "Junior Messias",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BR"
+  },
+  {
+   "n": 18,
+   "name": "Caleb Ekuban",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GH"
+  },
+  {
+   "n": 21,
+   "name": "Jeff Ekhator",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 29,
+   "name": "Lorenzo Colombo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 70,
+   "name": "Maxwel Cornet",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "CI"
+  }
+ ]
+}

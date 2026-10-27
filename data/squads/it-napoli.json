@@ -1,0 +1,251 @@
+{
+ "team": "it-napoli",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/football/team/napoli-234/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Alex Meret",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 14,
+   "name": "Nikita Contini",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 32,
+   "name": "Vanja Milinkovic-Savic",
+   "pos": "GK",
+   "nat": "RS"
+  },
+  {
+   "n": 4,
+   "name": "Alessandro Buongiorno",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 13,
+   "name": "Amir Rrahmani",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "XK"
+  },
+  {
+   "n": 17,
+   "name": "Mathias Olivera",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "UY"
+  },
+  {
+   "n": 22,
+   "name": "Giovanni Di Lorenzo",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 30,
+   "name": "Pasquale Mazzocchi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 31,
+   "name": "Sam Beukema",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 37,
+   "name": "Leonardo Spinazzola",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Christian Garofalo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luca Marianucci",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nosa Edward Obaretin",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Rafa Marín",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Billy Gilmour",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 8,
+   "name": "Scott McTominay",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 11,
+   "name": "Kevin De Bruyne",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BE"
+  },
+  {
+   "n": 26,
+   "name": "Antonio Vergara",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 68,
+   "name": "Stanislav Lobotka",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SK"
+  },
+  {
+   "n": 99,
+   "name": "Frank Anguissa",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CM"
+  },
+  {
+   "n": null,
+   "name": "Gennaro Iaccarino",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Jens Cajuste",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SE"
+  },
+  {
+   "n": null,
+   "name": "Michael Folorunsho",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 7,
+   "name": "David Neres",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BR"
+  },
+  {
+   "n": 9,
+   "name": "Romelu Lukaku",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BE"
+  },
+  {
+   "n": 21,
+   "name": "Matteo Politano",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "IT"
+  },
+  {
+   "n": 23,
+   "name": "Giovane",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 27,
+   "name": "Alisson Santos",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Cyril Ngonge",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Jesper Lindstrom",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Lucca",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Sgarbi",
+   "pos": "FW",
+   "role": "SS",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Noa Lang",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Rasmus Höjlund",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Walid Cheddira",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  }
+ ]
+}

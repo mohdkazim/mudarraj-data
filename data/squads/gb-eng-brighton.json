@@ -1,0 +1,216 @@
+{
+ "team": "gb-eng-brighton",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-us/football/team/brighton-38/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Bart Verbruggen",
+   "pos": "GK",
+   "nat": "NL"
+  },
+  {
+   "n": 23,
+   "name": "Jason Steele",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 38,
+   "name": "Thomas McGill",
+   "pos": "GK",
+   "nat": "CA"
+  },
+  {
+   "n": 3,
+   "name": "Jaouen Hadjam",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DZ"
+  },
+  {
+   "n": 4,
+   "name": "Pascal Struijk",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 5,
+   "name": "Lewis Dunk",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 20,
+   "name": "Costinha",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "PT"
+  },
+  {
+   "n": 21,
+   "name": "Olivier Boscagli",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 24,
+   "name": "Ferdi Kadioglu",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "TR"
+  },
+  {
+   "n": 27,
+   "name": "Mats Wieffer",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "NL"
+  },
+  {
+   "n": 29,
+   "name": "Maxim de Cuyper",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BE"
+  },
+  {
+   "n": 30,
+   "name": "Michael Svoboda",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 44,
+   "name": "Luka Vušković",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HR"
+  },
+  {
+   "n": 8,
+   "name": "Jack Hinshelwood",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 13,
+   "name": "Pascal Gross",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Chema Andrés",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 25,
+   "name": "Diego Gomez",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PY"
+  },
+  {
+   "n": 26,
+   "name": "Yasin Ayari",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SE"
+  },
+  {
+   "n": 33,
+   "name": "Matt O'Riley",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DK"
+  },
+  {
+   "n": 35,
+   "name": "Malick Yalcouyé",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CI"
+  },
+  {
+   "n": 39,
+   "name": "Femi Azeez",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "NG"
+  },
+  {
+   "n": 7,
+   "name": "Kaoru Mitoma",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "JP"
+  },
+  {
+   "n": 9,
+   "name": "Stefanos Tzimas",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GR"
+  },
+  {
+   "n": 10,
+   "name": "Georginio Rutter",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 11,
+   "name": "Yankuba Minteh",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "GM"
+  },
+  {
+   "n": 12,
+   "name": "Promise David",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CA"
+  },
+  {
+   "n": 15,
+   "name": "Ibrahim Osman",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "GH"
+  },
+  {
+   "n": 19,
+   "name": "Charalampos Kostoulas",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GR"
+  },
+  {
+   "n": 28,
+   "name": "Evan Ferguson",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IE"
+  },
+  {
+   "n": 36,
+   "name": "Zadok Yohanna",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "NG"
+  }
+ ]
+}

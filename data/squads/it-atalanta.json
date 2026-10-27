@@ -1,0 +1,181 @@
+{
+ "team": "it-atalanta",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-uk/football/team/atalanta-232/squad"
+ ],
+ "players": [
+  {
+   "n": 29,
+   "name": "Marco Carnesecchi",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 57,
+   "name": "Marco Sportiello",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Thomas Pompei",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 3,
+   "name": "Odilon Kossounou",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CI"
+  },
+  {
+   "n": 4,
+   "name": "Isak Hien",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SE"
+  },
+  {
+   "n": 23,
+   "name": "Sead Kolasinac",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BA"
+  },
+  {
+   "n": 31,
+   "name": "Thomas Kristensen",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DK"
+  },
+  {
+   "n": 40,
+   "name": "Relja Obrić",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SI"
+  },
+  {
+   "n": 42,
+   "name": "Giorgio Scalvini",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 8,
+   "name": "Mario Pasalic",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "HR"
+  },
+  {
+   "n": 10,
+   "name": "Lazar Samardzic",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "RS"
+  },
+  {
+   "n": 13,
+   "name": "Éderson",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 16,
+   "name": "Raoul Bellanova",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IT"
+  },
+  {
+   "n": 17,
+   "name": "Charles de Ketelaere",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BE"
+  },
+  {
+   "n": 19,
+   "name": "Franck Kessié",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CI"
+  },
+  {
+   "n": 47,
+   "name": "Lorenzo Bernasconi",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "IT"
+  },
+  {
+   "n": 59,
+   "name": "Nicola Zalewski",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "PL"
+  },
+  {
+   "n": 70,
+   "name": "Gianluca Gaetano",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 77,
+   "name": "Davide Zappacosta",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IT"
+  },
+  {
+   "n": 99,
+   "name": "Eljif Elmas",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "MK"
+  },
+  {
+   "n": 7,
+   "name": "Kamaldeen Sulemana",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "GH"
+  },
+  {
+   "n": 9,
+   "name": "Gianluca Scamacca",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 18,
+   "name": "Giacomo Raspadori",
+   "pos": "FW",
+   "role": "SS",
+   "nat": "IT"
+  },
+  {
+   "n": 90,
+   "name": "Nikola Krstovic",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ME"
+  },
+  {
+   "n": null,
+   "name": "Jonathan Rowe",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "GB-ENG"
+  }
+ ]
+}

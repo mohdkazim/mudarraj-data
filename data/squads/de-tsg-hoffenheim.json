@@ -1,0 +1,195 @@
+{
+ "team": "de-tsg-hoffenheim",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-us/football/team/hoffenheim-351/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Oliver Baumann",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Lúkas Petersson",
+   "pos": "GK",
+   "nat": "IS"
+  },
+  {
+   "n": 37,
+   "name": "Luca Philipp",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Robin Hranáč",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CZ"
+  },
+  {
+   "n": 4,
+   "name": "Sean Dulic",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Ozan Kabak",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "TR"
+  },
+  {
+   "n": 13,
+   "name": "Bernardo",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 15,
+   "name": "Valentin Gendrey",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FR"
+  },
+  {
+   "n": 21,
+   "name": "Albian Hajdari",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "XK"
+  },
+  {
+   "n": 28,
+   "name": "Koki Machida",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 29,
+   "name": "Natnael Abraha",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 34,
+   "name": "Vladimir Coufal",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CZ"
+  },
+  {
+   "n": 39,
+   "name": "Mats Rots",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "NL"
+  },
+  {
+   "n": 7,
+   "name": "Leon Avdullahu",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "XK"
+  },
+  {
+   "n": 16,
+   "name": "Luis Engelns",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Nathan De Cat",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BE"
+  },
+  {
+   "n": 18,
+   "name": "Wouter Burger",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NL"
+  },
+  {
+   "n": 20,
+   "name": "Bambasé Conté",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Alexander Prass",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "AT"
+  },
+  {
+   "n": 32,
+   "name": "Cajetan Lenz",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Patrick Wimmer",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "AT"
+  },
+  {
+   "n": 9,
+   "name": "Max Moerstedt",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Adam Hložek",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CZ"
+  },
+  {
+   "n": 11,
+   "name": "Fisnik Asllani",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "XK"
+  },
+  {
+   "n": 14,
+   "name": "Adam Daghim",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "DK"
+  },
+  {
+   "n": 19,
+   "name": "Tim Lemperle",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Andrej Kramaric",
+   "pos": "FW",
+   "role": "SS",
+   "nat": "HR"
+  }
+ ]
+}

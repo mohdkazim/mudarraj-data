@@ -1,0 +1,380 @@
+{
+ "team": "ae-al-wasl",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-us/football/team/al-wasl-8346/squad"
+ ],
+ "players": [
+  {
+   "n": 17,
+   "name": "Suhail Abdulla Ibrahim",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 23,
+   "name": "Dinko Horkaš",
+   "pos": "GK",
+   "nat": "HR"
+  },
+  {
+   "n": 32,
+   "name": "Mohamed Ali Qayoudhi",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 33,
+   "name": "Malick Sarr",
+   "pos": "GK",
+   "nat": "SN"
+  },
+  {
+   "n": 41,
+   "name": "Moriba Kamara",
+   "pos": "GK",
+   "nat": "CI"
+  },
+  {
+   "n": 50,
+   "name": "Yousuf Fahad Al Rahma",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 99,
+   "name": "Yann Llahona",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 4,
+   "name": "Soufiane Bouftini",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MA"
+  },
+  {
+   "n": 12,
+   "name": "Abdulrahman Saleh Khamis",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AE"
+  },
+  {
+   "n": 13,
+   "name": "Faris Khalil Al-Marzooqi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AE"
+  },
+  {
+   "n": 14,
+   "name": "Rodrygo Oliveira",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BR"
+  },
+  {
+   "n": 15,
+   "name": "Sasa Ivkovic",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 16,
+   "name": "Hugo",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 22,
+   "name": "Takashi Uchino",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "JP"
+  },
+  {
+   "n": 25,
+   "name": "Gabriel Vareta",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 34,
+   "name": "Adryelson",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 39,
+   "name": "Tarek Issaoui",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MA"
+  },
+  {
+   "n": 44,
+   "name": "Salem Al-Azizi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 46,
+   "name": "Mohamed Ba",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 53,
+   "name": "Omar Haikal",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 54,
+   "name": "Abdallah Hausawi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NG"
+  },
+  {
+   "n": 70,
+   "name": "Bader Nasser",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 79,
+   "name": "Pedro Malheiro",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Lucas Souza",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Salem Esam Yaqout",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 5,
+   "name": "Ridwan Popoola",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NG"
+  },
+  {
+   "n": 6,
+   "name": "Siaka Sidibe",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ML"
+  },
+  {
+   "n": 8,
+   "name": "Yahia Nader",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AE"
+  },
+  {
+   "n": 10,
+   "name": "Fabio Lima",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AE"
+  },
+  {
+   "n": 13,
+   "name": "Renato Tapia",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PE"
+  },
+  {
+   "n": 18,
+   "name": "Malek Janeer",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SY"
+  },
+  {
+   "n": 21,
+   "name": "Cameron Puertas",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 26,
+   "name": "Roy Mbongui",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GA"
+  },
+  {
+   "n": 31,
+   "name": "Nicolas Gimenez",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AE"
+  },
+  {
+   "n": 43,
+   "name": "Khaled Al Hamoush",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SY"
+  },
+  {
+   "n": 64,
+   "name": "Ali Ismail Madani",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 71,
+   "name": "Rashid Abdullah",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 76,
+   "name": "Abdulla Ahmed",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 77,
+   "name": "Leandro Spadacio",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AE"
+  },
+  {
+   "n": 80,
+   "name": "Dimas Candido",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": 83,
+   "name": "João Alves",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Yusuf",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 7,
+   "name": "Ali Saleh",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "AE"
+  },
+  {
+   "n": 9,
+   "name": "Mehdi Taremi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IR"
+  },
+  {
+   "n": 19,
+   "name": "Serginho",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "CV"
+  },
+  {
+   "n": 20,
+   "name": "Matheus Saldanha",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 30,
+   "name": "Brahian Palacios",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "CO"
+  },
+  {
+   "n": 38,
+   "name": "A. Konate",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SN"
+  },
+  {
+   "n": 42,
+   "name": "Khalifa Khamis",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AE"
+  },
+  {
+   "n": 57,
+   "name": "Saif Nasser",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AE"
+  },
+  {
+   "n": 59,
+   "name": "Atiq Esam",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AE"
+  },
+  {
+   "n": 78,
+   "name": "Rabee Hassan Salmin",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AE"
+  },
+  {
+   "n": 85,
+   "name": "Juan Campos",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "VE"
+  },
+  {
+   "n": 96,
+   "name": "Renato Junior",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  }
+ ]
+}

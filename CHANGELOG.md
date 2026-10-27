@@ -3416,3 +3416,25 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-27 (2026-10-27T16:39:49Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result saudi-pro-league-2026-27-regular-r08-sa-abha-sa-al-faisaly 0-1 FT
+
+## 2026-10-27 (2026-10-27T17:01:16.310Z)
+- 19 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad ae-al-ain squad added (41 players)
+  - ✓ squad ae-al-jazira squad added (56 players); 1 note(s): shirt number(s) used twice: 25 (as the page lists them)
+  - ✓ squad ae-al-wasl squad added (54 players); 1 note(s): shirt number(s) used twice: 13 (as the page lists them)
+  - ✓ squad gb-eng-arsenal squad unchanged (rechecked)
+  - ✓ squad gb-eng-bournemouth squad added (26 players)
+  - ✓ squad gb-eng-brighton squad added (30 players)
+  - ✓ squad sa-al-ahli-saudi squad added (35 players)
+  - ✓ squad sa-al-hilal squad added (31 players)
+  - ✓ squad sa-al-shabab squad added (33 players); 1 note(s): shirt number(s) used twice: 22 (as the page lists them)
+  - ✓ squad de-fc-koln squad added (29 players)
+  - ✓ squad de-schalke-04 squad added (27 players)
+  - ✓ squad de-tsg-hoffenheim squad added (27 players)
+  - ✓ squad it-ac-milan squad added (28 players)
+  - ✓ squad it-atalanta squad added (25 players)
+  - ✓ squad it-cagliari squad added (30 players)
+  - ✓ squad it-como squad added (27 players)
+  - ✓ squad it-genoa squad added (26 players)
+  - ✓ squad it-inter-milan squad added (24 players)
+  - ✓ squad it-napoli squad added (35 players)
