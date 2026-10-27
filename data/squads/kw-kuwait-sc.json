@@ -1,0 +1,147 @@
+{
+ "team": "kw-kuwait-sc",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/101713/overview/kuwait-sc"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Abdulrahman Marzouq",
+   "pos": "GK",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Khaled Al Rashidi",
+   "pos": "GK",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Saud Al Hoshan",
+   "pos": "GK",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Ali Dara",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Arsène Zola",
+   "pos": "DF",
+   "nat": "CD"
+  },
+  {
+   "n": null,
+   "name": "Fahad Al Rashidi",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Hasan Hamdan",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Humoud Al Sanousi",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Meshari Al Enezi",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Al Rashedi",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Mohsen Ghareeb",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Oumar Gonzalez",
+   "pos": "DF",
+   "nat": "CM"
+  },
+  {
+   "n": null,
+   "name": "Sami Al Sanea",
+   "pos": "DF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Qarzaei",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Ahmad Al Dhefiri",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Faisal Al Harbi",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Marhoon",
+   "pos": "MF",
+   "nat": "BH"
+  },
+  {
+   "n": null,
+   "name": "Redha Hani",
+   "pos": "MF",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Ebrahim Kameel",
+   "pos": "FW",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Daham",
+   "pos": "FW",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Salman Al Awadhi",
+   "pos": "FW",
+   "nat": "KW"
+  },
+  {
+   "n": null,
+   "name": "Taha Khenissi",
+   "pos": "FW",
+   "nat": "TN"
+  },
+  {
+   "n": null,
+   "name": "Yousef Al Sulaiman",
+   "pos": "FW",
+   "nat": "KW"
+  }
+ ]
+}

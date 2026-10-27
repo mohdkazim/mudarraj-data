@@ -1,0 +1,147 @@
+{
+ "team": "jo-al-hussein",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/101688/overview"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Mahmoud Al Kawamleh",
+   "pos": "GK",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Yazeed Abulaila",
+   "pos": "GK",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Abdallah Nasib",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ahmad Assaf",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ahmad Ayman",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ali Hajabi",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Pedro Henrique",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Saleem Obaid",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Yousef Abu Al Jazar",
+   "pos": "DF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Adham Al Quraishi",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Al Salman",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Bani",
+   "pos": "MF",
+   "nat": "RO"
+  },
+  {
+   "n": null,
+   "name": "Aref Al Haj",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Hashem Al Mbaidin",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Mahmoud Al Mardi",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Mahmoud Khrouba",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Mahmoud Shawkat",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Yousef Qashi",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Brayan Riascos",
+   "pos": "FW",
+   "nat": "CO"
+  },
+  {
+   "n": null,
+   "name": "Masoud Juma",
+   "pos": "FW",
+   "nat": "KE"
+  },
+  {
+   "n": null,
+   "name": "Moamen Al Sakhet",
+   "pos": "FW",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Rayhi",
+   "pos": "FW",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Obieda Al Namarnah",
+   "pos": "FW",
+   "nat": "JO"
+  }
+ ]
+}

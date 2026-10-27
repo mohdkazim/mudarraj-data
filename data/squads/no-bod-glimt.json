@@ -1,0 +1,177 @@
+{
+ "team": "no-bod-glimt",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8402/overview/undefined,players,teams"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Isak Sjong",
+   "pos": "GK",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Julian Faye Lund",
+   "pos": "GK",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Martin Lund Andersen",
+   "pos": "GK",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Nikita Haikin",
+   "pos": "GK",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Fredrik André Bjørkan",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Fredrik Sjøvold",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Haitam Aleesami",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Isak Dybvik Määttä",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Jostein Gundersen",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Kasper Johansen Solhaug",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Mathias Blix Olsen",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Matias Jaiteh",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Odin Lurås Bjørtuft",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Villads Nielsen",
+   "pos": "DF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Assan Sanyang",
+   "pos": "MF",
+   "nat": "GM"
+  },
+  {
+   "n": null,
+   "name": "Håkon Evjen",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Joel Mvuka",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Joshua Kitolano",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Magnus Bech Riisnæs",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Patrick Berg",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Sondre Auklend",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Sondre Brunstad Fet",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Ulrik Saltnes",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Andreas Helmersen",
+   "pos": "FW",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "August Mikkelsen",
+   "pos": "FW",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Jens Petter Hauge",
+   "pos": "FW",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Ola Brynhildsen",
+   "pos": "FW",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Ole Blomberg",
+   "pos": "FW",
+   "nat": "NO"
+  }
+ ]
+}

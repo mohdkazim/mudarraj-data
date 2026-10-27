@@ -1,0 +1,195 @@
+{
+ "team": "my-kuching-city",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/pt-PT/teams/1114226/overview/kuching-city"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Haziq Nadzli",
+   "pos": "GK",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Shahril Sa'ari",
+   "pos": "GK",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Wan Azraie",
+   "pos": "GK",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Arif Fadzilah",
+   "pos": "DF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Ariff Farhan",
+   "pos": "DF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Filemon Anyie",
+   "pos": "DF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Gabriel Peres",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Irfan Zakaria",
+   "pos": "DF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "James Okwuosa",
+   "pos": "DF",
+   "nat": "NG"
+  },
+  {
+   "n": null,
+   "name": "Jimmy Raymond",
+   "pos": "DF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Rodney Celvin",
+   "pos": "DF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Yuki Tanigawa",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Ahmad Israiwah",
+   "pos": "MF",
+   "nat": "JO"
+  },
+  {
+   "n": null,
+   "name": "Alif Hassan",
+   "pos": "MF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Declan Lambert",
+   "pos": "MF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Diego Baggio",
+   "pos": "MF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Dylan Wenzel-Halls",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Jerome Mpacko",
+   "pos": "MF",
+   "nat": "CM"
+  },
+  {
+   "n": null,
+   "name": "Kaishu Yamazaki",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Nazmi Faiz",
+   "pos": "MF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Petrus Shitembi",
+   "pos": "MF",
+   "nat": "NA"
+  },
+  {
+   "n": null,
+   "name": "Ramadhan Saifullah",
+   "pos": "MF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Ryan Lambert",
+   "pos": "MF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Safawi Rasid",
+   "pos": "MF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Wesley Azcang Milkias",
+   "pos": "MF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Ajdin Mujagić",
+   "pos": "FW",
+   "nat": "BA"
+  },
+  {
+   "n": null,
+   "name": "Amir Amri Salleh",
+   "pos": "FW",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Gabriel Nistelrooy",
+   "pos": "FW",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "João Pedro",
+   "pos": "FW",
+   "nat": "TL"
+  },
+  {
+   "n": null,
+   "name": "Ronald Ngah",
+   "pos": "FW",
+   "nat": "CM"
+  },
+  {
+   "n": null,
+   "name": "Shamie Iszuan",
+   "pos": "FW",
+   "nat": "MY"
+  }
+ ]
+}

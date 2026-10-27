@@ -3630,3 +3630,13 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad de-darmstadt-98 squad added (31 players)
   - ✓ squad de-vfl-bochum squad added (32 players); 1 note(s): Gerrit Holtmann: unknown nationality "The Phillipines" left out — add it to tools/squads.mjs ALIASES if it is real
   - ✓ squad it-cremonese squad added (28 players); 1 note(s): shirt number(s) used twice: 30 (as the page lists them)
+
+## 2026-10-27 (2026-10-27T18:20:48.569Z)
+- 7 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad jo-al-faisaly squad added (30 players)
+  - ✓ squad jo-al-hussein squad added (23 players)
+  - ✓ squad kw-kuwait-sc squad added (23 players)
+  - ✓ squad my-kuching-city squad added (31 players)
+  - ✓ squad nl-feyenoord squad added (34 players)
+  - ✓ squad nl-psv-eindhoven squad added (24 players)
+  - ✓ squad no-bod-glimt squad added (28 players)

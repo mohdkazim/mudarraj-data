@@ -1,0 +1,213 @@
+{
+ "team": "nl-feyenoord",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/10235/overview/feyenoord,teams"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Florian Kastenmeier",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Liam Bossin",
+   "pos": "GK",
+   "nat": "IE"
+  },
+  {
+   "n": null,
+   "name": "Mannou Berger",
+   "pos": "GK",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Tjark Ernst",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Bart Nieuwkoop",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Gijs Smal",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Givairo Read",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Hakeem Agboluaje",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Javi López",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Jeremiah St. Juste",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Jordan Bos",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Kwame Tabiri",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Mats Deijl",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Mika Mármol",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Thijs Kraaijeveld",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Thomas Beelen",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Tijme Wessels",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Tsuyoshi Watanabe",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Charles Vanhoutte",
+   "pos": "MF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Gjivai Zechiël",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Ilai Grootfaam",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Jakub Moder",
+   "pos": "MF",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Luciano Valente",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Oussama Targhalline",
+   "pos": "MF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Sem Steijn",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Anis Hadj Moussa",
+   "pos": "FW",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Gaoussou Diarra",
+   "pos": "FW",
+   "nat": "ML"
+  },
+  {
+   "n": null,
+   "name": "Gonçalo Borges",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Jivayno Zinhagel",
+   "pos": "FW",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Nacho Ferri",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Reiss Nelson",
+   "pos": "FW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Shaqueel van Persie",
+   "pos": "FW",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Theodoros Delianidis",
+   "pos": "FW",
+   "nat": "GR"
+  },
+  {
+   "n": null,
+   "name": "Tobias van den Elshout",
+   "pos": "FW",
+   "nat": "NL"
+  }
+ ]
+}

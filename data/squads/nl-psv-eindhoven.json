@@ -1,0 +1,153 @@
+{
+ "team": "nl-psv-eindhoven",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8640/overview/players"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Matěj Kovár",
+   "pos": "GK",
+   "nat": "CZ"
+  },
+  {
+   "n": null,
+   "name": "Adamo Nagalo",
+   "pos": "DF",
+   "nat": "BF"
+  },
+  {
+   "n": null,
+   "name": "Armando Obispo",
+   "pos": "DF",
+   "nat": "CW"
+  },
+  {
+   "n": null,
+   "name": "Filip Kostić",
+   "pos": "DF",
+   "nat": "RS"
+  },
+  {
+   "n": null,
+   "name": "Jerdy Schouten",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Kilian Sildillia",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Lutsharel Geertruida",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Mauro Júnior",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Ryan Flamingo",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Sergiño Dest",
+   "pos": "DF",
+   "nat": "US"
+  },
+  {
+   "n": null,
+   "name": "Yarek Gąsiorowski",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Guus Til",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Kodai Sano",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Paul Wanner",
+   "pos": "MF",
+   "nat": "AT"
+  },
+  {
+   "n": null,
+   "name": "Shuryjano Cornecion",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Sven Mijnans",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Alassane Pléa",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Amir Bouhamdi",
+   "pos": "FW",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Dennis Man",
+   "pos": "FW",
+   "nat": "RO"
+  },
+  {
+   "n": null,
+   "name": "Esmir Bajraktarević",
+   "pos": "FW",
+   "nat": "BA"
+  },
+  {
+   "n": null,
+   "name": "Ivan Perišić",
+   "pos": "FW",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Ricardo Pepi",
+   "pos": "FW",
+   "nat": "US"
+  },
+  {
+   "n": null,
+   "name": "Ruben van Bommel",
+   "pos": "FW",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Sam Lammers",
+   "pos": "FW",
+   "nat": "NL"
+  }
+ ]
+}
