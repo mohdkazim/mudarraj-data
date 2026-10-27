@@ -1,0 +1,213 @@
+{
+ "team": "it-arezzo",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/ja/teams/9849/squad/arezzo"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Luca Trombini",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 14,
+   "name": "Alessandro Nunziante",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 22,
+   "name": "Francesco Serban",
+   "pos": "GK",
+   "nat": "RO"
+  },
+  {
+   "n": 90,
+   "name": "Andrea Seculin",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 2,
+   "name": "Marlon Mena",
+   "pos": "DF",
+   "nat": "DO"
+  },
+  {
+   "n": 4,
+   "name": "Mauro Coppolaro",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 5,
+   "name": "Julián Illanes",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 6,
+   "name": "Alessandro Renzi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 13,
+   "name": "Matteo Gilli",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 19,
+   "name": "Marco Chiosa",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 26,
+   "name": "Filippo De Col",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "IT"
+  },
+  {
+   "n": 32,
+   "name": "Andrea Cagnano",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 33,
+   "name": "Davide Mancini",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 37,
+   "name": "Samuele Righetti",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 67,
+   "name": "Gian Marco Ferrari",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 7,
+   "name": "Kevin Leone",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 8,
+   "name": "Shaka Mawuli",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GH"
+  },
+  {
+   "n": 16,
+   "name": "Mattia Sala",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 17,
+   "name": "Artur Ioniţă",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MD"
+  },
+  {
+   "n": 23,
+   "name": "Mattia Viviani",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 24,
+   "name": "Luca Chierico",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 47,
+   "name": "Aleandro Manes",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 78,
+   "name": "Gennaro Iaccarino",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 9,
+   "name": "Alberto Cerri",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 10,
+   "name": "Emiliano Pattarello",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "IT"
+  },
+  {
+   "n": 11,
+   "name": "Leonardo Mancuso",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 21,
+   "name": "Camillo Tavernelli",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IT"
+  },
+  {
+   "n": 30,
+   "name": "Alessandro Arena",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "IT"
+  },
+  {
+   "n": 71,
+   "name": "Pietro Cianci",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 99,
+   "name": "Marco Olivieri",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IT"
+  }
+ ]
+}

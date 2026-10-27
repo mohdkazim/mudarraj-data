@@ -1,0 +1,243 @@
+{
+ "team": "kr-pohang-steelers",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/da/teams/109373/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Yoon Pyung-Guk",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 21,
+   "name": "Hwang In-Jae",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 29,
+   "name": "Hong Seong-Min",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 91,
+   "name": "Kwon Neung",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 2,
+   "name": "Eo Jeong-Won",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "KR"
+  },
+  {
+   "n": 3,
+   "name": "Kim Ye-Sung",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "KR"
+  },
+  {
+   "n": 4,
+   "name": "Jeon Min-Gwang",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 5,
+   "name": "Jin Si-Woo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 13,
+   "name": "Kang Min-Jun",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 17,
+   "name": "Shin Kwang-Hoon",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 20,
+   "name": "Park Chan-Yong",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 32,
+   "name": "Cho Young-Jun",
+   "pos": "DF",
+   "nat": "KR"
+  },
+  {
+   "n": 33,
+   "name": "Jo Sung-Wook",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 36,
+   "name": "Kim Ho-Jin",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 55,
+   "name": "Yun Dae-Geun",
+   "pos": "DF",
+   "nat": "KR"
+  },
+  {
+   "n": 77,
+   "name": "Wanderson",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 8,
+   "name": "Kim Seung-Ho",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 14,
+   "name": "Lee Chang-Woo",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "KR"
+  },
+  {
+   "n": 16,
+   "name": "Kim Dong-Jin",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 22,
+   "name": "Kim Gwang-won",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 26,
+   "name": "Kim Bum-Jun",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 31,
+   "name": "Kento Nishiya",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "JP"
+  },
+  {
+   "n": 40,
+   "name": "Ki Sung-Yueng",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 47,
+   "name": "Lee Soo-Ah",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 70,
+   "name": "Hwang Seo-Ung",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "KR"
+  },
+  {
+   "n": 7,
+   "name": "Won Ki-Jong",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 9,
+   "name": "An Jae-Jun",
+   "pos": "FW",
+   "nat": "KR"
+  },
+  {
+   "n": 10,
+   "name": "Jakob Tranziska",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Juninho",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 12,
+   "name": "Hwang Jae-Hwan",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "KR"
+  },
+  {
+   "n": 18,
+   "name": "Cho Sang-Hyeok",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 25,
+   "name": "Jorge Teixeira",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 30,
+   "name": "Kim Yong-Hak",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "KR"
+  },
+  {
+   "n": 34,
+   "name": "Baek Seung-Won",
+   "pos": "FW",
+   "nat": "KR"
+  },
+  {
+   "n": 37,
+   "name": "Jung Han-Min",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  }
+ ]
+}

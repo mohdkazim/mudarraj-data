@@ -3617,3 +3617,10 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad gb-eng-west-ham-united squad added (26 players)
   - ✓ squad gb-eng-wolverhampton-wanderers squad added (26 players)
   - ✓ squad gr-olympiacos squad added (31 players)
+
+## 2026-10-27 (2026-10-27T18:05:38.095Z)
+- 4 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad kr-jeonbuk-hyundai-motors squad added (27 players)
+  - ✓ squad kr-pohang-steelers squad added (35 players)
+  - ✓ squad it-arezzo squad added (30 players)
+  - ✓ squad it-ascoli squad added (30 players)

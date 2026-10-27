@@ -1,0 +1,194 @@
+{
+ "team": "kr-jeonbuk-hyundai-motors",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/46038/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Lee Ju-Hyun",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 31,
+   "name": "Song Bum-Keun",
+   "pos": "GK",
+   "nat": "KR"
+  },
+  {
+   "n": 2,
+   "name": "Kim Young-Bin",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 3,
+   "name": "Yeon Je-Un",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 4,
+   "name": "Cho Wi-Je",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 5,
+   "name": "Park Ji-Soo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 15,
+   "name": "Kim Ha-Jun",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 23,
+   "name": "Kim Tae-Hwan",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 24,
+   "name": "Lee Sang-Myung",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 66,
+   "name": "Choi Woo-Jin",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "KR"
+  },
+  {
+   "n": 77,
+   "name": "Kim Tae-Hyun",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "KR"
+  },
+  {
+   "n": 6,
+   "name": "Maeng Seong-Ung",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "KR"
+  },
+  {
+   "n": 13,
+   "name": "Kang Sang-Yoon",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "KR"
+  },
+  {
+   "n": 16,
+   "name": "João Gamboa",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PT"
+  },
+  {
+   "n": 28,
+   "name": "Lee Yeong-Jae",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 30,
+   "name": "Dodô",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": 97,
+   "name": "Kim Jin-Gyu",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "KR"
+  },
+  {
+   "n": null,
+   "name": "Jeon Byung-Kwan",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 7,
+   "name": "Lee Dong-Jun",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "KR"
+  },
+  {
+   "n": 9,
+   "name": "Tiago Orobó",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Lee Seung-Woo",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "KR"
+  },
+  {
+   "n": 11,
+   "name": "Kim Seung-Sub",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "KR"
+  },
+  {
+   "n": 21,
+   "name": "Patrick Twumasi",
+   "pos": "FW",
+   "nat": "GH"
+  },
+  {
+   "n": 81,
+   "name": "Gytis Paulauskas",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "LT"
+  },
+  {
+   "n": 95,
+   "name": "Italo",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 96,
+   "name": "Andrea Compagno",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 99,
+   "name": "Bruno Mota",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  }
+ ]
+}

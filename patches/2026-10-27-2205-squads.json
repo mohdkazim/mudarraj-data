@@ -1,0 +1,1017 @@
+{
+ "run": "2026-10-27T18:05:38.095Z",
+ "changes": [
+  {
+   "op": "squad",
+   "team": "kr-jeonbuk-hyundai-motors",
+   "players": [
+    {
+     "n": 1,
+     "name": "Lee Ju-Hyun",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "South Korea"
+    },
+    {
+     "n": 31,
+     "name": "Song Bum-Keun",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "South Korea"
+    },
+    {
+     "n": 2,
+     "name": "Kim Young-Bin",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 3,
+     "name": "Yeon Je-Un",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 4,
+     "name": "Cho Wi-Je",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 5,
+     "name": "Park Ji-Soo",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 15,
+     "name": "Kim Ha-Jun",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 23,
+     "name": "Kim Tae-Hwan",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 24,
+     "name": "Lee Sang-Myung",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 66,
+     "name": "Choi Woo-Jin",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 77,
+     "name": "Kim Tae-Hyun",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "South Korea"
+    },
+    {
+     "n": null,
+     "name": "Jeon Byung-Kwan",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "RW",
+     "nat": "South Korea"
+    },
+    {
+     "n": 6,
+     "name": "Maeng Seong-Ung",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "South Korea"
+    },
+    {
+     "n": 13,
+     "name": "Kang Sang-Yoon",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "South Korea"
+    },
+    {
+     "n": 16,
+     "name": "João Gamboa",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Portugal"
+    },
+    {
+     "n": 28,
+     "name": "Lee Yeong-Jae",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "South Korea"
+    },
+    {
+     "n": 30,
+     "name": "Dodô",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Brazil"
+    },
+    {
+     "n": 97,
+     "name": "Kim Jin-Gyu",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "South Korea"
+    },
+    {
+     "n": 7,
+     "name": "Lee Dong-Jun",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "South Korea"
+    },
+    {
+     "n": 9,
+     "name": "Tiago Orobó",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Brazil"
+    },
+    {
+     "n": 10,
+     "name": "Lee Seung-Woo",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "South Korea"
+    },
+    {
+     "n": 11,
+     "name": "Kim Seung-Sub",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "South Korea"
+    },
+    {
+     "n": 21,
+     "name": "Patrick Twumasi",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "AM",
+     "nat": "Ghana"
+    },
+    {
+     "n": 81,
+     "name": "Gytis Paulauskas",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Lithuania"
+    },
+    {
+     "n": 95,
+     "name": "Italo",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Brazil"
+    },
+    {
+     "n": 96,
+     "name": "Andrea Compagno",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Italy"
+    },
+    {
+     "n": 99,
+     "name": "Bruno Mota",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Brazil"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/teams/46038/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "kr-pohang-steelers",
+   "players": [
+    {
+     "n": 1,
+     "name": "Yoon Pyung-Guk",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "South Korea"
+    },
+    {
+     "n": 21,
+     "name": "Hwang In-Jae",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "South Korea"
+    },
+    {
+     "n": 29,
+     "name": "Hong Seong-Min",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "South Korea"
+    },
+    {
+     "n": 91,
+     "name": "Kwon Neung",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "South Korea"
+    },
+    {
+     "n": 2,
+     "name": "Eo Jeong-Won",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 3,
+     "name": "Kim Ye-Sung",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 4,
+     "name": "Jeon Min-Gwang",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 5,
+     "name": "Jin Si-Woo",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 13,
+     "name": "Kang Min-Jun",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 17,
+     "name": "Shin Kwang-Hoon",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 20,
+     "name": "Park Chan-Yong",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 32,
+     "name": "Cho Young-Jun",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "South Korea"
+    },
+    {
+     "n": 33,
+     "name": "Jo Sung-Wook",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 36,
+     "name": "Kim Ho-Jin",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "South Korea"
+    },
+    {
+     "n": 55,
+     "name": "Yun Dae-Geun",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "South Korea"
+    },
+    {
+     "n": 77,
+     "name": "Wanderson",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Brazil"
+    },
+    {
+     "n": 8,
+     "name": "Kim Seung-Ho",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "South Korea"
+    },
+    {
+     "n": 14,
+     "name": "Lee Chang-Woo",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "RM",
+     "nat": "South Korea"
+    },
+    {
+     "n": 16,
+     "name": "Kim Dong-Jin",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "South Korea"
+    },
+    {
+     "n": 22,
+     "name": "Kim Gwang-won",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "South Korea"
+    },
+    {
+     "n": 26,
+     "name": "Kim Bum-Jun",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "South Korea"
+    },
+    {
+     "n": 31,
+     "name": "Kento Nishiya",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Japan"
+    },
+    {
+     "n": 40,
+     "name": "Ki Sung-Yueng",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "South Korea"
+    },
+    {
+     "n": 47,
+     "name": "Lee Soo-Ah",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "South Korea"
+    },
+    {
+     "n": 70,
+     "name": "Hwang Seo-Ung",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "South Korea"
+    },
+    {
+     "n": 7,
+     "name": "Won Ki-Jong",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "South Korea"
+    },
+    {
+     "n": 9,
+     "name": "An Jae-Jun",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "AM",
+     "nat": "South Korea"
+    },
+    {
+     "n": 10,
+     "name": "Jakob Tranziska",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Germany"
+    },
+    {
+     "n": 11,
+     "name": "Juninho",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Brazil"
+    },
+    {
+     "n": 12,
+     "name": "Hwang Jae-Hwan",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "South Korea"
+    },
+    {
+     "n": 18,
+     "name": "Cho Sang-Hyeok",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "South Korea"
+    },
+    {
+     "n": 25,
+     "name": "Jorge Teixeira",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Brazil"
+    },
+    {
+     "n": 30,
+     "name": "Kim Yong-Hak",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "South Korea"
+    },
+    {
+     "n": 34,
+     "name": "Baek Seung-Won",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "",
+     "nat": "South Korea"
+    },
+    {
+     "n": 37,
+     "name": "Jung Han-Min",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "South Korea"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/da/teams/109373/squad/android-app:"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "it-arezzo",
+   "players": [
+    {
+     "n": 1,
+     "name": "Luca Trombini",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 14,
+     "name": "Alessandro Nunziante",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 22,
+     "name": "Francesco Serban",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Romania"
+    },
+    {
+     "n": 90,
+     "name": "Andrea Seculin",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 2,
+     "name": "Marlon Mena",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Dominican Republic"
+    },
+    {
+     "n": 4,
+     "name": "Mauro Coppolaro",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 5,
+     "name": "Julián Illanes",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Argentina"
+    },
+    {
+     "n": 6,
+     "name": "Alessandro Renzi",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Italy"
+    },
+    {
+     "n": 13,
+     "name": "Matteo Gilli",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 19,
+     "name": "Marco Chiosa",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 26,
+     "name": "Filippo De Col",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RWB",
+     "nat": "Italy"
+    },
+    {
+     "n": 32,
+     "name": "Andrea Cagnano",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Italy"
+    },
+    {
+     "n": 33,
+     "name": "Davide Mancini",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 37,
+     "name": "Samuele Righetti",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Italy"
+    },
+    {
+     "n": 67,
+     "name": "Gian Marco Ferrari",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 7,
+     "name": "Kevin Leone",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 8,
+     "name": "Shaka Mawuli",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Ghana"
+    },
+    {
+     "n": 16,
+     "name": "Mattia Sala",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 17,
+     "name": "Artur Ioniţă",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Moldova"
+    },
+    {
+     "n": 23,
+     "name": "Mattia Viviani",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 24,
+     "name": "Luca Chierico",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Italy"
+    },
+    {
+     "n": 47,
+     "name": "Aleandro Manes",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Italy"
+    },
+    {
+     "n": 78,
+     "name": "Gennaro Iaccarino",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 9,
+     "name": "Alberto Cerri",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Italy"
+    },
+    {
+     "n": 10,
+     "name": "Emiliano Pattarello",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Italy"
+    },
+    {
+     "n": 11,
+     "name": "Leonardo Mancuso",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Italy"
+    },
+    {
+     "n": 21,
+     "name": "Camillo Tavernelli",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Italy"
+    },
+    {
+     "n": 30,
+     "name": "Alessandro Arena",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Italy"
+    },
+    {
+     "n": 71,
+     "name": "Pietro Cianci",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Italy"
+    },
+    {
+     "n": 99,
+     "name": "Marco Olivieri",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Italy"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/ja/teams/9849/squad/arezzo"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "it-ascoli",
+   "players": [
+    {
+     "n": 1,
+     "name": "Samuele Vitale",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 12,
+     "name": "Rocco Dente",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 22,
+     "name": "Matteo Raffaelli",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": 41,
+     "name": "Rok Brzan",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Slovenia"
+    },
+    {
+     "n": 45,
+     "name": "Gian Crespi",
+     "ar": "",
+     "pos": "Keepers",
+     "role": "GK",
+     "nat": "Italy"
+    },
+    {
+     "n": null,
+     "name": "Damiano Menna",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Italy"
+    },
+    {
+     "n": 3,
+     "name": "Manuel Nicoletti",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LM",
+     "nat": "Italy"
+    },
+    {
+     "n": 5,
+     "name": "Lorenzo Venuti",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 17,
+     "name": "Filippo Diamanti",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Italy"
+    },
+    {
+     "n": 19,
+     "name": "Abdoul Guiébré",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "LB",
+     "nat": "Burkina Faso"
+    },
+    {
+     "n": 23,
+     "name": "Manuel Alagna",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "",
+     "nat": "Italy"
+    },
+    {
+     "n": 30,
+     "name": "Marcos Curado",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Argentina"
+    },
+    {
+     "n": 32,
+     "name": "Federico Gattoni",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Argentina"
+    },
+    {
+     "n": 33,
+     "name": "Nicholas Rizzo",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "CB",
+     "nat": "Italy"
+    },
+    {
+     "n": 62,
+     "name": "Tommaso Milanese",
+     "ar": "",
+     "pos": "Defenders",
+     "role": "RB",
+     "nat": "Italy"
+    },
+    {
+     "n": 4,
+     "name": "Samuele Damiani",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Italy"
+    },
+    {
+     "n": 8,
+     "name": "Giovanni Corradini",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Italy"
+    },
+    {
+     "n": 11,
+     "name": "Sergiu Perciun",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Moldova"
+    },
+    {
+     "n": 13,
+     "name": "Gennaro Acampora",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "DM",
+     "nat": "Italy"
+    },
+    {
+     "n": 14,
+     "name": "Andrea Oliveri",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "RM",
+     "nat": "Italy"
+    },
+    {
+     "n": 16,
+     "name": "Antonio Russo",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "",
+     "nat": "Italy"
+    },
+    {
+     "n": 18,
+     "name": "Luca Lo Scalzo",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Italy"
+    },
+    {
+     "n": 21,
+     "name": "Giacomo De Pieri",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Italy"
+    },
+    {
+     "n": 27,
+     "name": "Matteo Ricci",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "CM",
+     "nat": "Italy"
+    },
+    {
+     "n": 77,
+     "name": "Don Bolsius",
+     "ar": "",
+     "pos": "Midfielders",
+     "role": "AM",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 7,
+     "name": "Andrea Silipo",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "RW",
+     "nat": "Italy"
+    },
+    {
+     "n": 9,
+     "name": "Amine Chakir",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Italy"
+    },
+    {
+     "n": 15,
+     "name": "Simone D'Uffizi",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "LW",
+     "nat": "Italy"
+    },
+    {
+     "n": 35,
+     "name": "Gabriele Gori",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Italy"
+    },
+    {
+     "n": 99,
+     "name": "Matteo Brunori",
+     "ar": "",
+     "pos": "Forwards",
+     "role": "ST",
+     "nat": "Italy"
+    }
+   ],
+   "sources": [
+    "https://www.fotmob.com/sv/teams/8522/squad/ascoli"
+   ]
+  }
+ ]
+}

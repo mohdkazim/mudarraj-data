@@ -1,0 +1,209 @@
+{
+ "team": "it-ascoli",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/sv/teams/8522/squad/ascoli"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Samuele Vitale",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 12,
+   "name": "Rocco Dente",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 22,
+   "name": "Matteo Raffaelli",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 41,
+   "name": "Rok Brzan",
+   "pos": "GK",
+   "nat": "SI"
+  },
+  {
+   "n": 45,
+   "name": "Gian Crespi",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 3,
+   "name": "Manuel Nicoletti",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": 5,
+   "name": "Lorenzo Venuti",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 17,
+   "name": "Filippo Diamanti",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": 19,
+   "name": "Abdoul Guiébré",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BF"
+  },
+  {
+   "n": 23,
+   "name": "Manuel Alagna",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": 30,
+   "name": "Marcos Curado",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 32,
+   "name": "Federico Gattoni",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 33,
+   "name": "Nicholas Rizzo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 62,
+   "name": "Tommaso Milanese",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Damiano Menna",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": 4,
+   "name": "Samuele Damiani",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 8,
+   "name": "Giovanni Corradini",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 11,
+   "name": "Sergiu Perciun",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MD"
+  },
+  {
+   "n": 13,
+   "name": "Gennaro Acampora",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 14,
+   "name": "Andrea Oliveri",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IT"
+  },
+  {
+   "n": 16,
+   "name": "Antonio Russo",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 18,
+   "name": "Luca Lo Scalzo",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 21,
+   "name": "Giacomo De Pieri",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 27,
+   "name": "Matteo Ricci",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 77,
+   "name": "Don Bolsius",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "NL"
+  },
+  {
+   "n": 7,
+   "name": "Andrea Silipo",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "IT"
+  },
+  {
+   "n": 9,
+   "name": "Amine Chakir",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 15,
+   "name": "Simone D'Uffizi",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IT"
+  },
+  {
+   "n": 35,
+   "name": "Gabriele Gori",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 99,
+   "name": "Matteo Brunori",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  }
+ ]
+}
