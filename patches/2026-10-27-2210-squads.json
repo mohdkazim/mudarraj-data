@@ -1,0 +1,669 @@
+{
+ "run": "2026-10-27T18:10:46.035Z",
+ "changes": [
+  {
+   "op": "squad",
+   "team": "de-darmstadt-98",
+   "players": [
+    {
+     "n": 1,
+     "name": "Marcel Schuhen",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 24,
+     "name": "Benedikt Börner",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 30,
+     "name": "Alexander Brunst-Zöllner",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 3,
+     "name": "Florian Kleinhansl",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 4,
+     "name": "Grayson Dettoni",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "USA"
+    },
+    {
+     "n": 6,
+     "name": "Patric Pfeiffer",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Ghana"
+    },
+    {
+     "n": 14,
+     "name": "Meldin Drešković",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Montenegro"
+    },
+    {
+     "n": 18,
+     "name": "Raoul Petretta",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 20,
+     "name": "Aleksandar Vukotic",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Serbia"
+    },
+    {
+     "n": 25,
+     "name": "William Mikelbrencis",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "France"
+    },
+    {
+     "n": 26,
+     "name": "Matthias Bader",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 28,
+     "name": "Christopher Lannert",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 45,
+     "name": "Max Pfister",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 49,
+     "name": "Yannik Lührs",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 8,
+     "name": "Luca Marseiler",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 10,
+     "name": "Nicolas Verkooijen",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Belgium"
+    },
+    {
+     "n": 15,
+     "name": "Fabian Nurnberger",
+     "ar": "",
+     "pos": "Left Midfield",
+     "nat": "Bulgaria"
+    },
+    {
+     "n": 16,
+     "name": "Hiroki Akiyama",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Japan"
+    },
+    {
+     "n": 17,
+     "name": "Kai Klefisch",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 21,
+     "name": "Merveille Papela",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 23,
+     "name": "Carlo Sickinger",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 41,
+     "name": "Lance Duijvestijn",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 47,
+     "name": "Milian Herbst",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 7,
+     "name": "Noah Weisshaupt",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Germany"
+    },
+    {
+     "n": 9,
+     "name": "Lee Ho-Jae",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "South Korea"
+    },
+    {
+     "n": 11,
+     "name": "Ibrahim El Kadiri",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Morocco"
+    },
+    {
+     "n": 19,
+     "name": "Fynn Lakenmacher",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Germany"
+    },
+    {
+     "n": 22,
+     "name": "Lars Keh",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Germany"
+    },
+    {
+     "n": 36,
+     "name": "Milan Smit",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Netherlands"
+    },
+    {
+     "n": 44,
+     "name": "Yosuke Furukawa",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Japan"
+    },
+    {
+     "n": 48,
+     "name": "Manolo Merx",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "Germany"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/team/sv-darmstadt-98-454/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "de-vfl-bochum",
+   "players": [
+    {
+     "n": 1,
+     "name": "Timo Horn",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 22,
+     "name": "Niclas Thiede",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": 38,
+     "name": "Paul Grave",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Mikkel Rakneberg",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Norway"
+    },
+    {
+     "n": 3,
+     "name": "Philipp Strompf",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 4,
+     "name": "Erhan Masovic",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Serbia"
+    },
+    {
+     "n": 7,
+     "name": "Kevin Vogt",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 13,
+     "name": "Oliver Olsen",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Denmark"
+    },
+    {
+     "n": 20,
+     "name": "Noah Loosli",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Switzerland"
+    },
+    {
+     "n": 30,
+     "name": "Darnell Keumo",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 32,
+     "name": "Maximilian Wittek",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 35,
+     "name": "Kacper Kościerski",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 39,
+     "name": "Leandro Morgalla",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Germany"
+    },
+    {
+     "n": 8,
+     "name": "Kjell Wätjen",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 11,
+     "name": "Moritz-Broni Kwarteng",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 19,
+     "name": "Matúš Bero",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Slovakia"
+    },
+    {
+     "n": 21,
+     "name": "Francis Onyeka",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 23,
+     "name": "Koji Miyoshi",
+     "ar": "",
+     "pos": "Right Midfield",
+     "nat": "Japan"
+    },
+    {
+     "n": 24,
+     "name": "Mats Pannewig",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 26,
+     "name": "Romario Rösch",
+     "ar": "",
+     "pos": "Left Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 27,
+     "name": "Niklas Jahn",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 28,
+     "name": "Lennart Koerdt",
+     "ar": "",
+     "pos": "Attacking Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 31,
+     "name": "Marcel Sobottka",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": 34,
+     "name": "Cajetan Lenz",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Germany"
+    },
+    {
+     "n": null,
+     "name": "Louis Köster",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Germany"
+    },
+    {
+     "n": 9,
+     "name": "Ibrahim Sissoko",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Mali"
+    },
+    {
+     "n": 16,
+     "name": "Callum Marshall",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Northern Ireland"
+    },
+    {
+     "n": 17,
+     "name": "Gerrit Holtmann",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "The Phillipines"
+    },
+    {
+     "n": 29,
+     "name": "Farid Alfa-Ruprecht",
+     "ar": "",
+     "pos": "Right Forward",
+     "nat": "Germany"
+    },
+    {
+     "n": 33,
+     "name": "Philipp Hofmann",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Germany"
+    },
+    {
+     "n": 37,
+     "name": "Alessandro Crimaldi",
+     "ar": "",
+     "pos": "Left Forward",
+     "nat": "Italy"
+    },
+    {
+     "n": 40,
+     "name": "Luis Pick",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Germany"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/vfl-bochum-343/squad"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "it-cremonese",
+   "players": [
+    {
+     "n": 1,
+     "name": "Emil Audero",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Indonesia"
+    },
+    {
+     "n": 16,
+     "name": "Marco Silvestri",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Italy"
+    },
+    {
+     "n": 69,
+     "name": "Lapo Nava",
+     "ar": "",
+     "pos": "Goalkeeper",
+     "nat": "Italy"
+    },
+    {
+     "n": 3,
+     "name": "Giuseppe Pezzella",
+     "ar": "",
+     "pos": "Left Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 4,
+     "name": "Tommaso Barbieri",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 5,
+     "name": "Sebastiano Luperto",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 6,
+     "name": "Federico Baschirotto",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 15,
+     "name": "Matteo Bianchetti",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 22,
+     "name": "Romano Floriani",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 23,
+     "name": "Federico Ceccherini",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 24,
+     "name": "Filippo Terracciano",
+     "ar": "",
+     "pos": "Right Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 30,
+     "name": "Maissa Ndiaye",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Senegal"
+    },
+    {
+     "n": 30,
+     "name": "Mikayil Faye",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Senegal"
+    },
+    {
+     "n": 55,
+     "name": "Francesco Folino",
+     "ar": "",
+     "pos": "Centre Back",
+     "nat": "Italy"
+    },
+    {
+     "n": 2,
+     "name": "Morten Thorsby",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Norway"
+    },
+    {
+     "n": 7,
+     "name": "Alessio Zerbin",
+     "ar": "",
+     "pos": "Right Midfield",
+     "nat": "Italy"
+    },
+    {
+     "n": 18,
+     "name": "Michele Collocolo",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Italy"
+    },
+    {
+     "n": 27,
+     "name": "Jari Vandeputte",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Belgium"
+    },
+    {
+     "n": 29,
+     "name": "Youssef Maleh",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Morocco"
+    },
+    {
+     "n": 32,
+     "name": "Martín Payero",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "Argentina"
+    },
+    {
+     "n": 33,
+     "name": "Alberto Grassi",
+     "ar": "",
+     "pos": "Defensive Midfield",
+     "nat": "Italy"
+    },
+    {
+     "n": 38,
+     "name": "Warren Bondo",
+     "ar": "",
+     "pos": "Central Midfield",
+     "nat": "France"
+    },
+    {
+     "n": 9,
+     "name": "Milan Djuric",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Bosnia & Herzegovina"
+    },
+    {
+     "n": 10,
+     "name": "Jamie Vardy",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "England"
+    },
+    {
+     "n": 14,
+     "name": "Faris Moumbagna",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Cameroon"
+    },
+    {
+     "n": 77,
+     "name": "David Okereke",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 90,
+     "name": "Federico Bonazzoli",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Italy"
+    },
+    {
+     "n": 99,
+     "name": "Antonio Sanabria",
+     "ar": "",
+     "pos": "Centre Forward",
+     "nat": "Paraguay"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/cremonese-290/squad"
+   ]
+  }
+ ]
+}

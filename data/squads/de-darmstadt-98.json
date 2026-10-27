@@ -1,0 +1,223 @@
+{
+ "team": "de-darmstadt-98",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.365scores.com/en-us/football/team/sv-darmstadt-98-454/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Marcel Schuhen",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Benedikt Börner",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Alexander Brunst-Zöllner",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Florian Kleinhansl",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Grayson Dettoni",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "US"
+  },
+  {
+   "n": 6,
+   "name": "Patric Pfeiffer",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GH"
+  },
+  {
+   "n": 14,
+   "name": "Meldin Drešković",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ME"
+  },
+  {
+   "n": 18,
+   "name": "Raoul Petretta",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 20,
+   "name": "Aleksandar Vukotic",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RS"
+  },
+  {
+   "n": 25,
+   "name": "William Mikelbrencis",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FR"
+  },
+  {
+   "n": 26,
+   "name": "Matthias Bader",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Christopher Lannert",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 45,
+   "name": "Max Pfister",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 49,
+   "name": "Yannik Lührs",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Luca Marseiler",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Nicolas Verkooijen",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BE"
+  },
+  {
+   "n": 15,
+   "name": "Fabian Nurnberger",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "BG"
+  },
+  {
+   "n": 16,
+   "name": "Hiroki Akiyama",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 17,
+   "name": "Kai Klefisch",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Merveille Papela",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Carlo Sickinger",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 41,
+   "name": "Lance Duijvestijn",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "NL"
+  },
+  {
+   "n": 47,
+   "name": "Milian Herbst",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Noah Weisshaupt",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Lee Ho-Jae",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "KR"
+  },
+  {
+   "n": 11,
+   "name": "Ibrahim El Kadiri",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "MA"
+  },
+  {
+   "n": 19,
+   "name": "Fynn Lakenmacher",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Lars Keh",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Milan Smit",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NL"
+  },
+  {
+   "n": 44,
+   "name": "Yosuke Furukawa",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "JP"
+  },
+  {
+   "n": 48,
+   "name": "Manolo Merx",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "DE"
+  }
+ ]
+}

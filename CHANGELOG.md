@@ -3624,3 +3624,9 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad kr-pohang-steelers squad added (35 players)
   - ✓ squad it-arezzo squad added (30 players)
   - ✓ squad it-ascoli squad added (30 players)
+
+## 2026-10-27 (2026-10-27T18:10:46.035Z)
+- 3 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad de-darmstadt-98 squad added (31 players)
+  - ✓ squad de-vfl-bochum squad added (32 players); 1 note(s): Gerrit Holtmann: unknown nationality "The Phillipines" left out — add it to tools/squads.mjs ALIASES if it is real
+  - ✓ squad it-cremonese squad added (28 players); 1 note(s): shirt number(s) used twice: 30 (as the page lists them)
