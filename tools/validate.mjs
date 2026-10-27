@@ -48,6 +48,31 @@ export function validate(all = loadAll(), now = Date.now()) {
     const numbers = sq.players.map((p) => p.n).filter((n) => n !== null);
     if (new Set(numbers).size !== numbers.length) warn(where, "a shirt number is used twice (as the source lists it)");
   }
+  // A player on a 365Scores list and on another club's FotMob list: the 365Scores list is probably out of date
+  // (it is slow with transfers). Same name (two words or more) and, when both lists give one, the same
+  // nationality. status.mjs puts such clubs on SQUADS TO CHECK.
+  const listedBy = new Map();
+  const plain = (s) => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/[^a-z ]/g, "").replace(/\s+/g, " ").trim();
+  for (const [id, sq] of loadSquads()) {
+    for (const p of sq.players ?? []) {
+      const key = plain(p.name);
+      if (key.split(" ").length < 2) continue;
+      if (!listedBy.has(key)) listedBy.set(key, []);
+      listedBy.get(key).push({ id, nat: p.nat ?? null, name: p.name, fotmob: (sq.sources ?? []).some((u) => /fotmob\.com/.test(u)) });
+    }
+  }
+  const pairs = new Map();
+  for (const list of listedBy.values()) {
+    for (let i = 0; i < list.length; i++)
+      for (let j = i + 1; j < list.length; j++) {
+        const [a, b] = [list[i], list[j]];
+        if (a.id === b.id || (a.nat && b.nat && a.nat !== b.nat) || a.fotmob === b.fotmob) continue;
+        const k = [a.id, b.id].sort().join(" and ");
+        if (!pairs.has(k)) pairs.set(k, []);
+        pairs.get(k).push(a.name);
+      }
+  }
+  for (const [k, names] of pairs) warn(`squads ${k}`, `both list ${names.join(", ")}: the 365Scores list is probably out of date (status lists it to recopy from FotMob)`);
 
   // ---- competitions
   for (const c of all.competitions) {
