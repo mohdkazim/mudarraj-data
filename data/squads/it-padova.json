@@ -1,0 +1,189 @@
+{
+ "team": "it-padova",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/583944/overview/android-app:"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Alessandro Sorrentino",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Louis Mouquet",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Simone Scaglia",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alessandro Dellavalle",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Carlo Faedo",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Christian Pastina",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Enrico Silletti",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Filippo Sgarbi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matteo Lovato",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alessandro Capelli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Antonio Barreca",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Diego Marcolini",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Edoardo Caporello",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Emanuele Zuelli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Francesco Di Mariano",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Giovanni Giunti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Kevin Varas",
+   "pos": "MF",
+   "nat": "EC"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Carissoni",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luca Zanimacchia",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marco Pompetti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matteo Cocchi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Pietro Fusi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alessandro Seghetti",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Cristian Buonaiuto",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Gabriele Artistico",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Gianluca Caprari",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Kevin Lasagna",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luca Moro",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mattia Bortolussi",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nicolas Galazzi",
+   "pos": "FW",
+   "nat": "IT"
+  }
+ ]
+}

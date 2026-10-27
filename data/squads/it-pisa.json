@@ -1,0 +1,219 @@
+{
+ "team": "it-pisa",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/6479/squad/undefined,teams,players,teams,teams,teams,teams,teams,teams"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Simone Scuffet",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 22,
+   "name": "Leonardo Loria",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 98,
+   "name": "Alessandro Confente",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 2,
+   "name": "Rosen Bozhinov",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BG"
+  },
+  {
+   "n": 4,
+   "name": "Antonio Caracciolo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 5,
+   "name": "Simone Canestrelli",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 13,
+   "name": "Andrea Primasso",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 26,
+   "name": "Francesco Coppola",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 33,
+   "name": "Arturo Calabresi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mateus Lusuardi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 3,
+   "name": "Samuele Angori",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "IT"
+  },
+  {
+   "n": 7,
+   "name": "Mehdi Léris",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "DZ"
+  },
+  {
+   "n": 10,
+   "name": "Mattéo Tramoni",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 14,
+   "name": "Felipe Loyola",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CL"
+  },
+  {
+   "n": 17,
+   "name": "Emanuele Rao",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 19,
+   "name": "Tomás Esteves",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 21,
+   "name": "İsak Vural",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "TR"
+  },
+  {
+   "n": 23,
+   "name": "Tommaso Marras",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 24,
+   "name": "Jacopo Frosali",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 29,
+   "name": "Omar Correia",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 36,
+   "name": "Gabriele Piccinini",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 41,
+   "name": "Daniel Battistella",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 55,
+   "name": "Giuseppe Leone",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 72,
+   "name": "Simone Zanon",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IT"
+  },
+  {
+   "n": 8,
+   "name": "Filippo Pittarello",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 11,
+   "name": "Ichem Ferrah",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "FR"
+  },
+  {
+   "n": 16,
+   "name": "Louis Buffon",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": 32,
+   "name": "Stefano Moreo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 37,
+   "name": "Andrea Petagna",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 44,
+   "name": "Daniel Denoon",
+   "pos": "FW",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Elia Giani",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  }
+ ]
+}

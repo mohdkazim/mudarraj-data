@@ -1,0 +1,189 @@
+{
+ "team": "it-empoli",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/tr/teams/8534/overview/empoli"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Emiliano Filippis",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Jacopo Seghetti",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Samuele Perisan",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Cristian Cauz",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Dawid Bembnista",
+   "pos": "DF",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Gabriele Indragoli",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marco Curto",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Roberto Berizzi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Samsondeen Babalola",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Simone Romagnoli",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Andrea Orlandi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Danilo Busiello",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Duccio Degli Innocenti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Edoardo Biondini",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Edoardo Saporiti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Filippo Bandinelli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Gerard Yepes",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Joseph Ceesay",
+   "pos": "MF",
+   "nat": "GM"
+  },
+  {
+   "n": null,
+   "name": "Karim Zedadka",
+   "pos": "MF",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Lapo Deli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luca Belardinelli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luca Magnino",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matteo Egan",
+   "pos": "MF",
+   "nat": "IE"
+  },
+  {
+   "n": null,
+   "name": "Mattia Huqi",
+   "pos": "MF",
+   "nat": "AL"
+  },
+  {
+   "n": null,
+   "name": "Niccolò Corrado",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Bogdan Popov",
+   "pos": "FW",
+   "nat": "UA"
+  },
+  {
+   "n": null,
+   "name": "Filippo Distefano",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Florijan Meznar",
+   "pos": "FW",
+   "nat": "SI"
+  },
+  {
+   "n": null,
+   "name": "Salvatore Monaco",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Stiven Shpendi",
+   "pos": "FW",
+   "nat": "AL"
+  }
+ ]
+}

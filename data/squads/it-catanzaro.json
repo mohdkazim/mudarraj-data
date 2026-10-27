@@ -1,0 +1,201 @@
+{
+ "team": "it-catanzaro",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/de/teams/10168/overview/players"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Christian Marietta",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Edoardo Borrelli",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mirko Pigliacelli",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Bruno Verrengia",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marcello Piras",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marco Imperiale",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marco Ruggero",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matias Antonini Lui",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Niccolò Postiglione",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Raul Tassoni",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Antonio Candela",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Federico Cassa",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Federico Di Francesco",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Francesco Reita",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Franky Tchaouna",
+   "pos": "MF",
+   "nat": "TD"
+  },
+  {
+   "n": null,
+   "name": "Gabriele Alesi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Jacopo Petriccione",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marco D'Alessandro",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mehdi Dorval",
+   "pos": "MF",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Nicola Mosti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nicolò Buso",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Pietro Iemmello",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Ruggero Frosinini",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Samuel Giovane",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Simone Pafundi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alejo Garnica",
+   "pos": "FW",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Andrej Pogacar",
+   "pos": "FW",
+   "nat": "SI"
+  },
+  {
+   "n": null,
+   "name": "Emanuele Pecorino",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Franck Tchaouna",
+   "pos": "FW",
+   "nat": "TD"
+  },
+  {
+   "n": null,
+   "name": "Gabriel Arditi",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "N'Dri Koffi",
+   "pos": "FW",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Solomon Loubao",
+   "pos": "FW",
+   "nat": "FR"
+  }
+ ]
+}

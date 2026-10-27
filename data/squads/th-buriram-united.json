@@ -1,0 +1,237 @@
+{
+ "team": "th-buriram-united",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/165243/overview/buriram-united"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Chatchai Bootprom",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Korraphat Nareechan",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Neil Etheridge",
+   "pos": "GK",
+   "nat": "PH"
+  },
+  {
+   "n": null,
+   "name": "Prapot Chongcharoen",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Caju",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Curtis Good",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Eduardo Mancha",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Jakkapan Praisuwan",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Kenneth Dougall",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Lucas Ahijado",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Narubadin Weerawatnodom",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Nathan",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Pansa Hemviboon",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Sasalak Haiprakhon",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Shinnaphat Leeaoh",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Supanat Mahawai",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Uroš Radaković",
+   "pos": "DF",
+   "nat": "RS"
+  },
+  {
+   "n": null,
+   "name": "Anan Yodsangwal",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Darlan",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Dutsadee Buranajutanon",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Goran Čaušić",
+   "pos": "MF",
+   "nat": "RS"
+  },
+  {
+   "n": null,
+   "name": "Iklas Sanron",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Kingsley Schindler",
+   "pos": "MF",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Marc Navarro",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Paulinho",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Phitiwat Sookjitthammakul",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Phonphithak Rungrueang",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Theerathon Bunmathan",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Toni Moya",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Vukan Savićević",
+   "pos": "MF",
+   "nat": "ME"
+  },
+  {
+   "n": null,
+   "name": "Alexandru Tudorie",
+   "pos": "FW",
+   "nat": "RO"
+  },
+  {
+   "n": null,
+   "name": "Bissoli",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Nathakorn Rattanasuwan",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Rubén Sánchez",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Sebas Moyano",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Stefan Schimmer",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Supachai Chaided",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Thanakrit Chotmuangpak",
+   "pos": "FW",
+   "nat": "TH"
+  }
+ ]
+}

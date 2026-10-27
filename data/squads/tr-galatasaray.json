@@ -1,0 +1,195 @@
+{
+ "team": "tr-galatasaray",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8637/overview/undefined,teams"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Enes Büyük",
+   "pos": "GK",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Günay Güvenc",
+   "pos": "GK",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Jankat Yılmaz",
+   "pos": "GK",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Uğurcan Çakir",
+   "pos": "GK",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Abdülkerim Bardakci",
+   "pos": "DF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Arda Ünyay",
+   "pos": "DF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Davinson Sánchez",
+   "pos": "DF",
+   "nat": "CO"
+  },
+  {
+   "n": null,
+   "name": "El Chadaille Bitshiabu",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Eren Elmalı",
+   "pos": "DF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Ismail Jakobs",
+   "pos": "DF",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Kazımcan Karataş",
+   "pos": "DF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Roland Sallai",
+   "pos": "DF",
+   "nat": "HU"
+  },
+  {
+   "n": null,
+   "name": "Wilfried Singo",
+   "pos": "DF",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Aleksey Batrakov",
+   "pos": "MF",
+   "nat": "RU"
+  },
+  {
+   "n": null,
+   "name": "Eyüp Aydın",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Gabriel Sara",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Ilkay Gündogan",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Kaan Ayhan",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Lesley Ugochukwu",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Lucas Torreira",
+   "pos": "MF",
+   "nat": "UY"
+  },
+  {
+   "n": null,
+   "name": "Mario Lemina",
+   "pos": "MF",
+   "nat": "GA"
+  },
+  {
+   "n": null,
+   "name": "Renato Nhaga",
+   "pos": "MF",
+   "nat": "GW"
+  },
+  {
+   "n": null,
+   "name": "Yunus Akgün",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Ada Yüzgec",
+   "pos": "FW",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Armando Güner",
+   "pos": "FW",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Barış Alper Yılmaz",
+   "pos": "FW",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Berat Luş",
+   "pos": "FW",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Deniz Gül",
+   "pos": "FW",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Leroy Sané",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Rafael Leão",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Victor Osimhen",
+   "pos": "FW",
+   "nat": "NG"
+  }
+ ]
+}

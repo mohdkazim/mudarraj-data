@@ -3660,3 +3660,26 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-27 (2026-10-27T18:35:00Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result acle-2026-27-league-west-gwest-r03-ae-shabab-al-ahli-ir-esteghlal 2-0 FT
+
+## 2026-10-27 (2026-10-27T18:40:57.859Z)
+- 20 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad nt-ae squad added (26 players)
+  - ✓ squad th-buriram-united squad added (38 players)
+  - ✓ squad th-port-fc squad added (33 players)
+  - ✓ squad th-ratchaburi squad added (33 players)
+  - ✓ squad tr-fenerbahce squad added (29 players)
+  - ✓ squad tr-galatasaray squad added (31 players)
+  - ✓ squad uz-pakhtakor squad added (30 players)
+  - ✓ squad vn-cong-an-ha-noi squad added (26 players)
+  - ✓ squad vn-the-cong-viettel squad added (29 players)
+  - ✓ squad it-avellino squad added (30 players)
+  - ✓ squad it-carrarese squad added (32 players)
+  - ✓ squad it-catanzaro squad added (32 players)
+  - ✓ squad it-cesena squad added (32 players)
+  - ✓ squad it-empoli squad added (30 players)
+  - ✓ squad it-juve-stabia squad added (30 players)
+  - ✓ squad it-mantova squad added (33 players)
+  - ✓ squad it-modena squad added (32 players)
+  - ✓ squad it-padova squad added (30 players)
+  - ✓ squad it-pisa squad added (31 players)
+  - ✓ squad de-ssv-jeddeloh-ii squad added (24 players)

@@ -1,0 +1,201 @@
+{
+ "team": "it-cesena",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/584022/overview/cesena"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Alessandro Siano",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Jonathan Klinsmann",
+   "pos": "GK",
+   "nat": "US"
+  },
+  {
+   "n": null,
+   "name": "Luca Ferretti",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Niccolò Fontana",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Simone Gianfanti",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Mazzi",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Andrea Ciofi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Antonio David",
+   "pos": "DF",
+   "nat": "RO"
+  },
+  {
+   "n": null,
+   "name": "Jacopo Gelli",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mark Natta",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Massimiliano Mangraviti",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matteo Piacentini",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mihajlo Ilić",
+   "pos": "DF",
+   "nat": "RS"
+  },
+  {
+   "n": null,
+   "name": "Vittorio Magni",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Dimitri Bisoli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Emil Bohinen",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Filippo Bertaccini",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Gianluca Frabotta",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luca Schirone",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marco Dalla Vecchia",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matteo Casadei",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matteo Francesconi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matteo Guidi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matteo Lontani",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Riccardo Pagano",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alessandro Debenedetti",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Antonio Fiori",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Cristian Shpendi",
+   "pos": "FW",
+   "nat": "AL"
+  },
+  {
+   "n": null,
+   "name": "Luca D'Andrea",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Maat Caprini",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Maurizio Rossetti",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Xavello Druiventak",
+   "pos": "FW",
+   "nat": "NL"
+  }
+ ]
+}

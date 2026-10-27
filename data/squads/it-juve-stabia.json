@@ -1,0 +1,189 @@
+{
+ "team": "it-juve-stabia",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/6106/overview/juve-stabia"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Alessandro Signorini",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Ante Vuković",
+   "pos": "GK",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Antonio Vetrò",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Paolo Vismara",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Pietro Boer",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Davide Bettella",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Francesco Gallea",
+   "pos": "DF",
+   "nat": "ML"
+  },
+  {
+   "n": null,
+   "name": "Giulio Scuderi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marco Bellich",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nicola Pietrangeli",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Terrence Douglas",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Maggioni",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Christian Pierobon",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Daniel Perin",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Davide Buglio",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Fabio Maistro",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Federico Artioli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Justin Kumi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Kevin Piscopo",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Manuel Ricciardi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nermin Karić",
+   "pos": "MF",
+   "nat": "SE"
+  },
+  {
+   "n": null,
+   "name": "Saná Fernandes",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Thomas Battistella",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Antonio Di Nardo",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Edoardo Lonardo",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Giuseppe Sibilli",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Leonardo Candellone",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luigi Caccavo",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nicola Patanè",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Romeo Sandrucci",
+   "pos": "FW",
+   "nat": "IT"
+  }
+ ]
+}

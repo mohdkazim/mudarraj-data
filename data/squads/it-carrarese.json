@@ -1,0 +1,201 @@
+{
+ "team": "it-carrarese",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/6488"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Giovanni Garofani",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mattia Bencaster",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nicola Ravaglia",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Semuel Pizzignacco",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Stefano Mazzini",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Colin Dagba",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "David Vujevic",
+   "pos": "DF",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Fabio Ruggeri",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Filippo Oliana",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Filippo Reale",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Romani",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Niccolo Romagnoli",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Guercio",
+   "pos": "DF",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Macchioni",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Gabriele Parlanti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Giulio Baroncelli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Gonçalo Esteves",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Jacopo Martini",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Jonas Rouhi",
+   "pos": "MF",
+   "nat": "SE"
+  },
+  {
+   "n": null,
+   "name": "Luka Topalović",
+   "pos": "MF",
+   "nat": "SI"
+  },
+  {
+   "n": null,
+   "name": "Matthias Braunöder",
+   "pos": "MF",
+   "nat": "AT"
+  },
+  {
+   "n": null,
+   "name": "Niccolò Belloni",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nicolás Schiavi",
+   "pos": "MF",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Pietro Pinelli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Yanis Khafi",
+   "pos": "MF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Fabio Abiuso",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Giacomo Marconi",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mattia Finotto",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Moustapha Cissé",
+   "pos": "FW",
+   "nat": "GN"
+  },
+  {
+   "n": null,
+   "name": "Nicholas Bonfanti",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nicolo Cudrig",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Rubino",
+   "pos": "FW",
+   "nat": "IT"
+  }
+ ]
+}

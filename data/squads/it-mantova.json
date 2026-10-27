@@ -1,0 +1,207 @@
+{
+ "team": "it-mantova",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9889/overview"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Francesco Bardi",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luca Gemello",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Manuel Gasparini",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alessio Castellini",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Andrea Meroni",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Bodin Tomašević",
+   "pos": "DF",
+   "nat": "ME"
+  },
+  {
+   "n": null,
+   "name": "Cristian Marai",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Eman Košpo",
+   "pos": "DF",
+   "nat": "BA"
+  },
+  {
+   "n": null,
+   "name": "Erik Panizzi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Filippo Vesentini",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Stefano Cella",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Del Lungo",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "David Wieser",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Davide Bragantini",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Fahem Benaïssa-Yahia",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Flavio Paoletti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Francesco Ruocco",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Giacomo Fedel",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Jean-Pierre Longonda",
+   "pos": "MF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Jonathan Silva",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Lorenzo Ignacchiti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Nicolò Radaelli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Rachid Kouda",
+   "pos": "MF",
+   "nat": "BF"
+  },
+  {
+   "n": null,
+   "name": "Rareş Ilie",
+   "pos": "MF",
+   "nat": "RO"
+  },
+  {
+   "n": null,
+   "name": "Sambaly Keita",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Simone Trimboli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Stefano Baraldi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Ettore Gliozzi",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Federico Chinetti",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Ismale Cajazzo",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Matteo Spinaccè",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mattia Bellini",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Vanja Vlahović",
+   "pos": "FW",
+   "nat": "RS"
+  }
+ ]
+}

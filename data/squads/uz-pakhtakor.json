@@ -1,0 +1,189 @@
+{
+ "team": "uz-pakhtakor",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/102141/overview"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Maksim Murkaev",
+   "pos": "GK",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Rasul Mamatov",
+   "pos": "GK",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Sanjar Kuvvatov",
+   "pos": "GK",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Vladimir Nazarov",
+   "pos": "GK",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Dilshod Abdullaev",
+   "pos": "DF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Dilshod Saitov",
+   "pos": "DF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Diyor Ermanov",
+   "pos": "DF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Miraziz Abdukarimov",
+   "pos": "DF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Morteza Pouraliganji",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": null,
+   "name": "Muhammadali Dilshodbekov",
+   "pos": "DF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Mukhammad-Bobur Karimov",
+   "pos": "DF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Mukhammadrasul Abdumazhidov",
+   "pos": "DF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Sherzod Nasrulloev",
+   "pos": "DF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Zaid Tahseen",
+   "pos": "DF",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Abdurauf Buriev",
+   "pos": "MF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Akmal Mozgovoy",
+   "pos": "MF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Flamarion",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Ibrokhim Ibrokhimov",
+   "pos": "MF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Khozhimat Erkinov",
+   "pos": "MF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Khoziakbar Alidzhanov",
+   "pos": "MF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Kuvanishbek Saydaliev",
+   "pos": "MF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Oybek Bozorov",
+   "pos": "MF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Sardor Mirkobilov",
+   "pos": "MF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Sardor Sabirkhodjaev",
+   "pos": "MF",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Abubakir Shukurullaev",
+   "pos": "FW",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Ayman Hussein",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Bashar Resan",
+   "pos": "FW",
+   "nat": "IQ"
+  },
+  {
+   "n": null,
+   "name": "Davron Tulaganov",
+   "pos": "FW",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Dostonbek Khamdamov",
+   "pos": "FW",
+   "nat": "UZ"
+  },
+  {
+   "n": null,
+   "name": "Stephen Chinedu",
+   "pos": "FW",
+   "nat": "NG"
+  }
+ ]
+}

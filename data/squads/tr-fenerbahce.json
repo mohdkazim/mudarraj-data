@@ -1,0 +1,183 @@
+{
+ "team": "tr-fenerbahce",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8695/overview/players"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Ederson",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Kuzey Sapaz",
+   "pos": "GK",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Mert Günok",
+   "pos": "GK",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Tarık Çetin",
+   "pos": "GK",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Archie Brown",
+   "pos": "DF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Jayden Oosterwolde",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Kojo Peprah Oppong",
+   "pos": "DF",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Levent Mercan",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Mert Müldür",
+   "pos": "DF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Milan Škriniar",
+   "pos": "DF",
+   "nat": "SK"
+  },
+  {
+   "n": null,
+   "name": "Nathan Aké",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Nélson Semedo",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Ognjen Mimović",
+   "pos": "DF",
+   "nat": "RS"
+  },
+  {
+   "n": null,
+   "name": "Yiğit Efe Demir",
+   "pos": "DF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Abdou Aziz Fall",
+   "pos": "MF",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Bartuğ Elmaz",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Ismail Yüksek",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Marco Asensio",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Mattéo Guendouzi",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Mert Hakan Yandaş",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "N'Golo Kanté",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Amara Diouf",
+   "pos": "FW",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Dorgeles Nene",
+   "pos": "FW",
+   "nat": "ML"
+  },
+  {
+   "n": null,
+   "name": "İrfan Kahveci",
+   "pos": "FW",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Kerem Aktürkoglu",
+   "pos": "FW",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Mason Greenwood",
+   "pos": "FW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Oğuz Aydın",
+   "pos": "FW",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Romelu Lukaku",
+   "pos": "FW",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Vedat Muriqi",
+   "pos": "FW",
+   "nat": "XK"
+  }
+ ]
+}

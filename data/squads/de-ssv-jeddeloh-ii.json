@@ -1,0 +1,129 @@
+{
+ "team": "de-ssv-jeddeloh-ii",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://datencenter.dfb.de/competitions/dfb-pokal/seasons/2026-27/teams/ssv-jeddeloh?datacenter_name=datencenter%3Fhistorize_title%3DDFB-Pokal+2026%2F27%2C+1.+Runde&historize_url="
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Moritz Ben Onken",
+   "pos": "GK"
+  },
+  {
+   "n": 12,
+   "name": "Oskar Saathoff",
+   "pos": "GK"
+  },
+  {
+   "n": 25,
+   "name": "Thure Fengler",
+   "pos": "GK"
+  },
+  {
+   "n": 2,
+   "name": "Kingsley Marcinek",
+   "pos": "DF"
+  },
+  {
+   "n": 4,
+   "name": "Philip Gramberg",
+   "pos": "DF"
+  },
+  {
+   "n": 5,
+   "name": "Keita Taguchi",
+   "pos": "DF"
+  },
+  {
+   "n": 6,
+   "name": "Fynn Friedrichs",
+   "pos": "DF"
+  },
+  {
+   "n": 8,
+   "name": "Moritz Brinkmann",
+   "pos": "DF"
+  },
+  {
+   "n": 10,
+   "name": "Kamer Krasniqi",
+   "pos": "DF"
+  },
+  {
+   "n": 15,
+   "name": "Hugo Brandes",
+   "pos": "DF"
+  },
+  {
+   "n": 16,
+   "name": "Robin Krolikowski",
+   "pos": "DF"
+  },
+  {
+   "n": 18,
+   "name": "Ismail H'Maidat",
+   "pos": "DF"
+  },
+  {
+   "n": 19,
+   "name": "Adrian Asani",
+   "pos": "DF"
+  },
+  {
+   "n": 20,
+   "name": "Tim Janßen",
+   "pos": "DF"
+  },
+  {
+   "n": 23,
+   "name": "Tom Kanowski",
+   "pos": "DF"
+  },
+  {
+   "n": 27,
+   "name": "Diego Raykov",
+   "pos": "DF"
+  },
+  {
+   "n": 28,
+   "name": "Niklas von Aschwege",
+   "pos": "DF"
+  },
+  {
+   "n": 47,
+   "name": "Gazi Siala",
+   "pos": "DF"
+  },
+  {
+   "n": 9,
+   "name": "Simon Brinkmann",
+   "pos": "FW"
+  },
+  {
+   "n": 11,
+   "name": "Tobias Bothe",
+   "pos": "FW"
+  },
+  {
+   "n": 17,
+   "name": "Ole Böttcher",
+   "pos": "FW"
+  },
+  {
+   "n": 26,
+   "name": "Affam Ifeadigo",
+   "pos": "FW"
+  },
+  {
+   "n": 37,
+   "name": "Haris Hyseni",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Pascal Steinwender",
+   "pos": "FW"
+  }
+ ]
+}

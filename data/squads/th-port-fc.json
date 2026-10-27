@@ -1,0 +1,207 @@
+{
+ "team": "th-port-fc",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/165255/overview/android-app:"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Michael Falkesgaard",
+   "pos": "GK",
+   "nat": "PH"
+  },
+  {
+   "n": null,
+   "name": "Rangsiman Kemmueang",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Sarawut Konglarp",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Somporn Yos",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Asnawi Mangkualam",
+   "pos": "DF",
+   "nat": "ID"
+  },
+  {
+   "n": null,
+   "name": "Chaiyaphon Otton",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Chinnawat Wongchai",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Erik Sviatchenko",
+   "pos": "DF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Hugo Boutsingkham",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Manuel Bihr",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Marcel Scalese",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Matheus Lins",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Nitipong Selanon",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Peerawat Akkratum",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Suphanan Bureerat",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Carlos Jatobá",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Jakkaphan Kaewprom",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Noboru Shimura",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Peeradol Chamrasamee",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Seksan Ratree",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Sittha Boonlha",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Sivakorn Tiatrakul",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Tanaboon Kesarat",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Worachit Kanitsribumphen",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Bordin Phala",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Bruno",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Issam Al Sabhi",
+   "pos": "FW",
+   "nat": "OM"
+  },
+  {
+   "n": null,
+   "name": "Jude Soonsup-Bell",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Kaká Mendes",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Lucas Tocantins",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Ruan Ribeiro",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Rui Costa",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Teerasak Poeiphimai",
+   "pos": "FW",
+   "nat": "TH"
+  }
+ ]
+}

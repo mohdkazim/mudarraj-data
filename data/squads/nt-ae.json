@@ -1,0 +1,165 @@
+{
+ "team": "nt-ae",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/5789/overview/uae,teams"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Fahad Al Dhanhani",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Hamad Al Meqbaali",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Khalid Eissa",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Ala Zouhir",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Erik",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Khaled Ebraheim",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Khalifa Al Hammadi",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Lucas Pimenta",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Marcus Meloni",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Richard Akonnor",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Rúben Canedo",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Sasa Ivkovic",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Zayed Sultan",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Abdulla Hamad",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Issam Faiz",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Luanzinho",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Mamadou Coulibaly",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Nicolás Giménez",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Yuri César",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Ali Saleh",
+   "pos": "FW",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Bruno Conceição",
+   "pos": "FW",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Fábio Lima",
+   "pos": "FW",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Guilherme Bala",
+   "pos": "FW",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Harib Abdalla",
+   "pos": "FW",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Ousmane Camara",
+   "pos": "FW",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Sultan Adil",
+   "pos": "FW",
+   "nat": "AE"
+  }
+ ]
+}

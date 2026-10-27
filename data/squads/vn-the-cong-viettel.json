@@ -1,0 +1,183 @@
+{
+ "team": "vn-the-cong-viettel",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/743070/overview/viettel"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Lawrence Caruso",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Nguyen Van Viet",
+   "pos": "GK",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Phi Minh Long",
+   "pos": "GK",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Tran Duc Duy",
+   "pos": "GK",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Bùi Tien Dung",
+   "pos": "DF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Dào Van Nam",
+   "pos": "DF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Dinh Viet Tú",
+   "pos": "DF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Doãn Ngoc Tân",
+   "pos": "DF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Kyle Colonna",
+   "pos": "DF",
+   "nat": "US"
+  },
+  {
+   "n": null,
+   "name": "Lucas",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Pham Trung Hieu",
+   "pos": "DF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Phan Tuan Tài",
+   "pos": "DF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "André Luiz",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Damian Vũ Thành",
+   "pos": "MF",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Dinh Xuân Tien",
+   "pos": "MF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Hữu Nam Nguyễn",
+   "pos": "MF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Khuat Van Khang",
+   "pos": "MF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Nguyen Hoàng Khanh",
+   "pos": "MF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Nguyen Huu Thang",
+   "pos": "MF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Nhâm Manh Dung",
+   "pos": "MF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Nhat Nam Lê Quoc",
+   "pos": "MF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Paulinho Curuá",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Trieu Viet Hung",
+   "pos": "MF",
+   "nat": "VN"
+  },
+  {
+   "n": null,
+   "name": "Wesley Natã",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Hernandes",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Júnior Brandão",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Ribamar",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Rimario Gordon",
+   "pos": "FW",
+   "nat": "JM"
+  },
+  {
+   "n": null,
+   "name": "Tran Danh Trung",
+   "pos": "FW",
+   "nat": "VN"
+  }
+ ]
+}

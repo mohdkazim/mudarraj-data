@@ -1,0 +1,201 @@
+{
+ "team": "it-modena",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9887/overview"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Abdullah Laidani",
+   "pos": "GK",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Andrea Maran",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Leandro Chichizola",
+   "pos": "GK",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Leonardo Consiglio",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Bryant Nieling",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Daniel Tonoli",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Davide Adorni",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Diego Ronco",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Francesco Folino",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Martino Odero",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Steven Nador",
+   "pos": "DF",
+   "nat": "TG"
+  },
+  {
+   "n": null,
+   "name": "Alessandro Bianco",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alessandro Sersanti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Antonio Imputato",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Francesco Zampano",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Gastón Brugman",
+   "pos": "MF",
+   "nat": "UY"
+  },
+  {
+   "n": null,
+   "name": "Giacomo Olzer",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Kleis Bozhanaj",
+   "pos": "MF",
+   "nat": "AL"
+  },
+  {
+   "n": null,
+   "name": "Paulo Azzi",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Pietro Arnaboldi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Simone Santoro",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Stênio",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Tito Fabbri",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Treasure Egharevba",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Wisdom Acquah",
+   "pos": "MF",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Andrea Belotti",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Daniele Montevago",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Edward Colpo",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Giuseppe Ambrosino",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Giuseppe Caso",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Joris Manquant",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Luca Bacchin",
+   "pos": "FW",
+   "nat": "IT"
+  }
+ ]
+}

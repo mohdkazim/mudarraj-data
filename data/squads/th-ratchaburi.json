@@ -1,0 +1,207 @@
+{
+ "team": "th-ratchaburi",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/421346/overview/ratchaburi-fc"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Kampon Phatomakkakul",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Nopphon Lakhonphon",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Thanawit Uamsa-Ard",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Ukrit Wongmeema",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Adisorn Promrak",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Alexander Gountounas",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Daniel Ting",
+   "pos": "DF",
+   "nat": "MY"
+  },
+  {
+   "n": null,
+   "name": "Jesse Curran",
+   "pos": "DF",
+   "nat": "PH"
+  },
+  {
+   "n": null,
+   "name": "Jonathan Khemdee",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Kevin Deeromram",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Kiattisak Chiamudom",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Pablo Insua",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Pethay Promjan",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Sai van Wermeskerken",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Sanchai Nonthasila",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Tarek Aggoun",
+   "pos": "DF",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Jonathan Viera",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Kritsananon Srisuwan",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Phongsakorn Sangkasopha",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Robert Žulj",
+   "pos": "MF",
+   "nat": "AT"
+  },
+  {
+   "n": null,
+   "name": "Roque Mesa",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Scott Allardice",
+   "pos": "MF",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": null,
+   "name": "Sorawit Panthong",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Thanawat Suengchitthawon",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Thiraphon Yoyoei",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Thossawat Limwanasathian",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Bruno Mendes",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Chotipat Poomkaew",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Ekanit Panya",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Jordan Gele",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Njiva Rakotoharimalala",
+   "pos": "FW",
+   "nat": "MG"
+  },
+  {
+   "n": null,
+   "name": "Rafael Bilu",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Tana",
+   "pos": "FW",
+   "nat": "ES"
+  }
+ ]
+}

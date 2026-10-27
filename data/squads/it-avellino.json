@@ -1,0 +1,189 @@
+{
+ "team": "it-avellino",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/6722/overview/undefined,teams,players"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Antony Iannarilli",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Jacopo Sassi",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Martinelli",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Alessandro Di Bitonto",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "António Aloisi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Armando Izzo",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Carlo Mellino",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Lorenco Šimić",
+   "pos": "DF",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Michael Venturi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Patrick Enrici",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Cancellotti",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Umberto Volpe",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Brando Moruzzi",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Dimitrios Sounas",
+   "pos": "MF",
+   "nat": "GR"
+  },
+  {
+   "n": null,
+   "name": "Emanuele Adamo",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Filippo Missori",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Giacomo Faticanti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luca Di Maggio",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luca Palmiero",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marco Sala",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Martin Palumbo",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Michele Besaggio",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Thomas Berenbruch",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Andrea Favilli",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Daniel Fila",
+   "pos": "FW",
+   "nat": "CZ"
+  },
+  {
+   "n": null,
+   "name": "Luca Pandolfi",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Raffaele Russo",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Sebastiano Di Paolo",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Tommaso Biasci",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Walid Cheddira",
+   "pos": "FW",
+   "nat": "MA"
+  }
+ ]
+}
