@@ -1,0 +1,14 @@
+{
+  "run": "2026-10-27T12:58:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r03-kr-daejeon-hana-citizen-jp-vissel-kobe", "status": "FT", "score": [0,1],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-daejeon-hana-citizen-fc-kor-0-1-vissel-kobe-jpn"] },
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r03-jp-kyoto-sanga-au-newcastle-jets", "status": "FT", "score": [5,2],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-kyoto-sanga-fc-jpn-5-2-newcastle-jets-fc-aus"] },
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r03-my-johor-darul-ta-zim-th-port-fc", "status": "FT", "score": [3,0],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-johor-darul-ta’zim-mas-3-0-port-fc-tha"] },
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r03-cn-shanghai-port-vn-cong-an-ha-noi", "status": "FT", "score": [2,3],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-shanghai-port-fc-chn-2-3-cong-an-ha-noi-fc-vie"] }
+  ],
+  "unconfirmed": []
+}

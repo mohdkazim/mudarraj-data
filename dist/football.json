@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-27T08:30:42.287Z",
+ "generatedAt": "2026-10-27T12:59:27.153Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 379,
+  "results": 383,
   "pending": 0
  },
  "teams": [
@@ -35090,8 +35090,11 @@
    "away": "vn-cong-an-ha-noi",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
    "venue": {
     "name": {
      "en": "Pudong Football Stadium",
@@ -35104,9 +35107,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-shanghai-port-fc-chn-2-3-cong-an-ha-noi-fc-vie"
    ],
+   "updatedAt": "2026-10-27T12:59:26.664Z",
    "venueFrom": "home-ground"
   },
   {
@@ -35125,8 +35128,11 @@
    "away": "au-newcastle-jets",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Kyoto Stadium",
@@ -35139,9 +35145,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-kyoto-sanga-fc-jpn-5-2-newcastle-jets-fc-aus"
    ],
+   "updatedAt": "2026-10-27T12:59:26.664Z",
    "venueFrom": "home-ground"
   },
   {
@@ -35160,8 +35166,11 @@
    "away": "jp-vissel-kobe",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Daejeon World Cup Stadium",
@@ -35174,9 +35183,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-daejeon-hana-citizen-fc-kor-0-1-vissel-kobe-jpn"
    ],
+   "updatedAt": "2026-10-27T12:59:26.664Z",
    "venueFrom": "home-ground"
   },
   {
@@ -35195,8 +35204,11 @@
    "away": "th-port-fc",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Sultan Ibrahim Stadium",
@@ -35209,9 +35221,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-johor-darul-ta’zim-mas-3-0-port-fc-tha"
    ],
+   "updatedAt": "2026-10-27T12:59:26.664Z",
    "venueFrom": "home-ground"
   },
   {

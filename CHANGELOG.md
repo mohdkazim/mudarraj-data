@@ -3383,3 +3383,10 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result epl-2026-27-regular-r08-gb-eng-manchester-united-gb-eng-bournemouth added scorers to the confirmed result
   - ✓ fixture gulf-club-cl-2026-27-groups-ga-r02-om-al-shabab-oman-sa-neom kick-off 2026-10-27T16:45:00Z
+
+## 2026-10-27 (2026-10-27T12:58:00Z)
+- 4 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result acle-2026-27-league-east-geast-r03-kr-daejeon-hana-citizen-jp-vissel-kobe 0-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r03-jp-kyoto-sanga-au-newcastle-jets 5-2 FT
+  - ✓ result acle-2026-27-league-east-geast-r03-my-johor-darul-ta-zim-th-port-fc 3-0 FT
+  - ✓ result acle-2026-27-league-east-geast-r03-cn-shanghai-port-vn-cong-an-ha-noi 2-3 FT
