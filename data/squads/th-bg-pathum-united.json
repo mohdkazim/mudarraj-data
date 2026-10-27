@@ -1,0 +1,267 @@
+{
+ "team": "th-bg-pathum-united",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/165250/overview/com.mobilefootie.wc2010,http"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Chanasorn Kaewyos",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Issarapong Waewdee",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Nalawich Inthacharoen",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Phattharapong Rawangpai",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Saranon Anuin",
+   "pos": "GK",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Chanapach Buaphan",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Chanon Tamma",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Edin Osmanović",
+   "pos": "DF",
+   "nat": "LU"
+  },
+  {
+   "n": null,
+   "name": "Elias Dolah",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Jonathan Scherzer",
+   "pos": "DF",
+   "nat": "AT"
+  },
+  {
+   "n": null,
+   "name": "Marko Nikolic",
+   "pos": "DF",
+   "nat": "RS"
+  },
+  {
+   "n": null,
+   "name": "Pawee Tanthatemee",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Pongkun Baochaiyo",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Runpiset Phutummee",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Saharat Pongsuwan",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Takahiro Yanagi",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Waris Choolthong",
+   "pos": "DF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Yeferson Quintana",
+   "pos": "DF",
+   "nat": "UY"
+  },
+  {
+   "n": null,
+   "name": "Akarapong Pumwiset",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Anthony Belmonte",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Fabio Kaufmann",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Hugo Rama",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Kittapak Seangsawat",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Kritsada Kaman",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Leon James",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Matheus Costa",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Ryan Edwards",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Sarach Yooyen",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Tanasith Siripala",
+   "pos": "MF",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Ashley Coffey",
+   "pos": "FW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Chanathip Songkrasin",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "João Magno",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Lucas Andersen",
+   "pos": "FW",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Marin Jurina",
+   "pos": "FW",
+   "nat": "BA"
+  },
+  {
+   "n": null,
+   "name": "Pasqual Verkamp",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Patrik Gustavsson",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Pichaya Chaiwarangkun",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Raniel",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Ratthasat Buaban",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Satayu Sukhamas",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Suphanat Chaiprapha",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Surachat Sareepim",
+   "pos": "FW",
+   "nat": "TH"
+  },
+  {
+   "n": null,
+   "name": "Witthawat Phraothaisong",
+   "pos": "FW",
+   "nat": "TH"
+  }
+ ]
+}

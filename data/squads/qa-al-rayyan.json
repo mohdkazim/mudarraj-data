@@ -1,0 +1,201 @@
+{
+ "team": "qa-al-rayyan",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/101898/overview/al-rayyan"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Assem Fawzi Othman",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Mahmoud Abunada",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Sami Habib",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Abdalla Yousif",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Ali",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Al Minhali",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "André Amaro",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Daoud Soliman",
+   "pos": "DF",
+   "nat": "ML"
+  },
+  {
+   "n": null,
+   "name": "David García",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Hazem Shehata",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Saleh",
+   "pos": "DF",
+   "nat": "PS"
+  },
+  {
+   "n": null,
+   "name": "Mostafa Essam",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Qais Ali Rawi",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Saif Hassanein",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Youssef Ayman",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Abdulaziz Hatem",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Diogo Amaro",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Faisal Al Nouman",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Gregore",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Al Hassan",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Jassem Gaber",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Julien De Sart",
+   "pos": "MF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Moustafa Elsayed Assr",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Osamah Al Tairi",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Otávio",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Róger Guedes",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Al Ganehi",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Al Rawi",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Alaa",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Aleksandar Mitrović",
+   "pos": "FW",
+   "nat": "RS"
+  },
+  {
+   "n": null,
+   "name": "Ali Hussan Alqahtani",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Ethan Andrade",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Gabriel Pereira",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Khaled Ali",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Moustafa Asar",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Wesley",
+   "pos": "FW",
+   "nat": "BR"
+  }
+ ]
+}

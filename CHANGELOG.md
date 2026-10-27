@@ -3640,3 +3640,19 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad nl-feyenoord squad added (34 players)
   - ✓ squad nl-psv-eindhoven squad added (24 players)
   - ✓ squad no-bod-glimt squad added (28 players)
+
+## 2026-10-27 (2026-10-27T18:30:53.869Z)
+- 13 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad no-viking squad added (30 players)
+  - ✓ squad pt-porto squad added (31 players)
+  - ✓ squad pt-sporting-cp squad added (32 players)
+  - ✓ squad qa-al-gharafa squad added (28 players); 15 note(s): Khalifa Ababacar: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Abdulrahman Faiz Al Rashidi: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Mostafa Essam: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Damé Traoré: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real …
+  - ✓ squad qa-al-rayyan squad added (36 players); 24 note(s): Sami Habib: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Assem Fawzi Othman: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Mahmoud Abunada: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Abdullah Al Ali: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real …
+  - ✓ squad qa-al-sadd squad added (40 players); 26 note(s): Saad Al Sheeb: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Meshaal Barsham: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Youssef Abdullah: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Karim Haider Dib: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real …
+  - ✓ squad qa-al-shamal squad added (29 players); 12 note(s): Abdullah El Rady: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Saoud Al Khater: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Moufak Awad: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Abdelkarim Hassan: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real …
+  - ✓ squad qa-qatar-sc squad added (27 players); 14 note(s): Ali Nader: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Adnan Saleh: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Satea Al Abbasi: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real; Abdullah Marafee: unknown nationality "Qatar" left out — add it to tools/squads.mjs ALIASES if it is real …
+  - ✓ squad sg-lion-city-sailors squad added (35 players)
+  - ✓ squad sg-tampines-rovers squad added (29 players)
+  - ✓ squad th-bg-pathum-united squad added (43 players)
+  - ✓ squad it-benevento squad added (31 players)
+  - ✓ squad de-erzgebirge-aue squad added (23 players)

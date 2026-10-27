@@ -1,0 +1,124 @@
+{
+ "team": "de-erzgebirge-aue",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://datencenter.dfb.de/competitions/dfb-pokal/seasons/2026-27/teams/erzgebirge-aue"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Martin Männel",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Max Uhlig",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Theo Kretschmer",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Bastian Strietzel",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Hugo Kaps",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Jonas Kehl",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Leon Prosche",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Maxim Burghardt",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Patrick Kapp",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Paul-Levi Wagner",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Stylianos Kokovas",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Chadi Ramadan",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Devin Angleberger",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Finn Heidrich",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Nils Lihsek",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Quentin Fraulob",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Simon Skarlatidis",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Tim Maciejewski",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Willi Kamm",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Aurel Loubongo-M'Boungou",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Christoph Pauling",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Linus Queißer",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Marcel Bär",
+   "pos": "FW"
+  }
+ ]
+}

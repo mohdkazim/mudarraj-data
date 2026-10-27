@@ -1,0 +1,162 @@
+{
+ "team": "qa-al-gharafa",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/101897/overview/al-gharafa"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Ahmed Kone",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Khalifa Ababacar",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Abdulrahman Faiz Al Rashidi",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Amro Surag",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Ayoub Al Oui",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Chalpan Abdullah",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Damé Traoré",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Jang Hyun-Soo",
+   "pos": "DF",
+   "nat": "KR"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Ali Jamin",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Mostafa Essam",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Rayyan Al Ali",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Saif Eldeen Fadlalla",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Seydou Sano",
+   "pos": "DF",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Ali Mohamed",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Fabricio Díaz",
+   "pos": "MF",
+   "nat": "UY"
+  },
+  {
+   "n": null,
+   "name": "Ferjani Sassi",
+   "pos": "MF",
+   "nat": "TN"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Tamer",
+   "pos": "MF",
+   "nat": "EG"
+  },
+  {
+   "n": null,
+   "name": "Ismaël Bennacer",
+   "pos": "MF",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Yousef Al Khlif",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Adam Ounas",
+   "pos": "FW",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Alaa Eddin Hasan",
+   "pos": "FW",
+   "nat": "PS"
+  },
+  {
+   "n": null,
+   "name": "Amjed Nasar Mohamed",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Florinel Coman",
+   "pos": "FW",
+   "nat": "RO"
+  },
+  {
+   "n": null,
+   "name": "Frank Magri",
+   "pos": "FW",
+   "nat": "CM"
+  },
+  {
+   "n": null,
+   "name": "Jamal Hamed",
+   "pos": "FW",
+   "nat": "PS"
+  },
+  {
+   "n": null,
+   "name": "Jassim Al Zarra",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Muntari",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Yacine Brahimi",
+   "pos": "FW",
+   "nat": "DZ"
+  }
+ ]
+}

@@ -1,0 +1,189 @@
+{
+ "team": "no-viking",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8478/overview/viking"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Arild Østbø",
+   "pos": "GK",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Erlend Jacobsen",
+   "pos": "GK",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Lubomír Belko",
+   "pos": "GK",
+   "nat": "SK"
+  },
+  {
+   "n": null,
+   "name": "Anders Bærtelsen",
+   "pos": "DF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Essien Bassey",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Gianni Stensness",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Henrik Falchener",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Henrik Heggheim",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Herman Haugen",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Jesper Daland",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Kristoffer Haugen",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Martin Roseth",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Sondre Bjørshol",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Vetle Auklend",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Viljar Vevatne",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Henrik Rørvik Bjørdal",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Jakob Segadal Hansen",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Joe Bell",
+   "pos": "MF",
+   "nat": "NZ"
+  },
+  {
+   "n": null,
+   "name": "Kristoffer Askildsen",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Simen Kvia-Egeskog",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Tobias Moi",
+   "pos": "MF",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Amin Cosic",
+   "pos": "FW",
+   "nat": "IS"
+  },
+  {
+   "n": null,
+   "name": "Erik Botheim",
+   "pos": "FW",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Kelvin Frimpong",
+   "pos": "FW",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Nicholas D'Agostino",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Niklas Fuglestad",
+   "pos": "FW",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Peter Christiansen",
+   "pos": "FW",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Romano Postema",
+   "pos": "FW",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Veton Berisha",
+   "pos": "FW",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Zlatko Tripić",
+   "pos": "FW",
+   "nat": "NO"
+  }
+ ]
+}

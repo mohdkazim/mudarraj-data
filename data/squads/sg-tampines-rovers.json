@@ -1,0 +1,183 @@
+{
+ "team": "sg-tampines-rovers",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/67386"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Jarec Ng",
+   "pos": "GK",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Syazwan Buhari",
+   "pos": "GK",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Zharfan Rohaizad",
+   "pos": "GK",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Amirul Adli",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Amirul Haikal",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Caden Lim",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Dylan Fox",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Irfan Fandi",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Irfan Najeeb",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Jacob Mahler",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Kegan Phang",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Raoul Suhaimi",
+   "pos": "DF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Shodai Yokoyama",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Takeshi Yoshimoto",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Iman Hakim",
+   "pos": "MF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Koya Kazama",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Matthias Koesno",
+   "pos": "MF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Naufal Mohammad",
+   "pos": "MF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Ong Yu En",
+   "pos": "MF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Seiga Sumi",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Shah Shahiran",
+   "pos": "MF",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Yositaka Furusawa",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Yuki Kobayashi",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Yuma Kimura",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Anton Yen Goh",
+   "pos": "FW",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Faris Ramli",
+   "pos": "FW",
+   "nat": "SG"
+  },
+  {
+   "n": null,
+   "name": "Hide Higashikawa",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Kenshin Yamazaki",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Rasul Ramli",
+   "pos": "FW",
+   "nat": "SG"
+  }
+ ]
+}

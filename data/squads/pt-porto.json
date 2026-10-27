@@ -1,0 +1,195 @@
+{
+ "team": "pt-porto",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9773/overview/fc-porto,players"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Cláudio Ramos",
+   "pos": "GK",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Diogo Costa",
+   "pos": "GK",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "João Afonso",
+   "pos": "GK",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "João Costa",
+   "pos": "GK",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Alberto Costa",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Chris Smalling",
+   "pos": "DF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Dominik Prpić",
+   "pos": "DF",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Francisco Moura",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Jakub Kiwior",
+   "pos": "DF",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Jan Bednarek",
+   "pos": "DF",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Martim Fernandes",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Nehuén Pérez",
+   "pos": "DF",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Souza",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Zaidu Sanusi",
+   "pos": "DF",
+   "nat": "NG"
+  },
+  {
+   "n": null,
+   "name": "Alan Varela",
+   "pos": "MF",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Gabriel Mec",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Gabriel Veiga",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "In-Beom Hwang",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": null,
+   "name": "Pablo Rosario",
+   "pos": "MF",
+   "nat": "DO"
+  },
+  {
+   "n": null,
+   "name": "Seko Fofana",
+   "pos": "MF",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Vasco Sousa",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Victor Froholdt",
+   "pos": "MF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "André Silva",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Borja Sainz",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Cardoso Varela",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Duarte Cunha",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Oskar Pietuszewski",
+   "pos": "FW",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Pepê",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Samuel Aghehowa",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Santiago Giménez",
+   "pos": "FW",
+   "nat": "MX"
+  },
+  {
+   "n": null,
+   "name": "William Gomes",
+   "pos": "FW",
+   "nat": "BR"
+  }
+ ]
+}

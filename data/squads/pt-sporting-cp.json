@@ -1,0 +1,201 @@
+{
+ "team": "pt-sporting-cp",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9768/overview/sporting-cp,players"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Diego Callai",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Kaique Pereira",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Rui Silva",
+   "pos": "GK",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Eduardo Quaresma",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Georgios Vagiannidis",
+   "pos": "DF",
+   "nat": "GR"
+  },
+  {
+   "n": null,
+   "name": "Gonçalo Inácio",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Ibrahima Ba",
+   "pos": "DF",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Iván Fresneda",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Maxi Araújo",
+   "pos": "DF",
+   "nat": "UY"
+  },
+  {
+   "n": null,
+   "name": "Moncef Zekri",
+   "pos": "DF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Rodrigo Dias",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Salvador Blopa",
+   "pos": "DF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Zeno Debast",
+   "pos": "DF",
+   "nat": "BE"
+  },
+  {
+   "n": null,
+   "name": "Eduardo Felicíssimo",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Issa Doumbia",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "João Simões",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Nestory Irankunda",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Pedro Lima",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Sergi Altimira",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Silas Andersen",
+   "pos": "MF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Sotiris Alexandropoulos",
+   "pos": "MF",
+   "nat": "GR"
+  },
+  {
+   "n": null,
+   "name": "Delcio Aurelio",
+   "pos": "FW",
+   "nat": "AO"
+  },
+  {
+   "n": null,
+   "name": "Flávio Gonçalves",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Fotis Ioannidis",
+   "pos": "FW",
+   "nat": "GR"
+  },
+  {
+   "n": null,
+   "name": "Geny Catamo",
+   "pos": "FW",
+   "nat": "MZ"
+  },
+  {
+   "n": null,
+   "name": "Jesse Derry",
+   "pos": "FW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Luís Guilherme",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Luis Suárez",
+   "pos": "FW",
+   "nat": "CO"
+  },
+  {
+   "n": null,
+   "name": "Nuno Santos",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Rafael Nel",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Rodrigo Rodrigues",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Rodrigo Zalazar",
+   "pos": "FW",
+   "nat": "UY"
+  }
+ ]
+}

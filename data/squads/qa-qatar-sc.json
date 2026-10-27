@@ -1,0 +1,157 @@
+{
+ "team": "qa-qatar-sc",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/pt-BR/teams/101900/overview/qatar-sc"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Adnan Saleh",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Ali Nader",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Satea Al Abbasi",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Abdallah Al Muftah",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Marafee",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Abu Al Qasim Ayman Mohamed",
+   "pos": "DF",
+   "nat": "SD"
+  },
+  {
+   "n": null,
+   "name": "Akwasi Addai",
+   "pos": "DF",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Ali Saoudi",
+   "pos": "DF",
+   "nat": "TN"
+  },
+  {
+   "n": null,
+   "name": "Aron Gunnarsson",
+   "pos": "DF",
+   "nat": "IS"
+  },
+  {
+   "n": null,
+   "name": "Eisa Palangi",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Fallou Diouf",
+   "pos": "DF",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Nasir Baksh",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Yacine Lafrid",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Ali Awad",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Ataa Jaber",
+   "pos": "MF",
+   "nat": "PS"
+  },
+  {
+   "n": null,
+   "name": "Faïz Selamani",
+   "pos": "MF",
+   "nat": "KM"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Masoud",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Lukás Kalvach",
+   "pos": "MF",
+   "nat": "CZ"
+  },
+  {
+   "n": null,
+   "name": "Niall Mason",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Pau Prim",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Abdulrasheed Umaru",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Albert Luque",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Bruno Tabata",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "João Pedro",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Said Brahmi",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Sebastián Soria",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Yohan Boli",
+   "pos": "FW",
+   "nat": "CI"
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+{
+ "team": "qa-al-shamal",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/101904/overview/al-shamal,teams"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Abdullah El Rady",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Babacar Seck",
+   "pos": "GK",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Saoud Al Khater",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Abdelkarim Hassan",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Ahmed Suhail",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Fahad Waad",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Federico Bais",
+   "pos": "DF",
+   "nat": "UY"
+  },
+  {
+   "n": null,
+   "name": "Hussain Bahzad",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Jeison Murillo",
+   "pos": "DF",
+   "nat": "CO"
+  },
+  {
+   "n": null,
+   "name": "Michel Termanini",
+   "pos": "DF",
+   "nat": "PS"
+  },
+  {
+   "n": null,
+   "name": "Moufak Awad",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Musaab Khidir",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Pablo Marí",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Youssouf Sabaly",
+   "pos": "DF",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Ahrak",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Ali Assadalla",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Marawan Brimil",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Ben Romdhane",
+   "pos": "MF",
+   "nat": "TN"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Hrimat",
+   "pos": "MF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Nassim Benaïssa",
+   "pos": "MF",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Tiago Silva",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Wesley Saïd",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Ahmad Al Saeed",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Álex Collado",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Baghdad Bounedjah",
+   "pos": "FW",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Ibrahima Coulibaly",
+   "pos": "FW",
+   "nat": "GN"
+  },
+  {
+   "n": null,
+   "name": "Omar Ali",
+   "pos": "FW",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Omar Mohamed",
+   "pos": "FW",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Riyad Mahrez",
+   "pos": "FW",
+   "nat": "DZ"
+  }
+ ]
+}

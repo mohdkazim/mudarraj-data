@@ -1,0 +1,223 @@
+{
+ "team": "qa-al-sadd",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/101895/overview/al-sadd"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Abdulla Ibrahim",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Karim Haider Dib",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Meshaal Barsham",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Saad Al Sheeb",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Youssef Abdullah",
+   "pos": "GK"
+  },
+  {
+   "n": null,
+   "name": "Abdessamed Bounacer",
+   "pos": "DF",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Abdulrahman Al Ameen",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Ahmad Al Mughanni",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Alessio Romagnoli",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Boualem Khoukhi",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Karam Hadi",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Moaz El Wadia",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Waad",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Paulo Otávio",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Pedro Miguel",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Shaik Ndaw",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Sultan Majed",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Tarek Salman",
+   "pos": "DF"
+  },
+  {
+   "n": null,
+   "name": "Youcef Atal",
+   "pos": "DF",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Younes El Hannach",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Agustín Soría",
+   "pos": "MF",
+   "nat": "UY"
+  },
+  {
+   "n": null,
+   "name": "Anas Abweny",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Claudinho",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Guilherme",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Hassan Al Haydos",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Marcelo Brozović",
+   "pos": "MF",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Camara",
+   "pos": "MF",
+   "nat": "ML"
+  },
+  {
+   "n": null,
+   "name": "Mohamed Mansour Younes",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Al Manai",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Mostafa Meshaal",
+   "pos": "MF"
+  },
+  {
+   "n": null,
+   "name": "Roberto Firmino",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Al Yazidi",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Akram Afif",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Cristo González",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Giovani",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Hashim Ali",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Javairô Dilrosun",
+   "pos": "FW",
+   "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Rafa Mújica",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Tameem Al Qadi",
+   "pos": "FW"
+  },
+  {
+   "n": null,
+   "name": "Yusuf Abdurisag",
+   "pos": "FW"
+  }
+ ]
+}

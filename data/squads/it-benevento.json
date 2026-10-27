@@ -1,0 +1,195 @@
+{
+ "team": "it-benevento",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/sw/teams/6266/overview"
+ ],
+ "players": [
+  {
+   "n": null,
+   "name": "Alioune Sylla",
+   "pos": "GK",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Gianmarco Vannucchi",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Manuel Esposito",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Christian Dalle Mura",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Edoardo Pierozzi",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Giacomo Ricci",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luca Caldirola",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Pietro Beruatto",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Pietro Saio",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Raffaele Celia",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Stefano Scognamillo",
+   "pos": "DF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Angelo Talia",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Antonio Prisco",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Antonis Siatounis",
+   "pos": "MF",
+   "nat": "GR"
+  },
+  {
+   "n": null,
+   "name": "Christian Kouan",
+   "pos": "MF",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Emanuele Schimmenti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Leonardo Sernicola",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Luigi Cherubini",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Matteo Donatiello",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mattia Maita",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Mattia Mannini",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Pier Luigi Simonetti",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Raffaele Romano",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "David Okereke",
+   "pos": "FW",
+   "nat": "NG"
+  },
+  {
+   "n": null,
+   "name": "Davide Lamesta",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Francesco Paolo Salvemini",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Guglielmo Mignani",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Logan",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Marco Giugliano",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Marco Tumminello",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Simone Verdi",
+   "pos": "FW",
+   "nat": "IT"
+  }
+ ]
+}
