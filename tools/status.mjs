@@ -180,9 +180,19 @@ const alsoListedBy = (id) => {
   for (const p of sq.players ?? []) for (const o of onFotmobLists.get(plainName(p.name)) ?? []) if (o.id !== id && (!p.nat || !o.nat || p.nat === o.nat)) return o.id;
   return null;
 };
+// A FotMob squad copied from the team's overview page (its squad tab couldn't be opened) has no shirt numbers: due
+// again after 2 days, to copy the squad tab.
+const lacksNumbers = (id) => fromFotmob(squads.get(id)) && squads.get(id).players.every((p) => p.n == null);
 const squadsDue = all.teams
   .map((t) => t.id)
-  .filter((id) => !squads.has(id) || ageDays(squads.get(id).checked) >= (active.has(id) ? maxAge : 90) || (lacksArabic(id) && ageDays(squads.get(id).checked) >= 2) || (alsoListedBy(id) && ageDays(squads.get(id).checked) >= 1))
+  .filter(
+    (id) =>
+      !squads.has(id) ||
+      ageDays(squads.get(id).checked) >= (active.has(id) ? maxAge : 90) ||
+      (lacksArabic(id) && ageDays(squads.get(id).checked) >= 2) ||
+      (alsoListedBy(id) && ageDays(squads.get(id).checked) >= 1) ||
+      (lacksNumbers(id) && ageDays(squads.get(id).checked) >= 2),
+  )
   .sort((a, b) => (squads.get(a)?.checked ?? "").localeCompare(squads.get(b)?.checked ?? "") || rank(a) - rank(b) || a.localeCompare(b));
 const missingSquads = squadsDue.filter((id) => !squads.has(id)).length;
 const SQUADS_PER_RUN = missingSquads > 50 ? 30 : 15;
@@ -193,7 +203,8 @@ for (const id of squadsDue.slice(0, SQUADS_PER_RUN)) {
   const arabic = ARAB.includes(t.country) ? (sq && lacksArabic(id) ? ", add the Arabic names" : ", Arabic names") : "";
   const other = alsoListedBy(id);
   const recopy = other ? `, recopy from FotMob (a player is also on ${other}'s list)` : "";
-  console.log(`  ${id.padEnd(30)} ${t.name.en}${t.countryName?.en ? ` (${t.countryName.en})` : ""} — ${sq ? `last checked ${sq.checked}` : "no squad yet"}${recopy}${arabic}`);
+  const numbers = sq && lacksNumbers(id) ? ", add the shirt numbers (FotMob squad tab)" : "";
+  console.log(`  ${id.padEnd(30)} ${t.name.en}${t.countryName?.en ? ` (${t.countryName.en})` : ""} — ${sq ? `last checked ${sq.checked}` : "no squad yet"}${recopy}${numbers}${arabic}`);
 }
 console.log(`\nFIXTURE LISTS (add fixtures when a list ends within the window or a draw has happened):`);
 for (const c of all.competitions) {
