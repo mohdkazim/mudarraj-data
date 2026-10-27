@@ -2,192 +2,182 @@
  "team": "it-como",
  "checked": "2026-10-27",
  "sources": [
-  "https://www.365scores.com/football/team/como-6117/squad"
+  "https://www.fotmob.com/teams/10171/overview"
  ],
  "players": [
   {
-   "n": 1,
+   "n": null,
    "name": "Jean Butez",
    "pos": "GK",
    "nat": "FR"
   },
   {
-   "n": 12,
-   "name": "Henrique Menke",
+   "n": null,
+   "name": "Lorenzo Luigi Ginelli",
    "pos": "GK",
-   "nat": "BR"
+   "nat": "IT"
   },
   {
-   "n": 21,
-   "name": "Noel Tornqvist",
-   "pos": "GK",
-   "nat": "SE"
-  },
-  {
-   "n": 22,
+   "n": null,
    "name": "Mauro Vigorito",
    "pos": "GK",
    "nat": "IT"
   },
   {
-   "n": 44,
-   "name": "Nikola Cavlina",
+   "n": null,
+   "name": "Robert Sánchez",
    "pos": "GK",
-   "nat": "HR"
-  },
-  {
-   "n": 2,
-   "name": "Marc-Oliver Kempf",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "DE"
-  },
-  {
-   "n": 3,
-   "name": "Álex Valle",
-   "pos": "DF",
-   "role": "LB",
    "nat": "ES"
   },
   {
-   "n": 5,
-   "name": "Edoardo Goldaniga",
+   "n": null,
+   "name": "Adam Asfour",
    "pos": "DF",
-   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Alberto Dossena",
+   "pos": "DF",
    "nat": "IT"
   },
   {
-   "n": 14,
-   "name": "Jacobo Ramón",
+   "n": null,
+   "name": "Álex Valle",
    "pos": "DF",
-   "role": "CB",
    "nat": "ES"
   },
   {
-   "n": 18,
-   "name": "Alberto Moreno",
+   "n": null,
+   "name": "Edoardo Goldaniga",
    "pos": "DF",
-   "role": "LB",
-   "nat": "ES"
+   "nat": "IT"
   },
   {
-   "n": 28,
+   "n": null,
    "name": "Ivan Smolčić",
    "pos": "DF",
-   "role": "RB",
    "nat": "HR"
   },
   {
-   "n": 31,
-   "name": "Mergim Vojvoda",
+   "n": null,
+   "name": "Jacobo Ramón",
    "pos": "DF",
-   "role": "RB",
-   "nat": "XK"
+   "nat": "ES"
   },
   {
-   "n": 34,
-   "name": "Diego Carlos",
+   "n": null,
+   "name": "Kaiki",
    "pos": "DF",
-   "role": "CB",
    "nat": "BR"
   },
   {
-   "n": 77,
-   "name": "Ignace Van Der Brempt",
+   "n": null,
+   "name": "Marc-Oliver Kempf",
    "pos": "DF",
-   "role": "RB",
-   "nat": "BE"
-  },
-  {
-   "n": 6,
-   "name": "Maxence Caqueret",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "FR"
-  },
-  {
-   "n": 8,
-   "name": "Sergi Roberto",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "ES"
-  },
-  {
-   "n": 10,
-   "name": "Nicolas Paz",
-   "pos": "MF",
-   "role": "AM",
-   "nat": "AR"
-  },
-  {
-   "n": 15,
-   "name": "Adrian Lahdo",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "SE"
-  },
-  {
-   "n": 20,
-   "name": "Martin Baturina",
-   "pos": "MF",
-   "role": "AM",
-   "nat": "HR"
-  },
-  {
-   "n": 23,
-   "name": "Máximo Perrone",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "AR"
-  },
-  {
-   "n": 33,
-   "name": "Lucas Da Cunha",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "FR"
-  },
-  {
-   "n": 7,
-   "name": "Alvaro Morata",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "ES"
-  },
-  {
-   "n": 11,
-   "name": "Anastasios Douvikas",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "GR"
-  },
-  {
-   "n": 17,
-   "name": "Jesús Rodríguez",
-   "pos": "FW",
-   "role": "LF",
-   "nat": "ES"
-  },
-  {
-   "n": 19,
-   "name": "Nicolas Kuhn",
-   "pos": "FW",
-   "role": "RF",
    "nat": "DE"
   },
   {
-   "n": 38,
+   "n": null,
+   "name": "Trevoh Chalobah",
+   "pos": "DF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Willy Kambwala",
+   "pos": "DF",
+   "nat": "CD"
+  },
+  {
+   "n": null,
+   "name": "Yan Couto",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Adrian Lahdo",
+   "pos": "MF",
+   "nat": "SE"
+  },
+  {
+   "n": null,
+   "name": "Lucas Da Cunha",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Luis Milla",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Mattia Liberali",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Maxence Caqueret",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Máximo Perrone",
+   "pos": "MF",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Nico Paz",
+   "pos": "MF",
+   "nat": "AR"
+  },
+  {
+   "n": null,
+   "name": "Samuele Ricci",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": null,
+   "name": "Anastasios Douvikas",
+   "pos": "FW",
+   "nat": "GR"
+  },
+  {
+   "n": null,
    "name": "Assane Diao",
    "pos": "FW",
-   "role": "LF",
    "nat": "SN"
   },
   {
-   "n": 42,
+   "n": null,
    "name": "Jayden Addai",
    "pos": "FW",
-   "role": "RF",
    "nat": "NL"
+  },
+  {
+   "n": null,
+   "name": "Jesús Rodríguez",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": null,
+   "name": "Martin Baturina",
+   "pos": "FW",
+   "nat": "HR"
+  },
+  {
+   "n": null,
+   "name": "Moise Kean",
+   "pos": "FW",
+   "nat": "IT"
   }
  ]
 }

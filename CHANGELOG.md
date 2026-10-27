@@ -3698,3 +3698,15 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad fr-lille squad updated (29 players, was 29)
   - ✓ squad it-genoa squad updated (32 players, was 26)
   - ✓ squad it-hellas-verona squad updated (34 players, was 35)
+
+## 2026-10-27 (2026-10-27T18:49:47.075Z)
+- 9 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad ae-al-ain squad updated (37 players, was 41)
+  - ✓ squad ae-al-jazira squad updated (37 players, was 56)
+  - ✓ squad ae-al-wasl squad updated (39 players, was 54)
+  - ✓ squad it-como squad updated (29 players, was 27)
+  - ✓ squad sa-al-ahli-saudi squad updated (32 players, was 35)
+  - ✓ squad sa-al-hilal squad updated (31 players, was 31)
+  - ✓ squad sa-al-shabab squad updated (35 players, was 33)
+  - ✓ squad de-fc-koln squad updated (32 players, was 29)
+  - ✓ squad de-schalke-04 squad updated (35 players, was 27)

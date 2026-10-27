@@ -2,235 +2,218 @@
  "team": "sa-al-shabab",
  "checked": "2026-10-27",
  "sources": [
-  "https://www.365scores.com/football/team/al-shabab-riyadh-8945/squad"
+  "https://www.fotmob.com/teams/101916"
  ],
  "players": [
   {
-   "n": 1,
+   "n": null,
+   "name": "Abdulaziz Al Awardi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mishal Saad",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Mahasnah",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
    "name": "Mory Diaw",
    "pos": "GK",
    "nat": "SN"
   },
   {
-   "n": 22,
-   "name": "Mohammed Al-Otaibi",
+   "n": null,
+   "name": "Muhammad Al Otaibi",
    "pos": "GK",
    "nat": "SA"
   },
   {
-   "n": 23,
-   "name": "Abdulaziz Al-Awairdhi",
-   "pos": "GK",
+   "n": null,
+   "name": "Abdullah Al Hawsawi",
+   "pos": "DF",
    "nat": "SA"
   },
   {
-   "n": 33,
-   "name": "Mohammed Al-Mahasneh",
-   "pos": "GK",
+   "n": null,
+   "name": "Ali Al Bulayhi",
+   "pos": "DF",
    "nat": "SA"
   },
   {
-   "n": 2,
-   "name": "Mohammed Al Shwirekh",
+   "n": null,
+   "name": "Ali Makki",
    "pos": "DF",
-   "role": "CB",
    "nat": "SA"
   },
   {
-   "n": 3,
-   "name": "Mamadou Thierno Barry",
+   "n": null,
+   "name": "Dhari Al Anazi",
    "pos": "DF",
-   "role": "CB",
-   "nat": "SN"
-  },
-  {
-   "n": 4,
-   "name": "Tin Jedvaj",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "HR"
-  },
-  {
-   "n": 5,
-   "name": "Ali Maki",
-   "pos": "DF",
-   "role": "CB",
    "nat": "SA"
   },
   {
-   "n": 15,
-   "name": "Lazar Stojanović",
+   "n": null,
+   "name": "Lazar Stojanovic",
    "pos": "DF",
-   "role": "CB",
    "nat": "RS"
   },
   {
-   "n": 17,
-   "name": "Mohamed Al-Thani",
+   "n": null,
+   "name": "Mamadou Barry",
    "pos": "DF",
-   "role": "RB",
+   "nat": "SN"
+  },
+  {
+   "n": null,
+   "name": "Mohammed Al Shwirekh",
+   "pos": "DF",
    "nat": "SA"
   },
   {
-   "n": 21,
-   "name": "Dhari Al Anazi",
+   "n": null,
+   "name": "Mohammed Al Thani",
    "pos": "DF",
-   "role": "LB",
    "nat": "SA"
   },
   {
-   "n": 34,
-   "name": "Sultan Al-Anzi",
+   "n": null,
+   "name": "Mohammed Essa Hurbush",
    "pos": "DF",
-   "role": "LB",
    "nat": "SA"
   },
   {
-   "n": 38,
-   "name": "Mohamed Harbush",
+   "n": null,
+   "name": "Nasser Ali Al Bishi",
    "pos": "DF",
-   "role": "RB",
    "nat": "SA"
   },
   {
-   "n": 45,
-   "name": "Amjad Ali Haraj",
+   "n": null,
+   "name": "Sultan",
    "pos": "DF",
-   "role": "CB",
    "nat": "SA"
   },
   {
-   "n": 56,
+   "n": null,
+   "name": "Tin Jedvaj",
+   "pos": "DF",
+   "nat": "HR"
+  },
+  {
+   "n": null,
    "name": "Yazeed Al Dosari",
    "pos": "DF",
-   "role": "RB",
-   "nat": "SA"
-  },
-  {
-   "n": 66,
-   "name": "Muqrin Abanumay",
-   "pos": "DF",
-   "role": "RB",
    "nat": "SA"
   },
   {
    "n": null,
-   "name": "Abdullah Hawsawi",
-   "pos": "DF",
-   "role": "RB",
-   "nat": "SA"
-  },
-  {
-   "n": null,
-   "name": "Ali Al-Bulaihi",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "SA"
-  },
-  {
-   "n": 6,
-   "name": "Awad Al-Nashri",
+   "name": "Abdulrahman Al Obud",
    "pos": "MF",
-   "role": "CM",
    "nat": "SA"
   },
   {
-   "n": 8,
+   "n": null,
+   "name": "Adel Qasem",
+   "pos": "MF",
+   "nat": "YE"
+  },
+  {
+   "n": null,
+   "name": "Ali Al Asmari",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Awad Al Nashri",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Hammam Al Hammami",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
    "name": "Josh Brownhill",
    "pos": "MF",
-   "role": "CM",
    "nat": "GB-ENG"
   },
   {
-   "n": 18,
-   "name": "Thomas Partey",
+   "n": null,
+   "name": "Talal Al Shubili",
    "pos": "MF",
-   "role": "DM",
-   "nat": "GH"
-  },
-  {
-   "n": 22,
-   "name": "Hammam Al Hammami",
-   "pos": "MF",
-   "role": "AM",
-   "nat": "SA"
-  },
-  {
-   "n": 29,
-   "name": "Yacine Adli",
-   "pos": "MF",
-   "role": "AM",
-   "nat": "FR"
-  },
-  {
-   "n": 40,
-   "name": "Ali Al-Asmari",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "SA"
-  },
-  {
-   "n": 74,
-   "name": "Abdulaziz Al-Hadhood",
-   "pos": "MF",
-   "role": "AM",
-   "nat": "SA"
-  },
-  {
-   "n": 9,
-   "name": "Roger Martínez",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "CO"
-  },
-  {
-   "n": 10,
-   "name": "Yannick Carrasco",
-   "pos": "FW",
-   "role": "LF",
-   "nat": "BE"
-  },
-  {
-   "n": 11,
-   "name": "Daniel Podence",
-   "pos": "FW",
-   "role": "LF",
-   "nat": "PT"
-  },
-  {
-   "n": 37,
-   "name": "Abdullah Matuq Saeed",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "SA"
-  },
-  {
-   "n": 97,
-   "name": "Mourad Khodari",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "SA"
-  },
-  {
-   "n": 99,
-   "name": "Hamad Al-Khorayef",
-   "pos": "FW",
-   "role": "CF",
    "nat": "SA"
   },
   {
    "n": null,
-   "name": "Abdulrahman Al-Oboud",
+   "name": "Thomas Partey",
+   "pos": "MF",
+   "nat": "GH"
+  },
+  {
+   "n": null,
+   "name": "Yacine Adli",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Abdulaziz Hadhood",
    "pos": "FW",
-   "role": "RF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Abdullah Matuq",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Daniel Podence",
+   "pos": "FW",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Hamad Al Khorayef",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Morad Khodari",
+   "pos": "FW",
    "nat": "SA"
   },
   {
    "n": null,
    "name": "Ricardo Mathias",
    "pos": "FW",
-   "role": "CF",
    "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Roger Martínez",
+   "pos": "FW",
+   "nat": "CO"
+  },
+  {
+   "n": null,
+   "name": "Yannick Carrasco",
+   "pos": "FW",
+   "nat": "BE"
   }
  ]
 }

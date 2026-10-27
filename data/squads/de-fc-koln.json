@@ -2,207 +2,200 @@
  "team": "de-fc-koln",
  "checked": "2026-10-27",
  "sources": [
-  "https://www.365scores.com/football/team/1.-fc-koln-350/squad"
+  "https://www.fotmob.com/teams/8722"
  ],
  "players": [
   {
-   "n": 1,
-   "name": "Marvin Schwäbe",
-   "pos": "GK",
-   "nat": "DE"
-  },
-  {
-   "n": 20,
-   "name": "Ron-Robert Zieler",
-   "pos": "GK",
-   "nat": "DE"
-  },
-  {
-   "n": 21,
+   "n": null,
    "name": "Martin James",
    "pos": "GK",
    "nat": "FR"
   },
   {
-   "n": 44,
-   "name": "Matthias Kobbing",
+   "n": null,
+   "name": "Marvin Schwäbe",
    "pos": "GK",
    "nat": "DE"
   },
   {
-   "n": 2,
-   "name": "Joël Schmied",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "CH"
-  },
-  {
-   "n": 3,
-   "name": "Borna Sosa",
-   "pos": "DF",
-   "role": "LB",
-   "nat": "HR"
-  },
-  {
-   "n": 4,
-   "name": "Timo Hübers",
-   "pos": "DF",
-   "role": "CB",
+   "n": null,
+   "name": "Matthias Köbbing",
+   "pos": "GK",
    "nat": "DE"
   },
   {
-   "n": 14,
-   "name": "Gideon Mensah",
-   "pos": "DF",
-   "role": "LB",
-   "nat": "GH"
+   "n": null,
+   "name": "Ron-Robert Zieler",
+   "pos": "GK",
+   "nat": "DE"
   },
   {
-   "n": 17,
+   "n": null,
    "name": "Alessio Castro-Montes",
    "pos": "DF",
-   "role": "RB",
    "nat": "BE"
   },
   {
-   "n": 22,
+   "n": null,
+   "name": "Assad Kotya Fofana",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Cenny Neumann",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Gideon Mensah",
+   "pos": "DF",
+   "nat": "GH"
+  },
+  {
+   "n": null,
    "name": "Jahmai Simpson-Pusey",
    "pos": "DF",
-   "role": "CB",
    "nat": "GB-ENG"
   },
   {
-   "n": 24,
+   "n": null,
+   "name": "Joël Schmied",
+   "pos": "DF",
+   "nat": "CH"
+  },
+  {
+   "n": null,
    "name": "Luka Lochoshvili",
    "pos": "DF",
-   "role": "CB",
    "nat": "GE"
   },
   {
-   "n": 28,
+   "n": null,
+   "name": "Rav van den Berg",
+   "pos": "DF",
+   "nat": "NL"
+  },
+  {
+   "n": null,
    "name": "Sebastian Sebulonsen",
    "pos": "DF",
-   "role": "RB",
    "nat": "NO"
   },
   {
-   "n": 33,
-   "name": "Rav van den Berg",
+   "n": null,
+   "name": "Timo Hübers",
    "pos": "DF",
-   "role": "CB",
-   "nat": "NL"
-  },
-  {
-   "n": 5,
-   "name": "Tom Krauss",
-   "pos": "MF",
-   "role": "DM",
    "nat": "DE"
   },
   {
-   "n": 6,
+   "n": null,
+   "name": "Borna Sosa",
+   "pos": "MF",
+   "nat": "HR"
+  },
+  {
+   "n": null,
    "name": "Ellyes Skhiri",
    "pos": "MF",
-   "role": "DM",
    "nat": "TN"
   },
   {
-   "n": 8,
-   "name": "Ísak Jóhannesson",
+   "n": null,
+   "name": "Fayssal Harchaoui",
    "pos": "MF",
-   "role": "CM",
-   "nat": "IS"
+   "nat": "DE"
   },
   {
-   "n": 23,
-   "name": "Paul Okon-Engstler",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "AU"
-  },
-  {
-   "n": 31,
+   "n": null,
    "name": "Gil Neves",
    "pos": "MF",
-   "role": "CM",
    "nat": "PT"
   },
   {
-   "n": 7,
-   "name": "Luca Waldschmidt",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "DE"
+   "n": null,
+   "name": "Ísak Jóhannesson",
+   "pos": "MF",
+   "nat": "IS"
   },
   {
-   "n": 9,
-   "name": "Ragnar Ache",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "DE"
-  },
-  {
-   "n": 10,
-   "name": "Said El Mala",
-   "pos": "FW",
-   "role": "LF",
-   "nat": "DE"
-  },
-  {
-   "n": 11,
-   "name": "Reigan Heskey",
-   "pos": "FW",
-   "role": "LF",
-   "nat": "GB-ENG"
-  },
-  {
-   "n": 19,
-   "name": "Malek El Mala",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "DE"
-  },
-  {
-   "n": 27,
-   "name": "Thijs Dallinga",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "NL"
-  },
-  {
-   "n": 29,
+   "n": null,
    "name": "Jan Thielmann",
-   "pos": "FW",
-   "role": "RF",
+   "pos": "MF",
    "nat": "DE"
   },
   {
-   "n": 30,
-   "name": "Marius Bulter",
-   "pos": "FW",
-   "role": "LF",
-   "nat": "DE"
-  },
-  {
-   "n": 37,
+   "n": null,
    "name": "Linton Maina",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Paul Okon-Engstler",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": null,
+   "name": "Tom Krauß",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Gian-Luca Waldschmidt",
    "pos": "FW",
-   "role": "RF",
    "nat": "DE"
   },
   {
    "n": null,
    "name": "Imad Rondić",
    "pos": "FW",
-   "role": "CF",
    "nat": "BA"
+  },
+  {
+   "n": null,
+   "name": "Malek El Mala",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Marius Bülter",
+   "pos": "FW",
+   "nat": "DE"
   },
   {
    "n": null,
    "name": "Mikey Moore",
    "pos": "FW",
-   "role": "RF",
    "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Ragnar Ache",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Reigan Heskey",
+   "pos": "FW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": null,
+   "name": "Saïd El Mala",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Thijs Dallinga",
+   "pos": "FW",
+   "nat": "NL"
   }
  ]
 }

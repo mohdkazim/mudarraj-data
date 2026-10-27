@@ -2,194 +2,218 @@
  "team": "de-schalke-04",
  "checked": "2026-10-27",
  "sources": [
-  "https://www.365scores.com/football/team/schalke-04-335/squad"
+  "https://www.fotmob.com/es/teams/10189/overview"
  ],
  "players": [
   {
-   "n": 1,
-   "name": "Loris Karius",
+   "n": null,
+   "name": "Faaris Yusufu",
    "pos": "GK",
    "nat": "DE"
   },
   {
-   "n": 22,
-   "name": "Kevin Müller",
-   "pos": "GK",
-   "nat": "DE"
-  },
-  {
-   "n": 36,
+   "n": null,
    "name": "Johannes Siebeking",
    "pos": "GK",
    "nat": "DE"
   },
   {
-   "n": 4,
+   "n": null,
+   "name": "Kevin Müller",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Loris Karius",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Anton Donkor",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
    "name": "Hasan Kuruçay",
    "pos": "DF",
-   "role": "CB",
    "nat": "TR"
   },
   {
-   "n": 5,
-   "name": "Timo Becker",
+   "n": null,
+   "name": "Maximilian Wöber",
    "pos": "DF",
-   "role": "CB",
-   "nat": "DE"
+   "nat": "AT"
   },
   {
-   "n": 8,
-   "name": "Robin Gosens",
+   "n": null,
+   "name": "Mertcan Ayhan",
    "pos": "DF",
-   "role": "LB",
-   "nat": "DE"
+   "nat": "TR"
   },
   {
-   "n": 17,
-   "name": "Adrian Gantenbein",
+   "n": null,
+   "name": "Nikola Katić",
    "pos": "DF",
-   "role": "RB",
-   "nat": "CH"
-  },
-  {
-   "n": 25,
-   "name": "Nikola Katic",
-   "pos": "DF",
-   "role": "CB",
    "nat": "BA"
   },
   {
-   "n": 33,
-   "name": "Vitalie Becker",
+   "n": null,
+   "name": "Robin Gosens",
    "pos": "DF",
-   "role": "LB",
    "nat": "DE"
   },
   {
-   "n": 39,
-   "name": "Maximilian Wöber",
+   "n": null,
+   "name": "Steve Noode",
    "pos": "DF",
-   "role": "CB",
-   "nat": "AT"
-  },
-  {
-   "n": 43,
-   "name": "Mertcan Ayhan",
-   "pos": "DF",
-   "role": "CB",
-   "nat": "TR"
-  },
-  {
-   "n": 6,
-   "name": "Ron Schallenberg",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "DE"
-  },
-  {
-   "n": 13,
-   "name": "Satoshi Tanaka",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "JP"
-  },
-  {
-   "n": 14,
-   "name": "Janik Bachmann",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "DE"
-  },
-  {
-   "n": 19,
-   "name": "Kenan Karaman",
-   "pos": "MF",
-   "role": "AM",
-   "nat": "TR"
-  },
-  {
-   "n": 21,
-   "name": "Dejan Ljubicic",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "AT"
-  },
-  {
-   "n": 23,
-   "name": "Soufiane El-Faouzi",
-   "pos": "MF",
-   "role": "CM",
-   "nat": "MA"
-  },
-  {
-   "n": 24,
-   "name": "Adil Aouchiche",
-   "pos": "MF",
-   "role": "AM",
-   "nat": "DZ"
-  },
-  {
-   "n": 27,
-   "name": "Finn Porath",
-   "pos": "MF",
-   "role": "RM",
-   "nat": "DE"
-  },
-  {
-   "n": 29,
-   "name": "Junior Dina Ebimbe",
-   "pos": "MF",
-   "role": "RM",
    "nat": "CM"
   },
   {
-   "n": 38,
-   "name": "Luca Vozar",
-   "pos": "MF",
-   "role": "DM",
-   "nat": "DE"
-  },
-  {
-   "n": 7,
-   "name": "Hwang Hee-Chan",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "KR"
-  },
-  {
-   "n": 9,
-   "name": "Moussa Sylla",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "ML"
-  },
-  {
-   "n": 10,
-   "name": "Edin Džeko",
-   "pos": "FW",
-   "role": "CF",
-   "nat": "BA"
-  },
-  {
-   "n": 11,
-   "name": "Bryan Lasme",
-   "pos": "FW",
-   "role": "CF",
+   "n": null,
+   "name": "Tidiane Touré",
+   "pos": "DF",
    "nat": "FR"
   },
   {
-   "n": 15,
+   "n": null,
+   "name": "Timo Becker",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Tomás Kalas",
+   "pos": "DF",
+   "nat": "CZ"
+  },
+  {
+   "n": null,
+   "name": "Adil Aouchiche",
+   "pos": "MF",
+   "nat": "DZ"
+  },
+  {
+   "n": null,
+   "name": "Adrian Gantenbein",
+   "pos": "MF",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Dejan Ljubičić",
+   "pos": "MF",
+   "nat": "AT"
+  },
+  {
+   "n": null,
+   "name": "Finn Porath",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Janik Bachmann",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Kenan Karaman",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Luca Vozar",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Max Grüger",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Ron Schallenberg",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Satoshi Tanaka",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Soufian El-Faouzi",
+   "pos": "MF",
+   "nat": "MA"
+  },
+  {
+   "n": null,
+   "name": "Vitalie Becker",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Yassin Ben Balla",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Bryan Lasme",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Chukwubuike Adamu",
+   "pos": "FW",
+   "nat": "AT"
+  },
+  {
+   "n": null,
+   "name": "Edin Džeko",
+   "pos": "FW",
+   "nat": "BA"
+  },
+  {
+   "n": null,
    "name": "Emil Højlund",
    "pos": "FW",
-   "role": "CF",
    "nat": "DK"
   },
   {
-   "n": 20,
-   "name": "Junior Adamu",
+   "n": null,
+   "name": "Hee-Chan Hwang",
    "pos": "FW",
-   "role": "CF",
-   "nat": "AT"
+   "nat": "KR"
+  },
+  {
+   "n": null,
+   "name": "Junior Dina Ebimbe",
+   "pos": "FW",
+   "nat": "CM"
+  },
+  {
+   "n": null,
+   "name": "Moussa Sylla",
+   "pos": "FW",
+   "nat": "ML"
+  },
+  {
+   "n": null,
+   "name": "Zaid Amoussou-Tchibara",
+   "pos": "FW",
+   "nat": "TG"
   }
  ]
 }

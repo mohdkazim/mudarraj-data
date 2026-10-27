@@ -94,7 +94,7 @@ const ALIASES = {
   "guinea bissau": "GW", "sao tome and principe": "ST", "central african republic": "CF", uae: "AE", "united arab emirates": "AE", "saudi arabia": "SA", "kyrgyz republic": "KG",
   kyrgyzstan: "KG", "china pr": "CN", china: "CN", "myanmar": "MM", burma: "MM", "east timor": "TL", "timor leste": "TL", "the netherlands": "NL", holland: "NL",
   "great britain": "GB", "united kingdom": "GB", "st martin": "MF", "guadeloupe": "GP", martinique: "MQ", "french guiana": "GF", reunion: "RE", "new caledonia": "NC",
-  fgu: "GF", "french guyana": "GF",
+  fgu: "GF", "french guyana": "GF", tahiti: "PF",
   "equatorial guinea": "GQ", "south sudan": "SS", "libya": "LY", "sudan": "SD", "micronesia": "FM", "faroe islands": "FO", "u s virgin islands": "VI", "us virgin islands": "VI",
 };
 
