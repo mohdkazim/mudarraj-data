@@ -1,0 +1,202 @@
+{
+ "team": "es-deportivo-la-coruna",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9783/squad/deportivo-la-coruna"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Germán Parreno",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Leo Román",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 25,
+   "name": "Álvaro Fernández",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Adrià Altimira",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 3,
+   "name": "Arnau Comas",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Lucas Noubi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BE"
+  },
+  {
+   "n": 5,
+   "name": "Dani Barcia",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "Giacomo Quagliata",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IT"
+  },
+  {
+   "n": 15,
+   "name": "Miguel Loureiro",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Angeliño",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 20,
+   "name": "José Giménez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UY"
+  },
+  {
+   "n": 22,
+   "name": "Bright Ede",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PL"
+  },
+  {
+   "n": 23,
+   "name": "Ximo Navarro",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Marc Casadó",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Diego Villares",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Riki Rodríguez",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Lorenzo Amatucci",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 19,
+   "name": "Luismi Cruz",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Mario Soriano",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 36,
+   "name": "Yayo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 37,
+   "name": "Noé",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Pierre-Emerick Aubameyang",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GA"
+  },
+  {
+   "n": 9,
+   "name": "Zakaria Eddahchouri",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NL"
+  },
+  {
+   "n": 10,
+   "name": "Yeremay Hernández",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "David Mella",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 18,
+   "name": "Jonathan Asp",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DK"
+  },
+  {
+   "n": 24,
+   "name": "Adama Traoré",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 32,
+   "name": "Bil Nsongo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CM"
+  }
+ ]
+}

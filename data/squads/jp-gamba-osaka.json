@@ -1,0 +1,273 @@
+{
+ "team": "jp-gamba-osaka",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/6582/squad/gamba-osaka"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Masaaki Higashiguchi",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 18,
+   "name": "Rui Araki",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 22,
+   "name": "Jun Ichimori",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 31,
+   "name": "Aolin Zhang",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 2,
+   "name": "Shota Fukuoka",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 3,
+   "name": "Riku Handa",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "JP"
+  },
+  {
+   "n": 4,
+   "name": "Shinnosuke Nakatani",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 5,
+   "name": "Genta Miura",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 15,
+   "name": "Takeru Kishimoto",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "JP"
+  },
+  {
+   "n": 19,
+   "name": "Ginjiro Ikegaya",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 21,
+   "name": "Ryo Hatsuse",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "JP"
+  },
+  {
+   "n": 28,
+   "name": "Soya Fujiwara",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "JP"
+  },
+  {
+   "n": 33,
+   "name": "Haruki Ozawa",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": 34,
+   "name": "Yuya Yokoi",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": 47,
+   "name": "Shinya Nakano",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "JP"
+  },
+  {
+   "n": 67,
+   "name": "Shogo Sasaki",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 7,
+   "name": "Takashi Usami",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 11,
+   "name": "Issam Jebali",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "TN"
+  },
+  {
+   "n": 13,
+   "name": "Shuto Abe",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 14,
+   "name": "Asahi Uenaka",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 16,
+   "name": "Tokuma Suzuki",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 27,
+   "name": "Rin Mito",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 32,
+   "name": "Yuki Yoshihara",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 39,
+   "name": "Koshiro Sumi",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "JP"
+  },
+  {
+   "n": 48,
+   "name": "Fujimoto Yoshiki",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 60,
+   "name": "Arata Okamoto",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 78,
+   "name": "Juanpe",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Ryotaro Meshino",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "JP"
+  },
+  {
+   "n": 9,
+   "name": "Daichi Hayashi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 10,
+   "name": "Shu Kurata",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "JP"
+  },
+  {
+   "n": 17,
+   "name": "Ryoya Yamashita",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "JP"
+  },
+  {
+   "n": 20,
+   "name": "Eli Adams",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "AU"
+  },
+  {
+   "n": 23,
+   "name": "Deniz Hümmet",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "TR"
+  },
+  {
+   "n": 24,
+   "name": "Tsuyoshi Ogashiwa",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": 35,
+   "name": "Taiki Tono",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "JP"
+  },
+  {
+   "n": 37,
+   "name": "Naru Nakatsumi",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "JP"
+  },
+  {
+   "n": 41,
+   "name": "Yusei Toshida",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 44,
+   "name": "Kanji Okunuki",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "JP"
+  },
+  {
+   "n": 97,
+   "name": "Welton",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  }
+ ]
+}

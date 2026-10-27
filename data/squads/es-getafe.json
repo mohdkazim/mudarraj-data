@@ -1,0 +1,181 @@
+{
+ "team": "es-getafe",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8305/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Jirí Letácek",
+   "pos": "GK",
+   "nat": "CZ"
+  },
+  {
+   "n": 13,
+   "name": "David Soria",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Djené",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "TG"
+  },
+  {
+   "n": 3,
+   "name": "Davinchi",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Saba Sazonov",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GE"
+  },
+  {
+   "n": 5,
+   "name": "Abdelkabir Abqar",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MA"
+  },
+  {
+   "n": 8,
+   "name": "Nemanja Gudelj",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RS"
+  },
+  {
+   "n": 14,
+   "name": "Daniel Carvajal",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Sebastián Boselli",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UY"
+  },
+  {
+   "n": 17,
+   "name": "Kiko",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Andrés García",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Johan Mojica",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CO"
+  },
+  {
+   "n": 24,
+   "name": "Zaid Abner Romero",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 26,
+   "name": "Jean Ives Valou",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CI"
+  },
+  {
+   "n": 6,
+   "name": "Mario Martín",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Ramón Terrats",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Francho Serrano",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Orel Mangala",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BE"
+  },
+  {
+   "n": 28,
+   "name": "Alberto Risco",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Juanmi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Borja Mayoral",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Martín Satriano",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "UY"
+  },
+  {
+   "n": 18,
+   "name": "Christantus Uche",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NG"
+  },
+  {
+   "n": 19,
+   "name": "Enes Ünal",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "TR"
+  },
+  {
+   "n": 20,
+   "name": "Iván Azon",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  }
+ ]
+}

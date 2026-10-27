@@ -1,0 +1,221 @@
+{
+ "team": "sa-al-taawoun",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/205686/squad/al-taawoun"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Mailson",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": 25,
+   "name": "Abdulrahman Al Senaid",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 30,
+   "name": "Abdullah Al Jadani",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 39,
+   "name": "Abdulrahman Al Ghamdi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 5,
+   "name": "Zineddine Belaïd",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DZ"
+  },
+  {
+   "n": 6,
+   "name": "Bassam Al Hurayji",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 27,
+   "name": "Adeeb Al Hassan",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 32,
+   "name": "Muteb Al Mufarrij",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 40,
+   "name": "Ibrahim Mahnashi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 43,
+   "name": "Nawaf Al Hawairy",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 44,
+   "name": "Nasser Al Haleel",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 55,
+   "name": "Jair Collahuazo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "EC"
+  },
+  {
+   "n": 70,
+   "name": "Abdulrahman Hindi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 93,
+   "name": "Awn Al Saluli",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 4,
+   "name": "Mustapha Samb",
+   "pos": "MF",
+   "nat": "SN"
+  },
+  {
+   "n": 16,
+   "name": "Faris Al Ghamdi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 18,
+   "name": "Aschraf El Mahdioui",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MA"
+  },
+  {
+   "n": 19,
+   "name": "Oscar Dorley",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "LR"
+  },
+  {
+   "n": 20,
+   "name": "Bassem Al Arini",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 23,
+   "name": "Rakan Al Tulayhi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 45,
+   "name": "Mohammed Al Saedi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Mohammed Al Kuwaykibi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  },
+  {
+   "n": 8,
+   "name": "Parfait Guiagon",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "CI"
+  },
+  {
+   "n": 9,
+   "name": "Abderrazak Hamdallah",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  },
+  {
+   "n": 10,
+   "name": "Nedim Bajrami",
+   "pos": "FW",
+   "nat": "AL"
+  },
+  {
+   "n": 14,
+   "name": "Saif Rajab",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "SA"
+  },
+  {
+   "n": 17,
+   "name": "Mohammed Al Aqel",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 37,
+   "name": "Ibrahim Alzahrani",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 47,
+   "name": "Younes El Bahraoui",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  },
+  {
+   "n": 88,
+   "name": "Marin Petkov",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BG"
+  },
+  {
+   "n": 91,
+   "name": "Yousef Saleh Al Salem",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 94,
+   "name": "Luay Al Mohaimeed",
+   "pos": "FW",
+   "nat": "SA"
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "team": "de-wurzburger-kickers",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/ja/teams/145486/squad/players"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Johann Hipper",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Marc Richter",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Marko Rajkovačić",
+   "pos": "GK",
+   "nat": "CH"
+  },
+  {
+   "n": 35,
+   "name": "Nico Purtscher",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Nathan De Medina",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BE"
+  },
+  {
+   "n": 5,
+   "name": "Leo Eberle",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Louis Breunig",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Peter Kurzweg",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Liam Omore",
+   "pos": "DF",
+   "role": "RWB",
+   "nat": "BJ"
+  },
+  {
+   "n": 19,
+   "name": "Douglas",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 21,
+   "name": "Luke Hemmerich",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Daniel Hägele",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Kristijan Taseski",
+   "pos": "DF",
+   "nat": "MK"
+  },
+  {
+   "n": 25,
+   "name": "Dominik Meisel",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Ebrahim Farahnak",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IR"
+  },
+  {
+   "n": 32,
+   "name": "Christian Strohdiek",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 34,
+   "name": "Burak Karakaya",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "David Abrangao",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Namrud Embaye",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ER"
+  },
+  {
+   "n": 8,
+   "name": "David Kinsombi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Eroll Zejnullahu",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "XK"
+  },
+  {
+   "n": 13,
+   "name": "Philipp Ochs",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Franck Evina",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "CM"
+  },
+  {
+   "n": 20,
+   "name": "Dorian Deppner",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Xaver Kiefersauer",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Batuhan Gögce",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 37,
+   "name": "Ivan Franjić",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Eliot Muteba",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Jermain Nischalke",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Dion Berisha",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "XK"
+  },
+  {
+   "n": 15,
+   "name": "Tiago De Moura",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Thomas Kastanaras",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GR"
+  },
+  {
+   "n": 30,
+   "name": "Tarsis Bonga",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Tim Kraus",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  }
+ ]
+}

@@ -3543,3 +3543,36 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result acle-2026-27-league-east-geast-r03-cn-beijing-guoan-kr-jeonbuk-hyundai-motors 2-2 FT
   - ✓ result acle-2026-27-league-east-geast-r03-th-ratchaburi-jp-kashiwa-reysol 0-0 FT
+
+## 2026-10-27 (2026-10-27T17:44:36.640Z)
+- 30 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ squad gb-eng-ipswich-town squad added (28 players)
+  - ✓ squad gb-eng-leeds-united squad added (24 players)
+  - ✓ squad gb-eng-liverpool squad added (28 players)
+  - ✓ squad gb-eng-manchester-city squad added (25 players)
+  - ✓ squad gb-eng-manchester-united squad added (30 players)
+  - ✓ squad gb-eng-newcastle-united squad added (25 players)
+  - ✓ squad es-alaves squad added (25 players); 1 note(s): Mariano Díaz: unknown nationality "Dominican Rep." left out — add it to tools/squads.mjs ALIASES if it is real
+  - ✓ squad es-athletic-club squad added (26 players)
+  - ✓ squad es-atletico-madrid squad added (24 players)
+  - ✓ squad es-barcelona squad added (27 players)
+  - ✓ squad es-celta-vigo squad added (25 players)
+  - ✓ squad es-deportivo-la-coruna squad added (28 players)
+  - ✓ squad es-elche squad added (28 players)
+  - ✓ squad es-espanyol squad added (25 players)
+  - ✓ squad es-getafe squad added (25 players)
+  - ✓ squad sa-al-taawoun squad added (32 players)
+  - ✓ squad it-juventus squad added (30 players)
+  - ✓ squad it-roma squad added (25 players)
+  - ✓ squad it-torino squad added (30 players)
+  - ✓ squad ir-tractor squad added (33 players)
+  - ✓ squad jp-gamba-osaka squad added (39 players)
+  - ✓ squad jp-kashima-antlers squad added (30 players)
+  - ✓ squad jp-kashiwa-reysol squad added (42 players); 1 note(s): shirt number(s) used twice: 14 (as the page lists them)
+  - ✓ squad de-vfl-osnabruck squad added (30 players)
+  - ✓ squad de-viktoria-koln squad added (31 players); 1 note(s): shirt number(s) used twice: 24, 26, 7, 8, 10 (as the page lists them)
+  - ✓ squad de-waldhof-mannheim squad added (37 players); 1 note(s): shirt number(s) used twice: 6, 14 (as the page lists them)
+  - ✓ squad de-wehen-wiesbaden squad added (30 players); 1 note(s): shirt number(s) used twice: 14 (as the page lists them)
+  - ✓ squad de-wurzburger-kickers squad added (34 players); 1 note(s): shirt number(s) used twice: 16, 19 (as the page lists them)
+  - ✓ squad dk-copenhagen squad added (24 players)
+  - ✓ squad es-girona squad added (32 players)

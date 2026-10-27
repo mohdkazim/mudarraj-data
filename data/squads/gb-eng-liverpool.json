@@ -1,0 +1,198 @@
+{
+ "team": "gb-eng-liverpool",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8650/squad/fixtures,teams"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Alisson Becker",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": 25,
+   "name": "Giorgi Mamardashvili",
+   "pos": "GK",
+   "nat": "GE"
+  },
+  {
+   "n": 28,
+   "name": "Freddie Woodman",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 56,
+   "name": "Vítezslav Jaroš",
+   "pos": "GK",
+   "nat": "CZ"
+  },
+  {
+   "n": 95,
+   "name": "Harvey Davies",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 2,
+   "name": "Joseph Gomez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 3,
+   "name": "Wataru Endo",
+   "pos": "DF",
+   "nat": "JP"
+  },
+  {
+   "n": 4,
+   "name": "Virgil van Dijk",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 5,
+   "name": "Jérémy Jacquet",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 6,
+   "name": "Miloš Kerkez",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "HU"
+  },
+  {
+   "n": 12,
+   "name": "Conor Bradley",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-NIR"
+  },
+  {
+   "n": 15,
+   "name": "Giovanni Leoni",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 21,
+   "name": "Konstantinos Tsimikas",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GR"
+  },
+  {
+   "n": 30,
+   "name": "Jeremie Frimpong",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "NL"
+  },
+  {
+   "n": 33,
+   "name": "Ronald Araujo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UY"
+  },
+  {
+   "n": 8,
+   "name": "Dominik Szoboszlai",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "HU"
+  },
+  {
+   "n": 10,
+   "name": "Alexis Mac Allister",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AR"
+  },
+  {
+   "n": 38,
+   "name": "Ryan Gravenberch",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NL"
+  },
+  {
+   "n": 42,
+   "name": "Trey Nyoni",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 7,
+   "name": "Florian Wirtz",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Alexander Isak",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SE"
+  },
+  {
+   "n": 14,
+   "name": "Federico Chiesa",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 18,
+   "name": "Cody Gakpo",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NL"
+  },
+  {
+   "n": 22,
+   "name": "Hugo Ekitiké",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 23,
+   "name": "Víctor Muñoz",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 29,
+   "name": "Bradley Barcola",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "FR"
+  },
+  {
+   "n": 67,
+   "name": "Lewis Koumas",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 73,
+   "name": "Rio Ngumoha",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GB-ENG"
+  }
+ ]
+}

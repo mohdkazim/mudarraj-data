@@ -1,0 +1,209 @@
+{
+ "team": "de-vfl-osnabruck",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/9775/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Niklas Sauter",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 32,
+   "name": "Jonas Krumrey",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 35,
+   "name": "Mats Remberg",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Luca Böggemann",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Joël Abu Hanna",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IL"
+  },
+  {
+   "n": 20,
+   "name": "Theo Janotta",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Jannik Müller",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "Niklas Wiemann",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Robin Fabinski",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 38,
+   "name": "Elias Bakatukanda",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CD"
+  },
+  {
+   "n": 42,
+   "name": "Jonathan Gómez",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "US"
+  },
+  {
+   "n": null,
+   "name": "Ibrahim Touray",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Lion Semić",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Bryan Henning",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Daniel-Kofi Kyereh",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GH"
+  },
+  {
+   "n": 8,
+   "name": "Leonhard Münst",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Ismail Badjie",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 15,
+   "name": "Bjarke Jacobsen",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DK"
+  },
+  {
+   "n": 17,
+   "name": "Luca Raimund",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Leon Flach",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "US"
+  },
+  {
+   "n": 21,
+   "name": "Adrian Beck",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Bernd Riesselman",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Tony Lesueur",
+   "pos": "MF",
+   "nat": "FR"
+  },
+  {
+   "n": 26,
+   "name": "Fridolin Wagner",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Konrad Faber",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Patrick Kammerbauer",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Jonathan Wensing",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Robert Tesche",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Robin Meißner",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Leon Opitz",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  }
+ ]
+}

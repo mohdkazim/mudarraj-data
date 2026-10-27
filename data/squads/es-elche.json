@@ -1,0 +1,203 @@
+{
+ "team": "es-elche",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/10268/squad/elche"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Matías Dituro",
+   "pos": "GK",
+   "nat": "AR"
+  },
+  {
+   "n": 13,
+   "name": "Alejandro Iturbe",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Buba Sangaré",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 3,
+   "name": "Roy Revivo",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IL"
+  },
+  {
+   "n": 4,
+   "name": "Bambo Diaby",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Federico Redondo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 6,
+   "name": "Pedro Bigas",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Kevin Lomónaco",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 22,
+   "name": "Rubén Sánchez",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Víctor Chust",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 26,
+   "name": "Matia Barzić",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Yago Santiago",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Marc Aguado",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Facundo Buonanotte",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AR"
+  },
+  {
+   "n": 11,
+   "name": "Germán Valera",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "Gonzalo Villar",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Martim Neto",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PT"
+  },
+  {
+   "n": 18,
+   "name": "Thomas Lemar",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 19,
+   "name": "Grady Diangana",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CD"
+  },
+  {
+   "n": 20,
+   "name": "Tete Morente",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "ES"
+  },
+  {
+   "n": 29,
+   "name": "Ali Houary",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MA"
+  },
+  {
+   "n": 47,
+   "name": "Javi Morcillo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Ezequiel Ponce",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 14,
+   "name": "Fer Niño",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Josan",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Lucas Cepeda",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CL"
+  },
+  {
+   "n": 24,
+   "name": "Abiel Osorio",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 32,
+   "name": "Adam Boayar",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "MA"
+  }
+ ]
+}

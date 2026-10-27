@@ -1,0 +1,287 @@
+{
+ "team": "jp-kashiwa-reysol",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/ko/teams/8699/squad/kashiwa-reysol"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Haruki Saruta",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 25,
+   "name": "Ryosuke Kojima",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 29,
+   "name": "Kengo Nagai",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 41,
+   "name": "Daiki Sakata",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 46,
+   "name": "Kenta Matsumoto",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 63,
+   "name": "Yushin Kaneko",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 77,
+   "name": "Tomoya Wakahara",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 2,
+   "name": "Hiromu Mitsumaru",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 4,
+   "name": "Taiyo Koga",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 13,
+   "name": "Tomoya Inukai",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 26,
+   "name": "Daiki Sugioka",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 42,
+   "name": "Wataru Harada",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 88,
+   "name": "Seiya Baba",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 5,
+   "name": "Keita Endo",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "JP"
+  },
+  {
+   "n": 6,
+   "name": "Yuto Yamada",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 8,
+   "name": "Yoshio Koizumi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 11,
+   "name": "Masaki Watai",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 14,
+   "name": "Ryo Igarashi",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 16,
+   "name": "Koya Yuruki",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 17,
+   "name": "Kohei Tezuka",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "JP"
+  },
+  {
+   "n": 19,
+   "name": "Hayato Nakama",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 20,
+   "name": "Yusuke Segawa",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 21,
+   "name": "Yudai Konishi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 23,
+   "name": "Kaiji Chonan",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 24,
+   "name": "Tojiro Kubo",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 27,
+   "name": "Koki Kumasaka",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 28,
+   "name": "Sachiro Toshima",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 30,
+   "name": "Shusuke Furuya",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "JP"
+  },
+  {
+   "n": 31,
+   "name": "Shumpei Naruse",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 32,
+   "name": "Yusei Yamanouchi",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 33,
+   "name": "Sota Iwanaga",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 36,
+   "name": "Naberuyoshitaka Furusawa",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "JP"
+  },
+  {
+   "n": 39,
+   "name": "Nobuteru Nakagawa",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 40,
+   "name": "Riki Harakawa",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 43,
+   "name": "Yuito Kamo",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 44,
+   "name": "Kenshin Yuba",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 87,
+   "name": "Hinata Yamauchi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 9,
+   "name": "Mao Hosoya",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 14,
+   "name": "Tomoaki Okubo",
+   "pos": "FW",
+   "nat": "JP"
+  },
+  {
+   "n": 15,
+   "name": "Shota Fujio",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 18,
+   "name": "Yuki Kakita",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": null,
+   "name": "Mohamad Sadiki Wade",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  }
+ ]
+}

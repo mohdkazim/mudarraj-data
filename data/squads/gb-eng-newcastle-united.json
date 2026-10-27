@@ -1,0 +1,179 @@
+{
+ "team": "gb-eng-newcastle-united",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/10261/squad/newcastle-united"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Nick Pope",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 21,
+   "name": "Lukás Hornícek",
+   "pos": "GK",
+   "nat": "CZ"
+  },
+  {
+   "n": 24,
+   "name": "Ewen Jaouen",
+   "pos": "GK",
+   "nat": "FR"
+  },
+  {
+   "n": 29,
+   "name": "Mark Gillespie",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 2,
+   "name": "Valentino Livramento",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 3,
+   "name": "Lewis Hall",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 4,
+   "name": "Sven Botman",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 5,
+   "name": "Fabian Schär",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CH"
+  },
+  {
+   "n": 12,
+   "name": "Malick Thiaw",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Daniel Burn",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 37,
+   "name": "Amar Dedić",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BA"
+  },
+  {
+   "n": 6,
+   "name": "Nico González",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Joelinton",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 8,
+   "name": "Aladji Bamba",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FR"
+  },
+  {
+   "n": 14,
+   "name": "Sean Steur",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NL"
+  },
+  {
+   "n": 28,
+   "name": "Joseph Willock",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 41,
+   "name": "Jacob Ramsey",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 67,
+   "name": "Lewis Miley",
+   "pos": "MF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 9,
+   "name": "Yoane Wissa",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CD"
+  },
+  {
+   "n": 10,
+   "name": "William Osula",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DK"
+  },
+  {
+   "n": 11,
+   "name": "Harvey Barnes",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 17,
+   "name": "Bazoumana Touré",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "CI"
+  },
+  {
+   "n": 19,
+   "name": "Anthony Elanga",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SE"
+  },
+  {
+   "n": 20,
+   "name": "Matias Fernandez-Pardo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BE"
+  },
+  {
+   "n": 23,
+   "name": "Jacob Murphy",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GB-ENG"
+  }
+ ]
+}

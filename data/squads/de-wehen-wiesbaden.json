@@ -1,0 +1,214 @@
+{
+ "team": "de-wehen-wiesbaden",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/de/teams/8196/squad"
+ ],
+ "players": [
+  {
+   "n": 16,
+   "name": "Florian Stritzel",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Noah Brdar",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 41,
+   "name": "Finn Ludwig",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Michael Schultz",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 15,
+   "name": "Justin Janitzek",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Ben Nink",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Fabian Greilinger",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Florian Hübner",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Tim Neubert",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Jakob Lewald",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Jordy Gillekens",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BE"
+  },
+  {
+   "n": 29,
+   "name": "Philipp Hercher",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Niklas May",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Gino Fechner",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Lukas Schleimer",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Donny Bogićević",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Simon Stehle",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Tarik Gözüsirin",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "TR"
+  },
+  {
+   "n": 14,
+   "name": "Orestis Kiomourtzoglou",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GR"
+  },
+  {
+   "n": 20,
+   "name": "Ayoub Chaikhoun",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "MA"
+  },
+  {
+   "n": 36,
+   "name": "Nassim Elouarti",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 37,
+   "name": "Max Brandt",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 45,
+   "name": "Ibrahim Ati Allah",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "DE"
+  },
+  {
+   "n": 47,
+   "name": "David Suárez",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Robin Kalem",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Marcus Müller",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Roberto Massimo",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GH"
+  },
+  {
+   "n": 28,
+   "name": "Moritz Flotho",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Sinan Karweina",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 32,
+   "name": "Raul Paula",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  }
+ ]
+}

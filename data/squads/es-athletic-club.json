@@ -1,0 +1,188 @@
+{
+ "team": "es-athletic-club",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8315/squad/athletic-bilbao"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Unai Simón",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Álex Padilla",
+   "pos": "GK",
+   "nat": "MX"
+  },
+  {
+   "n": 3,
+   "name": "Daniel Vivian",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Aitor Paredes",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Yeray Álvarez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "Jesús Areso",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Aymeric Laporte",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Hugo Rincón",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Yuri Berchiche",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 31,
+   "name": "Johaneko Louis-Jean",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Unai Eguiluz",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Beñat Prados",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Oihan Sancet",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Íñigo Ruíz de Galarreta",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 18,
+   "name": "Mikel Jauregizar",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 20,
+   "name": "Alejandro Rego",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 24,
+   "name": "Beñat Gerenabarrena",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 25,
+   "name": "Álvaro Djaló",
+   "pos": "MF",
+   "nat": "GW"
+  },
+  {
+   "n": 28,
+   "name": "Peio Canales",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Alex Berenguer",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Iñaki Williams",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GH"
+  },
+  {
+   "n": 10,
+   "name": "Nico Williams",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Gorka Guruzeta",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Maroan Sannadi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "MA"
+  },
+  {
+   "n": 22,
+   "name": "Nico Serrano",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Robert Navarro",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  }
+ ]
+}

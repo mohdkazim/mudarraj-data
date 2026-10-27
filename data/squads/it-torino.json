@@ -1,0 +1,213 @@
+{
+ "team": "it-torino",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9804/squad/torino"
+ ],
+ "players": [
+  {
+   "n": 20,
+   "name": "Lucas Perri",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": 26,
+   "name": "Diego Mascardi",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 76,
+   "name": "Lapo Siviero",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 81,
+   "name": "Franco Israel",
+   "pos": "GK",
+   "nat": "UY"
+  },
+  {
+   "n": 2,
+   "name": "Nathan Patterson",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 3,
+   "name": "Cristiano Biraghi",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "IT"
+  },
+  {
+   "n": 5,
+   "name": "Eray Cömert",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CH"
+  },
+  {
+   "n": 13,
+   "name": "Ricardo Rodríguez",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CH"
+  },
+  {
+   "n": 15,
+   "name": "Pietro Comuzzo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 23,
+   "name": "Saúl Coco",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GQ"
+  },
+  {
+   "n": 29,
+   "name": "Niccolò Fortini",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IT"
+  },
+  {
+   "n": 44,
+   "name": "Ardian Ismajli",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AL"
+  },
+  {
+   "n": 63,
+   "name": "Manuel Carrascosa",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Emirhan İlkhan",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "TR"
+  },
+  {
+   "n": 7,
+   "name": "Zakaria Aboukhlal",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "MA"
+  },
+  {
+   "n": 8,
+   "name": "Rolando Mandragora",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 10,
+   "name": "Nikola Vlašić",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "HR"
+  },
+  {
+   "n": 21,
+   "name": "Daniel Bragança",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PT"
+  },
+  {
+   "n": 22,
+   "name": "Cesare Casadei",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 28,
+   "name": "Kian Fitz-Jim",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NL"
+  },
+  {
+   "n": 45,
+   "name": "Rafik Belghali",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "DZ"
+  },
+  {
+   "n": 66,
+   "name": "Gvidas Gineitis",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "LT"
+  },
+  {
+   "n": 77,
+   "name": "Alessio Cacciamani",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "IT"
+  },
+  {
+   "n": 79,
+   "name": "Andrea Luongo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 9,
+   "name": "Pietro Pellegri",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 11,
+   "name": "Gaetano Oristanio",
+   "pos": "FW",
+   "nat": "IT"
+  },
+  {
+   "n": 17,
+   "name": "Sandro Kulenović",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "HR"
+  },
+  {
+   "n": 18,
+   "name": "Giovanni Simeone",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 19,
+   "name": "Ché Adams",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 91,
+   "name": "Duván Zapata",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CO"
+  }
+ ]
+}

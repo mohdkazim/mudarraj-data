@@ -1,0 +1,215 @@
+{
+ "team": "de-viktoria-koln",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/my/teams/276267/squad/viktoria-koln-1904"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Arne Schulz",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 12,
+   "name": "David Wyciok",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Kevin Rauhut",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "David Richter",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Lars Dietz",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Tobias Eisenhuth",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 15,
+   "name": "Christoph Greger",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Tim Kloss",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Meiko Sponsel",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Verthomy Boboy",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Kilian Jakob",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Pascal Fallmann",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AT"
+  },
+  {
+   "n": 39,
+   "name": "Felix Albers",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Simon Handle",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Yannick Tonye",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Florian Engelhardt",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Taylan Duman",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Eric Babacar Gueye",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Niklas Jahn",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Marco Pledl",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Niklas Swider",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Lucas Wolf",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Jason Amann",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 38,
+   "name": "Samuele Carella",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Jakob Sachse",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "David Otto",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Raphael Ott",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "Diego Perri",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Alexander Prokopenko",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 37,
+   "name": "Noah Maboulou",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CG"
+  },
+  {
+   "n": 44,
+   "name": "Niklas Castelle",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  }
+ ]
+}

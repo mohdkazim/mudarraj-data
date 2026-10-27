@@ -1,0 +1,172 @@
+{
+ "team": "es-atletico-madrid",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/9906/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Juan Musso",
+   "pos": "GK",
+   "nat": "AR"
+  },
+  {
+   "n": 13,
+   "name": "Jan Oblak",
+   "pos": "GK",
+   "nat": "SI"
+  },
+  {
+   "n": 25,
+   "name": "Salvi Esquivel",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Marcos Llorente",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Dávid Hancko",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SK"
+  },
+  {
+   "n": 18,
+   "name": "Marc Pubill",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Cristian Romero",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 24,
+   "name": "Robin Le Normand",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 30,
+   "name": "Dani Martínez",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 3,
+   "name": "Obed Vargas",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "MX"
+  },
+  {
+   "n": 4,
+   "name": "Rodrigo Mendoza",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Johnny Cardoso",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "US"
+  },
+  {
+   "n": 6,
+   "name": "Koke",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Pablo Barrios",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Álex Baena",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Ademola Lookman",
+   "pos": "MF",
+   "nat": "NG"
+  },
+  {
+   "n": 20,
+   "name": "Giuliano Simeone",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "AR"
+  },
+  {
+   "n": 22,
+   "name": "Alejandro Grimaldo",
+   "pos": "MF",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Morten Hjulmand",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DK"
+  },
+  {
+   "n": 7,
+   "name": "Kang-In Lee",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "KR"
+  },
+  {
+   "n": 9,
+   "name": "Alexander Sørloth",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NO"
+  },
+  {
+   "n": 15,
+   "name": "Jonathan David",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CA"
+  },
+  {
+   "n": 16,
+   "name": "Arnau Ortiz",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Julián Álvarez",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  }
+ ]
+}

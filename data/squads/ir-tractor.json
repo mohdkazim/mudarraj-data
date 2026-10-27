@@ -1,0 +1,222 @@
+{
+ "team": "ir-tractor",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/ko/teams/176352/squad/tractor"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Alireza Beiranvand",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": 23,
+   "name": "Yasin Zare",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": 81,
+   "name": "Parsa Jafari",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": 87,
+   "name": "Mohammad Feyzi",
+   "pos": "GK",
+   "nat": "IR"
+  },
+  {
+   "n": 2,
+   "name": "Mehdi Shiri",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": 3,
+   "name": "Shoja Khalilzadeh",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IR"
+  },
+  {
+   "n": 4,
+   "name": "Milad Zakipour",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": 11,
+   "name": "Danial Esmaeilifar",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IR"
+  },
+  {
+   "n": 18,
+   "name": "Sadegh Moharrami",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "IR"
+  },
+  {
+   "n": 22,
+   "name": "Mohammad Naderi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IR"
+  },
+  {
+   "n": 33,
+   "name": "Farshad Faraji",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IR"
+  },
+  {
+   "n": 44,
+   "name": "Erfan Darvish Aali",
+   "pos": "DF",
+   "nat": "IR"
+  },
+  {
+   "n": 58,
+   "name": "Mohammad Daneshgar",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IR"
+  },
+  {
+   "n": 5,
+   "name": "Odiljon Khamrobekov",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "UZ"
+  },
+  {
+   "n": 6,
+   "name": "Mehdi Hosseini",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IR"
+  },
+  {
+   "n": 7,
+   "name": "Tibor Halilović",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "HR"
+  },
+  {
+   "n": 8,
+   "name": "Igor Postonjski",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "HR"
+  },
+  {
+   "n": 9,
+   "name": "Mehdi Torabi",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "IR"
+  },
+  {
+   "n": 10,
+   "name": "Hadi Habibinejad",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 20,
+   "name": "Mehdi Hashemnejad",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "IR"
+  },
+  {
+   "n": 21,
+   "name": "Aliasghar Samarivafa",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 25,
+   "name": "Amirmohammad Mahmoudi",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 72,
+   "name": "Abolfazl Toreyfi",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 17,
+   "name": "Masoud Zayer Kazemayni",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 19,
+   "name": "Tomislav Štrkalj",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "HR"
+  },
+  {
+   "n": 27,
+   "name": "Amirali Khorrami",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 28,
+   "name": "Sajjad Khademi",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 70,
+   "name": "Shahriyar Moghanloo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IR"
+  },
+  {
+   "n": 71,
+   "name": "Morteza Fazeli",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 77,
+   "name": "Karrar Namari",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 86,
+   "name": "Aliakbar Saghebi",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 88,
+   "name": "Saeid Karimazar",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 99,
+   "name": "Amirhossein Hosseinzadeh",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IR"
+  }
+ ]
+}

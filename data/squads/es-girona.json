@@ -1,0 +1,224 @@
+{
+ "team": "es-girona",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/de/teams/7732/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Sergi Puig",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Paulo Gazzaniga",
+   "pos": "GK",
+   "nat": "AR"
+  },
+  {
+   "n": 25,
+   "name": "Vladyslav Krapyvtsov",
+   "pos": "GK",
+   "nat": "UA"
+  },
+  {
+   "n": 44,
+   "name": "Jordi Danso",
+   "pos": "GK",
+   "nat": "GM"
+  },
+  {
+   "n": 2,
+   "name": "Abdul Mumin",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GH"
+  },
+  {
+   "n": 3,
+   "name": "Mateu Morey",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Javier Boñar",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "David López",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Álex Moreno",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Alejandro Francés",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 28,
+   "name": "Gibert Jordana",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": 33,
+   "name": "Mauro Furtado",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 38,
+   "name": "Holmes Zamorano",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 39,
+   "name": "Guillem Badia",
+   "pos": "DF",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Donny van de Beek",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "NL"
+  },
+  {
+   "n": 8,
+   "name": "Fran Beltrán",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Iván Morante",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 24,
+   "name": "Izan González",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 29,
+   "name": "Lass Kourouma",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GN"
+  },
+  {
+   "n": 30,
+   "name": "Unai Hernández",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 35,
+   "name": "Mohammed Hamony",
+   "pos": "MF",
+   "nat": "MA"
+  },
+  {
+   "n": 7,
+   "name": "Cristhian Stuani",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "UY"
+  },
+  {
+   "n": 9,
+   "name": "Abel Ruiz",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Portu",
+   "pos": "FW",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Oleksandr Pyshchur",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "UA"
+  },
+  {
+   "n": 17,
+   "name": "Bryan Gil",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Vladyslav Vanat",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "UA"
+  },
+  {
+   "n": 21,
+   "name": "Jastin García",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Yáser Asprilla",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CO"
+  },
+  {
+   "n": 23,
+   "name": "Carles Pérez",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 32,
+   "name": "Juan Arango",
+   "pos": "FW",
+   "nat": "VE"
+  },
+  {
+   "n": 36,
+   "name": "Javier Sarasa",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "team": "gb-eng-leeds-united",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/it/teams/8463/squad/leeds"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "James Trafford",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 16,
+   "name": "Michael Zetterer",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Alex Cairns",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 5,
+   "name": "Tarik Muharemović",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BA"
+  },
+  {
+   "n": 6,
+   "name": "Joe Rodon",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 15,
+   "name": "Jaka Bijol",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SI"
+  },
+  {
+   "n": 24,
+   "name": "James Justin",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 26,
+   "name": "Melvin Bard",
+   "pos": "DF",
+   "nat": "FR"
+  },
+  {
+   "n": 30,
+   "name": "Nico Elvedi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CH"
+  },
+  {
+   "n": 2,
+   "name": "Jayden Bogle",
+   "pos": "MF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 3,
+   "name": "Gabriel Gudmundsson",
+   "pos": "MF",
+   "nat": "SE"
+  },
+  {
+   "n": 4,
+   "name": "Ethan Ampadu",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 8,
+   "name": "Sean Longstaff",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 11,
+   "name": "Brenden Aaronson",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "US"
+  },
+  {
+   "n": 18,
+   "name": "Anton Stach",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Ao Tanaka",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 44,
+   "name": "Ilia Gruev",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BG"
+  },
+  {
+   "n": 7,
+   "name": "Daniel James",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 9,
+   "name": "Dominic Calvert-Lewin",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 10,
+   "name": "Harry Wilson",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 14,
+   "name": "Lukas Nmecha",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Noah Okafor",
+   "pos": "FW",
+   "nat": "CH"
+  },
+  {
+   "n": 23,
+   "name": "Jean-Mattéo Bahoya",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "FR"
+  },
+  {
+   "n": null,
+   "name": "Mateo Joseph",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  }
+ ]
+}

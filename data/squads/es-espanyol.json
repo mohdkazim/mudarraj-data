@@ -1,0 +1,181 @@
+{
+ "team": "es-espanyol",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8558/squad/players"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Ángel Fortuno",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Marko Dmitrović",
+   "pos": "GK",
+   "nat": "RS"
+  },
+  {
+   "n": 2,
+   "name": "Andoni Gorosabel",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 3,
+   "name": "Quilindschy Hartman",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "NL"
+  },
+  {
+   "n": 5,
+   "name": "Clemens Riedel",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Leandro Cabrera",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UY"
+  },
+  {
+   "n": 14,
+   "name": "Unai Núñez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Vanja Drkušić",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SI"
+  },
+  {
+   "n": 21,
+   "name": "Roger Hinojo",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Omar El Hilali",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "MA"
+  },
+  {
+   "n": 4,
+   "name": "Urko González",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Edu Expósito",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Pol Lozano",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 17,
+   "name": "Jofre Carreras",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "ES"
+  },
+  {
+   "n": 20,
+   "name": "Gabriel Moscardo",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": 26,
+   "name": "Rafel Bauzà",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 28,
+   "name": "Javi Hernández",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Javi Puado",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Roberto Fernández",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Pere Milla",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Bryan Zaragoza",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "ES"
+  },
+  {
+   "n": 18,
+   "name": "Marcos Fernández",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Kike García",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Álex Calatrava",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 24,
+   "name": "Tyrhys Dolan",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GB-ENG"
+  }
+ ]
+}

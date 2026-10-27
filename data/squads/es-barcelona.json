@@ -1,0 +1,194 @@
+{
+ "team": "es-barcelona",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8634/squad/barcelona"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Joan García",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Wojciech Szczęsny",
+   "pos": "GK",
+   "nat": "PL"
+  },
+  {
+   "n": 25,
+   "name": "Dominik Livaković",
+   "pos": "GK",
+   "nat": "HR"
+  },
+  {
+   "n": 2,
+   "name": "João Cancelo",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "PT"
+  },
+  {
+   "n": 3,
+   "name": "Alejandro Balde",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 5,
+   "name": "Pau Cubarsí",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 12,
+   "name": "Xavi Espart",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Andreas Christensen",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DK"
+  },
+  {
+   "n": 18,
+   "name": "Gerard Martín",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Jules Koundé",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FR"
+  },
+  {
+   "n": 24,
+   "name": "Eric García",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 4,
+   "name": "Brian Fariñas",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Gavi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Fermín López",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Pedri",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 16,
+   "name": "Rodri",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 20,
+   "name": "Dani Olmo",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Frenkie de Jong",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NL"
+  },
+  {
+   "n": 22,
+   "name": "Marc Bernal",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Gabriel Jesus",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Lamine Yamal",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Raphinha",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 14,
+   "name": "Karim Adeyemi",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Anthony Gordon",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 19,
+   "name": "Roony Bardghji",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SE"
+  },
+  {
+   "n": 27,
+   "name": "Jesse Bisiwu",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BE"
+  },
+  {
+   "n": 29,
+   "name": "Hamza Abdelkarim",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "EG"
+  }
+ ]
+}

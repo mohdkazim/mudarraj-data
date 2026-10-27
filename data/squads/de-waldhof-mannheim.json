@@ -1,0 +1,260 @@
+{
+ "team": "de-waldhof-mannheim",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/ko/teams/9743/squad/undefined"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Thijmen Nijhuis",
+   "pos": "GK",
+   "nat": "NL"
+  },
+  {
+   "n": 16,
+   "name": "Jan Niemann",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Lucien Hawryluk",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 42,
+   "name": "David Zimmer",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Moritz Polte",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Tim Sechelmann",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Yannis Hör",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Niklas Hoffmann",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Oluwaseun Ogbemudia",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 15,
+   "name": "Claudio Kammerknecht",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "LK"
+  },
+  {
+   "n": 17,
+   "name": "Darnell Keumo",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Seyhan Yiğit",
+   "pos": "DF",
+   "nat": "TR"
+  },
+  {
+   "n": 19,
+   "name": "Jascha Brandt",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Lukas Klünter",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 35,
+   "name": "Djayson Mendes",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Sascha Voelcke",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Joey Müller",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Maximilian Thalhammer",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Emmanuel Iwe",
+   "pos": "MF",
+   "nat": "US"
+  },
+  {
+   "n": 21,
+   "name": "Julian Rieckmann",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Denis Kryeziu",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "Jid Okeke",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Adama Diakhaby",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 28,
+   "name": "Diego Michel",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 29,
+   "name": "Nolan Muteba N'Tumba",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 39,
+   "name": "Milo Bauer",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Rico Benatelli",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Lovis Bierschenk",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Gonçalo Gregório",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PT"
+  },
+  {
+   "n": 10,
+   "name": "Julian Ulbricht",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Masca",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "PT"
+  },
+  {
+   "n": 12,
+   "name": "Vincent Thill",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "LU"
+  },
+  {
+   "n": 13,
+   "name": "Terrence Boyd",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "US"
+  },
+  {
+   "n": 20,
+   "name": "Kushtrim Asallari",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Leroy-Jacques Mickels",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "RW"
+  },
+  {
+   "n": 33,
+   "name": "Arlind Rexhepi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 37,
+   "name": "Noah-Joel Sarenren-Bazee",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  }
+ ]
+}

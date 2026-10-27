@@ -1,0 +1,212 @@
+{
+ "team": "it-juventus",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9885/squad/juventus"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Kamil Grabara",
+   "pos": "GK",
+   "nat": "PL"
+  },
+  {
+   "n": 23,
+   "name": "Carlo Pinsoglio",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 25,
+   "name": "Guglielmo Vicario",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 33,
+   "name": "Neto",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": 3,
+   "name": "Gleison Bremer",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 4,
+   "name": "Federico Gatti",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 6,
+   "name": "Lloyd Kelly",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 15,
+   "name": "Pierre Kalulu",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 24,
+   "name": "Daniele Rugani",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 26,
+   "name": "Jhon Lucumí",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CO"
+  },
+  {
+   "n": 2,
+   "name": "Zeki Çelik",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": 5,
+   "name": "Manuel Locatelli",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 8,
+   "name": "Teun Koopmeiners",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": 11,
+   "name": "Edon Zhegrova",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "XK"
+  },
+  {
+   "n": 12,
+   "name": "Douglas Luiz",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BR"
+  },
+  {
+   "n": 19,
+   "name": "Khéphren Thuram-Ulien",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FR"
+  },
+  {
+   "n": 20,
+   "name": "Andrea Cambiaso",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 22,
+   "name": "Weston McKennie",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "US"
+  },
+  {
+   "n": 29,
+   "name": "Pape Sarr",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SN"
+  },
+  {
+   "n": 31,
+   "name": "Nicolás González",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "AR"
+  },
+  {
+   "n": 32,
+   "name": "Juan Cabal",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "CO"
+  },
+  {
+   "n": 41,
+   "name": "Augusto Owusu",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 7,
+   "name": "Francisco Conceição",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "PT"
+  },
+  {
+   "n": 9,
+   "name": "Randal Kolo Muani",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 10,
+   "name": "Kenan Yıldız",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "TR"
+  },
+  {
+   "n": 13,
+   "name": "Jérémie Boga",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "CI"
+  },
+  {
+   "n": 14,
+   "name": "Arkadiusz Milik",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PL"
+  },
+  {
+   "n": 17,
+   "name": "Kerim Alajbegović",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BA"
+  },
+  {
+   "n": 18,
+   "name": "Jeff Ekhator",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  },
+  {
+   "n": 27,
+   "name": "Nick Woltemade",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  }
+ ]
+}

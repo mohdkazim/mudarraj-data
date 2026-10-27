@@ -1,0 +1,181 @@
+{
+ "team": "gb-eng-manchester-city",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8456/squad/man-city,teams,teams"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Gianluigi Donnarumma",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 13,
+   "name": "Marcus Bettinelli",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 28,
+   "name": "Gerónimo Rulli",
+   "pos": "GK",
+   "nat": "AR"
+  },
+  {
+   "n": 3,
+   "name": "Rúben Dias",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 6,
+   "name": "Marc Guéhi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 21,
+   "name": "Rayan Aït-Nouri",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DZ"
+  },
+  {
+   "n": 22,
+   "name": "Vitor Reis",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 24,
+   "name": "Joško Gvardiol",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HR"
+  },
+  {
+   "n": 27,
+   "name": "Matheus Nunes",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "PT"
+  },
+  {
+   "n": 33,
+   "name": "Nico O'Reilly",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 45,
+   "name": "Abdukodir Khusanov",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UZ"
+  },
+  {
+   "n": 82,
+   "name": "Rico Lewis",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 97,
+   "name": "Josh Wilson-Esbrand",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 5,
+   "name": "Elliot Anderson",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 8,
+   "name": "Mateo Kovačić",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "HR"
+  },
+  {
+   "n": 10,
+   "name": "Rayan Cherki",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 17,
+   "name": "Enzo Fernández",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AR"
+  },
+  {
+   "n": 32,
+   "name": "Ayyoub Bouaddi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "MA"
+  },
+  {
+   "n": 47,
+   "name": "Phil Foden",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 7,
+   "name": "Iliman Ndiaye",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SN"
+  },
+  {
+   "n": 9,
+   "name": "Erling Haaland",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NO"
+  },
+  {
+   "n": 11,
+   "name": "Jérémy Doku",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BE"
+  },
+  {
+   "n": 37,
+   "name": "Allan",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 42,
+   "name": "Antoine Semenyo",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GH"
+  },
+  {
+   "n": 56,
+   "name": "Ryan McAidoo",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GB-ENG"
+  }
+ ]
+}

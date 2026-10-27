@@ -1,0 +1,214 @@
+{
+ "team": "gb-eng-manchester-united",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/10260/squad/undefined,players"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Senne Lammens",
+   "pos": "GK",
+   "nat": "BE"
+  },
+  {
+   "n": 12,
+   "name": "Karl Darlow",
+   "pos": "GK",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 22,
+   "name": "Tom Heaton",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 45,
+   "name": "Dermot Mee",
+   "pos": "GK",
+   "nat": "GB-NIR"
+  },
+  {
+   "n": 2,
+   "name": "Diogo Dalot",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "PT"
+  },
+  {
+   "n": 3,
+   "name": "Noussair Mazraoui",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "MA"
+  },
+  {
+   "n": 4,
+   "name": "Matthijs de Ligt",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 5,
+   "name": "Harry Maguire",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 6,
+   "name": "Lisandro Martínez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 15,
+   "name": "Leny Yoro",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 23,
+   "name": "Luke Shaw",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 26,
+   "name": "Ayden Heaven",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 7,
+   "name": "Mason Mount",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 8,
+   "name": "Bruno Fernandes",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 17,
+   "name": "Andrey Santos",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BR"
+  },
+  {
+   "n": 18,
+   "name": "Youri Tielemans",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BE"
+  },
+  {
+   "n": 20,
+   "name": "Carlos Baleba",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CM"
+  },
+  {
+   "n": 25,
+   "name": "Manuel Ugarte",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "UY"
+  },
+  {
+   "n": 37,
+   "name": "Kobbie Mainoo",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 38,
+   "name": "Jack Fletcher",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 39,
+   "name": "Tyler Fletcher",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 41,
+   "name": "Harry Amass",
+   "pos": "MF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 9,
+   "name": "Marcus Rashford",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 10,
+   "name": "Matheus Cunha",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Joshua Zirkzee",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NL"
+  },
+  {
+   "n": 13,
+   "name": "Patrick Dorgu",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DK"
+  },
+  {
+   "n": 16,
+   "name": "Amad Diallo",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CI"
+  },
+  {
+   "n": 19,
+   "name": "Bryan Mbeumo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CM"
+  },
+  {
+   "n": 30,
+   "name": "Benjamin Šeško",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SI"
+  },
+  {
+   "n": 31,
+   "name": "Shea Lacey",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GB-ENG"
+  }
+ ]
+}

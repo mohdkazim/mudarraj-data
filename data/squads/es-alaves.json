@@ -1,0 +1,180 @@
+{
+ "team": "es-alaves",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9866/squad/undefined"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Antonio Sivera",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 13,
+   "name": "Adrián Rodriguez",
+   "pos": "GK",
+   "nat": "ES"
+  },
+  {
+   "n": 2,
+   "name": "Nicolás Valentini",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 3,
+   "name": "Youssef Enríquez",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "MA"
+  },
+  {
+   "n": 5,
+   "name": "Facundo Garcés",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MY"
+  },
+  {
+   "n": 12,
+   "name": "Hugo Novoa",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Nahuel Tenaglia",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 16,
+   "name": "Ville Koski",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FI"
+  },
+  {
+   "n": 17,
+   "name": "Jonny Otto",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Carlos Protesoni",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UY"
+  },
+  {
+   "n": 4,
+   "name": "Denis Suárez",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 6,
+   "name": "Ander Guevara",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Ángel Pérez",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "ES"
+  },
+  {
+   "n": 8,
+   "name": "Antonio Blanco",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Carles Aleñá",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "ES"
+  },
+  {
+   "n": 18,
+   "name": "Mikel Rodríguez",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 19,
+   "name": "Pablo Ibánez",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 21,
+   "name": "Abderrahman Rebbach",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "DZ"
+  },
+  {
+   "n": 24,
+   "name": "Selu Diallo",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "ES"
+  },
+  {
+   "n": 9,
+   "name": "Mariano Díaz",
+   "pos": "FW",
+   "role": "CF"
+  },
+  {
+   "n": 11,
+   "name": "Toni Martínez",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 15,
+   "name": "Lucas Boyé",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 20,
+   "name": "Aitor Mañas",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 22,
+   "name": "Miguel Rodríguez",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 28,
+   "name": "Lander Pinillos",
+   "pos": "FW",
+   "nat": "ES"
+  }
+ ]
+}

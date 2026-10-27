@@ -1,0 +1,214 @@
+{
+ "team": "jp-kashima-antlers",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/4397/squad/kashima-antlers"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Tomoki Hayakawa",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 21,
+   "name": "Taiki Yamada",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 29,
+   "name": "Yuji Kajikawa",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 31,
+   "name": "Haruto Fujii",
+   "pos": "GK",
+   "nat": "JP"
+  },
+  {
+   "n": 2,
+   "name": "Koki Anzai",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "JP"
+  },
+  {
+   "n": 3,
+   "name": "Tae-Hyeon Kim",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KR"
+  },
+  {
+   "n": 4,
+   "name": "Kaito Chida",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 5,
+   "name": "Ikuma Sekigawa",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 7,
+   "name": "Ryoya Ogawa",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "JP"
+  },
+  {
+   "n": 19,
+   "name": "Sho Omori",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "JP"
+  },
+  {
+   "n": 23,
+   "name": "Keisuke Tsukui",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "JP"
+  },
+  {
+   "n": 25,
+   "name": "Ryuta Koike",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "JP"
+  },
+  {
+   "n": 35,
+   "name": "Anthony Motosuna",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 37,
+   "name": "Rikuto Hirose",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "JP"
+  },
+  {
+   "n": 55,
+   "name": "Naomichi Ueda",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 6,
+   "name": "Kento Misao",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "JP"
+  },
+  {
+   "n": 8,
+   "name": "Matheus Bueno",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Gaku Shibasaki",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "JP"
+  },
+  {
+   "n": 14,
+   "name": "Yuta Higuchi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "JP"
+  },
+  {
+   "n": 17,
+   "name": "José Elber",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "BR"
+  },
+  {
+   "n": 24,
+   "name": "Haruki Hayashi",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "JP"
+  },
+  {
+   "n": 27,
+   "name": "Yuta Matsumura",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "JP"
+  },
+  {
+   "n": 28,
+   "name": "Yugo Okawa",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 77,
+   "name": "Aleksandar Čavrić",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "RS"
+  },
+  {
+   "n": 9,
+   "name": "Léo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Kyosuke Tagawa",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 18,
+   "name": "Yan",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 30,
+   "name": "Minato Yoshida",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 34,
+   "name": "Homare Tokuda",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 40,
+   "name": "Yuma Suzuki",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  }
+ ]
+}

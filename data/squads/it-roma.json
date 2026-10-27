@@ -1,0 +1,178 @@
+{
+ "team": "it-roma",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8686/squad/roma"
+ ],
+ "players": [
+  {
+   "n": 32,
+   "name": "Devis Vásquez",
+   "pos": "GK",
+   "nat": "CO"
+  },
+  {
+   "n": 95,
+   "name": "Pierluigi Gollini",
+   "pos": "GK",
+   "nat": "IT"
+  },
+  {
+   "n": 99,
+   "name": "Mile Svilar",
+   "pos": "GK",
+   "nat": "RS"
+  },
+  {
+   "n": 3,
+   "name": "Konstantinos Koulierakis",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GR"
+  },
+  {
+   "n": 5,
+   "name": "Evan N'Dicka",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CI"
+  },
+  {
+   "n": 20,
+   "name": "Nahuel Molina",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AR"
+  },
+  {
+   "n": 22,
+   "name": "Mario Hermoso",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Gianluca Mancini",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 26,
+   "name": "Leonardo Balerdi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 87,
+   "name": "Daniele Ghilardi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 2,
+   "name": "Devyne Rensch",
+   "pos": "MF",
+   "nat": "NL"
+  },
+  {
+   "n": 4,
+   "name": "Bryan Cristante",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 7,
+   "name": "Lorenzo Pellegrini",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 15,
+   "name": "Marten de Roon",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NL"
+  },
+  {
+   "n": 17,
+   "name": "Manu Koné",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FR"
+  },
+  {
+   "n": 18,
+   "name": "Matias Soulé",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AR"
+  },
+  {
+   "n": 21,
+   "name": "Paulo Dybala",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AR"
+  },
+  {
+   "n": 43,
+   "name": "Wesley",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": 61,
+   "name": "Niccolò Pisilli",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IT"
+  },
+  {
+   "n": 63,
+   "name": "Alessandro Di Nunzio",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IT"
+  },
+  {
+   "n": 77,
+   "name": "Emanuele Lulli",
+   "pos": "MF",
+   "nat": "IT"
+  },
+  {
+   "n": 86,
+   "name": "Rodrigo Mora",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PT"
+  },
+  {
+   "n": 9,
+   "name": "Santiago Castro",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 14,
+   "name": "Donyell Malen",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NL"
+  },
+  {
+   "n": 68,
+   "name": "Antonio Arena",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IT"
+  }
+ ]
+}

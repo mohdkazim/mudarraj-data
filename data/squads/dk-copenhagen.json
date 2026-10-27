@@ -1,0 +1,173 @@
+{
+ "team": "dk-copenhagen",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8391/squad/fc-copenhagen"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Diant Ramaj",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Rúnar Rúnarsson",
+   "pos": "GK",
+   "nat": "IS"
+  },
+  {
+   "n": 51,
+   "name": "Tobias Breum-Harild",
+   "pos": "GK",
+   "nat": "DK"
+  },
+  {
+   "n": 2,
+   "name": "Felix Beijmo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SE"
+  },
+  {
+   "n": 4,
+   "name": "Asger Sørensen",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DK"
+  },
+  {
+   "n": 6,
+   "name": "Ákos Markgráf",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HU"
+  },
+  {
+   "n": 13,
+   "name": "Rodrigo Huescas",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "MX"
+  },
+  {
+   "n": 15,
+   "name": "Marcos López",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "PE"
+  },
+  {
+   "n": 18,
+   "name": "Kenay Myrie",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CR"
+  },
+  {
+   "n": 20,
+   "name": "Junnosuke Suzuki",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "JP"
+  },
+  {
+   "n": 24,
+   "name": "Birger Meling",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "NO"
+  },
+  {
+   "n": 8,
+   "name": "Magnus Mattsson",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DK"
+  },
+  {
+   "n": 21,
+   "name": "Mads Madsen",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DK"
+  },
+  {
+   "n": 27,
+   "name": "Thomas Delaney",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DK"
+  },
+  {
+   "n": 28,
+   "name": "Hunor Németh",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "HU"
+  },
+  {
+   "n": 33,
+   "name": "Alex Král",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CZ"
+  },
+  {
+   "n": 36,
+   "name": "William Clem",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DK"
+  },
+  {
+   "n": 7,
+   "name": "Maher Carrizo",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "AR"
+  },
+  {
+   "n": 10,
+   "name": "Mohamed Elyounoussi",
+   "pos": "FW",
+   "nat": "NO"
+  },
+  {
+   "n": 12,
+   "name": "Thapelo Maseko",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ZA"
+  },
+  {
+   "n": 14,
+   "name": "Andreas Cornelius",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DK"
+  },
+  {
+   "n": 16,
+   "name": "Robert",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 39,
+   "name": "Viktor Daðason",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IS"
+  },
+  {
+   "n": 44,
+   "name": "Geovanni Vianney",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CM"
+  }
+ ]
+}

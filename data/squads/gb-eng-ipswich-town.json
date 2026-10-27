@@ -1,0 +1,200 @@
+{
+ "team": "gb-eng-ipswich-town",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9902/squad/ipswich-town"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Alex Palmer",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 27,
+   "name": "David Button",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 28,
+   "name": "Christian Walton",
+   "pos": "GK",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 37,
+   "name": "Kjell Scherpen",
+   "pos": "GK",
+   "nat": "NL"
+  },
+  {
+   "n": 2,
+   "name": "Darnell Furlong",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 3,
+   "name": "Leif Davis",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 4,
+   "name": "Cédric Kipré",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CI"
+  },
+  {
+   "n": 6,
+   "name": "Issa Diop",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MA"
+  },
+  {
+   "n": 24,
+   "name": "Jacob Greaves",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 26,
+   "name": "Dara O'Shea",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IE"
+  },
+  {
+   "n": 42,
+   "name": "Abdoul Ouattara",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CI"
+  },
+  {
+   "n": 5,
+   "name": "Azor Matusiwa",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NL"
+  },
+  {
+   "n": 10,
+   "name": "Julio Enciso",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PY"
+  },
+  {
+   "n": 12,
+   "name": "Florentino",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PT"
+  },
+  {
+   "n": 14,
+   "name": "Jack Taylor",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IE"
+  },
+  {
+   "n": 23,
+   "name": "Saša Lukić",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "RS"
+  },
+  {
+   "n": 25,
+   "name": "Exequiel Palacios",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AR"
+  },
+  {
+   "n": 32,
+   "name": "Marcelino Núñez",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "CL"
+  },
+  {
+   "n": 33,
+   "name": "Anis Mehmeti",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AL"
+  },
+  {
+   "n": 7,
+   "name": "Abdul Fatawu",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "GH"
+  },
+  {
+   "n": 8,
+   "name": "Sindre Walle Egeli",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "NO"
+  },
+  {
+   "n": 9,
+   "name": "Zian Flemming",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NL"
+  },
+  {
+   "n": 11,
+   "name": "Jaden Philogene-Bidace",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 19,
+   "name": "Emersonn",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 20,
+   "name": "Kasey McAteer",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "IE"
+  },
+  {
+   "n": 29,
+   "name": "Chuba Akpom",
+   "pos": "FW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 38,
+   "name": "Daizen Maeda",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 47,
+   "name": "Jack Clarke",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GB-ENG"
+  }
+ ]
+}
