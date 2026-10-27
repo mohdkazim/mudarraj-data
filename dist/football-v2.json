@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-27T14:10:04.390Z",
+ "generatedAt": "2026-10-27T14:50:57.862Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
@@ -96279,7 +96279,7 @@
   }
  ],
  "news": {
-  "_note": "Settings for the site's related-news card (published with the data as 'news'). 'sites' replaces the built-in outlet list for that language. 24 Oct 2026: Kooora and 365Scores added at Mohamed's request. 25 Oct 2026: Saudi outlets (Okaz, Sabq, Al Riyadh, Al Yaum; Saudi Gazette) added with the Saudi competitions. 26 Oct 2026: bundesliga.com and legaseriea.it (English) added with the German and Italian competitions. 27 Oct 2026: official Saudi sports sites added at Mohamed's request: the Saudi Pro League (spl.com.sa), the Saudi Arabian Football Federation (saff.com.sa), the Saudi Press Agency (spa.gov.sa) and the Ministry of Sport (mos.gov.sa). 27 Oct 2026 (later): 'siteGroups' sorts the outlets by country for sites installed from the 27 Oct bundle: a club is searched in its own country's outlets first (Saudi ones in Google News' Saudi edition), then the UAE's, then the regional and international ones, 'sitesPerSearch' at a time. Earlier sites keep using 'sites'.",
+  "_note": "Settings for the site's related-news card (published with the data as 'news'). 'sites' replaces the built-in outlet list for that language. 24 Oct 2026: Kooora and 365Scores added at Mohamed's request. 25 Oct 2026: Saudi outlets (Okaz, Sabq, Al Riyadh, Al Yaum; Saudi Gazette) added with the Saudi competitions. 26 Oct 2026: bundesliga.com and legaseriea.it (English) added with the German and Italian competitions. 27 Oct 2026: official Saudi sports sites added at Mohamed's request: the Saudi Pro League (spl.com.sa), the Saudi Arabian Football Federation (saff.com.sa), the Saudi Press Agency (spa.gov.sa) and the Ministry of Sport (mos.gov.sa). 27 Oct 2026 (later): 'siteGroups' sorts the outlets by country for sites installed from the 27 Oct bundle: a club is searched in its own country's outlets first (Saudi ones in Google News' Saudi edition), then the UAE's, then the regional and international ones, 'sitesPerSearch' at a time. Earlier sites keep using 'sites'. 27 Oct 2026 (evening): every league's country has its local outlets (siteGroups by language, then country): English outlets of England and of the Asian countries, Arabic and English outlets of the Gulf and Arab countries, and sports outlets of Spain, Germany, Austria, Italy, France, Portugal, the Netherlands, Belgium, Turkey, Norway, Denmark, the Czech Republic and Slovakia in their own languages. The site translates their headlines with Azure Translator (needs translator-key.txt on the NAS). localNames = the names those outlets use for a club; an entry starting with \"!\" is a phrase that means something else (\"!Inter Miami\" for Inter), so the headline is left out.",
   "sites": {
    "ar": [
     "alkhaleej.ae",
@@ -96351,6 +96351,45 @@
      "alarabiya.net",
      "aawsat.com",
      "the-afc.com"
+    ],
+    "qa": [
+     "raya.com",
+     "al-sharq.com",
+     "al-watan.com",
+     "qna.org.qa"
+    ],
+    "kw": [
+     "alraimedia.com",
+     "alqabas.com",
+     "alanba.com.kw",
+     "kuna.net.kw"
+    ],
+    "om": [
+     "omandaily.om",
+     "alwatan.com",
+     "alroya.om",
+     "omannews.gov.om"
+    ],
+    "bh": [
+     "alayam.com",
+     "akhbar-alkhaleej.com",
+     "albiladpress.com",
+     "bna.bh"
+    ],
+    "iq": [
+     "ina.iq",
+     "alsabaah.iq",
+     "shafaq.com"
+    ],
+    "jo": [
+     "alrai.com",
+     "addustour.com",
+     "petra.gov.jo",
+     "almamlakatv.com"
+    ],
+    "ye": [
+     "sabanew.net",
+     "almasdaronline.com"
     ]
    },
    "en": {
@@ -96377,9 +96416,449 @@
      "uefa.com",
      "bundesliga.com",
      "legaseriea.it"
+    ],
+    "gb-eng": [
+     "bbc.co.uk",
+     "theguardian.com",
+     "skysports.com",
+     "independent.co.uk",
+     "standard.co.uk",
+     "telegraph.co.uk"
+    ],
+    "qa": [
+     "thepeninsulaqatar.com",
+     "gulf-times.com",
+     "qna.org.qa"
+    ],
+    "kw": [
+     "arabtimesonline.com",
+     "kuwaittimes.com",
+     "kuna.net.kw"
+    ],
+    "om": [
+     "timesofoman.com",
+     "omanobserver.om",
+     "muscatdaily.com"
+    ],
+    "bh": [
+     "gdnonline.com",
+     "newsofbahrain.com",
+     "bna.bh"
+    ],
+    "iq": [
+     "shafaq.com",
+     "rudaw.net",
+     "ina.iq"
+    ],
+    "jo": [
+     "jordantimes.com",
+     "petra.gov.jo"
+    ],
+    "jp": [
+     "japantimes.co.jp",
+     "english.kyodonews.net"
+    ],
+    "kr": [
+     "koreaherald.com",
+     "koreajoongangdaily.joins.com",
+     "en.yna.co.kr",
+     "koreatimes.co.kr"
+    ],
+    "cn": [
+     "scmp.com",
+     "globaltimes.cn",
+     "chinadaily.com.cn"
+    ],
+    "au": [
+     "abc.net.au",
+     "keepup.com.au",
+     "foxsports.com.au",
+     "smh.com.au"
+    ],
+    "th": [
+     "bangkokpost.com",
+     "nationthailand.com"
+    ],
+    "my": [
+     "thestar.com.my",
+     "nst.com.my",
+     "malaymail.com"
+    ],
+    "sg": [
+     "straitstimes.com",
+     "channelnewsasia.com"
+    ],
+    "id": [
+     "thejakartapost.com",
+     "en.antaranews.com"
+    ],
+    "vn": [
+     "e.vnexpress.net",
+     "vietnamnews.vn",
+     "tuoitrenews.vn"
+    ],
+    "ir": [
+     "tehrantimes.com",
+     "tasnimnews.com"
+    ],
+    "uz": [
+     "kun.uz",
+     "daryo.uz"
+    ],
+    "in": [
+     "hindustantimes.com",
+     "indianexpress.com",
+     "timesofindia.indiatimes.com",
+     "thehindu.com"
+    ],
+    "hk": [
+     "scmp.com",
+     "thestandard.com.hk"
+    ],
+    "kh": [
+     "khmertimeskh.com",
+     "phnompenhpost.com"
+    ],
+    "gr": [
+     "ekathimerini.com",
+     "greekreporter.com"
+    ],
+    "ua": [
+     "kyivindependent.com",
+     "ukrinform.net"
+    ],
+    "cy": [
+     "cyprus-mail.com",
+     "in-cyprus.philenews.com"
+    ],
+    "az": [
+     "azernews.az",
+     "report.az"
+    ],
+    "kz": [
+     "astanatimes.com"
+    ],
+    "tm": [
+     "orient.tm",
+     "turkmenportal.com",
+     "tdh.gov.tm"
+    ]
+   },
+   "es": {
+    "es": [
+     "marca.com",
+     "as.com",
+     "mundodeportivo.com",
+     "sport.es",
+     "relevo.com"
+    ]
+   },
+   "de": {
+    "de": [
+     "kicker.de",
+     "sportschau.de",
+     "sport1.de",
+     "11freunde.de",
+     "ran.de"
+    ],
+    "at": [
+     "laola1.at",
+     "sport.orf.at",
+     "skysportaustria.at",
+     "90minuten.at"
+    ]
+   },
+   "it": {
+    "it": [
+     "gazzetta.it",
+     "corrieredellosport.it",
+     "tuttosport.com",
+     "sport.sky.it",
+     "calciomercato.com"
+    ]
+   },
+   "fr": {
+    "fr": [
+     "lequipe.fr",
+     "rmcsport.bfmtv.com",
+     "francefootball.fr",
+     "footmercato.net",
+     "maxifoot.fr"
+    ],
+    "mc": [
+     "lequipe.fr",
+     "rmcsport.bfmtv.com",
+     "francefootball.fr",
+     "footmercato.net",
+     "maxifoot.fr"
+    ]
+   },
+   "pt": {
+    "pt": [
+     "record.pt",
+     "abola.pt",
+     "ojogo.pt",
+     "maisfutebol.iol.pt",
+     "zerozero.pt"
+    ]
+   },
+   "nl": {
+    "nl": [
+     "vi.nl",
+     "voetbalzone.nl",
+     "voetbalprimeur.nl",
+     "soccernews.nl",
+     "espn.nl"
+    ],
+    "be": [
+     "sporza.be",
+     "voetbalkrant.com",
+     "nieuwsblad.be",
+     "hln.be"
+    ]
+   },
+   "tr": {
+    "tr": [
+     "fanatik.com.tr",
+     "fotomac.com.tr",
+     "ntvspor.net",
+     "aspor.com.tr",
+     "hurriyet.com.tr"
+    ]
+   },
+   "no": {
+    "no": [
+     "nrk.no",
+     "vg.no",
+     "tv2.no",
+     "dagbladet.no"
+    ]
+   },
+   "cs": {
+    "cz": [
+     "isport.blesk.cz",
+     "sport.cz",
+     "idnes.cz"
+    ]
+   },
+   "sk": {
+    "sk": [
+     "sport.sk",
+     "sportnet.sme.sk",
+     "pravda.sk"
+    ]
+   },
+   "da": {
+    "dk": [
+     "bold.dk",
+     "tipsbladet.dk",
+     "sport.tv2.dk",
+     "dr.dk"
     ]
    }
   },
-  "sitesPerSearch": 5
+  "sitesPerSearch": 5,
+  "localNames": {
+   "es-atletico-madrid": [
+    "Atlético de Madrid",
+    "Atleti",
+    "!Atlético Mineiro",
+    "!Atlético Nacional",
+    "!Atlético Baleares",
+    "!Atlético San Luis"
+   ],
+   "es-barcelona": [
+    "Barça",
+    "FC Barcelona",
+    "!Barcelona SC"
+   ],
+   "es-espanyol": [
+    "RCD Espanyol",
+    "Espanyol de Barcelona"
+   ],
+   "es-celta-vigo": [
+    "Celta",
+    "Celta de Vigo"
+   ],
+   "es-athletic-club": [
+    "Athletic",
+    "Athletic de Bilbao"
+   ],
+   "es-real-betis": [
+    "Betis"
+   ],
+   "es-alaves": [
+    "Deportivo Alavés"
+   ],
+   "es-racing-santander": [
+    "Racing de Santander",
+    "!Racing de Ferrol",
+    "!Racing Ferrol",
+    "!Racing Club"
+   ],
+   "es-deportivo-la-coruna": [
+    "Dépor",
+    "Deportivo de La Coruña",
+    "!Mundo Deportivo"
+   ],
+   "es-real-oviedo": [
+    "Oviedo"
+   ],
+   "es-rayo-vallecano": [
+    "Rayo",
+    "!Rayo Majadahonda"
+   ],
+   "de-bayern-munich": [
+    "Bayern München",
+    "FC Bayern"
+   ],
+   "de-borussia-dortmund": [
+    "BVB"
+   ],
+   "de-borussia-monchengladbach": [
+    "Mönchengladbach"
+   ],
+   "de-fc-koln": [
+    "FC Köln",
+    "!Fortuna Köln"
+   ],
+   "de-hamburger-sv": [
+    "HSV",
+    "!Hamburg Towers",
+    "!Crocodiles Hamburg"
+   ],
+   "de-bayer-leverkusen": [
+    "Bayer 04"
+   ],
+   "de-eintracht-frankfurt": [
+    "Eintracht",
+    "SGE",
+    "!FSV Frankfurt",
+    "!Skyliners Frankfurt",
+    "!Löwen Frankfurt"
+   ],
+   "de-vfb-stuttgart": [
+    "VfB",
+    "!VfB Lübeck",
+    "!VfB Oldenburg"
+   ],
+   "de-rb-leipzig": [
+    "RBL",
+    "!Lok Leipzig",
+    "!Lokomotive Leipzig",
+    "!Chemie Leipzig",
+    "!DHfK Leipzig"
+   ],
+   "de-tsg-hoffenheim": [
+    "TSG"
+   ],
+   "de-werder-bremen": [
+    "Werder"
+   ],
+   "de-union-berlin": [
+    "1. FC Union"
+   ],
+   "de-fc-augsburg": [
+    "FCA"
+   ],
+   "de-schalke-04": [
+    "S04"
+   ],
+   "de-vfl-wolfsburg": [
+    "!Grizzlys Wolfsburg"
+   ],
+   "de-holstein-kiel": [
+    "!THW Kiel"
+   ],
+   "de-fc-magdeburg": [
+    "!SC Magdeburg"
+   ],
+   "de-hansa-rostock": [
+    "!Rostock Seawolves",
+    "!Rostock Piranhas"
+   ],
+   "de-waldhof-mannheim": [
+    "!Adler Mannheim",
+    "!Rhein-Neckar Löwen"
+   ],
+   "de-hannover-96": [
+    "!Hannover-Burgdorf",
+    "!Hannover Scorpions"
+   ],
+   "it-inter-milan": [
+    "Inter",
+    "Internazionale",
+    "!Inter Miami"
+   ],
+   "it-juventus": [
+    "Juve"
+   ],
+   "it-roma": [
+    "AS Roma"
+   ],
+   "it-hellas-verona": [
+    "Hellas"
+   ],
+   "fr-paris-saint-germain": [
+    "Paris SG"
+   ],
+   "fr-marseille": [
+    "OM",
+    "Olympique de Marseille"
+   ],
+   "fr-lille": [
+    "LOSC"
+   ],
+   "fr-lens": [
+    "RC Lens"
+   ],
+   "mc-monaco": [
+    "AS Monaco"
+   ],
+   "pt-sporting-cp": [
+    "Sporting",
+    "!Sporting de Braga",
+    "!Sporting Braga",
+    "!Sporting de Gijón",
+    "!Sporting Gijón",
+    "!Sporting Kansas City"
+   ],
+   "pt-porto": [
+    "FC Porto",
+    "!Porto Alegre"
+   ],
+   "pt-benfica": [
+    "SL Benfica"
+   ],
+   "nl-psv-eindhoven": [
+    "PSV"
+   ],
+   "be-union-saint-gilloise": [
+    "USG"
+   ],
+   "tr-fenerbahce": [
+    "Fener"
+   ],
+   "tr-galatasaray": [
+    "Cimbom"
+   ],
+   "no-bod-glimt": [
+    "Glimt"
+   ],
+   "no-viking": [
+    "!Viking Line"
+   ],
+   "dk-copenhagen": [
+    "FC København",
+    "FCK"
+   ],
+   "cz-slavia-prague": [
+    "Slavia Praha",
+    "Slavia"
+   ],
+   "sk-slovan-bratislava": [
+    "!Slovan Liberec"
+   ]
+  }
  }
 }
