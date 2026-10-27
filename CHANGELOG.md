@@ -3538,3 +3538,8 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad de-preussen-munster squad added (34 players)
   - ✓ squad de-sc-verl squad added (33 players); 1 note(s): shirt number(s) used twice: 22, 24 (as the page lists them)
   - ✓ squad de-st-pauli squad added (28 players)
+
+## 2026-10-27 (2026-10-27T17:35:00Z)
+- 2 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result acle-2026-27-league-east-geast-r03-cn-beijing-guoan-kr-jeonbuk-hyundai-motors 2-2 FT
+  - ✓ result acle-2026-27-league-east-geast-r03-th-ratchaburi-jp-kashiwa-reysol 0-0 FT

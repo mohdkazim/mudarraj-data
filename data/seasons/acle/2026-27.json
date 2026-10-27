@@ -1987,14 +1987,17 @@
    "away": "kr-jeonbuk-hyundai-motors",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-beijing-fc-chn-2-2-jeonbuk-hyundai-motors-fc-kor"
+   ],
+   "updatedAt": "2026-10-27T17:37:28.204Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r03-th-ratchaburi-jp-kashiwa-reysol",
@@ -2010,14 +2013,18 @@
    "away": "jp-kashiwa-reysol",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-ratchaburi-fc-tha-0-0-kashiwa-reysol-jpn"
+   ],
+   "goals": [],
+   "updatedAt": "2026-10-27T17:37:28.204Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r03-ae-shabab-al-ahli-ir-esteghlal",

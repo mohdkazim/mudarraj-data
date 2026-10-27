@@ -1,0 +1,10 @@
+{
+  "run": "2026-10-27T17:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r03-cn-beijing-guoan-kr-jeonbuk-hyundai-motors", "status": "FT", "score": [2,2],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-beijing-fc-chn-2-2-jeonbuk-hyundai-motors-fc-kor"] },
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r03-th-ratchaburi-jp-kashiwa-reysol", "status": "FT", "score": [0,0], "goals": [],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-ratchaburi-fc-tha-0-0-kashiwa-reysol-jpn"] }
+  ],
+  "unconfirmed": []
+}
