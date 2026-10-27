@@ -72,7 +72,7 @@ import {
   venueOk,
   writeJSON,
 } from "./lib.mjs";
-import { loadSquads, normSquad, sameSquad, saveSquad } from "./squads.mjs";
+import { loadSquads, normSquad, sameSquad, saveSquad, squadSiteOk } from "./squads.mjs";
 
 const file = process.argv[2];
 if (!file) {
@@ -421,8 +421,8 @@ for (const c of patch.changes) {
           no(c, `unknown team ${c.team}`);
           break;
         }
-        if (fixtureTrust(c.sources) !== "trusted") {
-          no(c, "a squad needs a Tier 1 or Tier 2 source, or a site that is enough alone (365Scores, Kooora — sources.json)");
+        if (fixtureTrust(c.sources) !== "trusted" && !c.sources.some(squadSiteOk)) {
+          no(c, "a squad needs a Tier 1 or Tier 2 source, a site that is enough alone (365Scores, Kooora — sources.json) or a squad site (FotMob — SQUAD_SITES in tools/squads.mjs)");
           break;
         }
         const { players, problems } = normSquad(c.players);

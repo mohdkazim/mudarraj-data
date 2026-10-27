@@ -47,6 +47,24 @@ const POSITION_WORDS = {
   forward: ["FW", null], attacker: ["FW", null], striker: ["FW", "CF"], "centre forward": ["FW", "CF"], "center forward": ["FW", "CF"],
   "right forward": ["FW", "RF"], "left forward": ["FW", "LF"], "right winger": ["FW", "RW"], "left winger": ["FW", "LW"], "right wing": ["FW", "RW"], "left wing": ["FW", "LW"],
   "second striker": ["FW", "SS"], "secondary striker": ["FW", "SS"], winger: ["FW", null],
+  // FotMob's squad page: headings and position codes
+  keepers: ["GK", "GK"], defenders: ["DF", null], midfielders: ["MF", null], forwards: ["FW", null],
+  st: ["FW", "CF"], cf: ["FW", "CF"], ss: ["FW", "SS"],
+};
+
+/**
+ * Sites a squad may be copied from besides the result sources (Tier 1/2, "enough alone"): reputable football data
+ * apps whose squad pages list every player with number, position and nationality. Squads only, never results.
+ * FotMob (27 Oct 2026): its squad pages open reliably when 365Scores' fail.
+ */
+export const SQUAD_SITES = ["fotmob.com"];
+export const squadSiteOk = (url) => {
+  try {
+    const host = new URL(url).hostname.replace(/^www\./, "");
+    return SQUAD_SITES.some((d) => host === d || host.endsWith(`.${d}`));
+  } catch {
+    return false;
+  }
 };
 
 /** "Centre Back" | "DF" | "CB" → { pos: "DF", role: "CB" }, or null when unknown. */
@@ -150,6 +168,11 @@ export function normSquad(list) {
     }
     out.pos = pos.pos;
     if (pos.role && pos.role !== pos.pos) out.role = pos.role;
+    // A finer position given separately (FotMob: heading "Defenders", position "RB"): kept when it fits the group.
+    if (p.role) {
+      const r = position(String(p.role).split(/[,/]/)[0]);
+      if (r && r.pos === out.pos && r.role && r.role !== r.pos) out.role = r.role;
+    }
     const natIn = p.nat ?? p.nationality ?? null;
     if (natIn) {
       const nat = nationality(natIn);
