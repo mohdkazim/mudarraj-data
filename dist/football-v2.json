@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-26T22:37:03.119Z",
+ "generatedAt": "2026-10-27T01:51:18.026Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
@@ -53853,9 +53853,30 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures",
     "https://www.thenationalnews.com/sport/football/2026/10/25/man-united-v-bournemouth-ratings-disaster-at-old-trafford-as-tielemans-and-dalot-struggle/",
-    "https://www.khaleejtimes.com/sports/football/liverpool-grab-home-win-man-united-slump-to-another-defeat"
+    "https://www.khaleejtimes.com/sports/football/liverpool-grab-home-win-man-united-slump-to-another-defeat",
+    "https://www.skysports.com/football/manchester-united-vs-bournemouth/5782183476081516232"
    ],
    "updatedAt": "2026-10-25T17:37:04.422Z",
+   "goals": [
+    {
+     "minute": 38,
+     "side": "away",
+     "player": "Rayan",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Marcus Tavernier",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "away",
+     "player": "Evanilson",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -55033,40 +55054,6 @@
    "venueFrom": "home-ground"
   },
   {
-   "competition": "gulf-club-cl",
-   "season": "2026-27",
-   "id": "gulf-club-cl-2026-27-groups-ga-r02-om-al-shabab-oman-sa-neom",
-   "stage": {
-    "key": "groups",
-    "type": "group",
-    "group": "A",
-    "round": 2
-   },
-   "kickoff": "2026-10-27T14:00:00Z",
-   "timeConfirmed": false,
-   "home": "om-al-shabab-oman",
-   "away": "sa-neom",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Al Rustaq Sports Complex",
-     "ar": "مجمع الرستاق الرياضي"
-    },
-    "city": {
-     "en": "Rustaq",
-     "ar": "الرستاق"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.omanobserver.om/article/1197885/sports/football/al-duhail-blank-al-shabab-in-gulf-opener"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
    "competition": "acl2",
    "season": "2026-27",
    "id": "acl2-2026-27-groups-gd-r03-om-al-seeb-in-east-bengal",
@@ -55133,6 +55120,41 @@
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261027",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-ga-r02-om-al-shabab-oman-sa-neom",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 2
+   },
+   "kickoff": "2026-10-27T16:45:00Z",
+   "timeConfirmed": true,
+   "home": "om-al-shabab-oman",
+   "away": "sa-neom",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Al Rustaq Sports Complex",
+     "ar": "مجمع الرستاق الرياضي"
+    },
+    "city": {
+     "en": "Rustaq",
+     "ar": "الرستاق"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.omanobserver.om/article/1197885/sports/football/al-duhail-blank-al-shabab-in-gulf-opener",
+    "https://www.okaz.com.sa/sport/na/2272615"
    ],
    "venueFrom": "home-ground"
   },

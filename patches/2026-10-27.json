@@ -1,0 +1,15 @@
+{
+  "run": "2026-10-27T01:37:00Z",
+  "changes": [
+    { "op": "result", "match": "epl-2026-27-regular-r08-gb-eng-manchester-united-gb-eng-bournemouth", "status": "FT", "score": [0,3],
+      "goals": [
+        { "minute": 38, "side": "away", "player": "Rayan", "type": "goal" },
+        { "minute": 43, "side": "away", "player": "Marcus Tavernier", "type": "goal" },
+        { "minute": 71, "side": "away", "player": "Evanilson", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/manchester-united-vs-bournemouth/5782183476081516232"] },
+    { "op": "fixture", "match": "gulf-club-cl-2026-27-groups-ga-r02-om-al-shabab-oman-sa-neom", "kickoff": "2026-10-27T16:45:00Z", "timeConfirmed": true,
+      "sources": ["https://www.okaz.com.sa/sport/na/2272615"] }
+  ],
+  "unconfirmed": []
+}

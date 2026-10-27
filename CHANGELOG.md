@@ -3378,3 +3378,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-27 (2026-10-26T22:35:00Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result laliga-2026-27-regular-r10-es-sevilla-es-osasuna 2-0 FT
+
+## 2026-10-27 (2026-10-27T01:37:00Z)
+- 2 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result epl-2026-27-regular-r08-gb-eng-manchester-united-gb-eng-bournemouth added scorers to the confirmed result
+  - ✓ fixture gulf-club-cl-2026-27-groups-ga-r02-om-al-shabab-oman-sa-neom kick-off 2026-10-27T16:45:00Z

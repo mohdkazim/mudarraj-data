@@ -3762,9 +3762,30 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures",
     "https://www.thenationalnews.com/sport/football/2026/10/25/man-united-v-bournemouth-ratings-disaster-at-old-trafford-as-tielemans-and-dalot-struggle/",
-    "https://www.khaleejtimes.com/sports/football/liverpool-grab-home-win-man-united-slump-to-another-defeat"
+    "https://www.khaleejtimes.com/sports/football/liverpool-grab-home-win-man-united-slump-to-another-defeat",
+    "https://www.skysports.com/football/manchester-united-vs-bournemouth/5782183476081516232"
    ],
-   "updatedAt": "2026-10-25T17:37:04.422Z"
+   "updatedAt": "2026-10-25T17:37:04.422Z",
+   "goals": [
+    {
+     "minute": 38,
+     "side": "away",
+     "player": "Rayan",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Marcus Tavernier",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "away",
+     "player": "Evanilson",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r08-gb-eng-sunderland-gb-eng-leeds-united",
