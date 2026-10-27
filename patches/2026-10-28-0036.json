@@ -1,0 +1,33 @@
+{
+  "run": "2026-10-27T20:36:00Z",
+  "changes": [
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-vfl-bochum-de-mainz-05", "status": "FT", "score": [2,0], "ht": [0,0],
+      "goals": [
+        { "minute": 46, "side": "home", "player": "Rasmussen", "type": "goal" },
+        { "minute": 75, "side": "home", "player": "Hofmann", "type": "goal" }
+      ], "sources": ["https://www.dfb.de/news/bochum-stun-mainz-as-first-bundesliga-side-bows-out"] },
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-hamburger-sv-de-eintracht-frankfurt", "status": "FT", "score": [1,3], "ht": [0,0],
+      "goals": [
+        { "minute": 65, "side": "away", "player": "Koch", "type": "goal" },
+        { "minute": 71, "side": "away", "player": "Burkardt", "type": "goal" },
+        { "minute": 75, "side": "away", "player": "Ebnoutalib", "type": "goal" },
+        { "minute": 79, "side": "home", "player": "Moffi", "type": "goal" }
+      ], "sources": ["https://www.dfb.de/news/bochum-stun-mainz-as-first-bundesliga-side-bows-out"] },
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-rot-weiss-essen-de-rb-leipzig", "status": "FT", "score": [1,2], "ht": [1,0],
+      "goals": [
+        { "minute": 9, "side": "home", "player": "Lucas Brumme", "type": "goal" },
+        { "minute": 78, "side": "away", "player": "Christoph Baumgartner", "type": "goal" },
+        { "minute": 82, "side": "away", "player": "Christoph Baumgartner", "type": "goal" }
+      ], "sources": ["https://www.dfb.de/news/bochum-stun-mainz-as-first-bundesliga-side-bows-out"] },
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-sonnenhof-grossaspach-de-fc-augsburg", "status": "FT", "score": [2,4], "ht": [1,2],
+      "goals": [
+        { "minute": 13, "side": "away", "player": "Rodrigo Ribeiro", "type": "goal" },
+        { "minute": 21, "side": "away", "player": "Rodrigo Ribeiro", "type": "goal" },
+        { "minute": 23, "side": "home", "player": "Luca Molinari", "type": "goal" },
+        { "minute": 47, "side": "home", "player": "Volkan Celiktas", "type": "goal" },
+        { "minute": 70, "side": "away", "player": "Arijon Ibrahimović", "type": "goal" },
+        { "minute": 74, "side": "away", "player": "Anton Kade", "type": "goal" }
+      ], "sources": ["https://www.dfb.de/news/bochum-stun-mainz-as-first-bundesliga-side-bows-out"] }
+  ],
+  "unconfirmed": []
+}

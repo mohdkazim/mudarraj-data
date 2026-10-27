@@ -3769,3 +3769,10 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ squad de-union-berlin squad added (30 players)
   - ✓ squad sa-al-okhdood squad added (22 players)
   - ✓ squad sa-al-orobah squad added (29 players)
+
+## 2026-10-28 (2026-10-27T20:36:00Z)
+- 4 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result dfb-pokal-2026-27-r2-de-vfl-bochum-de-mainz-05 2-0 FT
+  - ✓ result dfb-pokal-2026-27-r2-de-hamburger-sv-de-eintracht-frankfurt 1-3 FT
+  - ✓ result dfb-pokal-2026-27-r2-de-rot-weiss-essen-de-rb-leipzig 1-2 FT
+  - ✓ result dfb-pokal-2026-27-r2-de-sonnenhof-grossaspach-de-fc-augsburg 2-4 FT

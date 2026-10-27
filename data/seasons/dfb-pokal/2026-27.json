@@ -1913,14 +1913,47 @@
    "away": "de-eintracht-frankfurt",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
-   ]
+    "https://www.dfb.de/news/bochum-stun-mainz-as-first-bundesliga-side-bows-out"
+   ],
+   "goals": [
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Koch",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "away",
+     "player": "Burkardt",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "away",
+     "player": "Ebnoutalib",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Moffi",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-27T20:38:37.124Z"
   },
   {
    "id": "dfb-pokal-2026-27-r2-de-rot-weiss-essen-de-rb-leipzig",
@@ -1936,14 +1969,41 @@
    "away": "de-rb-leipzig",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
-   ]
+    "https://www.dfb.de/news/bochum-stun-mainz-as-first-bundesliga-side-bows-out"
+   ],
+   "goals": [
+    {
+     "minute": 9,
+     "side": "home",
+     "player": "Lucas Brumme",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Christoph Baumgartner",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Christoph Baumgartner",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-27T20:38:37.124Z"
   },
   {
    "id": "dfb-pokal-2026-27-r2-de-sonnenhof-grossaspach-de-fc-augsburg",
@@ -1959,14 +2019,59 @@
    "away": "de-fc-augsburg",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4,
+    "ht": [
+     1,
+     2
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
-   ]
+    "https://www.dfb.de/news/bochum-stun-mainz-as-first-bundesliga-side-bows-out"
+   ],
+   "goals": [
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Rodrigo Ribeiro",
+     "type": "goal"
+    },
+    {
+     "minute": 21,
+     "side": "away",
+     "player": "Rodrigo Ribeiro",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Luca Molinari",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "home",
+     "player": "Volkan Celiktas",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "away",
+     "player": "Arijon Ibrahimović",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Anton Kade",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-27T20:38:37.124Z"
   },
   {
    "id": "dfb-pokal-2026-27-r2-de-vfl-bochum-de-mainz-05",
@@ -1982,14 +2087,35 @@
    "away": "de-mainz-05",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261027&limit=37"
-   ]
+    "https://www.dfb.de/news/bochum-stun-mainz-as-first-bundesliga-side-bows-out"
+   ],
+   "goals": [
+    {
+     "minute": 46,
+     "side": "home",
+     "player": "Rasmussen",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Hofmann",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-27T20:38:37.124Z"
   },
   {
    "id": "dfb-pokal-2026-27-r2-de-borussia-dortmund-de-werder-bremen",
