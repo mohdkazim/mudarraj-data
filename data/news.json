@@ -1,5 +1,5 @@
 {
-  "_note": "Settings for the site's related-news card (published with the data as 'news'). 'sites' replaces the built-in outlet list for that language. 24 Oct 2026: Kooora and 365Scores added at Mohamed's request. 25 Oct 2026: Saudi outlets (Okaz, Sabq, Al Riyadh, Al Yaum; Saudi Gazette) added with the Saudi competitions. 26 Oct 2026: bundesliga.com and legaseriea.it (English) added with the German and Italian competitions. 27 Oct 2026: official Saudi sports sites added at Mohamed's request: the Saudi Pro League (spl.com.sa), the Saudi Arabian Football Federation (saff.com.sa), the Saudi Press Agency (spa.gov.sa) and the Ministry of Sport (mos.gov.sa).",
+  "_note": "Settings for the site's related-news card (published with the data as 'news'). 'sites' replaces the built-in outlet list for that language. 24 Oct 2026: Kooora and 365Scores added at Mohamed's request. 25 Oct 2026: Saudi outlets (Okaz, Sabq, Al Riyadh, Al Yaum; Saudi Gazette) added with the Saudi competitions. 26 Oct 2026: bundesliga.com and legaseriea.it (English) added with the German and Italian competitions. 27 Oct 2026: official Saudi sports sites added at Mohamed's request: the Saudi Pro League (spl.com.sa), the Saudi Arabian Football Federation (saff.com.sa), the Saudi Press Agency (spa.gov.sa) and the Ministry of Sport (mos.gov.sa). 27 Oct 2026 (later): 'siteGroups' sorts the outlets by country for sites installed from the 27 Oct bundle: a club is searched in its own country's outlets first (Saudi ones in Google News' Saudi edition), then the UAE's, then the regional and international ones, 'sitesPerSearch' at a time. Earlier sites keep using 'sites'.",
   "sites": {
     "ar": [
       "alkhaleej.ae",
@@ -43,5 +43,62 @@
       "spa.gov.sa",
       "mos.gov.sa"
     ]
-  }
+  },
+  "siteGroups": {
+    "ar": {
+      "ae": [
+        "alkhaleej.ae",
+        "albayan.ae",
+        "aletihad.ae",
+        "emaratalyoum.com",
+        "wam.ae",
+        "sharjah24.ae"
+      ],
+      "sa": [
+        "okaz.com.sa",
+        "sabq.org",
+        "alriyadh.com",
+        "alyaum.com",
+        "spa.gov.sa",
+        "spl.com.sa",
+        "saff.com.sa",
+        "mos.gov.sa"
+      ],
+      "*": [
+        "kooora.com",
+        "365scores.com",
+        "skynewsarabia.com",
+        "alarabiya.net",
+        "aawsat.com",
+        "the-afc.com"
+      ]
+    },
+    "en": {
+      "ae": [
+        "thenationalnews.com",
+        "gulfnews.com",
+        "khaleejtimes.com"
+      ],
+      "sa": [
+        "arabnews.com",
+        "saudigazette.com.sa",
+        "spa.gov.sa",
+        "spl.com.sa",
+        "saff.com.sa",
+        "mos.gov.sa"
+      ],
+      "*": [
+        "skysports.com",
+        "espn.com",
+        "reuters.com",
+        "apnews.com",
+        "365scores.com",
+        "the-afc.com",
+        "uefa.com",
+        "bundesliga.com",
+        "legaseriea.it"
+      ]
+    }
+  },
+  "sitesPerSearch": 5
 }
