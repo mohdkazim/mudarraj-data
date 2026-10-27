@@ -1,0 +1,201 @@
+{
+ "team": "de-fc-augsburg",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8406/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Finn Dahmen",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Nediljko Labrović",
+   "pos": "GK",
+   "nat": "HR"
+  },
+  {
+   "n": 48,
+   "name": "Tom Wisbereit",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Calvin Brackelmann",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Chrislain Matsima",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 6,
+   "name": "Jeffrey Gouweleeuw",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 7,
+   "name": "Young-Woo Seol",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "KR"
+  },
+  {
+   "n": 35,
+   "name": "Juma Bah",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SL"
+  },
+  {
+   "n": 40,
+   "name": "Noahkai Banks",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "US"
+  },
+  {
+   "n": null,
+   "name": "Milo Adleff",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 4,
+   "name": "Han-Noah Massengo",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FR"
+  },
+  {
+   "n": 8,
+   "name": "Sima Suso",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Mert Kömür",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "TR"
+  },
+  {
+   "n": 14,
+   "name": "Yannik Keitel",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Hennes Behrens",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Tim Breithaupt",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Robin Fellhauer",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Alexis Claude-Maurice",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 21,
+   "name": "Arijon Ibrahimović",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Faik Sakar",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Marius Wolf",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Anton Kade",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 32,
+   "name": "Fabian Rieder",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Mahmut Kücüksahin",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Robert Draghici",
+   "pos": "MF",
+   "nat": "RO"
+  },
+  {
+   "n": 9,
+   "name": "Rodrigo Ribeiro",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PT"
+  },
+  {
+   "n": 11,
+   "name": "Michael Gregoritsch",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AT"
+  },
+  {
+   "n": 15,
+   "name": "Steve Mounié",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BJ"
+  },
+  {
+   "n": 39,
+   "name": "Uchenna Ogundu",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NG"
+  }
+ ]
+}

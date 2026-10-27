@@ -1,0 +1,281 @@
+{
+ "team": "cn-beijing-guoan",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/fr/teams/4177/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 14,
+   "name": "Tongyun Lu",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 22,
+   "name": "Jiaqi Han",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 31,
+   "name": "Shaoziyang Liu",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 33,
+   "name": "Nureli Abbas",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 34,
+   "name": "Sen Hou",
+   "pos": "GK",
+   "nat": "CN"
+  },
+  {
+   "n": 2,
+   "name": "Shaocong Wu",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CN"
+  },
+  {
+   "n": 3,
+   "name": "Yupeng He",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CN"
+  },
+  {
+   "n": 4,
+   "name": "Lei Li",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CN"
+  },
+  {
+   "n": 5,
+   "name": "Guilherme Ramos",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 21,
+   "name": "Tze-Nam Yue",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "HK"
+  },
+  {
+   "n": 24,
+   "name": "Abduhamit Abdugheni",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CN"
+  },
+  {
+   "n": 25,
+   "name": "Uroš Spajić",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "RS"
+  },
+  {
+   "n": 26,
+   "name": "Yang Bai",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CN"
+  },
+  {
+   "n": 27,
+   "name": "Gang Wang",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CN"
+  },
+  {
+   "n": 30,
+   "name": "Shuangjie Fan",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CN"
+  },
+  {
+   "n": 36,
+   "name": "Feifan Jia",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "CN"
+  },
+  {
+   "n": 42,
+   "name": "Hanqi Lin",
+   "pos": "DF",
+   "nat": "CN"
+  },
+  {
+   "n": 47,
+   "name": "Jiefu Deng",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CN"
+  },
+  {
+   "n": 55,
+   "name": "Zixiang Luo",
+   "pos": "DF",
+   "nat": "CN"
+  },
+  {
+   "n": 6,
+   "name": "Zhongguo Chi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CN"
+  },
+  {
+   "n": 7,
+   "name": "Sai Erjini'ao",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CN"
+  },
+  {
+   "n": 8,
+   "name": "Aboubacar Konté",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ML"
+  },
+  {
+   "n": 10,
+   "name": "Xizhe Zhang",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "CN"
+  },
+  {
+   "n": 11,
+   "name": "Liangming Lin",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "CN"
+  },
+  {
+   "n": 17,
+   "name": "Liyu Yang",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "CN"
+  },
+  {
+   "n": 18,
+   "name": "Yu Wang",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CN"
+  },
+  {
+   "n": 20,
+   "name": "Béni Nkololo",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "FR"
+  },
+  {
+   "n": 23,
+   "name": "Dawhan",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 28,
+   "name": "Jeremy Dudziak",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "TN"
+  },
+  {
+   "n": 32,
+   "name": "Size Wang",
+   "pos": "MF",
+   "nat": "CN"
+  },
+  {
+   "n": 37,
+   "name": "Yongjing Cao",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "CN"
+  },
+  {
+   "n": 41,
+   "name": "Xi Cheng",
+   "pos": "MF",
+   "nat": "CN"
+  },
+  {
+   "n": 43,
+   "name": "Xiaoyu Xia",
+   "pos": "MF",
+   "nat": "CN"
+  },
+  {
+   "n": 50,
+   "name": "Haoran Zhang",
+   "pos": "MF",
+   "nat": "CN"
+  },
+  {
+   "n": 57,
+   "name": "Junze Liu",
+   "pos": "MF",
+   "nat": "CN"
+  },
+  {
+   "n": 58,
+   "name": "Zicheng Jiang",
+   "pos": "MF",
+   "nat": "CN"
+  },
+  {
+   "n": 59,
+   "name": "Kangyue Chen",
+   "pos": "MF",
+   "nat": "CN"
+  },
+  {
+   "n": 9,
+   "name": "Yuning Zhang",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CN"
+  },
+  {
+   "n": 29,
+   "name": "Fábio Abreu",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AO"
+  },
+  {
+   "n": 45,
+   "name": "Mingyang Ma",
+   "pos": "FW",
+   "nat": "CN"
+  },
+  {
+   "n": 77,
+   "name": "Chadrac Akolo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CD"
+  }
+ ]
+}

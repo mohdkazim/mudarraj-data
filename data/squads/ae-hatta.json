@@ -1,0 +1,201 @@
+{
+ "team": "ae-hatta",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/it/teams/102113/squad/hatta"
+ ],
+ "players": [
+  {
+   "n": 22,
+   "name": "Marzooq Al Bedwawi",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 44,
+   "name": "Ibrahim Essa",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 50,
+   "name": "Saeed Al Mesmari",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 2,
+   "name": "Omar Saeed",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 3,
+   "name": "Saeed Sulaiman",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 4,
+   "name": "Atiq Walid",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 5,
+   "name": "Khalid Mubarak",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 13,
+   "name": "Khaled Ali Al Baloushi",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 18,
+   "name": "Hamad Madhad",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 33,
+   "name": "Bruno Leonardo",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": 38,
+   "name": "Saad Farid",
+   "pos": "DF",
+   "nat": "MA"
+  },
+  {
+   "n": 49,
+   "name": "Jocelyn Doumbia",
+   "pos": "DF",
+   "nat": "CI"
+  },
+  {
+   "n": 52,
+   "name": "Kaua Bastian",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": 55,
+   "name": "Mohammad Al Hussaini",
+   "pos": "DF",
+   "nat": "LB"
+  },
+  {
+   "n": 74,
+   "name": "Adham Hegazy",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Abdulla Abbas Al Balooshi",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 8,
+   "name": "Tahnoon Al Zaabi",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 16,
+   "name": "Juan Sebastián Pedroza",
+   "pos": "MF",
+   "nat": "CO"
+  },
+  {
+   "n": 20,
+   "name": "Mateja Radonjić",
+   "pos": "MF",
+   "nat": "RS"
+  },
+  {
+   "n": 23,
+   "name": "Ghaith Ouahabi",
+   "pos": "MF",
+   "nat": "TN"
+  },
+  {
+   "n": 28,
+   "name": "Hamdan Humaid",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 36,
+   "name": "Khauan Schlickmann",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": 80,
+   "name": "Dominique Simon",
+   "pos": "MF",
+   "nat": "HT"
+  },
+  {
+   "n": 88,
+   "name": "Khalid Al Blooshi",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 9,
+   "name": "Pedrinho",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Ayman Rchoq",
+   "pos": "FW",
+   "nat": "MA"
+  },
+  {
+   "n": 11,
+   "name": "Firas Ben Arbi",
+   "pos": "FW",
+   "nat": "TN"
+  },
+  {
+   "n": 17,
+   "name": "Pedro Leão",
+   "pos": "FW",
+   "nat": "BR"
+  },
+  {
+   "n": 19,
+   "name": "Saif Salem",
+   "pos": "FW",
+   "nat": "AE"
+  },
+  {
+   "n": 30,
+   "name": "Seifeddine Jaziri",
+   "pos": "FW",
+   "nat": "TN"
+  },
+  {
+   "n": 60,
+   "name": "Drissa Coulibaly",
+   "pos": "FW",
+   "nat": "ML"
+  },
+  {
+   "n": 99,
+   "name": "Bernard Faye",
+   "pos": "FW",
+   "nat": "SN"
+  }
+ ]
+}

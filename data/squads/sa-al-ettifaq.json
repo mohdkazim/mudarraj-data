@@ -1,0 +1,220 @@
+{
+ "team": "sa-al-ettifaq",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/id/teams/101915/squad/al-ettifaq"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Marek Rodák",
+   "pos": "GK",
+   "nat": "SK"
+  },
+  {
+   "n": 23,
+   "name": "Ahmad Al Harbi",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 92,
+   "name": "Turki Ba Al Jawsh",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Abdullah Madu",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 4,
+   "name": "Jack Hendry",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-SCT"
+  },
+  {
+   "n": 5,
+   "name": "Pedro Henrique",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 13,
+   "name": "Meshal Al Alaeli",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 33,
+   "name": "Madallah Al Olayan",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 61,
+   "name": "Radhi Al Otaibi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 70,
+   "name": "Abdullah Khateeb",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 78,
+   "name": "Marzouq Tambakti",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 87,
+   "name": "Meshal Sibyani",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "SA"
+  },
+  {
+   "n": 10,
+   "name": "Álvaro Medrán",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "ES"
+  },
+  {
+   "n": 11,
+   "name": "Ondrej Duda",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SK"
+  },
+  {
+   "n": 16,
+   "name": "Mohammed Al Kadi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 26,
+   "name": "Riyadh Sharahili",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 42,
+   "name": "Abdoulaye Kanté",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CI"
+  },
+  {
+   "n": 58,
+   "name": "Yasir Shammari",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 77,
+   "name": "Abdulelah Hawsawi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Khalid Al Ghannam",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "SA"
+  },
+  {
+   "n": 9,
+   "name": "Moussa Dembélé",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 14,
+   "name": "Abdullah Al Bishi",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 17,
+   "name": "Jordan Larsson",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SE"
+  },
+  {
+   "n": 20,
+   "name": "Abdulhakim Maghfori",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 24,
+   "name": "Jalal Al Salem",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  },
+  {
+   "n": 29,
+   "name": "Ziyad Al Ghamdi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  },
+  {
+   "n": 43,
+   "name": "Bersant Celina",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "XK"
+  },
+  {
+   "n": 71,
+   "name": "Matija Gluščević",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "RS"
+  },
+  {
+   "n": 80,
+   "name": "Rayane Messi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "FR"
+  },
+  {
+   "n": 99,
+   "name": "Sultan Harun",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Talal Haji",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  }
+ ]
+}

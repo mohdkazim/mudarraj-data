@@ -1,0 +1,217 @@
+{
+ "team": "de-borussia-monchengladbach",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9788/squad/mgladbach"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Moritz Nicolas",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Tobias Sippel",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Jan Olschowsky",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Daniel Batz",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Fabio Chiarodia",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IT"
+  },
+  {
+   "n": 4,
+   "name": "Kevin Diks",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ID"
+  },
+  {
+   "n": 5,
+   "name": "Jan Leszczyński",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PL"
+  },
+  {
+   "n": 6,
+   "name": "Ko Itakura",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 14,
+   "name": "Daiki Hashioka",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 16,
+   "name": "Philipp Sander",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "David Herold",
+   "pos": "DF",
+   "role": "LWB",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Yukhym Konoplya",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "UA"
+  },
+  {
+   "n": 26,
+   "name": "Lukas Ullrich",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Kevin Stöger",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AT"
+  },
+  {
+   "n": 8,
+   "name": "Enzo Leopold",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Florian Neuhaus",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Jens Castrop",
+   "pos": "MF",
+   "nat": "KR"
+  },
+  {
+   "n": 27,
+   "name": "Fritz Fleck",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Joseph Scally",
+   "pos": "MF",
+   "nat": "US"
+  },
+  {
+   "n": 34,
+   "name": "Mathieu Nguefack",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 35,
+   "name": "Josiah Uwakhonye",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Wael Mohya",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 38,
+   "name": "Hugo Bolin",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SE"
+  },
+  {
+   "n": 47,
+   "name": "Zento Uno",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 3,
+   "name": "Isac Lidberg",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SE"
+  },
+  {
+   "n": 9,
+   "name": "Franck Honorat",
+   "pos": "FW",
+   "nat": "FR"
+  },
+  {
+   "n": 11,
+   "name": "Tim Kleindienst",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Shuto Machino",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  },
+  {
+   "n": 19,
+   "name": "Nicolas-Gerrit Kühn",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "Robin Hack",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 39,
+   "name": "Iaia Manco Danfa",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GW"
+  }
+ ]
+}

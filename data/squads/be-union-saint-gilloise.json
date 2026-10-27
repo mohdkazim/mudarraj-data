@@ -1,0 +1,199 @@
+{
+ "team": "be-union-saint-gilloise",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/da/teams/7978/squad/-"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Vic Chambaere",
+   "pos": "GK",
+   "nat": "BE"
+  },
+  {
+   "n": 12,
+   "name": "Hervé Koffi",
+   "pos": "GK",
+   "nat": "BF"
+  },
+  {
+   "n": 18,
+   "name": "Giorgi Kavlashvili",
+   "pos": "GK",
+   "nat": "GE"
+  },
+  {
+   "n": 71,
+   "name": "Keo Boets",
+   "pos": "GK",
+   "nat": "BE"
+  },
+  {
+   "n": 4,
+   "name": "Nohim Chibani",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 5,
+   "name": "Kevin Mac Allister",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 21,
+   "name": "Denzel De Roeve",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BE"
+  },
+  {
+   "n": 26,
+   "name": "Ross Sykes",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 29,
+   "name": "Massiré Sylla",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 55,
+   "name": "Nikki Havenaar",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JP"
+  },
+  {
+   "n": 80,
+   "name": "Ondřej Kričfaluši",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CZ"
+  },
+  {
+   "n": 6,
+   "name": "Kamiel van de Perre",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BE"
+  },
+  {
+   "n": 8,
+   "name": "Adem Zorgane",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DZ"
+  },
+  {
+   "n": 10,
+   "name": "Anouar Ait El Hadj",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BE"
+  },
+  {
+   "n": 11,
+   "name": "Guilherme Smith",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": 14,
+   "name": "Ivan Pavlić",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BE"
+  },
+  {
+   "n": 17,
+   "name": "Rob Schoofs",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BE"
+  },
+  {
+   "n": 23,
+   "name": "Besfort Zeneli",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SE"
+  },
+  {
+   "n": 25,
+   "name": "Ilan Hurtevent",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BE"
+  },
+  {
+   "n": 27,
+   "name": "Louis Patris",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BE"
+  },
+  {
+   "n": 28,
+   "name": "Darius Olaru",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "RO"
+  },
+  {
+   "n": 9,
+   "name": "Mateo Biondic",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 13,
+   "name": "Kevin Rodríguez",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "EC"
+  },
+  {
+   "n": 20,
+   "name": "Dylan Aquino",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AR"
+  },
+  {
+   "n": 30,
+   "name": "Raul Florucz",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AT"
+  },
+  {
+   "n": 32,
+   "name": "Sekou Keita",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BE"
+  },
+  {
+   "n": 38,
+   "name": "Relebohile Mofokeng",
+   "pos": "FW",
+   "nat": "ZA"
+  },
+  {
+   "n": 39,
+   "name": "Youssef Hamoutahar",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BE"
+  }
+ ]
+}

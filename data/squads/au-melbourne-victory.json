@@ -1,0 +1,170 @@
+{
+ "team": "au-melbourne-victory",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/th/teams/6230/squad/melbourne-victory"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Jack Warshawsky",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": 25,
+   "name": "Jack Duncan",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": 30,
+   "name": "Daniel Graskoski",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": 3,
+   "name": "Jason Davidson",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AU"
+  },
+  {
+   "n": 4,
+   "name": "Philipp Ziereis",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Brendan Hamill",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AU"
+  },
+  {
+   "n": 15,
+   "name": "Tom Lockyer",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GB-WLS"
+  },
+  {
+   "n": 16,
+   "name": "Joshua Inserra",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AU"
+  },
+  {
+   "n": 18,
+   "name": "Franco Lino",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AU"
+  },
+  {
+   "n": 36,
+   "name": "Harrison Shillington",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AU"
+  },
+  {
+   "n": 6,
+   "name": "Louis D'Arrigo",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AU"
+  },
+  {
+   "n": 8,
+   "name": "Jordi Valadon",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AU"
+  },
+  {
+   "n": 10,
+   "name": "Denis Genreau",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AU"
+  },
+  {
+   "n": 14,
+   "name": "Matthew Grimaldi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AU"
+  },
+  {
+   "n": 19,
+   "name": "Oliver Dragicevic",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": 22,
+   "name": "Xavier Stella",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AU"
+  },
+  {
+   "n": 26,
+   "name": "Jack Mihailidis",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": 9,
+   "name": "Harry Sawyer",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AU"
+  },
+  {
+   "n": 11,
+   "name": "Clarismario Santos",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 21,
+   "name": "Guillermo May",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "UY"
+  },
+  {
+   "n": 23,
+   "name": "Keegan Jelacic",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "AU"
+  },
+  {
+   "n": 24,
+   "name": "Malik Olukhale",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": 41,
+   "name": "Michael Ghossaini",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": 44,
+   "name": "Charles Nduka",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  }
+ ]
+}

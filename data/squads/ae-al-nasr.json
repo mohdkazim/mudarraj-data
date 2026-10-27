@@ -1,0 +1,267 @@
+{
+ "team": "ae-al-nasr",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/fr/teams/102123/squad/-"
+ ],
+ "players": [
+  {
+   "n": 12,
+   "name": "Ahmed Shambih",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 37,
+   "name": "Saeed Salem",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 53,
+   "name": "Adli Mohamed",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 67,
+   "name": "Jawad Mussa",
+   "pos": "GK",
+   "nat": "KM"
+  },
+  {
+   "n": 2,
+   "name": "Salem Sultan",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 3,
+   "name": "Gustavo Alex",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 4,
+   "name": "Gláuber Lima",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 14,
+   "name": "Felipe Motta",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": 15,
+   "name": "Abdoulaye Sanogo",
+   "pos": "DF",
+   "nat": "ML"
+  },
+  {
+   "n": 21,
+   "name": "Abdulla Idrees",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 22,
+   "name": "Marius Høibråten",
+   "pos": "DF",
+   "nat": "NO"
+  },
+  {
+   "n": 24,
+   "name": "Zayed Sultan",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 30,
+   "name": "João Moreira",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": 34,
+   "name": "Jamal Khalifa",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 46,
+   "name": "Mubarak Zamah",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 55,
+   "name": "David Petrović",
+   "pos": "DF",
+   "nat": "RS"
+  },
+  {
+   "n": 63,
+   "name": "Suhail Mohammad",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 78,
+   "name": "Saud Al Balushi",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 90,
+   "name": "Rashid Abdulrahman",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 92,
+   "name": "Cheikh Seck",
+   "pos": "DF",
+   "nat": "SN"
+  },
+  {
+   "n": 5,
+   "name": "Mohammad Abdulbasit",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 6,
+   "name": "Hussain Mahdi",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 8,
+   "name": "Marius Marin",
+   "pos": "MF",
+   "nat": "RO"
+  },
+  {
+   "n": 17,
+   "name": "Wesley Delgado",
+   "pos": "MF",
+   "nat": "CV"
+  },
+  {
+   "n": 19,
+   "name": "Luka Milivojević",
+   "pos": "MF",
+   "nat": "RS"
+  },
+  {
+   "n": 38,
+   "name": "Moussa N'Diaye",
+   "pos": "MF",
+   "nat": "SN"
+  },
+  {
+   "n": 42,
+   "name": "Leonel Wamba",
+   "pos": "MF",
+   "nat": "CM"
+  },
+  {
+   "n": 44,
+   "name": "Obaid Salem",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 51,
+   "name": "Mohamad Subhi Kassem",
+   "pos": "MF",
+   "nat": "PS"
+  },
+  {
+   "n": 57,
+   "name": "Issam Faiz",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 60,
+   "name": "Ahmed Raed",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 70,
+   "name": "Ajdin Hrustić",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": 75,
+   "name": "Zaid Osama",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 84,
+   "name": "Shehab Abdallah",
+   "pos": "MF",
+   "nat": "EG"
+  },
+  {
+   "n": 88,
+   "name": "Ali Abdulaziz",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 97,
+   "name": "Khamis Naser",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 7,
+   "name": "Kevin Agudelo",
+   "pos": "FW",
+   "nat": "CO"
+  },
+  {
+   "n": 9,
+   "name": "Chris Bedia",
+   "pos": "FW",
+   "nat": "CI"
+  },
+  {
+   "n": 10,
+   "name": "Mehdi Ghayedi",
+   "pos": "FW",
+   "nat": "IR"
+  },
+  {
+   "n": 13,
+   "name": "Ramón Miérez",
+   "pos": "FW",
+   "nat": "AR"
+  },
+  {
+   "n": 28,
+   "name": "Abdoulaye Touré",
+   "pos": "FW",
+   "nat": "CI"
+  },
+  {
+   "n": 33,
+   "name": "Muhammed Ayeş",
+   "pos": "FW",
+   "nat": "TR"
+  },
+  {
+   "n": 77,
+   "name": "Nassim Chadli",
+   "pos": "FW",
+   "nat": "MA"
+  }
+ ]
+}

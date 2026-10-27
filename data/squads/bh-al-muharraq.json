@@ -1,0 +1,172 @@
+{
+ "team": "bh-al-muharraq",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/vi/teams/101598/squad/muharraq"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Vladan Djekic",
+   "pos": "GK",
+   "nat": "RS"
+  },
+  {
+   "n": 21,
+   "name": "Sayed Jaafar",
+   "pos": "GK",
+   "nat": "BH"
+  },
+  {
+   "n": 2,
+   "name": "Husain Jameel",
+   "pos": "DF",
+   "nat": "BH"
+  },
+  {
+   "n": 3,
+   "name": "Waleed Al Hayam",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BH"
+  },
+  {
+   "n": 5,
+   "name": "Amine Benaddi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BH"
+  },
+  {
+   "n": 13,
+   "name": "Bruno Santos",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BR"
+  },
+  {
+   "n": 25,
+   "name": "Hasan Al Karani",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BH"
+  },
+  {
+   "n": 26,
+   "name": "Gervásio Olivera",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "UY"
+  },
+  {
+   "n": 27,
+   "name": "Mohamed Al Banna",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BH"
+  },
+  {
+   "n": 32,
+   "name": "Abdulla Al Khulasi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BH"
+  },
+  {
+   "n": 73,
+   "name": "Ahmed Bughammar",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BH"
+  },
+  {
+   "n": 8,
+   "name": "Mohamed Al Hardan",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BH"
+  },
+  {
+   "n": 10,
+   "name": "Abdulwahab Al Malood",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BH"
+  },
+  {
+   "n": 15,
+   "name": "Abdul Annan",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GH"
+  },
+  {
+   "n": 17,
+   "name": "Ahmed Rabeea",
+   "pos": "MF",
+   "nat": "BH"
+  },
+  {
+   "n": 29,
+   "name": "Anderson Leite",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BR"
+  },
+  {
+   "n": 80,
+   "name": "Arthur Rezende",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": 96,
+   "name": "Rijad Kobiljar",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BA"
+  },
+  {
+   "n": null,
+   "name": "Bryant Ortega",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "VE"
+  },
+  {
+   "n": 7,
+   "name": "Ahmed Al Sherooqi",
+   "pos": "FW",
+   "nat": "BH"
+  },
+  {
+   "n": 9,
+   "name": "Facundo Tobares",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 18,
+   "name": "Husain Abdulkarim",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BH"
+  },
+  {
+   "n": 37,
+   "name": "Juninho",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 99,
+   "name": "Elliot Simões",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "AO"
+  }
+ ]
+}

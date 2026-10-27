@@ -1,0 +1,197 @@
+{
+ "team": "de-eintracht-frankfurt",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9810/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Noah Atubolu",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Jens Grahl",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 39,
+   "name": "Amil Šiljević",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 40,
+   "name": "Kauã",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": 2,
+   "name": "Elias Baum",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Lilian Brassier",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 4,
+   "name": "Robin Koch",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Otávio",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 26,
+   "name": "Keita Kosugi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "JP"
+  },
+  {
+   "n": 34,
+   "name": "Nnamdi Collins",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 37,
+   "name": "Jeremiaha Maluze",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Oscar Højlund",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DK"
+  },
+  {
+   "n": 8,
+   "name": "Farès Chaïbi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DZ"
+  },
+  {
+   "n": 15,
+   "name": "Noël Aséko",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Ritsu Doan",
+   "pos": "MF",
+   "nat": "JP"
+  },
+  {
+   "n": 22,
+   "name": "Timothy Chandler",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "US"
+  },
+  {
+   "n": 25,
+   "name": "Raphael Onyedika",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NG"
+  },
+  {
+   "n": 27,
+   "name": "Mario Götze",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Love Arrhov",
+   "pos": "MF",
+   "nat": "SE"
+  },
+  {
+   "n": 42,
+   "name": "Can Uzun",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "TR"
+  },
+  {
+   "n": null,
+   "name": "Collin Etse",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Marvin Dills",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Ansgar Knauff",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Jonathan Burkardt",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Younes Ebnoutalib",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Ayoube Amaimouni-Echghouyab",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "MA"
+  },
+  {
+   "n": 35,
+   "name": "Malik Pimpong",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DK"
+  },
+  {
+   "n": null,
+   "name": "Jessic Ngankam",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}

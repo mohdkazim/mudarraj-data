@@ -1,0 +1,213 @@
+{
+ "team": "de-hamburger-sv",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9790/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Daniel Heuer Fernandes",
+   "pos": "GK",
+   "nat": "PT"
+  },
+  {
+   "n": 12,
+   "name": "Sander Tangvik",
+   "pos": "GK",
+   "nat": "NO"
+  },
+  {
+   "n": 41,
+   "name": "Fernando Dickes",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "David Møller Wolfe",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "NO"
+  },
+  {
+   "n": 7,
+   "name": "Zakaria El Ouahdi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "MA"
+  },
+  {
+   "n": 17,
+   "name": "Warmed Omari",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "KM"
+  },
+  {
+   "n": 23,
+   "name": "Jordan Torunarigha",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NG"
+  },
+  {
+   "n": 24,
+   "name": "Nicolás Capaldo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 33,
+   "name": "Sebastiaan Bornauw",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BE"
+  },
+  {
+   "n": 39,
+   "name": "Joel Agyekum",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Shafiq Nandja",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Mario Vušković",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HR"
+  },
+  {
+   "n": 4,
+   "name": "Bilal Nadir",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "MA"
+  },
+  {
+   "n": 5,
+   "name": "Martin Adeline",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 6,
+   "name": "Albert Sambi Lokonga",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BE"
+  },
+  {
+   "n": 10,
+   "name": "Immanuël Pherai",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SR"
+  },
+  {
+   "n": 11,
+   "name": "Albert Grønbæk",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DK"
+  },
+  {
+   "n": 18,
+   "name": "Bakery Jatta",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "GM"
+  },
+  {
+   "n": 20,
+   "name": "Fábio Vieira",
+   "pos": "MF",
+   "nat": "PT"
+  },
+  {
+   "n": 21,
+   "name": "Nicolai Remberg",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Kofi Amoako",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Miro Muheim",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "CH"
+  },
+  {
+   "n": 37,
+   "name": "Louis Lemke",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Mads Broecker",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Terem Moffi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NG"
+  },
+  {
+   "n": 15,
+   "name": "Yussuf Poulsen",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DK"
+  },
+  {
+   "n": 19,
+   "name": "Otto Stange",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Patson Daka",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ZM"
+  },
+  {
+   "n": 38,
+   "name": "Alexander Røssing",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NO"
+  },
+  {
+   "n": null,
+   "name": "Finn Barkowsky",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}

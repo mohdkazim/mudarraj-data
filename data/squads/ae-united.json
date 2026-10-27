@@ -1,0 +1,165 @@
+{
+ "team": "ae-united",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/1552577/squad/united-fc"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Salam Khairi",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Rashed Salem Maqdami",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 2,
+   "name": "Nagoro Brahima Dao",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BF"
+  },
+  {
+   "n": 3,
+   "name": "Othman Jamal",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "JO"
+  },
+  {
+   "n": 44,
+   "name": "Khalid Ali",
+   "pos": "DF",
+   "nat": "RU"
+  },
+  {
+   "n": 52,
+   "name": "Hussain Abbas",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AE"
+  },
+  {
+   "n": 66,
+   "name": "Kouame Kouadio",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 4,
+   "name": "Sultan Abu Daken",
+   "pos": "MF",
+   "nat": "RO"
+  },
+  {
+   "n": 5,
+   "name": "Aniss Karimi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "MA"
+  },
+  {
+   "n": 6,
+   "name": "Majid Surour",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AE"
+  },
+  {
+   "n": 22,
+   "name": "Mohammed Yousuf Ghulam",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 23,
+   "name": "Jonas Naafo",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AE"
+  },
+  {
+   "n": 25,
+   "name": "Moustapha Name",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SN"
+  },
+  {
+   "n": 77,
+   "name": "Bandar Al Ahbabi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AE"
+  },
+  {
+   "n": 78,
+   "name": "Khalil Ibrahim",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "AE"
+  },
+  {
+   "n": 88,
+   "name": "Habib Al Fardan",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 7,
+   "name": "Pape Bacary Guèye",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SN"
+  },
+  {
+   "n": 9,
+   "name": "Haris Seferović",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CH"
+  },
+  {
+   "n": 10,
+   "name": "Willy Semedo",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "CV"
+  },
+  {
+   "n": 17,
+   "name": "Dieu-Merci Michel",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CA"
+  },
+  {
+   "n": 30,
+   "name": "Adeel Al Chadli",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "YE"
+  },
+  {
+   "n": 49,
+   "name": "El Mehdi Maouhoub",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "MA"
+  },
+  {
+   "n": 80,
+   "name": "Shavy Babicka",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GA"
+  }
+ ]
+}

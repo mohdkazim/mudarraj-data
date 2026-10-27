@@ -1,0 +1,225 @@
+{
+ "team": "cy-pafos",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/2137/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Jay Gorter",
+   "pos": "GK",
+   "nat": "NL"
+  },
+  {
+   "n": 71,
+   "name": "Michalis Papastylianou",
+   "pos": "GK",
+   "nat": "CY"
+  },
+  {
+   "n": 82,
+   "name": "Petros Petrou",
+   "pos": "GK",
+   "nat": "CY"
+  },
+  {
+   "n": 99,
+   "name": "Charalampos Kyriakidis",
+   "pos": "GK",
+   "nat": "CY"
+  },
+  {
+   "n": 99,
+   "name": "Radosław Majecki",
+   "pos": "GK",
+   "nat": "PL"
+  },
+  {
+   "n": 2,
+   "name": "Yoram Zague",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FR"
+  },
+  {
+   "n": 3,
+   "name": "Samy Mmaee",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "MA"
+  },
+  {
+   "n": 4,
+   "name": "David Luiz",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 5,
+   "name": "David Goldar",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ES"
+  },
+  {
+   "n": 7,
+   "name": "Bruno Felipe",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BR"
+  },
+  {
+   "n": 14,
+   "name": "Nikolas Ioannou",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CY"
+  },
+  {
+   "n": 23,
+   "name": "Jonatás Noro",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 61,
+   "name": "Melinos Kais",
+   "pos": "DF",
+   "nat": "CY"
+  },
+  {
+   "n": 63,
+   "name": "Lucca Vetter Paulino",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 72,
+   "name": "Kosmas Ioannou",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CY"
+  },
+  {
+   "n": 6,
+   "name": "Guga",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PT"
+  },
+  {
+   "n": 8,
+   "name": "Quina",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "PT"
+  },
+  {
+   "n": 12,
+   "name": "Ken Sema",
+   "pos": "MF",
+   "nat": "SE"
+  },
+  {
+   "n": 26,
+   "name": "Ivan Šunjić",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BA"
+  },
+  {
+   "n": 30,
+   "name": "Vlad Dragomir",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "RO"
+  },
+  {
+   "n": 47,
+   "name": "Murad Mammadov",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "AZ"
+  },
+  {
+   "n": 50,
+   "name": "Alexandre Brito",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PT"
+  },
+  {
+   "n": 60,
+   "name": "Christos Efzona",
+   "pos": "MF",
+   "nat": "CY"
+  },
+  {
+   "n": 88,
+   "name": "Pêpê",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PT"
+  },
+  {
+   "n": null,
+   "name": "Andreas Christoforou",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CY"
+  },
+  {
+   "n": 11,
+   "name": "Jajá",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 13,
+   "name": "Nicolas Ngamaleu",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CM"
+  },
+  {
+   "n": 17,
+   "name": "Afonso Patrão",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PT"
+  },
+  {
+   "n": 18,
+   "name": "Lelê",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 20,
+   "name": "Biel",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 33,
+   "name": "Anderson Silva",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 77,
+   "name": "João Correia",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CV"
+  }
+ ]
+}

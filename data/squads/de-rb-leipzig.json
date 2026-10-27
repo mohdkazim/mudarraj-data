@@ -1,0 +1,209 @@
+{
+ "team": "de-rb-leipzig",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/178475/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Ørjan Håskjold Nyland",
+   "pos": "GK",
+   "nat": "NO"
+  },
+  {
+   "n": 25,
+   "name": "Leopold Zingerle",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Maarten Vandevoordt",
+   "pos": "GK",
+   "nat": "BE"
+  },
+  {
+   "n": 2,
+   "name": "Abdoul Koné",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 3,
+   "name": "Maxime Estève",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 4,
+   "name": "Willi Orbán",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HU"
+  },
+  {
+   "n": 16,
+   "name": "Lukas Klostermann",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Ridle Baku",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "David Raum",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Castello Lukeba",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 35,
+   "name": "Max Finkgräfe",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 39,
+   "name": "Benjamin Henrichs",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 47,
+   "name": "Viggo Gebel",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Ezechiel Banzuzi",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "CD"
+  },
+  {
+   "n": 8,
+   "name": "Assan Ouédraogo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 13,
+   "name": "Nicolas Seiwald",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AT"
+  },
+  {
+   "n": 14,
+   "name": "Christoph Baumgartner",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AT"
+  },
+  {
+   "n": 20,
+   "name": "Rocco Reitz",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Neil El Aynaoui",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "MA"
+  },
+  {
+   "n": 30,
+   "name": "Andrija Maksimović",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "RS"
+  },
+  {
+   "n": 37,
+   "name": "Benno Kaltefleiter",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Antonio Nusa",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "NO"
+  },
+  {
+   "n": 9,
+   "name": "Marc Guiu",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ES"
+  },
+  {
+   "n": 10,
+   "name": "Brajan Gruda",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Johan Bakayoko",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BE"
+  },
+  {
+   "n": 27,
+   "name": "Tidiam Gomis",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 28,
+   "name": "Christopher Nkunku",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 40,
+   "name": "Rômulo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 45,
+   "name": "Samba Konaté",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  }
+ ]
+}

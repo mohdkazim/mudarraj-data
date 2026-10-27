@@ -1,0 +1,179 @@
+{
+ "team": "de-vfb-stuttgart",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/10269/squad/VfB%20Stuttgart,teams"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Fabian Bredlow",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Marius Funk",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 41,
+   "name": "Dennis Seimen",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 46,
+   "name": "Stefan Drljača",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Ameen Al Dakhil",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BE"
+  },
+  {
+   "n": 3,
+   "name": "Ramon Hendriks",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 4,
+   "name": "Josha Vagnoman",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Maximilian Mittelstädt",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Luca Jaquez",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CH"
+  },
+  {
+   "n": 22,
+   "name": "Lorenz Assignon",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "FR"
+  },
+  {
+   "n": 23,
+   "name": "Dan-Axel Zagadou",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 24,
+   "name": "Jeff Chabot",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Finn Jeltsch",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Angelo Stiller",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Chris Führich",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Bilal El Khannouss",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "MA"
+  },
+  {
+   "n": 16,
+   "name": "Atakan Karazor",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "TR"
+  },
+  {
+   "n": 21,
+   "name": "Grischa Prömel",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 28,
+   "name": "Nikolas Nartey",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DK"
+  },
+  {
+   "n": 8,
+   "name": "Tiago Tomás",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "PT"
+  },
+  {
+   "n": 9,
+   "name": "Ermedin Demirović",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BA"
+  },
+  {
+   "n": 17,
+   "name": "Dženan Pejčinović",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Jamie Leweling",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Deniz Undav",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 44,
+   "name": "Leo Sauer",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "SK"
+  }
+ ]
+}

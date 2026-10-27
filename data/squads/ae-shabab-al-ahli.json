@@ -1,0 +1,233 @@
+{
+ "team": "ae-shabab-al-ahli",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/102119/squad/shabab-al-ahli-club"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Rakaan Al Menhali",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 17,
+   "name": "Khaled Al Senaani",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 22,
+   "name": "Hamad Al Meqbaali",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 30,
+   "name": "Matheus Donelli",
+   "pos": "GK",
+   "nat": "BR"
+  },
+  {
+   "n": 95,
+   "name": "Vuk Butulija",
+   "pos": "GK",
+   "nat": "RS"
+  },
+  {
+   "n": 3,
+   "name": "Igor Gomes",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 4,
+   "name": "Wout Faes",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BE"
+  },
+  {
+   "n": 13,
+   "name": "Renan",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 16,
+   "name": "Rikelme",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 23,
+   "name": "Mersad Seifi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "IR"
+  },
+  {
+   "n": 30,
+   "name": "Oumar Keita",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GN"
+  },
+  {
+   "n": 31,
+   "name": "Kauan Santos",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 44,
+   "name": "Jorge Fernandes",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PT"
+  },
+  {
+   "n": 75,
+   "name": "Mateus Henrique",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BR"
+  },
+  {
+   "n": 5,
+   "name": "Elián Irala",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AR"
+  },
+  {
+   "n": 6,
+   "name": "Saeid Ezatolahi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "IR"
+  },
+  {
+   "n": 14,
+   "name": "Damián García",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "UY"
+  },
+  {
+   "n": 26,
+   "name": "Eid Khamis",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 45,
+   "name": "Ghaith Al Lootah",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 57,
+   "name": "Yuri César",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AE"
+  },
+  {
+   "n": 80,
+   "name": "Breno Cascardo",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BR"
+  },
+  {
+   "n": 88,
+   "name": "Nemanja Maksimović",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "RS"
+  },
+  {
+   "n": 8,
+   "name": "Mohammad Juma",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "AE"
+  },
+  {
+   "n": 9,
+   "name": "Reza Ghandipour",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IR"
+  },
+  {
+   "n": 10,
+   "name": "Federico Cartabia",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "AR"
+  },
+  {
+   "n": 19,
+   "name": "Mateusão",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 20,
+   "name": "Sardar Azmoun",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "IR"
+  },
+  {
+   "n": 21,
+   "name": "Sultan Adil",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AE"
+  },
+  {
+   "n": 24,
+   "name": "Jahnoah Markelo",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SR"
+  },
+  {
+   "n": 55,
+   "name": "Juan Alvina",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BR"
+  },
+  {
+   "n": 70,
+   "name": "Thiago",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "BR"
+  },
+  {
+   "n": 77,
+   "name": "Guilherme Bala",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AE"
+  },
+  {
+   "n": 79,
+   "name": "João Marcelo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  }
+ ]
+}

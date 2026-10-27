@@ -1,0 +1,223 @@
+{
+ "team": "de-werder-bremen",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8697/squad/undefined"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Karl Hein",
+   "pos": "GK",
+   "nat": "EE"
+  },
+  {
+   "n": 25,
+   "name": "Markus Kolke",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Alexander Schlager",
+   "pos": "GK",
+   "nat": "AT"
+  },
+  {
+   "n": 2,
+   "name": "Olivier Deman",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BE"
+  },
+  {
+   "n": 3,
+   "name": "Oskar Wójcik",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PL"
+  },
+  {
+   "n": 4,
+   "name": "Niklas Stark",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 5,
+   "name": "Amos Pieper",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Mitchell Weiser",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Moussa N'Diaye",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SN"
+  },
+  {
+   "n": 32,
+   "name": "Marco Friedl",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 33,
+   "name": "Mick Schmetgens",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 35,
+   "name": "Luca Hoecker",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Mats Heitmann",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Jens Stage",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DK"
+  },
+  {
+   "n": 13,
+   "name": "Arthur",
+   "pos": "MF",
+   "nat": "BR"
+  },
+  {
+   "n": 14,
+   "name": "Senne Lynen",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BE"
+  },
+  {
+   "n": 15,
+   "name": "Ludovit Reis",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "NL"
+  },
+  {
+   "n": 18,
+   "name": "Eren Dinkçi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "TR"
+  },
+  {
+   "n": 20,
+   "name": "Chuki",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Dariusz Stalmach",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "PL"
+  },
+  {
+   "n": 27,
+   "name": "Felix Agu",
+   "pos": "MF",
+   "nat": "NG"
+  },
+  {
+   "n": 28,
+   "name": "Skelly Alvero",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "FR"
+  },
+  {
+   "n": 34,
+   "name": "Darwin Soylu",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": 44,
+   "name": "Youri Regeer",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "NL"
+  },
+  {
+   "n": 9,
+   "name": "Keke Topp",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Niclas Füllkrug",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Justin Njinmah",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Marco Grüll",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AT"
+  },
+  {
+   "n": 19,
+   "name": "Kenny Quetant",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 26,
+   "name": "Cedric Itten",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CH"
+  },
+  {
+   "n": 29,
+   "name": "Salim Musah",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 38,
+   "name": "Paul Erevbenagie",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "team": "ae-al-wahda",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/102122/squad/-",
+  "https://www.365scores.com/ar/football/team/wahda-abu-dhabi-8350/squad"
+ ],
+ "players": [
+  {
+   "n": 16,
+   "name": "Prince Hally",
+   "pos": "GK",
+   "nat": "SN"
+  },
+  {
+   "n": 23,
+   "name": "Facundo Insfrán",
+   "ar": "فاكوندو إنسفران",
+   "pos": "GK",
+   "nat": "PY"
+  },
+  {
+   "n": 26,
+   "name": "Hazaa Ammar",
+   "ar": "هزاع عمار",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 36,
+   "name": "Zayed Ahmed",
+   "ar": "زايد أحمد الحمادي",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 40,
+   "name": "Abdullrahman Al Ameri",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 2,
+   "name": "Mansour Saleh",
+   "ar": "منصور صالح المنهالي",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 3,
+   "name": "Lucas Pimenta",
+   "ar": "لوكاس بيمينتا",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 4,
+   "name": "Lautaro Montenegro",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AR"
+  },
+  {
+   "n": 5,
+   "name": "Ala Zouhir",
+   "ar": "علاء الدين زهير",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 13,
+   "name": "Haza Shehab",
+   "ar": "هزاع شهاب",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 18,
+   "name": "Obaid Ahmed",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 21,
+   "name": "Khaled Al Jaberi",
+   "ar": "خالد الجابري",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 22,
+   "name": "Renné Rivas",
+   "ar": "ريني ريفاس",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "VE"
+  },
+  {
+   "n": 30,
+   "name": "Favour Ogbu",
+   "ar": "فافور أوغبو",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NG"
+  },
+  {
+   "n": 32,
+   "name": "Guga",
+   "ar": "غونثالو دي أوليفيرا",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "PT"
+  },
+  {
+   "n": 44,
+   "name": "Moussa Diarra",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "ML"
+  },
+  {
+   "n": 64,
+   "name": "Rashed Issam",
+   "ar": "راشد عصام اشتى",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 92,
+   "name": "Zayid Sultan",
+   "ar": "زايد سلطان",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": null,
+   "name": "Amanallah Mjahed",
+   "pos": "DF",
+   "nat": "TN"
+  },
+  {
+   "n": 6,
+   "name": "Mohammad Ghorbani",
+   "ar": "محمد قربانی",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IR"
+  },
+  {
+   "n": 7,
+   "name": "Caio Canedo",
+   "ar": "كايو كانيدو",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "AE"
+  },
+  {
+   "n": 8,
+   "name": "Adam Gnezda Čerin",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SI"
+  },
+  {
+   "n": 12,
+   "name": "Abdulla Hamad",
+   "ar": "عبدالله حمد المنهالي",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 15,
+   "name": "Mobin Dehghan",
+   "ar": "مبين دهقان",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IR"
+  },
+  {
+   "n": 25,
+   "name": "Jadsom",
+   "ar": "جادسوم دا سيلفا",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "BR"
+  },
+  {
+   "n": 66,
+   "name": "Gastón Álvarez Suárez",
+   "ar": "جاستون سواريز",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AE"
+  },
+  {
+   "n": 80,
+   "name": "Abdulqader Abdullah",
+   "ar": "عبد القادر عبد الله",
+   "pos": "MF",
+   "nat": "YE"
+  },
+  {
+   "n": 89,
+   "name": "Saif Jafleh",
+   "pos": "MF",
+   "nat": "SY"
+  },
+  {
+   "n": null,
+   "name": "Mohammad Rasoul",
+   "pos": "MF",
+   "nat": "IR"
+  },
+  {
+   "n": 11,
+   "name": "Facundo Kruspzky",
+   "ar": "فاكوندو كروسبزكي",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AR"
+  },
+  {
+   "n": 19,
+   "name": "Asher Agbinone",
+   "ar": "آشر أغبينوني",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 20,
+   "name": "Christian Benteke",
+   "ar": "كريستيان بنتيكي",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BE"
+  },
+  {
+   "n": 33,
+   "name": "Yassan Al Dubai",
+   "pos": "FW",
+   "nat": "AE"
+  },
+  {
+   "n": 38,
+   "name": "Arnau Pradas",
+   "ar": "أرناو براداس",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ES"
+  },
+  {
+   "n": 70,
+   "name": "Omar Khrbin",
+   "ar": "عمر خربين",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SY"
+  },
+  {
+   "n": 77,
+   "name": "Yassin Mohamed",
+   "pos": "FW",
+   "nat": "EG"
+  },
+  {
+   "n": 94,
+   "name": "Brahima Diarra",
+   "ar": "براهيما ديارا",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "ML"
+  },
+  {
+   "n": 96,
+   "name": "Maid Al Gheilani",
+   "ar": "مايد أحمد الجيلاني",
+   "pos": "FW",
+   "nat": "AE"
+  }
+ ]
+}

@@ -1,0 +1,214 @@
+{
+ "team": "au-newcastle-jets",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/id/teams/6454/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "James Delianov",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": 20,
+   "name": "Alex Nassiep",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": 40,
+   "name": "Jordan Baylis",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": 2,
+   "name": "Alex Grant",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AU"
+  },
+  {
+   "n": 5,
+   "name": "Joe Shaughnessy",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "IE"
+  },
+  {
+   "n": 16,
+   "name": "Will Kennedy",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AU"
+  },
+  {
+   "n": 22,
+   "name": "Joel Bertolissio",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AU"
+  },
+  {
+   "n": 23,
+   "name": "Daniel Wilmering",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AU"
+  },
+  {
+   "n": 34,
+   "name": "Angus Reid",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AU"
+  },
+  {
+   "n": 39,
+   "name": "Thomas Aquilina",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AU"
+  },
+  {
+   "n": 42,
+   "name": "Max Cooper",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AU"
+  },
+  {
+   "n": 65,
+   "name": "Kaiden Walshe",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": 6,
+   "name": "Zane Schreiber",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AU"
+  },
+  {
+   "n": 10,
+   "name": "Zach Clough",
+   "pos": "MF",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 11,
+   "name": "Joe Lolley",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 14,
+   "name": "Max Burgess",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AU"
+  },
+  {
+   "n": 17,
+   "name": "Ethan Debono",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "MT"
+  },
+  {
+   "n": 19,
+   "name": "Alex Badolato",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AU"
+  },
+  {
+   "n": 24,
+   "name": "Alex Nunes",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AU"
+  },
+  {
+   "n": 25,
+   "name": "Oscar Fryer",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": 27,
+   "name": "Julian Recchia",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AU"
+  },
+  {
+   "n": 28,
+   "name": "Will Dobson",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "AU"
+  },
+  {
+   "n": 52,
+   "name": "Nicholas Badolato",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": 8,
+   "name": "Patrick Wood",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AU"
+  },
+  {
+   "n": 9,
+   "name": "Nikos Vergos",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GR"
+  },
+  {
+   "n": 26,
+   "name": "Oscar Gonzalez",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": 29,
+   "name": "Jake Goodwin",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": 37,
+   "name": "Oliver Cockle",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": 43,
+   "name": "Xavier Bertoncello",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AU"
+  },
+  {
+   "n": 63,
+   "name": "Callan Prestwidge",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": 64,
+   "name": "Jesse Hill",
+   "pos": "FW",
+   "nat": "AU"
+  }
+ ]
+}

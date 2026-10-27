@@ -1,0 +1,224 @@
+{
+ "team": "sa-al-diriyah",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/id/teams/1787233/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 22,
+   "name": "Nikola Vasilj",
+   "pos": "GK",
+   "nat": "BA"
+  },
+  {
+   "n": 33,
+   "name": "Waleed Abdullah",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 34,
+   "name": "Mansour Al Sibyani",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 97,
+   "name": "Amin Al Bukhari",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Muteb Sharahili",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 2,
+   "name": "Abdulaziz Al Faraj",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 4,
+   "name": "Saeed Al Rubaie",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 12,
+   "name": "Taher Wadi",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 16,
+   "name": "Hussain Al Sibyani",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 19,
+   "name": "Berat Djimsiti",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AL"
+  },
+  {
+   "n": 20,
+   "name": "Abdulelah Al Jaaferi",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 21,
+   "name": "Mohamed Hameran",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 24,
+   "name": "Fahad Al Obaid",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 78,
+   "name": "Khalid Al Asiri",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 87,
+   "name": "Qasem Lajami",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 99,
+   "name": "Chancel Mbemba",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CD"
+  },
+  {
+   "n": 5,
+   "name": "Idrissa Gueye",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SN"
+  },
+  {
+   "n": 6,
+   "name": "Sultan Farhan",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 8,
+   "name": "Ziyad Al Qahtani",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 11,
+   "name": "Hattan Bahbri",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 14,
+   "name": "Óscar Rodríguez",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 20,
+   "name": "Enzo Millot",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 25,
+   "name": "Lovro Chelfi",
+   "pos": "MF",
+   "nat": "HR"
+  },
+  {
+   "n": 52,
+   "name": "Hussain Al Qahtani",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 88,
+   "name": "Abdulelah Al Malki",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mathys de Carvalho",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PT"
+  },
+  {
+   "n": 9,
+   "name": "Gaëtan Laborde",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 10,
+   "name": "Adil Boulbina",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DZ"
+  },
+  {
+   "n": 17,
+   "name": "Clayton Diandy",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SN"
+  },
+  {
+   "n": 29,
+   "name": "Darwin Núñez",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "UY"
+  },
+  {
+   "n": 32,
+   "name": "Abdullah Al Zaid",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 75,
+   "name": "Meshari Al Nemer",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  }
+ ]
+}

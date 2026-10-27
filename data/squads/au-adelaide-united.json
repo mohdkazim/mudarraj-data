@@ -1,0 +1,208 @@
+{
+ "team": "au-adelaide-united",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/it/teams/8008/squad/android-app:"
+ ],
+ "players": [
+  {
+   "n": 13,
+   "name": "Max Vartuli",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": 22,
+   "name": "Joshua Smits",
+   "pos": "GK",
+   "nat": "NL"
+  },
+  {
+   "n": 40,
+   "name": "Ethan Cox",
+   "pos": "GK",
+   "nat": "AU"
+  },
+  {
+   "n": 3,
+   "name": "Bart Vriends",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "NL"
+  },
+  {
+   "n": 4,
+   "name": "Panagiotis Kikianis",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AU"
+  },
+  {
+   "n": 7,
+   "name": "Ryan Kitto",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AU"
+  },
+  {
+   "n": 14,
+   "name": "Jay Barnett",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AU"
+  },
+  {
+   "n": 15,
+   "name": "Israel Mbula-Monga",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": 20,
+   "name": "Dylan Pierias",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AU"
+  },
+  {
+   "n": 52,
+   "name": "Sotirios Phillis",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AU"
+  },
+  {
+   "n": 62,
+   "name": "Fabian Talladira",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "AU"
+  },
+  {
+   "n": 71,
+   "name": "Vinko Stanisic",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AU"
+  },
+  {
+   "n": 78,
+   "name": "Malual Nichola",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": 79,
+   "name": "Feyzo Kasumovic",
+   "pos": "DF",
+   "nat": "AU"
+  },
+  {
+   "n": 10,
+   "name": "Juan Muñiz",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 23,
+   "name": "Luke Đuzel",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AU"
+  },
+  {
+   "n": 44,
+   "name": "Ryan White",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AU"
+  },
+  {
+   "n": 55,
+   "name": "Ethan Alagich",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AU"
+  },
+  {
+   "n": 65,
+   "name": "Joey Garuccio",
+   "pos": "MF",
+   "nat": "AU"
+  },
+  {
+   "n": 11,
+   "name": "Craig Goodwin",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": 12,
+   "name": "Jonny Yull",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AU"
+  },
+  {
+   "n": 17,
+   "name": "Ben Folami",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "AU"
+  },
+  {
+   "n": 18,
+   "name": "Jake Najdovski",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AU"
+  },
+  {
+   "n": 19,
+   "name": "Amlani Tatu",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": 21,
+   "name": "Jacob Brazete",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": 27,
+   "name": "Mitchell Smith",
+   "pos": "FW",
+   "nat": "AU"
+  },
+  {
+   "n": 35,
+   "name": "Brody Burkitt",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AU"
+  },
+  {
+   "n": 58,
+   "name": "Harry Crawford",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "AU"
+  },
+  {
+   "n": 87,
+   "name": "Anselmo",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 99,
+   "name": "Ajak Riak",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SS"
+  }
+ ]
+}

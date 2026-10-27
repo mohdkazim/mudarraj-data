@@ -1,0 +1,222 @@
+{
+ "team": "ae-sharjah",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/102124/squad/sharjah-cultural-club"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Khaled Tawhid",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 17,
+   "name": "Mayed Muhsin",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 40,
+   "name": "Adel Al Hosani",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 53,
+   "name": "Abdalla Zaal",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 95,
+   "name": "Hamdan Al Hammadi",
+   "pos": "GK",
+   "nat": "AE"
+  },
+  {
+   "n": 3,
+   "name": "Abdel Karim Shehata",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "EG"
+  },
+  {
+   "n": 4,
+   "name": "Shaheen Abdalla",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 5,
+   "name": "Maro Katinić",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "HR"
+  },
+  {
+   "n": 15,
+   "name": "Fahd Jassim",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AE"
+  },
+  {
+   "n": 19,
+   "name": "Khaled Ebraheim",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "AE"
+  },
+  {
+   "n": 23,
+   "name": "Diney Borges",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CV"
+  },
+  {
+   "n": 29,
+   "name": "David Gondim",
+   "pos": "DF",
+   "nat": "BR"
+  },
+  {
+   "n": 33,
+   "name": "Vladimir Prijović",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "RS"
+  },
+  {
+   "n": 51,
+   "name": "Nawaf Jasim",
+   "pos": "DF",
+   "nat": "AE"
+  },
+  {
+   "n": 66,
+   "name": "Leandrinho",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 6,
+   "name": "Charles Pickel",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "CD"
+  },
+  {
+   "n": 8,
+   "name": "Agner",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Igor Caique Coronado",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "IT"
+  },
+  {
+   "n": 11,
+   "name": "Luanzinho",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 14,
+   "name": "Saif Al Kaabi",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 20,
+   "name": "Julimar",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": 57,
+   "name": "Lorran",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": 60,
+   "name": "Arshia Sarshogh",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "IR"
+  },
+  {
+   "n": 66,
+   "name": "Mohamed Al Ali",
+   "pos": "MF",
+   "nat": "AE"
+  },
+  {
+   "n": 74,
+   "name": "Léo Azevedo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 88,
+   "name": "Majed Hassan",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "AE"
+  },
+  {
+   "n": 7,
+   "name": "Caio Lucas",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AE"
+  },
+  {
+   "n": 9,
+   "name": "Kodjo Laba",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "TG"
+  },
+  {
+   "n": 30,
+   "name": "Ousmane Camara",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AE"
+  },
+  {
+   "n": 34,
+   "name": "Harib Abdalla",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "AE"
+  },
+  {
+   "n": 98,
+   "name": "Cheickna Doumbia",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "ML"
+  },
+  {
+   "n": 99,
+   "name": "Sultan Al Saadi",
+   "pos": "FW",
+   "nat": "AE"
+  }
+ ]
+}

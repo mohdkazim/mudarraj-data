@@ -1,0 +1,214 @@
+{
+ "team": "sa-abha",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/es/teams/150414/squad/abha"
+ ],
+ "players": [
+  {
+   "n": 16,
+   "name": "Donovan Léon",
+   "pos": "GK"
+  },
+  {
+   "n": 21,
+   "name": "Abdulrahman Al Bouq",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 26,
+   "name": "Mustafa Malayekah",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 3,
+   "name": "Juriën Gaari",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CW"
+  },
+  {
+   "n": 12,
+   "name": "Khaled Al Shamrani",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 17,
+   "name": "Moayad Mohammed",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 19,
+   "name": "Abdullah Al Fahad",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 22,
+   "name": "Abdou Diallo",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SN"
+  },
+  {
+   "n": 23,
+   "name": "Mohammed Al Dossary",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 37,
+   "name": "Abdulbasit Hindi",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 39,
+   "name": "Mohammed Al Zaid",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 66,
+   "name": "Nawaf Al Ghulaimish",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 4,
+   "name": "Basil Al Sayyali",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "Faisal Al Subiani",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 7,
+   "name": "Feras Al Ghamdi",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 8,
+   "name": "Nasser Al Daajani",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "SA"
+  },
+  {
+   "n": 10,
+   "name": "Nabil Fekir",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FR"
+  },
+  {
+   "n": 17,
+   "name": "Abdulkarim Darisi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 18,
+   "name": "Mohammed Al Hamsal",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 29,
+   "name": "Majed Dawran",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 32,
+   "name": "Loreintz Rosier",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "FR"
+  },
+  {
+   "n": 80,
+   "name": "Safwan Al Johani",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 95,
+   "name": "Mubarak",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Amar Al Yuhaybi",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": null,
+   "name": "Mateo Borrell",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "AR"
+  },
+  {
+   "n": 9,
+   "name": "Kamil Boumedmed",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "FR"
+  },
+  {
+   "n": 11,
+   "name": "Alimami Gory",
+   "pos": "FW",
+   "nat": "ML"
+  },
+  {
+   "n": 14,
+   "name": "Georges-Kévin N'Koudou",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "CM"
+  },
+  {
+   "n": 20,
+   "name": "Keshim Al Qahtani",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SA"
+  },
+  {
+   "n": 28,
+   "name": "Bader Al Mutairi",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "SA"
+  },
+  {
+   "n": 44,
+   "name": "Michy Batshuayi",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BE"
+  }
+ ]
+}

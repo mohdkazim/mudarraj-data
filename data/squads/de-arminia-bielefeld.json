@@ -1,0 +1,215 @@
+{
+ "team": "de-arminia-bielefeld",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/ja/teams/9912/squad/arminia-bielefeld"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Jonas Thomas Kersken",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 18,
+   "name": "Leo Oppermann",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 41,
+   "name": "Artem Zaloha",
+   "pos": "GK",
+   "nat": "UA"
+  },
+  {
+   "n": 47,
+   "name": "Philip Hildesheim",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Felix Hagmann",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Joel Felix",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DK"
+  },
+  {
+   "n": 5,
+   "name": "Maximilian Bauer",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Henri Koudossou",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "TG"
+  },
+  {
+   "n": 17,
+   "name": "Arne Sicker",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Maximilian Großer",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Leon Schneider",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Benjamin Boakye",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Tim Handwerker",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 36,
+   "name": "Justin Lukas",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": null,
+   "name": "Gerrit Gohlke",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Marvin Mehlem",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Sam Schreck",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Jannik Rochelt",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 13,
+   "name": "Lukas Kunze",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Stefano Russo",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Leon Jensen",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 38,
+   "name": "Marius Wörl",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 42,
+   "name": "Till Wegener",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 44,
+   "name": "Eyyüb Yaşar",
+   "pos": "MF",
+   "nat": "TR"
+  },
+  {
+   "n": 46,
+   "name": "Semih Sarli",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "David Min",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "NL"
+  },
+  {
+   "n": 11,
+   "name": "Joel Grodowski",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Monju Momuluh",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Isaiah Young",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "US"
+  },
+  {
+   "n": 33,
+   "name": "Monti Theiß",
+   "pos": "FW",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Daniel Richter",
+   "pos": "FW",
+   "nat": "DE"
+  }
+ ]
+}

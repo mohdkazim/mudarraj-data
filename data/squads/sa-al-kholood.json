@@ -1,0 +1,208 @@
+{
+ "team": "sa-al-kholood",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/id/teams/1523706/squad/al-kholood"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Hamed Al Shanqiti",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 30,
+   "name": "Mohammed Al Shammari",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 34,
+   "name": "Fares Al-Zahrani",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 48,
+   "name": "Muhannad Al Yahya",
+   "pos": "GK",
+   "nat": "SA"
+  },
+  {
+   "n": 5,
+   "name": "Edgaras Utkus",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "LT"
+  },
+  {
+   "n": 7,
+   "name": "Sultan Al Shehri",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "SA"
+  },
+  {
+   "n": 15,
+   "name": "Ramzi Solan",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 23,
+   "name": "Yazan Madani",
+   "pos": "DF",
+   "nat": "SA"
+  },
+  {
+   "n": 24,
+   "name": "Odai Slimani",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "SA"
+  },
+  {
+   "n": 25,
+   "name": "Mansour Camara",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "GN"
+  },
+  {
+   "n": 38,
+   "name": "Shaquille Pinas",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SR"
+  },
+  {
+   "n": 47,
+   "name": "Abdulrahman Al Obaid",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "SA"
+  },
+  {
+   "n": 6,
+   "name": "John Buckley",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 8,
+   "name": "Seydouba Cissé",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "GN"
+  },
+  {
+   "n": 10,
+   "name": "Iker Kortajarena",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "ES"
+  },
+  {
+   "n": 14,
+   "name": "Ibrahem Barabaa",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 17,
+   "name": "Adam Berry",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "GB-ENG"
+  },
+  {
+   "n": 26,
+   "name": "Yaseen Al Zubaidi",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "SA"
+  },
+  {
+   "n": 39,
+   "name": "Abdulrahman Al Dosari",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "SA"
+  },
+  {
+   "n": 52,
+   "name": "Rakan bin Jaman",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 55,
+   "name": "Yousef Al Honaifesh",
+   "pos": "MF",
+   "nat": "SA"
+  },
+  {
+   "n": 67,
+   "name": "Mohammed Al Rashdi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "SA"
+  },
+  {
+   "n": 11,
+   "name": "Coba da Costa",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "GW"
+  },
+  {
+   "n": 18,
+   "name": "Ramiro Enrique",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "AR"
+  },
+  {
+   "n": 22,
+   "name": "Julien Domingues",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  },
+  {
+   "n": 27,
+   "name": "Abdullah Al Ajyan",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 47,
+   "name": "Abdulmalik Al Harbi",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 70,
+   "name": "Muhammad Sawaan",
+   "pos": "FW",
+   "nat": "SA"
+  },
+  {
+   "n": 77,
+   "name": "Antoin Essomba",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "CM"
+  },
+  {
+   "n": 99,
+   "name": "Guga",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  }
+ ]
+}

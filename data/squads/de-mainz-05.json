@@ -1,0 +1,212 @@
+{
+ "team": "de-mainz-05",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/9905/squad/players"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Alexander Schwolow",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Robin Zentner",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 40,
+   "name": "Maximilian Kinzig",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Fabio Gruber",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PE"
+  },
+  {
+   "n": 4,
+   "name": "Stefan Posch",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 15,
+   "name": "Lennard Maloney",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "US"
+  },
+  {
+   "n": 16,
+   "name": "Stefan Bell",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Danny da Costa",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 31,
+   "name": "Dominik Kohr",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 47,
+   "name": "Rael Nakuzola",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 48,
+   "name": "Kacper Potulski",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "PL"
+  },
+  {
+   "n": null,
+   "name": "Daniel Imafidon",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Phillipp Mwene",
+   "pos": "MF",
+   "role": "LM",
+   "nat": "AT"
+  },
+  {
+   "n": 5,
+   "name": "Eric Martel",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Kaishu Sano",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "JP"
+  },
+  {
+   "n": 7,
+   "name": "Jae-Sung Lee",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "KR"
+  },
+  {
+   "n": 8,
+   "name": "Paul Nebel",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Nadiem Amiri",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Anthony Caci",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "FR"
+  },
+  {
+   "n": 20,
+   "name": "Otto Ruoppi",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "FI"
+  },
+  {
+   "n": 24,
+   "name": "Sota Kawasaki",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "JP"
+  },
+  {
+   "n": 30,
+   "name": "Silvan Widmer",
+   "pos": "MF",
+   "role": "RM",
+   "nat": "CH"
+  },
+  {
+   "n": null,
+   "name": "Jeremiah Debrah",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Phillip Tietz",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 11,
+   "name": "Ransford Königsdörffer",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "GH"
+  },
+  {
+   "n": 17,
+   "name": "Benedict Hollerbach",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 23,
+   "name": "Sheraldo Becker",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "SR"
+  },
+  {
+   "n": 26,
+   "name": "Silas Katompa Mvumpa",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "CD"
+  },
+  {
+   "n": 39,
+   "name": "Alynho Haidara",
+   "pos": "FW",
+   "nat": "CI"
+  },
+  {
+   "n": null,
+   "name": "Fabio Moreno Fell",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  }
+ ]
+}

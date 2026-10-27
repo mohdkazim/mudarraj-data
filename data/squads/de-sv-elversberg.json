@@ -1,0 +1,192 @@
+{
+ "team": "de-sv-elversberg",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8232/squad"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Frank Lehmann",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 12,
+   "name": "Elias Etringer",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Nicolas Kristof",
+   "pos": "GK",
+   "nat": "AT"
+  },
+  {
+   "n": 28,
+   "name": "Tim Boss",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 2,
+   "name": "Nicholas Mickelson",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "TH"
+  },
+  {
+   "n": 3,
+   "name": "Florian Le Joncour",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "FR"
+  },
+  {
+   "n": 4,
+   "name": "Luis Seifert",
+   "pos": "DF",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Lukas Pinckert",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Lasse Günther",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 26,
+   "name": "Luca Sirch",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Jan Gyamerah",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "GH"
+  },
+  {
+   "n": 31,
+   "name": "Maximilian Rohr",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Felix Keidel",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 6,
+   "name": "Amara Condé",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Łukasz Poręba",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "PL"
+  },
+  {
+   "n": 15,
+   "name": "Raif Adam",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Frederik Schmahl",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 40,
+   "name": "Francis Onyeka",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Maurice Krattenmacher",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Noel Futkeu",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 10,
+   "name": "Noah Darvich",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 16,
+   "name": "Luca Pfeiffer",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Luca Schnellbacher",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 25,
+   "name": "Lukas Petkov",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BG"
+  },
+  {
+   "n": 29,
+   "name": "Tom Zimmerschied",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 39,
+   "name": "Cole Campbell",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "US"
+  },
+  {
+   "n": 42,
+   "name": "David Mokwa",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "FR"
+  }
+ ]
+}

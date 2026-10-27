@@ -1,0 +1,193 @@
+{
+ "team": "de-sc-freiburg",
+ "checked": "2026-10-27",
+ "sources": [
+  "https://www.fotmob.com/teams/8358/squad/freiburg"
+ ],
+ "players": [
+  {
+   "n": 1,
+   "name": "Mio Backhaus",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 21,
+   "name": "Florian Müller",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 24,
+   "name": "Jannik Huth",
+   "pos": "GK",
+   "nat": "DE"
+  },
+  {
+   "n": 3,
+   "name": "Philipp Lienhart",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "AT"
+  },
+  {
+   "n": 5,
+   "name": "Anthony Jung",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 17,
+   "name": "Lukas Kübler",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 27,
+   "name": "Berkay Yılmaz",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "TR"
+  },
+  {
+   "n": 28,
+   "name": "Matthias Ginter",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 29,
+   "name": "Philipp Treu",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "DE"
+  },
+  {
+   "n": 30,
+   "name": "Christian Günter",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "DE"
+  },
+  {
+   "n": 33,
+   "name": "Jordy Makengo",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "CD"
+  },
+  {
+   "n": 37,
+   "name": "Max Rosenfelder",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "DE"
+  },
+  {
+   "n": 43,
+   "name": "Bruno Ogbus",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "CH"
+  },
+  {
+   "n": 6,
+   "name": "Patrick Osterhage",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 8,
+   "name": "Maximilian Eggestein",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 14,
+   "name": "Yuito Suzuki",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "JP"
+  },
+  {
+   "n": 16,
+   "name": "Yannik Engelhardt",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "DE"
+  },
+  {
+   "n": 20,
+   "name": "Rihito Yamamoto",
+   "pos": "MF",
+   "role": "DM",
+   "nat": "JP"
+  },
+  {
+   "n": 23,
+   "name": "Florent Muslija",
+   "pos": "MF",
+   "nat": "XK"
+  },
+  {
+   "n": 39,
+   "name": "Rouven Tarnutzer",
+   "pos": "MF",
+   "nat": "DE"
+  },
+  {
+   "n": 7,
+   "name": "Derry Scherhant",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "DE"
+  },
+  {
+   "n": 9,
+   "name": "Lucas Höler",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "DE"
+  },
+  {
+   "n": 19,
+   "name": "Jan-Niklas Beste",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "DE"
+  },
+  {
+   "n": 22,
+   "name": "Cyriaque Irié",
+   "pos": "FW",
+   "role": "RW",
+   "nat": "BF"
+  },
+  {
+   "n": 31,
+   "name": "Igor Matanović",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "HR"
+  },
+  {
+   "n": 32,
+   "name": "Vincenzo Grifo",
+   "pos": "FW",
+   "role": "LW",
+   "nat": "IT"
+  },
+  {
+   "n": 42,
+   "name": "Keisuke Goto",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "JP"
+  }
+ ]
+}
