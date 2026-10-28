@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-28T14:39:54.406Z",
+ "generatedAt": "2026-10-28T15:38:27.242Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
@@ -56007,7 +56007,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 5
+    "away": 5,
+    "ht": [
+     0,
+     4
+    ]
    },
    "venue": {
     "name": {
@@ -56021,9 +56025,42 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/football/team/viettel-29873"
+    "https://www.365scores.com/football/team/viettel-29873",
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/fc-seoul-viettel-9820-29873-568#id=4818682"
    ],
    "updatedAt": "2026-10-28T14:39:54.286Z",
+   "goals": [
+    {
+     "minute": 8,
+     "side": "away",
+     "player": "Seon-min Moon",
+     "type": "goal"
+    },
+    {
+     "minute": 21,
+     "side": "away",
+     "player": "Anderson Oliveira",
+     "type": "goal"
+    },
+    {
+     "minute": 29,
+     "side": "away",
+     "player": "Do-yoon Hwang",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Young-wook Cho",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Leonardo Ruiz",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {

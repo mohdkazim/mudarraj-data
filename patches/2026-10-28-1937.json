@@ -1,0 +1,15 @@
+{
+  "run": "2026-10-28T15:37:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-ge-r03-vn-the-cong-viettel-kr-fc-seoul", "status": "FT", "score": [0, 5], "ht": [0, 4],
+      "goals": [
+        { "minute": 8, "side": "away", "player": "Seon-min Moon", "type": "goal" },
+        { "minute": 21, "side": "away", "player": "Anderson Oliveira", "type": "goal" },
+        { "minute": 29, "side": "away", "player": "Do-yoon Hwang", "type": "goal" },
+        { "minute": 34, "side": "away", "player": "Young-wook Cho", "type": "goal" },
+        { "minute": 54, "side": "away", "player": "Leonardo Ruiz", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/fc-seoul-viettel-9820-29873-568#id=4818682"] }
+  ],
+  "unconfirmed": []
+}
