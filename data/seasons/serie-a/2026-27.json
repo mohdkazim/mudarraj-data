@@ -4111,14 +4111,32 @@
    "away": "it-inter-milan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/28-152224660/l_inter_passa_a_venezia_ma_che_fatica_chivu_batte_nicola_con_due_autoreti_e_riaggancia_la_lazio_in_vetta",
+    "https://www.skysports.com/football/video/13605050/venezia-0-2-inter-milan-serie-a-highlights"
+   ],
+   "goals": [
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Moreno",
+     "type": "own-goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Halhal",
+     "type": "own-goal"
+    }
+   ],
+   "updatedAt": "2026-10-28T22:40:05.637Z"
   },
   {
    "id": "serie-a-2026-27-regular-r09-it-genoa-it-juventus",

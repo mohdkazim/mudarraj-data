@@ -1,0 +1,21 @@
+{
+  "run": "2026-10-28T22:36:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-ga-r03-uz-nasaf-kw-kuwait-sc", "status": "FT", "score": [0, 1], "ht": [0, 1],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-a-pfc-nasaf-uzb-0-1-kuwait-sc-kuw"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gb-r03-ir-gol-gohar-sirjan-tm-arkadag", "status": "FT", "score": [0, 0], "ht": [0, 0],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-b-golgohar-sirjan-sc-irn-0-0-fc-arkadag-tkm"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gc-r03-om-al-nahda-qa-al-rayyan", "status": "FT", "score": [1, 4],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-c-al-nahda-oma-1-4-al-rayyan-sc-qat"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gc-r03-jo-al-faisaly-sa-al-taawoun", "status": "FT", "score": [0, 2], "ht": [0, 0],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-c-al-faisaly-jor-0-2-al-taawoun-fc-ksa"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r09-it-venezia-it-inter-milan", "status": "FT", "score": [0, 2],
+      "goals": [
+        { "minute": 79, "side": "away", "player": "Moreno", "type": "own-goal" },
+        { "minute": 82, "side": "away", "player": "Halhal", "type": "own-goal" }
+      ],
+      "sources": ["https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/28-152224660/l_inter_passa_a_venezia_ma_che_fatica_chivu_batte_nicola_con_due_autoreti_e_riaggancia_la_lazio_in_vetta",
+                  "https://www.skysports.com/football/video/13605050/venezia-0-2-inter-milan-serie-a-highlights"] }
+  ],
+  "unconfirmed": []
+}

@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-28T21:49:42.652Z",
+ "generatedAt": "2026-10-28T22:40:05.866Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 722,
+  "results": 727,
   "pending": 1
  },
  "teams": [
@@ -56079,8 +56079,15 @@
    "away": "kw-kuwait-sc",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Markaziy Stadium",
@@ -56093,9 +56100,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-a-pfc-nasaf-uzb-0-1-kuwait-sc-kuw"
    ],
+   "updatedAt": "2026-10-28T22:40:05.637Z",
    "venueFrom": "home-ground"
   },
   {
@@ -56114,8 +56121,15 @@
    "away": "tm-arkadag",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Hisor Central Stadium",
@@ -56128,13 +56142,13 @@
    },
    "neutral": true,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-b-golgohar-sirjan-sc-irn-0-0-fc-arkadag-tkm"
    ],
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
     "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf"
-   ]
+   ],
+   "updatedAt": "2026-10-28T22:40:05.637Z"
   },
   {
    "competition": "acl2",
@@ -56233,8 +56247,11 @@
    "away": "qa-al-rayyan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
    "venue": {
     "name": {
      "en": "Sultan Qaboos Sports Complex",
@@ -56247,9 +56264,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-c-al-nahda-oma-1-4-al-rayyan-sc-qat"
    ],
+   "updatedAt": "2026-10-28T22:40:05.637Z",
    "venueFrom": "home-ground"
   },
   {
@@ -56532,8 +56549,11 @@
    "away": "it-inter-milan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Stadio Pier Luigi Penzo",
@@ -56546,9 +56566,24 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261028&limit=37"
+    "https://www.corrieredellosport.it/news/calcio/serie-a/2026/10/28-152224660/l_inter_passa_a_venezia_ma_che_fatica_chivu_batte_nicola_con_due_autoreti_e_riaggancia_la_lazio_in_vetta",
+    "https://www.skysports.com/football/video/13605050/venezia-0-2-inter-milan-serie-a-highlights"
    ],
+   "goals": [
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Moreno",
+     "type": "own-goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Halhal",
+     "type": "own-goal"
+    }
+   ],
+   "updatedAt": "2026-10-28T22:40:05.637Z",
    "venueFrom": "home-ground"
   },
   {
@@ -56606,8 +56641,15 @@
    "away": "sa-al-taawoun",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Amman International Stadium",
@@ -56620,9 +56662,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-c-al-faisaly-jor-0-2-al-taawoun-fc-ksa"
    ],
+   "updatedAt": "2026-10-28T22:40:05.637Z",
    "venueFrom": "home-ground"
   },
   {
