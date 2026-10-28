@@ -1,0 +1,16 @@
+{
+  "run": "2026-10-28T18:37:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-gb-r03-ae-al-jazira-bh-al-muharraq", "status": "FT", "score": [4,2], "ht": [0,2],
+      "goals": [
+        { "minute": 3, "side": "away", "player": "Abdulwahab Al-Malood", "type": "goal" },
+        { "minute": 33, "side": "away", "player": "Abdulwahab Al-Malood", "type": "goal" },
+        { "minute": 52, "side": "home", "player": "Malcolm de Oliveira", "type": "penalty" },
+        { "minute": 56, "side": "home", "player": "Malcolm de Oliveira", "type": "goal" },
+        { "minute": 68, "side": "home", "player": "Bruno de Oliveira", "type": "goal" },
+        { "minute": 72, "side": "home", "player": "Malcolm de Oliveira", "type": "goal" }
+      ],
+      "sources": ["https://www.emaratalyoum.com/sports/local/2026-10-28-1.2097075", "https://www.albayan.ae/sports/uae-stadiums/1561270"] }
+  ],
+  "unconfirmed": []
+}

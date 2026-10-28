@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-28T15:38:27.242Z",
+ "generatedAt": "2026-10-28T18:39:27.442Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 716,
+  "results": 717,
   "pending": 1
  },
  "teams": [
@@ -56152,8 +56152,15 @@
    "away": "bh-al-muharraq",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": {
     "name": {
      "en": "Mohammed bin Zayed Stadium",
@@ -56166,9 +56173,48 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.emaratalyoum.com/sports/local/2026-10-28-1.2097075",
+    "https://www.albayan.ae/sports/uae-stadiums/1561270"
    ],
+   "goals": [
+    {
+     "minute": 3,
+     "side": "away",
+     "player": "Abdulwahab Al-Malood",
+     "type": "goal"
+    },
+    {
+     "minute": 33,
+     "side": "away",
+     "player": "Abdulwahab Al-Malood",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "Malcolm de Oliveira",
+     "type": "penalty"
+    },
+    {
+     "minute": 56,
+     "side": "home",
+     "player": "Malcolm de Oliveira",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Bruno de Oliveira",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Malcolm de Oliveira",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-28T18:39:27.161Z",
    "venueFrom": "home-ground"
   },
   {
