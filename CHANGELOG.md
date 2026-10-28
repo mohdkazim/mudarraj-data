@@ -3812,3 +3812,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-28 (2026-10-28T18:37:00Z)
 - 1 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acl2-2026-27-groups-gb-r03-ae-al-jazira-bh-al-muharraq 4-2 FT
+
+## 2026-10-29 (2026-10-28T20:36:00Z)
+- 1 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acl2-2026-27-groups-ga-r03-bh-al-khaldiya-ae-al-wahda 1-2 FT

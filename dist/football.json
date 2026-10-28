@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-28T20:10:17.124Z",
+ "generatedAt": "2026-10-28T20:38:16.920Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 393,
+  "results": 394,
   "pending": 1
  },
  "teams": [
@@ -35952,8 +35952,11 @@
    "away": "ae-al-wahda",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Bahrain National Stadium",
@@ -35966,9 +35969,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.emaratalyoum.com/sports/local/2026-10-29-1.2097133",
+    "https://www.albayan.ae/sports/uae-stadiums/1561306"
    ],
+   "updatedAt": "2026-10-28T20:38:16.711Z",
    "venueFrom": "home-ground"
   },
   {

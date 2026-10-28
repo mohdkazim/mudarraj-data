@@ -1,0 +1,8 @@
+{
+  "run": "2026-10-28T20:36:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-ga-r03-bh-al-khaldiya-ae-al-wahda", "status": "FT", "score": [1, 2],
+      "sources": ["https://www.emaratalyoum.com/sports/local/2026-10-29-1.2097133", "https://www.albayan.ae/sports/uae-stadiums/1561306"] }
+  ],
+  "unconfirmed": []
+}

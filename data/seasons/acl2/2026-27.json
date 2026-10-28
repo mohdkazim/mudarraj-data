@@ -1804,14 +1804,18 @@
    "away": "ae-al-wahda",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
-   ]
+    "https://www.emaratalyoum.com/sports/local/2026-10-29-1.2097133",
+    "https://www.albayan.ae/sports/uae-stadiums/1561306"
+   ],
+   "updatedAt": "2026-10-28T20:38:16.711Z"
   },
   {
    "id": "acl2-2026-27-groups-gc-r03-jo-al-faisaly-sa-al-taawoun",
