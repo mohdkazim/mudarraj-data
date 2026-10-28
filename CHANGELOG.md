@@ -3795,3 +3795,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result serie-a-2026-27-regular-r09-it-sassuolo-it-lazio 2-6 FT
   - ✓ result serie-a-2026-27-regular-r09-it-roma-it-cagliari 4-2 FT
   - ✓ result acle-2026-27-league-west-gwest-r03-ae-shabab-al-ahli-ir-esteghlal added scorers to the confirmed result
+
+## 2026-10-28 (2026-10-28T12:52:46Z)
+- 1 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acle-2026-27-league-east-geast-r03-jp-kashima-antlers-kr-pohang-steelers 3-0 FT

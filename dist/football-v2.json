@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-28T01:49:41.465Z",
+ "generatedAt": "2026-10-28T12:52:47.014Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 713,
+  "results": 714,
   "pending": 1
  },
  "teams": [
@@ -55928,8 +55928,11 @@
    "away": "kr-pohang-steelers",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Kashima Soccer Stadium",
@@ -55942,9 +55945,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+    "https://www.365scores.com/football/team/pohang-steelers-9822"
    ],
+   "updatedAt": "2026-10-28T12:52:46.842Z",
    "venueFrom": "home-ground"
   },
   {

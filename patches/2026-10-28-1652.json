@@ -1,0 +1,8 @@
+{
+  "run": "2026-10-28T12:52:46Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r03-jp-kashima-antlers-kr-pohang-steelers", "status": "FT", "score": [3,0],
+      "sources": ["https://www.365scores.com/football/team/pohang-steelers-9822"] }
+  ],
+  "unconfirmed": []
+}
