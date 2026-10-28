@@ -1,0 +1,10 @@
+{
+  "run": "2026-10-28T14:38:28Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-ge-r03-id-persib-bandung-au-melbourne-victory", "status": "FT", "score": [2,0],
+      "sources": ["https://www.365scores.com/football/team/melbourne-victory-2202"] },
+    { "op": "result", "match": "acl2-2026-27-groups-ge-r03-vn-the-cong-viettel-kr-fc-seoul", "status": "FT", "score": [0,5],
+      "sources": ["https://www.365scores.com/football/team/viettel-29873"] }
+  ],
+  "unconfirmed": []
+}

@@ -3799,3 +3799,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-28 (2026-10-28T12:52:46Z)
 - 1 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acle-2026-27-league-east-geast-r03-jp-kashima-antlers-kr-pohang-steelers 3-0 FT
+
+## 2026-10-28 (2026-10-28T14:38:28Z)
+- 2 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acl2-2026-27-groups-ge-r03-id-persib-bandung-au-melbourne-victory 2-0 FT
+  - ✓ result acl2-2026-27-groups-ge-r03-vn-the-cong-viettel-kr-fc-seoul 0-5 FT

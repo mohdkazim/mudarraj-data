@@ -1564,14 +1564,17 @@
    "away": "au-melbourne-victory",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/team/melbourne-victory-2202"
+   ],
+   "updatedAt": "2026-10-28T14:39:54.286Z"
   },
   {
    "id": "acl2-2026-27-groups-ge-r03-vn-the-cong-viettel-kr-fc-seoul",
@@ -1587,14 +1590,17 @@
    "away": "kr-fc-seoul",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 5
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/team/viettel-29873"
+   ],
+   "updatedAt": "2026-10-28T14:39:54.286Z"
   },
   {
    "id": "acl2-2026-27-groups-ga-r03-uz-nasaf-kw-kuwait-sc",

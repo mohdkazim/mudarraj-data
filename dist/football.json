@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-28T12:52:47.014Z",
+ "generatedAt": "2026-10-28T14:39:54.406Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 390,
+  "results": 392,
   "pending": 1
  },
  "teams": [
@@ -35650,8 +35650,11 @@
    "away": "au-melbourne-victory",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Si Jalak Harupat Stadium",
@@ -35664,9 +35667,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.365scores.com/football/team/melbourne-victory-2202"
    ],
+   "updatedAt": "2026-10-28T14:39:54.286Z",
    "venueFrom": "home-ground"
   },
   {
@@ -35685,8 +35688,11 @@
    "away": "kr-fc-seoul",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 5
+   },
    "venue": {
     "name": {
      "en": "Hang Day Stadium",
@@ -35699,9 +35705,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.365scores.com/football/team/viettel-29873"
    ],
+   "updatedAt": "2026-10-28T14:39:54.286Z",
    "venueFrom": "home-ground"
   },
   {
