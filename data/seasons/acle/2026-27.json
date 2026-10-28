@@ -2055,7 +2055,21 @@
     "https://www.albayan.ae/sports/uae-stadiums/1560994",
     "https://www.emaratalyoum.com/sports/local/2026-10-27-1.2096706"
    ],
-   "updatedAt": "2026-10-27T18:37:04.567Z"
+   "updatedAt": "2026-10-27T18:37:04.567Z",
+   "goals": [
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Matheus Lima",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "home",
+     "player": "Juan Alvina Bezerra",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r03-qa-al-shamal-sa-al-hilal",

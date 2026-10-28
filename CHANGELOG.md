@@ -3789,3 +3789,9 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result dfb-pokal-2026-27-r2-de-sv-elversberg-de-darmstadt-98 0-2 FT
   - ✓ result acl2-2026-27-groups-gd-r03-om-al-seeb-in-east-bengal 0-0 FT
   - ✓ result acl2-2026-27-groups-gd-r03-iq-al-shorta-jo-al-hussein 1-1 FT
+
+## 2026-10-28 (2026-10-28T01:37:00Z)
+- 3 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result serie-a-2026-27-regular-r09-it-sassuolo-it-lazio 2-6 FT
+  - ✓ result serie-a-2026-27-regular-r09-it-roma-it-cagliari 4-2 FT
+  - ✓ result acle-2026-27-league-west-gwest-r03-ae-shabab-al-ahli-ir-esteghlal added scorers to the confirmed result

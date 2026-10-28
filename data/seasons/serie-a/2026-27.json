@@ -3988,14 +3988,18 @@
    "away": "it-lazio",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 6
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261027&limit=37"
-   ]
+    "https://www.arabnews.com/football/lazio-move-clear-at-the-top-in-6-2-win-over-10-man-sassuolo-3008601",
+    "https://corrieredellosport.it/news/calcio/serie-a/2026/10/27-152193226/sassuolo-lazio_diretta_serie_a_segui_la_sfida_tra_aquilani_e_gattuso_il_risultato_live"
+   ],
+   "updatedAt": "2026-10-28T01:49:41.143Z"
   },
   {
    "id": "serie-a-2026-27-regular-r09-it-roma-it-cagliari",
@@ -4011,14 +4015,18 @@
    "away": "it-cagliari",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261027&limit=37"
-   ]
+    "https://gulfnews.com/sport/football/roma-4-2-cagliari-late-flurry-lifts-giallorossi-into-third-1.500722591",
+    "https://www.skysports.com/roma-scores-fixtures"
+   ],
+   "updatedAt": "2026-10-28T01:49:41.143Z"
   },
   {
    "id": "serie-a-2026-27-regular-r09-it-torino-it-como",

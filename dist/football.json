@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-27T22:50:02.734Z",
+ "generatedAt": "2026-10-28T01:49:41.465Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
@@ -35408,6 +35408,20 @@
     "https://www.emaratalyoum.com/sports/local/2026-10-27-1.2096706"
    ],
    "updatedAt": "2026-10-27T18:37:04.567Z",
+   "goals": [
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Matheus Lima",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "home",
+     "player": "Juan Alvina Bezerra",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
