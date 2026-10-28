@@ -1,0 +1,28 @@
+{
+  "run": "2026-10-28T21:36:00Z",
+  "changes": [
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-dynamo-dresden-de-schalke-04", "status": "FT", "score": [2, 0], "ht": [0, 0],
+      "goals": [
+        { "minute": 53, "side": "home", "player": "Patrice Covic", "type": "goal" },
+        { "minute": 88, "side": "home", "player": "Daferner", "type": "goal" }
+      ], "sources": ["https://www.dfb.de/news/dresden-stun-schalke-to-reach-dfb-pokal-round-of-16"] },
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-sc-freiburg-de-vfl-wolfsburg", "status": "FT", "score": [3, 2], "ht": [1, 2],
+      "goals": [
+        { "minute": 6, "side": "home", "player": "Igor Matanovic", "type": "goal" },
+        { "minute": 8, "side": "away", "player": "Kento Shiogai", "type": "goal" },
+        { "minute": 43, "side": "away", "player": "Kento Shiogai", "type": "goal" },
+        { "minute": 76, "side": "home", "player": "Keisuke Goto", "type": "goal" },
+        { "minute": 90, "extra": 2, "side": "home", "player": "Keisuke Goto", "type": "goal" }
+      ], "sources": ["https://www.dfb.de/news/dresden-stun-schalke-to-reach-dfb-pokal-round-of-16"] },
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-sc-paderborn-de-vfb-stuttgart", "status": "FT", "score": [0, 1],
+      "goals": [
+        { "minute": 90, "extra": 1, "side": "away", "player": "Deniz Undav", "type": "goal" }
+      ], "sources": ["https://www.dfb.de/news/dresden-stun-schalke-to-reach-dfb-pokal-round-of-16"] },
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-ssv-jeddeloh-ii-de-hertha-berlin", "status": "FT", "score": [0, 2], "ht": [0, 0],
+      "goals": [
+        { "minute": 57, "side": "away", "player": "Josip Brekalo", "type": "goal" },
+        { "minute": 63, "side": "away", "player": "Julian Eitschberger", "type": "goal" }
+      ], "sources": ["https://www.dfb.de/news/dresden-stun-schalke-to-reach-dfb-pokal-round-of-16"] }
+  ],
+  "unconfirmed": []
+}

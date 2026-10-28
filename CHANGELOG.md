@@ -3816,3 +3816,10 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-29 (2026-10-28T20:36:00Z)
 - 1 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acl2-2026-27-groups-ga-r03-bh-al-khaldiya-ae-al-wahda 1-2 FT
+
+## 2026-10-29 (2026-10-28T21:36:00Z)
+- 4 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result dfb-pokal-2026-27-r2-de-dynamo-dresden-de-schalke-04 2-0 FT
+  - ✓ result dfb-pokal-2026-27-r2-de-sc-freiburg-de-vfl-wolfsburg 3-2 FT
+  - ✓ result dfb-pokal-2026-27-r2-de-sc-paderborn-de-vfb-stuttgart 0-1 FT
+  - ✓ result dfb-pokal-2026-27-r2-de-ssv-jeddeloh-ii-de-hertha-berlin 0-2 FT

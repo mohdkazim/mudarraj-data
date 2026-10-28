@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-28T20:38:16.920Z",
+ "generatedAt": "2026-10-28T21:49:42.652Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 718,
+  "results": 722,
   "pending": 1
  },
  "teams": [
@@ -56268,14 +56268,35 @@
    "away": "de-schalke-04",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://www.dfb.de/news/dresden-stun-schalke-to-reach-dfb-pokal-round-of-16"
+   ],
+   "goals": [
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Patrice Covic",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Daferner",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-28T21:49:42.431Z"
   },
   {
    "competition": "dfb-pokal",
@@ -56293,14 +56314,54 @@
    "away": "de-vfl-wolfsburg",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2,
+    "ht": [
+     1,
+     2
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://www.dfb.de/news/dresden-stun-schalke-to-reach-dfb-pokal-round-of-16"
+   ],
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "Igor Matanovic",
+     "type": "goal"
+    },
+    {
+     "minute": 8,
+     "side": "away",
+     "player": "Kento Shiogai",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Kento Shiogai",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "Keisuke Goto",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "home",
+     "player": "Keisuke Goto",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-28T21:49:42.431Z"
   },
   {
    "competition": "dfb-pokal",
@@ -56318,14 +56379,26 @@
    "away": "de-vfb-stuttgart",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://www.dfb.de/news/dresden-stun-schalke-to-reach-dfb-pokal-round-of-16"
+   ],
+   "goals": [
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "away",
+     "player": "Deniz Undav",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-28T21:49:42.431Z"
   },
   {
    "competition": "dfb-pokal",
@@ -56343,14 +56416,35 @@
    "away": "de-hertha-berlin",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://www.dfb.de/news/dresden-stun-schalke-to-reach-dfb-pokal-round-of-16"
+   ],
+   "goals": [
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Josip Brekalo",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "away",
+     "player": "Julian Eitschberger",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-28T21:49:42.431Z"
   },
   {
    "competition": "serie-a",
