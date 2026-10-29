@@ -3855,3 +3855,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result acl2-2026-27-groups-gf-r03-hk-tai-po-th-bg-pathum-united 0-3 FT
   - ✓ result acl2-2026-27-groups-gg-r03-cn-shanghai-shenhua-jp-machida-zelvia 0-1 FT
   - ✓ result acl2-2026-27-groups-gh-r03-kh-phnom-penh-crown-hk-kitchee 2-0 FT
+
+## 2026-10-29 (2026-10-29T16:00:00Z)
+- 1 change(s) applied, 0 rejected, 4 waiting for a second source
+  - ✓ result acl2-2026-27-groups-gg-r03-sg-tampines-rovers-kh-pkr-svay-rieng added scorers to the confirmed result

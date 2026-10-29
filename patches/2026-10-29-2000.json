@@ -1,0 +1,16 @@
+{
+  "run": "2026-10-29T16:00:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-gg-r03-sg-tampines-rovers-kh-pkr-svay-rieng", "status": "FT", "score": [1,5], "ht": [0,4],
+      "goals": [
+        { "minute": 9,  "side": "away", "player": "Martins Júnior", "type": "goal" },
+        { "minute": 15, "side": "away", "player": "Tiago Alves", "type": "goal" },
+        { "minute": 24, "side": "away", "player": "Tiago Alves", "type": "goal" },
+        { "minute": 42, "side": "away", "player": "Kwame Peprah", "type": "goal" },
+        { "minute": 69, "side": "away", "player": "Ofufu Ibeh", "type": "goal" },
+        { "minute": 90, "side": "home", "player": "Raoul Suhaimi", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/football/match/afc-champions-league-two-568/svay-rieng-tampines-rovers-2369-20457-568#id=4818656"] }
+  ],
+  "unconfirmed": []
+}

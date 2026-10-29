@@ -1935,9 +1935,48 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/svay-rieng-tampines-rovers-2369-20457-568#id=4818674"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/svay-rieng-tampines-rovers-2369-20457-568#id=4818674",
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/svay-rieng-tampines-rovers-2369-20457-568#id=4818656"
    ],
-   "updatedAt": "2026-10-29T14:59:37.126Z"
+   "updatedAt": "2026-10-29T14:59:37.126Z",
+   "goals": [
+    {
+     "minute": 9,
+     "side": "away",
+     "player": "Martins Júnior",
+     "type": "goal"
+    },
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "Tiago Alves",
+     "type": "goal"
+    },
+    {
+     "minute": 24,
+     "side": "away",
+     "player": "Tiago Alves",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "away",
+     "player": "Kwame Peprah",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Ofufu Ibeh",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Raoul Suhaimi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acl2-2026-27-groups-gh-r03-kr-gangwon-fc-my-kuching-city",
