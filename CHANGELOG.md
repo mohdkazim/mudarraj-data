@@ -3864,3 +3864,6 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 4 waiting for a second source
   - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-khaleej-sa-al-hazem 4-2 FT
   - ✓ status uae-pro-league-2026-27-regular-r07-ae-al-ain-ae-ajman PST
+
+## 2026-10-30 (2026-10-29T21:35:00Z)
+- 0 change(s) applied, 0 rejected, 7 waiting for a second source

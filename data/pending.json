@@ -30,5 +30,29 @@
    "https://datencenter.dfb.de/matches/bayer-leverkusen-1-fc-nuernberg-2430553/liveticker?datacenter_name=datencenter"
   ],
   "seen": "2026-10-29T02:30:00Z"
+ },
+ {
+  "match": "saudi-pro-league-2026-27-regular-r12-sa-al-nassr-sa-al-kholood",
+  "claim": "5-3",
+  "sources": [
+   "https://www.arabnews.com/saudi-pro-league/ronaldos-15-minute-hat-trick-the-difference-as-al-nassr-beat-stubborn-al-kholood-3008914"
+  ],
+  "seen": "2026-10-29T21:35:00Z"
+ },
+ {
+  "match": "saudi-pro-league-2026-27-regular-r12-sa-al-riyadh-sa-al-qadsiah",
+  "claim": "0-6",
+  "sources": [
+   "https://www.arabnews.com/saudi-pro-league/ronaldos-15-minute-hat-trick-the-difference-as-al-nassr-beat-stubborn-al-kholood-3008914"
+  ],
+  "seen": "2026-10-29T21:35:00Z"
+ },
+ {
+  "match": "serie-a-2026-27-regular-r09-it-frosinone-it-lecce",
+  "claim": "5-1",
+  "sources": [
+   "https://www.skysports.com/serie-a-scores-fixtures"
+  ],
+  "seen": "2026-10-29T21:35:00Z"
  }
 ]
