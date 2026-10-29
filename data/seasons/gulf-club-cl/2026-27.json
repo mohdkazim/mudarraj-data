@@ -356,14 +356,21 @@
    "away": "sa-neom",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.omanobserver.om/article/1197885/sports/football/al-duhail-blank-al-shabab-in-gulf-opener",
-    "https://www.okaz.com.sa/sport/na/2272615"
-   ]
+    "https://www.365scores.com/en-us/football/match/gulf-club-champions-league-8400/al-shabab-neom-sc-12185-55793-8400"
+   ],
+   "updatedAt": "2026-10-29T01:59:39.404Z"
   },
   {
    "id": "gulf-club-cl-2026-27-groups-gb-r02-bh-al-riffa-qa-qatar-sc",

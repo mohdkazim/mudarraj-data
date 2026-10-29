@@ -2207,9 +2207,24 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de/matches/borussia-moenchengladbach-karlsruher-sc-2430551/liveticker"
+    "https://datencenter.dfb.de/matches/borussia-moenchengladbach-karlsruher-sc-2430551/liveticker",
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/2-runde/borussia-moenchengladbach-karlsruher-sc-2430551"
    ],
-   "updatedAt": "2026-10-27T22:50:02.557Z"
+   "updatedAt": "2026-10-27T22:50:02.557Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Robin Hack",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "Lukas Ullrich",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "dfb-pokal-2026-27-r2-de-fc-koln-de-union-berlin",
@@ -2299,9 +2314,24 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de/matches/sv-elversberg-sv-darmstadt-98-2430557/liveticker"
+    "https://datencenter.dfb.de/matches/sv-elversberg-sv-darmstadt-98-2430557/liveticker",
+    "https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/2-runde/sv-elversberg-sv-darmstadt-98-2430557"
    ],
-   "updatedAt": "2026-10-27T22:50:02.557Z"
+   "updatedAt": "2026-10-27T22:50:02.557Z",
+   "goals": [
+    {
+     "minute": 6,
+     "side": "away",
+     "player": "Lars Kehl",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "away",
+     "player": "Milan Smit",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "dfb-pokal-2026-27-r2-de-dynamo-dresden-de-schalke-04",
@@ -2526,14 +2556,21 @@
    "away": "de-fc-magdeburg",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 6,
+    "away": 1,
+    "ht": [
+     2,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://datencenter.dfb.de/matches/fc-bayern-muenchen-1-fc-magdeburg-2430558/liveticker"
+   ],
+   "updatedAt": "2026-10-29T01:59:39.404Z"
   },
   {
    "id": "dfb-pokal-2026-27-r2-de-hannover-96-de-kaiserslautern",
@@ -2549,14 +2586,21 @@
    "away": "de-kaiserslautern",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://datencenter.dfb.de/matches/hannover-96-1-fc-kaiserslautern-2430554/liveticker"
+   ],
+   "updatedAt": "2026-10-29T01:59:39.404Z"
   },
   {
    "id": "dfb-pokal-2026-27-r2-de-holstein-kiel-de-tsg-hoffenheim",

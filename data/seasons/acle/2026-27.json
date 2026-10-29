@@ -2112,14 +2112,17 @@
    "away": "th-buriram-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-gamba-osaka-jpn-1-1-buriram-united-tha"
+   ],
+   "updatedAt": "2026-10-29T01:59:39.404Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r03-jp-kashima-antlers-kr-pohang-steelers",

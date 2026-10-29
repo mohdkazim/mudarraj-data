@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-28T22:40:05.866Z",
+ "generatedAt": "2026-10-29T01:59:39.699Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 398,
-  "pending": 1
+  "results": 400,
+  "pending": 4
  },
  "teams": [
   {
@@ -35440,8 +35440,15 @@
    "away": "sa-neom",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Al Rustaq Sports Complex",
@@ -35454,9 +35461,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.omanobserver.om/article/1197885/sports/football/al-duhail-blank-al-shabab-in-gulf-opener",
-    "https://www.okaz.com.sa/sport/na/2272615"
+    "https://www.365scores.com/en-us/football/match/gulf-club-champions-league-8400/al-shabab-neom-sc-12185-55793-8400"
    ],
+   "updatedAt": "2026-10-29T01:59:39.404Z",
    "venueFrom": "home-ground"
   },
   {
@@ -35577,8 +35584,11 @@
    "away": "th-buriram-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Panasonic Stadium Suita",
@@ -35591,9 +35601,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261028",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=3&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-gamba-osaka-jpn-1-1-buriram-united-tha"
    ],
+   "updatedAt": "2026-10-29T01:59:39.404Z",
    "venueFrom": "home-ground"
   },
   {

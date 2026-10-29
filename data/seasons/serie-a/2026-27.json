@@ -3991,15 +3991,71 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 6
+    "away": 6,
+    "ht": [
+     2,
+     4
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.arabnews.com/football/lazio-move-clear-at-the-top-in-6-2-win-over-10-man-sassuolo-3008601",
-    "https://corrieredellosport.it/news/calcio/serie-a/2026/10/27-152193226/sassuolo-lazio_diretta_serie_a_segui_la_sfida_tra_aquilani_e_gattuso_il_risultato_live"
+    "https://corrieredellosport.it/news/calcio/serie-a/2026/10/27-152193226/sassuolo-lazio_diretta_serie_a_segui_la_sfida_tra_aquilani_e_gattuso_il_risultato_live",
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/lazio-sassuolo-236-266-17#id=4732653"
    ],
-   "updatedAt": "2026-10-28T01:49:41.143Z"
+   "updatedAt": "2026-10-28T01:49:41.143Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "away",
+     "player": "Kenneth Taylor",
+     "type": "goal"
+    },
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Kristian Thorstvedt",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Gustav Isaksen",
+     "type": "goal"
+    },
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "Romano Floriani",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Sebastiano Esposito",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "away",
+     "player": "Mattia Zaccagni",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Tijjani Noslin",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Tijjani Noslin",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "serie-a-2026-27-regular-r09-it-roma-it-cagliari",
@@ -4042,14 +4098,22 @@
    "away": "it-como",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261027&limit=37"
-   ]
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/como-torino-235-6117-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
+   ],
+   "updatedAt": "2026-10-29T01:59:39.404Z"
   },
   {
    "id": "serie-a-2026-27-regular-r09-it-ac-milan-it-bologna",
@@ -4152,14 +4216,36 @@
    "away": "it-juventus",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/genoa-juventus-226-231-17#id=4732658",
+    "https://www.skysports.com/serie-a-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Kingsley Ehizibue",
+     "type": "goal"
+    },
+    {
+     "minute": 28,
+     "side": "home",
+     "player": "Tommaso Baldanzi",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-29T01:59:39.404Z"
   },
   {
    "id": "serie-a-2026-27-regular-r09-it-monza-it-napoli",
