@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-29T01:59:39.699Z",
+ "generatedAt": "2026-10-29T12:47:16.772Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 733,
-  "pending": 4
+  "results": 734,
+  "pending": 5
  },
  "teams": [
   {
@@ -56993,8 +56993,15 @@
    "away": "sg-lion-city-sailors",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Coopers Stadium",
@@ -57007,9 +57014,24 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/adelaide-united-fc-lion-city-2200-67508-568#id=4818675"
    ],
+   "goals": [
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Hugo Gomes",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 4,
+     "side": "away",
+     "player": "Lennart Thy",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-29T12:47:16.576Z",
    "venueFrom": "home-ground"
   },
   {

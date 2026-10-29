@@ -3843,3 +3843,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result dfb-pokal-2026-27-r2-de-borussia-monchengladbach-de-karlsruher-sc added scorers to the confirmed result
   - ✓ result dfb-pokal-2026-27-r2-de-sv-elversberg-de-darmstadt-98 added scorers to the confirmed result
   - ✓ result serie-a-2026-27-regular-r09-it-sassuolo-it-lazio added half-time and scorers to the confirmed result
+
+## 2026-10-29 (2026-10-29T12:35:00Z)
+- 1 change(s) applied, 0 rejected, 5 waiting for a second source
+  - ✓ result acl2-2026-27-groups-gf-r03-au-adelaide-united-sg-lion-city-sailors 0-2 FT

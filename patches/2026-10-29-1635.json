@@ -1,0 +1,15 @@
+{
+  "run": "2026-10-29T12:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-gf-r03-au-adelaide-united-sg-lion-city-sailors", "status": "FT", "score": [0, 2], "ht": [0, 0],
+      "goals": [
+        { "minute": 80, "side": "away", "player": "Hugo Gomes", "type": "goal" },
+        { "minute": 90, "extra": 4, "side": "away", "player": "Lennart Thy", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/adelaide-united-fc-lion-city-2200-67508-568#id=4818675"] }
+  ],
+  "unconfirmed": [
+    { "match": "acl2-2026-27-groups-gg-r03-sg-tampines-rovers-kh-pkr-svay-rieng", "claim": "1-5",
+      "sources": ["https://www.365scores.com/football/match/afc-champions-league-two-568/svay-rieng-tampines-rovers-2369-20457-568#id=4818656"] }
+  ]
+}
