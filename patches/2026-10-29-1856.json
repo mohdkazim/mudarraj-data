@@ -1,0 +1,31 @@
+{
+  "run": "2026-10-29T14:56:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-gg-r03-sg-tampines-rovers-kh-pkr-svay-rieng", "status": "FT", "score": [1, 5], "ht": [0, 4],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/svay-rieng-tampines-rovers-2369-20457-568#id=4818674"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gh-r03-kr-gangwon-fc-my-kuching-city", "status": "FT", "score": [1, 0], "ht": [1, 0],
+      "goals": [
+        { "minute": 28, "side": "home", "player": "Byeong-chan Choe", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/gangwon-fc-kuching-city-fc-9825-51307-568#id=4818673"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gf-r03-hk-tai-po-th-bg-pathum-united", "status": "FT", "score": [0, 3], "ht": [0, 3],
+      "goals": [
+        { "minute": 27, "side": "away", "player": "Anthony Belmonte", "type": "goal" },
+        { "minute": 32, "side": "away", "player": "Hugo Rama", "type": "goal" },
+        { "minute": 42, "side": "away", "player": "Ratthasat Buaban", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/bg-pathum-united-tai-po-fc-7767-16976-568#id=4818672"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gg-r03-cn-shanghai-shenhua-jp-machida-zelvia", "status": "FT", "score": [0, 1], "ht": [0, 1],
+      "goals": [
+        { "minute": 28, "side": "away", "player": "Ryohei Shirasaki", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/machida-zelvia-shanghai-shenhua-2179-9133-568#id=4818671"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gh-r03-kh-phnom-penh-crown-hk-kitchee", "status": "FT", "score": [2, 0], "ht": [0, 0],
+      "goals": [
+        { "minute": 90, "side": "home", "player": "Sa Ty", "type": "goal" },
+        { "minute": 90, "extra": 3, "side": "home", "player": "Daniel Bareš", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/kitchee-phnom-penh-crown-8521-46828-568#id=4818670"] }
+  ],
+  "unconfirmed": []
+}

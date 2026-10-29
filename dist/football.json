@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-29T12:47:16.772Z",
+ "generatedAt": "2026-10-29T14:59:37.415Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 401,
-  "pending": 5
+  "results": 406,
+  "pending": 4
  },
  "teams": [
   {
@@ -36117,8 +36117,15 @@
    "away": "kh-pkr-svay-rieng",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 5,
+    "ht": [
+     0,
+     4
+    ]
+   },
    "venue": {
     "name": {
      "en": "Jalan Besar Stadium",
@@ -36131,9 +36138,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/svay-rieng-tampines-rovers-2369-20457-568#id=4818674"
    ],
+   "updatedAt": "2026-10-29T14:59:37.126Z",
    "venueFrom": "home-ground"
   },
   {
@@ -36152,8 +36159,15 @@
    "away": "my-kuching-city",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Gangneung Stadium",
@@ -36166,9 +36180,17 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/gangwon-fc-kuching-city-fc-9825-51307-568#id=4818673"
    ],
+   "goals": [
+    {
+     "minute": 28,
+     "side": "home",
+     "player": "Byeong-chan Choe",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-29T14:59:37.126Z",
    "venueFrom": "home-ground"
   },
   {
@@ -36187,8 +36209,15 @@
    "away": "th-bg-pathum-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3,
+    "ht": [
+     0,
+     3
+    ]
+   },
    "venue": {
     "name": {
      "en": "Mong Kok Stadium",
@@ -36201,9 +36230,29 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/bg-pathum-united-tai-po-fc-7767-16976-568#id=4818672"
    ],
+   "goals": [
+    {
+     "minute": 27,
+     "side": "away",
+     "player": "Anthony Belmonte",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "Hugo Rama",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "away",
+     "player": "Ratthasat Buaban",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-29T14:59:37.126Z",
    "venueFrom": "home-ground"
   },
   {
@@ -36222,8 +36271,15 @@
    "away": "jp-machida-zelvia",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Shanghai Stadium",
@@ -36236,9 +36292,17 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/machida-zelvia-shanghai-shenhua-2179-9133-568#id=4818671"
    ],
+   "goals": [
+    {
+     "minute": 28,
+     "side": "away",
+     "player": "Ryohei Shirasaki",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-29T14:59:37.126Z",
    "venueFrom": "home-ground"
   },
   {
@@ -36257,8 +36321,15 @@
    "away": "hk-kitchee",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Morodok Techo National Stadium",
@@ -36271,9 +36342,24 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261029",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=3&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/kitchee-phnom-penh-crown-8521-46828-568#id=4818670"
    ],
+   "goals": [
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Sa Ty",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 3,
+     "side": "home",
+     "player": "Daniel Bareš",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-29T14:59:37.126Z",
    "venueFrom": "home-ground"
   },
   {
