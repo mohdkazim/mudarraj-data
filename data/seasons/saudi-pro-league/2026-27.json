@@ -4492,14 +4492,21 @@
    "away": "sa-al-hazem",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 2,
+    "ht": [
+     1,
+     2
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261029&lang=en&region=us",
-    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
-   ]
+    "https://www.365scores.com/en-uk/football/match/saudi-league-649/al-hazm-al-khaleej-club-12138-14895-649"
+   ],
+   "updatedAt": "2026-10-29T16:39:34.245Z"
   },
   {
    "id": "saudi-pro-league-2026-27-regular-r12-sa-al-nassr-sa-al-kholood",

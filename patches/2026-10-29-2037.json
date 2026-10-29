@@ -1,0 +1,10 @@
+{
+  "run": "2026-10-29T16:37:00Z",
+  "changes": [
+    { "op": "result", "match": "saudi-pro-league-2026-27-regular-r12-sa-al-khaleej-sa-al-hazem", "status": "FT", "score": [4,2], "ht": [1,2],
+      "sources": ["https://www.365scores.com/en-uk/football/match/saudi-league-649/al-hazm-al-khaleej-club-12138-14895-649"] },
+    { "op": "status", "match": "uae-pro-league-2026-27-regular-r07-ae-al-ain-ae-ajman", "status": "PST",
+      "sources": ["https://www.365scores.com/en-uk/football/match/uae-pro-league-549/ajman-club-al-ain-8353-8652-549#id=4866922"] }
+  ],
+  "unconfirmed": []
+}

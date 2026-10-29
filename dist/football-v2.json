@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-29T15:59:59.254Z",
+ "generatedAt": "2026-10-29T16:39:34.551Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 739,
+  "results": 740,
   "pending": 4
  },
  "teams": [
@@ -57350,7 +57350,7 @@
    "away": "ae-ajman",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -57365,7 +57365,8 @@
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f69-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=7&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=7&s=2026-2027",
+    "https://www.365scores.com/en-uk/football/match/uae-pro-league-549/ajman-club-al-ain-8353-8652-549#id=4866922"
    ],
    "venueFrom": "home-ground"
   },
@@ -57385,8 +57386,15 @@
    "away": "sa-al-hazem",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 2,
+    "ht": [
+     1,
+     2
+    ]
+   },
    "venue": {
     "name": {
      "en": "Prince Mohammed bin Fahd Stadium",
@@ -57399,9 +57407,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261029&lang=en&region=us",
-    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+    "https://www.365scores.com/en-uk/football/match/saudi-league-649/al-hazm-al-khaleej-club-12138-14895-649"
    ],
+   "updatedAt": "2026-10-29T16:39:34.245Z",
    "venueFrom": "home-ground"
   },
   {

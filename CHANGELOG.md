@@ -3859,3 +3859,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-29 (2026-10-29T16:00:00Z)
 - 1 change(s) applied, 0 rejected, 4 waiting for a second source
   - ✓ result acl2-2026-27-groups-gg-r03-sg-tampines-rovers-kh-pkr-svay-rieng added scorers to the confirmed result
+
+## 2026-10-29 (2026-10-29T16:37:00Z)
+- 2 change(s) applied, 0 rejected, 4 waiting for a second source
+  - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-khaleej-sa-al-hazem 4-2 FT
+  - ✓ status uae-pro-league-2026-27-regular-r07-ae-al-ain-ae-ajman PST

@@ -2283,13 +2283,14 @@
    "away": "ae-ajman",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f69-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=7&s=2026-2027"
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=7&s=2026-2027",
+    "https://www.365scores.com/en-uk/football/match/uae-pro-league-549/ajman-club-al-ain-8353-8652-549#id=4866922"
    ]
   },
   {
