@@ -1,0 +1,15 @@
+{
+  "run": "2026-10-30T22:36:00Z",
+  "changes": [
+    { "op": "result", "match": "bundesliga-2026-27-regular-r08-de-sv-elversberg-de-mainz-05", "status": "FT", "score": [4,1], "ht": [3,0],
+      "goals": [
+        { "minute": 7, "side": "home", "player": "Felix Keidel", "type": "goal" },
+        { "minute": 26, "side": "home", "player": "Francis Onyeka", "type": "goal" },
+        { "minute": 45, "extra": 1, "side": "home", "player": "Maurice Krattenmacher", "type": "goal" },
+        { "minute": 90, "extra": 1, "side": "home", "player": "Cole Campbell", "type": "goal" },
+        { "minute": 90, "extra": 2, "side": "away", "player": "Benedict Hollerbach", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/elversberg-mainz-match-report-highlights-matchday-8-campbell-keidel-39785"] }
+  ],
+  "unconfirmed": []
+}

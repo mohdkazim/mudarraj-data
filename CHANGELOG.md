@@ -3879,3 +3879,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result acle-2026-27-league-east-geast-r03-kr-daejeon-hana-citizen-jp-vissel-kobe added half-time and scorers to the confirmed result
   - ✓ result acl2-2026-27-groups-ga-r03-uz-nasaf-kw-kuwait-sc added scorers to the confirmed result
   - ✓ result dfb-pokal-2026-27-r2-de-hannover-96-de-kaiserslautern added scorers to the confirmed result
+
+## 2026-10-31 (2026-10-30T22:36:00Z)
+- 1 change(s) applied, 0 rejected, 3 waiting for a second source
+  - ✓ result bundesliga-2026-27-regular-r08-de-sv-elversberg-de-mainz-05 4-1 FT

@@ -3518,14 +3518,56 @@
    "away": "de-mainz-05",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1,
+    "ht": [
+     3,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261030&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/elversberg-mainz-match-report-highlights-matchday-8-campbell-keidel-39785"
+   ],
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Felix Keidel",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Francis Onyeka",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "home",
+     "player": "Maurice Krattenmacher",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "home",
+     "player": "Cole Campbell",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "away",
+     "player": "Benedict Hollerbach",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-30T22:37:52.657Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r08-de-bayer-leverkusen-de-vfb-stuttgart",
