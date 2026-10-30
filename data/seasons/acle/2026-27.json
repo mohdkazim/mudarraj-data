@@ -1861,14 +1861,51 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 3
+    "away": 3,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-shanghai-port-fc-chn-2-3-cong-an-ha-noi-fc-vie"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-shanghai-port-fc-chn-2-3-cong-an-ha-noi-fc-vie",
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/cong-an-ha-noi-shanghai-port-10300-72909-623"
    ],
-   "updatedAt": "2026-10-27T12:59:26.664Z"
+   "updatedAt": "2026-10-27T12:59:26.664Z",
+   "goals": [
+    {
+     "minute": 35,
+     "side": "away",
+     "player": "Brayan Perea",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "home",
+     "player": "Prince Ampem",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Léo Artur",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Miguel Campos",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Brayan Perea",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r03-jp-kyoto-sanga-au-newcastle-jets",
@@ -1913,14 +1950,27 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-daejeon-hana-citizen-fc-kor-0-1-vissel-kobe-jpn"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-daejeon-hana-citizen-fc-kor-0-1-vissel-kobe-jpn",
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/daejeon-citizen-vissel-kobe-2151-9816-623"
    ],
-   "updatedAt": "2026-10-27T12:59:26.664Z"
+   "updatedAt": "2026-10-27T12:59:26.664Z",
+   "goals": [
+    {
+     "minute": 83,
+     "side": "away",
+     "player": "Ren Komatsu",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r03-my-johor-darul-ta-zim-th-port-fc",

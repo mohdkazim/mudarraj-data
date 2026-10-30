@@ -1,0 +1,42 @@
+{
+  "run": "2026-10-30T01:48:00Z",
+  "changes": [
+    { "op": "result", "match": "serie-a-2026-27-regular-r09-it-ac-milan-it-bologna", "status": "FT", "score": [2,4],
+      "sources": ["https://www.365scores.com/football/match/serie-a-17/frosinone-lecce-246-254-17", "https://www.skysports.com/serie-a-scores-fixtures"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r09-it-monza-it-napoli", "status": "FT", "score": [1,4],
+      "sources": ["https://www.365scores.com/football/match/serie-a-17/frosinone-lecce-246-254-17", "https://www.skysports.com/serie-a-scores-fixtures"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r09-it-parma-it-udinese", "status": "FT", "score": [0,0], "goals": [],
+      "sources": ["https://www.365scores.com/football/match/serie-a-17/frosinone-lecce-246-254-17", "https://www.skysports.com/serie-a-scores-fixtures"] },
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-bayer-leverkusen-de-fc-nurnberg", "status": "FT", "score": [5,2],
+      "sources": ["https://datencenter.dfb.de/en/competitions/dfb-pokal/seasons/2026-27", "https://datencenter.dfb.de/matches/bayer-leverkusen-1-fc-nuernberg-2430553/liveticker?datacenter_name=datencenter"] },
+    { "op": "result", "match": "gulf-club-cl-2026-27-groups-gb-r02-bh-al-riffa-qa-qatar-sc", "status": "FT", "score": [4,1], "ht": [2,1],
+      "sources": ["https://thepeninsulaqatar.com/article/28/10/2026/gccl-al-riffa-hand-qatar-sc-heavy-defeat", "https://www.gdnonline.com/Details/1411060/Saeed-hits-brace-to-fuel-Riffa-win"] },
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r03-cn-shanghai-port-vn-cong-an-ha-noi", "status": "FT", "score": [2,3], "ht": [1,1],
+      "goals": [
+        { "minute": 35, "side": "away", "player": "Brayan Perea", "type": "goal" },
+        { "minute": 44, "side": "home", "player": "Prince Ampem", "type": "goal" },
+        { "minute": 49, "side": "away", "player": "Léo Artur", "type": "goal" },
+        { "minute": 60, "side": "home", "player": "Miguel Campos", "type": "goal" },
+        { "minute": 69, "side": "away", "player": "Brayan Perea", "type": "goal" } ],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/cong-an-ha-noi-shanghai-port-10300-72909-623"] },
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r03-kr-daejeon-hana-citizen-jp-vissel-kobe", "status": "FT", "score": [0,1], "ht": [0,0],
+      "goals": [ { "minute": 83, "side": "away", "player": "Ren Komatsu", "type": "goal" } ],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/daejeon-citizen-vissel-kobe-2151-9816-623"] },
+    { "op": "result", "match": "acl2-2026-27-groups-ga-r03-uz-nasaf-kw-kuwait-sc", "status": "FT", "score": [0,1], "ht": [0,1],
+      "goals": [ { "minute": 40, "side": "away", "player": "Mohammad Daham", "type": "goal" } ],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/kuwait-sc-nasaf-qarshi-8596-10290-568"] },
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-hannover-96-de-kaiserslautern", "status": "FT", "score": [0,2], "ht": [0,1],
+      "goals": [
+        { "minute": 14, "side": "away", "player": "Milos Lukovic", "type": "goal" },
+        { "minute": 86, "side": "away", "player": "Ivan Prtajin", "type": "goal" } ],
+      "sources": ["https://datencenter.dfb.de/datencenter/dfb-pokal/2026-27/2-runde/hannover-96-1-fc-kaiserslautern-2430554"] }
+  ],
+  "unconfirmed": [
+    { "match": "saudi-pro-league-2026-27-regular-r12-sa-al-nassr-sa-al-kholood", "claim": "5-3",
+      "sources": ["https://www.arabnews.com/saudi-pro-league/ronaldos-15-minute-hat-trick-the-difference-as-al-nassr-beat-stubborn-al-kholood-3008914"] },
+    { "match": "saudi-pro-league-2026-27-regular-r12-sa-al-riyadh-sa-al-qadsiah", "claim": "0-6",
+      "sources": ["https://www.arabnews.com/saudi-pro-league/ronaldos-15-minute-hat-trick-the-difference-as-al-nassr-beat-stubborn-al-kholood-3008914"] },
+    { "match": "serie-a-2026-27-regular-r09-it-frosinone-it-lecce", "claim": "5-1",
+      "sources": ["https://www.skysports.com/serie-a-scores-fixtures"] }
+  ]
+}

@@ -3867,3 +3867,15 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-10-30 (2026-10-29T21:35:00Z)
 - 0 change(s) applied, 0 rejected, 7 waiting for a second source
+
+## 2026-10-30 (2026-10-30T01:48:00Z)
+- 9 change(s) applied, 0 rejected, 3 waiting for a second source
+  - ✓ result serie-a-2026-27-regular-r09-it-ac-milan-it-bologna 2-4 FT
+  - ✓ result serie-a-2026-27-regular-r09-it-monza-it-napoli 1-4 FT
+  - ✓ result serie-a-2026-27-regular-r09-it-parma-it-udinese 0-0 FT
+  - ✓ result dfb-pokal-2026-27-r2-de-bayer-leverkusen-de-fc-nurnberg 5-2 FT
+  - ✓ result gulf-club-cl-2026-27-groups-gb-r02-bh-al-riffa-qa-qatar-sc 4-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r03-cn-shanghai-port-vn-cong-an-ha-noi added half-time and scorers to the confirmed result
+  - ✓ result acle-2026-27-league-east-geast-r03-kr-daejeon-hana-citizen-jp-vissel-kobe added half-time and scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-ga-r03-uz-nasaf-kw-kuwait-sc added scorers to the confirmed result
+  - ✓ result dfb-pokal-2026-27-r2-de-hannover-96-de-kaiserslautern added scorers to the confirmed result

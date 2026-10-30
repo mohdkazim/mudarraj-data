@@ -4129,14 +4129,18 @@
    "away": "it-bologna",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://www.365scores.com/football/match/serie-a-17/frosinone-lecce-246-254-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
+   ],
+   "updatedAt": "2026-10-30T01:48:35.494Z"
   },
   {
    "id": "serie-a-2026-27-regular-r09-it-parma-it-udinese",
@@ -4152,14 +4156,19 @@
    "away": "it-udinese",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://www.365scores.com/football/match/serie-a-17/frosinone-lecce-246-254-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
+   ],
+   "goals": [],
+   "updatedAt": "2026-10-30T01:48:35.494Z"
   },
   {
    "id": "serie-a-2026-27-regular-r09-it-venezia-it-inter-milan",
@@ -4261,14 +4270,18 @@
    "away": "it-napoli",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://www.365scores.com/football/match/serie-a-17/frosinone-lecce-246-254-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
+   ],
+   "updatedAt": "2026-10-30T01:48:35.494Z"
   },
   {
    "id": "serie-a-2026-27-regular-r09-it-frosinone-it-lecce",

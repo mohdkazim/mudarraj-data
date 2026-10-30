@@ -1665,9 +1665,18 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-a-pfc-nasaf-uzb-0-1-kuwait-sc-kuw"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-a-pfc-nasaf-uzb-0-1-kuwait-sc-kuw",
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/kuwait-sc-nasaf-qarshi-8596-10290-568"
    ],
-   "updatedAt": "2026-10-28T22:40:05.637Z"
+   "updatedAt": "2026-10-28T22:40:05.637Z",
+   "goals": [
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Mohammad Daham",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acl2-2026-27-groups-gb-r03-ir-gol-gohar-sirjan-tm-arkadag",

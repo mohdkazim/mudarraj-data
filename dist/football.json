@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-29T21:37:51.873Z",
+ "generatedAt": "2026-10-30T01:48:39.798Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 406,
-  "pending": 7
+  "results": 407,
+  "pending": 3
  },
  "teams": [
   {
@@ -35093,7 +35093,11 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 3
+    "away": 3,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": {
     "name": {
@@ -35107,9 +35111,42 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-shanghai-port-fc-chn-2-3-cong-an-ha-noi-fc-vie"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-shanghai-port-fc-chn-2-3-cong-an-ha-noi-fc-vie",
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/cong-an-ha-noi-shanghai-port-10300-72909-623"
    ],
    "updatedAt": "2026-10-27T12:59:26.664Z",
+   "goals": [
+    {
+     "minute": 35,
+     "side": "away",
+     "player": "Brayan Perea",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "home",
+     "player": "Prince Ampem",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Léo Artur",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Miguel Campos",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Brayan Perea",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -35169,7 +35206,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -35183,9 +35224,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-daejeon-hana-citizen-fc-kor-0-1-vissel-kobe-jpn"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md3-daejeon-hana-citizen-fc-kor-0-1-vissel-kobe-jpn",
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/daejeon-citizen-vissel-kobe-2151-9816-623"
    ],
    "updatedAt": "2026-10-27T12:59:26.664Z",
+   "goals": [
+    {
+     "minute": 83,
+     "side": "away",
+     "player": "Ren Komatsu",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -35482,14 +35532,22 @@
    "away": "qa-qatar-sc",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1,
+    "ht": [
+     2,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.gdnonline.com/Details/1409602/Riffa-off-to-losing-start",
-    "https://www.raya.com/2026/10/26/%D8%A7%D9%84%D9%82%D8%B7%D8%B1%D8%A7%D9%88%D9%8A-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85"
-   ]
+    "https://thepeninsulaqatar.com/article/28/10/2026/gccl-al-riffa-hand-qatar-sc-heavy-defeat",
+    "https://www.gdnonline.com/Details/1411060/Saeed-hits-brace-to-fuel-Riffa-win"
+   ],
+   "updatedAt": "2026-10-30T01:48:35.494Z"
   },
   {
    "competition": "acl2",
@@ -35794,9 +35852,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-a-pfc-nasaf-uzb-0-1-kuwait-sc-kuw"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-a-pfc-nasaf-uzb-0-1-kuwait-sc-kuw",
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/kuwait-sc-nasaf-qarshi-8596-10290-568"
    ],
    "updatedAt": "2026-10-28T22:40:05.637Z",
+   "goals": [
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Mohammad Daham",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
