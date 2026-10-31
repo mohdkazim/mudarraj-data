@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-31T15:39:06.254Z",
+ "generatedAt": "2026-10-31T16:43:23.657Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 754,
-  "pending": 3
+  "results": 755,
+  "pending": 2
  },
  "teams": [
   {
@@ -58039,8 +58039,11 @@
    "away": "gb-eng-manchester-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Stamford Bridge",
@@ -58053,9 +58056,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.thenationalnews.com/sport/football/2026/10/31/man-united-ratings-v-chelsea-more-misery-at-stamford-bridge-as-lisandro-martinez-lets-team-down/"
    ],
+   "updatedAt": "2026-10-31T16:43:23.296Z",
    "venueFrom": "home-ground"
   },
   {

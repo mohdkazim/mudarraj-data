@@ -3829,14 +3829,18 @@
    "away": "gb-eng-manchester-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.thenationalnews.com/sport/football/2026/10/31/man-united-ratings-v-chelsea-more-misery-at-stamford-bridge-as-lisandro-martinez-lets-team-down/"
+   ],
+   "updatedAt": "2026-10-31T16:43:23.296Z"
   },
   {
    "id": "epl-2026-27-regular-r09-gb-eng-bournemouth-gb-eng-leeds-united",

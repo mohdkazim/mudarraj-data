@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-31T15:39:06.254Z",
+ "generatedAt": "2026-10-31T16:43:23.657Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 754,
-  "pending": 3,
+  "results": 755,
+  "pending": 2,
   "squads": 281,
   "players": 8355
  },
@@ -14,7 +14,7 @@
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 408,
-  "pending": 3
+  "results": 409,
+  "pending": 2
  }
 }

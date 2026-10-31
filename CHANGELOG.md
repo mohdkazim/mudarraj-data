@@ -3921,3 +3921,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-31 (2026-10-31T15:35:00Z)
 - 1 change(s) applied, 0 rejected, 3 waiting for a second source
   - ✓ result laliga-2026-27-regular-r11-es-levante-es-atletico-madrid 0-2 FT
+
+## 2026-10-31 (2026-10-31T16:36:00Z)
+- 1 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result epl-2026-27-regular-r09-gb-eng-chelsea-gb-eng-manchester-united 2-0 FT

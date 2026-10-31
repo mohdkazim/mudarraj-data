@@ -1,0 +1,8 @@
+{
+  "run": "2026-10-31T16:36:00Z",
+  "changes": [
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-chelsea-gb-eng-manchester-united", "status": "FT", "score": [2,0],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.thenationalnews.com/sport/football/2026/10/31/man-united-ratings-v-chelsea-more-misery-at-stamford-bridge-as-lisandro-martinez-lets-team-down/"] }
+  ],
+  "unconfirmed": []
+}
