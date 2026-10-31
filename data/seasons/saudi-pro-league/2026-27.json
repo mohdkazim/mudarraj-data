@@ -4709,13 +4709,17 @@
    "away": "sa-al-ettifaq",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261031&lang=en&region=us"
-   ]
+    "https://www.saff.com.sa/championship.php?id=415"
+   ],
+   "updatedAt": "2026-10-31T20:39:47.577Z"
   },
   {
    "id": "saudi-pro-league-2026-27-regular-r12-sa-al-fayha-sa-al-faisaly",
@@ -4731,14 +4735,17 @@
    "away": "sa-al-faisaly",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261031&lang=en&region=us",
-    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch"
-   ]
+    "https://www.saff.com.sa/championship.php?id=415"
+   ],
+   "updatedAt": "2026-10-31T20:39:47.577Z"
   },
   {
    "id": "saudi-pro-league-2026-27-regular-r12-sa-al-hilal-sa-al-fateh",
@@ -4754,13 +4761,17 @@
    "away": "sa-al-fateh",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261031&lang=en&region=us"
-   ]
+    "https://www.saff.com.sa/championship.php?id=415"
+   ],
+   "updatedAt": "2026-10-31T20:39:47.577Z"
   },
   {
    "id": "saudi-pro-league-2026-27-regular-r13-sa-abha-sa-al-shabab",

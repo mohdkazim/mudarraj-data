@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-31T18:38:16.162Z",
+ "generatedAt": "2026-10-31T20:39:47.880Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 757,
+  "results": 763,
   "pending": 7
  },
  "teams": [
@@ -58226,8 +58226,11 @@
    "away": "sa-al-ettifaq",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Wolves Park",
@@ -58240,8 +58243,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261031&lang=en&region=us"
+    "https://www.saff.com.sa/championship.php?id=415"
    ],
+   "updatedAt": "2026-10-31T20:39:47.577Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58295,8 +58299,15 @@
    "away": "de-vfb-stuttgart",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4,
+    "ht": [
+     1,
+     2
+    ]
+   },
    "venue": {
     "name": {
      "en": "BayArena",
@@ -58309,9 +58320,47 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031&limit=37"
+    "https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-vfb-stuttgart-match-report-highlights-matchday-8-39800"
    ],
+   "goals": [
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Demirović",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Leweling",
+     "type": "goal"
+    },
+    {
+     "minute": 28,
+     "side": "home",
+     "player": "Schick",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "El Khannouss",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Demirović",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Maza",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T20:39:47.577Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58417,8 +58466,11 @@
    "away": "de-rb-leipzig",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Veltins-Arena",
@@ -58431,9 +58483,23 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031&limit=37"
+    "https://www.bundesliga.com/en/bundesliga/news/schalke-rb-leipzig-match-report-highlights-matchday-8-39804"
    ],
+   "goals": [
+    {
+     "minute": 37,
+     "side": "away",
+     "player": "Nusa",
+     "type": "penalty"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Rômulo",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T20:39:47.577Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58504,8 +58570,11 @@
    "away": "sa-al-faisaly",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Al Majma'ah Sports City",
@@ -58518,9 +58587,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261031&lang=en&region=us",
-    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch"
+    "https://www.saff.com.sa/championship.php?id=415"
    ],
+   "updatedAt": "2026-10-31T20:39:47.577Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58784,8 +58853,15 @@
    "away": "de-borussia-dortmund",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Allianz Arena",
@@ -58798,9 +58874,35 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031&limit=37"
+    "https://www.bundesliga.com/de/bundesliga/news/fc-bayern-muenchen-borussia-dortmund-spieltag-8-spielbericht-highlights-39814"
    ],
+   "goals": [
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Laimer",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "away",
+     "player": "Guirassy",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "Upamecano",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Fabio Silva",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T20:39:47.577Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58891,8 +58993,11 @@
    "away": "sa-al-fateh",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Kingdom Arena",
@@ -58905,8 +59010,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261031&lang=en&region=us"
+    "https://www.saff.com.sa/championship.php?id=415"
    ],
+   "updatedAt": "2026-10-31T20:39:47.577Z",
    "venueFrom": "home-ground"
   },
   {

@@ -3934,3 +3934,12 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-10-31 (2026-10-31T18:38:15Z)
 - 0 change(s) applied, 0 rejected, 7 waiting for a second source
+
+## 2026-11-01 (2026-10-31T20:35:54Z)
+- 6 change(s) applied, 0 rejected, 7 waiting for a second source
+  - ✓ result bundesliga-2026-27-regular-r08-de-bayer-leverkusen-de-vfb-stuttgart 2-4 FT
+  - ✓ result bundesliga-2026-27-regular-r08-de-schalke-04-de-rb-leipzig 0-2 FT
+  - ✓ result bundesliga-2026-27-regular-r08-de-bayern-munich-de-borussia-dortmund 2-2 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-taawoun-sa-al-ettifaq 1-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-fayha-sa-al-faisaly 4-1 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-hilal-sa-al-fateh 2-0 FT

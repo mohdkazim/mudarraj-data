@@ -3583,14 +3583,59 @@
    "away": "de-vfb-stuttgart",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4,
+    "ht": [
+     1,
+     2
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-vfb-stuttgart-match-report-highlights-matchday-8-39800"
+   ],
+   "goals": [
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Demirović",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Leweling",
+     "type": "goal"
+    },
+    {
+     "minute": 28,
+     "side": "home",
+     "player": "Schick",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "El Khannouss",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Demirović",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Maza",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T20:39:47.577Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r08-de-borussia-monchengladbach-de-sc-paderborn",
@@ -3679,14 +3724,31 @@
    "away": "de-rb-leipzig",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/schalke-rb-leipzig-match-report-highlights-matchday-8-39804"
+   ],
+   "goals": [
+    {
+     "minute": 37,
+     "side": "away",
+     "player": "Nusa",
+     "type": "penalty"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Rômulo",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T20:39:47.577Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r08-de-werder-bremen-de-tsg-hoffenheim",
@@ -3742,14 +3804,47 @@
    "away": "de-borussia-dortmund",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031&limit=37"
-   ]
+    "https://www.bundesliga.com/de/bundesliga/news/fc-bayern-muenchen-borussia-dortmund-spieltag-8-spielbericht-highlights-39814"
+   ],
+   "goals": [
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Laimer",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "away",
+     "player": "Guirassy",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "Upamecano",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Fabio Silva",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T20:39:47.577Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r08-de-union-berlin-de-fc-koln",
