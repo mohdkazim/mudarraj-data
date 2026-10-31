@@ -4522,14 +4522,22 @@
    "away": "sa-al-kholood",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 3,
+    "ht": [
+     2,
+     2
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261029&lang=en&region=us",
-    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
-   ]
+    "https://www.365scores.com/es-mx/football/match/saudi-league-649/al-nassr-fc-riyadh-al-khlood-7549-55800-649",
+    "https://www.arabnews.com/saudi-pro-league/ronaldos-15-minute-hat-trick-the-difference-as-al-nassr-beat-stubborn-al-kholood-3008914"
+   ],
+   "updatedAt": "2026-10-31T01:41:10.094Z"
   },
   {
    "id": "saudi-pro-league-2026-27-regular-r12-sa-al-riyadh-sa-al-qadsiah",
@@ -4545,13 +4553,60 @@
    "away": "sa-al-qadsiah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 6,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261029&lang=en&region=us"
-   ]
+    "https://www.365scores.com/en-uk/football/match/saudi-league-649/al-riyadh-sc-qadisiya-8947-12135-649",
+    "https://www.arabnews.com/saudi-pro-league/ronaldos-15-minute-hat-trick-the-difference-as-al-nassr-beat-stubborn-al-kholood-3008914"
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "away",
+     "player": "Abdullah Al Salem",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Mahamadou Sangare",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Julian Quinones",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T01:41:10.094Z"
   },
   {
    "id": "saudi-pro-league-2026-27-regular-r12-sa-abha-sa-al-ittihad",

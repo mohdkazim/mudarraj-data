@@ -1,0 +1,36 @@
+{
+  "run": "2026-10-31T02:30:00Z",
+  "changes": [
+    { "op": "result", "match": "saudi-pro-league-2026-27-regular-r12-sa-al-nassr-sa-al-kholood", "status": "FT", "score": [5,3], "ht": [2,2],
+      "sources": ["https://www.365scores.com/es-mx/football/match/saudi-league-649/al-nassr-fc-riyadh-al-khlood-7549-55800-649", "https://www.arabnews.com/saudi-pro-league/ronaldos-15-minute-hat-trick-the-difference-as-al-nassr-beat-stubborn-al-kholood-3008914"] },
+    { "op": "result", "match": "saudi-pro-league-2026-27-regular-r12-sa-al-riyadh-sa-al-qadsiah", "status": "FT", "score": [0,6], "ht": [0,2],
+      "goals": [
+        { "minute": 18, "side": "away", "player": "Tijjani Reijnders", "type": "goal" },
+        { "minute": 37, "side": "away", "player": "Abdullah Al Salem", "type": "goal" },
+        { "minute": 56, "side": "away", "player": "Tijjani Reijnders", "type": "goal" },
+        { "minute": 67, "side": "away", "player": "Mahamadou Sangare", "type": "goal" },
+        { "minute": 87, "side": "away", "player": "Julian Quinones", "type": "goal" },
+        { "minute": 89, "side": "away", "player": "Tijjani Reijnders", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-uk/football/match/saudi-league-649/al-riyadh-sc-qadisiya-8947-12135-649", "https://www.arabnews.com/saudi-pro-league/ronaldos-15-minute-hat-trick-the-difference-as-al-nassr-beat-stubborn-al-kholood-3008914"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r09-it-frosinone-it-lecce", "status": "FT", "score": [5,1], "ht": [2,0],
+      "goals": [
+        { "minute": 25, "side": "home", "player": "Matteo Cichella", "type": "goal" },
+        { "minute": 45, "extra": 1, "side": "home", "player": "Giacomo Calò", "type": "goal" },
+        { "minute": 59, "side": "home", "player": "Antonio Raimondo", "type": "goal" },
+        { "minute": 72, "side": "home", "player": "Daniel Birligea", "type": "goal" },
+        { "minute": 82, "side": "away", "player": "Joel Monteiro", "type": "goal" },
+        { "minute": 90, "extra": 4, "side": "home", "player": "Daniel Birligea", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/football/match/serie-a-17/frosinone-lecce-246-254-17", "https://www.skysports.com/serie-a-scores-fixtures"] },
+    { "op": "result", "match": "dfb-pokal-2026-27-r2-de-holstein-kiel-de-tsg-hoffenheim", "status": "PEN", "score": [1,1], "ht": [1,1], "regular": [1,1], "et": [0,0], "pens": [4,3],
+      "goals": [
+        { "minute": 11, "side": "away", "player": "Adam Hložek", "type": "goal" },
+        { "minute": 23, "side": "home", "player": "Adrián Kapralik", "type": "goal" }
+      ],
+      "sources": ["https://www.dfb.de/news/video-pokalschreck-kiel-wirft-hoffenheim-raus", "https://datencenter.dfb.de/competitions/33/seasons/current", "https://www.365scores.com/pt/football/match/dfb-pokal-28/hoffenheim-holstein-kiel-351-430-28"] }
+  ],
+  "unconfirmed": [
+    { "match": "serie-a-2026-27-regular-r09-it-fiorentina-it-atalanta", "claim": "2-2", "sources": ["https://www.skysports.com/serie-a-scores-fixtures"] }
+  ]
+}

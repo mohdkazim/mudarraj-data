@@ -3883,3 +3883,10 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-10-31 (2026-10-30T22:36:00Z)
 - 1 change(s) applied, 0 rejected, 3 waiting for a second source
   - ✓ result bundesliga-2026-27-regular-r08-de-sv-elversberg-de-mainz-05 4-1 FT
+
+## 2026-10-31 (2026-10-31T02:30:00Z)
+- 4 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-nassr-sa-al-kholood 5-3 FT
+  - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-riyadh-sa-al-qadsiah 0-6 FT
+  - ✓ result serie-a-2026-27-regular-r09-it-frosinone-it-lecce 5-1 FT
+  - ✓ result dfb-pokal-2026-27-r2-de-holstein-kiel-de-tsg-hoffenheim 1-1 PEN

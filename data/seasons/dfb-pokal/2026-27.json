@@ -2635,14 +2635,49 @@
    "away": "de-tsg-hoffenheim",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "PEN",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ],
+    "regular": [
+     1,
+     1
+    ],
+    "et": [
+     0,
+     0
+    ],
+    "pens": [
+     4,
+     3
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://www.dfb.de/news/video-pokalschreck-kiel-wirft-hoffenheim-raus",
+    "https://datencenter.dfb.de/competitions/33/seasons/current",
+    "https://www.365scores.com/pt/football/match/dfb-pokal-28/hoffenheim-holstein-kiel-351-430-28"
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Adam Hložek",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Adrián Kapralik",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T01:41:10.094Z"
   },
   {
    "id": "dfb-pokal-2026-27-final-tbd-tbd",

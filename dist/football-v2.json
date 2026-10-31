@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-30T22:37:52.824Z",
+ "generatedAt": "2026-10-31T01:41:10.316Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 746,
-  "pending": 3
+  "results": 750,
+  "pending": 1
  },
  "teams": [
   {
@@ -56971,14 +56971,49 @@
    "away": "de-tsg-hoffenheim",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "PEN",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ],
+    "regular": [
+     1,
+     1
+    ],
+    "et": [
+     0,
+     0
+    ],
+    "pens": [
+     4,
+     3
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://datencenter.dfb.de//competitions/33/seasons/19478/matchday/58459?datacenter_name=datencenter",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.dfb_pokal/scoreboard?dates=20261028&limit=37"
-   ]
+    "https://www.dfb.de/news/video-pokalschreck-kiel-wirft-hoffenheim-raus",
+    "https://datencenter.dfb.de/competitions/33/seasons/current",
+    "https://www.365scores.com/pt/football/match/dfb-pokal-28/hoffenheim-holstein-kiel-351-430-28"
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Adam Hložek",
+     "type": "goal"
+    },
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "Adrián Kapralik",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T01:41:10.094Z"
   },
   {
    "competition": "serie-a",
@@ -57527,8 +57562,15 @@
    "away": "it-lecce",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadio Benito Stirpe",
@@ -57541,9 +57583,50 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261029&limit=37"
+    "https://www.365scores.com/football/match/serie-a-17/frosinone-lecce-246-254-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
    ],
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "Matteo Cichella",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "home",
+     "player": "Giacomo Calò",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Antonio Raimondo",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Daniel Birligea",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Joel Monteiro",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 4,
+     "side": "home",
+     "player": "Daniel Birligea",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T01:41:10.094Z",
    "venueFrom": "home-ground"
   },
   {
@@ -57562,8 +57645,15 @@
    "away": "sa-al-kholood",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 3,
+    "ht": [
+     2,
+     2
+    ]
+   },
    "venue": {
     "name": {
      "en": "Al-Awwal Park",
@@ -57576,9 +57666,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261029&lang=en&region=us",
-    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+    "https://www.365scores.com/es-mx/football/match/saudi-league-649/al-nassr-fc-riyadh-al-khlood-7549-55800-649",
+    "https://www.arabnews.com/saudi-pro-league/ronaldos-15-minute-hat-trick-the-difference-as-al-nassr-beat-stubborn-al-kholood-3008914"
    ],
+   "updatedAt": "2026-10-31T01:41:10.094Z",
    "venueFrom": "home-ground"
   },
   {
@@ -57597,8 +57688,15 @@
    "away": "sa-al-qadsiah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 6,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": {
     "name": {
      "en": "Prince Faisal bin Fahd Sports City",
@@ -57611,8 +57709,48 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261029&lang=en&region=us"
+    "https://www.365scores.com/en-uk/football/match/saudi-league-649/al-riyadh-sc-qadisiya-8947-12135-649",
+    "https://www.arabnews.com/saudi-pro-league/ronaldos-15-minute-hat-trick-the-difference-as-al-nassr-beat-stubborn-al-kholood-3008914"
    ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "away",
+     "player": "Abdullah Al Salem",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Mahamadou Sangare",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Julian Quinones",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T01:41:10.094Z",
    "venueFrom": "home-ground"
   },
   {

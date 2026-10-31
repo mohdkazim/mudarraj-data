@@ -4297,14 +4297,62 @@
    "away": "it-lecce",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261029&limit=37"
-   ]
+    "https://www.365scores.com/football/match/serie-a-17/frosinone-lecce-246-254-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "Matteo Cichella",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "home",
+     "player": "Giacomo Calò",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Antonio Raimondo",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Daniel Birligea",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Joel Monteiro",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 4,
+     "side": "home",
+     "player": "Daniel Birligea",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T01:41:10.094Z"
   },
   {
    "id": "serie-a-2026-27-regular-r09-it-fiorentina-it-atalanta",
