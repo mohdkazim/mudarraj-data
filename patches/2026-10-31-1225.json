@@ -1,0 +1,9 @@
+{
+ "run": "2026-10-31T08:25:00Z",
+ "changes": [
+  { "op": "result", "match": "saudi-pro-league-2026-27-regular-r12-sa-abha-sa-al-ittihad", "status": "FT", "score": [1, 1], "ht": [0, 0],
+    "sources": ["https://www.saff.com.sa/championship.php?id=415", "https://www.365scores.com/en-us/football/match/mbs-league-649/abha-club-ittihad-jeddah-8593-14898-649"] },
+  { "op": "result", "match": "saudi-pro-league-2026-27-regular-r12-sa-al-diriyah-sa-neom", "status": "FT", "score": [1, 2],
+    "sources": ["https://www.saff.com.sa/championship.php?id=415"] }
+ ]
+}

@@ -4622,13 +4622,22 @@
    "away": "sa-al-ittihad",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261030&lang=en&region=us"
-   ]
+    "https://www.saff.com.sa/championship.php?id=415",
+    "https://www.365scores.com/en-us/football/match/mbs-league-649/abha-club-ittihad-jeddah-8593-14898-649"
+   ],
+   "updatedAt": "2026-10-31T08:10:07.198Z"
   },
   {
    "id": "saudi-pro-league-2026-27-regular-r12-sa-al-diriyah-sa-neom",
@@ -4644,13 +4653,17 @@
    "away": "sa-neom",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261030&lang=en&region=us"
-   ]
+    "https://www.saff.com.sa/championship.php?id=415"
+   ],
+   "updatedAt": "2026-10-31T08:10:07.198Z"
   },
   {
    "id": "saudi-pro-league-2026-27-regular-r12-sa-al-shabab-sa-al-ahli-saudi",
