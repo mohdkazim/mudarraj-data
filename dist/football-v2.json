@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-31T16:43:23.657Z",
+ "generatedAt": "2026-10-31T17:42:48.411Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 755,
+  "results": 757,
   "pending": 2
  },
  "teams": [
@@ -58057,9 +58057,24 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.thenationalnews.com/sport/football/2026/10/31/man-united-ratings-v-chelsea-more-misery-at-stamford-bridge-as-lisandro-martinez-lets-team-down/"
+    "https://www.thenationalnews.com/sport/football/2026/10/31/man-united-ratings-v-chelsea-more-misery-at-stamford-bridge-as-lisandro-martinez-lets-team-down/",
+    "https://www.skysports.com/football/chelsea-vs-manchester-united/report/559527"
    ],
    "updatedAt": "2026-10-31T16:43:23.296Z",
+   "goals": [
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "Morgan Rogers",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "Cole Palmer",
+     "type": "penalty"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -58350,14 +58365,41 @@
    "away": "de-sc-freiburg",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/augsburg-sport-club-freiburg-match-report-highlights-matchday-8-39806"
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "home",
+     "player": "Gregoritsch",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Matanović",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Irié",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T17:42:48.210Z"
   },
   {
    "competition": "bundesliga",
@@ -58410,8 +58452,11 @@
    "away": "de-tsg-hoffenheim",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Weserstadion",
@@ -58424,9 +58469,23 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031&limit=37"
+    "https://www.bundesliga.com/en/bundesliga/news/werder-bremen-hoffenheim-match-report-highlights-matchday-8-fullkrug-39802"
    ],
+   "goals": [
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Füllkrug",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "Dinkçi",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T17:42:48.210Z",
    "venueFrom": "home-ground"
   },
   {

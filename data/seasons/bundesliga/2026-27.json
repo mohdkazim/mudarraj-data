@@ -3629,14 +3629,41 @@
    "away": "de-sc-freiburg",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/augsburg-sport-club-freiburg-match-report-highlights-matchday-8-39806"
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "home",
+     "player": "Gregoritsch",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "away",
+     "player": "Matanović",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Irié",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T17:42:48.210Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r08-de-schalke-04-de-rb-leipzig",
@@ -3675,14 +3702,31 @@
    "away": "de-tsg-hoffenheim",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/werder-bremen-hoffenheim-match-report-highlights-matchday-8-fullkrug-39802"
+   ],
+   "goals": [
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Füllkrug",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "Dinkçi",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T17:42:48.210Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r08-de-bayern-munich-de-borussia-dortmund",

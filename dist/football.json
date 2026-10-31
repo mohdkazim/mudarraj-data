@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-31T16:43:23.657Z",
+ "generatedAt": "2026-10-31T17:42:48.411Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
@@ -36573,9 +36573,24 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.thenationalnews.com/sport/football/2026/10/31/man-united-ratings-v-chelsea-more-misery-at-stamford-bridge-as-lisandro-martinez-lets-team-down/"
+    "https://www.thenationalnews.com/sport/football/2026/10/31/man-united-ratings-v-chelsea-more-misery-at-stamford-bridge-as-lisandro-martinez-lets-team-down/",
+    "https://www.skysports.com/football/chelsea-vs-manchester-united/report/559527"
    ],
    "updatedAt": "2026-10-31T16:43:23.296Z",
+   "goals": [
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "Morgan Rogers",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "Cole Palmer",
+     "type": "penalty"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {

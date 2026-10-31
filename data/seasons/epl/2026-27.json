@@ -3838,9 +3838,24 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.thenationalnews.com/sport/football/2026/10/31/man-united-ratings-v-chelsea-more-misery-at-stamford-bridge-as-lisandro-martinez-lets-team-down/"
+    "https://www.thenationalnews.com/sport/football/2026/10/31/man-united-ratings-v-chelsea-more-misery-at-stamford-bridge-as-lisandro-martinez-lets-team-down/",
+    "https://www.skysports.com/football/chelsea-vs-manchester-united/report/559527"
    ],
-   "updatedAt": "2026-10-31T16:43:23.296Z"
+   "updatedAt": "2026-10-31T16:43:23.296Z",
+   "goals": [
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "Morgan Rogers",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "Cole Palmer",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r09-gb-eng-bournemouth-gb-eng-leeds-united",

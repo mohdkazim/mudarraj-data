@@ -1,0 +1,25 @@
+{
+  "run": "2026-10-31T17:35:00Z",
+  "changes": [
+    { "op": "result", "match": "bundesliga-2026-27-regular-r08-de-fc-augsburg-de-sc-freiburg", "status": "FT", "score": [1,2], "ht": [1,0],
+      "goals": [
+        { "minute": 18, "side": "home", "player": "Gregoritsch", "type": "goal" },
+        { "minute": 65, "side": "away", "player": "Matanović", "type": "goal" },
+        { "minute": 85, "side": "away", "player": "Irié", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/augsburg-sport-club-freiburg-match-report-highlights-matchday-8-39806"] },
+    { "op": "result", "match": "bundesliga-2026-27-regular-r08-de-werder-bremen-de-tsg-hoffenheim", "status": "FT", "score": [2,0],
+      "goals": [
+        { "minute": 57, "side": "home", "player": "Füllkrug", "type": "goal" },
+        { "minute": 82, "side": "home", "player": "Dinkçi", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/werder-bremen-hoffenheim-match-report-highlights-matchday-8-fullkrug-39802"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-chelsea-gb-eng-manchester-united", "status": "FT", "score": [2,0],
+      "goals": [
+        { "minute": 50, "side": "home", "player": "Morgan Rogers", "type": "goal" },
+        { "minute": 64, "side": "home", "player": "Cole Palmer", "type": "penalty" }
+      ],
+      "sources": ["https://www.skysports.com/football/chelsea-vs-manchester-united/report/559527"] }
+  ],
+  "unconfirmed": []
+}
