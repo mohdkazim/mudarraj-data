@@ -5346,16 +5346,42 @@
    "away": "es-malaga",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
-   ]
+    "https://www.laliga.com/en-ID/match/temporada-2026-2027-laliga-ea-sports-real-betis-malaga-cf-11"
+   ],
+   "goals": [
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Marc Bartra",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 2,
+     "side": "home",
+     "player": "Pablo Fornals",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Adrián Niño",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T21:45:48.090Z"
   },
   {
    "id": "laliga-2026-27-regular-r11-es-barcelona-es-alaves",

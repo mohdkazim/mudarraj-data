@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-31T20:39:47.880Z",
+ "generatedAt": "2026-10-31T21:45:48.391Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 763,
-  "pending": 7
+  "results": 771,
+  "pending": 3
  },
  "teams": [
   {
@@ -58264,8 +58264,15 @@
    "away": "it-monza",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadio Renato Dall'Ara",
@@ -58278,9 +58285,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261031&limit=37"
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/bologna-monza-245-293-17"
    ],
+   "updatedAt": "2026-10-31T21:45:48.090Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58379,8 +58386,15 @@
    "away": "de-sc-paderborn",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Borussia-Park",
@@ -58393,9 +58407,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261031&limit=37"
+    "https://www.bundesliga.com/en/bundesliga/news/borussia-monchengladbach-paderborn-match-report-highlights-matchday-8-39805"
    ],
+   "goals": [],
+   "updatedAt": "2026-10-31T21:45:48.090Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58608,8 +58623,11 @@
    "away": "gb-eng-leeds-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Vitality Stadium",
@@ -58622,9 +58640,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
+    "https://www.skysports.com/premier-league-scores-fixtures"
    ],
+   "updatedAt": "2026-10-31T21:45:48.090Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58643,8 +58662,11 @@
    "away": "gb-eng-nottingham-forest",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Gtech Community Stadium",
@@ -58657,9 +58679,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
+    "https://www.skysports.com/premier-league-scores-fixtures"
    ],
+   "updatedAt": "2026-10-31T21:45:48.090Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58678,8 +58701,15 @@
    "away": "gb-eng-sunderland",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Coventry Building Society Arena",
@@ -58692,9 +58722,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
+    "https://www.skysports.com/premier-league-scores-fixtures"
    ],
+   "updatedAt": "2026-10-31T21:45:48.090Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58713,8 +58744,11 @@
    "away": "gb-eng-ipswich-town",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "MKM Stadium",
@@ -58727,9 +58761,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
+    "https://www.skysports.com/premier-league-scores-fixtures"
    ],
+   "updatedAt": "2026-10-31T21:45:48.090Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58748,8 +58783,11 @@
    "away": "gb-eng-brighton",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Etihad Stadium",
@@ -58762,9 +58800,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
+    "https://www.skysports.com/premier-league-scores-fixtures"
    ],
+   "updatedAt": "2026-10-31T21:45:48.090Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58956,8 +58995,15 @@
    "away": "es-malaga",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Estadio La Cartuja",
@@ -58970,11 +59016,30 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
+    "https://www.laliga.com/en-ID/match/temporada-2026-2027-laliga-ea-sports-real-betis-malaga-cf-11"
    ],
+   "goals": [
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Marc Bartra",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 2,
+     "side": "home",
+     "player": "Pablo Fornals",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Adrián Niño",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-10-31T21:45:48.090Z",
    "venueFrom": "home-ground"
   },
   {

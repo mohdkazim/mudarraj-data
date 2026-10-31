@@ -1,0 +1,29 @@
+{
+  "run": "2026-10-31T21:35:57Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r11-es-real-betis-es-malaga", "status": "FT", "score": [2,1], "ht": [2,0],
+      "goals": [
+        { "minute": 38, "side": "home", "player": "Marc Bartra", "type": "goal" },
+        { "minute": 45, "extra": 2, "side": "home", "player": "Pablo Fornals", "type": "goal" },
+        { "minute": 68, "side": "away", "player": "Adrián Niño", "type": "goal" }
+      ],
+      "sources": ["https://www.laliga.com/en-ID/match/temporada-2026-2027-laliga-ea-sports-real-betis-malaga-cf-11"] },
+    { "op": "result", "match": "bundesliga-2026-27-regular-r08-de-borussia-monchengladbach-de-sc-paderborn", "status": "FT", "score": [0,0], "ht": [0,0], "goals": [],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/borussia-monchengladbach-paderborn-match-report-highlights-matchday-8-39805"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r10-it-bologna-it-monza", "status": "FT", "score": [2,1], "ht": [1,1],
+      "sources": ["https://www.365scores.com/en-uk/football/match/serie-a-17/bologna-monza-245-293-17"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-coventry-city-gb-eng-sunderland", "status": "FT", "score": [3,1], "ht": [2,0],
+      "sources": ["https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7", "https://www.skysports.com/premier-league-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-bournemouth-gb-eng-leeds-united", "status": "FT", "score": [2,0],
+      "sources": ["https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7", "https://www.skysports.com/premier-league-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-brentford-gb-eng-nottingham-forest", "status": "FT", "score": [2,0],
+      "sources": ["https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7", "https://www.skysports.com/premier-league-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-hull-city-gb-eng-ipswich-town", "status": "FT", "score": [2,2],
+      "sources": ["https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7", "https://www.skysports.com/premier-league-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-manchester-city-gb-eng-brighton", "status": "FT", "score": [0,1],
+      "sources": ["https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7", "https://www.skysports.com/premier-league-scores-fixtures"] }
+  ],
+  "unconfirmed": [
+    { "match": "epl-2026-27-regular-r09-gb-eng-tottenham-hotspur-gb-eng-crystal-palace", "claim": "2-0", "sources": ["https://www.skysports.com/football/tottenham-hotspur-vs-crystal-palace/8861892564913440232"] }
+  ]
+}

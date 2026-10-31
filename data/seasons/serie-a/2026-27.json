@@ -4391,14 +4391,21 @@
    "away": "it-monza",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261031&limit=37"
-   ]
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/bologna-monza-245-293-17"
+   ],
+   "updatedAt": "2026-10-31T21:45:48.090Z"
   },
   {
    "id": "serie-a-2026-27-regular-r10-it-udinese-it-roma",

@@ -3943,3 +3943,14 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-taawoun-sa-al-ettifaq 1-1 FT
   - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-fayha-sa-al-faisaly 4-1 FT
   - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-hilal-sa-al-fateh 2-0 FT
+
+## 2026-11-01 (2026-10-31T21:35:57Z)
+- 8 change(s) applied, 0 rejected, 3 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r11-es-real-betis-es-malaga 2-1 FT
+  - ✓ result bundesliga-2026-27-regular-r08-de-borussia-monchengladbach-de-sc-paderborn 0-0 FT
+  - ✓ result serie-a-2026-27-regular-r10-it-bologna-it-monza 2-1 FT
+  - ✓ result epl-2026-27-regular-r09-gb-eng-coventry-city-gb-eng-sunderland 3-1 FT
+  - ✓ result epl-2026-27-regular-r09-gb-eng-bournemouth-gb-eng-leeds-united 2-0 FT
+  - ✓ result epl-2026-27-regular-r09-gb-eng-brentford-gb-eng-nottingham-forest 2-0 FT
+  - ✓ result epl-2026-27-regular-r09-gb-eng-hull-city-gb-eng-ipswich-town 2-2 FT
+  - ✓ result epl-2026-27-regular-r09-gb-eng-manchester-city-gb-eng-brighton 0-1 FT
