@@ -3914,3 +3914,6 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 2 waiting for a second source
   - ✓ result saudi-pro-league-2026-27-regular-r12-sa-abha-sa-al-ittihad 1-1 FT
   - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-diriyah-sa-neom 1-2 FT
+
+## 2026-10-31 (2026-10-31T14:35:00Z)
+- 0 change(s) applied, 0 rejected, 3 waiting for a second source
