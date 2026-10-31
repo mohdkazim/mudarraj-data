@@ -3905,3 +3905,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-al-nasr-ae-sharjah added
   - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-hatta-ae-al-wahda added
   - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-bani-yas-ae-al-jazira added
+
+## 2026-10-31 (2026-10-31T08:20:00Z)
+- 1 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-shabab-sa-al-ahli-saudi 6-1 FT

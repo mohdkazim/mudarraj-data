@@ -4666,13 +4666,21 @@
    "away": "sa-al-ahli-saudi",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 6,
+    "away": 1,
+    "ht": [
+     3,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261030&lang=en&region=us"
-   ]
+    "https://www.365scores.com/fr/football/match/mbs-league-649/al-ahli-jeddah-al-shabab-riyadh-8945-8946-649"
+   ],
+   "updatedAt": "2026-10-31T07:56:42.169Z"
   },
   {
    "id": "saudi-pro-league-2026-27-regular-r12-sa-al-taawoun-sa-al-ettifaq",

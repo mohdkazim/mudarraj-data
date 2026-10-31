@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-31T07:55:41.982Z",
+ "generatedAt": "2026-10-31T07:56:42.319Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 750,
-  "pending": 1
+  "results": 751,
+  "pending": 2
  },
  "teams": [
   {
@@ -57872,8 +57872,15 @@
    "away": "sa-al-ahli-saudi",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 6,
+    "away": 1,
+    "ht": [
+     3,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "SHG Arena",
@@ -57886,8 +57893,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261030&lang=en&region=us"
+    "https://www.365scores.com/fr/football/match/mbs-league-649/al-ahli-jeddah-al-shabab-riyadh-8945-8946-649"
    ],
+   "updatedAt": "2026-10-31T07:56:42.169Z",
    "venueFrom": "home-ground"
   },
   {

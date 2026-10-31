@@ -1,0 +1,10 @@
+{
+ "run": "2026-10-31T08:20:00Z",
+ "changes": [
+  { "op": "result", "match": "saudi-pro-league-2026-27-regular-r12-sa-al-shabab-sa-al-ahli-saudi", "status": "FT", "score": [6, 1], "ht": [3, 1],
+    "sources": ["https://www.365scores.com/fr/football/match/mbs-league-649/al-ahli-jeddah-al-shabab-riyadh-8945-8946-649"] }
+ ],
+ "unconfirmed": [
+  { "match": "laliga-2026-27-regular-r11-es-villarreal-es-espanyol", "claim": "0-1", "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] }
+ ]
+}
