@@ -3954,3 +3954,6 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result epl-2026-27-regular-r09-gb-eng-brentford-gb-eng-nottingham-forest 2-0 FT
   - ✓ result epl-2026-27-regular-r09-gb-eng-hull-city-gb-eng-ipswich-town 2-2 FT
   - ✓ result epl-2026-27-regular-r09-gb-eng-manchester-city-gb-eng-brighton 0-1 FT
+
+## 2026-11-01 (2026-10-31T22:35:00Z)
+- 0 change(s) applied, 0 rejected, 7 waiting for a second source
