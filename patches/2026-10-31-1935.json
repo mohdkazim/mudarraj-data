@@ -1,0 +1,8 @@
+{
+  "run": "2026-10-31T15:35:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r11-es-levante-es-atletico-madrid", "status": "FT", "score": [0,2],
+      "sources": ["https://www.365scores.com/es/news/levante-atletico-de-madrid-tabla-la-liga/"] }
+  ],
+  "unconfirmed": []
+}

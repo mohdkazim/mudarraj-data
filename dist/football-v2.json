@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-31T14:37:19.498Z",
+ "generatedAt": "2026-10-31T15:39:06.254Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 753,
+  "results": 754,
   "pending": 3
  },
  "teams": [
@@ -58169,8 +58169,11 @@
    "away": "es-atletico-madrid",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Ciutat de València",
@@ -58183,9 +58186,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031"
+    "https://www.365scores.com/es/news/levante-atletico-de-madrid-tabla-la-liga/"
    ],
+   "updatedAt": "2026-10-31T15:39:06.030Z",
    "venueFrom": "home-ground"
   },
   {

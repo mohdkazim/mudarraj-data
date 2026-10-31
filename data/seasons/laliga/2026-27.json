@@ -5297,14 +5297,17 @@
    "away": "es-atletico-madrid",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031"
-   ]
+    "https://www.365scores.com/es/news/levante-atletico-de-madrid-tabla-la-liga/"
+   ],
+   "updatedAt": "2026-10-31T15:39:06.030Z"
   },
   {
    "id": "laliga-2026-27-regular-r11-es-rayo-vallecano-es-celta-vigo",
