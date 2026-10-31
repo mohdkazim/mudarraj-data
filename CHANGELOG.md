@@ -3890,3 +3890,18 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result saudi-pro-league-2026-27-regular-r12-sa-al-riyadh-sa-al-qadsiah 0-6 FT
   - ✓ result serie-a-2026-27-regular-r09-it-frosinone-it-lecce 5-1 FT
   - ✓ result dfb-pokal-2026-27-r2-de-holstein-kiel-de-tsg-hoffenheim 1-1 PEN
+
+## 2026-10-31 (2026-10-31T08:10:00Z)
+- 12 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ delete uae-pro-league-2026-27-regular-r07-ae-al-wasl-ae-al-dhafra deleted (Rescheduled: the league's fixture pages list Gameweek 7 with the home and away clubs reversed and new dates (checked 31 Oct 2026))
+  - ✓ delete uae-pro-league-2026-27-regular-r07-ae-united-ae-khorfakkan deleted (Rescheduled: the league's fixture pages list Gameweek 7 with the home and away clubs reversed and new dates (checked 31 Oct 2026))
+  - ✓ delete uae-pro-league-2026-27-regular-r07-ae-shabab-al-ahli-ae-kalba deleted (Rescheduled: the league's fixture pages list Gameweek 7 with the home and away clubs reversed and new dates (checked 31 Oct 2026))
+  - ✓ delete uae-pro-league-2026-27-regular-r07-ae-al-wahda-ae-hatta deleted (Rescheduled: the league's fixture pages list Gameweek 7 with the home and away clubs reversed and new dates (checked 31 Oct 2026))
+  - ✓ delete uae-pro-league-2026-27-regular-r07-ae-al-jazira-ae-bani-yas deleted (Rescheduled: the league's fixture pages list Gameweek 7 with the home and away clubs reversed and new dates (checked 31 Oct 2026))
+  - ✓ delete uae-pro-league-2026-27-regular-r07-ae-sharjah-ae-al-nasr deleted (Rescheduled: the league's fixture pages list Gameweek 7 with the home and away clubs reversed and new dates (checked 31 Oct 2026))
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-al-dhafra-ae-al-wasl added
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-khorfakkan-ae-united added
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-kalba-ae-shabab-al-ahli added
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-al-nasr-ae-sharjah added
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-hatta-ae-al-wahda added
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-bani-yas-ae-al-jazira added

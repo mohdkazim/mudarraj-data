@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-31T01:41:10.316Z",
+ "generatedAt": "2026-10-31T07:55:41.982Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
@@ -36505,111 +36505,6 @@
    "venueFrom": "home-ground"
   },
   {
-   "competition": "uae-pro-league",
-   "season": "2026-27",
-   "id": "uae-pro-league-2026-27-regular-r07-ae-al-wasl-ae-al-dhafra",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 7
-   },
-   "kickoff": "2026-10-30T12:55:00Z",
-   "timeConfirmed": true,
-   "home": "ae-al-wasl",
-   "away": "ae-al-dhafra",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Zabeel Stadium",
-     "ar": "استاد زعبيل"
-    },
-    "city": {
-     "en": "Dubai",
-     "ar": "دبي"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f72-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=7&s=2026-2027"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "uae-pro-league",
-   "season": "2026-27",
-   "id": "uae-pro-league-2026-27-regular-r07-ae-united-ae-khorfakkan",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 7
-   },
-   "kickoff": "2026-10-30T12:55:00Z",
-   "timeConfirmed": true,
-   "home": "ae-united",
-   "away": "ae-khorfakkan",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Al Maktoum Stadium",
-     "ar": "استاد آل مكتوم"
-    },
-    "city": {
-     "en": "Dubai",
-     "ar": "دبي"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f6a-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=7&s=2026-2027"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "uae-pro-league",
-   "season": "2026-27",
-   "id": "uae-pro-league-2026-27-regular-r07-ae-shabab-al-ahli-ae-kalba",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 7
-   },
-   "kickoff": "2026-10-30T15:35:00Z",
-   "timeConfirmed": true,
-   "home": "ae-shabab-al-ahli",
-   "away": "ae-kalba",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Rashid Stadium",
-     "ar": "استاد راشد"
-    },
-    "city": {
-     "en": "Dubai",
-     "ar": "دبي"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f70-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=7&s=2026-2027"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
    "competition": "laliga",
    "season": "2026-27",
    "id": "laliga-2026-27-regular-r11-es-villarreal-es-espanyol",
@@ -36678,6 +36573,101 @@
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
    ],
    "venueFrom": "home-ground"
+  },
+  {
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "id": "uae-pro-league-2026-27-regular-r07-ae-al-dhafra-ae-al-wasl",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-31T12:55:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-dhafra",
+   "away": "ae-al-wasl",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Hamdan bin Zayed Stadium",
+     "ar": "استاد حمدان بن زايد"
+    },
+    "city": {
+     "en": "Madinat Zayed",
+     "ar": "مدينة زايد"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.uaeproleague.ae/en/fixtures/6a7a70f4-761b-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "id": "uae-pro-league-2026-27-regular-r07-ae-kalba-ae-shabab-al-ahli",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-31T12:55:00Z",
+   "timeConfirmed": true,
+   "home": "ae-kalba",
+   "away": "ae-shabab-al-ahli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Dibba Stadium",
+     "ar": "استاد دبا"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.uaeproleague.ae/en/fixtures/6a7a70f2-761b-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en"
+   ]
+  },
+  {
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "id": "uae-pro-league-2026-27-regular-r07-ae-khorfakkan-ae-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-10-31T12:55:00Z",
+   "timeConfirmed": true,
+   "home": "ae-khorfakkan",
+   "away": "ae-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Dibba Al-Hisn Stadium",
+     "ar": "استاد دبا الحصن"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.uaeproleague.ae/en/fixtures/6a7a70ea-761b-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en"
+   ]
   },
   {
    "competition": "laliga",
@@ -37067,41 +37057,6 @@
    "venueFrom": "home-ground"
   },
   {
-   "competition": "uae-pro-league",
-   "season": "2026-27",
-   "id": "uae-pro-league-2026-27-regular-r07-ae-al-wahda-ae-hatta",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 7
-   },
-   "kickoff": "2026-11-01T12:55:00Z",
-   "timeConfirmed": true,
-   "home": "ae-al-wahda",
-   "away": "ae-hatta",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Al Nahyan Stadium",
-     "ar": "استاد آل نهيان"
-    },
-    "city": {
-     "en": "Abu Dhabi",
-     "ar": "أبوظبي"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f6c-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=7&s=2026-2027"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
    "competition": "laliga",
    "season": "2026-27",
    "id": "laliga-2026-27-regular-r11-es-getafe-es-sevilla",
@@ -37168,76 +37123,6 @@
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "uae-pro-league",
-   "season": "2026-27",
-   "id": "uae-pro-league-2026-27-regular-r07-ae-al-jazira-ae-bani-yas",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 7
-   },
-   "kickoff": "2026-11-01T15:35:00Z",
-   "timeConfirmed": true,
-   "home": "ae-al-jazira",
-   "away": "ae-bani-yas",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Mohammed bin Zayed Stadium",
-     "ar": "استاد محمد بن زايد"
-    },
-    "city": {
-     "en": "Abu Dhabi",
-     "ar": "أبوظبي"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f6e-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=7&s=2026-2027"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "uae-pro-league",
-   "season": "2026-27",
-   "id": "uae-pro-league-2026-27-regular-r07-ae-sharjah-ae-al-nasr",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 7
-   },
-   "kickoff": "2026-11-01T15:35:00Z",
-   "timeConfirmed": true,
-   "home": "ae-sharjah",
-   "away": "ae-al-nasr",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Sharjah Stadium",
-     "ar": "استاد الشارقة"
-    },
-    "city": {
-     "en": "Sharjah",
-     "ar": "الشارقة"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f74-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=7&s=2026-2027"
    ],
    "venueFrom": "home-ground"
   },
@@ -37343,6 +37228,111 @@
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "id": "uae-pro-league-2026-27-regular-r07-ae-al-nasr-ae-sharjah",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-11-02T12:55:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-nasr",
+   "away": "ae-sharjah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Al Maktoum Stadium",
+     "ar": "استاد آل مكتوم"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.uaeproleague.ae/en/fixtures/6a7a70f6-761b-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "id": "uae-pro-league-2026-27-regular-r07-ae-bani-yas-ae-al-jazira",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-11-02T12:55:00Z",
+   "timeConfirmed": true,
+   "home": "ae-bani-yas",
+   "away": "ae-al-jazira",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Bani Yas Stadium",
+     "ar": "استاد بني ياس"
+    },
+    "city": {
+     "en": "Abu Dhabi (Al Shamkha)",
+     "ar": "أبوظبي (الشامخة)"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.uaeproleague.ae/en/fixtures/6a7a70f0-761b-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "id": "uae-pro-league-2026-27-regular-r07-ae-hatta-ae-al-wahda",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 7
+   },
+   "kickoff": "2026-11-02T12:55:00Z",
+   "timeConfirmed": true,
+   "home": "ae-hatta",
+   "away": "ae-al-wahda",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Hamdan bin Rashid Al Maktoum Stadium",
+     "ar": "استاد حمدان بن راشد آل مكتوم"
+    },
+    "city": {
+     "en": "Hatta",
+     "ar": "حتا"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.uaeproleague.ae/en/fixtures/6a7a70ed-761b-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en"
    ],
    "venueFrom": "home-ground"
   },

@@ -1,0 +1,155 @@
+{
+ "run": "2026-10-31T08:10:00Z",
+ "changes": [
+  {
+   "op": "delete",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-al-wasl-ae-al-dhafra",
+   "reason": "Rescheduled: the league's fixture pages list Gameweek 7 with the home and away clubs reversed and new dates (checked 31 Oct 2026)"
+  },
+  {
+   "op": "delete",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-united-ae-khorfakkan",
+   "reason": "Rescheduled: the league's fixture pages list Gameweek 7 with the home and away clubs reversed and new dates (checked 31 Oct 2026)"
+  },
+  {
+   "op": "delete",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-shabab-al-ahli-ae-kalba",
+   "reason": "Rescheduled: the league's fixture pages list Gameweek 7 with the home and away clubs reversed and new dates (checked 31 Oct 2026)"
+  },
+  {
+   "op": "delete",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-al-wahda-ae-hatta",
+   "reason": "Rescheduled: the league's fixture pages list Gameweek 7 with the home and away clubs reversed and new dates (checked 31 Oct 2026)"
+  },
+  {
+   "op": "delete",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-al-jazira-ae-bani-yas",
+   "reason": "Rescheduled: the league's fixture pages list Gameweek 7 with the home and away clubs reversed and new dates (checked 31 Oct 2026)"
+  },
+  {
+   "op": "delete",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-sharjah-ae-al-nasr",
+   "reason": "Rescheduled: the league's fixture pages list Gameweek 7 with the home and away clubs reversed and new dates (checked 31 Oct 2026)"
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "ae-al-dhafra",
+   "away": "ae-al-wasl",
+   "kickoff": "2026-10-31T12:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.uaeproleague.ae/en/fixtures/6a7a70f4-761b-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "ae-khorfakkan",
+   "away": "ae-united",
+   "kickoff": "2026-10-31T12:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.uaeproleague.ae/en/fixtures/6a7a70ea-761b-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en"
+   ],
+   "venue": {
+    "name": {
+     "en": "Dibba Al-Hisn Stadium",
+     "ar": "استاد دبا الحصن"
+    }
+   }
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "ae-kalba",
+   "away": "ae-shabab-al-ahli",
+   "kickoff": "2026-10-31T12:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.uaeproleague.ae/en/fixtures/6a7a70f2-761b-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en"
+   ],
+   "venue": {
+    "name": {
+     "en": "Dibba Stadium",
+     "ar": "استاد دبا"
+    }
+   }
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "ae-al-nasr",
+   "away": "ae-sharjah",
+   "kickoff": "2026-11-02T12:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.uaeproleague.ae/en/fixtures/6a7a70f6-761b-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "ae-hatta",
+   "away": "ae-al-wahda",
+   "kickoff": "2026-11-02T12:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.uaeproleague.ae/en/fixtures/6a7a70ed-761b-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "ae-bani-yas",
+   "away": "ae-al-jazira",
+   "kickoff": "2026-11-02T12:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.uaeproleague.ae/en/fixtures/6a7a70f0-761b-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en"
+   ]
+  }
+ ]
+}
