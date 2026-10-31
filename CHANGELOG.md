@@ -3931,3 +3931,6 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result bundesliga-2026-27-regular-r08-de-fc-augsburg-de-sc-freiburg 1-2 FT
   - ✓ result bundesliga-2026-27-regular-r08-de-werder-bremen-de-tsg-hoffenheim 2-0 FT
   - ✓ result epl-2026-27-regular-r09-gb-eng-chelsea-gb-eng-manchester-united added scorers to the confirmed result
+
+## 2026-10-31 (2026-10-31T18:38:15Z)
+- 0 change(s) applied, 0 rejected, 7 waiting for a second source
