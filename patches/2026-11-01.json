@@ -1,0 +1,22 @@
+{
+  "run": "2026-11-01T01:36:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r11-es-villarreal-es-espanyol", "status": "FT", "score": [0,1],
+      "sources": ["https://www.laliga.com/en-GB/laliga-easports/results", "https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r11-es-rayo-vallecano-es-celta-vigo", "status": "FT", "score": [3,0], "ht": [1,0],
+      "goals": [
+        { "minute": 36, "side": "home", "player": "Jorge De Frutos", "type": "goal" },
+        { "minute": 55, "side": "home", "player": "Jorge De Frutos", "type": "goal" },
+        { "minute": 73, "side": "home", "player": "Unai López", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-uk/football/match/laliga-11/celta-vigo-rayo-vallecano-158-174-11", "https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-tottenham-hotspur-gb-eng-crystal-palace", "status": "FT", "score": [2,0],
+      "sources": ["https://skysports.com/football/tottenham-hotspur-vs-crystal-palace/report/559533", "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-aston-villa-gb-eng-fulham", "status": "FT", "score": [1,1],
+      "sources": ["https://skysports.com/football/news/13606363/aston-villa-1-1-fulham-zion-suzuki-concedes-own-goal-as-nicholas-jackson-scores-after-john-mcginns-penalty-miss-in-draw-with-fulham", "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193"] }
+  ],
+  "unconfirmed": [
+    { "match": "laliga-2026-27-regular-r11-es-barcelona-es-alaves", "claim": "6-1", "sources": ["https://www.skysports.com/football/video/13606532/barcelona-6-1-alaves-la-liga-highlights"] },
+    { "match": "serie-a-2026-27-regular-r10-it-udinese-it-roma", "claim": "2-5", "sources": ["https://www.skysports.com/serie-a-scores-fixtures"] }
+  ]
+}

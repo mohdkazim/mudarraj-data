@@ -3957,3 +3957,10 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-11-01 (2026-10-31T22:35:00Z)
 - 0 change(s) applied, 0 rejected, 7 waiting for a second source
+
+## 2026-11-01 (2026-11-01T01:36:00Z)
+- 4 change(s) applied, 0 rejected, 4 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r11-es-villarreal-es-espanyol 0-1 FT
+  - ✓ result laliga-2026-27-regular-r11-es-rayo-vallecano-es-celta-vigo 3-0 FT
+  - ✓ result epl-2026-27-regular-r09-gb-eng-tottenham-hotspur-gb-eng-crystal-palace 2-0 FT
+  - ✓ result epl-2026-27-regular-r09-gb-eng-aston-villa-gb-eng-fulham 1-1 FT

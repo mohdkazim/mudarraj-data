@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-10-31T22:39:04.618Z",
+ "generatedAt": "2026-11-01T01:48:06.312Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 771,
-  "pending": 7
+  "results": 775,
+  "pending": 4
  },
  "teams": [
   {
@@ -58004,8 +58004,11 @@
    "away": "es-espanyol",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Estadio de la Cerámica",
@@ -58018,9 +58021,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261030"
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/la-liga-scores-fixtures"
    ],
+   "updatedAt": "2026-11-01T01:48:06.090Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58822,8 +58826,15 @@
    "away": "es-celta-vigo",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Estadio de Vallecas",
@@ -58836,9 +58847,30 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031"
+    "https://www.365scores.com/en-uk/football/match/laliga-11/celta-vigo-rayo-vallecano-158-174-11",
+    "https://www.skysports.com/la-liga-scores-fixtures"
    ],
+   "goals": [
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Jorge De Frutos",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "home",
+     "player": "Jorge De Frutos",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Unai López",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-01T01:48:06.090Z",
    "venueFrom": "home-ground"
   },
   {
@@ -58960,8 +58992,11 @@
    "away": "gb-eng-crystal-palace",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Tottenham Hotspur Stadium",
@@ -58974,9 +59009,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+    "https://skysports.com/football/tottenham-hotspur-vs-crystal-palace/report/559533",
+    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193"
    ],
+   "updatedAt": "2026-11-01T01:48:06.090Z",
    "venueFrom": "home-ground"
   },
   {
@@ -59131,8 +59167,11 @@
    "away": "gb-eng-fulham",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Villa Park",
@@ -59145,9 +59184,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-10-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+    "https://skysports.com/football/news/13606363/aston-villa-1-1-fulham-zion-suzuki-concedes-own-goal-as-nicholas-jackson-scores-after-john-mcginns-penalty-miss-in-draw-with-fulham",
+    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193"
    ],
+   "updatedAt": "2026-11-01T01:48:06.090Z",
    "venueFrom": "home-ground"
   },
   {

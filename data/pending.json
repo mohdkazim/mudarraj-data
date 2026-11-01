@@ -8,38 +8,6 @@
   "seen": "2026-10-31T02:30:00Z"
  },
  {
-  "match": "laliga-2026-27-regular-r11-es-villarreal-es-espanyol",
-  "claim": "0-1",
-  "sources": [
-   "https://www.skysports.com/la-liga-scores-fixtures"
-  ],
-  "seen": "2026-10-31T08:20:00Z"
- },
- {
-  "match": "epl-2026-27-regular-r09-gb-eng-tottenham-hotspur-gb-eng-crystal-palace",
-  "claim": "2-0",
-  "sources": [
-   "https://www.skysports.com/football/tottenham-hotspur-vs-crystal-palace/8861892564913440232"
-  ],
-  "seen": "2026-10-31T21:35:57Z"
- },
- {
-  "match": "epl-2026-27-regular-r09-gb-eng-aston-villa-gb-eng-fulham",
-  "claim": "1-1",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures/2026-10-31"
-  ],
-  "seen": "2026-10-31T22:35:00Z"
- },
- {
-  "match": "laliga-2026-27-regular-r11-es-rayo-vallecano-es-celta-vigo",
-  "claim": "3-0",
-  "sources": [
-   "https://www.skysports.com/la-liga-scores-fixtures"
-  ],
-  "seen": "2026-10-31T22:35:00Z"
- },
- {
   "match": "serie-a-2026-27-regular-r10-it-udinese-it-roma",
   "claim": "2-5",
   "sources": [
@@ -54,5 +22,13 @@
    "https://www.skysports.com/serie-a-scores-fixtures"
   ],
   "seen": "2026-10-31T22:35:00Z"
+ },
+ {
+  "match": "laliga-2026-27-regular-r11-es-barcelona-es-alaves",
+  "claim": "6-1",
+  "sources": [
+   "https://www.skysports.com/football/video/13606532/barcelona-6-1-alaves-la-liga-highlights"
+  ],
+  "seen": "2026-11-01T01:36:00Z"
  }
 ]

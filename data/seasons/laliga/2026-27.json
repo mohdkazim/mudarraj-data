@@ -5274,14 +5274,18 @@
    "away": "es-espanyol",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261030"
-   ]
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-01T01:48:06.090Z"
   },
   {
    "id": "laliga-2026-27-regular-r11-es-levante-es-atletico-madrid",
@@ -5323,14 +5327,42 @@
    "away": "es-celta-vigo",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031"
-   ]
+    "https://www.365scores.com/en-uk/football/match/laliga-11/celta-vigo-rayo-vallecano-158-174-11",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Jorge De Frutos",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "home",
+     "player": "Jorge De Frutos",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Unai López",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-01T01:48:06.090Z"
   },
   {
    "id": "laliga-2026-27-regular-r11-es-real-betis-es-malaga",
