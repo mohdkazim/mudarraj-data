@@ -30,7 +30,7 @@ git clone https://github.com/mohdkazim/mudarraj-data.git && cd mudarraj-data   #
 node tools/status.mjs
 ```
 
-2. **Gather facts** for everything listed:
+2. **Gather facts** for everything listed, starting with **ANOMALIES** (see "Anomalies" below):
    - **NEEDS A RESULT:** look the match up on the competition's sources and confirm the score (see the rule above). Record half-time if a source shows it. For extra time or penalties, record `regular`, `et` and `pens`; a shoot-out straight after 90 minutes (no extra time played, as in the Coppa Italia before the final and the Super Cups) is `PEN` with `"noExtraTime": true`, `regular` equal to the score and no `et`. Record the goal scorers too (see "Goal scorers").
    - **NEEDS SCORERS** (results of the last 3 days without goal scorers): find one trusted page that lists every goal with its minute and add them (see "Goal scorers"). Not found → leave it; after 3 days a match drops off the list.
    - **KICK-OFF TIME NOT CONFIRMED:** look for the time on a Tier 1 or 2 site.
@@ -57,10 +57,20 @@ node tools/status.mjs
    git add -A && git commit -m "data: <date> — <n> results, <s> scorers, <m> fixtures, <q> squads" && git push
    ```
 
-6. **Report** in a few lines:
+6. **Report** in a few lines — first line: the anomalies found and what you did with each:
    - what changed: results, scorers and fixtures added or moved, squads copied or rechecked (and recent results still without scorers)
    - what is still waiting for a second source
    - anything that failed: unreadable sources, rejected changes
+
+## Anomalies (every morning, first; Mohamed, 1 Nov 2026: "check for any inconsistencies, something that is not ordinary, and fix it")
+
+`status.mjs` lists them at the top. Each one must be resolved or explained in the report — never left silently:
+- **STUCK** (no result 20+ hours after kick-off): the match was played, postponed, or moved. Check the organiser's fixture page and the clubs' own fixture pages (UAE: uaeproleague.ae and the club sites; Saudi: saff.com.sa `championship.php?id=415`), then the press. Played → `result`. Postponed → `status` PST. Moved → `fixture` with the same id and the new kick-off; if home and away changed, `delete` (with the reason) and add the organiser's fixture. Nothing found anywhere → say so in the first lines of the report.
+- **ODD TIME** (a Gulf or Asian match between 01:00 and 11:00 UAE): usually a local time stored as if it were UTC. Check the time on a Tier 1/2 page.
+- **BIG SCORE** (9+ goals): confirm with a second, different source; correct it if wrong.
+- **CLASH** (one team with two matches under 40 hours apart): one date is wrong, or it's a duplicate. Fix from the organiser's page.
+- **OLD CLAIM** (waiting for a second source for more than a day): look harder (official site, Kooora, 365Scores, club pages); still nothing → say so in the report.
+- Also fix anything else you notice that isn't ordinary (a result on a match that hasn't happened, a team in the wrong league, a duplicate match) and report it.
 
 ## Goal scorers
 

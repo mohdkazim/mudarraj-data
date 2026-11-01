@@ -119,6 +119,49 @@ if (resultsOnly) {
   process.exit(0);
 }
 console.log(`Window (Dubai): ${dubaiDate(new Date(from).toISOString())} → ${dubaiDate(new Date(to).toISOString())}\n`);
+// ANOMALIES (1 Nov 2026, Mohamed: "every morning check for any inconsistencies — something not ordinary — and fix it").
+// Things that look wrong in the published data, checked every morning before anything else.
+{
+  const out = [];
+  const H = 3600_000;
+  const label = (m) => `${m.id}  ${dubaiDate(m.kickoff ?? new Date(now).toISOString())}`;
+  const name = (id) => all.teamById.get(id)?.name.en ?? id ?? "?";
+  const ms = [];
+  for (const s of all.seasons.values()) for (const m of s.matches) ms.push(m);
+  for (const m of ms) {
+    if (!m.kickoff) continue;
+    const t = Date.parse(m.kickoff);
+    const desc = `${name(m.home)} v ${name(m.away)}`;
+    // 1. Still "not started" 20+ hours after kick-off: played, postponed or moved? Something is wrong either way.
+    if (["NS", "TBD", "LIVE", "HT"].includes(m.status) && t < now - 20 * H && t > now - 10 * 86400_000)
+      out.push(`  STUCK       ${label(m)}  ${desc} — no result ${Math.round((now - t) / H)} h after kick-off: find out whether it was played (result), postponed (status PST) or moved (fixture with the organiser's date, or delete + re-add if home/away changed)`);
+    // 2. Kick-off at an unusual hour in the UAE for Gulf leagues (01:00–11:00 UAE)
+    const uaeHour = new Date(t + 4 * H).getUTCHours();
+    if (/^(uae|saudi|gulf|acl|acle|asian)/.test(m.id) && uaeHour >= 1 && uaeHour < 11 && m.status === "NS")
+      out.push(`  ODD TIME    ${label(m)}  ${desc} — kicks off ${String(uaeHour).padStart(2, "0")}:xx UAE: check the time (local time stored as UTC?)`);
+    // 3. Very high scores: re-check before they stand
+    if (m.score && m.score.home + m.score.away >= 9 && t > now - 3 * 86400_000)
+      out.push(`  BIG SCORE   ${label(m)}  ${desc} ${m.score.home}-${m.score.away} — confirm with a second source`);
+  }
+  // 4. A team with two matches less than 40 hours apart (a duplicate or a wrong date)
+  const byTeam = new Map();
+  for (const m of ms) if (m.kickoff && !["PST", "CANC"].includes(m.status)) for (const id of [m.home, m.away]) if (id) (byTeam.get(id) ?? byTeam.set(id, []).get(id)).push(m);
+  for (const [id, list] of byTeam) {
+    list.sort((a, b) => a.kickoff.localeCompare(b.kickoff));
+    for (let i = 1; i < list.length; i++) {
+      const gap = Date.parse(list[i].kickoff) - Date.parse(list[i - 1].kickoff);
+      const t = Date.parse(list[i].kickoff);
+      if (gap < 40 * H && t > now - 3 * 86400_000 && t < now + 14 * 86400_000)
+        out.push(`  CLASH       ${name(id)}: ${list[i - 1].id} and ${list[i].id} only ${Math.round(gap / H)} h apart — one date is probably wrong (or a duplicate)`);
+    }
+  }
+  // 5. A claim waiting for a second source for more than a day
+  for (const p of readJSON(path.join(ROOT, "data", "pending.json"), []))
+    if (p.seen && Date.parse(p.seen) < now - 24 * H) out.push(`  OLD CLAIM   ${p.match}  claim ${p.claim} waiting since ${p.seen}: find the second source (official site, Kooora, 365Scores, the clubs' own pages)`);
+  console.log(`ANOMALIES — check and fix each one first, and say in the report what each was (RUNBOOK.md "Anomalies") (${out.length}):`);
+  for (const l of out) console.log(l);
+  console.log("");
+}
 console.log(`NEEDS A RESULT (${needResult.length}):`);
 for (const x of needResult.sort((a, b) => a.m.kickoff.localeCompare(b.m.kickoff))) console.log(line(x));
 const recentScorers = needScorers
