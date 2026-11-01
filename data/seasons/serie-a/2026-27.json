@@ -4467,13 +4467,29 @@
    "away": "it-venezia",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261101&limit=37"
-   ]
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/como-venezia-308-6117-17"
+   ],
+   "goals": [
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Lucas Da Cunha",
+     "type": "penalty"
+    }
+   ],
+   "updatedAt": "2026-11-01T16:43:05.697Z"
   },
   {
    "id": "serie-a-2026-27-regular-r10-it-frosinone-it-torino",
@@ -4489,14 +4505,21 @@
    "away": "it-torino",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261101&limit=37"
-   ]
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/frosinone-torino-235-254-17"
+   ],
+   "updatedAt": "2026-11-01T16:43:05.697Z"
   },
   {
    "id": "serie-a-2026-27-regular-r10-it-lazio-it-cagliari",

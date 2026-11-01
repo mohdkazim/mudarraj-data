@@ -3988,3 +3988,9 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-11-01 (2026-11-01T15:35:00Z)
 - 0 change(s) applied, 0 rejected, 5 waiting for a second source
+
+## 2026-11-01 (2026-11-01T16:36:00Z)
+- 3 change(s) applied, 0 rejected, 5 waiting for a second source
+  - ✓ result serie-a-2026-27-regular-r10-it-como-it-venezia 1-0 FT
+  - ✓ result serie-a-2026-27-regular-r10-it-frosinone-it-torino 2-0 FT
+  - ✓ result bundesliga-2026-27-regular-r08-de-union-berlin-de-fc-koln 1-1 FT

@@ -3868,14 +3868,35 @@
    "away": "de-fc-koln",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261101&limit=37"
-   ]
+    "https://www.bundesliga.com/de/bundesliga/news/1-fc-union-berlin-1-fc-koeln-spieltag-8-spielbericht-highlights-39833"
+   ],
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Janik Haberer",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Malek El Mala",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-01T16:43:05.697Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r08-de-eintracht-frankfurt-de-hamburger-sv",

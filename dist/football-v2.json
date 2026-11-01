@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-01T15:42:09.827Z",
+ "generatedAt": "2026-11-01T16:43:05.929Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 775,
+  "results": 778,
   "pending": 5
  },
  "teams": [
@@ -59251,8 +59251,15 @@
    "away": "it-venezia",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadio Giuseppe Sinigaglia",
@@ -59265,8 +59272,17 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261101&limit=37"
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/como-venezia-308-6117-17"
    ],
+   "goals": [
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Lucas Da Cunha",
+     "type": "penalty"
+    }
+   ],
+   "updatedAt": "2026-11-01T16:43:05.697Z",
    "venueFrom": "home-ground"
   },
   {
@@ -59355,8 +59371,15 @@
    "away": "it-torino",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadio Benito Stirpe",
@@ -59369,9 +59392,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261101&limit=37"
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/frosinone-torino-235-254-17"
    ],
+   "updatedAt": "2026-11-01T16:43:05.697Z",
    "venueFrom": "home-ground"
   },
   {
@@ -59425,8 +59448,15 @@
    "away": "de-fc-koln",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadion An der Alten Försterei",
@@ -59439,9 +59469,23 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261101&limit=37"
+    "https://www.bundesliga.com/de/bundesliga/news/1-fc-union-berlin-1-fc-koeln-spieltag-8-spielbericht-highlights-39833"
    ],
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Janik Haberer",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Malek El Mala",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-01T16:43:05.697Z",
    "venueFrom": "home-ground"
   },
   {

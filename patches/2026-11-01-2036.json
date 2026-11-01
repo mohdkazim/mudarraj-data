@@ -1,0 +1,15 @@
+{
+  "run": "2026-11-01T16:36:00Z",
+  "changes": [
+    { "op": "result", "match": "serie-a-2026-27-regular-r10-it-como-it-venezia", "status": "FT", "score": [1,0], "ht": [1,0],
+      "goals": [ { "minute": 43, "side": "home", "player": "Lucas Da Cunha", "type": "penalty" } ],
+      "sources": ["https://www.365scores.com/en-uk/football/match/serie-a-17/como-venezia-308-6117-17"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r10-it-frosinone-it-torino", "status": "FT", "score": [2,0], "ht": [0,0],
+      "sources": ["https://www.365scores.com/en-uk/football/match/serie-a-17/frosinone-torino-235-254-17"] },
+    { "op": "result", "match": "bundesliga-2026-27-regular-r08-de-union-berlin-de-fc-koln", "status": "FT", "score": [1,1], "ht": [1,0],
+      "goals": [ { "minute": 10, "side": "home", "player": "Janik Haberer", "type": "goal" },
+                 { "minute": 79, "side": "away", "player": "Malek El Mala", "type": "goal" } ],
+      "sources": ["https://www.bundesliga.com/de/bundesliga/news/1-fc-union-berlin-1-fc-koeln-spieltag-8-spielbericht-highlights-39833"] }
+  ],
+  "unconfirmed": []
+}
