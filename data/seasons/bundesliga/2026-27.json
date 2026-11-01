@@ -3912,14 +3912,47 @@
    "away": "de-hamburger-sv",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261101&limit=37"
-   ]
+    "https://www.bundesliga.com/de/bundesliga/news/eintracht-frankfurt-hamburger-sv-spieltag-8-spielbericht-highlights-39836"
+   ],
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Warmed Omari",
+     "type": "own-goal"
+    },
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Terem Moffi",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "home",
+     "player": "Raphael Onyedika",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Younes Ebnoutalib",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-01T20:38:16.785Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r09-de-hamburger-sv-de-borussia-monchengladbach",

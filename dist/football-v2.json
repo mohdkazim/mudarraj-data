@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-01T19:38:49.367Z",
+ "generatedAt": "2026-11-01T20:38:17.040Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 780,
-  "pending": 5
+  "results": 782,
+  "pending": 7
  },
  "teams": [
   {
@@ -59628,8 +59628,15 @@
    "away": "de-hamburger-sv",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Deutsche Bank Park",
@@ -59642,9 +59649,35 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261101&limit=37"
+    "https://www.bundesliga.com/de/bundesliga/news/eintracht-frankfurt-hamburger-sv-spieltag-8-spielbericht-highlights-39836"
    ],
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Warmed Omari",
+     "type": "own-goal"
+    },
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Terem Moffi",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "home",
+     "player": "Raphael Onyedika",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Younes Ebnoutalib",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-01T20:38:16.785Z",
    "venueFrom": "home-ground"
   },
   {
@@ -59745,8 +59778,15 @@
    "away": "es-valencia",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Martínez Valero",
@@ -59759,9 +59799,17 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.365scores.com/en-uk/football/match/laliga-11/elche-valencia-139-156-11"
    ],
+   "goals": [
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Umar Sadiq",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-01T20:38:16.785Z",
    "venueFrom": "home-ground"
   },
   {

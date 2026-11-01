@@ -1,0 +1,20 @@
+{
+  "run": "2026-11-01T20:36:00Z",
+  "changes": [
+    { "op": "result", "match": "bundesliga-2026-27-regular-r08-de-eintracht-frankfurt-de-hamburger-sv", "status": "FT", "score": [3,1], "ht": [1,1],
+      "goals": [
+        { "minute": 10, "side": "home", "player": "Warmed Omari", "type": "own-goal" },
+        { "minute": 14, "side": "away", "player": "Terem Moffi", "type": "goal" },
+        { "minute": 47, "side": "home", "player": "Raphael Onyedika", "type": "goal" },
+        { "minute": 69, "side": "home", "player": "Younes Ebnoutalib", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/de/bundesliga/news/eintracht-frankfurt-hamburger-sv-spieltag-8-spielbericht-highlights-39836"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r11-es-elche-es-valencia", "status": "FT", "score": [0,1], "ht": [0,0],
+      "goals": [ { "minute": 69, "side": "away", "player": "Umar Sadiq", "type": "goal" } ],
+      "sources": ["https://www.365scores.com/en-uk/football/match/laliga-11/elche-valencia-139-156-11"] }
+  ],
+  "unconfirmed": [
+    { "match": "laliga-2026-27-regular-r11-es-racing-santander-es-real-madrid", "claim": "0-3", "sources": ["https://www.skysports.com/football-scores-fixtures"] },
+    { "match": "serie-a-2026-27-regular-r10-it-lecce-it-genoa", "claim": "1-2", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+  ]
+}

@@ -5502,14 +5502,29 @@
    "away": "es-valencia",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.365scores.com/en-uk/football/match/laliga-11/elche-valencia-139-156-11"
+   ],
+   "goals": [
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Umar Sadiq",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-01T20:38:16.785Z"
   },
   {
    "id": "laliga-2026-27-regular-r11-es-athletic-club-es-real-sociedad",
