@@ -1,0 +1,251 @@
+{
+ "run": "2026-11-01T13:30:00Z",
+ "changes": [
+  {
+   "op": "delete",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-al-dhafra-ae-al-wasl",
+   "reason": "Wrong: the whole of round 7 was postponed (365Scores, ysscores, 1 Nov 2026); the 31 Oct move with home and away reversed was a misreading of the league site"
+  },
+  {
+   "op": "delete",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-kalba-ae-shabab-al-ahli",
+   "reason": "Wrong: the whole of round 7 was postponed (365Scores, ysscores, 1 Nov 2026); the 31 Oct move with home and away reversed was a misreading of the league site"
+  },
+  {
+   "op": "delete",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-khorfakkan-ae-united",
+   "reason": "Wrong: the whole of round 7 was postponed (365Scores, ysscores, 1 Nov 2026); the 31 Oct move with home and away reversed was a misreading of the league site"
+  },
+  {
+   "op": "delete",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-al-nasr-ae-sharjah",
+   "reason": "Wrong: the whole of round 7 was postponed (365Scores, ysscores, 1 Nov 2026); the 31 Oct move with home and away reversed was a misreading of the league site"
+  },
+  {
+   "op": "delete",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-bani-yas-ae-al-jazira",
+   "reason": "Wrong: the whole of round 7 was postponed (365Scores, ysscores, 1 Nov 2026); the 31 Oct move with home and away reversed was a misreading of the league site"
+  },
+  {
+   "op": "delete",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-hatta-ae-al-wahda",
+   "reason": "Wrong: the whole of round 7 was postponed (365Scores, ysscores, 1 Nov 2026); the 31 Oct move with home and away reversed was a misreading of the league site"
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "ae-al-wasl",
+   "away": "ae-al-dhafra",
+   "kickoff": "2026-10-30T12:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f72-7604-11f1-b32b-0289588efdb9"
+   ],
+   "venue": {
+    "name": {
+     "en": "Zabeel Stadium",
+     "ar": "استاد زعبيل"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   }
+  },
+  {
+   "op": "status",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-al-wasl-ae-al-dhafra",
+   "status": "PST",
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/uae-pro-league-549/al-dhafra-al-wasl-8346-8352-549",
+    "https://www.ysscores.com/ar/match/6366041/Al-Wasl-FC-vs-Al-Dhafra-FC"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "ae-united",
+   "away": "ae-khorfakkan",
+   "kickoff": "2026-10-30T12:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f6a-7604-11f1-b32b-0289588efdb9"
+   ],
+   "venue": {
+    "name": {
+     "en": "Al Maktoum Stadium",
+     "ar": "استاد آل مكتوم"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   }
+  },
+  {
+   "op": "status",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-united-ae-khorfakkan",
+   "status": "PST",
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/uae-pro-league-549/al-dhafra-al-wasl-8346-8352-549",
+    "https://www.ysscores.com/ar/match/6366041/Al-Wasl-FC-vs-Al-Dhafra-FC"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "ae-shabab-al-ahli",
+   "away": "ae-kalba",
+   "kickoff": "2026-10-30T15:35:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f70-7604-11f1-b32b-0289588efdb9"
+   ],
+   "venue": {
+    "name": {
+     "en": "Rashid Stadium",
+     "ar": "استاد راشد"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   }
+  },
+  {
+   "op": "status",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-shabab-al-ahli-ae-kalba",
+   "status": "PST",
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/uae-pro-league-549/al-dhafra-al-wasl-8346-8352-549",
+    "https://www.ysscores.com/ar/match/6366041/Al-Wasl-FC-vs-Al-Dhafra-FC"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "ae-al-wahda",
+   "away": "ae-hatta",
+   "kickoff": "2026-11-01T12:55:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f6c-7604-11f1-b32b-0289588efdb9"
+   ],
+   "venue": {
+    "name": {
+     "en": "Al Nahyan Stadium",
+     "ar": "استاد آل نهيان"
+    },
+    "city": {
+     "en": "Abu Dhabi",
+     "ar": "أبوظبي"
+    }
+   }
+  },
+  {
+   "op": "status",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-al-wahda-ae-hatta",
+   "status": "PST",
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/uae-pro-league-549/al-dhafra-al-wasl-8346-8352-549",
+    "https://www.ysscores.com/ar/match/6366041/Al-Wasl-FC-vs-Al-Dhafra-FC"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "ae-al-jazira",
+   "away": "ae-bani-yas",
+   "kickoff": "2026-11-01T15:35:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f6e-7604-11f1-b32b-0289588efdb9"
+   ],
+   "venue": {
+    "name": {
+     "en": "Mohammed bin Zayed Stadium",
+     "ar": "استاد محمد بن زايد"
+    },
+    "city": {
+     "en": "Abu Dhabi",
+     "ar": "أبوظبي"
+    }
+   }
+  },
+  {
+   "op": "status",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-al-jazira-ae-bani-yas",
+   "status": "PST",
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/uae-pro-league-549/al-dhafra-al-wasl-8346-8352-549",
+    "https://www.ysscores.com/ar/match/6366041/Al-Wasl-FC-vs-Al-Dhafra-FC"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-pro-league",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 7
+   },
+   "home": "ae-sharjah",
+   "away": "ae-al-nasr",
+   "kickoff": "2026-11-01T15:35:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://uaeproleague.ae/en/fixtures/22e17f74-7604-11f1-b32b-0289588efdb9"
+   ],
+   "venue": {
+    "name": {
+     "en": "Sharjah Stadium",
+     "ar": "استاد الشارقة"
+    },
+    "city": {
+     "en": "Sharjah",
+     "ar": "الشارقة"
+    }
+   }
+  },
+  {
+   "op": "status",
+   "match": "uae-pro-league-2026-27-regular-r07-ae-sharjah-ae-al-nasr",
+   "status": "PST",
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/uae-pro-league-549/al-dhafra-al-wasl-8346-8352-549",
+    "https://www.ysscores.com/ar/match/6366041/Al-Wasl-FC-vs-Al-Dhafra-FC"
+   ]
+  }
+ ]
+}

@@ -3964,3 +3964,24 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result laliga-2026-27-regular-r11-es-rayo-vallecano-es-celta-vigo 3-0 FT
   - ✓ result epl-2026-27-regular-r09-gb-eng-tottenham-hotspur-gb-eng-crystal-palace 2-0 FT
   - ✓ result epl-2026-27-regular-r09-gb-eng-aston-villa-gb-eng-fulham 1-1 FT
+
+## 2026-11-01 (2026-11-01T13:30:00Z)
+- 18 change(s) applied, 0 rejected, 4 waiting for a second source
+  - ✓ delete uae-pro-league-2026-27-regular-r07-ae-al-dhafra-ae-al-wasl deleted (Wrong: the whole of round 7 was postponed (365Scores, ysscores, 1 Nov 2026); the 31 Oct move with home and away reversed was a misreading of the league site)
+  - ✓ delete uae-pro-league-2026-27-regular-r07-ae-kalba-ae-shabab-al-ahli deleted (Wrong: the whole of round 7 was postponed (365Scores, ysscores, 1 Nov 2026); the 31 Oct move with home and away reversed was a misreading of the league site)
+  - ✓ delete uae-pro-league-2026-27-regular-r07-ae-khorfakkan-ae-united deleted (Wrong: the whole of round 7 was postponed (365Scores, ysscores, 1 Nov 2026); the 31 Oct move with home and away reversed was a misreading of the league site)
+  - ✓ delete uae-pro-league-2026-27-regular-r07-ae-al-nasr-ae-sharjah deleted (Wrong: the whole of round 7 was postponed (365Scores, ysscores, 1 Nov 2026); the 31 Oct move with home and away reversed was a misreading of the league site)
+  - ✓ delete uae-pro-league-2026-27-regular-r07-ae-bani-yas-ae-al-jazira deleted (Wrong: the whole of round 7 was postponed (365Scores, ysscores, 1 Nov 2026); the 31 Oct move with home and away reversed was a misreading of the league site)
+  - ✓ delete uae-pro-league-2026-27-regular-r07-ae-hatta-ae-al-wahda deleted (Wrong: the whole of round 7 was postponed (365Scores, ysscores, 1 Nov 2026); the 31 Oct move with home and away reversed was a misreading of the league site)
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-al-wasl-ae-al-dhafra added
+  - ✓ status uae-pro-league-2026-27-regular-r07-ae-al-wasl-ae-al-dhafra PST
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-united-ae-khorfakkan added
+  - ✓ status uae-pro-league-2026-27-regular-r07-ae-united-ae-khorfakkan PST
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-shabab-al-ahli-ae-kalba added
+  - ✓ status uae-pro-league-2026-27-regular-r07-ae-shabab-al-ahli-ae-kalba PST
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-al-wahda-ae-hatta added
+  - ✓ status uae-pro-league-2026-27-regular-r07-ae-al-wahda-ae-hatta PST
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-al-jazira-ae-bani-yas added
+  - ✓ status uae-pro-league-2026-27-regular-r07-ae-al-jazira-ae-bani-yas PST
+  - ✓ fixture uae-pro-league-2026-27-regular-r07-ae-sharjah-ae-al-nasr added
+  - ✓ status uae-pro-league-2026-27-regular-r07-ae-sharjah-ae-al-nasr PST
