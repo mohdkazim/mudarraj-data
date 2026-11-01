@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-01T16:43:05.929Z",
+ "generatedAt": "2026-11-01T17:43:28.901Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 419,
+  "results": 420,
   "pending": 5
  },
  "teams": [
@@ -37229,8 +37229,11 @@
    "away": "es-sevilla",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Coliseum",
@@ -37243,9 +37246,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.365scores.com/en-uk/football/team/sevilla-135",
+    "https://www.skysports.com/sevilla-scores-fixtures"
    ],
+   "updatedAt": "2026-11-01T17:43:28.672Z",
    "venueFrom": "home-ground"
   },
   {

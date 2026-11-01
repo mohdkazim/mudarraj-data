@@ -3994,3 +3994,8 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result serie-a-2026-27-regular-r10-it-como-it-venezia 1-0 FT
   - ✓ result serie-a-2026-27-regular-r10-it-frosinone-it-torino 2-0 FT
   - ✓ result bundesliga-2026-27-regular-r08-de-union-berlin-de-fc-koln 1-1 FT
+
+## 2026-11-01 (2026-11-01T17:35:00Z)
+- 2 change(s) applied, 0 rejected, 5 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r11-es-getafe-es-sevilla 3-1 FT
+  - ✓ result serie-a-2026-27-regular-r10-it-frosinone-it-torino added scorers to the confirmed result
