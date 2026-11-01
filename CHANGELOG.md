@@ -4008,3 +4008,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 7 waiting for a second source
   - ✓ result bundesliga-2026-27-regular-r08-de-eintracht-frankfurt-de-hamburger-sv 3-1 FT
   - ✓ result laliga-2026-27-regular-r11-es-elche-es-valencia 0-1 FT
+
+## 2026-11-02 (2026-11-01T21:35:00Z)
+- 1 change(s) applied, 0 rejected, 6 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r11-es-racing-santander-es-real-madrid 0-3 FT

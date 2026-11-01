@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-01T20:38:17.040Z",
+ "generatedAt": "2026-11-01T21:37:17.261Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 422,
-  "pending": 7
+  "results": 423,
+  "pending": 6
  },
  "teams": [
   {
@@ -37268,8 +37268,11 @@
    "away": "es-real-madrid",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
    "venue": {
     "name": {
      "en": "El Sardinero",
@@ -37282,9 +37285,31 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.arabnews.com/football/real-madrid-extend-winning-run-with-3-0-victory-at-racing-santander-3009329",
+    "https://www.skysports.com/football/racing-santander-vs-real-madrid/563030"
    ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Kylian Mbappé",
+     "type": "penalty"
+    },
+    {
+     "minute": 21,
+     "side": "away",
+     "player": "Jude Bellingham",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "away",
+     "player": "Yan Diomande",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-01T21:37:17.024Z",
    "venueFrom": "home-ground"
   },
   {

@@ -5479,14 +5479,39 @@
    "away": "es-real-madrid",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.arabnews.com/football/real-madrid-extend-winning-run-with-3-0-victory-at-racing-santander-3009329",
+    "https://www.skysports.com/football/racing-santander-vs-real-madrid/563030"
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Kylian Mbappé",
+     "type": "penalty"
+    },
+    {
+     "minute": 21,
+     "side": "away",
+     "player": "Jude Bellingham",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "away",
+     "player": "Yan Diomande",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-01T21:37:17.024Z"
   },
   {
    "id": "laliga-2026-27-regular-r11-es-elche-es-valencia",

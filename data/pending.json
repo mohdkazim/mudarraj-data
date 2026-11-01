@@ -40,14 +40,6 @@
   "seen": "2026-11-01T17:35:00Z"
  },
  {
-  "match": "laliga-2026-27-regular-r11-es-racing-santander-es-real-madrid",
-  "claim": "0-3",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures"
-  ],
-  "seen": "2026-11-01T20:36:00Z"
- },
- {
   "match": "serie-a-2026-27-regular-r10-it-lecce-it-genoa",
   "claim": "1-2",
   "sources": [
