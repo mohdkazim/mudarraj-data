@@ -3999,3 +3999,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 5 waiting for a second source
   - ✓ result laliga-2026-27-regular-r11-es-getafe-es-sevilla 3-1 FT
   - ✓ result serie-a-2026-27-regular-r10-it-frosinone-it-torino added scorers to the confirmed result
+
+## 2026-11-01 (2026-11-01T19:38:00Z)
+- 1 change(s) applied, 0 rejected, 5 waiting for a second source
+  - ✓ result epl-2026-27-regular-r09-gb-eng-liverpool-gb-eng-arsenal 0-1 FT

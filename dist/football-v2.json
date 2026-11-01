@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-01T17:43:28.901Z",
+ "generatedAt": "2026-11-01T19:38:49.367Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 779,
+  "results": 780,
   "pending": 5
  },
  "teams": [
@@ -59663,8 +59663,11 @@
    "away": "gb-eng-arsenal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Anfield",
@@ -59677,9 +59680,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+    "https://www.skysports.com/football/news/13606658/liverpool-0-1-arsenal-kai-havertz-seals-gunners-first-victory-at-anfield-for-14-years-to-move-top-of-premier-league",
+    "https://www.khaleejtimes.com/sports/football/arsenal-ride-out-liverpool-storm-to-top-premier-league-2"
    ],
+   "goals": [
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "Kai Havertz",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-01T19:38:49.197Z",
    "venueFrom": "home-ground"
   },
   {

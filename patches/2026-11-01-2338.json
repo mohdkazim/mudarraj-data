@@ -1,0 +1,12 @@
+{
+  "run": "2026-11-01T19:38:00Z",
+  "changes": [
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-liverpool-gb-eng-arsenal", "status": "FT", "score": [0,1],
+      "goals": [ { "minute": 16, "side": "away", "player": "Kai Havertz", "type": "goal" } ],
+      "sources": [
+        "https://www.skysports.com/football/news/13606658/liverpool-0-1-arsenal-kai-havertz-seals-gunners-first-victory-at-anfield-for-14-years-to-move-top-of-premier-league",
+        "https://www.khaleejtimes.com/sports/football/arsenal-ride-out-liverpool-storm-to-top-premier-league-2"
+      ] }
+  ],
+  "unconfirmed": []
+}
