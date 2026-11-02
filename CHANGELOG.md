@@ -4063,3 +4063,6 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 3 waiting for a second source
   - ✓ result acle-2026-27-league-west-gwest-r04-qa-al-gharafa-sa-al-qadsiah 0-5 FT
   - ✓ result acle-2026-27-league-west-gwest-r04-sa-al-ittihad-ae-al-ain 1-4 FT
+
+## 2026-11-03 (2026-11-02T22:35:00Z)
+- 0 change(s) applied, 0 rejected, 4 waiting for a second source
