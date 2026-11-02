@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-01T22:37:30.557Z",
+ "generatedAt": "2026-11-02T01:54:28.177Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 423,
-  "pending": 7
+  "results": 424,
+  "pending": 2
  },
  "teams": [
   {
@@ -25474,44 +25474,6 @@
    "venueFrom": "home-ground"
   },
   {
-   "competition": "laliga",
-   "season": "2026-27",
-   "id": "laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 8
-   },
-   "kickoff": "2026-10-10T12:00:00Z",
-   "timeConfirmed": true,
-   "home": "es-rayo-vallecano",
-   "away": "es-athletic-club",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "ABD",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Estadio de Vallecas",
-     "ar": "ملعب فاليكاس"
-    },
-    "city": {
-     "en": "Madrid",
-     "ar": "مدريد"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=8&s=2026-2027",
-    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-athletic-club-8",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
    "competition": "epl",
    "season": "2026-27",
    "id": "epl-2026-27-regular-r06-gb-eng-aston-villa-gb-eng-brentford",
@@ -36813,9 +36775,24 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
-    "https://www.skysports.com/premier-league-scores-fixtures"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://www.skysports.com/football/brentford-vs-nottingham-forest/live/559526"
    ],
    "updatedAt": "2026-10-31T21:45:48.090Z",
+   "goals": [
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "N Milenkovic",
+     "type": "own-goal"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "I Thiago",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -36856,9 +36833,36 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
-    "https://www.skysports.com/premier-league-scores-fixtures"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://skysports.com/football/coventry-city-vs-sunderland/live/559528"
    ],
    "updatedAt": "2026-10-31T21:45:48.090Z",
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "T Sakamoto",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "T Awoniyi",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "J Rudoni",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "E Le Fée",
+     "type": "penalty"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -36934,9 +36938,18 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
-    "https://www.skysports.com/premier-league-scores-fixtures"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://www.skysports.com/football/manchester-city-vs-brighton-and-hove-albion/live/559531"
    ],
    "updatedAt": "2026-10-31T21:45:48.090Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Y Ayari",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -37036,9 +37049,24 @@
    "neutral": false,
    "sources": [
     "https://skysports.com/football/tottenham-hotspur-vs-crystal-palace/report/559533",
-    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193"
+    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193",
+    "https://www.skysports.com/football/tottenham-hotspur-vs-crystal-palace/live/559533"
    ],
    "updatedAt": "2026-11-01T01:48:06.090Z",
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "A Gray",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "J van Hecke",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -37138,9 +37166,25 @@
    "neutral": false,
    "sources": [
     "https://skysports.com/football/news/13606363/aston-villa-1-1-fulham-zion-suzuki-concedes-own-goal-as-nicholas-jackson-scores-after-john-mcginns-penalty-miss-in-draw-with-fulham",
-    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193"
+    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193",
+    "https://www.skysports.com/football/aston-villa-vs-fulham/live/559524",
+    "https://www.skysports.com/football/aston-villa-vs-fulham/559524"
    ],
    "updatedAt": "2026-11-01T01:48:06.090Z",
+   "goals": [
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "N Jackson",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Z Suzuki",
+     "type": "own-goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -37159,8 +37203,11 @@
    "away": "es-alaves",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 6,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Spotify Camp Nou",
@@ -37173,9 +37220,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031"
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/football/video/13606532/barcelona-6-1-alaves-la-liga-highlights"
    ],
+   "updatedAt": "2026-11-02T01:54:22.472Z",
    "venueFrom": "home-ground"
   },
   {
@@ -45728,6 +45776,45 @@
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261209",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-12-09T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-rayo-vallecano",
+   "away": "es-athletic-club",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Estadio de Vallecas",
+     "ar": "ملعب فاليكاس"
+    },
+    "city": {
+     "en": "Madrid",
+     "ar": "مدريد"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=8&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-athletic-club-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/clubs/rayo-vallecano/next-matches"
    ],
    "venueFrom": "home-ground"
   },

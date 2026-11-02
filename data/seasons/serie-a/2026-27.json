@@ -4368,14 +4368,18 @@
    "away": "it-atalanta",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/serie-a-17/matches",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261029&limit=37"
-   ]
+    "https://www.365scores.com/en-us/football/league/serie-a-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-02T01:54:22.472Z"
   },
   {
    "id": "serie-a-2026-27-regular-r10-it-bologna-it-monza",
@@ -4421,14 +4425,22 @@
    "away": "it-roma",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 5,
+    "ht": [
+     0,
+     4
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261031&limit=37"
-   ]
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/as-roma-udinese-225-229-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-02T01:54:22.472Z"
   },
   {
    "id": "serie-a-2026-27-regular-r10-it-ac-milan-it-inter-milan",
@@ -4444,14 +4456,48 @@
    "away": "it-inter-milan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     3,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261031&limit=37"
-   ]
+    "https://www.365scores.com/en-us/football/match/serie-a-17/ac-milan-inter-milan-224-227-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Christian Pulisic",
+     "type": "goal"
+    },
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Adrien Rabiot",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Alessandro Bastoni",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Diego Moreira",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-02T01:54:22.472Z"
   },
   {
    "id": "serie-a-2026-27-regular-r10-it-como-it-venezia",
@@ -4573,14 +4619,18 @@
    "away": "it-genoa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261101&limit=37"
-   ]
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/as-roma-udinese-225-229-17",
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-02T01:54:22.472Z"
   },
   {
    "id": "serie-a-2026-27-regular-r10-it-juventus-it-napoli",
@@ -4596,14 +4646,18 @@
    "away": "it-napoli",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261101&limit=37"
-   ]
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/as-roma-udinese-225-229-17",
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-02T01:54:22.472Z"
   },
   {
    "id": "serie-a-2026-27-regular-r10-it-sassuolo-it-fiorentina",

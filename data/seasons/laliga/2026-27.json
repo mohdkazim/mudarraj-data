@@ -3748,32 +3748,6 @@
    ]
   },
   {
-   "id": "laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 8
-   },
-   "kickoff": "2026-10-10T12:00:00Z",
-   "timeConfirmed": true,
-   "home": "es-rayo-vallecano",
-   "away": "es-athletic-club",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "ABD",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=8&s=2026-2027",
-    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-athletic-club-8",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
-   ]
-  },
-  {
    "id": "laliga-2026-27-regular-r08-es-alaves-es-atletico-madrid",
    "stage": {
     "key": "regular",
@@ -5429,14 +5403,18 @@
    "away": "es-alaves",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 6,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031"
-   ]
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/football/video/13606532/barcelona-6-1-alaves-la-liga-highlights"
+   ],
+   "updatedAt": "2026-11-02T01:54:22.472Z"
   },
   {
    "id": "laliga-2026-27-regular-r11-es-getafe-es-sevilla",
@@ -6280,6 +6258,33 @@
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-12-09T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-rayo-vallecano",
+   "away": "es-athletic-club",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=8&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-athletic-club-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/clubs/rayo-vallecano/next-matches"
    ]
   }
  ]

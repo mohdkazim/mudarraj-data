@@ -1,0 +1,101 @@
+{
+ "competition": "saudi-pro-league",
+ "season": "2026-27",
+ "table": "overall",
+ "asOf": "2026-10-30T12:00:00Z",
+ "rows": [
+  {
+   "team": "sa-al-qadsiah",
+   "played": 12,
+   "points": 28
+  },
+  {
+   "team": "sa-al-nassr",
+   "played": 11,
+   "points": 28
+  },
+  {
+   "team": "sa-al-hilal",
+   "played": 10,
+   "points": 27
+  },
+  {
+   "team": "sa-al-ittihad",
+   "played": 10,
+   "points": 23
+  },
+  {
+   "team": "sa-al-ahli-saudi",
+   "played": 10,
+   "points": 21
+  },
+  {
+   "team": "sa-neom",
+   "played": 11,
+   "points": 19
+  },
+  {
+   "team": "sa-al-ettifaq",
+   "played": 11,
+   "points": 18
+  },
+  {
+   "team": "sa-al-diriyah",
+   "played": 11,
+   "points": 15
+  },
+  {
+   "team": "sa-al-khaleej",
+   "played": 12,
+   "points": 15
+  },
+  {
+   "team": "sa-al-kholood",
+   "played": 11,
+   "points": 12
+  },
+  {
+   "team": "sa-al-riyadh",
+   "played": 11,
+   "points": 12
+  },
+  {
+   "team": "sa-al-shabab",
+   "played": 10,
+   "points": 11
+  },
+  {
+   "team": "sa-al-hazem",
+   "played": 12,
+   "points": 10
+  },
+  {
+   "team": "sa-al-faisaly",
+   "played": 11,
+   "points": 10
+  },
+  {
+   "team": "sa-al-fayha",
+   "played": 11,
+   "points": 8
+  },
+  {
+   "team": "sa-al-fateh",
+   "played": 11,
+   "points": 6
+  },
+  {
+   "team": "sa-al-taawoun",
+   "played": 11,
+   "points": 4
+  },
+  {
+   "team": "sa-abha",
+   "played": 10,
+   "points": 2
+  }
+ ],
+ "sources": [
+  "https://www.365scores.com/football/league/saudi-league-649/standings"
+ ]
+}

@@ -3907,9 +3907,24 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
-    "https://www.skysports.com/premier-league-scores-fixtures"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://www.skysports.com/football/brentford-vs-nottingham-forest/live/559526"
    ],
-   "updatedAt": "2026-10-31T21:45:48.090Z"
+   "updatedAt": "2026-10-31T21:45:48.090Z",
+   "goals": [
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "N Milenkovic",
+     "type": "own-goal"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "I Thiago",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r09-gb-eng-coventry-city-gb-eng-sunderland",
@@ -3938,9 +3953,36 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
-    "https://www.skysports.com/premier-league-scores-fixtures"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://skysports.com/football/coventry-city-vs-sunderland/live/559528"
    ],
-   "updatedAt": "2026-10-31T21:45:48.090Z"
+   "updatedAt": "2026-10-31T21:45:48.090Z",
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "T Sakamoto",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "T Awoniyi",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "J Rudoni",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "E Le Fée",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r09-gb-eng-hull-city-gb-eng-ipswich-town",
@@ -3992,9 +4034,18 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
-    "https://www.skysports.com/premier-league-scores-fixtures"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://www.skysports.com/football/manchester-city-vs-brighton-and-hove-albion/live/559531"
    ],
-   "updatedAt": "2026-10-31T21:45:48.090Z"
+   "updatedAt": "2026-10-31T21:45:48.090Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Y Ayari",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r09-gb-eng-tottenham-hotspur-gb-eng-crystal-palace",
@@ -4019,9 +4070,24 @@
    "neutral": false,
    "sources": [
     "https://skysports.com/football/tottenham-hotspur-vs-crystal-palace/report/559533",
-    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193"
+    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193",
+    "https://www.skysports.com/football/tottenham-hotspur-vs-crystal-palace/live/559533"
    ],
-   "updatedAt": "2026-11-01T01:48:06.090Z"
+   "updatedAt": "2026-11-01T01:48:06.090Z",
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "A Gray",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "J van Hecke",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r09-gb-eng-aston-villa-gb-eng-fulham",
@@ -4046,9 +4112,25 @@
    "neutral": false,
    "sources": [
     "https://skysports.com/football/news/13606363/aston-villa-1-1-fulham-zion-suzuki-concedes-own-goal-as-nicholas-jackson-scores-after-john-mcginns-penalty-miss-in-draw-with-fulham",
-    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193"
+    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193",
+    "https://www.skysports.com/football/aston-villa-vs-fulham/live/559524",
+    "https://www.skysports.com/football/aston-villa-vs-fulham/559524"
    ],
-   "updatedAt": "2026-11-01T01:48:06.090Z"
+   "updatedAt": "2026-11-01T01:48:06.090Z",
+   "goals": [
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "N Jackson",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Z Suzuki",
+     "type": "own-goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r09-gb-eng-liverpool-gb-eng-arsenal",

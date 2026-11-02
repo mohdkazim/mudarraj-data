@@ -4635,9 +4635,24 @@
    "neutral": false,
    "sources": [
     "https://www.saff.com.sa/championship.php?id=415",
-    "https://www.365scores.com/en-us/football/match/mbs-league-649/abha-club-ittihad-jeddah-8593-14898-649"
+    "https://www.365scores.com/en-us/football/match/mbs-league-649/abha-club-ittihad-jeddah-8593-14898-649",
+    "https://www.365scores.com/football/match/saudi-league-649/abha-club-ittihad-jeddah-8593-14898-649"
    ],
-   "updatedAt": "2026-10-31T08:10:07.198Z"
+   "updatedAt": "2026-10-31T08:10:07.198Z",
+   "goals": [
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Houssem Aouar",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Faisal Al-Subiani",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "saudi-pro-league-2026-27-regular-r12-sa-al-diriyah-sa-neom",
@@ -4774,6 +4789,29 @@
    "updatedAt": "2026-10-31T20:39:47.577Z"
   },
   {
+   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-05T13:25:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-kholood",
+   "away": "sa-al-khaleej",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
+   ]
+  },
+  {
    "id": "saudi-pro-league-2026-27-regular-r13-sa-abha-sa-al-shabab",
    "stage": {
     "key": "regular",
@@ -4781,8 +4819,8 @@
     "group": null,
     "round": 13
    },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
+   "kickoff": "2026-11-05T15:10:00Z",
+   "timeConfirmed": true,
    "home": "sa-abha",
    "away": "sa-al-shabab",
    "homePlaceholder": null,
@@ -4792,21 +4830,22 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ]
   },
   {
-   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-ahli-saudi-sa-al-taawoun",
+   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha",
    "stage": {
     "key": "regular",
     "type": "league",
     "group": null,
     "round": 13
    },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
-   "home": "sa-al-ahli-saudi",
-   "away": "sa-al-taawoun",
+   "kickoff": "2026-11-05T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-fayha",
    "homePlaceholder": null,
    "awayPlaceholder": null,
    "status": "NS",
@@ -4814,51 +4853,8 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
-   ]
-  },
-  {
-   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-ettifaq-sa-al-hilal",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 13
-   },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
-   "home": "sa-al-ettifaq",
-   "away": "sa-al-hilal",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
-   ]
-  },
-  {
-   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-faisaly-sa-al-diriyah",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 13
-   },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
-   "home": "sa-al-faisaly",
-   "away": "sa-al-diriyah",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ]
   },
   {
@@ -4869,8 +4865,8 @@
     "group": null,
     "round": 13
    },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
+   "kickoff": "2026-11-06T14:30:00Z",
+   "timeConfirmed": true,
    "home": "sa-al-fateh",
    "away": "sa-al-riyadh",
    "homePlaceholder": null,
@@ -4880,7 +4876,8 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ]
   },
   {
@@ -4891,8 +4888,8 @@
     "group": null,
     "round": 13
    },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
+   "kickoff": "2026-11-06T14:55:00Z",
+   "timeConfirmed": true,
    "home": "sa-al-hazem",
    "away": "sa-al-nassr",
    "homePlaceholder": null,
@@ -4905,7 +4902,8 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
     "https://www.365scores.com/es-mx/football/match/saudi-league-649/al-hazm-al-nassr-fc-riyadh-7549-14895-649",
     "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
-    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ]
   },
   {
@@ -4916,8 +4914,8 @@
     "group": null,
     "round": 13
    },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
+   "kickoff": "2026-11-06T17:30:00Z",
+   "timeConfirmed": true,
    "home": "sa-al-ittihad",
    "away": "sa-neom",
    "homePlaceholder": null,
@@ -4927,21 +4925,22 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ]
   },
   {
-   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej",
+   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-faisaly-sa-al-diriyah",
    "stage": {
     "key": "regular",
     "type": "league",
     "group": null,
     "round": 13
    },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
-   "home": "sa-al-kholood",
-   "away": "sa-al-khaleej",
+   "kickoff": "2026-11-07T13:20:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-faisaly",
+   "away": "sa-al-diriyah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
    "status": "NS",
@@ -4949,21 +4948,22 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ]
   },
   {
-   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha",
+   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-ettifaq-sa-al-hilal",
    "stage": {
     "key": "regular",
     "type": "league",
     "group": null,
     "round": 13
    },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
-   "home": "sa-al-qadsiah",
-   "away": "sa-al-fayha",
+   "kickoff": "2026-11-07T14:30:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-hilal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
    "status": "NS",
@@ -4971,7 +4971,31 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
+   ]
+  },
+  {
+   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-ahli-saudi-sa-al-taawoun",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-07T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-taawoun",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ]
   },
   {

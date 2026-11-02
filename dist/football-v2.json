@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-01T22:37:30.557Z",
+ "generatedAt": "2026-11-02T01:54:28.177Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 783,
-  "pending": 7
+  "results": 789,
+  "pending": 2
  },
  "teams": [
   {
@@ -39947,44 +39947,6 @@
    "venueFrom": "home-ground"
   },
   {
-   "competition": "laliga",
-   "season": "2026-27",
-   "id": "laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 8
-   },
-   "kickoff": "2026-10-10T12:00:00Z",
-   "timeConfirmed": true,
-   "home": "es-rayo-vallecano",
-   "away": "es-athletic-club",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "ABD",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Estadio de Vallecas",
-     "ar": "ملعب فاليكاس"
-    },
-    "city": {
-     "en": "Madrid",
-     "ar": "مدريد"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=8&s=2026-2027",
-    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-athletic-club-8",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
-    "https://www.skysports.com/la-liga-results"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
    "competition": "serie-a",
    "season": "2026-27",
    "id": "serie-a-2026-27-regular-r06-it-genoa-it-fiorentina",
@@ -57769,8 +57731,11 @@
    "away": "it-atalanta",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Stadio Artemio Franchi",
@@ -57783,9 +57748,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/serie-a-17/matches",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261029&limit=37"
+    "https://www.365scores.com/en-us/football/league/serie-a-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
    ],
+   "updatedAt": "2026-11-02T01:54:22.472Z",
    "venueFrom": "home-ground"
   },
   {
@@ -57896,9 +57862,24 @@
    "neutral": false,
    "sources": [
     "https://www.saff.com.sa/championship.php?id=415",
-    "https://www.365scores.com/en-us/football/match/mbs-league-649/abha-club-ittihad-jeddah-8593-14898-649"
+    "https://www.365scores.com/en-us/football/match/mbs-league-649/abha-club-ittihad-jeddah-8593-14898-649",
+    "https://www.365scores.com/football/match/saudi-league-649/abha-club-ittihad-jeddah-8593-14898-649"
    ],
    "updatedAt": "2026-10-31T08:10:07.198Z",
+   "goals": [
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Houssem Aouar",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Faisal Al-Subiani",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -58694,9 +58675,24 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
-    "https://www.skysports.com/premier-league-scores-fixtures"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://www.skysports.com/football/brentford-vs-nottingham-forest/live/559526"
    ],
    "updatedAt": "2026-10-31T21:45:48.090Z",
+   "goals": [
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "N Milenkovic",
+     "type": "own-goal"
+    },
+    {
+     "minute": 76,
+     "side": "home",
+     "player": "I Thiago",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -58737,9 +58733,36 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
-    "https://www.skysports.com/premier-league-scores-fixtures"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://skysports.com/football/coventry-city-vs-sunderland/live/559528"
    ],
    "updatedAt": "2026-10-31T21:45:48.090Z",
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "T Sakamoto",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "T Awoniyi",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "J Rudoni",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "E Le Fée",
+     "type": "penalty"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -58815,9 +58838,18 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-sunderland-24-117-7",
-    "https://www.skysports.com/premier-league-scores-fixtures"
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://www.skysports.com/football/manchester-city-vs-brighton-and-hove-albion/live/559531"
    ],
    "updatedAt": "2026-10-31T21:45:48.090Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Y Ayari",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -58899,8 +58931,15 @@
    "away": "it-roma",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 5,
+    "ht": [
+     0,
+     4
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadio Friuli",
@@ -58913,9 +58952,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261031&limit=37"
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/as-roma-udinese-225-229-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
    ],
+   "updatedAt": "2026-11-02T01:54:22.472Z",
    "venueFrom": "home-ground"
   },
   {
@@ -59020,9 +59060,24 @@
    "neutral": false,
    "sources": [
     "https://skysports.com/football/tottenham-hotspur-vs-crystal-palace/report/559533",
-    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193"
+    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193",
+    "https://www.skysports.com/football/tottenham-hotspur-vs-crystal-palace/live/559533"
    ],
    "updatedAt": "2026-11-01T01:48:06.090Z",
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "A Gray",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "J van Hecke",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -59142,8 +59197,15 @@
    "away": "it-inter-milan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     3,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "San Siro",
@@ -59156,9 +59218,36 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261031&limit=37"
+    "https://www.365scores.com/en-us/football/match/serie-a-17/ac-milan-inter-milan-224-227-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
    ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Christian Pulisic",
+     "type": "goal"
+    },
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Adrien Rabiot",
+     "type": "goal"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Alessandro Bastoni",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Diego Moreira",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-02T01:54:22.472Z",
    "venueFrom": "home-ground"
   },
   {
@@ -59195,9 +59284,25 @@
    "neutral": false,
    "sources": [
     "https://skysports.com/football/news/13606363/aston-villa-1-1-fulham-zion-suzuki-concedes-own-goal-as-nicholas-jackson-scores-after-john-mcginns-penalty-miss-in-draw-with-fulham",
-    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193"
+    "https://www.arabnews.com/football/pressure-piles-on-carrick-as-10-man-man-united-beaten-at-chelsea-and-man-city-lose-again-3009193",
+    "https://www.skysports.com/football/aston-villa-vs-fulham/live/559524",
+    "https://www.skysports.com/football/aston-villa-vs-fulham/559524"
    ],
    "updatedAt": "2026-11-01T01:48:06.090Z",
+   "goals": [
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "N Jackson",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Z Suzuki",
+     "type": "own-goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -59216,8 +59321,11 @@
    "away": "es-alaves",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 6,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Spotify Camp Nou",
@@ -59230,9 +59338,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261031"
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.skysports.com/football/video/13606532/barcelona-6-1-alaves-la-liga-highlights"
    ],
+   "updatedAt": "2026-11-02T01:54:22.472Z",
    "venueFrom": "home-ground"
   },
   {
@@ -59768,8 +59877,11 @@
    "away": "it-genoa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Stadio Via del Mare",
@@ -59782,9 +59894,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261101&limit=37"
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/as-roma-udinese-225-229-17",
+    "https://www.skysports.com/football-scores-fixtures"
    ],
+   "updatedAt": "2026-11-02T01:54:22.472Z",
    "venueFrom": "home-ground"
   },
   {
@@ -59853,8 +59966,11 @@
    "away": "it-napoli",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Allianz Stadium",
@@ -59867,9 +59983,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261101&limit=37"
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/as-roma-udinese-225-229-17",
+    "https://www.skysports.com/football-scores-fixtures"
    ],
+   "updatedAt": "2026-11-02T01:54:22.472Z",
    "venueFrom": "home-ground"
   },
   {
@@ -61812,6 +61929,41 @@
   {
    "competition": "saudi-pro-league",
    "season": "2026-27",
+   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-05T13:25:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-kholood",
+   "away": "sa-al-khaleej",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Al Hazem Club Stadium",
+     "ar": "ملعب نادي الحزم"
+    },
+    "city": {
+     "en": "Ar Rass",
+     "ar": "الرس"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
    "id": "saudi-pro-league-2026-27-regular-r13-sa-abha-sa-al-shabab",
    "stage": {
     "key": "regular",
@@ -61819,8 +61971,8 @@
     "group": null,
     "round": 13
    },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
+   "kickoff": "2026-11-05T15:10:00Z",
+   "timeConfirmed": true,
    "home": "sa-abha",
    "away": "sa-al-shabab",
    "homePlaceholder": null,
@@ -61839,66 +61991,33 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ],
    "venueFrom": "home-ground"
   },
   {
    "competition": "saudi-pro-league",
    "season": "2026-27",
-   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-ahli-saudi-sa-al-taawoun",
+   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha",
    "stage": {
     "key": "regular",
     "type": "league",
     "group": null,
     "round": 13
    },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
-   "home": "sa-al-ahli-saudi",
-   "away": "sa-al-taawoun",
+   "kickoff": "2026-11-05T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-qadsiah",
+   "away": "sa-al-fayha",
    "homePlaceholder": null,
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
    "venue": {
     "name": {
-     "en": "King Abdullah Sports City Stadium",
-     "ar": "استاد مدينة الملك عبدالله الرياضية"
-    },
-    "city": {
-     "en": "Jeddah",
-     "ar": "جدة"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "saudi-pro-league",
-   "season": "2026-27",
-   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-ettifaq-sa-al-hilal",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 13
-   },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
-   "home": "sa-al-ettifaq",
-   "away": "sa-al-hilal",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Al-Ettifaq Club Stadium",
-     "ar": "ملعب نادي الاتفاق"
+     "en": "Prince Mohammed bin Fahd Stadium",
+     "ar": "استاد الأمير محمد بن فهد"
     },
     "city": {
      "en": "Dammam",
@@ -61907,41 +62026,8 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "saudi-pro-league",
-   "season": "2026-27",
-   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-faisaly-sa-al-diriyah",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 13
-   },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
-   "home": "sa-al-faisaly",
-   "away": "sa-al-diriyah",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Al Majma'ah Sports City",
-     "ar": "مدينة المجمعة الرياضية"
-    },
-    "city": {
-     "en": "Al Majma'ah",
-     "ar": "المجمعة"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ],
    "venueFrom": "home-ground"
   },
@@ -61955,8 +62041,8 @@
     "group": null,
     "round": 13
    },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
+   "kickoff": "2026-11-06T14:30:00Z",
+   "timeConfirmed": true,
    "home": "sa-al-fateh",
    "away": "sa-al-riyadh",
    "homePlaceholder": null,
@@ -61975,7 +62061,8 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ],
    "venueFrom": "home-ground"
   },
@@ -61989,8 +62076,8 @@
     "group": null,
     "round": 13
    },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
+   "kickoff": "2026-11-06T14:55:00Z",
+   "timeConfirmed": true,
    "home": "sa-al-hazem",
    "away": "sa-al-nassr",
    "homePlaceholder": null,
@@ -62012,7 +62099,8 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
     "https://www.365scores.com/es-mx/football/match/saudi-league-649/al-hazm-al-nassr-fc-riyadh-7549-14895-649",
     "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
-    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ],
    "venueFrom": "home-ground"
   },
@@ -62026,8 +62114,8 @@
     "group": null,
     "round": 13
    },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
+   "kickoff": "2026-11-06T17:30:00Z",
+   "timeConfirmed": true,
    "home": "sa-al-ittihad",
    "away": "sa-neom",
    "homePlaceholder": null,
@@ -62046,75 +62134,8 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "saudi-pro-league",
-   "season": "2026-27",
-   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 13
-   },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
-   "home": "sa-al-kholood",
-   "away": "sa-al-khaleej",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Al Hazem Club Stadium",
-     "ar": "ملعب نادي الحزم"
-    },
-    "city": {
-     "en": "Ar Rass",
-     "ar": "الرس"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "saudi-pro-league",
-   "season": "2026-27",
-   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 13
-   },
-   "kickoff": "2026-11-05T17:00:00Z",
-   "timeConfirmed": false,
-   "home": "sa-al-qadsiah",
-   "away": "sa-al-fayha",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Prince Mohammed bin Fahd Stadium",
-     "ar": "استاد الأمير محمد بن فهد"
-    },
-    "city": {
-     "en": "Dammam",
-     "ar": "الدمام"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ],
    "venueFrom": "home-ground"
   },
@@ -62363,6 +62384,41 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-faisaly-sa-al-diriyah",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-07T13:20:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-faisaly",
+   "away": "sa-al-diriyah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Al Majma'ah Sports City",
+     "ar": "مدينة المجمعة الرياضية"
+    },
+    "city": {
+     "en": "Al Majma'ah",
+     "ar": "المجمعة"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "serie-a",
    "season": "2026-27",
    "id": "serie-a-2026-27-regular-r11-it-cagliari-it-frosinone",
@@ -62561,6 +62617,41 @@
     "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9",
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107&limit=37"
    ]
+  },
+  {
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-ettifaq-sa-al-hilal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-07T14:30:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ettifaq",
+   "away": "sa-al-hilal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Al-Ettifaq Club Stadium",
+     "ar": "ملعب نادي الاتفاق"
+    },
+    "city": {
+     "en": "Dammam",
+     "ar": "الدمام"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
+   ],
+   "venueFrom": "home-ground"
   },
   {
    "competition": "epl",
@@ -62874,6 +62965,41 @@
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "id": "saudi-pro-league-2026-27-regular-r13-sa-al-ahli-saudi-sa-al-taawoun",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-11-07T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-taawoun",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد مدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
+    "https://www.365scores.com/football/league/saudi-league-649/standings"
    ],
    "venueFrom": "home-ground"
   },
@@ -72417,6 +72543,45 @@
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261209",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 8
+   },
+   "kickoff": "2026-12-09T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-rayo-vallecano",
+   "away": "es-athletic-club",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Estadio de Vallecas",
+     "ar": "ملعب فاليكاس"
+    },
+    "city": {
+     "en": "Madrid",
+     "ar": "مدريد"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-8",
+    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4335&r=8&s=2026-2027",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-athletic-club-8",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-10-01",
+    "https://www.skysports.com/la-liga-results",
+    "https://www.laliga.com/en-GB/clubs/rayo-vallecano/next-matches"
    ],
    "venueFrom": "home-ground"
   },

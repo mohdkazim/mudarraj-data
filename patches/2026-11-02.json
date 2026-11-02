@@ -1,0 +1,127 @@
+{
+  "run": "2026-11-02T02:00:00Z",
+  "changes": [
+    { "op": "result", "match": "serie-a-2026-27-regular-r09-it-fiorentina-it-atalanta", "status": "FT", "score": [2,2],
+      "sources": ["https://www.365scores.com/en-us/football/league/serie-a-17", "https://www.skysports.com/serie-a-scores-fixtures"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r10-it-udinese-it-roma", "status": "FT", "score": [2,5], "ht": [0,4],
+      "sources": ["https://www.365scores.com/en-uk/football/match/serie-a-17/as-roma-udinese-225-229-17", "https://www.skysports.com/serie-a-scores-fixtures"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r10-it-ac-milan-it-inter-milan", "status": "FT", "score": [3,1], "ht": [3,1],
+      "goals": [
+        { "minute": 4, "side": "home", "player": "Christian Pulisic", "type": "goal" },
+        { "minute": 10, "side": "home", "player": "Adrien Rabiot", "type": "goal" },
+        { "minute": 22, "side": "away", "player": "Alessandro Bastoni", "type": "goal" },
+        { "minute": 43, "side": "home", "player": "Diego Moreira", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/serie-a-17/ac-milan-inter-milan-224-227-17", "https://www.skysports.com/serie-a-scores-fixtures"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r10-it-lecce-it-genoa", "status": "FT", "score": [1,2],
+      "sources": ["https://www.365scores.com/en-uk/football/match/serie-a-17/as-roma-udinese-225-229-17", "https://www.skysports.com/football-scores-fixtures"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r10-it-juventus-it-napoli", "status": "FT", "score": [2,0],
+      "sources": ["https://www.365scores.com/en-uk/football/match/serie-a-17/as-roma-udinese-225-229-17", "https://www.skysports.com/football-scores-fixtures"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r11-es-barcelona-es-alaves", "status": "FT", "score": [6,1],
+      "sources": ["https://www.laliga.com/en-GB/laliga-easports/results", "https://www.skysports.com/football/video/13606532/barcelona-6-1-alaves-la-liga-highlights"] },
+
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-coventry-city-gb-eng-sunderland", "status": "FT", "score": [3,1],
+      "goals": [
+        { "minute": 17, "side": "home", "player": "T Sakamoto", "type": "goal" },
+        { "minute": 37, "side": "home", "player": "T Awoniyi", "type": "goal" },
+        { "minute": 52, "side": "home", "player": "J Rudoni", "type": "goal" },
+        { "minute": 67, "side": "away", "player": "E Le Fée", "type": "penalty" }
+      ],
+      "sources": ["https://skysports.com/football/coventry-city-vs-sunderland/live/559528"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-tottenham-hotspur-gb-eng-crystal-palace", "status": "FT", "score": [2,0],
+      "goals": [
+        { "minute": 25, "side": "home", "player": "A Gray", "type": "goal" },
+        { "minute": 73, "side": "home", "player": "J van Hecke", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/tottenham-hotspur-vs-crystal-palace/live/559533"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-brentford-gb-eng-nottingham-forest", "status": "FT", "score": [2,0],
+      "goals": [
+        { "minute": 30, "side": "home", "player": "N Milenkovic", "type": "own-goal" },
+        { "minute": 76, "side": "home", "player": "I Thiago", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/brentford-vs-nottingham-forest/live/559526"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-manchester-city-gb-eng-brighton", "status": "FT", "score": [0,1],
+      "goals": [
+        { "minute": 11, "side": "away", "player": "Y Ayari", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/manchester-city-vs-brighton-and-hove-albion/live/559531"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-aston-villa-gb-eng-fulham", "status": "FT", "score": [1,1],
+      "goals": [
+        { "minute": 39, "side": "home", "player": "N Jackson", "type": "goal" },
+        { "minute": 64, "side": "away", "player": "Z Suzuki", "type": "own-goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/aston-villa-vs-fulham/live/559524", "https://www.skysports.com/football/aston-villa-vs-fulham/559524"] },
+    { "op": "result", "match": "saudi-pro-league-2026-27-regular-r12-sa-abha-sa-al-ittihad", "status": "FT", "score": [1,1], "ht": [0,0],
+      "goals": [
+        { "minute": 52, "side": "away", "player": "Houssem Aouar", "type": "goal" },
+        { "minute": 87, "side": "home", "player": "Faisal Al-Subiani", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/football/match/saudi-league-649/abha-club-ittihad-jeddah-8593-14898-649"] },
+
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej", "kickoff": "2026-11-05T13:25:00Z", "timeConfirmed": true, "sources": ["https://www.365scores.com/football/league/saudi-league-649/standings"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-abha-sa-al-shabab", "kickoff": "2026-11-05T15:10:00Z", "timeConfirmed": true, "sources": ["https://www.365scores.com/football/league/saudi-league-649/standings"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha", "kickoff": "2026-11-05T17:30:00Z", "timeConfirmed": true, "sources": ["https://www.365scores.com/football/league/saudi-league-649/standings"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-fateh-sa-al-riyadh", "kickoff": "2026-11-06T14:30:00Z", "timeConfirmed": true, "sources": ["https://www.365scores.com/football/league/saudi-league-649/standings"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-hazem-sa-al-nassr", "kickoff": "2026-11-06T14:55:00Z", "timeConfirmed": true, "sources": ["https://www.365scores.com/football/league/saudi-league-649/standings"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-ittihad-sa-neom", "kickoff": "2026-11-06T17:30:00Z", "timeConfirmed": true, "sources": ["https://www.365scores.com/football/league/saudi-league-649/standings"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-faisaly-sa-al-diriyah", "kickoff": "2026-11-07T13:20:00Z", "timeConfirmed": true, "sources": ["https://www.365scores.com/football/league/saudi-league-649/standings"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-ettifaq-sa-al-hilal", "kickoff": "2026-11-07T14:30:00Z", "timeConfirmed": true, "sources": ["https://www.365scores.com/football/league/saudi-league-649/standings"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-ahli-saudi-sa-al-taawoun", "kickoff": "2026-11-07T17:30:00Z", "timeConfirmed": true, "sources": ["https://www.365scores.com/football/league/saudi-league-649/standings"] },
+
+    { "op": "fixture", "match": "laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club", "kickoff": "2026-12-09T19:00:00Z", "timeConfirmed": true,
+      "sources": ["https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-athletic-club-8", "https://www.laliga.com/en-GB/clubs/rayo-vallecano/next-matches"] },
+
+    { "op": "table-check", "competition": "epl", "season": "2026-27", "table": "overall", "asOf": "2026-11-01T16:46:00Z",
+      "rows": [
+        { "team": "gb-eng-arsenal", "played": 9, "points": 24 },
+        { "team": "gb-eng-manchester-city", "played": 9, "points": 21 },
+        { "team": "gb-eng-brighton", "played": 9, "points": 19 },
+        { "team": "gb-eng-chelsea", "played": 9, "points": 16 },
+        { "team": "gb-eng-liverpool", "played": 9, "points": 15 },
+        { "team": "gb-eng-brentford", "played": 9, "points": 14 },
+        { "team": "gb-eng-bournemouth", "played": 9, "points": 12 },
+        { "team": "gb-eng-tottenham-hotspur", "played": 9, "points": 12 },
+        { "team": "gb-eng-aston-villa", "played": 9, "points": 12 },
+        { "team": "gb-eng-hull-city", "played": 9, "points": 11 },
+        { "team": "gb-eng-leeds-united", "played": 9, "points": 11 },
+        { "team": "gb-eng-newcastle-united", "played": 8, "points": 11 },
+        { "team": "gb-eng-ipswich-town", "played": 9, "points": 11 },
+        { "team": "gb-eng-everton", "played": 8, "points": 10 },
+        { "team": "gb-eng-fulham", "played": 9, "points": 9 },
+        { "team": "gb-eng-coventry-city", "played": 9, "points": 9 },
+        { "team": "gb-eng-manchester-united", "played": 9, "points": 7 },
+        { "team": "gb-eng-crystal-palace", "played": 9, "points": 7 },
+        { "team": "gb-eng-nottingham-forest", "played": 9, "points": 6 },
+        { "team": "gb-eng-sunderland", "played": 9, "points": 5 }
+      ],
+      "sources": ["https://www.skysports.com/premier-league-table"] },
+    { "op": "table-check", "competition": "saudi-pro-league", "season": "2026-27", "table": "overall", "asOf": "2026-10-30T12:00:00Z",
+      "rows": [
+        { "team": "sa-al-qadsiah", "played": 12, "points": 28 },
+        { "team": "sa-al-nassr", "played": 11, "points": 28 },
+        { "team": "sa-al-hilal", "played": 10, "points": 27 },
+        { "team": "sa-al-ittihad", "played": 10, "points": 23 },
+        { "team": "sa-al-ahli-saudi", "played": 10, "points": 21 },
+        { "team": "sa-neom", "played": 11, "points": 19 },
+        { "team": "sa-al-ettifaq", "played": 11, "points": 18 },
+        { "team": "sa-al-diriyah", "played": 11, "points": 15 },
+        { "team": "sa-al-khaleej", "played": 12, "points": 15 },
+        { "team": "sa-al-kholood", "played": 11, "points": 12 },
+        { "team": "sa-al-riyadh", "played": 11, "points": 12 },
+        { "team": "sa-al-shabab", "played": 10, "points": 11 },
+        { "team": "sa-al-hazem", "played": 12, "points": 10 },
+        { "team": "sa-al-faisaly", "played": 11, "points": 10 },
+        { "team": "sa-al-fayha", "played": 11, "points": 8 },
+        { "team": "sa-al-fateh", "played": 11, "points": 6 },
+        { "team": "sa-al-taawoun", "played": 11, "points": 4 },
+        { "team": "sa-abha", "played": 10, "points": 2 }
+      ],
+      "sources": ["https://www.365scores.com/football/league/saudi-league-649/standings"] }
+  ],
+  "unconfirmed": [
+    { "match": "serie-a-2026-27-regular-r10-it-lazio-it-cagliari", "claim": "2-1",
+      "sources": ["https://www.365scores.com/en-uk/football/match/serie-a-17/frosinone-torino-235-254-17", "https://www.365scores.com/en-uk/football/match/serie-a-17/as-roma-udinese-225-229-17"] },
+    { "match": "laliga-2026-27-regular-r11-es-athletic-club-es-real-sociedad", "claim": "2-1",
+      "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] }
+  ]
+}

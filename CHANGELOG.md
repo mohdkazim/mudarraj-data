@@ -4015,3 +4015,30 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-11-02 (2026-11-01T22:35:00Z)
 - 0 change(s) applied, 0 rejected, 7 waiting for a second source
+
+## 2026-11-02 (2026-11-02T02:00:00Z)
+- 24 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result serie-a-2026-27-regular-r09-it-fiorentina-it-atalanta 2-2 FT
+  - ✓ result serie-a-2026-27-regular-r10-it-udinese-it-roma 2-5 FT
+  - ✓ result serie-a-2026-27-regular-r10-it-ac-milan-it-inter-milan 3-1 FT
+  - ✓ result serie-a-2026-27-regular-r10-it-lecce-it-genoa 1-2 FT
+  - ✓ result serie-a-2026-27-regular-r10-it-juventus-it-napoli 2-0 FT
+  - ✓ result laliga-2026-27-regular-r11-es-barcelona-es-alaves 6-1 FT
+  - ✓ result epl-2026-27-regular-r09-gb-eng-coventry-city-gb-eng-sunderland added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r09-gb-eng-tottenham-hotspur-gb-eng-crystal-palace added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r09-gb-eng-brentford-gb-eng-nottingham-forest added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r09-gb-eng-manchester-city-gb-eng-brighton added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r09-gb-eng-aston-villa-gb-eng-fulham added scorers to the confirmed result
+  - ✓ result saudi-pro-league-2026-27-regular-r12-sa-abha-sa-al-ittihad added scorers to the confirmed result
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej kick-off 2026-11-05T13:25:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-abha-sa-al-shabab kick-off 2026-11-05T15:10:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha kick-off 2026-11-05T17:30:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-fateh-sa-al-riyadh kick-off 2026-11-06T14:30:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-hazem-sa-al-nassr kick-off 2026-11-06T14:55:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-ittihad-sa-neom kick-off 2026-11-06T17:30:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-faisaly-sa-al-diriyah kick-off 2026-11-07T13:20:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-ettifaq-sa-al-hilal kick-off 2026-11-07T14:30:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-ahli-saudi-sa-al-taawoun kick-off 2026-11-07T17:30:00Z
+  - ✓ fixture laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club kick-off 2026-12-09T19:00:00Z
+  - ✓ table-check epl overall reference table epl overall (20 rows)
+  - ✓ table-check saudi-pro-league overall reference table saudi-pro-league overall (18 rows)
