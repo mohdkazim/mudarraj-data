@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-02T01:54:28.177Z",
+ "generatedAt": "2026-11-02T17:23:20.487Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 424,
+  "results": 425,
   "pending": 2
  },
  "teams": [
@@ -37578,8 +37578,15 @@
    "away": "sa-al-nassr",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 6,
+    "ht": [
+     1,
+     3
+    ]
+   },
    "venue": {
     "name": {
      "en": "Pakhtakor Stadium",
@@ -37592,9 +37599,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md4-pakhtakor-uzb-2-6-al-nassr-club-ksa",
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/al-nassr-fc-riyadh-pakhtakor-7549-10345-623"
    ],
+   "updatedAt": "2026-11-02T17:23:20.274Z",
    "venueFrom": "home-ground"
   },
   {

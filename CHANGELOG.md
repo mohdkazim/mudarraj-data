@@ -4042,3 +4042,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ fixture laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club kick-off 2026-12-09T19:00:00Z
   - ✓ table-check epl overall reference table epl overall (20 rows)
   - ✓ table-check saudi-pro-league overall reference table saudi-pro-league overall (18 rows)
+
+## 2026-11-02 (2026-11-02T17:22:00Z)
+- 1 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result acle-2026-27-league-west-gwest-r04-uz-pakhtakor-sa-al-nassr 2-6 FT
