@@ -2308,14 +2308,18 @@
    "away": "sa-al-ahli-saudi",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
-   ]
+    "https://www.okaz.com.sa/sport/na/2273671",
+    "https://www.365scores.com/football/match/afc-champions-league-elite-623/al-gharafa-qadisiya-6993-8947-623"
+   ],
+   "updatedAt": "2026-11-02T20:40:09.802Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r04-qa-al-gharafa-sa-al-qadsiah",

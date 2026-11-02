@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-02T19:37:31.034Z",
+ "generatedAt": "2026-11-02T20:40:09.998Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 791,
-  "pending": 3
+  "results": 793,
+  "pending": 4
  },
  "teams": [
   {
@@ -60160,8 +60160,11 @@
    "away": "sa-al-ahli-saudi",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Jassim bin Hamad Stadium",
@@ -60174,9 +60177,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.okaz.com.sa/sport/na/2273671",
+    "https://www.365scores.com/football/match/afc-champions-league-elite-623/al-gharafa-qadisiya-6993-8947-623"
    ],
+   "updatedAt": "2026-11-02T20:40:09.802Z",
    "venueFrom": "home-ground"
   },
   {
@@ -60195,8 +60199,15 @@
    "away": "it-fiorentina",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Mapei Stadium",
@@ -60209,8 +60220,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261102&limit=37"
+    "https://www.365scores.com/football/match/serie-a-17/sassuolo-fiorentina-228-266-17"
    ],
+   "updatedAt": "2026-11-02T20:40:09.802Z",
    "venueFrom": "home-ground"
   },
   {

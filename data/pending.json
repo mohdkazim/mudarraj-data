@@ -16,11 +16,19 @@
   "seen": "2026-11-02T02:00:00Z"
  },
  {
-  "match": "acle-2026-27-league-west-gwest-r04-qa-al-sadd-sa-al-ahli-saudi",
-  "claim": "0-0",
+  "match": "acle-2026-27-league-west-gwest-r04-sa-al-ittihad-ae-al-ain",
+  "claim": "1-4",
   "sources": [
-   "https://www.okaz.com.sa/sport/na/2273671"
+   "https://www.emaratalyoum.com/sports/local/2026-11-03-1.2098727"
   ],
-  "seen": "2026-11-02T19:35:00Z"
+  "seen": "2026-11-02T20:36:00Z"
+ },
+ {
+  "match": "acle-2026-27-league-west-gwest-r04-ir-tractor-uz-neftchi-fergana",
+  "claim": "2-2",
+  "sources": [
+   "https://www.365scores.com/football/match/afc-champions-league-elite-623/al-gharafa-qadisiya-6993-8947-623"
+  ],
+  "seen": "2026-11-02T20:36:00Z"
  }
 ]

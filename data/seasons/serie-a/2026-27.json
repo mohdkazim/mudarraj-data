@@ -4673,13 +4673,21 @@
    "away": "it-fiorentina",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261102&limit=37"
-   ]
+    "https://www.365scores.com/football/match/serie-a-17/sassuolo-fiorentina-228-266-17"
+   ],
+   "updatedAt": "2026-11-02T20:40:09.802Z"
   },
   {
    "id": "serie-a-2026-27-regular-r10-it-atalanta-it-parma",

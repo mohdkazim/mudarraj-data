@@ -1,0 +1,14 @@
+{
+  "run": "2026-11-02T20:36:00Z",
+  "changes": [
+    { "op": "result", "match": "serie-a-2026-27-regular-r10-it-sassuolo-it-fiorentina", "status": "FT", "score": [2,4], "ht": [1,1],
+      "sources": ["https://www.365scores.com/football/match/serie-a-17/sassuolo-fiorentina-228-266-17"] },
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r04-qa-al-sadd-sa-al-ahli-saudi", "status": "FT", "score": [0,0],
+      "sources": ["https://www.okaz.com.sa/sport/na/2273671",
+                  "https://www.365scores.com/football/match/afc-champions-league-elite-623/al-gharafa-qadisiya-6993-8947-623"] }
+  ],
+  "unconfirmed": [
+    { "match": "acle-2026-27-league-west-gwest-r04-sa-al-ittihad-ae-al-ain", "claim": "1-4", "sources": ["https://www.emaratalyoum.com/sports/local/2026-11-03-1.2098727"] },
+    { "match": "acle-2026-27-league-west-gwest-r04-ir-tractor-uz-neftchi-fergana", "claim": "2-2", "sources": ["https://www.365scores.com/football/match/afc-champions-league-elite-623/al-gharafa-qadisiya-6993-8947-623"] }
+  ]
+}
