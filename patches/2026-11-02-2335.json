@@ -1,0 +1,11 @@
+{
+  "run": "2026-11-02T19:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r04-ae-al-wasl-iq-al-quwa-al-jawiya", "status": "FT", "score": [4,3],
+      "sources": ["https://www.albayan.ae/sports/uae-stadiums/1562324",
+                  "https://www.emaratalyoum.com/sports/local/2026-11-02-1.2098589"] }
+  ],
+  "unconfirmed": [
+    { "match": "acle-2026-27-league-west-gwest-r04-qa-al-sadd-sa-al-ahli-saudi", "claim": "0-0", "sources": ["https://www.okaz.com.sa/sport/na/2273671"] }
+  ]
+}

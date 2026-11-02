@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-02T18:44:21.499Z",
+ "generatedAt": "2026-11-02T19:37:31.034Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 425,
+  "results": 426,
   "pending": 3
  },
  "teams": [
@@ -37621,8 +37621,11 @@
    "away": "iq-al-quwa-al-jawiya",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 3
+   },
    "venue": {
     "name": {
      "en": "Zabeel Stadium",
@@ -37635,9 +37638,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.albayan.ae/sports/uae-stadiums/1562324",
+    "https://www.emaratalyoum.com/sports/local/2026-11-02-1.2098589"
    ],
+   "updatedAt": "2026-11-02T19:37:30.878Z",
    "venueFrom": "home-ground"
   },
   {
