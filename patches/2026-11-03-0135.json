@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-02T21:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r04-qa-al-gharafa-sa-al-qadsiah", "status": "FT", "score": [0,5], "ht": [0,4], "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/al-gharafa-qadisiya-6993-8947-623"] },
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r04-sa-al-ittihad-ae-al-ain", "status": "FT", "score": [1,4], "sources": ["https://www.emaratalyoum.com/sports/local/2026-11-03-1.2098727", "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/al-gharafa-qadisiya-6993-8947-623"] }
+  ],
+  "unconfirmed": []
+}

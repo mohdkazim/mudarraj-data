@@ -2335,14 +2335,21 @@
    "away": "sa-al-qadsiah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 5,
+    "ht": [
+     0,
+     4
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/al-gharafa-qadisiya-6993-8947-623"
+   ],
+   "updatedAt": "2026-11-02T21:39:32.245Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r04-sa-al-ittihad-ae-al-ain",
@@ -2358,14 +2365,18 @@
    "away": "ae-al-ain",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
-   ]
+    "https://www.emaratalyoum.com/sports/local/2026-11-03-1.2098727",
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/al-gharafa-qadisiya-6993-8947-623"
+   ],
+   "updatedAt": "2026-11-02T21:39:32.245Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r04-au-newcastle-jets-cn-shanghai-port",

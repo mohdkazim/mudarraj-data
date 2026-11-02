@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-02T20:40:09.998Z",
+ "generatedAt": "2026-11-02T21:39:32.447Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 793,
-  "pending": 4
+  "results": 795,
+  "pending": 3
  },
  "teams": [
   {
@@ -60241,8 +60241,15 @@
    "away": "sa-al-qadsiah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 5,
+    "ht": [
+     0,
+     4
+    ]
+   },
    "venue": {
     "name": {
      "en": "Thani bin Jassim Stadium",
@@ -60255,9 +60262,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/al-gharafa-qadisiya-6993-8947-623"
    ],
+   "updatedAt": "2026-11-02T21:39:32.245Z",
    "venueFrom": "home-ground"
   },
   {
@@ -60276,8 +60283,11 @@
    "away": "ae-al-ain",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
    "venue": {
     "name": {
      "en": "King Abdullah Sports City Stadium",
@@ -60290,9 +60300,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.emaratalyoum.com/sports/local/2026-11-03-1.2098727",
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/al-gharafa-qadisiya-6993-8947-623"
    ],
+   "updatedAt": "2026-11-02T21:39:32.245Z",
    "venueFrom": "home-ground"
   },
   {
