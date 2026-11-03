@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-03T12:38:44.323Z",
+ "generatedAt": "2026-11-03T14:39:22.142Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 433,
-  "pending": 0
+  "results": 434,
+  "pending": 4
  },
  "teams": [
   {
@@ -38079,8 +38079,15 @@
    "away": "jp-kyoto-sanga",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Hang Day Stadium",
@@ -38093,9 +38100,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/cong-an-ha-noi-kyoto-2154-72909-623"
    ],
+   "goals": [],
+   "updatedAt": "2026-11-03T14:39:21.826Z",
    "venueFrom": "home-ground"
   },
   {

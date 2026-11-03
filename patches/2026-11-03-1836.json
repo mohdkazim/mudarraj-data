@@ -1,0 +1,13 @@
+{
+  "run": "2026-11-03T14:36:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r04-vn-cong-an-ha-noi-jp-kyoto-sanga", "status": "FT", "score": [0,0], "ht": [0,0], "goals": [],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/cong-an-ha-noi-kyoto-2154-72909-623"] }
+  ],
+  "unconfirmed": [
+    { "match": "acle-2026-27-league-east-geast-r04-au-newcastle-jets-cn-shanghai-port", "claim": "2-4", "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/cong-an-ha-noi-kyoto-2154-72909-623"] },
+    { "match": "acle-2026-27-league-east-geast-r04-jp-kashiwa-reysol-kr-daejeon-hana-citizen", "claim": "2-0", "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/cong-an-ha-noi-kyoto-2154-72909-623"] },
+    { "match": "acle-2026-27-league-east-geast-r04-kr-jeonbuk-hyundai-motors-my-johor-darul-ta-zim", "claim": "2-0", "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/cong-an-ha-noi-kyoto-2154-72909-623"] },
+    { "match": "acle-2026-27-league-east-geast-r04-th-port-fc-cn-beijing-guoan", "claim": "7-4", "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/cong-an-ha-noi-kyoto-2154-72909-623"] }
+  ]
+}
