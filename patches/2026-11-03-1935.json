@@ -1,0 +1,10 @@
+{
+  "run": "2026-11-03T15:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r04-kr-jeonbuk-hyundai-motors-my-johor-darul-ta-zim", "status": "FT", "score": [2,0], "ht": [2,0],
+      "sources": ["https://www.365scores.com/football/match/afc-champions-league-elite-623/jeonbuk-motors-johor-darul-ta%E2%80%99zim-8592-10080-623#id=4818599"] },
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r04-au-newcastle-jets-cn-shanghai-port", "status": "FT", "score": [2,4], "ht": [0,2],
+      "sources": ["https://www.365scores.com/football/match/afc-champions-league-elite-623/newcastle-jets-fc-shanghai-port-2203-10300-623#id=4818600"] }
+  ],
+  "unconfirmed": []
+}

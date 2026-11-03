@@ -2395,14 +2395,21 @@
    "away": "cn-shanghai-port",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/afc-champions-league-elite-623/newcastle-jets-fc-shanghai-port-2203-10300-623#id=4818600"
+   ],
+   "updatedAt": "2026-11-03T15:38:12.400Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r04-jp-kashiwa-reysol-kr-daejeon-hana-citizen",
@@ -2468,14 +2475,21 @@
    "away": "my-johor-darul-ta-zim",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/afc-champions-league-elite-623/jeonbuk-motors-johor-darul-ta%E2%80%99zim-8592-10080-623#id=4818599"
+   ],
+   "updatedAt": "2026-11-03T15:38:12.400Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r04-th-port-fc-cn-beijing-guoan",
