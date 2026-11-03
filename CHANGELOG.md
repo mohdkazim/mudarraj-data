@@ -4097,3 +4097,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result acle-2026-27-league-west-gwest-r04-ir-esteghlal-qa-al-shamal 1-0 FT
   - ✓ result acl2-2026-27-groups-gd-r04-in-east-bengal-om-al-seeb 0-2 FT
   - ✓ result acl2-2026-27-groups-gd-r04-jo-al-hussein-iq-al-shorta 0-3 FT
+
+## 2026-11-04 (2026-11-03T20:36:00Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result ucl-2026-27-league-phase-r04-tr-galatasaray-de-vfb-stuttgart 2-0 FT

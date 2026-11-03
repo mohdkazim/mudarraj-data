@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-03T19:39:58.271Z",
+ "generatedAt": "2026-11-03T20:38:37.203Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 808,
+  "results": 809,
   "pending": 0
  },
  "teams": [
@@ -60810,8 +60810,11 @@
    "away": "de-vfb-stuttgart",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "RAMS Park",
@@ -60824,9 +60827,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+    "https://www.365scores.com/en-us/football/team/stuttgart-338"
    ],
+   "updatedAt": "2026-11-03T20:38:37.007Z",
    "venueFrom": "home-ground"
   },
   {

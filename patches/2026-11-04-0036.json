@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-03T20:36:00Z",
+  "changes": [
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-tr-galatasaray-de-vfb-stuttgart", "status": "FT", "score": [2,0],
+      "sources": ["https://www.365scores.com/en-us/football/team/stuttgart-338"] }
+  ],
+  "unconfirmed": []
+}
