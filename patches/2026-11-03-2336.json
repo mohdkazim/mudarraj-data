@@ -1,0 +1,14 @@
+{
+  "run": "2026-11-03T19:36:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r04-th-port-fc-cn-beijing-guoan", "status": "FT", "score": [7,4],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite/home.html", "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md4-port-fc-tha-7-4-beijing-fc-chn"] },
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r04-ir-esteghlal-qa-al-shamal", "status": "FT", "score": [1,0],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md4-esteghlal-fc-irn-1-0-al-shamal-sc-qat"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gd-r04-in-east-bengal-om-al-seeb", "status": "FT", "score": [0,2],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-0-2-al-seeb-club-oma"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gd-r04-jo-al-hussein-iq-al-shorta", "status": "FT", "score": [0,3],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/al-hussein-al-shorta-baghdad-8246-8285-568", "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-hussein-jor-0-3-al-shorta-irq"] }
+  ],
+  "unconfirmed": []
+}

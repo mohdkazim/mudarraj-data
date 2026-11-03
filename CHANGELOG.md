@@ -4090,3 +4090,10 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-03 (2026-11-03T16:36:00Z)
 - 1 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acle-2026-27-league-east-geast-r04-jp-kashiwa-reysol-kr-daejeon-hana-citizen 2-0 FT
+
+## 2026-11-03 (2026-11-03T19:36:00Z)
+- 4 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result acle-2026-27-league-east-geast-r04-th-port-fc-cn-beijing-guoan 7-4 FT
+  - ✓ result acle-2026-27-league-west-gwest-r04-ir-esteghlal-qa-al-shamal 1-0 FT
+  - ✓ result acl2-2026-27-groups-gd-r04-in-east-bengal-om-al-seeb 0-2 FT
+  - ✓ result acl2-2026-27-groups-gd-r04-jo-al-hussein-iq-al-shorta 0-3 FT

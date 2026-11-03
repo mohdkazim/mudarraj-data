@@ -2172,14 +2172,17 @@
    "away": "om-al-seeb",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-0-2-al-seeb-club-oma"
+   ],
+   "updatedAt": "2026-11-03T19:39:58.143Z"
   },
   {
    "id": "acl2-2026-27-groups-gd-r04-jo-al-hussein-iq-al-shorta",
@@ -2195,14 +2198,18 @@
    "away": "iq-al-shorta",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/al-hussein-al-shorta-baghdad-8246-8285-568",
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-hussein-jor-0-3-al-shorta-irq"
+   ],
+   "updatedAt": "2026-11-03T19:39:58.143Z"
   },
   {
    "id": "acl2-2026-27-groups-ge-r04-au-melbourne-victory-id-persib-bandung",

@@ -2512,8 +2512,11 @@
    "away": "cn-beijing-guoan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 7,
+    "away": 4
+   },
    "venue": {
     "name": {
      "en": "BG Stadium",
@@ -2525,13 +2528,14 @@
     }
    },
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite/home.html",
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md4-port-fc-tha-7-4-beijing-fc-chn"
    ],
    "venueSources": [
     "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103"
-   ]
+   ],
+   "updatedAt": "2026-11-03T19:39:58.143Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r04-vn-cong-an-ha-noi-jp-kyoto-sanga",
@@ -2578,8 +2582,11 @@
    "away": "qa-al-shamal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Basra International Stadium",
@@ -2592,13 +2599,13 @@
    },
    "neutral": true,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md4-esteghlal-fc-irn-1-0-al-shamal-sc-qat"
    ],
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
     "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
-   ]
+   ],
+   "updatedAt": "2026-11-03T19:39:58.143Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r04-sa-al-hilal-ae-shabab-al-ahli",
