@@ -4105,3 +4105,11 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-04 (2026-11-03T21:36:00Z)
 - 1 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acle-2026-27-league-west-gwest-r04-sa-al-hilal-ae-shabab-al-ahli 2-0 FT
+
+## 2026-11-04 (2026-11-03T22:35:00Z)
+- 5 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result ucl-2026-27-league-phase-r04-ua-shakhtar-donetsk-pt-sporting-cp 0-1 FT
+  - ✓ result ucl-2026-27-league-phase-r04-gb-eng-manchester-united-it-roma 3-2 FT
+  - ✓ result ucl-2026-27-league-phase-r04-es-barcelona-gb-eng-aston-villa 3-0 FT
+  - ✓ result ucl-2026-27-league-phase-r04-es-atletico-madrid-de-bayern-munich 0-2 FT
+  - ✓ result ucl-2026-27-league-phase-r04-es-villarreal-fr-paris-saint-germain 0-6 FT

@@ -3000,8 +3000,11 @@
    "away": "pt-sporting-cp",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Stamford Bridge",
@@ -3014,8 +3017,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+    "https://www.skysports.com/football/shakhtar-donetsk-vs-sporting-lisbon/577658",
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
    ],
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915406",
@@ -3023,7 +3026,8 @@
     "https://shakhtar.com/en/news/2026/august/21_news/21_shakhtar_stamford_bridge/",
     "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
     "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
-   ]
+   ],
+   "updatedAt": "2026-11-03T22:38:18.480Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-at-lask-sk-slovan-bratislava",
@@ -3062,14 +3066,18 @@
    "away": "de-bayern-munich",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
+   ],
+   "updatedAt": "2026-11-03T22:38:18.480Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-es-barcelona-gb-eng-aston-villa",
@@ -3085,14 +3093,18 @@
    "away": "gb-eng-aston-villa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
+   ],
+   "updatedAt": "2026-11-03T22:38:18.480Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-es-villarreal-fr-paris-saint-germain",
@@ -3108,14 +3120,18 @@
    "away": "fr-paris-saint-germain",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 6
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
+   ],
+   "updatedAt": "2026-11-03T22:38:18.480Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-gb-eng-manchester-united-it-roma",
@@ -3131,14 +3147,22 @@
    "away": "it-roma",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://www.skysports.com/football/news/13607206/man-utd-3-2-roma-matheus-cunha-scores-two-and-is-sent-off-in-wild-comeback-to-end-nine-game-winless-run",
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
+   ],
+   "updatedAt": "2026-11-03T22:38:18.480Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-nl-feyenoord-it-inter-milan",

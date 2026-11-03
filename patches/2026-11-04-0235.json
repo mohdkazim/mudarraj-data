@@ -1,0 +1,19 @@
+{
+  "run": "2026-11-03T22:35:00Z",
+  "changes": [
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-ua-shakhtar-donetsk-pt-sporting-cp", "status": "FT", "score": [0,1],
+      "sources": ["https://www.skysports.com/football/shakhtar-donetsk-vs-sporting-lisbon/577658", "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-gb-eng-manchester-united-it-roma", "status": "FT", "score": [3,2], "ht": [0,2],
+      "sources": ["https://www.skysports.com/football/news/13607206/man-utd-3-2-roma-matheus-cunha-scores-two-and-is-sent-off-in-wild-comeback-to-end-nine-game-winless-run", "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-es-barcelona-gb-eng-aston-villa", "status": "FT", "score": [3,0],
+      "sources": ["https://www.skysports.com/champions-league-scores-fixtures", "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-es-atletico-madrid-de-bayern-munich", "status": "FT", "score": [0,2],
+      "sources": ["https://www.skysports.com/champions-league-scores-fixtures", "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-es-villarreal-fr-paris-saint-germain", "status": "FT", "score": [0,6],
+      "sources": ["https://www.skysports.com/champions-league-scores-fixtures", "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"] }
+  ],
+  "unconfirmed": [
+    { "match": "ucl-2026-27-league-phase-r04-at-lask-sk-slovan-bratislava", "claim": "4-0", "sources": ["https://www.skysports.com/champions-league-scores-fixtures"] },
+    { "match": "ucl-2026-27-league-phase-r04-no-bod-glimt-fr-lille", "claim": "0-0", "sources": ["https://www.skysports.com/champions-league-scores-fixtures"] }
+  ]
+}
