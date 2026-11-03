@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-02T22:41:05.463Z",
+ "generatedAt": "2026-11-03T01:46:22.653Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 429,
-  "pending": 4
+  "results": 432,
+  "pending": 0
  },
  "teams": [
   {
@@ -37543,8 +37543,11 @@
    "away": "es-real-sociedad",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "San Mamés",
@@ -37557,9 +37560,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.laliga.com/en-GB/laliga-easports/results"
    ],
+   "updatedAt": "2026-11-03T01:46:22.462Z",
    "venueFrom": "home-ground"
   },
   {
@@ -37660,8 +37663,11 @@
    "away": "uz-neftchi-fergana",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Sultan Qaboos Sports Complex",
@@ -37674,13 +37680,13 @@
    },
    "neutral": true,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md4-tractor-fc-irn-2-2-pfc-neftchi-uzb"
    ],
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
     "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
-   ]
+   ],
+   "updatedAt": "2026-11-03T01:46:22.462Z"
   },
   {
    "competition": "acle",
@@ -37818,8 +37824,11 @@
    "away": "gb-eng-everton",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "St James' Park",
@@ -37832,9 +37841,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
+    "https://www.skysports.com/football/newcastle-united-vs-everton/report/559532",
+    "https://gulfnews.com/sport/football/everton-beat-newcastle-to-pile-pressure-on-jaissle-1.500733420"
    ],
+   "updatedAt": "2026-11-03T01:46:22.462Z",
    "venueFrom": "home-ground"
   },
   {

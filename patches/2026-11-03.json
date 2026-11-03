@@ -1,0 +1,14 @@
+{
+  "run": "2026-11-03T01:36:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r11-es-athletic-club-es-real-sociedad", "status": "FT", "score": [2,1],
+      "sources": ["https://www.laliga.com/en-GB/laliga-easports/results"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r10-it-lazio-it-cagliari", "status": "FT", "score": [2,1], "ht": [1,1],
+      "sources": ["https://www.365scores.com/football/match/serie-a-17/cagliari-lazio-236-243-17"] },
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r04-ir-tractor-uz-neftchi-fergana", "status": "FT", "score": [2,2],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md4-tractor-fc-irn-2-2-pfc-neftchi-uzb"] },
+    { "op": "result", "match": "epl-2026-27-regular-r09-gb-eng-newcastle-united-gb-eng-everton", "status": "FT", "score": [0,1],
+      "sources": ["https://www.skysports.com/football/newcastle-united-vs-everton/report/559532", "https://gulfnews.com/sport/football/everton-beat-newcastle-to-pile-pressure-on-jaissle-1.500733420"] }
+  ],
+  "unconfirmed": []
+}

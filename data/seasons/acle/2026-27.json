@@ -2272,8 +2272,11 @@
    "away": "uz-neftchi-fergana",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Sultan Qaboos Sports Complex",
@@ -2286,13 +2289,13 @@
    },
    "neutral": true,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md4-tractor-fc-irn-2-2-pfc-neftchi-uzb"
    ],
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261102",
     "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
-   ]
+   ],
+   "updatedAt": "2026-11-03T01:46:22.462Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r04-qa-al-sadd-sa-al-ahli-saudi",

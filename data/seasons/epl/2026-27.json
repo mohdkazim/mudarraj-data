@@ -4181,14 +4181,18 @@
    "away": "gb-eng-everton",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=9&s=2026-2027"
-   ]
+    "https://www.skysports.com/football/newcastle-united-vs-everton/report/559532",
+    "https://gulfnews.com/sport/football/everton-beat-newcastle-to-pile-pressure-on-jaissle-1.500733420"
+   ],
+   "updatedAt": "2026-11-03T01:46:22.462Z"
   },
   {
    "id": "epl-2026-27-regular-r10-gb-eng-everton-gb-eng-coventry-city",

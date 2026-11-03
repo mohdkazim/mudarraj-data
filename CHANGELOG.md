@@ -4066,3 +4066,10 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-11-03 (2026-11-02T22:35:00Z)
 - 0 change(s) applied, 0 rejected, 4 waiting for a second source
+
+## 2026-11-03 (2026-11-03T01:36:00Z)
+- 4 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r11-es-athletic-club-es-real-sociedad 2-1 FT
+  - ✓ result serie-a-2026-27-regular-r10-it-lazio-it-cagliari 2-1 FT
+  - ✓ result acle-2026-27-league-west-gwest-r04-ir-tractor-uz-neftchi-fergana 2-2 FT
+  - ✓ result epl-2026-27-regular-r09-gb-eng-newcastle-united-gb-eng-everton 0-1 FT

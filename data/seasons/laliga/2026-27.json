@@ -5543,14 +5543,17 @@
    "away": "es-real-sociedad",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.laliga.com/en-GB/laliga-easports/results"
+   ],
+   "updatedAt": "2026-11-03T01:46:22.462Z"
   },
   {
    "id": "laliga-2026-27-regular-r11-es-deportivo-la-coruna-es-osasuna",
