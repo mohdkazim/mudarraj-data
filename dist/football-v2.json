@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-03T20:38:37.203Z",
+ "generatedAt": "2026-11-03T21:43:38.289Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 809,
-  "pending": 0
+  "results": 810,
+  "pending": 1
  },
  "teams": [
   {
@@ -60889,8 +60889,11 @@
    "away": "ae-shabab-al-ahli",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Kingdom Arena",
@@ -60903,9 +60906,24 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.arabnews.com/football/watkins-double-ends-shabab-al-ahlis-undefeated-continental-streak-3009652",
+    "https://www.emaratalyoum.com/sports/local/2026-11-03-1.2098997"
    ],
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "Ollie Watkins",
+     "type": "goal"
+    },
+    {
+     "minute": 46,
+     "side": "home",
+     "player": "Ollie Watkins",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-03T21:43:37.914Z",
    "venueFrom": "home-ground"
   },
   {

@@ -1,0 +1,14 @@
+{
+  "run": "2026-11-03T21:36:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r04-sa-al-hilal-ae-shabab-al-ahli", "status": "FT", "score": [2,0],
+      "goals": [
+        { "minute": 6, "side": "home", "player": "Ollie Watkins", "type": "goal" },
+        { "minute": 46, "side": "home", "player": "Ollie Watkins", "type": "goal" }
+      ],
+      "sources": ["https://www.arabnews.com/football/watkins-double-ends-shabab-al-ahlis-undefeated-continental-streak-3009652", "https://www.emaratalyoum.com/sports/local/2026-11-03-1.2098997"] }
+  ],
+  "unconfirmed": [
+    { "match": "ucl-2026-27-league-phase-r04-ua-shakhtar-donetsk-pt-sporting-cp", "claim": "0-1", "sources": ["https://www.skysports.com/football/shakhtar-donetsk-vs-sporting-lisbon/577658"] }
+  ]
+}

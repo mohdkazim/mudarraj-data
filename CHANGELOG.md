@@ -4101,3 +4101,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-04 (2026-11-03T20:36:00Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result ucl-2026-27-league-phase-r04-tr-galatasaray-de-vfb-stuttgart 2-0 FT
+
+## 2026-11-04 (2026-11-03T21:36:00Z)
+- 1 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acle-2026-27-league-west-gwest-r04-sa-al-hilal-ae-shabab-al-ahli 2-0 FT
