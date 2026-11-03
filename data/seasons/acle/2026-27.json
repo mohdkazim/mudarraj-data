@@ -2441,14 +2441,18 @@
    "away": "th-ratchaburi",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/team/ratchaburi-fc-10318",
+    "https://www.365scores.com/en-us/football/team/vissel-kobe-2151"
+   ],
+   "updatedAt": "2026-11-03T12:38:44.103Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r04-kr-jeonbuk-hyundai-motors-my-johor-darul-ta-zim",

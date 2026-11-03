@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-03T01:46:22.653Z",
+ "generatedAt": "2026-11-03T12:38:44.323Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 432,
+  "results": 433,
   "pending": 0
  },
  "teams": [
@@ -37968,8 +37968,11 @@
    "away": "th-ratchaburi",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Noevir Stadium Kobe",
@@ -37982,9 +37985,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.365scores.com/en-us/football/team/ratchaburi-fc-10318",
+    "https://www.365scores.com/en-us/football/team/vissel-kobe-2151"
    ],
+   "updatedAt": "2026-11-03T12:38:44.103Z",
    "venueFrom": "home-ground"
   },
   {

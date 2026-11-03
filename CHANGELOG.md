@@ -4073,3 +4073,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result serie-a-2026-27-regular-r10-it-lazio-it-cagliari 2-1 FT
   - ✓ result acle-2026-27-league-west-gwest-r04-ir-tractor-uz-neftchi-fergana 2-2 FT
   - ✓ result epl-2026-27-regular-r09-gb-eng-newcastle-united-gb-eng-everton 0-1 FT
+
+## 2026-11-03 (2026-11-03T12:36:00Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result acle-2026-27-league-east-geast-r04-jp-vissel-kobe-th-ratchaburi 3-2 FT
