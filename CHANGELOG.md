@@ -4086,3 +4086,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 2 waiting for a second source
   - ✓ result acle-2026-27-league-east-geast-r04-kr-jeonbuk-hyundai-motors-my-johor-darul-ta-zim 2-0 FT
   - ✓ result acle-2026-27-league-east-geast-r04-au-newcastle-jets-cn-shanghai-port 2-4 FT
+
+## 2026-11-03 (2026-11-03T16:36:00Z)
+- 1 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acle-2026-27-league-east-geast-r04-jp-kashiwa-reysol-kr-daejeon-hana-citizen 2-0 FT

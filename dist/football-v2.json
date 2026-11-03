@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-03T15:38:12.624Z",
+ "generatedAt": "2026-11-03T16:39:08.603Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 803,
-  "pending": 2
+  "results": 804,
+  "pending": 1
  },
  "teams": [
   {
@@ -60485,8 +60485,15 @@
    "away": "kr-daejeon-hana-citizen",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Kashiwa Soccer Stadium",
@@ -60499,9 +60506,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/daejeon-citizen-kashiwa-reysol-2145-9816-623"
    ],
+   "updatedAt": "2026-11-03T16:39:08.471Z",
    "venueFrom": "home-ground"
   },
   {
