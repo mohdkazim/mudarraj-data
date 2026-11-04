@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-04T01:49:02.661Z",
+ "generatedAt": "2026-11-04T12:37:59.884Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 818,
+  "results": 819,
   "pending": 2
  },
  "teams": [
@@ -61354,8 +61354,11 @@
    "away": "jp-gamba-osaka",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 3
+   },
    "venue": {
     "name": {
      "en": "Steelyard Stadium",
@@ -61368,9 +61371,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md4-fc-pohang-steelers-kor-3-3-gamba-osaka-jpn-1"
    ],
+   "updatedAt": "2026-11-04T12:37:59.627Z",
    "venueFrom": "home-ground"
   },
   {

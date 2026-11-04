@@ -4181,3 +4181,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ status asian-cup-2027-m49 PST
   - ✓ status asian-cup-2027-m50 PST
   - ✓ status asian-cup-2027-m51 PST
+
+## 2026-11-04 (2026-11-04T12:35:00Z)
+- 1 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result acle-2026-27-league-east-geast-r04-kr-pohang-steelers-jp-gamba-osaka 3-3 FT
