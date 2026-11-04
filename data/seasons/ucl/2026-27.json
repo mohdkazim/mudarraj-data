@@ -3321,14 +3321,18 @@
    "away": "gb-eng-liverpool",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://www.skysports.com/football/fenerbahce-vs-liverpool/5567042954162879232",
+    "https://www.arabnews.com/football/liverpool-collapse-to-champions-league-defeat-at-fenerbahce-3009856"
+   ],
+   "updatedAt": "2026-11-04T21:42:24.302Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-cz-slavia-prague-gb-eng-arsenal",

@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-04T20:41:57.047Z",
+ "generatedAt": "2026-11-04T21:42:24.537Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 827,
-  "pending": 4
+  "results": 830,
+  "pending": 2
  },
  "teams": [
   {
@@ -61402,8 +61402,15 @@
    "away": "jp-kashima-antlers",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Chang Arena",
@@ -61416,9 +61423,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/buriram-united-kashima-antlers-2146-7747-623#id=4818593"
    ],
+   "updatedAt": "2026-11-04T21:42:24.302Z",
    "venueFrom": "home-ground"
   },
   {
@@ -61437,8 +61444,15 @@
    "away": "ir-gol-gohar-sirjan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Arkadag Stadium",
@@ -61451,9 +61465,17 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+    "https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/arkadag-gol-gohar-16533-74158-568#id=4818666"
    ],
+   "goals": [
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Ahmet Atayev",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-04T21:42:24.302Z",
    "venueFrom": "home-ground"
   },
   {
@@ -61658,8 +61680,11 @@
    "away": "gb-eng-liverpool",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Şükrü Saracoğlu Stadium",
@@ -61672,9 +61697,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+    "https://www.skysports.com/football/fenerbahce-vs-liverpool/5567042954162879232",
+    "https://www.arabnews.com/football/liverpool-collapse-to-champions-league-defeat-at-fenerbahce-3009856"
    ],
+   "updatedAt": "2026-11-04T21:42:24.302Z",
    "venueFrom": "home-ground"
   },
   {

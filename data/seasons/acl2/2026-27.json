@@ -2281,14 +2281,29 @@
    "away": "ir-gol-gohar-sirjan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/arkadag-gol-gohar-16533-74158-568#id=4818666"
+   ],
+   "goals": [
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "Ahmet Atayev",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-04T21:42:24.302Z"
   },
   {
    "id": "acl2-2026-27-groups-ga-r04-ae-al-wahda-bh-al-khaldiya",

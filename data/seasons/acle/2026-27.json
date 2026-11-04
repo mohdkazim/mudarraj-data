@@ -2688,14 +2688,21 @@
    "away": "jp-kashima-antlers",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/buriram-united-kashima-antlers-2146-7747-623#id=4818593"
+   ],
+   "updatedAt": "2026-11-04T21:42:24.302Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r05-uz-neftchi-fergana-sa-al-hilal",

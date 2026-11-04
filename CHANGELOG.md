@@ -4209,3 +4209,9 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result acl2-2026-27-groups-gc-r04-sa-al-taawoun-jo-al-faisaly 3-1 FT
   - ✓ result ucl-2026-27-league-phase-r04-gr-aek-athens-es-real-madrid 2-3 FT
   - ✓ result acl2-2026-27-groups-ga-r04-ae-al-wahda-bh-al-khaldiya added scorers to the confirmed result
+
+## 2026-11-05 (2026-11-04T21:35:47Z)
+- 3 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result ucl-2026-27-league-phase-r04-tr-fenerbahce-gb-eng-liverpool 3-2 FT
+  - ✓ result acl2-2026-27-groups-gb-r04-tm-arkadag-ir-gol-gohar-sirjan 1-0 FT
+  - ✓ result acle-2026-27-league-east-geast-r04-th-buriram-united-jp-kashima-antlers 0-0 FT

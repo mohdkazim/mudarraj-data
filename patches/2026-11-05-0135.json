@@ -1,0 +1,13 @@
+{
+  "run": "2026-11-04T21:35:47Z",
+  "changes": [
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-tr-fenerbahce-gb-eng-liverpool", "status": "FT", "score": [3,2],
+      "sources": ["https://www.skysports.com/football/fenerbahce-vs-liverpool/5567042954162879232", "https://www.arabnews.com/football/liverpool-collapse-to-champions-league-defeat-at-fenerbahce-3009856"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gb-r04-tm-arkadag-ir-gol-gohar-sirjan", "status": "FT", "score": [1,0], "ht": [0,0],
+      "goals": [ { "minute": 77, "side": "home", "player": "Ahmet Atayev", "type": "goal" } ],
+      "sources": ["https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/arkadag-gol-gohar-16533-74158-568#id=4818666"] },
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r04-th-buriram-united-jp-kashima-antlers", "status": "FT", "score": [0,0], "ht": [0,0],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/buriram-united-kashima-antlers-2146-7747-623#id=4818593"] }
+  ],
+  "unconfirmed": []
+}
