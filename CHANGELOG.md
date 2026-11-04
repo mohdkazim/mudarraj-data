@@ -4202,3 +4202,10 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 3 waiting for a second source
   - ✓ result acl2-2026-27-groups-ga-r04-kw-kuwait-sc-uz-nasaf 2-3 FT
   - ✓ result acl2-2026-27-groups-gc-r04-qa-al-rayyan-om-al-nahda 2-0 FT
+
+## 2026-11-05 (2026-11-04T20:36:00Z)
+- 4 change(s) applied, 0 rejected, 4 waiting for a second source
+  - ✓ result acl2-2026-27-groups-gb-r04-bh-al-muharraq-ae-al-jazira 0-3 FT
+  - ✓ result acl2-2026-27-groups-gc-r04-sa-al-taawoun-jo-al-faisaly 3-1 FT
+  - ✓ result ucl-2026-27-league-phase-r04-gr-aek-athens-es-real-madrid 2-3 FT
+  - ✓ result acl2-2026-27-groups-ga-r04-ae-al-wahda-bh-al-khaldiya added scorers to the confirmed result

@@ -1,0 +1,26 @@
+{
+  "run": "2026-11-04T20:36:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-gb-r04-bh-al-muharraq-ae-al-jazira", "status": "FT", "score": [0,3], "ht": [0,0],
+      "goals": [
+        { "minute": 63, "side": "away", "player": "Vinícius Mello", "type": "goal" },
+        { "minute": 69, "side": "away", "player": "Bruno de Oliveira", "type": "goal" },
+        { "minute": 90, "extra": 4, "side": "away", "player": "Igor Serrote", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/football/match/afc-champions-league-two-568/jazira-abu-dhabi-muharraq-sc-8344-16941-568#id=4818662"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gc-r04-sa-al-taawoun-jo-al-faisaly", "status": "FT", "score": [3,1], "ht": [1,0],
+      "sources": ["https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/al-faisaly-al-taawoun-8276-8941-568#id=4818661"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-gr-aek-athens-es-real-madrid", "status": "FT", "score": [2,3],
+      "sources": ["https://365scores.com/es/news/como-quedo-el-real-madrid-aek-atenas-hoy", "https://www.skysports.com/champions-league-scores-fixtures"] },
+    { "op": "result", "match": "acl2-2026-27-groups-ga-r04-ae-al-wahda-bh-al-khaldiya", "status": "FT", "score": [1,2], "ht": [0,0],
+      "goals": [
+        { "minute": 55, "side": "home", "player": "Christian Benteke", "type": "goal" },
+        { "minute": 67, "side": "away", "player": "Gleison Moreira", "type": "goal" },
+        { "minute": 72, "side": "away", "player": "Saifeddine Bouhra", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/football/match/afc-champions-league-two-568/al-khalidiyah-wahda-abu-dhabi-8350-68794-568#id=4818665"] }
+  ],
+  "unconfirmed": [
+    { "match": "ucl-2026-27-league-phase-r04-tr-fenerbahce-gb-eng-liverpool", "claim": "3-2", "sources": ["https://www.skysports.com/champions-league-scores-fixtures"] }
+  ]
+}

@@ -3294,14 +3294,18 @@
    "away": "es-real-madrid",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://365scores.com/es/news/como-quedo-el-real-madrid-aek-atenas-hoy",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-04T20:41:56.819Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-tr-fenerbahce-gb-eng-liverpool",

@@ -2316,9 +2316,30 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/football/match/afc-champions-league-two-568/al-khalidiyah-wahda-abu-dhabi-8350-68794-568"
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/al-khalidiyah-wahda-abu-dhabi-8350-68794-568",
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/al-khalidiyah-wahda-abu-dhabi-8350-68794-568#id=4818665"
    ],
-   "updatedAt": "2026-11-04T18:38:29.878Z"
+   "updatedAt": "2026-11-04T18:38:29.878Z",
+   "goals": [
+    {
+     "minute": 55,
+     "side": "home",
+     "player": "Christian Benteke",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Gleison Moreira",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "away",
+     "player": "Saifeddine Bouhra",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acl2-2026-27-groups-ga-r04-kw-kuwait-sc-uz-nasaf",
@@ -2394,14 +2415,42 @@
    "away": "ae-al-jazira",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/jazira-abu-dhabi-muharraq-sc-8344-16941-568#id=4818662"
+   ],
+   "goals": [
+    {
+     "minute": 63,
+     "side": "away",
+     "player": "Vinícius Mello",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Bruno de Oliveira",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 4,
+     "side": "away",
+     "player": "Igor Serrote",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-04T20:41:56.819Z"
   },
   {
    "id": "acl2-2026-27-groups-gc-r04-sa-al-taawoun-jo-al-faisaly",
@@ -2417,14 +2466,21 @@
    "away": "jo-al-faisaly",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/al-faisaly-al-taawoun-8276-8941-568#id=4818661"
+   ],
+   "updatedAt": "2026-11-04T20:41:56.819Z"
   },
   {
    "id": "acl2-2026-27-groups-gf-r04-sg-lion-city-sailors-au-adelaide-united",
