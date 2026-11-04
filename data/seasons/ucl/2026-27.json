@@ -3348,14 +3348,19 @@
    "away": "gb-eng-arsenal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://365scores.com/pt-br/news/magazine/arsenal-city-como-resultados-champions-league",
+    "https://365scores.com/es/news/resultados-champions-league-tabla-vivo",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-04T22:40:02.323Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-de-borussia-dortmund-es-real-betis",
@@ -3371,14 +3376,18 @@
    "away": "es-real-betis",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/es/news/estadisticas-dortmund-vs-betis-remates/",
+    "https://365scores.com/es/news/resultados-champions-league-tabla-vivo"
+   ],
+   "updatedAt": "2026-11-04T22:40:02.323Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-de-rb-leipzig-gb-eng-manchester-city",
@@ -3394,14 +3403,19 @@
    "away": "gb-eng-manchester-city",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://365scores.com/pt-br/news/magazine/arsenal-city-como-resultados-champions-league",
+    "https://365scores.com/es/news/resultados-champions-league-tabla-vivo",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-04T22:40:02.323Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-fr-lens-it-como",
@@ -3417,14 +3431,22 @@
    "away": "it-como",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 9,
+    "ht": [
+     0,
+     3
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/como-lens-481-6117-572",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-04T22:40:02.323Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-nl-psv-eindhoven-be-club-brugge",
@@ -3440,14 +3462,22 @@
    "away": "be-club-brugge",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/club-brugge-psv-eindhoven-725-1169-572",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-04T22:40:02.323Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-no-viking-az-sabah",
@@ -3463,14 +3493,22 @@
    "away": "az-sabah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/sabah-viking-1980-50201-572",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-04T22:40:02.323Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-pt-porto-it-napoli",
@@ -3486,14 +3524,19 @@
    "away": "it-napoli",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://365scores.com/pt-br/news/magazine/arsenal-city-como-resultados-champions-league",
+    "https://365scores.com/es/news/resultados-champions-league-tabla-vivo",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-04T22:40:02.323Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-no-bod-glimt-at-lask",

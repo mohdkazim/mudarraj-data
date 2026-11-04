@@ -4215,3 +4215,13 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result ucl-2026-27-league-phase-r04-tr-fenerbahce-gb-eng-liverpool 3-2 FT
   - ✓ result acl2-2026-27-groups-gb-r04-tm-arkadag-ir-gol-gohar-sirjan 1-0 FT
   - ✓ result acle-2026-27-league-east-geast-r04-th-buriram-united-jp-kashima-antlers 0-0 FT
+
+## 2026-11-05 (2026-11-04T22:35:36Z)
+- 7 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result ucl-2026-27-league-phase-r04-cz-slavia-prague-gb-eng-arsenal 1-2 FT
+  - ✓ result ucl-2026-27-league-phase-r04-de-borussia-dortmund-es-real-betis 2-1 FT
+  - ✓ result ucl-2026-27-league-phase-r04-de-rb-leipzig-gb-eng-manchester-city 2-3 FT
+  - ✓ result ucl-2026-27-league-phase-r04-fr-lens-it-como 1-9 FT
+  - ✓ result ucl-2026-27-league-phase-r04-nl-psv-eindhoven-be-club-brugge 1-2 FT
+  - ✓ result ucl-2026-27-league-phase-r04-no-viking-az-sabah 4-1 FT
+  - ✓ result ucl-2026-27-league-phase-r04-pt-porto-it-napoli 4-1 FT

@@ -1,0 +1,20 @@
+{
+  "run": "2026-11-04T22:35:36Z",
+  "changes": [
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-cz-slavia-prague-gb-eng-arsenal", "status": "FT", "score": [1,2],
+      "sources": ["https://365scores.com/pt-br/news/magazine/arsenal-city-como-resultados-champions-league", "https://365scores.com/es/news/resultados-champions-league-tabla-vivo", "https://www.skysports.com/champions-league-scores-fixtures"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-de-borussia-dortmund-es-real-betis", "status": "FT", "score": [2,1],
+      "sources": ["https://www.365scores.com/es/news/estadisticas-dortmund-vs-betis-remates/", "https://365scores.com/es/news/resultados-champions-league-tabla-vivo"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-de-rb-leipzig-gb-eng-manchester-city", "status": "FT", "score": [2,3],
+      "sources": ["https://365scores.com/pt-br/news/magazine/arsenal-city-como-resultados-champions-league", "https://365scores.com/es/news/resultados-champions-league-tabla-vivo", "https://www.skysports.com/champions-league-scores-fixtures"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-fr-lens-it-como", "status": "FT", "score": [1,9], "ht": [0,3],
+      "sources": ["https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/como-lens-481-6117-572", "https://www.skysports.com/champions-league-scores-fixtures"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-nl-psv-eindhoven-be-club-brugge", "status": "FT", "score": [1,2], "ht": [0,1],
+      "sources": ["https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/club-brugge-psv-eindhoven-725-1169-572", "https://www.skysports.com/champions-league-scores-fixtures"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-no-viking-az-sabah", "status": "FT", "score": [4,1], "ht": [1,1],
+      "sources": ["https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/sabah-viking-1980-50201-572", "https://www.skysports.com/champions-league-scores-fixtures"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r04-pt-porto-it-napoli", "status": "FT", "score": [4,1],
+      "sources": ["https://365scores.com/pt-br/news/magazine/arsenal-city-como-resultados-champions-league", "https://365scores.com/es/news/resultados-champions-league-tabla-vivo", "https://www.skysports.com/champions-league-scores-fixtures"] }
+  ],
+  "unconfirmed": []
+}

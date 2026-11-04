@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-04T21:42:24.537Z",
+ "generatedAt": "2026-11-04T22:40:02.519Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 463,
+  "results": 470,
   "pending": 2
  },
  "teams": [
@@ -39279,8 +39279,11 @@
    "away": "gb-eng-arsenal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Fortuna Arena",
@@ -39293,9 +39296,11 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+    "https://365scores.com/pt-br/news/magazine/arsenal-city-como-resultados-champions-league",
+    "https://365scores.com/es/news/resultados-champions-league-tabla-vivo",
+    "https://www.skysports.com/champions-league-scores-fixtures"
    ],
+   "updatedAt": "2026-11-04T22:40:02.323Z",
    "venueFrom": "home-ground"
   },
   {
@@ -39314,8 +39319,11 @@
    "away": "es-real-betis",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Signal Iduna Park",
@@ -39328,9 +39336,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+    "https://www.365scores.com/es/news/estadisticas-dortmund-vs-betis-remates/",
+    "https://365scores.com/es/news/resultados-champions-league-tabla-vivo"
    ],
+   "updatedAt": "2026-11-04T22:40:02.323Z",
    "venueFrom": "home-ground"
   },
   {
@@ -39349,8 +39358,11 @@
    "away": "gb-eng-manchester-city",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3
+   },
    "venue": {
     "name": {
      "en": "Red Bull Arena",
@@ -39363,9 +39375,11 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+    "https://365scores.com/pt-br/news/magazine/arsenal-city-como-resultados-champions-league",
+    "https://365scores.com/es/news/resultados-champions-league-tabla-vivo",
+    "https://www.skysports.com/champions-league-scores-fixtures"
    ],
+   "updatedAt": "2026-11-04T22:40:02.323Z",
    "venueFrom": "home-ground"
   },
   {
@@ -39384,8 +39398,15 @@
    "away": "it-como",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 9,
+    "ht": [
+     0,
+     3
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stade Bollaert-Delelis",
@@ -39398,9 +39419,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/como-lens-481-6117-572",
+    "https://www.skysports.com/champions-league-scores-fixtures"
    ],
+   "updatedAt": "2026-11-04T22:40:02.323Z",
    "venueFrom": "home-ground"
   },
   {
@@ -39419,8 +39441,15 @@
    "away": "be-club-brugge",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Philips Stadion",
@@ -39433,9 +39462,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/club-brugge-psv-eindhoven-725-1169-572",
+    "https://www.skysports.com/champions-league-scores-fixtures"
    ],
+   "updatedAt": "2026-11-04T22:40:02.323Z",
    "venueFrom": "home-ground"
   },
   {
@@ -39454,8 +39484,15 @@
    "away": "az-sabah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Viking Stadion",
@@ -39468,9 +39505,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/sabah-viking-1980-50201-572",
+    "https://www.skysports.com/champions-league-scores-fixtures"
    ],
+   "updatedAt": "2026-11-04T22:40:02.323Z",
    "venueFrom": "home-ground"
   },
   {
@@ -39489,8 +39527,11 @@
    "away": "it-napoli",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Estádio do Dragão",
@@ -39503,9 +39544,11 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+    "https://365scores.com/pt-br/news/magazine/arsenal-city-como-resultados-champions-league",
+    "https://365scores.com/es/news/resultados-champions-league-tabla-vivo",
+    "https://www.skysports.com/champions-league-scores-fixtures"
    ],
+   "updatedAt": "2026-11-04T22:40:02.323Z",
    "venueFrom": "home-ground"
   },
   {
