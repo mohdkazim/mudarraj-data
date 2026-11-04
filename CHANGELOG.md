@@ -4113,3 +4113,71 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result ucl-2026-27-league-phase-r04-es-barcelona-gb-eng-aston-villa 3-0 FT
   - ✓ result ucl-2026-27-league-phase-r04-es-atletico-madrid-de-bayern-munich 0-2 FT
   - ✓ result ucl-2026-27-league-phase-r04-es-villarreal-fr-paris-saint-germain 0-6 FT
+
+## 2026-11-04 (2026-11-04T01:48:45Z)
+- 65 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r11-es-deportivo-la-coruna-es-osasuna 2-1 FT
+  - ✓ result ucl-2026-27-league-phase-r04-at-lask-sk-slovan-bratislava 4-0 FT
+  - ✓ result ucl-2026-27-league-phase-r04-nl-feyenoord-it-inter-milan 0-3 FT
+  - ✓ result ucl-2026-27-league-phase-r04-es-villarreal-fr-paris-saint-germain added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r04-tr-galatasaray-de-vfb-stuttgart added scorers to the confirmed result
+  - ✓ status saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej PST
+  - ✓ status saudi-pro-league-2026-27-regular-r13-sa-abha-sa-al-shabab PST
+  - ✓ status saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha PST
+  - ✓ status saudi-pro-league-2026-27-regular-r13-sa-al-fateh-sa-al-riyadh PST
+  - ✓ status saudi-pro-league-2026-27-regular-r13-sa-al-hazem-sa-al-nassr PST
+  - ✓ status saudi-pro-league-2026-27-regular-r13-sa-al-ittihad-sa-neom PST
+  - ✓ status saudi-pro-league-2026-27-regular-r13-sa-al-faisaly-sa-al-diriyah PST
+  - ✓ status saudi-pro-league-2026-27-regular-r13-sa-al-ettifaq-sa-al-hilal PST
+  - ✓ status saudi-pro-league-2026-27-regular-r13-sa-al-ahli-saudi-sa-al-taawoun PST
+  - ✓ status asian-cup-2027-gA-nt-sa-nt-ps PST
+  - ✓ status asian-cup-2027-gA-nt-kw-nt-om PST
+  - ✓ status asian-cup-2027-gB-nt-bh-nt-kp PST
+  - ✓ status asian-cup-2027-gB-nt-uz-nt-jo PST
+  - ✓ status asian-cup-2027-gC-nt-sy-nt-kg PST
+  - ✓ status asian-cup-2027-gC-nt-ir-nt-cn PST
+  - ✓ status asian-cup-2027-gD-nt-au-nt-sg PST
+  - ✓ status asian-cup-2027-gD-nt-tj-nt-iq PST
+  - ✓ status asian-cup-2027-gE-nt-kr-nt-ye PST
+  - ✓ status asian-cup-2027-gE-nt-ae-nt-vn PST
+  - ✓ status asian-cup-2027-gF-nt-qa-nt-th PST
+  - ✓ status asian-cup-2027-gF-nt-jp-nt-id PST
+  - ✓ status asian-cup-2027-gB-nt-kp-nt-uz PST
+  - ✓ status asian-cup-2027-gA-nt-ps-nt-kw PST
+  - ✓ status asian-cup-2027-gA-nt-om-nt-sa PST
+  - ✓ status asian-cup-2027-gC-nt-kg-nt-ir PST
+  - ✓ status asian-cup-2027-gB-nt-jo-nt-bh PST
+  - ✓ status asian-cup-2027-gD-nt-sg-nt-tj PST
+  - ✓ status asian-cup-2027-gC-nt-cn-nt-sy PST
+  - ✓ status asian-cup-2027-gD-nt-iq-nt-au PST
+  - ✓ status asian-cup-2027-gE-nt-vn-nt-kr PST
+  - ✓ status asian-cup-2027-gE-nt-ye-nt-ae PST
+  - ✓ status asian-cup-2027-gF-nt-th-nt-jp PST
+  - ✓ status asian-cup-2027-gF-nt-id-nt-qa PST
+  - ✓ status asian-cup-2027-gB-nt-kp-nt-jo PST
+  - ✓ status asian-cup-2027-gB-nt-uz-nt-bh PST
+  - ✓ status asian-cup-2027-gA-nt-om-nt-ps PST
+  - ✓ status asian-cup-2027-gA-nt-sa-nt-kw PST
+  - ✓ status asian-cup-2027-gC-nt-ir-nt-sy PST
+  - ✓ status asian-cup-2027-gC-nt-kg-nt-cn PST
+  - ✓ status asian-cup-2027-gD-nt-au-nt-tj PST
+  - ✓ status asian-cup-2027-gD-nt-iq-nt-sg PST
+  - ✓ status asian-cup-2027-gF-nt-jp-nt-qa PST
+  - ✓ status asian-cup-2027-gF-nt-th-nt-id PST
+  - ✓ status asian-cup-2027-gE-nt-kr-nt-ae PST
+  - ✓ status asian-cup-2027-gE-nt-vn-nt-ye PST
+  - ✓ status asian-cup-2027-m37 PST
+  - ✓ status asian-cup-2027-m38 PST
+  - ✓ status asian-cup-2027-m39 PST
+  - ✓ status asian-cup-2027-m40 PST
+  - ✓ status asian-cup-2027-m41 PST
+  - ✓ status asian-cup-2027-m42 PST
+  - ✓ status asian-cup-2027-m43 PST
+  - ✓ status asian-cup-2027-m44 PST
+  - ✓ status asian-cup-2027-m45 PST
+  - ✓ status asian-cup-2027-m46 PST
+  - ✓ status asian-cup-2027-m47 PST
+  - ✓ status asian-cup-2027-m48 PST
+  - ✓ status asian-cup-2027-m49 PST
+  - ✓ status asian-cup-2027-m50 PST
+  - ✓ status asian-cup-2027-m51 PST

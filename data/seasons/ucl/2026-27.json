@@ -2982,9 +2982,24 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/team/stuttgart-338"
+    "https://www.365scores.com/en-us/football/team/stuttgart-338",
+    "https://www.skysports.com/football/galatasaray-vs-stuttgart/577655"
    ],
-   "updatedAt": "2026-11-03T20:38:37.007Z"
+   "updatedAt": "2026-11-03T20:38:37.007Z",
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "A Batrakov",
+     "type": "goal"
+    },
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "A Batrakov",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r04-ua-shakhtar-donetsk-pt-sporting-cp",
@@ -3043,14 +3058,22 @@
    "away": "sk-slovan-bratislava",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0,
+    "ht": [
+     3,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/lask-linz-slovan-bratislava-1743-2112-572",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-04T01:49:02.470Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-es-atletico-madrid-de-bayern-munich",
@@ -3129,9 +3152,48 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-scores-fixtures",
-    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815",
+    "https://www.skysports.com/football/villarreal-vs-paris-saint-germain/577659"
    ],
-   "updatedAt": "2026-11-03T22:38:18.480Z"
+   "updatedAt": "2026-11-03T22:38:18.480Z",
+   "goals": [
+    {
+     "minute": 9,
+     "side": "away",
+     "player": "J Neves",
+     "type": "goal"
+    },
+    {
+     "minute": 12,
+     "side": "away",
+     "player": "D Doue",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "S Mayulu",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "F Ruiz Pena",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "F Ruiz Pena",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "D Boly",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r04-gb-eng-manchester-united-it-roma",
@@ -3178,14 +3240,22 @@
    "away": "it-inter-milan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/feyenoord-inter-milan-224-691-572",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-04T01:49:02.470Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-no-bod-glimt-fr-lille",

@@ -4802,13 +4802,14 @@
    "away": "sa-al-khaleej",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
-    "https://www.365scores.com/football/league/saudi-league-649/standings"
+    "https://www.365scores.com/football/league/saudi-league-649/standings",
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
    ]
   },
   {
@@ -4825,13 +4826,14 @@
    "away": "sa-al-shabab",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
-    "https://www.365scores.com/football/league/saudi-league-649/standings"
+    "https://www.365scores.com/football/league/saudi-league-649/standings",
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
    ]
   },
   {
@@ -4848,13 +4850,14 @@
    "away": "sa-al-fayha",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
-    "https://www.365scores.com/football/league/saudi-league-649/standings"
+    "https://www.365scores.com/football/league/saudi-league-649/standings",
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
    ]
   },
   {
@@ -4871,13 +4874,14 @@
    "away": "sa-al-riyadh",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
-    "https://www.365scores.com/football/league/saudi-league-649/standings"
+    "https://www.365scores.com/football/league/saudi-league-649/standings",
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
    ]
   },
   {
@@ -4894,7 +4898,7 @@
    "away": "sa-al-nassr",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
@@ -4903,7 +4907,8 @@
     "https://www.365scores.com/es-mx/football/match/saudi-league-649/al-hazm-al-nassr-fc-riyadh-7549-14895-649",
     "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
     "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches",
-    "https://www.365scores.com/football/league/saudi-league-649/standings"
+    "https://www.365scores.com/football/league/saudi-league-649/standings",
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
    ]
   },
   {
@@ -4920,13 +4925,14 @@
    "away": "sa-neom",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
-    "https://www.365scores.com/football/league/saudi-league-649/standings"
+    "https://www.365scores.com/football/league/saudi-league-649/standings",
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
    ]
   },
   {
@@ -4943,13 +4949,14 @@
    "away": "sa-al-diriyah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
-    "https://www.365scores.com/football/league/saudi-league-649/standings"
+    "https://www.365scores.com/football/league/saudi-league-649/standings",
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
    ]
   },
   {
@@ -4966,13 +4973,14 @@
    "away": "sa-al-hilal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
-    "https://www.365scores.com/football/league/saudi-league-649/standings"
+    "https://www.365scores.com/football/league/saudi-league-649/standings",
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
    ]
   },
   {
@@ -4989,13 +4997,14 @@
    "away": "sa-al-taawoun",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261105&lang=en&region=us",
-    "https://www.365scores.com/football/league/saudi-league-649/standings"
+    "https://www.365scores.com/football/league/saudi-league-649/standings",
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
    ]
   },
   {

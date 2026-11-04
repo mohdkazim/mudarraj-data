@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-03T22:38:18.730Z",
+ "generatedAt": "2026-11-04T01:49:02.661Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 448,
+  "results": 451,
   "pending": 2
  },
  "teams": [
@@ -37863,8 +37863,11 @@
    "away": "es-osasuna",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Abanca-Riazor",
@@ -37877,9 +37880,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261102"
+    "https://www.laliga.com/en-GB/laliga-easports/results"
    ],
+   "updatedAt": "2026-11-04T01:49:02.470Z",
    "venueFrom": "home-ground"
   },
   {
@@ -38282,9 +38285,24 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/team/stuttgart-338"
+    "https://www.365scores.com/en-us/football/team/stuttgart-338",
+    "https://www.skysports.com/football/galatasaray-vs-stuttgart/577655"
    ],
    "updatedAt": "2026-11-03T20:38:37.007Z",
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "A Batrakov",
+     "type": "goal"
+    },
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "A Batrakov",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -38401,8 +38419,15 @@
    "away": "sk-slovan-bratislava",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0,
+    "ht": [
+     3,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Raiffeisen Arena",
@@ -38415,9 +38440,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/lask-linz-slovan-bratislava-1743-2112-572",
+    "https://www.skysports.com/champions-league-scores-fixtures"
    ],
+   "updatedAt": "2026-11-04T01:49:02.470Z",
    "venueFrom": "home-ground"
   },
   {
@@ -38532,9 +38558,48 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-scores-fixtures",
-    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815",
+    "https://www.skysports.com/football/villarreal-vs-paris-saint-germain/577659"
    ],
    "updatedAt": "2026-11-03T22:38:18.480Z",
+   "goals": [
+    {
+     "minute": 9,
+     "side": "away",
+     "player": "J Neves",
+     "type": "goal"
+    },
+    {
+     "minute": 12,
+     "side": "away",
+     "player": "D Doue",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "S Mayulu",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "F Ruiz Pena",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "F Ruiz Pena",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "D Boly",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -38596,8 +38661,15 @@
    "away": "it-inter-milan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": {
     "name": {
      "en": "De Kuip",
@@ -38610,9 +38682,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/feyenoord-inter-milan-224-691-572",
+    "https://www.skysports.com/champions-league-scores-fixtures"
    ],
+   "updatedAt": "2026-11-04T01:49:02.470Z",
    "venueFrom": "home-ground"
   },
   {
@@ -46453,7 +46526,7 @@
    "away": "nt-ps",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46467,7 +46540,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46486,7 +46560,7 @@
    "away": "nt-om",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46500,7 +46574,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46519,7 +46594,7 @@
    "away": "nt-kp",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46533,7 +46608,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46552,7 +46628,7 @@
    "away": "nt-jo",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46566,7 +46642,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46585,7 +46662,7 @@
    "away": "nt-kg",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46599,7 +46676,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46618,7 +46696,7 @@
    "away": "nt-cn",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46632,7 +46710,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46651,7 +46730,7 @@
    "away": "nt-sg",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46665,7 +46744,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46684,7 +46764,7 @@
    "away": "nt-iq",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46698,7 +46778,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46717,7 +46798,7 @@
    "away": "nt-ye",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46731,7 +46812,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46750,7 +46832,7 @@
    "away": "nt-vn",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46764,7 +46846,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46783,7 +46866,7 @@
    "away": "nt-th",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46797,7 +46880,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46816,7 +46900,7 @@
    "away": "nt-id",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46830,7 +46914,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46849,7 +46934,7 @@
    "away": "nt-uz",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46863,7 +46948,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46882,7 +46968,7 @@
    "away": "nt-kw",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46896,7 +46982,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46915,7 +47002,7 @@
    "away": "nt-sa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46929,7 +47016,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46948,7 +47036,7 @@
    "away": "nt-ir",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46962,7 +47050,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -46981,7 +47070,7 @@
    "away": "nt-bh",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -46995,7 +47084,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47014,7 +47104,7 @@
    "away": "nt-tj",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47028,7 +47118,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47047,7 +47138,7 @@
    "away": "nt-sy",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47061,7 +47152,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47080,7 +47172,7 @@
    "away": "nt-au",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47094,7 +47186,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47113,7 +47206,7 @@
    "away": "nt-kr",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47127,7 +47220,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47146,7 +47240,7 @@
    "away": "nt-ae",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47160,7 +47254,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47179,7 +47274,7 @@
    "away": "nt-jp",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47193,7 +47288,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47212,7 +47308,7 @@
    "away": "nt-qa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47226,7 +47322,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47245,7 +47342,7 @@
    "away": "nt-jo",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47259,7 +47356,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47278,7 +47376,7 @@
    "away": "nt-bh",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47292,7 +47390,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47311,7 +47410,7 @@
    "away": "nt-ps",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47325,7 +47424,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47344,7 +47444,7 @@
    "away": "nt-kw",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47358,7 +47458,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47377,7 +47478,7 @@
    "away": "nt-sy",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47391,7 +47492,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47410,7 +47512,7 @@
    "away": "nt-cn",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47424,7 +47526,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47443,7 +47546,7 @@
    "away": "nt-tj",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47457,7 +47560,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47476,7 +47580,7 @@
    "away": "nt-sg",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47490,7 +47594,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47824,7 +47929,7 @@
    "away": "nt-qa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47838,7 +47943,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47857,7 +47963,7 @@
    "away": "nt-id",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47871,7 +47977,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47890,7 +47997,7 @@
    "away": "nt-ae",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47904,7 +48011,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -47923,7 +48031,7 @@
    "away": "nt-ye",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -47937,7 +48045,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -48277,7 +48386,7 @@
     "en": "Group C runners-up",
     "ar": "وصيف المجموعة C"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -48291,7 +48400,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -48316,7 +48426,7 @@
     "en": "Best third-placed team (A/C/D)",
     "ar": "أفضل ثالث (A/C/D)"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -48330,7 +48440,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -48355,7 +48466,7 @@
     "en": "Best third-placed team (B/E/F)",
     "ar": "أفضل ثالث (B/E/F)"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -48369,7 +48480,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -48394,7 +48506,7 @@
     "en": "Best third-placed team (C/D/E)",
     "ar": "أفضل ثالث (C/D/E)"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -48408,7 +48520,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -48433,7 +48546,7 @@
     "en": "Group E runners-up",
     "ar": "وصيف المجموعة E"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -48447,7 +48560,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -48472,7 +48586,7 @@
     "en": "Group F runners-up",
     "ar": "وصيف المجموعة F"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -48486,7 +48600,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -48511,7 +48626,7 @@
     "en": "Group D runners-up",
     "ar": "وصيف المجموعة D"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -48525,7 +48640,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -48550,7 +48666,7 @@
     "en": "Best third-placed team (A/B/F)",
     "ar": "أفضل ثالث (A/B/F)"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -48564,7 +48680,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -49225,7 +49342,7 @@
     "en": "Winner Round of 16 3",
     "ar": "الفائز في دور الـ16 3"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -49239,7 +49356,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -49264,7 +49382,7 @@
     "en": "Winner Round of 16 5",
     "ar": "الفائز في دور الـ16 5"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -49278,7 +49396,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -49303,7 +49422,7 @@
     "en": "Winner Round of 16 7",
     "ar": "الفائز في دور الـ16 7"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -49317,7 +49436,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -49342,7 +49462,7 @@
     "en": "Winner Round of 16 6",
     "ar": "الفائز في دور الـ16 6"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -49356,7 +49476,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -49381,7 +49502,7 @@
     "en": "Winner Quarter-finals 2",
     "ar": "الفائز في ربع النهائي 2"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -49395,7 +49516,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -49420,7 +49542,7 @@
     "en": "Winner Quarter-finals 4",
     "ar": "الفائز في ربع النهائي 4"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -49434,7 +49556,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {
@@ -49459,7 +49582,7 @@
     "en": "Winner Semi-finals 2",
     "ar": "الفائز في نصف النهائي 2"
    },
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -49473,7 +49596,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.the-afc.com/"
+    "https://www.the-afc.com/",
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
    ]
   },
   {

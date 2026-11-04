@@ -5569,14 +5569,17 @@
    "away": "es-osasuna",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-11",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261102"
-   ]
+    "https://www.laliga.com/en-GB/laliga-easports/results"
+   ],
+   "updatedAt": "2026-11-04T01:49:02.470Z"
   },
   {
    "id": "laliga-2026-27-regular-r12-es-sevilla-es-alaves",

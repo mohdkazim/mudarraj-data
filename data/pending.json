@@ -1,18 +1,18 @@
 [
  {
-  "match": "ucl-2026-27-league-phase-r04-at-lask-sk-slovan-bratislava",
-  "claim": "4-0",
-  "sources": [
-   "https://www.skysports.com/champions-league-scores-fixtures"
-  ],
-  "seen": "2026-11-03T22:35:00Z"
- },
- {
   "match": "ucl-2026-27-league-phase-r04-no-bod-glimt-fr-lille",
   "claim": "0-0",
   "sources": [
    "https://www.skysports.com/champions-league-scores-fixtures"
   ],
   "seen": "2026-11-03T22:35:00Z"
+ },
+ {
+  "match": "serie-a-2026-27-regular-r10-it-atalanta-it-parma",
+  "claim": "0-3",
+  "sources": [
+   "https://www.skysports.com/serie-a-scores-fixtures"
+  ],
+  "seen": "2026-11-04T01:48:45Z"
  }
 ]

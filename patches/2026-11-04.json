@@ -1,0 +1,623 @@
+{
+ "run": "2026-11-04T01:48:45Z",
+ "changes": [
+  {
+   "op": "result",
+   "match": "laliga-2026-27-regular-r11-es-deportivo-la-coruna-es-osasuna",
+   "status": "FT",
+   "score": [
+    2,
+    1
+   ],
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-at-lask-sk-slovan-bratislava",
+   "status": "FT",
+   "score": [
+    4,
+    0
+   ],
+   "ht": [
+    3,
+    0
+   ],
+   "sources": [
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/lask-linz-slovan-bratislava-1743-2112-572",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-nl-feyenoord-it-inter-milan",
+   "status": "FT",
+   "score": [
+    0,
+    3
+   ],
+   "ht": [
+    0,
+    2
+   ],
+   "sources": [
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/feyenoord-inter-milan-224-691-572",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-es-villarreal-fr-paris-saint-germain",
+   "status": "FT",
+   "score": [
+    0,
+    6
+   ],
+   "goals": [
+    {
+     "minute": 9,
+     "side": "away",
+     "player": "J Neves",
+     "type": "goal"
+    },
+    {
+     "minute": 12,
+     "side": "away",
+     "player": "D Doue",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "S Mayulu",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "F Ruiz Pena",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "F Ruiz Pena",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "D Boly",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.skysports.com/football/villarreal-vs-paris-saint-germain/577659"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-tr-galatasaray-de-vfb-stuttgart",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "A Batrakov",
+     "type": "goal"
+    },
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "A Batrakov",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.skysports.com/football/galatasaray-vs-stuttgart/577655"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej",
+   "status": "PST",
+   "sources": [
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r13-sa-abha-sa-al-shabab",
+   "status": "PST",
+   "sources": [
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha",
+   "status": "PST",
+   "sources": [
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r13-sa-al-fateh-sa-al-riyadh",
+   "status": "PST",
+   "sources": [
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r13-sa-al-hazem-sa-al-nassr",
+   "status": "PST",
+   "sources": [
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r13-sa-al-ittihad-sa-neom",
+   "status": "PST",
+   "sources": [
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r13-sa-al-faisaly-sa-al-diriyah",
+   "status": "PST",
+   "sources": [
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r13-sa-al-ettifaq-sa-al-hilal",
+   "status": "PST",
+   "sources": [
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r13-sa-al-ahli-saudi-sa-al-taawoun",
+   "status": "PST",
+   "sources": [
+    "https://www.arabnews.com/saudi-pro-league/spl-postpones-matchday-13-as-asian-cup-delay-prompts-calendar-review-3009569"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gA-nt-sa-nt-ps",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gA-nt-kw-nt-om",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gB-nt-bh-nt-kp",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gB-nt-uz-nt-jo",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gC-nt-sy-nt-kg",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gC-nt-ir-nt-cn",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gD-nt-au-nt-sg",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gD-nt-tj-nt-iq",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gE-nt-kr-nt-ye",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gE-nt-ae-nt-vn",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gF-nt-qa-nt-th",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gF-nt-jp-nt-id",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gB-nt-kp-nt-uz",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gA-nt-ps-nt-kw",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gA-nt-om-nt-sa",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gC-nt-kg-nt-ir",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gB-nt-jo-nt-bh",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gD-nt-sg-nt-tj",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gC-nt-cn-nt-sy",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gD-nt-iq-nt-au",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gE-nt-vn-nt-kr",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gE-nt-ye-nt-ae",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gF-nt-th-nt-jp",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gF-nt-id-nt-qa",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gB-nt-kp-nt-jo",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gB-nt-uz-nt-bh",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gA-nt-om-nt-ps",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gA-nt-sa-nt-kw",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gC-nt-ir-nt-sy",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gC-nt-kg-nt-cn",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gD-nt-au-nt-tj",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gD-nt-iq-nt-sg",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gF-nt-jp-nt-qa",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gF-nt-th-nt-id",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gE-nt-kr-nt-ae",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-gE-nt-vn-nt-ye",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m37",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m38",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m39",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m40",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m41",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m42",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m43",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m44",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m45",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m46",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m47",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m48",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m49",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m50",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "asian-cup-2027-m51",
+   "status": "PST",
+   "sources": [
+    "https://www.the-afc.com/en/national/afc_asian_cup.html/news/important-update-afc-asian-cup-saudi-arabia-2027%E2%84%A2"
+   ]
+  }
+ ],
+ "unconfirmed": [
+  {
+   "match": "ucl-2026-27-league-phase-r04-no-bod-glimt-fr-lille",
+   "claim": "0-0",
+   "sources": [
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ]
+  },
+  {
+   "match": "serie-a-2026-27-regular-r10-it-atalanta-it-parma",
+   "claim": "0-3",
+   "sources": [
+    "https://www.skysports.com/serie-a-scores-fixtures"
+   ]
+  }
+ ]
+}
