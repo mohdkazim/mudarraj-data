@@ -4197,3 +4197,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-04 (2026-11-04T18:38:29Z)
 - 1 change(s) applied, 0 rejected, 5 waiting for a second source
   - ✓ result acl2-2026-27-groups-ga-r04-ae-al-wahda-bh-al-khaldiya 1-2 FT
+
+## 2026-11-04 (2026-11-04T19:35:00Z)
+- 2 change(s) applied, 0 rejected, 3 waiting for a second source
+  - ✓ result acl2-2026-27-groups-ga-r04-kw-kuwait-sc-uz-nasaf 2-3 FT
+  - ✓ result acl2-2026-27-groups-gc-r04-qa-al-rayyan-om-al-nahda 2-0 FT

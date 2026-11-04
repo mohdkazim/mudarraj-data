@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-04T18:38:30.203Z",
+ "generatedAt": "2026-11-04T19:38:58.365Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 455,
-  "pending": 5
+  "results": 457,
+  "pending": 3
  },
  "teams": [
   {
@@ -38969,8 +38969,15 @@
    "away": "uz-nasaf",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Jaber Al-Mubarak Al-Sabah Stadium",
@@ -38983,9 +38990,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+    "https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/kuwait-sc-nasaf-qarshi-8596-10290-568"
    ],
+   "updatedAt": "2026-11-04T19:38:58.128Z",
    "venueFrom": "home-ground"
   },
   {
@@ -39004,8 +39011,15 @@
    "away": "om-al-nahda",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Ahmad bin Ali Stadium",
@@ -39018,9 +39032,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/al-nahda-al-rayyan-7077-12184-568"
    ],
+   "updatedAt": "2026-11-04T19:38:58.128Z",
    "venueFrom": "home-ground"
   },
   {

@@ -1,0 +1,10 @@
+{
+  "run": "2026-11-04T19:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-ga-r04-kw-kuwait-sc-uz-nasaf", "status": "FT", "score": [2,3], "ht": [2,0],
+      "sources": ["https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/kuwait-sc-nasaf-qarshi-8596-10290-568"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gc-r04-qa-al-rayyan-om-al-nahda", "status": "FT", "score": [2,0], "ht": [0,0],
+      "sources": ["https://www.365scores.com/football/match/afc-champions-league-two-568/al-nahda-al-rayyan-7077-12184-568"] }
+  ],
+  "unconfirmed": []
+}

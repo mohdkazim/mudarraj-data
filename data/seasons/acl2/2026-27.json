@@ -2334,14 +2334,21 @@
    "away": "uz-nasaf",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 3,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/kuwait-sc-nasaf-qarshi-8596-10290-568"
+   ],
+   "updatedAt": "2026-11-04T19:38:58.128Z"
   },
   {
    "id": "acl2-2026-27-groups-gc-r04-qa-al-rayyan-om-al-nahda",
@@ -2357,14 +2364,21 @@
    "away": "om-al-nahda",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/al-nahda-al-rayyan-7077-12184-568"
+   ],
+   "updatedAt": "2026-11-04T19:38:58.128Z"
   },
   {
    "id": "acl2-2026-27-groups-gb-r04-bh-al-muharraq-ae-al-jazira",
