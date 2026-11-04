@@ -2304,14 +2304,21 @@
    "away": "bh-al-khaldiya",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/al-khalidiyah-wahda-abu-dhabi-8350-68794-568"
+   ],
+   "updatedAt": "2026-11-04T18:38:29.878Z"
   },
   {
    "id": "acl2-2026-27-groups-ga-r04-kw-kuwait-sc-uz-nasaf",

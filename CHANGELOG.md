@@ -4193,3 +4193,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-04 (2026-11-04T16:35:00Z)
 - 1 change(s) applied, 0 rejected, 2 waiting for a second source
   - ✓ result acl2-2026-27-groups-ge-r04-au-melbourne-victory-id-persib-bandung 1-2 FT
+
+## 2026-11-04 (2026-11-04T18:38:29Z)
+- 1 change(s) applied, 0 rejected, 5 waiting for a second source
+  - ✓ result acl2-2026-27-groups-ga-r04-ae-al-wahda-bh-al-khaldiya 1-2 FT
