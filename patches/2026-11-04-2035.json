@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-04T16:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-ge-r04-au-melbourne-victory-id-persib-bandung", "status": "FT", "score": [1,2],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-melbourne-victory-aus-1-2-persib-bandung-idn"] }
+  ],
+  "unconfirmed": []
+}

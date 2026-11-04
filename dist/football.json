@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-04T13:37:23.776Z",
+ "generatedAt": "2026-11-04T16:37:15.220Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 453,
-  "pending": 3
+  "results": 454,
+  "pending": 2
  },
  "teams": [
   {
@@ -38739,8 +38739,11 @@
    "away": "id-persib-bandung",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "AAMI Park",
@@ -38753,9 +38756,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-melbourne-victory-aus-1-2-persib-bandung-idn"
    ],
+   "updatedAt": "2026-11-04T16:37:14.969Z",
    "venueFrom": "home-ground"
   },
   {

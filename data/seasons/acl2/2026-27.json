@@ -2225,14 +2225,17 @@
    "away": "id-persib-bandung",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-melbourne-victory-aus-1-2-persib-bandung-idn"
+   ],
+   "updatedAt": "2026-11-04T16:37:14.969Z"
   },
   {
    "id": "acl2-2026-27-groups-ge-r04-kr-fc-seoul-vn-the-cong-viettel",
