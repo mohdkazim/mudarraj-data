@@ -2248,14 +2248,21 @@
    "away": "vn-the-cong-viettel",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261104",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/fc-seoul-viettel-9820-29873-568"
+   ],
+   "updatedAt": "2026-11-04T13:37:23.590Z"
   },
   {
    "id": "acl2-2026-27-groups-gb-r04-tm-arkadag-ir-gol-gohar-sirjan",
