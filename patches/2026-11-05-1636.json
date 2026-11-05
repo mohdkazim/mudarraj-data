@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-05T12:36:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-gh-r04-hk-kitchee-kh-phnom-penh-crown", "status": "FT", "score": [2,1], "ht": [1,0],
+      "sources": ["https://www.365scores.com/football/match/afc-champions-league-two-568/kitchee-phnom-penh-crown-8521-46828-568#id=4818658"] }
+  ],
+  "unconfirmed": []
+}

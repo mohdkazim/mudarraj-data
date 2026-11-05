@@ -4234,3 +4234,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result ucl-2026-27-league-phase-r04-tr-fenerbahce-gb-eng-liverpool added half-time and scorers to the confirmed result
   - ✓ result ucl-2026-27-league-phase-r04-cz-slavia-prague-gb-eng-arsenal added half-time and scorers to the confirmed result
   - ✓ result ucl-2026-27-league-phase-r04-de-rb-leipzig-gb-eng-manchester-city added half-time and scorers to the confirmed result
+
+## 2026-11-05 (2026-11-05T12:36:00Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result acl2-2026-27-groups-gh-r04-hk-kitchee-kh-phnom-penh-crown 2-1 FT

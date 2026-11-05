@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-05T01:45:56.048Z",
+ "generatedAt": "2026-11-05T12:38:29.478Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1910,
-  "results": 839,
+  "results": 840,
   "pending": 0
  },
  "teams": [
@@ -62306,8 +62306,15 @@
    "away": "kh-phnom-penh-crown",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Mong Kok Stadium",
@@ -62320,9 +62327,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/kitchee-phnom-penh-crown-8521-46828-568#id=4818658"
    ],
+   "updatedAt": "2026-11-05T12:38:29.160Z",
    "venueFrom": "home-ground"
   },
   {
