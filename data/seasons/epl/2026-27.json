@@ -4184,7 +4184,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
@@ -4192,7 +4196,15 @@
     "https://www.skysports.com/football/newcastle-united-vs-everton/report/559532",
     "https://gulfnews.com/sport/football/everton-beat-newcastle-to-pile-pressure-on-jaissle-1.500733420"
    ],
-   "updatedAt": "2026-11-03T01:46:22.462Z"
+   "updatedAt": "2026-11-03T01:46:22.462Z",
+   "goals": [
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Thierno Barry",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r10-gb-eng-everton-gb-eng-coventry-city",

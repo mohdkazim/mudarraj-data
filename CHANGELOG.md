@@ -4225,3 +4225,12 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result ucl-2026-27-league-phase-r04-nl-psv-eindhoven-be-club-brugge 1-2 FT
   - ✓ result ucl-2026-27-league-phase-r04-no-viking-az-sabah 4-1 FT
   - ✓ result ucl-2026-27-league-phase-r04-pt-porto-it-napoli 4-1 FT
+
+## 2026-11-05 (2026-11-05T01:36:27Z)
+- 6 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result ucl-2026-27-league-phase-r04-no-bod-glimt-fr-lille 0-0 FT
+  - ✓ result serie-a-2026-27-regular-r10-it-atalanta-it-parma 0-3 FT
+  - ✓ result epl-2026-27-regular-r09-gb-eng-newcastle-united-gb-eng-everton added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r04-tr-fenerbahce-gb-eng-liverpool added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r04-cz-slavia-prague-gb-eng-arsenal added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r04-de-rb-leipzig-gb-eng-manchester-city added half-time and scorers to the confirmed result

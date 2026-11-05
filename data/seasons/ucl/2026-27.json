@@ -3271,14 +3271,18 @@
    "away": "fr-lille",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261103",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=4&s=2026-2027"
-   ]
+    "https://www.365scores.com/pt-br/news/magazine/manchester-united-vence-roma-virada-matheus-cunha-resultados-champions/",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-05T01:45:47.256Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r04-gr-aek-athens-es-real-madrid",
@@ -3324,15 +3328,52 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 2
+    "away": 2,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football/fenerbahce-vs-liverpool/5567042954162879232",
-    "https://www.arabnews.com/football/liverpool-collapse-to-champions-league-defeat-at-fenerbahce-3009856"
+    "https://www.arabnews.com/football/liverpool-collapse-to-champions-league-defeat-at-fenerbahce-3009856",
+    "https://www.skysports.com/football/fenerbahce-vs-liverpool/577663"
    ],
-   "updatedAt": "2026-11-04T21:42:24.302Z"
+   "updatedAt": "2026-11-04T21:42:24.302Z",
+   "goals": [
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Trey Nyoni",
+     "type": "goal"
+    },
+    {
+     "minute": 29,
+     "side": "home",
+     "player": "M Greenwood",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "Alexander Isak",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "A Brown",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "V Muriqi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r04-cz-slavia-prague-gb-eng-arsenal",
@@ -3351,16 +3392,41 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://365scores.com/pt-br/news/magazine/arsenal-city-como-resultados-champions-league",
     "https://365scores.com/es/news/resultados-champions-league-tabla-vivo",
-    "https://www.skysports.com/champions-league-scores-fixtures"
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://www.skysports.com/football/slavia-prague-vs-arsenal/live/577667"
    ],
-   "updatedAt": "2026-11-04T22:40:02.323Z"
+   "updatedAt": "2026-11-04T22:40:02.323Z",
+   "goals": [
+    {
+     "minute": 9,
+     "side": "away",
+     "player": "Noni Madueke",
+     "type": "goal"
+    },
+    {
+     "minute": 38,
+     "side": "away",
+     "player": "Viktor Gyokeres",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "W Nowak",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r04-de-borussia-dortmund-es-real-betis",
@@ -3406,16 +3472,53 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://365scores.com/pt-br/news/magazine/arsenal-city-como-resultados-champions-league",
     "https://365scores.com/es/news/resultados-champions-league-tabla-vivo",
-    "https://www.skysports.com/champions-league-scores-fixtures"
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/5019443955155717232"
    ],
-   "updatedAt": "2026-11-04T22:40:02.323Z"
+   "updatedAt": "2026-11-04T22:40:02.323Z",
+   "goals": [
+    {
+     "minute": 37,
+     "side": "away",
+     "player": "Castello Lukeba",
+     "type": "own-goal"
+    },
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "Ridle Baku",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "away",
+     "player": "Enzo Fernandez",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Antonio Nusa",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Erling Haaland",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r04-fr-lens-it-como",
