@@ -2511,14 +2511,17 @@
    "away": "au-adelaide-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-f-lion-city-sailors-fc-sgp-5-0-adelaide-united-aus"
+   ],
+   "updatedAt": "2026-11-05T16:38:21.867Z"
   },
   {
    "id": "acl2-2026-27-groups-gg-r04-jp-machida-zelvia-cn-shanghai-shenhua",
@@ -2534,14 +2537,17 @@
    "away": "cn-shanghai-shenhua",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-fc-machida-zelvia-jpn-2-1-shanghai-shenhua-fc-chn"
+   ],
+   "updatedAt": "2026-11-05T16:38:21.867Z"
   },
   {
    "id": "acl2-2026-27-groups-gh-r04-hk-kitchee-kh-phnom-penh-crown",
@@ -2587,14 +2593,17 @@
    "away": "hk-tai-po",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-f-bg-pathum-united-tha-4-1-tai-po-fc-hkg"
+   ],
+   "updatedAt": "2026-11-05T16:38:21.867Z"
   },
   {
    "id": "acl2-2026-27-groups-gg-r04-kh-pkr-svay-rieng-sg-tampines-rovers",
@@ -2610,14 +2619,17 @@
    "away": "sg-tampines-rovers",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-preah-khan-reach-svay-rieng-fc-cam-x-x-tampines-rovers-sgp-1"
+   ],
+   "updatedAt": "2026-11-05T16:38:21.867Z"
   },
   {
    "id": "acl2-2026-27-groups-gh-r04-my-kuching-city-kr-gangwon-fc",
@@ -2633,14 +2645,17 @@
    "away": "kr-gangwon-fc",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-kuching-city-fc-mas-2-0-gangwon-fc-kor"
+   ],
+   "updatedAt": "2026-11-05T16:38:21.867Z"
   },
   {
    "id": "acl2-2026-27-groups-gd-r05-in-east-bengal-jo-al-hussein",

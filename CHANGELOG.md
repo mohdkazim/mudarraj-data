@@ -4238,3 +4238,11 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-05 (2026-11-05T12:36:00Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result acl2-2026-27-groups-gh-r04-hk-kitchee-kh-phnom-penh-crown 2-1 FT
+
+## 2026-11-05 (2026-11-05T16:38:21Z)
+- 5 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result acl2-2026-27-groups-gf-r04-sg-lion-city-sailors-au-adelaide-united 5-0 FT
+  - ✓ result acl2-2026-27-groups-gg-r04-jp-machida-zelvia-cn-shanghai-shenhua 2-1 FT
+  - ✓ result acl2-2026-27-groups-gf-r04-th-bg-pathum-united-hk-tai-po 4-1 FT
+  - ✓ result acl2-2026-27-groups-gg-r04-kh-pkr-svay-rieng-sg-tampines-rovers 2-0 FT
+  - ✓ result acl2-2026-27-groups-gh-r04-my-kuching-city-kr-gangwon-fc 2-0 FT

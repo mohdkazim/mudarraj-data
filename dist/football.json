@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-05T12:38:29.478Z",
+ "generatedAt": "2026-11-05T16:38:22.105Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 472,
+  "results": 477,
   "pending": 0
  },
  "teams": [
@@ -39682,8 +39682,11 @@
    "away": "au-adelaide-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Jalan Besar Stadium",
@@ -39696,9 +39699,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-f-lion-city-sailors-fc-sgp-5-0-adelaide-united-aus"
    ],
+   "updatedAt": "2026-11-05T16:38:21.867Z",
    "venueFrom": "home-ground"
   },
   {
@@ -39717,8 +39720,11 @@
    "away": "cn-shanghai-shenhua",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Machida Gion Stadium",
@@ -39731,9 +39737,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-fc-machida-zelvia-jpn-2-1-shanghai-shenhua-fc-chn"
    ],
+   "updatedAt": "2026-11-05T16:38:21.867Z",
    "venueFrom": "home-ground"
   },
   {
@@ -39794,8 +39800,11 @@
    "away": "hk-tai-po",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "BG Stadium",
@@ -39808,9 +39817,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-f-bg-pathum-united-tha-4-1-tai-po-fc-hkg"
    ],
+   "updatedAt": "2026-11-05T16:38:21.867Z",
    "venueFrom": "home-ground"
   },
   {
@@ -39829,8 +39838,11 @@
    "away": "sg-tampines-rovers",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Morodok Techo National Stadium",
@@ -39843,9 +39855,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-preah-khan-reach-svay-rieng-fc-cam-x-x-tampines-rovers-sgp-1"
    ],
+   "updatedAt": "2026-11-05T16:38:21.867Z",
    "venueFrom": "home-ground"
   },
   {
@@ -39864,8 +39876,11 @@
    "away": "kr-gangwon-fc",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Taha Ariffin Stadium",
@@ -39878,9 +39893,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261105",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=4&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-kuching-city-fc-mas-2-0-gangwon-fc-kor"
    ],
+   "updatedAt": "2026-11-05T16:38:21.867Z",
    "venueFrom": "home-ground"
   },
   {

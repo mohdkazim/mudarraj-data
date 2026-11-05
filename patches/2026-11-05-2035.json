@@ -1,0 +1,11 @@
+{
+  "run": "2026-11-05T16:38:21Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-gf-r04-sg-lion-city-sailors-au-adelaide-united", "status": "FT", "score": [5,0], "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-f-lion-city-sailors-fc-sgp-5-0-adelaide-united-aus"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gg-r04-jp-machida-zelvia-cn-shanghai-shenhua", "status": "FT", "score": [2,1], "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-fc-machida-zelvia-jpn-2-1-shanghai-shenhua-fc-chn"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gf-r04-th-bg-pathum-united-hk-tai-po", "status": "FT", "score": [4,1], "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-f-bg-pathum-united-tha-4-1-tai-po-fc-hkg"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gg-r04-kh-pkr-svay-rieng-sg-tampines-rovers", "status": "FT", "score": [2,0], "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-preah-khan-reach-svay-rieng-fc-cam-x-x-tampines-rovers-sgp-1"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gh-r04-my-kuching-city-kr-gangwon-fc", "status": "FT", "score": [2,0], "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-kuching-city-fc-mas-2-0-gangwon-fc-kor"] }
+  ],
+  "unconfirmed": []
+}
