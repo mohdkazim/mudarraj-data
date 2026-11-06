@@ -4267,3 +4267,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ fixture dfb-pokal-2026-27-r16-de-kaiserslautern-de-sc-freiburg added
   - ✓ fixture dfb-pokal-2026-27-r16-de-eintracht-frankfurt-de-borussia-dortmund added
   - ✓ fixture dfb-pokal-2026-27-r16-de-vfl-bochum-de-fc-augsburg added
+
+## 2026-11-07 (2026-11-06T22:36:00Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result bundesliga-2026-27-regular-r09-de-hamburger-sv-de-borussia-monchengladbach 3-1 FT

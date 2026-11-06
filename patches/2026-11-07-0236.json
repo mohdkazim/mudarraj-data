@@ -1,0 +1,23 @@
+{
+  "run": "2026-11-06T22:36:00Z",
+  "changes": [
+    {
+      "op": "result",
+      "match": "bundesliga-2026-27-regular-r09-de-hamburger-sv-de-borussia-monchengladbach",
+      "status": "FT",
+      "score": [3, 1],
+      "ht": [1, 1],
+      "goals": [
+        { "minute": 11, "side": "home", "player": "Miro Muheim", "type": "goal" },
+        { "minute": 44, "side": "away", "player": "Joe Scally", "type": "goal" },
+        { "minute": 60, "side": "home", "player": "Shafiq Nandja", "type": "goal" },
+        { "minute": 70, "side": "home", "player": "Albert Grønbæk", "type": "goal" }
+      ],
+      "sources": [
+        "https://www.bundesliga.com/en/bundesliga/news/hamburg-borussia-monchengladbach-match-report-highlights-matchday-9-39907",
+        "https://www.bundesliga.com/de/bundesliga/news/hamburger-sv-borussia-moenchengladbach-spieltag-9-spielbericht-highlights-39908"
+      ]
+    }
+  ],
+  "unconfirmed": []
+}

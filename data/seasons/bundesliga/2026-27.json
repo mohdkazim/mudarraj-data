@@ -3968,14 +3968,48 @@
    "away": "de-borussia-monchengladbach",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261106&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/hamburg-borussia-monchengladbach-match-report-highlights-matchday-9-39907",
+    "https://www.bundesliga.com/de/bundesliga/news/hamburger-sv-borussia-moenchengladbach-spieltag-9-spielbericht-highlights-39908"
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Miro Muheim",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "away",
+     "player": "Joe Scally",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Shafiq Nandja",
+     "type": "goal"
+    },
+    {
+     "minute": 70,
+     "side": "home",
+     "player": "Albert Grønbæk",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-06T22:38:26.431Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r09-de-borussia-dortmund-de-sv-elversberg",
