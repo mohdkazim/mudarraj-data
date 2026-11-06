@@ -1,10 +1,10 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-05T16:38:22.105Z",
+ "generatedAt": "2026-11-06T01:49:26.220Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
-  "matches": 1910,
+  "matches": 1918,
   "results": 845,
   "pending": 0
  },
@@ -60719,7 +60719,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -60733,9 +60737,25 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-0-2-al-seeb-club-oma"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-0-2-al-seeb-club-oma",
+    "https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/al-seeb-sc-east-bengal-12181-15458-568"
    ],
    "updatedAt": "2026-11-03T19:39:58.143Z",
+   "goals": [
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Axel Meye",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "away",
+     "player": "Zahir Al Aghbari",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -60757,7 +60777,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": {
     "name": {
@@ -60775,6 +60799,27 @@
     "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-hussein-jor-0-3-al-shorta-irq"
    ],
    "updatedAt": "2026-11-03T19:39:58.143Z",
+   "goals": [
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Kingsley Fidelis Kuku",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Kingsley Fidelis Kuku",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 3,
+     "side": "away",
+     "player": "Mohanad Ali",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -61007,9 +61052,36 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/lask-linz-slovan-bratislava-1743-2112-572",
-    "https://www.skysports.com/champions-league-scores-fixtures"
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://www.skysports.com/football/linz-ask-vs-sk-slovan-bratislava/live/577656"
    ],
    "updatedAt": "2026-11-04T01:49:02.470Z",
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "K Jørgensen",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "K Jørgensen",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "home",
+     "player": "R Ljubicic",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "S Adeniran",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -61031,7 +61103,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -61046,9 +61122,24 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-scores-fixtures",
-    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815",
+    "https://www.365scores.com/en-uk/football/match/champions-league-572/atletico-madrid-bayern-munich-134-331-572"
    ],
    "updatedAt": "2026-11-03T22:38:18.480Z",
+   "goals": [
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Lennart Karl",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Konrad Laimer",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -61085,9 +61176,30 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-scores-fixtures",
-    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815",
+    "https://www.skysports.com/football/barcelona-vs-aston-villa/live/577652"
    ],
    "updatedAt": "2026-11-03T22:38:18.480Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "L Yamal",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -61206,9 +61318,42 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football/news/13607206/man-utd-3-2-roma-matheus-cunha-scores-two-and-is-sent-off-in-wild-comeback-to-end-nine-game-winless-run",
-    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815",
+    "https://www.skysports.com/football/manchester-united-vs-roma/live/577657"
    ],
    "updatedAt": "2026-11-03T22:38:18.480Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "M Malvano",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "D Malen",
+     "type": "penalty"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "B Fernandes",
+     "type": "penalty"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "M Cunha",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "M Cunha",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -61252,6 +61397,26 @@
     "https://www.skysports.com/champions-league-scores-fixtures"
    ],
    "updatedAt": "2026-11-04T01:49:02.470Z",
+   "goals": [
+    {
+     "minute": 8,
+     "side": "away",
+     "player": "Yann Bisseck",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Pio Esposito",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Piotr Zielinski",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -61368,9 +61533,30 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/football/match/afc-champions-league-two-568/fc-seoul-viettel-9820-29873-568"
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/fc-seoul-viettel-9820-29873-568",
+    "https://www.365scores.com/fr/football/match/afc-champions-league-two-568/fc-seoul-viettel-9820-29873-568"
    ],
    "updatedAt": "2026-11-04T13:37:23.590Z",
+   "goals": [
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Seon-min Moon",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "home",
+     "player": "Anderson Oliveira",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Lucão",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -62089,9 +62275,73 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/como-lens-481-6117-572",
-    "https://www.skysports.com/champions-league-scores-fixtures"
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://www.skysports.com/football/rc-lens-vs-como/live/577664"
    ],
    "updatedAt": "2026-11-04T22:40:02.323Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "away",
+     "player": "A Douvikas",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "A Douvikas",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "N Paz",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "away",
+     "player": "L Da Cunha",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "M Kempf",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "A Douvikas",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "M Liberali",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "home",
+     "player": "R Aguilar",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "M Baturina",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "away",
+     "player": "M Papaccioli",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -70408,6 +70658,56 @@
    ]
   },
   {
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "id": "dfb-pokal-2026-27-r16-de-holstein-kiel-de-fc-koln",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-01T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-holstein-kiel",
+   "away": "de-fc-koln",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "id": "dfb-pokal-2026-27-r16-de-vfb-stuttgart-de-dynamo-dresden",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-01T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-vfb-stuttgart",
+   "away": "de-dynamo-dresden",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
    "competition": "saudi-kings-cup",
    "season": "2026-27",
    "id": "saudi-kings-cup-2026-27-r16-sa-al-nassr-sa-al-kholood",
@@ -70479,6 +70779,56 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.kings.cup/scoreboard?dates=20261201",
     "https://www.365scores.com/en-us/football/league/king's-cup-5501/matches",
     "https://sabq.org/article/4squguq"
+   ]
+  },
+  {
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "id": "dfb-pokal-2026-27-r16-de-bayern-munich-de-hertha-berlin",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-01T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-bayern-munich",
+   "away": "de-hertha-berlin",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "id": "dfb-pokal-2026-27-r16-de-borussia-monchengladbach-de-darmstadt-98",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-01T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-borussia-monchengladbach",
+   "away": "de-darmstadt-98",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
    ]
   },
   {
@@ -70644,6 +70994,106 @@
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
    ],
    "venueFrom": "home-ground"
+  },
+  {
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "id": "dfb-pokal-2026-27-r16-de-bayer-leverkusen-de-rb-leipzig",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-02T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-bayer-leverkusen",
+   "away": "de-rb-leipzig",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "id": "dfb-pokal-2026-27-r16-de-kaiserslautern-de-sc-freiburg",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-02T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-kaiserslautern",
+   "away": "de-sc-freiburg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "id": "dfb-pokal-2026-27-r16-de-eintracht-frankfurt-de-borussia-dortmund",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-02T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-eintracht-frankfurt",
+   "away": "de-borussia-dortmund",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "id": "dfb-pokal-2026-27-r16-de-vfl-bochum-de-fc-augsburg",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-02T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-vfl-bochum",
+   "away": "de-fc-augsburg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
   },
   {
    "competition": "coppa-italia",

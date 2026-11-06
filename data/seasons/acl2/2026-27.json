@@ -2175,14 +2175,34 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-0-2-al-seeb-club-oma"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-0-2-al-seeb-club-oma",
+    "https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/al-seeb-sc-east-bengal-12181-15458-568"
    ],
-   "updatedAt": "2026-11-03T19:39:58.143Z"
+   "updatedAt": "2026-11-03T19:39:58.143Z",
+   "goals": [
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Axel Meye",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "away",
+     "player": "Zahir Al Aghbari",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acl2-2026-27-groups-gd-r04-jo-al-hussein-iq-al-shorta",
@@ -2201,7 +2221,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
@@ -2209,7 +2233,28 @@
     "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/al-hussein-al-shorta-baghdad-8246-8285-568",
     "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-hussein-jor-0-3-al-shorta-irq"
    ],
-   "updatedAt": "2026-11-03T19:39:58.143Z"
+   "updatedAt": "2026-11-03T19:39:58.143Z",
+   "goals": [
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Kingsley Fidelis Kuku",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Kingsley Fidelis Kuku",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 3,
+     "side": "away",
+     "player": "Mohanad Ali",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acl2-2026-27-groups-ge-r04-au-melbourne-victory-id-persib-bandung",
@@ -2263,9 +2308,30 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/football/match/afc-champions-league-two-568/fc-seoul-viettel-9820-29873-568"
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/fc-seoul-viettel-9820-29873-568",
+    "https://www.365scores.com/fr/football/match/afc-champions-league-two-568/fc-seoul-viettel-9820-29873-568"
    ],
-   "updatedAt": "2026-11-04T13:37:23.590Z"
+   "updatedAt": "2026-11-04T13:37:23.590Z",
+   "goals": [
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Seon-min Moon",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "home",
+     "player": "Anderson Oliveira",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Lucão",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acl2-2026-27-groups-gb-r04-tm-arkadag-ir-gol-gohar-sirjan",

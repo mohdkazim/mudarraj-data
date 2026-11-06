@@ -3071,9 +3071,36 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/lask-linz-slovan-bratislava-1743-2112-572",
-    "https://www.skysports.com/champions-league-scores-fixtures"
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://www.skysports.com/football/linz-ask-vs-sk-slovan-bratislava/live/577656"
    ],
-   "updatedAt": "2026-11-04T01:49:02.470Z"
+   "updatedAt": "2026-11-04T01:49:02.470Z",
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "K Jørgensen",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "K Jørgensen",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "home",
+     "player": "R Ljubicic",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "S Adeniran",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r04-es-atletico-madrid-de-bayern-munich",
@@ -3092,15 +3119,34 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-scores-fixtures",
-    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815",
+    "https://www.365scores.com/en-uk/football/match/champions-league-572/atletico-madrid-bayern-munich-134-331-572"
    ],
-   "updatedAt": "2026-11-03T22:38:18.480Z"
+   "updatedAt": "2026-11-03T22:38:18.480Z",
+   "goals": [
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Lennart Karl",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Konrad Laimer",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r04-es-barcelona-gb-eng-aston-villa",
@@ -3125,9 +3171,30 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/champions-league-scores-fixtures",
-    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815",
+    "https://www.skysports.com/football/barcelona-vs-aston-villa/live/577652"
    ],
-   "updatedAt": "2026-11-03T22:38:18.480Z"
+   "updatedAt": "2026-11-03T22:38:18.480Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "L Yamal",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r04-es-villarreal-fr-paris-saint-germain",
@@ -3222,9 +3289,42 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football/news/13607206/man-utd-3-2-roma-matheus-cunha-scores-two-and-is-sent-off-in-wild-comeback-to-end-nine-game-winless-run",
-    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815"
+    "https://gulfnews.com/sport/football/champions-league-man-united-in-dramatic-comeback-psg-hits-six-barcelona-and-bayern-win-1.500734815",
+    "https://www.skysports.com/football/manchester-united-vs-roma/live/577657"
    ],
-   "updatedAt": "2026-11-03T22:38:18.480Z"
+   "updatedAt": "2026-11-03T22:38:18.480Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "M Malvano",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "D Malen",
+     "type": "penalty"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "B Fernandes",
+     "type": "penalty"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "M Cunha",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "M Cunha",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r04-nl-feyenoord-it-inter-milan",
@@ -3255,7 +3355,27 @@
     "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/feyenoord-inter-milan-224-691-572",
     "https://www.skysports.com/champions-league-scores-fixtures"
    ],
-   "updatedAt": "2026-11-04T01:49:02.470Z"
+   "updatedAt": "2026-11-04T01:49:02.470Z",
+   "goals": [
+    {
+     "minute": 8,
+     "side": "away",
+     "player": "Yann Bisseck",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Pio Esposito",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Piotr Zielinski",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r04-no-bod-glimt-fr-lille",
@@ -3547,9 +3667,73 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/como-lens-481-6117-572",
-    "https://www.skysports.com/champions-league-scores-fixtures"
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://www.skysports.com/football/rc-lens-vs-como/live/577664"
    ],
-   "updatedAt": "2026-11-04T22:40:02.323Z"
+   "updatedAt": "2026-11-04T22:40:02.323Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "away",
+     "player": "A Douvikas",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "A Douvikas",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "N Paz",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "away",
+     "player": "L Da Cunha",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "M Kempf",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "A Douvikas",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "M Liberali",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "home",
+     "player": "R Aguilar",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "M Baturina",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "away",
+     "player": "M Papaccioli",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r04-nl-psv-eindhoven-be-club-brugge",

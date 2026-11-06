@@ -1,0 +1,243 @@
+{
+ "team": "ua-shakhtar-donetsk",
+ "checked": "2026-11-06",
+ "sources": [
+  "https://www.365scores.com/football/team/shakhtar-donetsk-1955/squad"
+ ],
+ "players": [
+  {
+   "n": 23,
+   "name": "Kiril Fesyun",
+   "pos": "GK",
+   "nat": "UA"
+  },
+  {
+   "n": 31,
+   "name": "Dmytro Riznyk",
+   "pos": "GK",
+   "nat": "UA"
+  },
+  {
+   "n": 48,
+   "name": "Denys Tvardovskyi",
+   "pos": "GK",
+   "nat": "UA"
+  },
+  {
+   "n": null,
+   "name": "Tymur Puzankov",
+   "pos": "GK",
+   "nat": "UA"
+  },
+  {
+   "n": 4,
+   "name": "Marlon",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "BR"
+  },
+  {
+   "n": 5,
+   "name": "Valeriy Bondar",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UA"
+  },
+  {
+   "n": 13,
+   "name": "Pedro Henrique",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "BR"
+  },
+  {
+   "n": 16,
+   "name": "Irakli Azarovi",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "GE"
+  },
+  {
+   "n": 17,
+   "name": "Vinicius Tobias",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "BR"
+  },
+  {
+   "n": 18,
+   "name": "Alaa Ghram",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "TN"
+  },
+  {
+   "n": 20,
+   "name": "Oleksandr Karavaev",
+   "pos": "DF",
+   "role": "RB",
+   "nat": "UA"
+  },
+  {
+   "n": 22,
+   "name": "Mykola Matvienko",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UA"
+  },
+  {
+   "n": 28,
+   "name": "Alan Matturro",
+   "pos": "DF",
+   "role": "CB",
+   "nat": "UY"
+  },
+  {
+   "n": null,
+   "name": "Viktor Korniyenko",
+   "pos": "DF",
+   "role": "LB",
+   "nat": "UA"
+  },
+  {
+   "n": 6,
+   "name": "Marlon Gomes",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "BR"
+  },
+  {
+   "n": 8,
+   "name": "Dmytro Kryskiv",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "UA"
+  },
+  {
+   "n": 14,
+   "name": "Isaque",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "BR"
+  },
+  {
+   "n": 24,
+   "name": "Viktor Tsukanov",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "UA"
+  },
+  {
+   "n": 27,
+   "name": "Oleg Ocheretko",
+   "pos": "MF",
+   "role": "AM",
+   "nat": "UA"
+  },
+  {
+   "n": 29,
+   "name": "Yegor Nazaryna",
+   "pos": "MF",
+   "role": "CM",
+   "nat": "UA"
+  },
+  {
+   "n": 2,
+   "name": "Lassina Traore",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BF"
+  },
+  {
+   "n": 7,
+   "name": "Eguinaldo",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "BR"
+  },
+  {
+   "n": 9,
+   "name": "Kauã Elias",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 10,
+   "name": "Pedrinho",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BR"
+  },
+  {
+   "n": 11,
+   "name": "Newerton Martins",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "BR"
+  },
+  {
+   "n": 25,
+   "name": "Gabriel Carvalho",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BR"
+  },
+  {
+   "n": 30,
+   "name": "Alisson Santana",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BR"
+  },
+  {
+   "n": 37,
+   "name": "Lucas Ferreira",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BR"
+  },
+  {
+   "n": 49,
+   "name": "Luca Meirelles",
+   "pos": "FW",
+   "role": "CF",
+   "nat": "BR"
+  },
+  {
+   "n": 68,
+   "name": "Prosper Obah",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "NG"
+  },
+  {
+   "n": 71,
+   "name": "Ryan Roberto",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "BR"
+  },
+  {
+   "n": 77,
+   "name": "Gleiker Mendoza",
+   "pos": "FW",
+   "role": "LF",
+   "nat": "VE"
+  },
+  {
+   "n": 99,
+   "name": "Bruninho",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "BR"
+  },
+  {
+   "n": null,
+   "name": "Maryan Shved",
+   "pos": "FW",
+   "role": "RF",
+   "nat": "UA"
+  }
+ ]
+}

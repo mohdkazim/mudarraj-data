@@ -1,0 +1,722 @@
+{
+ "run": "2026-11-06T01:36:41Z",
+ "changes": [
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-at-lask-sk-slovan-bratislava",
+   "status": "FT",
+   "score": [
+    4,
+    0
+   ],
+   "ht": [
+    3,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "K Jørgensen",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "K Jørgensen",
+     "type": "goal"
+    },
+    {
+     "minute": 44,
+     "side": "home",
+     "player": "R Ljubicic",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "S Adeniran",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.skysports.com/football/linz-ask-vs-sk-slovan-bratislava/live/577656"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-es-atletico-madrid-de-bayern-munich",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "ht": [
+    0,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Lennart Karl",
+     "type": "goal"
+    },
+    {
+     "minute": 74,
+     "side": "away",
+     "player": "Konrad Laimer",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-uk/football/match/champions-league-572/atletico-madrid-bayern-munich-134-331-572"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-es-barcelona-gb-eng-aston-villa",
+   "status": "FT",
+   "score": [
+    3,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "L Yamal",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "Raphinha",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.skysports.com/football/barcelona-vs-aston-villa/live/577652"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-gb-eng-manchester-united-it-roma",
+   "status": "FT",
+   "score": [
+    3,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "M Malvano",
+     "type": "goal"
+    },
+    {
+     "minute": 17,
+     "side": "away",
+     "player": "D Malen",
+     "type": "penalty"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "B Fernandes",
+     "type": "penalty"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "M Cunha",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "M Cunha",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.skysports.com/football/manchester-united-vs-roma/live/577657"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-nl-feyenoord-it-inter-milan",
+   "status": "FT",
+   "score": [
+    0,
+    3
+   ],
+   "ht": [
+    0,
+    2
+   ],
+   "goals": [
+    {
+     "minute": 8,
+     "side": "away",
+     "player": "Yann Bisseck",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "away",
+     "player": "Pio Esposito",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Piotr Zielinski",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/feyenoord-inter-milan-224-691-572"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-fr-lens-it-como",
+   "status": "FT",
+   "score": [
+    1,
+    9
+   ],
+   "ht": [
+    0,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 7,
+     "side": "away",
+     "player": "A Douvikas",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "A Douvikas",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "N Paz",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "away",
+     "player": "L Da Cunha",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "M Kempf",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "A Douvikas",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "M Liberali",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "home",
+     "player": "R Aguilar",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "away",
+     "player": "M Baturina",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "away",
+     "player": "M Papaccioli",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.skysports.com/football/rc-lens-vs-como/live/577664"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "acl2-2026-27-groups-gd-r04-in-east-bengal-om-al-seeb",
+   "status": "FT",
+   "score": [
+    0,
+    2
+   ],
+   "ht": [
+    0,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Axel Meye",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "away",
+     "player": "Zahir Al Aghbari",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/al-seeb-sc-east-bengal-12181-15458-568"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "acl2-2026-27-groups-gd-r04-jo-al-hussein-iq-al-shorta",
+   "status": "FT",
+   "score": [
+    0,
+    3
+   ],
+   "ht": [
+    0,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Kingsley Fidelis Kuku",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "away",
+     "player": "Kingsley Fidelis Kuku",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 3,
+     "side": "away",
+     "player": "Mohanad Ali",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/al-hussein-al-shorta-baghdad-8246-8285-568"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "acl2-2026-27-groups-ge-r04-kr-fc-seoul-vn-the-cong-viettel",
+   "status": "FT",
+   "score": [
+    3,
+    0
+   ],
+   "ht": [
+    0,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Seon-min Moon",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "home",
+     "player": "Anderson Oliveira",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Lucão",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/fr/football/match/afc-champions-league-two-568/fc-seoul-viettel-9820-29873-568"
+   ]
+  },
+  {
+   "op": "squad",
+   "team": "ua-shakhtar-donetsk",
+   "players": [
+    {
+     "n": null,
+     "name": "Tymur Puzankov",
+     "pos": "Goalkeeper",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 23,
+     "name": "Kiril Fesyun",
+     "pos": "Goalkeeper",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 31,
+     "name": "Dmytro Riznyk",
+     "pos": "Goalkeeper",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 48,
+     "name": "Denys Tvardovskyi",
+     "pos": "Goalkeeper",
+     "nat": "Ukraine"
+    },
+    {
+     "n": null,
+     "name": "Viktor Korniyenko",
+     "pos": "Left Back",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 4,
+     "name": "Marlon",
+     "pos": "Centre Back",
+     "nat": "Brazil"
+    },
+    {
+     "n": 5,
+     "name": "Valeriy Bondar",
+     "pos": "Centre Back",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 13,
+     "name": "Pedro Henrique",
+     "pos": "Left Back",
+     "nat": "Brazil"
+    },
+    {
+     "n": 16,
+     "name": "Irakli Azarovi",
+     "pos": "Left Back",
+     "nat": "Georgia"
+    },
+    {
+     "n": 17,
+     "name": "Vinicius Tobias",
+     "pos": "Right Back",
+     "nat": "Brazil"
+    },
+    {
+     "n": 18,
+     "name": "Alaa Ghram",
+     "pos": "Centre Back",
+     "nat": "Tunisia"
+    },
+    {
+     "n": 20,
+     "name": "Oleksandr Karavaev",
+     "pos": "Right Back",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 22,
+     "name": "Mykola Matvienko",
+     "pos": "Centre Back",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 28,
+     "name": "Alan Matturro",
+     "pos": "Centre Back",
+     "nat": "Uruguay"
+    },
+    {
+     "n": 6,
+     "name": "Marlon Gomes",
+     "pos": "Central Midfield",
+     "nat": "Brazil"
+    },
+    {
+     "n": 8,
+     "name": "Dmytro Kryskiv",
+     "pos": "Central Midfield",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 14,
+     "name": "Isaque",
+     "pos": "Attacking Midfield",
+     "nat": "Brazil"
+    },
+    {
+     "n": 24,
+     "name": "Viktor Tsukanov",
+     "pos": "Central Midfield",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 27,
+     "name": "Oleg Ocheretko",
+     "pos": "Attacking Midfield",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 29,
+     "name": "Yegor Nazaryna",
+     "pos": "Central Midfield",
+     "nat": "Ukraine"
+    },
+    {
+     "n": null,
+     "name": "Maryan Shved",
+     "pos": "Right Forward",
+     "nat": "Ukraine"
+    },
+    {
+     "n": 2,
+     "name": "Lassina Traore",
+     "pos": "Centre Forward",
+     "nat": "Burkina Faso"
+    },
+    {
+     "n": 7,
+     "name": "Eguinaldo",
+     "pos": "Left Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 9,
+     "name": "Kauã Elias",
+     "pos": "Centre Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 10,
+     "name": "Pedrinho",
+     "pos": "Right Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 11,
+     "name": "Newerton Martins",
+     "pos": "Left Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 25,
+     "name": "Gabriel Carvalho",
+     "pos": "Right Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 30,
+     "name": "Alisson Santana",
+     "pos": "Right Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 37,
+     "name": "Lucas Ferreira",
+     "pos": "Right Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 49,
+     "name": "Luca Meirelles",
+     "pos": "Centre Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 68,
+     "name": "Prosper Obah",
+     "pos": "Right Forward",
+     "nat": "Nigeria"
+    },
+    {
+     "n": 71,
+     "name": "Ryan Roberto",
+     "pos": "Left Forward",
+     "nat": "Brazil"
+    },
+    {
+     "n": 77,
+     "name": "Gleiker Mendoza",
+     "pos": "Left Forward",
+     "nat": "Venezuela"
+    },
+    {
+     "n": 99,
+     "name": "Bruninho",
+     "pos": "Right Forward",
+     "nat": "Brazil"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/football/team/shakhtar-donetsk-1955/squad"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "de-vfb-stuttgart",
+   "away": "de-dynamo-dresden",
+   "kickoff": "2026-12-01T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "de-holstein-kiel",
+   "away": "de-fc-koln",
+   "kickoff": "2026-12-01T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "de-bayern-munich",
+   "away": "de-hertha-berlin",
+   "kickoff": "2026-12-01T19:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "de-borussia-monchengladbach",
+   "away": "de-darmstadt-98",
+   "kickoff": "2026-12-01T19:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "de-bayer-leverkusen",
+   "away": "de-rb-leipzig",
+   "kickoff": "2026-12-02T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "de-kaiserslautern",
+   "away": "de-sc-freiburg",
+   "kickoff": "2026-12-02T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "de-eintracht-frankfurt",
+   "away": "de-borussia-dortmund",
+   "kickoff": "2026-12-02T19:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "dfb-pokal",
+   "season": "2026-27",
+   "stage": {
+    "key": "r16",
+    "type": "knockout"
+   },
+   "home": "de-vfl-bochum",
+   "away": "de-fc-augsburg",
+   "kickoff": "2026-12-02T19:45:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  }
+ ],
+ "unconfirmed": []
+}

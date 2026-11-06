@@ -4246,3 +4246,24 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result acl2-2026-27-groups-gf-r04-th-bg-pathum-united-hk-tai-po 4-1 FT
   - ✓ result acl2-2026-27-groups-gg-r04-kh-pkr-svay-rieng-sg-tampines-rovers 2-0 FT
   - ✓ result acl2-2026-27-groups-gh-r04-my-kuching-city-kr-gangwon-fc 2-0 FT
+
+## 2026-11-06 (2026-11-06T01:36:41Z)
+- 18 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result ucl-2026-27-league-phase-r04-at-lask-sk-slovan-bratislava added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r04-es-atletico-madrid-de-bayern-munich added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r04-es-barcelona-gb-eng-aston-villa added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r04-gb-eng-manchester-united-it-roma added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r04-nl-feyenoord-it-inter-milan added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r04-fr-lens-it-como added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gd-r04-in-east-bengal-om-al-seeb added half-time and scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gd-r04-jo-al-hussein-iq-al-shorta added half-time and scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-ge-r04-kr-fc-seoul-vn-the-cong-viettel added scorers to the confirmed result
+  - ✓ squad ua-shakhtar-donetsk squad added (34 players)
+  - ✓ fixture dfb-pokal-2026-27-r16-de-vfb-stuttgart-de-dynamo-dresden added
+  - ✓ fixture dfb-pokal-2026-27-r16-de-holstein-kiel-de-fc-koln added
+  - ✓ fixture dfb-pokal-2026-27-r16-de-bayern-munich-de-hertha-berlin added
+  - ✓ fixture dfb-pokal-2026-27-r16-de-borussia-monchengladbach-de-darmstadt-98 added
+  - ✓ fixture dfb-pokal-2026-27-r16-de-bayer-leverkusen-de-rb-leipzig added
+  - ✓ fixture dfb-pokal-2026-27-r16-de-kaiserslautern-de-sc-freiburg added
+  - ✓ fixture dfb-pokal-2026-27-r16-de-eintracht-frankfurt-de-borussia-dortmund added
+  - ✓ fixture dfb-pokal-2026-27-r16-de-vfl-bochum-de-fc-augsburg added

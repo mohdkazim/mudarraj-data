@@ -2680,6 +2680,190 @@
    "updatedAt": "2026-10-31T01:41:10.094Z"
   },
   {
+   "id": "dfb-pokal-2026-27-r16-de-holstein-kiel-de-fc-koln",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-01T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-holstein-kiel",
+   "away": "de-fc-koln",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r16-de-vfb-stuttgart-de-dynamo-dresden",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-01T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-vfb-stuttgart",
+   "away": "de-dynamo-dresden",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r16-de-bayern-munich-de-hertha-berlin",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-01T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-bayern-munich",
+   "away": "de-hertha-berlin",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r16-de-borussia-monchengladbach-de-darmstadt-98",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-01T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-borussia-monchengladbach",
+   "away": "de-darmstadt-98",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r16-de-bayer-leverkusen-de-rb-leipzig",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-02T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-bayer-leverkusen",
+   "away": "de-rb-leipzig",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r16-de-kaiserslautern-de-sc-freiburg",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-02T17:00:00Z",
+   "timeConfirmed": true,
+   "home": "de-kaiserslautern",
+   "away": "de-sc-freiburg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r16-de-eintracht-frankfurt-de-borussia-dortmund",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-02T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-eintracht-frankfurt",
+   "away": "de-borussia-dortmund",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
+   "id": "dfb-pokal-2026-27-r16-de-vfl-bochum-de-fc-augsburg",
+   "stage": {
+    "key": "r16",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2026-12-02T19:45:00Z",
+   "timeConfirmed": true,
+   "home": "de-vfl-bochum",
+   "away": "de-fc-augsburg",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://datencenter.dfb.de/de/competitions/dfb-pokal/seasons/2026-27/matchday/achtelfinale",
+    "https://www.dfb.de/news/bayern-im-achtelfinale-gegen-hertha-frankfurt-gegen-den-bvb"
+   ]
+  },
+  {
    "id": "dfb-pokal-2026-27-final-tbd-tbd",
    "stage": {
     "key": "final",
