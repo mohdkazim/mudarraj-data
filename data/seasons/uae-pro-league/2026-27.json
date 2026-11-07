@@ -2559,14 +2559,18 @@
    "away": "ae-khorfakkan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f7c-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=8&s=2026-2027"
-   ]
+    "https://www.albayan.ae/sports/uae-stadiums/1563493",
+    "https://www.emaratalyoum.com/sports/local/2026-11-07-1.2100319"
+   ],
+   "updatedAt": "2026-11-07T18:39:20.911Z"
   },
   {
    "id": "uae-pro-league-2026-27-regular-r08-ae-sharjah-ae-shabab-al-ahli",
@@ -2582,14 +2586,22 @@
    "away": "ae-shabab-al-ahli",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f81-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=8&s=2026-2027"
-   ]
+    "https://www.albayan.ae/sports/uae-stadiums/1563491",
+    "https://www.emaratalyoum.com/sports/local/2026-11-07-1.2100317"
+   ],
+   "updatedAt": "2026-11-07T18:39:20.911Z"
   },
   {
    "id": "uae-pro-league-2026-27-regular-r08-ae-al-jazira-ae-al-wasl",

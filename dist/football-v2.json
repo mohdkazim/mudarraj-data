@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-07T17:42:34.020Z",
+ "generatedAt": "2026-11-07T18:39:21.047Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1918,
-  "results": 855,
-  "pending": 4
+  "results": 858,
+  "pending": 3
  },
  "teams": [
   {
@@ -63717,8 +63717,11 @@
    "away": "gb-eng-hull-city",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Emirates Stadium",
@@ -63731,9 +63734,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+    "https://www.skysports.com/football/arsenal-vs-hull-city/8264108816371826232",
+    "https://www.thenationalnews.com/sport/football/2026/11/07/arsenal-equal-best-start-to-premier-league-season-after-martin-odegaard-goal-earns-win-over-hull-city/"
    ],
+   "goals": [
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Martin Odegaard",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T18:39:20.911Z",
    "venueFrom": "home-ground"
   },
   {
@@ -63822,8 +63834,11 @@
    "away": "ae-khorfakkan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Hamdan bin Rashid Al Maktoum Stadium",
@@ -63836,9 +63851,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f7c-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=8&s=2026-2027"
+    "https://www.albayan.ae/sports/uae-stadiums/1563493",
+    "https://www.emaratalyoum.com/sports/local/2026-11-07-1.2100319"
    ],
+   "updatedAt": "2026-11-07T18:39:20.911Z",
    "venueFrom": "home-ground"
   },
   {
@@ -63857,8 +63873,15 @@
    "away": "ae-shabab-al-ahli",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Sharjah Stadium",
@@ -63871,9 +63894,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f81-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=8&s=2026-2027"
+    "https://www.albayan.ae/sports/uae-stadiums/1563491",
+    "https://www.emaratalyoum.com/sports/local/2026-11-07-1.2100317"
    ],
+   "updatedAt": "2026-11-07T18:39:20.911Z",
    "venueFrom": "home-ground"
   },
   {

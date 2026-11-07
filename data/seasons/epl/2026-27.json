@@ -4278,14 +4278,26 @@
    "away": "gb-eng-hull-city",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
-   ]
+    "https://www.skysports.com/football/arsenal-vs-hull-city/8264108816371826232",
+    "https://www.thenationalnews.com/sport/football/2026/11/07/arsenal-equal-best-start-to-premier-league-season-after-martin-odegaard-goal-earns-win-over-hull-city/"
+   ],
+   "goals": [
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Martin Odegaard",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T18:39:20.911Z"
   },
   {
    "id": "epl-2026-27-regular-r10-gb-eng-fulham-gb-eng-newcastle-united",

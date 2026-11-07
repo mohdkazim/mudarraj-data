@@ -1,0 +1,40 @@
+{
+ "run": "2026-11-07T18:35:38Z",
+ "changes": [
+  {
+   "op": "result",
+   "match": "epl-2026-27-regular-r10-gb-eng-arsenal-gb-eng-hull-city",
+   "status": "FT",
+   "score": [1, 0],
+   "goals": [
+    { "minute": 72, "side": "home", "player": "Martin Odegaard", "type": "goal" }
+   ],
+   "sources": [
+    "https://www.skysports.com/football/arsenal-vs-hull-city/8264108816371826232",
+    "https://www.thenationalnews.com/sport/football/2026/11/07/arsenal-equal-best-start-to-premier-league-season-after-martin-odegaard-goal-earns-win-over-hull-city/"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "uae-pro-league-2026-27-regular-r08-ae-sharjah-ae-shabab-al-ahli",
+   "status": "FT",
+   "score": [2, 0],
+   "ht": [0, 0],
+   "sources": [
+    "https://www.albayan.ae/sports/uae-stadiums/1563491",
+    "https://www.emaratalyoum.com/sports/local/2026-11-07-1.2100317"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "uae-pro-league-2026-27-regular-r08-ae-hatta-ae-khorfakkan",
+   "status": "FT",
+   "score": [1, 2],
+   "sources": [
+    "https://www.albayan.ae/sports/uae-stadiums/1563493",
+    "https://www.emaratalyoum.com/sports/local/2026-11-07-1.2100319"
+   ]
+  }
+ ],
+ "unconfirmed": []
+}
