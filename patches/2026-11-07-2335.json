@@ -1,0 +1,9 @@
+{
+ "run": "2026-11-07T19:35:40Z",
+ "changes": [],
+ "unconfirmed": [
+  { "match": "epl-2026-27-regular-r10-gb-eng-fulham-gb-eng-newcastle-united", "claim": "1-1", "sources": ["https://www.skysports.com/football-scores-fixtures"] },
+  { "match": "laliga-2026-27-regular-r12-es-espanyol-es-deportivo-la-coruna", "claim": "0-0", "sources": ["https://www.skysports.com/football-scores-fixtures"] },
+  { "match": "serie-a-2026-27-regular-r11-it-parma-it-bologna", "claim": "1-2", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+ ]
+}

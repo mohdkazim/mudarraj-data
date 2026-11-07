@@ -4302,3 +4302,6 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result epl-2026-27-regular-r10-gb-eng-arsenal-gb-eng-hull-city 1-0 FT
   - ✓ result uae-pro-league-2026-27-regular-r08-ae-sharjah-ae-shabab-al-ahli 2-0 FT
   - ✓ result uae-pro-league-2026-27-regular-r08-ae-hatta-ae-khorfakkan 1-2 FT
+
+## 2026-11-07 (2026-11-07T19:35:40Z)
+- 0 change(s) applied, 0 rejected, 6 waiting for a second source
