@@ -5622,14 +5622,18 @@
    "away": "es-racing-santander",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.365scores.com/en-uk/football/match/laliga-11/deportivo-la-coruna-espanyol-136-148-11",
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-07T20:43:45.018Z"
   },
   {
    "id": "laliga-2026-27-regular-r12-es-espanyol-es-deportivo-la-coruna",
@@ -5645,14 +5649,23 @@
    "away": "es-deportivo-la-coruna",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.365scores.com/en-uk/football/match/laliga-11/deportivo-la-coruna-espanyol-136-148-11",
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "goals": [],
+   "updatedAt": "2026-11-07T20:43:45.018Z"
   },
   {
    "id": "laliga-2026-27-regular-r12-es-osasuna-es-athletic-club",

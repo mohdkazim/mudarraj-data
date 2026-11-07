@@ -4313,14 +4313,18 @@
    "away": "gb-eng-newcastle-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-uk/football/match/premier-league-7/manchester-city-nottingham-forest-29-110-7",
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-07T20:43:45.018Z"
   },
   {
    "id": "epl-2026-27-regular-r10-gb-eng-nottingham-forest-gb-eng-manchester-city",
@@ -4336,14 +4340,21 @@
    "away": "gb-eng-manchester-city",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-uk/football/match/premier-league-7/manchester-city-nottingham-forest-29-110-7"
+   ],
+   "updatedAt": "2026-11-07T20:43:45.018Z"
   },
   {
    "id": "epl-2026-27-regular-r10-gb-eng-brighton-gb-eng-brentford",

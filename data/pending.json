@@ -17,35 +17,19 @@
   "seen": "2026-11-07T01:36:44Z"
  },
  {
-  "match": "laliga-2026-27-regular-r12-es-malaga-es-racing-santander",
-  "claim": "1-2",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures"
-  ],
-  "seen": "2026-11-07T15:36:00Z"
- },
- {
-  "match": "epl-2026-27-regular-r10-gb-eng-fulham-gb-eng-newcastle-united",
-  "claim": "1-1",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures"
-  ],
-  "seen": "2026-11-07T19:35:40Z"
- },
- {
-  "match": "laliga-2026-27-regular-r12-es-espanyol-es-deportivo-la-coruna",
-  "claim": "0-0",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures"
-  ],
-  "seen": "2026-11-07T19:35:40Z"
- },
- {
   "match": "serie-a-2026-27-regular-r11-it-parma-it-bologna",
   "claim": "1-2",
   "sources": [
    "https://www.skysports.com/football-scores-fixtures"
   ],
   "seen": "2026-11-07T19:35:40Z"
+ },
+ {
+  "match": "laliga-2026-27-regular-r12-es-osasuna-es-athletic-club",
+  "claim": "1-1",
+  "sources": [
+   "https://www.365scores.com/en-uk/football/match/laliga-11/deportivo-la-coruna-espanyol-136-148-11"
+  ],
+  "seen": "2026-11-07T20:35:54Z"
  }
 ]

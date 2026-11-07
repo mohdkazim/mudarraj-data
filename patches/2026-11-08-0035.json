@@ -1,0 +1,16 @@
+{
+  "run": "2026-11-07T20:35:54Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r12-es-espanyol-es-deportivo-la-coruna", "status": "FT", "score": [0,0], "ht": [0,0], "goals": [],
+      "sources": ["https://www.365scores.com/en-uk/football/match/laliga-11/deportivo-la-coruna-espanyol-136-148-11", "https://www.skysports.com/football-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r10-gb-eng-nottingham-forest-gb-eng-manchester-city", "status": "FT", "score": [3,1], "ht": [2,0],
+      "sources": ["https://www.365scores.com/en-uk/football/match/premier-league-7/manchester-city-nottingham-forest-29-110-7"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r12-es-malaga-es-racing-santander", "status": "FT", "score": [1,2],
+      "sources": ["https://www.365scores.com/en-uk/football/match/laliga-11/deportivo-la-coruna-espanyol-136-148-11", "https://www.skysports.com/football-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r10-gb-eng-fulham-gb-eng-newcastle-united", "status": "FT", "score": [1,1],
+      "sources": ["https://www.365scores.com/en-uk/football/match/premier-league-7/manchester-city-nottingham-forest-29-110-7", "https://www.skysports.com/football-scores-fixtures"] }
+  ],
+  "unconfirmed": [
+    { "match": "laliga-2026-27-regular-r12-es-osasuna-es-athletic-club", "claim": "1-1", "sources": ["https://www.365scores.com/en-uk/football/match/laliga-11/deportivo-la-coruna-espanyol-136-148-11"] }
+  ]
+}
