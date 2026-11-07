@@ -4852,14 +4852,42 @@
    "away": "it-sassuolo",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261107&limit=37"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.corrieredellosport.it/live/partita/roma-sassuolo-2638229"
+   ],
+   "goals": [
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "M. Hermoso",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "S. Walukiewicz",
+     "type": "own-goal"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "Rodrigo Mora",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T22:42:58.416Z"
   },
   {
    "id": "serie-a-2026-27-regular-r11-it-napoli-it-lazio",

@@ -4158,14 +4158,30 @@
    "away": "de-werder-bremen",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/vfb-stuttgart-werder-bremen-match-report-highlights-matchday-9-39928",
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Maximilian Mittelstädt",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T22:42:58.416Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r09-de-fc-koln-de-bayer-leverkusen",

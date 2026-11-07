@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-07T21:38:30.841Z",
+ "generatedAt": "2026-11-07T22:42:58.567Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1918,
-  "results": 863,
-  "pending": 4
+  "results": 865,
+  "pending": 3
  },
  "teams": [
   {
@@ -63968,8 +63968,15 @@
    "away": "de-werder-bremen",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "MHPArena",
@@ -63982,9 +63989,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107&limit=37"
+    "https://www.bundesliga.com/en/bundesliga/news/vfb-stuttgart-werder-bremen-match-report-highlights-matchday-9-39928",
+    "https://www.skysports.com/football-scores-fixtures"
    ],
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Maximilian Mittelstädt",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T22:42:58.416Z",
    "venueFrom": "home-ground"
   },
   {
@@ -64120,8 +64136,15 @@
    "away": "it-sassuolo",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadio Olimpico",
@@ -64134,9 +64157,30 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261107&limit=37"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.corrieredellosport.it/live/partita/roma-sassuolo-2638229"
    ],
+   "goals": [
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "M. Hermoso",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "S. Walukiewicz",
+     "type": "own-goal"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "Rodrigo Mora",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T22:42:58.416Z",
    "venueFrom": "home-ground"
   },
   {

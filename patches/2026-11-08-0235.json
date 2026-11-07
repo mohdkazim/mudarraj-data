@@ -1,0 +1,16 @@
+{
+  "run": "2026-11-07T22:35:39Z",
+  "changes": [
+    { "op": "result", "match": "bundesliga-2026-27-regular-r09-de-vfb-stuttgart-de-werder-bremen", "status": "FT", "score": [1,0], "ht": [1,0],
+      "goals": [ { "minute": 7, "side": "home", "player": "Maximilian Mittelstädt", "type": "goal" } ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/vfb-stuttgart-werder-bremen-match-report-highlights-matchday-9-39928", "https://www.skysports.com/football-scores-fixtures"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-roma-it-sassuolo", "status": "FT", "score": [3,0], "ht": [2,0],
+      "goals": [
+        { "minute": 27, "side": "home", "player": "M. Hermoso", "type": "goal" },
+        { "minute": 30, "side": "home", "player": "S. Walukiewicz", "type": "own-goal" },
+        { "minute": 58, "side": "home", "player": "Rodrigo Mora", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.corrieredellosport.it/live/partita/roma-sassuolo-2638229"] }
+  ],
+  "unconfirmed": []
+}

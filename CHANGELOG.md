@@ -4316,3 +4316,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-08 (2026-11-07T21:36:03Z)
 - 1 change(s) applied, 0 rejected, 4 waiting for a second source
   - ✓ result laliga-2026-27-regular-r12-es-osasuna-es-athletic-club 1-1 FT
+
+## 2026-11-08 (2026-11-07T22:35:39Z)
+- 2 change(s) applied, 0 rejected, 3 waiting for a second source
+  - ✓ result bundesliga-2026-27-regular-r09-de-vfb-stuttgart-de-werder-bremen 1-0 FT
+  - ✓ result serie-a-2026-27-regular-r11-it-roma-it-sassuolo 3-0 FT
