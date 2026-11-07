@@ -4312,3 +4312,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result epl-2026-27-regular-r10-gb-eng-nottingham-forest-gb-eng-manchester-city 3-1 FT
   - ✓ result laliga-2026-27-regular-r12-es-malaga-es-racing-santander 1-2 FT
   - ✓ result epl-2026-27-regular-r10-gb-eng-fulham-gb-eng-newcastle-united 1-1 FT
+
+## 2026-11-08 (2026-11-07T21:36:03Z)
+- 1 change(s) applied, 0 rejected, 4 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r12-es-osasuna-es-athletic-club 1-1 FT

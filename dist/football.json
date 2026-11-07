@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-07T20:43:45.159Z",
+ "generatedAt": "2026-11-07T21:38:30.841Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 487,
+  "results": 488,
   "pending": 4
  },
  "teams": [
@@ -40766,8 +40766,11 @@
    "away": "es-athletic-club",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "El Sadar",
@@ -40780,9 +40783,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/en-uk/football/match/laliga-11/deportivo-la-coruna-espanyol-136-148-11"
    ],
+   "updatedAt": "2026-11-07T21:38:30.690Z",
    "venueFrom": "home-ground"
   },
   {

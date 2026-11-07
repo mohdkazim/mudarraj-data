@@ -5681,14 +5681,18 @@
    "away": "es-athletic-club",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/en-uk/football/match/laliga-11/deportivo-la-coruna-espanyol-136-148-11"
+   ],
+   "updatedAt": "2026-11-07T21:38:30.690Z"
   },
   {
    "id": "laliga-2026-27-regular-r12-es-valencia-es-real-madrid",

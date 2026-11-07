@@ -1,0 +1,10 @@
+{
+  "run": "2026-11-07T21:36:03Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r12-es-osasuna-es-athletic-club", "status": "FT", "score": [1,1],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.365scores.com/en-uk/football/match/laliga-11/deportivo-la-coruna-espanyol-136-148-11"] }
+  ],
+  "unconfirmed": [
+    { "match": "bundesliga-2026-27-regular-r09-de-vfb-stuttgart-de-werder-bremen", "claim": "1-0", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+  ]
+}
