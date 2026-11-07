@@ -4284,3 +4284,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 3 waiting for a second source
   - ✓ result epl-2026-27-regular-r10-gb-eng-leeds-united-gb-eng-tottenham-hotspur 1-0 FT
   - ✓ result uae-pro-league-2026-27-regular-r08-ae-al-dhafra-ae-kalba 1-3 FT
+
+## 2026-11-07 (2026-11-07T16:39:50Z)
+- 2 change(s) applied, 0 rejected, 7 waiting for a second source
+  - ✓ result serie-a-2026-27-regular-r11-it-cagliari-it-frosinone 1-0 FT
+  - ✓ result serie-a-2026-27-regular-r11-it-torino-it-lecce 1-1 FT

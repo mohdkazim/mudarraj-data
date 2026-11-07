@@ -4763,14 +4763,30 @@
    "away": "it-frosinone",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261107&limit=37"
-   ]
+    "https://www.365scores.com/football/match/serie-a-17/cagliari-frosinone-243-254-17",
+    "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+   ],
+   "goals": [
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Michel Adopo",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T16:39:50.619Z"
   },
   {
    "id": "serie-a-2026-27-regular-r11-it-torino-it-lecce",
@@ -4786,14 +4802,18 @@
    "away": "it-lecce",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261107&limit=37"
-   ]
+    "https://www.365scores.com/football/match/serie-a-17/cagliari-frosinone-243-254-17",
+    "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+   ],
+   "updatedAt": "2026-11-07T16:39:50.619Z"
   },
   {
    "id": "serie-a-2026-27-regular-r11-it-parma-it-bologna",

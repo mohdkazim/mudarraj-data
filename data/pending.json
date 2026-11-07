@@ -23,5 +23,37 @@
    "https://www.skysports.com/football-scores-fixtures"
   ],
   "seen": "2026-11-07T15:36:00Z"
+ },
+ {
+  "match": "bundesliga-2026-27-regular-r09-de-borussia-dortmund-de-sv-elversberg",
+  "claim": "2-1",
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+  ],
+  "seen": "2026-11-07T16:39:50Z"
+ },
+ {
+  "match": "bundesliga-2026-27-regular-r09-de-mainz-05-de-bayern-munich",
+  "claim": "1-2",
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+  ],
+  "seen": "2026-11-07T16:39:50Z"
+ },
+ {
+  "match": "bundesliga-2026-27-regular-r09-de-rb-leipzig-de-fc-augsburg",
+  "claim": "5-2",
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+  ],
+  "seen": "2026-11-07T16:39:50Z"
+ },
+ {
+  "match": "bundesliga-2026-27-regular-r09-de-sc-paderborn-de-eintracht-frankfurt",
+  "claim": "2-2",
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+  ],
+  "seen": "2026-11-07T16:39:50Z"
  }
 ]

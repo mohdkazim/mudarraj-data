@@ -1,0 +1,16 @@
+{
+ "run": "2026-11-07T16:39:50Z",
+ "changes": [
+  { "op": "result", "match": "serie-a-2026-27-regular-r11-it-cagliari-it-frosinone", "status": "FT", "score": [1,0], "ht": [1,0],
+    "goals": [ { "minute": 38, "side": "home", "player": "Michel Adopo", "type": "goal" } ],
+    "sources": ["https://www.365scores.com/football/match/serie-a-17/cagliari-frosinone-243-254-17", "https://www.skysports.com/football-scores-fixtures?hl=en-GB"] },
+  { "op": "result", "match": "serie-a-2026-27-regular-r11-it-torino-it-lecce", "status": "FT", "score": [1,1],
+    "sources": ["https://www.365scores.com/football/match/serie-a-17/cagliari-frosinone-243-254-17", "https://www.skysports.com/football-scores-fixtures?hl=en-GB"] }
+ ],
+ "unconfirmed": [
+  { "match": "bundesliga-2026-27-regular-r09-de-borussia-dortmund-de-sv-elversberg", "claim": "2-1", "sources": ["https://www.skysports.com/football-scores-fixtures?hl=en-GB"] },
+  { "match": "bundesliga-2026-27-regular-r09-de-mainz-05-de-bayern-munich", "claim": "1-2", "sources": ["https://www.skysports.com/football-scores-fixtures?hl=en-GB"] },
+  { "match": "bundesliga-2026-27-regular-r09-de-rb-leipzig-de-fc-augsburg", "claim": "5-2", "sources": ["https://www.skysports.com/football-scores-fixtures?hl=en-GB"] },
+  { "match": "bundesliga-2026-27-regular-r09-de-sc-paderborn-de-eintracht-frankfurt", "claim": "2-2", "sources": ["https://www.skysports.com/football-scores-fixtures?hl=en-GB"] }
+ ]
+}

@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-07T15:38:05.735Z",
+ "generatedAt": "2026-11-07T16:39:50.795Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1918,
-  "results": 849,
-  "pending": 3
+  "results": 851,
+  "pending": 7
  },
  "teams": [
   {
@@ -63420,8 +63420,15 @@
    "away": "it-frosinone",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Unipol Domus",
@@ -63434,9 +63441,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261107&limit=37"
+    "https://www.365scores.com/football/match/serie-a-17/cagliari-frosinone-243-254-17",
+    "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
    ],
+   "goals": [
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Michel Adopo",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T16:39:50.619Z",
    "venueFrom": "home-ground"
   },
   {
@@ -63455,8 +63471,11 @@
    "away": "it-lecce",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Stadio Olimpico Grande Torino",
@@ -63469,9 +63488,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261107&limit=37"
+    "https://www.365scores.com/football/match/serie-a-17/cagliari-frosinone-243-254-17",
+    "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
    ],
+   "updatedAt": "2026-11-07T16:39:50.619Z",
    "venueFrom": "home-ground"
   },
   {
