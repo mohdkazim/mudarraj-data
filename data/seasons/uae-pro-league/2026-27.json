@@ -2505,14 +2505,45 @@
    "away": "ae-kalba",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f7a-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=8&s=2026-2027"
-   ]
+    "https://www.uaeproleague.ae/en/fixtures/22e17f7a-7604-11f1-b32b-0289588efdb9",
+    "https://www.emaratalyoum.com/sports/local/2026-11-07-1.2100303"
+   ],
+   "goals": [
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Sory Kaba",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Benjamin Tetteh",
+     "type": "penalty"
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Ahmad Noorollah",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 5,
+     "side": "away",
+     "player": "Antonio Junior",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T15:38:05.484Z"
   },
   {
    "id": "uae-pro-league-2026-27-regular-r08-ae-hatta-ae-khorfakkan",

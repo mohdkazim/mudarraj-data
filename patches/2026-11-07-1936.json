@@ -1,0 +1,41 @@
+{
+  "run": "2026-11-07T15:36:00Z",
+  "changes": [
+    {
+      "op": "result",
+      "match": "epl-2026-27-regular-r10-gb-eng-leeds-united-gb-eng-tottenham-hotspur",
+      "status": "FT",
+      "score": [1, 0],
+      "goals": [
+        { "minute": 79, "side": "home", "player": "Noah Okafor", "type": "goal" }
+      ],
+      "sources": [
+        "https://www.skysports.com/football-scores-fixtures",
+        "https://www.thenationalnews.com/sport/football/2026/11/07/leeds-v-tottenham-ratings-calvert-lewin-7-okafor-8-tonali-7-marmoush-5/"
+      ]
+    },
+    {
+      "op": "result",
+      "match": "uae-pro-league-2026-27-regular-r08-ae-al-dhafra-ae-kalba",
+      "status": "FT",
+      "score": [1, 3],
+      "goals": [
+        { "minute": 20, "side": "home", "player": "Sory Kaba", "type": "goal" },
+        { "minute": 50, "side": "away", "player": "Benjamin Tetteh", "type": "penalty" },
+        { "minute": 52, "side": "away", "player": "Ahmad Noorollah", "type": "goal" },
+        { "minute": 90, "extra": 5, "side": "away", "player": "Antonio Junior", "type": "goal" }
+      ],
+      "sources": [
+        "https://www.uaeproleague.ae/en/fixtures/22e17f7a-7604-11f1-b32b-0289588efdb9",
+        "https://www.emaratalyoum.com/sports/local/2026-11-07-1.2100303"
+      ]
+    }
+  ],
+  "unconfirmed": [
+    {
+      "match": "laliga-2026-27-regular-r12-es-malaga-es-racing-santander",
+      "claim": "1-2",
+      "sources": ["https://www.skysports.com/football-scores-fixtures"]
+    }
+  ]
+}

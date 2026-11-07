@@ -4279,3 +4279,8 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result ucl-2026-27-league-phase-r04-de-borussia-dortmund-es-real-betis added scorers to the confirmed result
   - ✓ result ucl-2026-27-league-phase-r04-no-viking-az-sabah added scorers to the confirmed result
   - ✓ result ucl-2026-27-league-phase-r04-pt-porto-it-napoli added scorers to the confirmed result
+
+## 2026-11-07 (2026-11-07T15:36:00Z)
+- 2 change(s) applied, 0 rejected, 3 waiting for a second source
+  - ✓ result epl-2026-27-regular-r10-gb-eng-leeds-united-gb-eng-tottenham-hotspur 1-0 FT
+  - ✓ result uae-pro-league-2026-27-regular-r08-ae-al-dhafra-ae-kalba 1-3 FT

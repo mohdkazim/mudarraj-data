@@ -4243,14 +4243,26 @@
    "away": "gb-eng-tottenham-hotspur",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.thenationalnews.com/sport/football/2026/11/07/leeds-v-tottenham-ratings-calvert-lewin-7-okafor-8-tonali-7-marmoush-5/"
+   ],
+   "goals": [
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Noah Okafor",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T15:38:05.484Z"
   },
   {
    "id": "epl-2026-27-regular-r10-gb-eng-arsenal-gb-eng-hull-city",

@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-07T01:47:36.673Z",
+ "generatedAt": "2026-11-07T15:38:05.735Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1918,
-  "results": 847,
-  "pending": 2
+  "results": 849,
+  "pending": 3
  },
  "teams": [
   {
@@ -63236,8 +63236,11 @@
    "away": "gb-eng-tottenham-hotspur",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Elland Road",
@@ -63250,9 +63253,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.thenationalnews.com/sport/football/2026/11/07/leeds-v-tottenham-ratings-calvert-lewin-7-okafor-8-tonali-7-marmoush-5/"
    ],
+   "goals": [
+    {
+     "minute": 79,
+     "side": "home",
+     "player": "Noah Okafor",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T15:38:05.484Z",
    "venueFrom": "home-ground"
   },
   {
@@ -63271,8 +63283,11 @@
    "away": "ae-kalba",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3
+   },
    "venue": {
     "name": {
      "en": "Hamdan bin Zayed Stadium",
@@ -63285,9 +63300,37 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f7a-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=8&s=2026-2027"
+    "https://www.uaeproleague.ae/en/fixtures/22e17f7a-7604-11f1-b32b-0289588efdb9",
+    "https://www.emaratalyoum.com/sports/local/2026-11-07-1.2100303"
    ],
+   "goals": [
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Sory Kaba",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Benjamin Tetteh",
+     "type": "penalty"
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Ahmad Noorollah",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 5,
+     "side": "away",
+     "player": "Antonio Junior",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T15:38:05.484Z",
    "venueFrom": "home-ground"
   },
   {
