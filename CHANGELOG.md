@@ -4289,3 +4289,10 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 7 waiting for a second source
   - ✓ result serie-a-2026-27-regular-r11-it-cagliari-it-frosinone 1-0 FT
   - ✓ result serie-a-2026-27-regular-r11-it-torino-it-lecce 1-1 FT
+
+## 2026-11-07 (2026-11-07T17:35:52Z)
+- 4 change(s) applied, 0 rejected, 4 waiting for a second source
+  - ✓ result bundesliga-2026-27-regular-r09-de-mainz-05-de-bayern-munich 1-2 FT
+  - ✓ result bundesliga-2026-27-regular-r09-de-borussia-dortmund-de-sv-elversberg 2-1 FT
+  - ✓ result bundesliga-2026-27-regular-r09-de-rb-leipzig-de-fc-augsburg 5-2 FT
+  - ✓ result bundesliga-2026-27-regular-r09-de-sc-paderborn-de-eintracht-frankfurt 2-2 FT

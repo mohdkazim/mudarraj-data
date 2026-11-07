@@ -4025,14 +4025,18 @@
    "away": "de-sv-elversberg",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/1-fsv-mainz-05-vs-fc-bayern-muenchen/liveticker",
+    "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+   ],
+   "updatedAt": "2026-11-07T17:42:33.890Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r09-de-mainz-05-de-bayern-munich",
@@ -4048,14 +4052,43 @@
    "away": "de-bayern-munich",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/1-fsv-mainz-05-vs-fc-bayern-muenchen/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/mainz-bayern-munich-match-report-highlights-matchday-9-39922"
+   ],
+   "goals": [
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Joshua Kimmich",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Lennart Karl",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 3,
+     "side": "home",
+     "player": "Phillip Tietz",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-07T17:42:33.890Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r09-de-rb-leipzig-de-fc-augsburg",
@@ -4071,14 +4104,18 @@
    "away": "de-fc-augsburg",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/1-fsv-mainz-05-vs-fc-bayern-muenchen/liveticker",
+    "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+   ],
+   "updatedAt": "2026-11-07T17:42:33.890Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r09-de-sc-paderborn-de-eintracht-frankfurt",
@@ -4094,14 +4131,18 @@
    "away": "de-eintracht-frankfurt",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261107&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/1-fsv-mainz-05-vs-fc-bayern-muenchen/liveticker",
+    "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+   ],
+   "updatedAt": "2026-11-07T17:42:33.890Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r09-de-vfb-stuttgart-de-werder-bremen",
