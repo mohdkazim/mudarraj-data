@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-06T22:38:26.563Z",
+ "generatedAt": "2026-11-07T01:47:36.673Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1918,
-  "results": 846,
-  "pending": 0
+  "results": 847,
+  "pending": 2
  },
  "teams": [
   {
@@ -61870,9 +61870,43 @@
    "neutral": false,
    "sources": [
     "https://365scores.com/es/news/como-quedo-el-real-madrid-aek-atenas-hoy",
-    "https://www.skysports.com/champions-league-scores-fixtures"
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://www.skysports.com/football/aek-athens-vs-real-madrid/577660"
    ],
    "updatedAt": "2026-11-04T20:41:56.819Z",
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Aboubakary Koïta",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "Jude Bellingham",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Stavros Pilios",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "away",
+     "player": "Federico Valverde",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -62155,9 +62189,30 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/es/news/estadisticas-dortmund-vs-betis-remates/",
-    "https://365scores.com/es/news/resultados-champions-league-tabla-vivo"
+    "https://365scores.com/es/news/resultados-champions-league-tabla-vivo",
+    "https://www.skysports.com/football/borussia-dortmund-vs-real-betis/577661"
    ],
    "updatedAt": "2026-11-04T22:40:02.323Z",
+   "goals": [
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "Fábio Silva",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Aitor Ruibal",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Konstantinos Karetsas",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -62425,9 +62480,43 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-uk/football/match/uefa-champions-league-572/sabah-viking-1980-50201-572",
-    "https://www.skysports.com/champions-league-scores-fixtures"
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://www.skysports.com/football/viking-vs-sabah/577668"
    ],
    "updatedAt": "2026-11-04T22:40:02.323Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Orphé Mbina",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Erik Botheim",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Zlatko Tripic",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Henrik Falchener",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 4,
+     "side": "home",
+     "player": "Erik Botheim",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -62465,9 +62554,42 @@
    "sources": [
     "https://365scores.com/pt-br/news/magazine/arsenal-city-como-resultados-champions-league",
     "https://365scores.com/es/news/resultados-champions-league-tabla-vivo",
-    "https://www.skysports.com/champions-league-scores-fixtures"
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://www.skysports.com/football/fc-porto-vs-napoli/577662"
    ],
    "updatedAt": "2026-11-04T22:40:02.323Z",
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Jan Bednarek",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Scott McTominay",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Gabri Veiga",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Jakub Kiwior",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Samu Aghehowa",
+     "type": "penalty"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -63075,8 +63197,11 @@
    "away": "es-alaves",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Ramón Sánchez-Pizjuán",
@@ -63089,9 +63214,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.laliga.com/en-GB/laliga-easports/results"
    ],
+   "goals": [],
+   "updatedAt": "2026-11-07T01:47:36.540Z",
    "venueFrom": "home-ground"
   },
   {

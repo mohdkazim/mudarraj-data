@@ -1,1 +1,19 @@
-[]
+[
+ {
+  "match": "epl-2026-27-regular-r10-gb-eng-everton-gb-eng-coventry-city",
+  "claim": "3-1",
+  "sources": [
+   "https://www.skysports.com/football/everton-vs-coventry-city/5934059159310513232",
+   "https://www.skysports.com/premier-league-scores-fixtures"
+  ],
+  "seen": "2026-11-07T01:36:44Z"
+ },
+ {
+  "match": "serie-a-2026-27-regular-r11-it-venezia-it-udinese",
+  "claim": "2-1",
+  "sources": [
+   "https://www.skysports.com/udinese-scores-fixtures"
+  ],
+  "seen": "2026-11-07T01:36:44Z"
+ }
+]

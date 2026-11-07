@@ -5595,14 +5595,18 @@
    "away": "es-alaves",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.laliga.com/en-GB/laliga-easports/results"
+   ],
+   "goals": [],
+   "updatedAt": "2026-11-07T01:47:36.540Z"
   },
   {
    "id": "laliga-2026-27-regular-r12-es-malaga-es-racing-santander",

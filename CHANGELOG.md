@@ -4271,3 +4271,11 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-07 (2026-11-06T22:36:00Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result bundesliga-2026-27-regular-r09-de-hamburger-sv-de-borussia-monchengladbach 3-1 FT
+
+## 2026-11-07 (2026-11-07T01:36:44Z)
+- 5 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r12-es-sevilla-es-alaves 0-0 FT
+  - ✓ result ucl-2026-27-league-phase-r04-gr-aek-athens-es-real-madrid added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r04-de-borussia-dortmund-es-real-betis added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r04-no-viking-az-sabah added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r04-pt-porto-it-napoli added scorers to the confirmed result

@@ -1,0 +1,201 @@
+{
+ "run": "2026-11-07T01:36:44Z",
+ "changes": [
+  {
+   "op": "result",
+   "match": "laliga-2026-27-regular-r12-es-sevilla-es-alaves",
+   "status": "FT",
+   "score": [
+    0,
+    0
+   ],
+   "goals": [],
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-gr-aek-athens-es-real-madrid",
+   "status": "FT",
+   "score": [
+    2,
+    3
+   ],
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Aboubakary Koïta",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "Jude Bellingham",
+     "type": "goal"
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Stavros Pilios",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Kylian Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "away",
+     "player": "Federico Valverde",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.skysports.com/football/aek-athens-vs-real-madrid/577660"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-de-borussia-dortmund-es-real-betis",
+   "status": "FT",
+   "score": [
+    2,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "Fábio Silva",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "away",
+     "player": "Aitor Ruibal",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Konstantinos Karetsas",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.skysports.com/football/borussia-dortmund-vs-real-betis/577661"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-no-viking-az-sabah",
+   "status": "FT",
+   "score": [
+    4,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Orphé Mbina",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Erik Botheim",
+     "type": "goal"
+    },
+    {
+     "minute": 69,
+     "side": "home",
+     "player": "Zlatko Tripic",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "Henrik Falchener",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 4,
+     "side": "home",
+     "player": "Erik Botheim",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.skysports.com/football/viking-vs-sabah/577668"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "ucl-2026-27-league-phase-r04-pt-porto-it-napoli",
+   "status": "FT",
+   "score": [
+    4,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Jan Bednarek",
+     "type": "goal"
+    },
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Scott McTominay",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Gabri Veiga",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Jakub Kiwior",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Samu Aghehowa",
+     "type": "penalty"
+    }
+   ],
+   "sources": [
+    "https://www.skysports.com/football/fc-porto-vs-napoli/577662"
+   ]
+  }
+ ],
+ "unconfirmed": [
+  {
+   "match": "epl-2026-27-regular-r10-gb-eng-everton-gb-eng-coventry-city",
+   "claim": "3-1",
+   "sources": [
+    "https://www.skysports.com/football/everton-vs-coventry-city/5934059159310513232",
+    "https://www.skysports.com/premier-league-scores-fixtures"
+   ]
+  },
+  {
+   "match": "serie-a-2026-27-regular-r11-it-venezia-it-udinese",
+   "claim": "2-1",
+   "sources": [
+    "https://www.skysports.com/udinese-scores-fixtures"
+   ]
+  }
+ ]
+}
