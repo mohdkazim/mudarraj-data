@@ -4197,14 +4197,43 @@
    "away": "de-bayer-leverkusen",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261108&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/cologne-bayer-leverkusen-match-report-highlights-matchday-9-39945",
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 7,
+     "side": "away",
+     "player": "Aleix García",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "away",
+     "player": "Patrik Schick",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "home",
+     "player": "Saïd El Mala",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-08T18:42:02.122Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r09-de-sc-freiburg-de-union-berlin",
