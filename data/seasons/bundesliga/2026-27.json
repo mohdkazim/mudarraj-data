@@ -4306,9 +4306,30 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-uk/football/match/bundesliga-25/hoffenheim-schalke-04-335-351-25"
+    "https://www.365scores.com/en-uk/football/match/bundesliga-25/hoffenheim-schalke-04-335-351-25",
+    "https://www.bundesliga.com/de/bundesliga/news/tsg-hoffenheim-fc-schalke-04-spieltag-9-spielbericht-highlights-39950"
    ],
-   "updatedAt": "2026-11-08T20:39:39.944Z"
+   "updatedAt": "2026-11-08T20:39:39.944Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Fisnik Asllani",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Tim Lemperle",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "Junior Adamu",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "bundesliga-2026-27-regular-r10-de-bayern-munich-de-fc-koln",

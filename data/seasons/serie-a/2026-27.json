@@ -5012,7 +5012,21 @@
    "sources": [
     "https://www.365scores.com/en-us/football/match/serie-a-17/como-inter-milan-224-6117-17"
    ],
-   "updatedAt": "2026-11-08T20:39:39.944Z"
+   "updatedAt": "2026-11-08T20:39:39.944Z",
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Pio Esposito",
+     "type": "goal"
+    },
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Marcus Thuram",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "serie-a-2026-27-regular-r11-it-fiorentina-it-juventus",

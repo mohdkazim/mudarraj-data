@@ -1,0 +1,28 @@
+{
+  "run": "2026-11-08T21:35:40Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r12-es-celta-vigo-es-levante", "status": "FT", "score": [0,0], "ht": [0,0],
+      "sources": ["https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r12-es-elche-es-real-betis", "status": "FT", "score": [0,2],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r12-es-real-sociedad-es-rayo-vallecano", "status": "FT", "score": [1,0],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"] },
+    { "op": "result", "match": "bundesliga-2026-27-regular-r09-de-tsg-hoffenheim-de-schalke-04", "status": "FT", "score": [2,1], "ht": [2,0],
+      "goals": [
+        { "minute": 10, "side": "home", "player": "Fisnik Asllani", "type": "goal" },
+        { "minute": 26, "side": "home", "player": "Tim Lemperle", "type": "goal" },
+        { "minute": 81, "side": "away", "player": "Junior Adamu", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/de/bundesliga/news/tsg-hoffenheim-fc-schalke-04-spieltag-9-spielbericht-highlights-39950"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-inter-milan-it-como", "status": "FT", "score": [2,0], "ht": [2,0],
+      "goals": [
+        { "minute": 12, "side": "home", "player": "Pio Esposito", "type": "goal" },
+        { "minute": 19, "side": "home", "player": "Marcus Thuram", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/serie-a-17/como-inter-milan-224-6117-17"] }
+  ],
+  "unconfirmed": [
+    { "match": "laliga-2026-27-regular-r12-es-villarreal-es-getafe", "claim": "2-0",
+      "sources": ["https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"] }
+  ]
+}

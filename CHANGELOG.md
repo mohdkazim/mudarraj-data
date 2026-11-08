@@ -4363,3 +4363,11 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result bundesliga-2026-27-regular-r09-de-tsg-hoffenheim-de-schalke-04 2-1 FT
   - ✓ result serie-a-2026-27-regular-r11-it-monza-it-atalanta 0-1 FT
   - ✓ result serie-a-2026-27-regular-r11-it-genoa-it-ac-milan 1-2 FT
+
+## 2026-11-09 (2026-11-08T21:35:40Z)
+- 5 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r12-es-celta-vigo-es-levante 0-0 FT
+  - ✓ result laliga-2026-27-regular-r12-es-elche-es-real-betis 0-2 FT
+  - ✓ result laliga-2026-27-regular-r12-es-real-sociedad-es-rayo-vallecano 1-0 FT
+  - ✓ result bundesliga-2026-27-regular-r09-de-tsg-hoffenheim-de-schalke-04 added scorers to the confirmed result
+  - ✓ result serie-a-2026-27-regular-r11-it-inter-milan-it-como added scorers to the confirmed result

@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-08T20:39:40.092Z",
+ "generatedAt": "2026-11-08T21:38:03.806Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1918,
-  "results": 883,
-  "pending": 3
+  "results": 886,
+  "pending": 2
  },
  "teams": [
   {
@@ -64506,8 +64506,11 @@
    "away": "es-real-betis",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Martínez Valero",
@@ -64520,9 +64523,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"
    ],
+   "updatedAt": "2026-11-08T21:38:03.680Z",
    "venueFrom": "home-ground"
   },
   {
@@ -64907,8 +64911,11 @@
    "away": "es-rayo-vallecano",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Reale Arena",
@@ -64921,9 +64928,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"
    ],
+   "updatedAt": "2026-11-08T21:38:03.680Z",
    "venueFrom": "home-ground"
   },
   {
@@ -65153,6 +65161,20 @@
     "https://www.365scores.com/en-us/football/match/serie-a-17/como-inter-milan-224-6117-17"
    ],
    "updatedAt": "2026-11-08T20:39:39.944Z",
+   "goals": [
+    {
+     "minute": 12,
+     "side": "home",
+     "player": "Pio Esposito",
+     "type": "goal"
+    },
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Marcus Thuram",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -65171,8 +65193,15 @@
    "away": "es-levante",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Abanca-Balaídos",
@@ -65185,9 +65214,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"
    ],
+   "updatedAt": "2026-11-08T21:38:03.680Z",
    "venueFrom": "home-ground"
   },
   {
@@ -65262,9 +65291,30 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-uk/football/match/bundesliga-25/hoffenheim-schalke-04-335-351-25"
+    "https://www.365scores.com/en-uk/football/match/bundesliga-25/hoffenheim-schalke-04-335-351-25",
+    "https://www.bundesliga.com/de/bundesliga/news/tsg-hoffenheim-fc-schalke-04-spieltag-9-spielbericht-highlights-39950"
    ],
    "updatedAt": "2026-11-08T20:39:39.944Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Fisnik Asllani",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "Tim Lemperle",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "Junior Adamu",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {

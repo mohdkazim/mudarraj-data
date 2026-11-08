@@ -5731,14 +5731,18 @@
    "away": "es-real-betis",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"
+   ],
+   "updatedAt": "2026-11-08T21:38:03.680Z"
   },
   {
    "id": "laliga-2026-27-regular-r12-es-real-sociedad-es-rayo-vallecano",
@@ -5754,14 +5758,18 @@
    "away": "es-rayo-vallecano",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"
+   ],
+   "updatedAt": "2026-11-08T21:38:03.680Z"
   },
   {
    "id": "laliga-2026-27-regular-r12-es-celta-vigo-es-levante",
@@ -5777,14 +5785,21 @@
    "away": "es-levante",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"
+   ],
+   "updatedAt": "2026-11-08T21:38:03.680Z"
   },
   {
    "id": "laliga-2026-27-regular-r12-es-villarreal-es-getafe",

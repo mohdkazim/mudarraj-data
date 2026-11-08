@@ -8,19 +8,11 @@
   "seen": "2026-11-07T19:35:40Z"
  },
  {
-  "match": "laliga-2026-27-regular-r12-es-elche-es-real-betis",
-  "claim": "0-2",
+  "match": "laliga-2026-27-regular-r12-es-villarreal-es-getafe",
+  "claim": "2-0",
   "sources": [
-   "https://www.skysports.com/football-scores-fixtures"
+   "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"
   ],
-  "seen": "2026-11-08T15:35:00Z"
- },
- {
-  "match": "laliga-2026-27-regular-r12-es-real-sociedad-es-rayo-vallecano",
-  "claim": "1-0",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures"
-  ],
-  "seen": "2026-11-08T19:35:00Z"
+  "seen": "2026-11-08T21:35:40Z"
  }
 ]
