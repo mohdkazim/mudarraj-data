@@ -6,5 +6,21 @@
    "https://www.skysports.com/football-scores-fixtures"
   ],
   "seen": "2026-11-07T19:35:40Z"
+ },
+ {
+  "match": "serie-a-2026-27-regular-r11-it-napoli-it-lazio",
+  "claim": "1-1",
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures"
+  ],
+  "seen": "2026-11-08T15:35:00Z"
+ },
+ {
+  "match": "laliga-2026-27-regular-r12-es-elche-es-real-betis",
+  "claim": "0-2",
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures"
+  ],
+  "seen": "2026-11-08T15:35:00Z"
  }
 ]

@@ -1,0 +1,25 @@
+{
+  "run": "2026-11-08T15:35:00Z",
+  "changes": [
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r08-ae-al-jazira-ae-al-wasl", "status": "FT", "score": [2,1], "ht": [1,0],
+      "goals": [
+        { "minute": 18, "side": "home", "player": "Vinicius Melo", "type": "goal" },
+        { "minute": 50, "side": "away", "player": "Nicolás Giménez", "type": "goal" },
+        { "minute": 73, "side": "home", "player": "Malcom", "type": "goal" }
+      ],
+      "sources": ["https://www.uaeproleague.ae/ar/fixtures/22e17f7f-7604-11f1-b32b-0289588efdb9", "https://www.albayan.ae/sports/uae-stadiums/1563604", "https://www.emaratalyoum.com/sports/local/2026-11-08-1.2100607"] },
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r08-ae-al-nasr-ae-united", "status": "FT", "score": [4,1],
+      "goals": [
+        { "minute": 8, "side": "away", "player": "Mahmoud Dahoud", "type": "goal" },
+        { "minute": 39, "side": "home", "player": "Ajdin Hrustic", "type": "goal" },
+        { "minute": 47, "side": "home", "player": "Kevin Ardila", "type": "goal" },
+        { "minute": 54, "side": "home", "player": "Kevin Ardila", "type": "goal" },
+        { "minute": 90, "extra": 5, "side": "home", "player": "Ramon Mierez", "type": "goal" }
+      ],
+      "sources": ["https://www.uaeproleague.ae/ar/fixtures/22e17f76-7604-11f1-b32b-0289588efdb9", "https://www.albayan.ae/sports/uae-stadiums/1563600"] }
+  ],
+  "unconfirmed": [
+    { "match": "serie-a-2026-27-regular-r11-it-napoli-it-lazio", "claim": "1-1", "sources": ["https://www.skysports.com/football-scores-fixtures"] },
+    { "match": "laliga-2026-27-regular-r12-es-elche-es-real-betis", "claim": "0-2", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+  ]
+}

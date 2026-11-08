@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-08T01:47:45.049Z",
+ "generatedAt": "2026-11-08T15:37:50.061Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 489,
-  "pending": 1
+  "results": 491,
+  "pending": 3
  },
  "teams": [
   {
@@ -40928,8 +40928,15 @@
    "away": "ae-al-wasl",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Mohammed bin Zayed Stadium",
@@ -40942,9 +40949,31 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f7f-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=8&s=2026-2027"
+    "https://www.uaeproleague.ae/ar/fixtures/22e17f7f-7604-11f1-b32b-0289588efdb9",
+    "https://www.albayan.ae/sports/uae-stadiums/1563604",
+    "https://www.emaratalyoum.com/sports/local/2026-11-08-1.2100607"
    ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "home",
+     "player": "Vinicius Melo",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Nicolás Giménez",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Malcom",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-08T15:37:49.900Z",
    "venueFrom": "home-ground"
   },
   {
@@ -40963,8 +40992,11 @@
    "away": "ae-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Al Maktoum Stadium",
@@ -40977,9 +41009,43 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f76-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=8&s=2026-2027"
+    "https://www.uaeproleague.ae/ar/fixtures/22e17f76-7604-11f1-b32b-0289588efdb9",
+    "https://www.albayan.ae/sports/uae-stadiums/1563600"
    ],
+   "goals": [
+    {
+     "minute": 8,
+     "side": "away",
+     "player": "Mahmoud Dahoud",
+     "type": "goal"
+    },
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "Ajdin Hrustic",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "home",
+     "player": "Kevin Ardila",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Kevin Ardila",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 5,
+     "side": "home",
+     "player": "Ramon Mierez",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-08T15:37:49.900Z",
    "venueFrom": "home-ground"
   },
   {
