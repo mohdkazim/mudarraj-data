@@ -4371,3 +4371,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result laliga-2026-27-regular-r12-es-real-sociedad-es-rayo-vallecano 1-0 FT
   - ✓ result bundesliga-2026-27-regular-r09-de-tsg-hoffenheim-de-schalke-04 added scorers to the confirmed result
   - ✓ result serie-a-2026-27-regular-r11-it-inter-milan-it-como added scorers to the confirmed result
+
+## 2026-11-09 (2026-11-08T22:35:47Z)
+- 1 change(s) applied, 0 rejected, 3 waiting for a second source
+  - ✓ result serie-a-2026-27-regular-r11-it-monza-it-atalanta added scorers to the confirmed result

@@ -4980,9 +4980,18 @@
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
     "https://www.365scores.com/en-us/football/match/serie-a-17/como-inter-milan-224-6117-17",
-    "https://www.365scores.com/football/match/serie-a-17/atalanta-monza-232-293-17"
+    "https://www.365scores.com/football/match/serie-a-17/atalanta-monza-232-293-17",
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/atalanta-monza-232-293-17"
    ],
-   "updatedAt": "2026-11-08T20:39:39.944Z"
+   "updatedAt": "2026-11-08T20:39:39.944Z",
+   "goals": [
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Nikola Krstovic",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "serie-a-2026-27-regular-r11-it-inter-milan-it-como",

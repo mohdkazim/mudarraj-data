@@ -1,0 +1,14 @@
+{
+  "run": "2026-11-08T22:35:47Z",
+  "changes": [
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-monza-it-atalanta", "status": "FT", "score": [0,1], "ht": [0,0],
+      "goals": [
+        { "minute": 49, "side": "away", "player": "Nikola Krstovic", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-uk/football/match/serie-a-17/atalanta-monza-232-293-17"] }
+  ],
+  "unconfirmed": [
+    { "match": "serie-a-2026-27-regular-r11-it-fiorentina-it-juventus", "claim": "2-2",
+      "sources": ["https://www.365scores.com/en-uk/football/match/serie-a-17/atalanta-monza-232-293-17"] }
+  ]
+}
