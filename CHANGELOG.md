@@ -4351,3 +4351,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-08 (2026-11-08T18:35:00Z)
 - 1 change(s) applied, 0 rejected, 4 waiting for a second source
   - ✓ result bundesliga-2026-27-regular-r09-de-fc-koln-de-bayer-leverkusen 1-2 FT
+
+## 2026-11-08 (2026-11-08T19:35:00Z)
+- 2 change(s) applied, 0 rejected, 5 waiting for a second source
+  - ✓ result bundesliga-2026-27-regular-r09-de-sc-freiburg-de-union-berlin 2-0 FT
+  - ✓ result epl-2026-27-regular-r10-gb-eng-manchester-united-gb-eng-aston-villa 4-4 FT

@@ -1,0 +1,16 @@
+{
+  "run": "2026-11-08T19:35:00Z",
+  "changes": [
+    { "op": "result", "match": "bundesliga-2026-27-regular-r09-de-sc-freiburg-de-union-berlin", "status": "FT", "score": [2,0], "ht": [0,0],
+      "goals": [
+        { "minute": 56, "side": "home", "player": "Rani Khedira", "type": "own-goal" },
+        { "minute": 67, "side": "home", "player": "Yuito Suzuki", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/sport-club-freiburg-union-berlin-match-report-highlights-matchday-9-39948", "https://www.skysports.com/football-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r10-gb-eng-manchester-united-gb-eng-aston-villa", "status": "FT", "score": [4,4],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.thenationalnews.com/sport/football/2026/11/08/man-united-battle-for-a-point-against-aston-villa-after-old-trafford-goal-fest/"] }
+  ],
+  "unconfirmed": [
+    { "match": "laliga-2026-27-regular-r12-es-real-sociedad-es-rayo-vallecano", "claim": "1-0", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+  ]
+}

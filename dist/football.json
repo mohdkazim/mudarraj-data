@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-08T18:42:02.263Z",
+ "generatedAt": "2026-11-08T19:38:31.851Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 497,
-  "pending": 4
+  "results": 498,
+  "pending": 5
  },
  "teams": [
   {
@@ -41444,8 +41444,11 @@
    "away": "gb-eng-aston-villa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 4
+   },
    "venue": {
     "name": {
      "en": "Old Trafford",
@@ -41458,9 +41461,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.thenationalnews.com/sport/football/2026/11/08/man-united-battle-for-a-point-against-aston-villa-after-old-trafford-goal-fest/"
    ],
+   "updatedAt": "2026-11-08T19:38:31.684Z",
    "venueFrom": "home-ground"
   },
   {
