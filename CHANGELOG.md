@@ -4356,3 +4356,10 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 5 waiting for a second source
   - ✓ result bundesliga-2026-27-regular-r09-de-sc-freiburg-de-union-berlin 2-0 FT
   - ✓ result epl-2026-27-regular-r10-gb-eng-manchester-united-gb-eng-aston-villa 4-4 FT
+
+## 2026-11-09 (2026-11-08T20:35:00Z)
+- 4 change(s) applied, 0 rejected, 3 waiting for a second source
+  - ✓ result serie-a-2026-27-regular-r11-it-inter-milan-it-como 2-0 FT
+  - ✓ result bundesliga-2026-27-regular-r09-de-tsg-hoffenheim-de-schalke-04 2-1 FT
+  - ✓ result serie-a-2026-27-regular-r11-it-monza-it-atalanta 0-1 FT
+  - ✓ result serie-a-2026-27-regular-r11-it-genoa-it-ac-milan 1-2 FT

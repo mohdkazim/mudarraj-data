@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-08T19:38:31.851Z",
+ "generatedAt": "2026-11-08T20:39:40.092Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1918,
-  "results": 879,
-  "pending": 5
+  "results": 883,
+  "pending": 3
  },
  "teams": [
   {
@@ -64760,8 +64760,11 @@
    "away": "it-ac-milan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Stadio Luigi Ferraris",
@@ -64774,9 +64777,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261108&limit=37"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/en-us/football/match/serie-a-17/como-inter-milan-224-6117-17"
    ],
+   "updatedAt": "2026-11-08T20:39:39.944Z",
    "venueFrom": "home-ground"
   },
   {
@@ -64795,8 +64799,15 @@
    "away": "it-atalanta",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadio Brianteo",
@@ -64809,9 +64820,11 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261108&limit=37"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/en-us/football/match/serie-a-17/como-inter-milan-224-6117-17",
+    "https://www.365scores.com/football/match/serie-a-17/atalanta-monza-232-293-17"
    ],
+   "updatedAt": "2026-11-08T20:39:39.944Z",
    "venueFrom": "home-ground"
   },
   {
@@ -65116,8 +65129,15 @@
    "away": "it-como",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "San Siro",
@@ -65130,9 +65150,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261108&limit=37"
+    "https://www.365scores.com/en-us/football/match/serie-a-17/como-inter-milan-224-6117-17"
    ],
+   "updatedAt": "2026-11-08T20:39:39.944Z",
    "venueFrom": "home-ground"
   },
   {
@@ -65221,8 +65241,15 @@
    "away": "de-schalke-04",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "SNP Arena",
@@ -65235,9 +65262,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261108&limit=37"
+    "https://www.365scores.com/en-uk/football/match/bundesliga-25/hoffenheim-schalke-04-335-351-25"
    ],
+   "updatedAt": "2026-11-08T20:39:39.944Z",
    "venueFrom": "home-ground"
   },
   {

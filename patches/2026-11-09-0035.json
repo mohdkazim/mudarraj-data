@@ -1,0 +1,17 @@
+{
+  "run": "2026-11-08T20:35:00Z",
+  "changes": [
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-inter-milan-it-como", "status": "FT", "score": [2,0], "ht": [2,0],
+      "sources": ["https://www.365scores.com/en-us/football/match/serie-a-17/como-inter-milan-224-6117-17"] },
+    { "op": "result", "match": "bundesliga-2026-27-regular-r09-de-tsg-hoffenheim-de-schalke-04", "status": "FT", "score": [2,1], "ht": [2,0],
+      "sources": ["https://www.365scores.com/en-uk/football/match/bundesliga-25/hoffenheim-schalke-04-335-351-25"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-monza-it-atalanta", "status": "FT", "score": [0,1], "ht": [0,0],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.365scores.com/en-us/football/match/serie-a-17/como-inter-milan-224-6117-17", "https://www.365scores.com/football/match/serie-a-17/atalanta-monza-232-293-17"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-genoa-it-ac-milan", "status": "FT", "score": [1,2],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.365scores.com/en-us/football/match/serie-a-17/como-inter-milan-224-6117-17"] }
+  ],
+  "unconfirmed": [
+    { "match": "laliga-2026-27-regular-r12-es-elche-es-real-betis", "claim": "0-2", "sources": ["https://www.skysports.com/football-scores-fixtures"] },
+    { "match": "laliga-2026-27-regular-r12-es-real-sociedad-es-rayo-vallecano", "claim": "1-0", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+  ]
+}
