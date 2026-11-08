@@ -1,0 +1,36 @@
+{
+  "run": "2026-11-08T02:30:00Z",
+  "changes": [
+    { "op": "result", "match": "epl-2026-27-regular-r10-gb-eng-everton-gb-eng-coventry-city", "status": "FT", "score": [3,1], "ht": [0,0],
+      "goals": [
+        { "minute": 52, "side": "away", "player": "Y Gboho", "type": "goal" },
+        { "minute": 56, "side": "home", "player": "T Barry", "type": "goal" },
+        { "minute": 61, "side": "home", "player": "T Barry", "type": "goal" },
+        { "minute": 81, "side": "home", "player": "K Dewsbury-Hall", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/premier-league-7/coventry-everton-24-107-7", "https://www.skysports.com/football/everton-vs-coventry-city/live/559537", "https://www.skysports.com/football/everton-vs-coventry-city/5934059159310513232"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-venezia-it-udinese", "status": "FT", "score": [2,1], "ht": [0,0],
+      "sources": ["https://www.365scores.com/en-uk/football/match/serie-a-17/udinese-venezia-229-308-17", "https://www.skysports.com/udinese-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r10-gb-eng-fulham-gb-eng-newcastle-united", "status": "FT", "score": [1,1],
+      "goals": [
+        { "minute": 80, "side": "away", "player": "J Murphy", "type": "goal" },
+        { "minute": 83, "side": "home", "player": "R Muniz Carvalho", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/fulham-vs-newcastle-united/live/559538"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gh-r04-my-kuching-city-kr-gangwon-fc", "status": "FT", "score": [2,0], "ht": [2,0],
+      "goals": [
+        { "minute": 13, "side": "home", "player": "Safawi Rasid", "type": "goal" },
+        { "minute": 20, "side": "home", "player": "Safawi Rasid", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/gangwon-fc-kuching-city-fc-9825-51307-568"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gg-r04-kh-pkr-svay-rieng-sg-tampines-rovers", "status": "FT", "score": [2,0], "ht": [1,0],
+      "goals": [
+        { "minute": 32, "side": "home", "player": "Tiago Alves", "type": "goal" },
+        { "minute": 78, "side": "home", "player": "Johannes Tartarotti", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/svay-rieng-tampines-rovers-2369-20457-568"] }
+  ],
+  "unconfirmed": [
+    { "match": "serie-a-2026-27-regular-r11-it-parma-it-bologna", "claim": "1-2", "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.skysports.com/football-scores-fixtures/2026-11-07"] }
+  ]
+}

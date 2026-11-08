@@ -2688,14 +2688,33 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-preah-khan-reach-svay-rieng-fc-cam-x-x-tampines-rovers-sgp-1"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-preah-khan-reach-svay-rieng-fc-cam-x-x-tampines-rovers-sgp-1",
+    "https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/svay-rieng-tampines-rovers-2369-20457-568"
    ],
-   "updatedAt": "2026-11-05T16:38:21.867Z"
+   "updatedAt": "2026-11-05T16:38:21.867Z",
+   "goals": [
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Tiago Alves",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "home",
+     "player": "Johannes Tartarotti",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acl2-2026-27-groups-gh-r04-my-kuching-city-kr-gangwon-fc",
@@ -2714,14 +2733,33 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-kuching-city-fc-mas-2-0-gangwon-fc-kor"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-kuching-city-fc-mas-2-0-gangwon-fc-kor",
+    "https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/gangwon-fc-kuching-city-fc-9825-51307-568"
    ],
-   "updatedAt": "2026-11-05T16:38:21.867Z"
+   "updatedAt": "2026-11-05T16:38:21.867Z",
+   "goals": [
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "Safawi Rasid",
+     "type": "goal"
+    },
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Safawi Rasid",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acl2-2026-27-groups-gd-r05-in-east-bengal-jo-al-hussein",

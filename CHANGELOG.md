@@ -4321,3 +4321,11 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 3 waiting for a second source
   - ✓ result bundesliga-2026-27-regular-r09-de-vfb-stuttgart-de-werder-bremen 1-0 FT
   - ✓ result serie-a-2026-27-regular-r11-it-roma-it-sassuolo 3-0 FT
+
+## 2026-11-08 (2026-11-08T02:30:00Z)
+- 5 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result epl-2026-27-regular-r10-gb-eng-everton-gb-eng-coventry-city 3-1 FT
+  - ✓ result serie-a-2026-27-regular-r11-it-venezia-it-udinese 2-1 FT
+  - ✓ result epl-2026-27-regular-r10-gb-eng-fulham-gb-eng-newcastle-united added scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gh-r04-my-kuching-city-kr-gangwon-fc added half-time and scorers to the confirmed result
+  - ✓ result acl2-2026-27-groups-gg-r04-kh-pkr-svay-rieng-sg-tampines-rovers added half-time and scorers to the confirmed result

@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-07T22:42:58.567Z",
+ "generatedAt": "2026-11-08T01:47:45.049Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 488,
-  "pending": 3
+  "results": 489,
+  "pending": 1
  },
  "teams": [
   {
@@ -40213,7 +40213,11 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -40227,9 +40231,24 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-preah-khan-reach-svay-rieng-fc-cam-x-x-tampines-rovers-sgp-1"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-preah-khan-reach-svay-rieng-fc-cam-x-x-tampines-rovers-sgp-1",
+    "https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/svay-rieng-tampines-rovers-2369-20457-568"
    ],
    "updatedAt": "2026-11-05T16:38:21.867Z",
+   "goals": [
+    {
+     "minute": 32,
+     "side": "home",
+     "player": "Tiago Alves",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "home",
+     "player": "Johannes Tartarotti",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -40251,7 +40270,11 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -40265,9 +40288,24 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-kuching-city-fc-mas-2-0-gangwon-fc-kor"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-kuching-city-fc-mas-2-0-gangwon-fc-kor",
+    "https://www.365scores.com/en-uk/football/match/afc-champions-league-two-568/gangwon-fc-kuching-city-fc-9825-51307-568"
    ],
    "updatedAt": "2026-11-05T16:38:21.867Z",
+   "goals": [
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "Safawi Rasid",
+     "type": "goal"
+    },
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Safawi Rasid",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -40286,8 +40324,15 @@
    "away": "gb-eng-coventry-city",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Hill Dickinson Stadium",
@@ -40300,9 +40345,37 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/premier-league-7/coventry-everton-24-107-7",
+    "https://www.skysports.com/football/everton-vs-coventry-city/live/559537",
+    "https://www.skysports.com/football/everton-vs-coventry-city/5934059159310513232"
    ],
+   "goals": [
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Y Gboho",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "home",
+     "player": "T Barry",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "T Barry",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "home",
+     "player": "K Dewsbury-Hall",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-08T01:47:44.903Z",
    "venueFrom": "home-ground"
   },
   {
@@ -40577,9 +40650,24 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-uk/football/match/premier-league-7/manchester-city-nottingham-forest-29-110-7",
-    "https://www.skysports.com/football-scores-fixtures"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.skysports.com/football/fulham-vs-newcastle-united/live/559538"
    ],
    "updatedAt": "2026-11-07T20:43:45.018Z",
+   "goals": [
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "J Murphy",
+     "type": "goal"
+    },
+    {
+     "minute": 83,
+     "side": "home",
+     "player": "R Muniz Carvalho",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
