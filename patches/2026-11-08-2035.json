@@ -1,0 +1,30 @@
+{
+  "run": "2026-11-08T16:36:00Z",
+  "changes": [
+    { "op": "result", "match": "epl-2026-27-regular-r10-gb-eng-crystal-palace-gb-eng-liverpool", "status": "FT", "score": [1,3], "ht": [0,1],
+      "goals": [
+        { "minute": 40, "side": "away", "player": "Alexis Mac Allister", "type": "goal" },
+        { "minute": 54, "side": "away", "player": "Florian Wirtz", "type": "goal" },
+        { "minute": 89, "side": "away", "player": "Alexander Isak", "type": "goal" },
+        { "minute": 90, "extra": 5, "side": "home", "player": "Eddie Nketiah", "type": "penalty" }
+      ],
+      "sources": ["https://www.365scores.com/football/match/premier-league-7/crystal-palace-liverpool-10-108-7", "https://www.skysports.com/football/crystal-palace-vs-liverpool/5442425909523012232"] },
+    { "op": "result", "match": "epl-2026-27-regular-r10-gb-eng-brighton-gb-eng-brentford", "status": "FT", "score": [2,0],
+      "sources": ["https://www.365scores.com/football/match/premier-league-7/crystal-palace-liverpool-10-108-7", "https://skysports.com/football/news/13593207/brighton-x-x-brentford"] },
+    { "op": "result", "match": "epl-2026-27-regular-r10-gb-eng-ipswich-town-gb-eng-bournemouth", "status": "FT", "score": [1,2],
+      "goals": [
+        { "minute": 5, "side": "away", "player": "Evanilson", "type": "goal" },
+        { "minute": 46, "side": "away", "player": "L Davis", "type": "own-goal" },
+        { "minute": 73, "side": "home", "player": "J Clarke", "type": "penalty" }
+      ],
+      "sources": ["https://www.365scores.com/football/match/premier-league-7/crystal-palace-liverpool-10-108-7", "https://skysports.com/football/ipswich-town-vs-bournemouth/559539"] },
+    { "op": "result", "match": "epl-2026-27-regular-r10-gb-eng-sunderland-gb-eng-chelsea", "status": "FT", "score": [1,0], "ht": [1,0],
+      "goals": [
+        { "minute": 36, "side": "home", "player": "Enzo Le Fee", "type": "penalty" }
+      ],
+      "sources": ["https://www.365scores.com/football/match/premier-league-7/crystal-palace-liverpool-10-108-7", "https://www.skysports.com/football/sunderland-vs-chelsea/6275693211850041232"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-napoli-it-lazio", "status": "FT", "score": [1,1],
+      "sources": ["https://www.365scores.com/football/match/serie-a-17/atalanta-monza-232-293-17", "https://www.skysports.com/football-scores-fixtures"] }
+  ],
+  "unconfirmed": []
+}

@@ -4334,3 +4334,11 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 3 waiting for a second source
   - ✓ result uae-pro-league-2026-27-regular-r08-ae-al-jazira-ae-al-wasl 2-1 FT
   - ✓ result uae-pro-league-2026-27-regular-r08-ae-al-nasr-ae-united 4-1 FT
+
+## 2026-11-08 (2026-11-08T16:36:00Z)
+- 5 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result epl-2026-27-regular-r10-gb-eng-crystal-palace-gb-eng-liverpool 1-3 FT
+  - ✓ result epl-2026-27-regular-r10-gb-eng-brighton-gb-eng-brentford 2-0 FT
+  - ✓ result epl-2026-27-regular-r10-gb-eng-ipswich-town-gb-eng-bournemouth 1-2 FT
+  - ✓ result epl-2026-27-regular-r10-gb-eng-sunderland-gb-eng-chelsea 1-0 FT
+  - ✓ result serie-a-2026-27-regular-r11-it-napoli-it-lazio 1-1 FT

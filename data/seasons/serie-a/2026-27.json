@@ -4912,13 +4912,18 @@
    "away": "it-lazio",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261108&limit=37"
-   ]
+    "https://www.365scores.com/football/match/serie-a-17/atalanta-monza-232-293-17",
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-08T16:39:30.731Z"
   },
   {
    "id": "serie-a-2026-27-regular-r11-it-genoa-it-ac-milan",

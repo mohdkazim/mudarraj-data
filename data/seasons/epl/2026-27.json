@@ -4420,14 +4420,18 @@
    "away": "gb-eng-brentford",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/premier-league-7/crystal-palace-liverpool-10-108-7",
+    "https://skysports.com/football/news/13593207/brighton-x-x-brentford"
+   ],
+   "updatedAt": "2026-11-08T16:39:30.731Z"
   },
   {
    "id": "epl-2026-27-regular-r10-gb-eng-crystal-palace-gb-eng-liverpool",
@@ -4443,14 +4447,49 @@
    "away": "gb-eng-liverpool",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 3,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/premier-league-7/crystal-palace-liverpool-10-108-7",
+    "https://www.skysports.com/football/crystal-palace-vs-liverpool/5442425909523012232"
+   ],
+   "goals": [
+    {
+     "minute": 40,
+     "side": "away",
+     "player": "Alexis Mac Allister",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "away",
+     "player": "Florian Wirtz",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Alexander Isak",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 5,
+     "side": "home",
+     "player": "Eddie Nketiah",
+     "type": "penalty"
+    }
+   ],
+   "updatedAt": "2026-11-08T16:39:30.731Z"
   },
   {
    "id": "epl-2026-27-regular-r10-gb-eng-ipswich-town-gb-eng-bournemouth",
@@ -4466,14 +4505,38 @@
    "away": "gb-eng-bournemouth",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/premier-league-7/crystal-palace-liverpool-10-108-7",
+    "https://skysports.com/football/ipswich-town-vs-bournemouth/559539"
+   ],
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Evanilson",
+     "type": "goal"
+    },
+    {
+     "minute": 46,
+     "side": "away",
+     "player": "L Davis",
+     "type": "own-goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "J Clarke",
+     "type": "penalty"
+    }
+   ],
+   "updatedAt": "2026-11-08T16:39:30.731Z"
   },
   {
    "id": "epl-2026-27-regular-r10-gb-eng-sunderland-gb-eng-chelsea",
@@ -4489,14 +4552,30 @@
    "away": "gb-eng-chelsea",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=10&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/premier-league-7/crystal-palace-liverpool-10-108-7",
+    "https://www.skysports.com/football/sunderland-vs-chelsea/6275693211850041232"
+   ],
+   "goals": [
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Enzo Le Fee",
+     "type": "penalty"
+    }
+   ],
+   "updatedAt": "2026-11-08T16:39:30.731Z"
   },
   {
    "id": "epl-2026-27-regular-r10-gb-eng-manchester-united-gb-eng-aston-villa",
