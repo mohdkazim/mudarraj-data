@@ -1,0 +1,19 @@
+{
+  "run": "2026-11-08T17:36:25Z",
+  "changes": [
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r08-ae-ajman-ae-bani-yas", "status": "FT", "score": [1,1],
+      "goals": [
+        { "minute": 48, "side": "away", "player": "Saviour Amunde Godwin", "type": "goal" },
+        { "minute": 71, "side": "home", "player": "Victor Hugo Ramos de Souza", "type": "goal" }
+      ],
+      "sources": ["https://www.uaeproleague.ae/ar/fixtures/22e17f78-7604-11f1-b32b-0289588efdb9"] },
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r08-ae-al-wahda-ae-al-ain", "status": "FT", "score": [0,0],
+      "goals": [],
+      "sources": ["https://www.uaeproleague.ae/ar/fixtures/22e17f7e-7604-11f1-b32b-0289588efdb9"] }
+  ],
+  "unconfirmed": [
+    { "match": "serie-a-2026-27-regular-r11-it-genoa-it-ac-milan", "claim": "1-2", "sources": ["https://www.skysports.com/football-scores-fixtures"] },
+    { "match": "serie-a-2026-27-regular-r11-it-monza-it-atalanta", "claim": "0-1", "sources": ["https://www.skysports.com/football-scores-fixtures"] },
+    { "match": "bundesliga-2026-27-regular-r09-de-fc-koln-de-bayer-leverkusen", "claim": "1-2", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+  ]
+}

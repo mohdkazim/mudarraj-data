@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-08T16:39:30.917Z",
+ "generatedAt": "2026-11-08T17:43:45.202Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1918,
-  "results": 874,
-  "pending": 2
+  "results": 876,
+  "pending": 5
  },
  "teams": [
   {
@@ -64900,8 +64900,11 @@
    "away": "ae-bani-yas",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Rashid bin Saeed Stadium",
@@ -64914,9 +64917,23 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f78-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=8&s=2026-2027"
+    "https://www.uaeproleague.ae/ar/fixtures/22e17f78-7604-11f1-b32b-0289588efdb9"
    ],
+   "goals": [
+    {
+     "minute": 48,
+     "side": "away",
+     "player": "Saviour Amunde Godwin",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Victor Hugo Ramos de Souza",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-08T17:43:45.050Z",
    "venueFrom": "home-ground"
   },
   {
@@ -64935,8 +64952,11 @@
    "away": "ae-al-ain",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Al Nahyan Stadium",
@@ -64949,9 +64969,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f7e-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=8&s=2026-2027"
+    "https://www.uaeproleague.ae/ar/fixtures/22e17f7e-7604-11f1-b32b-0289588efdb9"
    ],
+   "goals": [],
+   "updatedAt": "2026-11-08T17:43:45.050Z",
    "venueFrom": "home-ground"
   },
   {

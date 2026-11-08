@@ -4342,3 +4342,8 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result epl-2026-27-regular-r10-gb-eng-ipswich-town-gb-eng-bournemouth 1-2 FT
   - ✓ result epl-2026-27-regular-r10-gb-eng-sunderland-gb-eng-chelsea 1-0 FT
   - ✓ result serie-a-2026-27-regular-r11-it-napoli-it-lazio 1-1 FT
+
+## 2026-11-08 (2026-11-08T17:36:25Z)
+- 2 change(s) applied, 0 rejected, 5 waiting for a second source
+  - ✓ result uae-pro-league-2026-27-regular-r08-ae-ajman-ae-bani-yas 1-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r08-ae-al-wahda-ae-al-ain 0-0 FT
