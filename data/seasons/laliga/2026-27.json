@@ -5708,14 +5708,23 @@
    "away": "es-real-madrid",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-09T01:48:51.475Z"
   },
   {
    "id": "laliga-2026-27-regular-r12-es-elche-es-real-betis",
@@ -5815,14 +5824,18 @@
    "away": "es-getafe",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.skysports.com/la-liga-scores-fixtures",
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11"
+   ],
+   "updatedAt": "2026-11-09T01:48:51.475Z"
   },
   {
    "id": "laliga-2026-27-regular-r12-es-atletico-madrid-es-barcelona",
@@ -5838,14 +5851,18 @@
    "away": "es-barcelona",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ]
+    "https://www.skysports.com/la-liga-scores-fixtures",
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11"
+   ],
+   "updatedAt": "2026-11-09T01:48:51.475Z"
   },
   {
    "id": "laliga-2026-27-regular-r13-es-athletic-club-es-espanyol",

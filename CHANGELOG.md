@@ -4375,3 +4375,17 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-09 (2026-11-08T22:35:47Z)
 - 1 change(s) applied, 0 rejected, 3 waiting for a second source
   - ✓ result serie-a-2026-27-regular-r11-it-monza-it-atalanta added scorers to the confirmed result
+
+## 2026-11-09 (2026-11-09T02:30:00Z)
+- 11 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r12-es-valencia-es-real-madrid 0-3 FT
+  - ✓ result serie-a-2026-27-regular-r11-it-parma-it-bologna 1-2 FT
+  - ✓ result laliga-2026-27-regular-r12-es-villarreal-es-getafe 2-0 FT
+  - ✓ result laliga-2026-27-regular-r12-es-atletico-madrid-es-barcelona 1-2 FT
+  - ✓ result serie-a-2026-27-regular-r11-it-fiorentina-it-juventus 2-2 FT
+  - ✓ result epl-2026-27-regular-r10-gb-eng-nottingham-forest-gb-eng-manchester-city added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r10-gb-eng-brighton-gb-eng-brentford added scorers to the confirmed result
+  - ✓ result bundesliga-2026-27-regular-r09-de-rb-leipzig-de-fc-augsburg added half-time and scorers to the confirmed result
+  - ✓ result bundesliga-2026-27-regular-r09-de-sc-paderborn-de-eintracht-frankfurt added half-time and scorers to the confirmed result
+  - ✓ table-check epl overall reference table epl overall (20 rows)
+  - ✓ table-check laliga overall reference table laliga overall (20 rows)

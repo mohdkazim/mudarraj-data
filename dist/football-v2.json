@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-08T22:38:21.534Z",
+ "generatedAt": "2026-11-09T01:49:01.562Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1918,
-  "results": 886,
-  "pending": 3
+  "results": 891,
+  "pending": 0
  },
  "teams": [
   {
@@ -63702,7 +63702,11 @@
    "status": "FT",
    "score": {
     "home": 5,
-    "away": 2
+    "away": 2,
+    "ht": [
+     3,
+     1
+    ]
    },
    "venue": {
     "name": {
@@ -63717,9 +63721,56 @@
    "neutral": false,
    "sources": [
     "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/1-fsv-mainz-05-vs-fc-bayern-muenchen/liveticker",
-    "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+    "https://www.skysports.com/football-scores-fixtures?hl=en-GB",
+    "https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-augsburg-match-report-highlights-matchday-9-39921"
    ],
    "updatedAt": "2026-11-07T17:42:33.890Z",
+   "goals": [
+    {
+     "minute": 1,
+     "side": "away",
+     "player": "Anton Kade",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "Ezechiel Banzuzi",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Christopher Nkunku",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "home",
+     "player": "David Raum",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Rômulo",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "Christoph Baumgartner",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 3,
+     "side": "away",
+     "player": "Uchenna Ogundu",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -63741,15 +63792,48 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 2
+    "away": 2,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/1-fsv-mainz-05-vs-fc-bayern-muenchen/liveticker",
-    "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+    "https://www.skysports.com/football-scores-fixtures?hl=en-GB",
+    "https://www.bundesliga.com/en/bundesliga/news/paderborn-eintracht-frankfurt-match-report-highlights-matchday-9-39920",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/sc-paderborn-07-vs-eintracht-frankfurt/liveticker"
    ],
-   "updatedAt": "2026-11-07T17:42:33.890Z"
+   "updatedAt": "2026-11-07T17:42:33.890Z",
+   "goals": [
+    {
+     "minute": 23,
+     "side": "away",
+     "player": "Jonathan Burkardt",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Raphael Obermair",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Marvin Pieringer",
+     "type": "penalty"
+    },
+    {
+     "minute": 90,
+     "extra": 3,
+     "side": "away",
+     "player": "Jonathan Burkardt",
+     "type": "goal"
+    }
+   ]
   },
   {
    "competition": "saudi-pro-league",
@@ -64030,8 +64114,15 @@
    "away": "it-bologna",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadio Ennio Tardini",
@@ -64044,9 +64135,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261107&limit=37"
+    "https://www.365scores.com/en-us/football/match/serie-a-17/bologna-parma-241-245-17",
+    "https://www.skysports.com/serie-a-scores-fixtures"
    ],
+   "updatedAt": "2026-11-09T01:48:51.475Z",
    "venueFrom": "home-ground"
   },
   {
@@ -64137,9 +64229,36 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-uk/football/match/premier-league-7/manchester-city-nottingham-forest-29-110-7"
+    "https://www.365scores.com/en-uk/football/match/premier-league-7/manchester-city-nottingham-forest-29-110-7",
+    "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/live/559542"
    ],
    "updatedAt": "2026-11-07T20:43:45.018Z",
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "J Paula da Cunha Filho",
+     "type": "goal"
+    },
+    {
+     "minute": 18,
+     "side": "home",
+     "player": "L Delap",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "M Cherki",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "L Delap",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -64296,8 +64415,15 @@
    "away": "es-real-madrid",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": {
     "name": {
      "en": "Mestalla",
@@ -64310,9 +64436,11 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11",
+    "https://www.skysports.com/la-liga-scores-fixtures"
    ],
+   "updatedAt": "2026-11-09T01:48:51.475Z",
    "venueFrom": "home-ground"
   },
   {
@@ -64563,9 +64691,24 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/football/match/premier-league-7/crystal-palace-liverpool-10-108-7",
-    "https://skysports.com/football/news/13593207/brighton-x-x-brentford"
+    "https://skysports.com/football/news/13593207/brighton-x-x-brentford",
+    "https://www.skysports.com/football/brighton-and-hove-albion-vs-brentford/5565576225764913232"
    ],
    "updatedAt": "2026-11-08T16:39:30.731Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "D Gómez",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "P Groß",
+     "type": "penalty"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -65244,8 +65387,11 @@
    "away": "es-getafe",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Estadio de la Cerámica",
@@ -65258,9 +65404,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.skysports.com/la-liga-scores-fixtures",
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11"
    ],
+   "updatedAt": "2026-11-09T01:48:51.475Z",
    "venueFrom": "home-ground"
   },
   {
@@ -65342,8 +65489,11 @@
    "away": "it-juventus",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Stadio Artemio Franchi",
@@ -65356,8 +65506,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261108&limit=37"
+    "https://www.skysports.com/serie-a-scores-fixtures",
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/atalanta-monza-232-293-17"
    ],
+   "updatedAt": "2026-11-09T01:48:51.475Z",
    "venueFrom": "home-ground"
   },
   {
@@ -65376,8 +65528,11 @@
    "away": "es-barcelona",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Riyadh Air Metropolitano",
@@ -65390,9 +65545,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.skysports.com/la-liga-scores-fixtures",
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11"
    ],
+   "updatedAt": "2026-11-09T01:48:51.475Z",
    "venueFrom": "home-ground"
   },
   {

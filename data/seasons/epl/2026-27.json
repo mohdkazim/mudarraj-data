@@ -4402,9 +4402,36 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-uk/football/match/premier-league-7/manchester-city-nottingham-forest-29-110-7"
+    "https://www.365scores.com/en-uk/football/match/premier-league-7/manchester-city-nottingham-forest-29-110-7",
+    "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/live/559542"
    ],
-   "updatedAt": "2026-11-07T20:43:45.018Z"
+   "updatedAt": "2026-11-07T20:43:45.018Z",
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "J Paula da Cunha Filho",
+     "type": "goal"
+    },
+    {
+     "minute": 18,
+     "side": "home",
+     "player": "L Delap",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "M Cherki",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "L Delap",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r10-gb-eng-brighton-gb-eng-brentford",
@@ -4429,9 +4456,24 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/football/match/premier-league-7/crystal-palace-liverpool-10-108-7",
-    "https://skysports.com/football/news/13593207/brighton-x-x-brentford"
+    "https://skysports.com/football/news/13593207/brighton-x-x-brentford",
+    "https://www.skysports.com/football/brighton-and-hove-albion-vs-brentford/5565576225764913232"
    ],
-   "updatedAt": "2026-11-08T16:39:30.731Z"
+   "updatedAt": "2026-11-08T16:39:30.731Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "D Gómez",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "P Groß",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r10-gb-eng-crystal-palace-gb-eng-liverpool",

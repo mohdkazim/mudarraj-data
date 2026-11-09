@@ -2,16 +2,16 @@
  "competition": "epl",
  "season": "2026-27",
  "table": "overall",
- "asOf": "2026-11-01T16:46:00Z",
+ "asOf": "2026-11-07T19:04:00Z",
  "rows": [
   {
    "team": "gb-eng-arsenal",
-   "played": 9,
-   "points": 24
+   "played": 10,
+   "points": 27
   },
   {
    "team": "gb-eng-manchester-city",
-   "played": 9,
+   "played": 10,
    "points": 21
   },
   {
@@ -25,6 +25,11 @@
    "points": 16
   },
   {
+   "team": "gb-eng-everton",
+   "played": 10,
+   "points": 16
+  },
+  {
    "team": "gb-eng-liverpool",
    "played": 9,
    "points": 15
@@ -35,13 +40,23 @@
    "points": 14
   },
   {
+   "team": "gb-eng-leeds-united",
+   "played": 10,
+   "points": 14
+  },
+  {
    "team": "gb-eng-bournemouth",
    "played": 9,
    "points": 12
   },
   {
    "team": "gb-eng-tottenham-hotspur",
-   "played": 9,
+   "played": 10,
+   "points": 12
+  },
+  {
+   "team": "gb-eng-newcastle-united",
+   "played": 10,
    "points": 12
   },
   {
@@ -51,17 +66,7 @@
   },
   {
    "team": "gb-eng-hull-city",
-   "played": 9,
-   "points": 11
-  },
-  {
-   "team": "gb-eng-leeds-united",
-   "played": 9,
-   "points": 11
-  },
-  {
-   "team": "gb-eng-newcastle-united",
-   "played": 8,
+   "played": 10,
    "points": 11
   },
   {
@@ -70,18 +75,18 @@
    "points": 11
   },
   {
-   "team": "gb-eng-everton",
-   "played": 8,
+   "team": "gb-eng-fulham",
+   "played": 10,
    "points": 10
   },
   {
-   "team": "gb-eng-fulham",
-   "played": 9,
+   "team": "gb-eng-nottingham-forest",
+   "played": 10,
    "points": 9
   },
   {
    "team": "gb-eng-coventry-city",
-   "played": 9,
+   "played": 10,
    "points": 9
   },
   {
@@ -93,11 +98,6 @@
    "team": "gb-eng-crystal-palace",
    "played": 9,
    "points": 7
-  },
-  {
-   "team": "gb-eng-nottingham-forest",
-   "played": 9,
-   "points": 6
   },
   {
    "team": "gb-eng-sunderland",

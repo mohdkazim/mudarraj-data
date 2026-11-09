@@ -2,106 +2,106 @@
  "competition": "laliga",
  "season": "2026-27",
  "table": "overall",
- "asOf": "2026-10-25T12:00:00Z",
+ "asOf": "2026-11-08T08:00:00Z",
  "rows": [
   {
    "team": "es-barcelona",
-   "played": 9,
-   "points": 27
-  },
-  {
-   "team": "es-atletico-madrid",
-   "played": 10,
-   "points": 25
+   "played": 11,
+   "points": 30
   },
   {
    "team": "es-real-madrid",
-   "played": 9,
-   "points": 21
+   "played": 12,
+   "points": 30
+  },
+  {
+   "team": "es-atletico-madrid",
+   "played": 11,
+   "points": 28
   },
   {
    "team": "es-real-betis",
-   "played": 9,
-   "points": 19
+   "played": 11,
+   "points": 23
   },
   {
    "team": "es-real-sociedad",
-   "played": 9,
-   "points": 16
+   "played": 11,
+   "points": 19
   },
   {
    "team": "es-sevilla",
-   "played": 9,
+   "played": 12,
+   "points": 18
+  },
+  {
+   "team": "es-athletic-club",
+   "played": 11,
+   "points": 16
+  },
+  {
+   "team": "es-deportivo-la-coruna",
+   "played": 12,
+   "points": 15
+  },
+  {
+   "team": "es-racing-santander",
+   "played": 12,
    "points": 14
   },
   {
    "team": "es-alaves",
-   "played": 10,
-   "points": 12
+   "played": 12,
+   "points": 13
   },
   {
    "team": "es-villarreal",
-   "played": 10,
+   "played": 11,
    "points": 12
   },
   {
    "team": "es-celta-vigo",
-   "played": 9,
-   "points": 11
-  },
-  {
-   "team": "es-deportivo-la-coruna",
-   "played": 10,
-   "points": 11
-  },
-  {
-   "team": "es-osasuna",
-   "played": 9,
-   "points": 11
-  },
-  {
-   "team": "es-racing-santander",
-   "played": 10,
-   "points": 11
-  },
-  {
-   "team": "es-levante",
-   "played": 9,
-   "points": 10
-  },
-  {
-   "team": "es-elche",
-   "played": 10,
-   "points": 10
-  },
-  {
-   "team": "es-athletic-club",
-   "played": 8,
-   "points": 9
-  },
-  {
-   "team": "es-getafe",
-   "played": 9,
-   "points": 9
-  },
-  {
-   "team": "es-rayo-vallecano",
-   "played": 9,
-   "points": 9
+   "played": 11,
+   "points": 12
   },
   {
    "team": "es-espanyol",
+   "played": 12,
+   "points": 12
+  },
+  {
+   "team": "es-rayo-vallecano",
    "played": 10,
-   "points": 8
+   "points": 12
+  },
+  {
+   "team": "es-getafe",
+   "played": 11,
+   "points": 12
+  },
+  {
+   "team": "es-osasuna",
+   "played": 12,
+   "points": 12
+  },
+  {
+   "team": "es-elche",
+   "played": 11,
+   "points": 10
+  },
+  {
+   "team": "es-levante",
+   "played": 11,
+   "points": 10
   },
   {
    "team": "es-valencia",
-   "played": 10,
-   "points": 6
+   "played": 12,
+   "points": 9
   },
   {
    "team": "es-malaga",
-   "played": 10,
+   "played": 12,
    "points": 5
   }
  ],

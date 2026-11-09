@@ -4107,15 +4107,66 @@
    "status": "FT",
    "score": {
     "home": 5,
-    "away": 2
+    "away": 2,
+    "ht": [
+     3,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/1-fsv-mainz-05-vs-fc-bayern-muenchen/liveticker",
-    "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+    "https://www.skysports.com/football-scores-fixtures?hl=en-GB",
+    "https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-augsburg-match-report-highlights-matchday-9-39921"
    ],
-   "updatedAt": "2026-11-07T17:42:33.890Z"
+   "updatedAt": "2026-11-07T17:42:33.890Z",
+   "goals": [
+    {
+     "minute": 1,
+     "side": "away",
+     "player": "Anton Kade",
+     "type": "goal"
+    },
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "Ezechiel Banzuzi",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Christopher Nkunku",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "home",
+     "player": "David Raum",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Rômulo",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "Christoph Baumgartner",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 3,
+     "side": "away",
+     "player": "Uchenna Ogundu",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "bundesliga-2026-27-regular-r09-de-sc-paderborn-de-eintracht-frankfurt",
@@ -4134,15 +4185,48 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 2
+    "away": 2,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/1-fsv-mainz-05-vs-fc-bayern-muenchen/liveticker",
-    "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+    "https://www.skysports.com/football-scores-fixtures?hl=en-GB",
+    "https://www.bundesliga.com/en/bundesliga/news/paderborn-eintracht-frankfurt-match-report-highlights-matchday-9-39920",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/sc-paderborn-07-vs-eintracht-frankfurt/liveticker"
    ],
-   "updatedAt": "2026-11-07T17:42:33.890Z"
+   "updatedAt": "2026-11-07T17:42:33.890Z",
+   "goals": [
+    {
+     "minute": 23,
+     "side": "away",
+     "player": "Jonathan Burkardt",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Raphael Obermair",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Marvin Pieringer",
+     "type": "penalty"
+    },
+    {
+     "minute": 90,
+     "extra": 3,
+     "side": "away",
+     "player": "Jonathan Burkardt",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "bundesliga-2026-27-regular-r09-de-vfb-stuttgart-de-werder-bremen",

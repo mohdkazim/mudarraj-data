@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-08T22:38:21.534Z",
+ "generatedAt": "2026-11-09T01:49:01.562Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 805,
-  "results": 501,
-  "pending": 3
+  "results": 504,
+  "pending": 0
  },
  "teams": [
   {
@@ -40833,9 +40833,36 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-uk/football/match/premier-league-7/manchester-city-nottingham-forest-29-110-7"
+    "https://www.365scores.com/en-uk/football/match/premier-league-7/manchester-city-nottingham-forest-29-110-7",
+    "https://www.skysports.com/football/nottingham-forest-vs-manchester-city/live/559542"
    ],
    "updatedAt": "2026-11-07T20:43:45.018Z",
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "J Paula da Cunha Filho",
+     "type": "goal"
+    },
+    {
+     "minute": 18,
+     "side": "home",
+     "player": "L Delap",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "M Cherki",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "L Delap",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -40893,8 +40920,15 @@
    "away": "es-real-madrid",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": {
     "name": {
      "en": "Mestalla",
@@ -40907,9 +40941,11 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11",
+    "https://www.skysports.com/la-liga-scores-fixtures"
    ],
+   "updatedAt": "2026-11-09T01:48:51.475Z",
    "venueFrom": "home-ground"
   },
   {
@@ -41121,9 +41157,24 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/football/match/premier-league-7/crystal-palace-liverpool-10-108-7",
-    "https://skysports.com/football/news/13593207/brighton-x-x-brentford"
+    "https://skysports.com/football/news/13593207/brighton-x-x-brentford",
+    "https://www.skysports.com/football/brighton-and-hove-albion-vs-brentford/5565576225764913232"
    ],
    "updatedAt": "2026-11-08T16:39:30.731Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "D Gómez",
+     "type": "goal"
+    },
+    {
+     "minute": 42,
+     "side": "home",
+     "player": "P Groß",
+     "type": "penalty"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -41533,8 +41584,11 @@
    "away": "es-getafe",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Estadio de la Cerámica",
@@ -41547,9 +41601,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.skysports.com/la-liga-scores-fixtures",
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11"
    ],
+   "updatedAt": "2026-11-09T01:48:51.475Z",
    "venueFrom": "home-ground"
   },
   {
@@ -41568,8 +41623,11 @@
    "away": "es-barcelona",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Riyadh Air Metropolitano",
@@ -41582,9 +41640,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-12",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
+    "https://www.skysports.com/la-liga-scores-fixtures",
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11"
    ],
+   "updatedAt": "2026-11-09T01:48:51.475Z",
    "venueFrom": "home-ground"
   },
   {

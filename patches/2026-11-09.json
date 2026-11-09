@@ -1,0 +1,99 @@
+{
+  "run": "2026-11-09T02:30:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r12-es-valencia-es-real-madrid", "status": "FT", "score": [0,3], "ht": [0,2],
+      "sources": ["https://www.laliga.com/en-GB/laliga-easports/results", "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11", "https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-parma-it-bologna", "status": "FT", "score": [1,2], "ht": [0,0],
+      "sources": ["https://www.365scores.com/en-us/football/match/serie-a-17/bologna-parma-241-245-17", "https://www.skysports.com/serie-a-scores-fixtures"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r12-es-villarreal-es-getafe", "status": "FT", "score": [2,0],
+      "sources": ["https://www.skysports.com/la-liga-scores-fixtures", "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r12-es-atletico-madrid-es-barcelona", "status": "FT", "score": [1,2],
+      "sources": ["https://www.skysports.com/la-liga-scores-fixtures", "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-fiorentina-it-juventus", "status": "FT", "score": [2,2],
+      "sources": ["https://www.skysports.com/serie-a-scores-fixtures", "https://www.365scores.com/en-uk/football/match/serie-a-17/atalanta-monza-232-293-17"] },
+
+    { "op": "result", "match": "epl-2026-27-regular-r10-gb-eng-nottingham-forest-gb-eng-manchester-city", "status": "FT", "score": [3,1],
+      "goals": [
+        { "minute": 6, "side": "home", "player": "J Paula da Cunha Filho", "type": "goal" },
+        { "minute": 18, "side": "home", "player": "L Delap", "type": "goal" },
+        { "minute": 52, "side": "away", "player": "M Cherki", "type": "goal" },
+        { "minute": 73, "side": "home", "player": "L Delap", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/nottingham-forest-vs-manchester-city/live/559542"] },
+    { "op": "result", "match": "epl-2026-27-regular-r10-gb-eng-brighton-gb-eng-brentford", "status": "FT", "score": [2,0],
+      "goals": [
+        { "minute": 15, "side": "home", "player": "D Gómez", "type": "goal" },
+        { "minute": 42, "side": "home", "player": "P Groß", "type": "penalty" }
+      ],
+      "sources": ["https://www.skysports.com/football/brighton-and-hove-albion-vs-brentford/5565576225764913232"] },
+    { "op": "result", "match": "bundesliga-2026-27-regular-r09-de-rb-leipzig-de-fc-augsburg", "status": "FT", "score": [5,2], "ht": [3,1],
+      "goals": [
+        { "minute": 1, "side": "away", "player": "Anton Kade", "type": "goal" },
+        { "minute": 34, "side": "home", "player": "Ezechiel Banzuzi", "type": "goal" },
+        { "minute": 35, "side": "home", "player": "Christopher Nkunku", "type": "goal" },
+        { "minute": 45, "extra": 1, "side": "home", "player": "David Raum", "type": "goal" },
+        { "minute": 60, "side": "home", "player": "Rômulo", "type": "goal" },
+        { "minute": 66, "side": "home", "player": "Christoph Baumgartner", "type": "goal" },
+        { "minute": 90, "extra": 3, "side": "away", "player": "Uchenna Ogundu", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/rb-leipzig-augsburg-match-report-highlights-matchday-9-39921"] },
+    { "op": "result", "match": "bundesliga-2026-27-regular-r09-de-sc-paderborn-de-eintracht-frankfurt", "status": "FT", "score": [2,2], "ht": [1,1],
+      "goals": [
+        { "minute": 23, "side": "away", "player": "Jonathan Burkardt", "type": "goal" },
+        { "minute": 45, "side": "home", "player": "Raphael Obermair", "type": "goal" },
+        { "minute": 73, "side": "home", "player": "Marvin Pieringer", "type": "penalty" },
+        { "minute": 90, "extra": 3, "side": "away", "player": "Jonathan Burkardt", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/paderborn-eintracht-frankfurt-match-report-highlights-matchday-9-39920", "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/sc-paderborn-07-vs-eintracht-frankfurt/liveticker"] },
+
+    { "op": "table-check", "competition": "epl", "season": "2026-27", "table": "overall", "asOf": "2026-11-07T19:04:00Z",
+      "rows": [
+        { "team": "gb-eng-arsenal", "played": 10, "points": 27 },
+        { "team": "gb-eng-manchester-city", "played": 10, "points": 21 },
+        { "team": "gb-eng-brighton", "played": 9, "points": 19 },
+        { "team": "gb-eng-chelsea", "played": 9, "points": 16 },
+        { "team": "gb-eng-everton", "played": 10, "points": 16 },
+        { "team": "gb-eng-liverpool", "played": 9, "points": 15 },
+        { "team": "gb-eng-brentford", "played": 9, "points": 14 },
+        { "team": "gb-eng-leeds-united", "played": 10, "points": 14 },
+        { "team": "gb-eng-bournemouth", "played": 9, "points": 12 },
+        { "team": "gb-eng-tottenham-hotspur", "played": 10, "points": 12 },
+        { "team": "gb-eng-newcastle-united", "played": 10, "points": 12 },
+        { "team": "gb-eng-aston-villa", "played": 9, "points": 12 },
+        { "team": "gb-eng-hull-city", "played": 10, "points": 11 },
+        { "team": "gb-eng-ipswich-town", "played": 9, "points": 11 },
+        { "team": "gb-eng-fulham", "played": 10, "points": 10 },
+        { "team": "gb-eng-nottingham-forest", "played": 10, "points": 9 },
+        { "team": "gb-eng-coventry-city", "played": 10, "points": 9 },
+        { "team": "gb-eng-manchester-united", "played": 9, "points": 7 },
+        { "team": "gb-eng-crystal-palace", "played": 9, "points": 7 },
+        { "team": "gb-eng-sunderland", "played": 9, "points": 5 }
+      ],
+      "sources": ["https://www.skysports.com/premier-league-table"] },
+    { "op": "table-check", "competition": "laliga", "season": "2026-27", "table": "overall", "asOf": "2026-11-08T08:00:00Z",
+      "rows": [
+        { "team": "es-barcelona", "played": 11, "points": 30 },
+        { "team": "es-real-madrid", "played": 12, "points": 30 },
+        { "team": "es-atletico-madrid", "played": 11, "points": 28 },
+        { "team": "es-real-betis", "played": 11, "points": 23 },
+        { "team": "es-real-sociedad", "played": 11, "points": 19 },
+        { "team": "es-sevilla", "played": 12, "points": 18 },
+        { "team": "es-athletic-club", "played": 11, "points": 16 },
+        { "team": "es-deportivo-la-coruna", "played": 12, "points": 15 },
+        { "team": "es-racing-santander", "played": 12, "points": 14 },
+        { "team": "es-alaves", "played": 12, "points": 13 },
+        { "team": "es-villarreal", "played": 11, "points": 12 },
+        { "team": "es-celta-vigo", "played": 11, "points": 12 },
+        { "team": "es-espanyol", "played": 12, "points": 12 },
+        { "team": "es-rayo-vallecano", "played": 10, "points": 12 },
+        { "team": "es-getafe", "played": 11, "points": 12 },
+        { "team": "es-osasuna", "played": 12, "points": 12 },
+        { "team": "es-elche", "played": 11, "points": 10 },
+        { "team": "es-levante", "played": 11, "points": 10 },
+        { "team": "es-valencia", "played": 12, "points": 9 },
+        { "team": "es-malaga", "played": 12, "points": 5 }
+      ],
+      "sources": ["https://www.laliga.com/en-GB/laliga-easports/standing"] }
+  ],
+  "unconfirmed": []
+}
