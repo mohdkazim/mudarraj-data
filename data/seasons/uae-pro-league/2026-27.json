@@ -2570,7 +2570,27 @@
     "https://www.albayan.ae/sports/uae-stadiums/1563493",
     "https://www.emaratalyoum.com/sports/local/2026-11-07-1.2100319"
    ],
-   "updatedAt": "2026-11-07T18:39:20.911Z"
+   "updatedAt": "2026-11-07T18:39:20.911Z",
+   "goals": [
+    {
+     "minute": 27,
+     "side": "away",
+     "player": "Pedro Pavlov",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Tarik Tissoudali",
+     "type": "penalty"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Seifeddine Jaziri",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r08-ae-sharjah-ae-shabab-al-ahli",

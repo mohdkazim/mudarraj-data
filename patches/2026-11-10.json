@@ -1,0 +1,63 @@
+{
+  "run": "2026-11-10T01:37:00Z",
+  "changes": [
+    { "op": "result", "match": "epl-2026-27-regular-r10-gb-eng-manchester-united-gb-eng-aston-villa", "status": "FT", "score": [4,4],
+      "goals": [
+        { "minute": 1, "side": "away", "player": "A da Rocha dos Santos", "type": "goal" },
+        { "minute": 4, "side": "away", "player": "N Jackson", "type": "goal" },
+        { "minute": 16, "side": "home", "player": "B Fernandes", "type": "penalty" },
+        { "minute": 44, "side": "home", "player": "Y Tielemans", "type": "goal" },
+        { "minute": 48, "side": "away", "player": "J McGinn", "type": "penalty" },
+        { "minute": 53, "side": "away", "player": "L Goretzka", "type": "goal" },
+        { "minute": 90, "extra": 2, "side": "home", "player": "J Zirkzee", "type": "goal" },
+        { "minute": 90, "extra": 6, "side": "home", "player": "P Dorgu", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/manchester-united-vs-aston-villa/report/559541"] },
+    { "op": "result", "match": "bundesliga-2026-27-regular-r09-de-borussia-dortmund-de-sv-elversberg", "status": "FT", "score": [2,1], "ht": [0,0],
+      "goals": [
+        { "minute": 55, "side": "home", "player": "Felix Nmecha", "type": "goal" },
+        { "minute": 71, "side": "home", "player": "Felix Nmecha", "type": "goal" },
+        { "minute": 81, "side": "away", "player": "Noel Futkeu", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/borussia-dortmund-vs-sv-elversberg/liveticker"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-genoa-it-ac-milan", "status": "FT", "score": [1,2], "ht": [0,2],
+      "goals": [
+        { "minute": 13, "side": "away", "player": "Alphadjo Cisse", "type": "goal" },
+        { "minute": 19, "side": "away", "player": "Christian Pulisic", "type": "goal" },
+        { "minute": 88, "side": "home", "player": "Mikael Ellertsson", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/serie-a-17/ac-milan-genoa-227-231-17"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-fiorentina-it-juventus", "status": "FT", "score": [2,2], "ht": [1,1],
+      "goals": [
+        { "minute": 4, "side": "home", "player": "Mateo Pellegrino", "type": "goal" },
+        { "minute": 32, "side": "away", "player": "Nick Woltemade", "type": "goal" },
+        { "minute": 54, "side": "home", "player": "Alieu Njie", "type": "goal" },
+        { "minute": 66, "side": "away", "player": "Bremer", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/serie-a-17/fiorentina-juventus-226-228-17"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r11-it-napoli-it-lazio", "status": "FT", "score": [1,1], "ht": [0,1],
+      "goals": [
+        { "minute": 28, "side": "away", "player": "Davide Frattesi", "type": "goal" },
+        { "minute": 48, "side": "home", "player": "Alfonso Pedraza", "type": "own-goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/serie-a-17/lazio-napoli-234-236-17"] },
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r08-ae-hatta-ae-khorfakkan", "status": "FT", "score": [1,2],
+      "goals": [
+        { "minute": 27, "side": "away", "player": "Pedro Pavlov", "type": "goal" },
+        { "minute": 50, "side": "away", "player": "Tarik Tissoudali", "type": "penalty" },
+        { "minute": 88, "side": "home", "player": "Seifeddine Jaziri", "type": "goal" }
+      ],
+      "sources": ["https://www.albayan.ae/sports/uae-stadiums/1563493"] },
+
+    { "op": "fixture", "match": "laliga-2026-27-regular-r14-es-levante-es-racing-santander", "kickoff": "2026-11-27T20:00:00Z", "timeConfirmed": true, "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "fixture", "match": "laliga-2026-27-regular-r14-es-real-betis-es-rayo-vallecano", "kickoff": "2026-11-28T13:00:00Z", "timeConfirmed": true, "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "fixture", "match": "laliga-2026-27-regular-r14-es-malaga-es-athletic-club", "kickoff": "2026-11-28T15:15:00Z", "timeConfirmed": true, "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "fixture", "match": "laliga-2026-27-regular-r14-es-elche-es-atletico-madrid", "kickoff": "2026-11-28T17:30:00Z", "timeConfirmed": true, "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "fixture", "match": "laliga-2026-27-regular-r14-es-real-madrid-es-alaves", "kickoff": "2026-11-28T20:00:00Z", "timeConfirmed": true, "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "fixture", "match": "laliga-2026-27-regular-r14-es-valencia-es-osasuna", "kickoff": "2026-11-29T13:00:00Z", "timeConfirmed": true, "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "fixture", "match": "laliga-2026-27-regular-r14-es-deportivo-la-coruna-es-barcelona", "kickoff": "2026-11-29T15:15:00Z", "timeConfirmed": true, "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "fixture", "match": "laliga-2026-27-regular-r14-es-celta-vigo-es-villarreal", "kickoff": "2026-11-29T17:30:00Z", "timeConfirmed": true, "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] },
+    { "op": "fixture", "match": "laliga-2026-27-regular-r14-es-espanyol-es-getafe", "kickoff": "2026-11-30T20:00:00Z", "timeConfirmed": true, "sources": ["https://www.skysports.com/la-liga-scores-fixtures"] }
+  ],
+  "unconfirmed": []
+}

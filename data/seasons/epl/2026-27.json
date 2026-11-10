@@ -4642,9 +4642,62 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.thenationalnews.com/sport/football/2026/11/08/man-united-battle-for-a-point-against-aston-villa-after-old-trafford-goal-fest/"
+    "https://www.thenationalnews.com/sport/football/2026/11/08/man-united-battle-for-a-point-against-aston-villa-after-old-trafford-goal-fest/",
+    "https://www.skysports.com/football/manchester-united-vs-aston-villa/report/559541"
    ],
-   "updatedAt": "2026-11-08T19:38:31.684Z"
+   "updatedAt": "2026-11-08T19:38:31.684Z",
+   "goals": [
+    {
+     "minute": 1,
+     "side": "away",
+     "player": "A da Rocha dos Santos",
+     "type": "goal"
+    },
+    {
+     "minute": 4,
+     "side": "away",
+     "player": "N Jackson",
+     "type": "goal"
+    },
+    {
+     "minute": 16,
+     "side": "home",
+     "player": "B Fernandes",
+     "type": "penalty"
+    },
+    {
+     "minute": 44,
+     "side": "home",
+     "player": "Y Tielemans",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "away",
+     "player": "J McGinn",
+     "type": "penalty"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "L Goretzka",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "home",
+     "player": "J Zirkzee",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 6,
+     "side": "home",
+     "player": "P Dorgu",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-manchester-city-gb-eng-fulham",

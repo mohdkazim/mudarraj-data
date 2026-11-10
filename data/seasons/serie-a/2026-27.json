@@ -4923,15 +4923,34 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.365scores.com/football/match/serie-a-17/atalanta-monza-232-293-17",
-    "https://www.skysports.com/football-scores-fixtures"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/en-us/football/match/serie-a-17/lazio-napoli-234-236-17"
    ],
-   "updatedAt": "2026-11-08T16:39:30.731Z"
+   "updatedAt": "2026-11-08T16:39:30.731Z",
+   "goals": [
+    {
+     "minute": 28,
+     "side": "away",
+     "player": "Davide Frattesi",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Alfonso Pedraza",
+     "type": "own-goal"
+    }
+   ]
   },
   {
    "id": "serie-a-2026-27-regular-r11-it-genoa-it-ac-milan",
@@ -4950,15 +4969,40 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.365scores.com/en-us/football/match/serie-a-17/como-inter-milan-224-6117-17"
+    "https://www.365scores.com/en-us/football/match/serie-a-17/como-inter-milan-224-6117-17",
+    "https://www.365scores.com/en-us/football/match/serie-a-17/ac-milan-genoa-227-231-17"
    ],
-   "updatedAt": "2026-11-08T20:39:39.944Z"
+   "updatedAt": "2026-11-08T20:39:39.944Z",
+   "goals": [
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Alphadjo Cisse",
+     "type": "goal"
+    },
+    {
+     "minute": 19,
+     "side": "away",
+     "player": "Christian Pulisic",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Mikael Ellertsson",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "serie-a-2026-27-regular-r11-it-monza-it-atalanta",
@@ -5062,15 +5106,46 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 2
+    "away": 2,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.skysports.com/serie-a-scores-fixtures",
-    "https://www.365scores.com/en-uk/football/match/serie-a-17/atalanta-monza-232-293-17"
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/atalanta-monza-232-293-17",
+    "https://www.365scores.com/en-us/football/match/serie-a-17/fiorentina-juventus-226-228-17"
    ],
-   "updatedAt": "2026-11-09T01:48:51.475Z"
+   "updatedAt": "2026-11-09T01:48:51.475Z",
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Mateo Pellegrino",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "Nick Woltemade",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Alieu Njie",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "away",
+     "player": "Bremer",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "serie-a-2026-27-regular-r12-it-como-it-cagliari",

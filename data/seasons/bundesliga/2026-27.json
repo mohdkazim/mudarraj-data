@@ -4028,15 +4028,40 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/1-fsv-mainz-05-vs-fc-bayern-muenchen/liveticker",
-    "https://www.skysports.com/football-scores-fixtures?hl=en-GB"
+    "https://www.skysports.com/football-scores-fixtures?hl=en-GB",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/9/borussia-dortmund-vs-sv-elversberg/liveticker"
    ],
-   "updatedAt": "2026-11-07T17:42:33.890Z"
+   "updatedAt": "2026-11-07T17:42:33.890Z",
+   "goals": [
+    {
+     "minute": 55,
+     "side": "home",
+     "player": "Felix Nmecha",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Felix Nmecha",
+     "type": "goal"
+    },
+    {
+     "minute": 81,
+     "side": "away",
+     "player": "Noel Futkeu",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "bundesliga-2026-27-regular-r09-de-mainz-05-de-bayern-munich",

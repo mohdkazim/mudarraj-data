@@ -4389,3 +4389,21 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result bundesliga-2026-27-regular-r09-de-sc-paderborn-de-eintracht-frankfurt added half-time and scorers to the confirmed result
   - ✓ table-check epl overall reference table epl overall (20 rows)
   - ✓ table-check laliga overall reference table laliga overall (20 rows)
+
+## 2026-11-10 (2026-11-10T01:37:00Z)
+- 15 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result epl-2026-27-regular-r10-gb-eng-manchester-united-gb-eng-aston-villa added scorers to the confirmed result
+  - ✓ result bundesliga-2026-27-regular-r09-de-borussia-dortmund-de-sv-elversberg added half-time and scorers to the confirmed result
+  - ✓ result serie-a-2026-27-regular-r11-it-genoa-it-ac-milan added half-time and scorers to the confirmed result
+  - ✓ result serie-a-2026-27-regular-r11-it-fiorentina-it-juventus added half-time and scorers to the confirmed result
+  - ✓ result serie-a-2026-27-regular-r11-it-napoli-it-lazio added half-time and scorers to the confirmed result
+  - ✓ result uae-pro-league-2026-27-regular-r08-ae-hatta-ae-khorfakkan added scorers to the confirmed result
+  - ✓ fixture laliga-2026-27-regular-r14-es-levante-es-racing-santander kick-off 2026-11-27T20:00:00Z
+  - ✓ fixture laliga-2026-27-regular-r14-es-real-betis-es-rayo-vallecano kick-off 2026-11-28T13:00:00Z
+  - ✓ fixture laliga-2026-27-regular-r14-es-malaga-es-athletic-club kick-off 2026-11-28T15:15:00Z
+  - ✓ fixture laliga-2026-27-regular-r14-es-elche-es-atletico-madrid kick-off 2026-11-28T17:30:00Z
+  - ✓ fixture laliga-2026-27-regular-r14-es-real-madrid-es-alaves kick-off 2026-11-28T20:00:00Z
+  - ✓ fixture laliga-2026-27-regular-r14-es-valencia-es-osasuna kick-off 2026-11-29T13:00:00Z
+  - ✓ fixture laliga-2026-27-regular-r14-es-deportivo-la-coruna-es-barcelona kick-off 2026-11-29T15:15:00Z
+  - ✓ fixture laliga-2026-27-regular-r14-es-celta-vigo-es-villarreal kick-off 2026-11-29T17:30:00Z
+  - ✓ fixture laliga-2026-27-regular-r14-es-espanyol-es-getafe kick-off 2026-11-30T20:00:00Z

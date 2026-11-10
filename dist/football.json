@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-09T01:49:01.562Z",
+ "generatedAt": "2026-11-10T01:48:05.699Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
@@ -40751,6 +40751,26 @@
     "https://www.emaratalyoum.com/sports/local/2026-11-07-1.2100319"
    ],
    "updatedAt": "2026-11-07T18:39:20.911Z",
+   "goals": [
+    {
+     "minute": 27,
+     "side": "away",
+     "player": "Pedro Pavlov",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Tarik Tissoudali",
+     "type": "penalty"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Seifeddine Jaziri",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -41521,9 +41541,62 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.thenationalnews.com/sport/football/2026/11/08/man-united-battle-for-a-point-against-aston-villa-after-old-trafford-goal-fest/"
+    "https://www.thenationalnews.com/sport/football/2026/11/08/man-united-battle-for-a-point-against-aston-villa-after-old-trafford-goal-fest/",
+    "https://www.skysports.com/football/manchester-united-vs-aston-villa/report/559541"
    ],
    "updatedAt": "2026-11-08T19:38:31.684Z",
+   "goals": [
+    {
+     "minute": 1,
+     "side": "away",
+     "player": "A da Rocha dos Santos",
+     "type": "goal"
+    },
+    {
+     "minute": 4,
+     "side": "away",
+     "player": "N Jackson",
+     "type": "goal"
+    },
+    {
+     "minute": 16,
+     "side": "home",
+     "player": "B Fernandes",
+     "type": "penalty"
+    },
+    {
+     "minute": 44,
+     "side": "home",
+     "player": "Y Tielemans",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "away",
+     "player": "J McGinn",
+     "type": "penalty"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "L Goretzka",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "home",
+     "player": "J Zirkzee",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 6,
+     "side": "home",
+     "player": "P Dorgu",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -44624,6 +44697,78 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r14-es-levante-es-racing-santander",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-27T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-levante",
+   "away": "es-racing-santander",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Ciutat de València",
+     "ar": "ملعب سيوتات دي فالنسيا"
+    },
+    "city": {
+     "en": "Valencia",
+     "ar": "فالنسيا"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r14-es-real-betis-es-rayo-vallecano",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-28T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-betis",
+   "away": "es-rayo-vallecano",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Estadio La Cartuja",
+     "ar": "ملعب لا كارتوخا"
+    },
+    "city": {
+     "en": "Seville",
+     "ar": "إشبيلية"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "epl",
    "season": "2026-27",
    "id": "epl-2026-27-regular-r12-gb-eng-leeds-united-gb-eng-coventry-city",
@@ -44694,6 +44839,42 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r14-es-malaga-es-athletic-club",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-28T15:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-malaga",
+   "away": "es-athletic-club",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "La Rosaleda",
+     "ar": "ملعب لا روساليدا"
+    },
+    "city": {
+     "en": "Málaga",
+     "ar": "ملقة"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "epl",
    "season": "2026-27",
    "id": "epl-2026-27-regular-r12-gb-eng-ipswich-town-gb-eng-aston-villa",
@@ -44725,6 +44906,78 @@
    "sources": [
     "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r14-es-elche-es-atletico-madrid",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-28T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-elche",
+   "away": "es-atletico-madrid",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Martínez Valero",
+     "ar": "ملعب مارتينيز فاليرو"
+    },
+    "city": {
+     "en": "Elche",
+     "ar": "إلتشي"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r14-es-real-madrid-es-alaves",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-28T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-madrid",
+   "away": "es-alaves",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Santiago Bernabéu",
+     "ar": "ملعب سانتياغو برنابيو"
+    },
+    "city": {
+     "en": "Madrid",
+     "ar": "مدريد"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01",
+    "https://www.skysports.com/la-liga-scores-fixtures"
    ],
    "venueFrom": "home-ground"
   },
@@ -44761,6 +45014,42 @@
     "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261129"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r14-es-valencia-es-osasuna",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T13:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-valencia",
+   "away": "es-osasuna",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Mestalla",
+     "ar": "ملعب ميستايا"
+    },
+    "city": {
+     "en": "Valencia",
+     "ar": "فالنسيا"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01",
+    "https://www.skysports.com/la-liga-scores-fixtures"
    ],
    "venueFrom": "home-ground"
   },
@@ -44909,6 +45198,42 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r14-es-deportivo-la-coruna-es-barcelona",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T15:15:00Z",
+   "timeConfirmed": true,
+   "home": "es-deportivo-la-coruna",
+   "away": "es-barcelona",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Abanca-Riazor",
+     "ar": "ملعب أبانكا ريازور"
+    },
+    "city": {
+     "en": "A Coruña",
+     "ar": "لاكورونيا"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "uae-super-cup",
    "season": "2026-27",
    "id": "uae-super-cup-2026-27-final-ae-al-ain-ae-shabab-al-ahli",
@@ -44945,286 +45270,6 @@
   {
    "competition": "laliga",
    "season": "2026-27",
-   "id": "laliga-2026-27-regular-r14-es-celta-vigo-es-villarreal",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 14
-   },
-   "kickoff": "2026-11-29T16:00:00Z",
-   "timeConfirmed": false,
-   "home": "es-celta-vigo",
-   "away": "es-villarreal",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Abanca-Balaídos",
-     "ar": "ملعب أبانكا بالايدوس"
-    },
-    "city": {
-     "en": "Vigo",
-     "ar": "فيغو"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "laliga",
-   "season": "2026-27",
-   "id": "laliga-2026-27-regular-r14-es-deportivo-la-coruna-es-barcelona",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 14
-   },
-   "kickoff": "2026-11-29T16:00:00Z",
-   "timeConfirmed": false,
-   "home": "es-deportivo-la-coruna",
-   "away": "es-barcelona",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Abanca-Riazor",
-     "ar": "ملعب أبانكا ريازور"
-    },
-    "city": {
-     "en": "A Coruña",
-     "ar": "لاكورونيا"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "laliga",
-   "season": "2026-27",
-   "id": "laliga-2026-27-regular-r14-es-elche-es-atletico-madrid",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 14
-   },
-   "kickoff": "2026-11-29T16:00:00Z",
-   "timeConfirmed": false,
-   "home": "es-elche",
-   "away": "es-atletico-madrid",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Martínez Valero",
-     "ar": "ملعب مارتينيز فاليرو"
-    },
-    "city": {
-     "en": "Elche",
-     "ar": "إلتشي"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "laliga",
-   "season": "2026-27",
-   "id": "laliga-2026-27-regular-r14-es-espanyol-es-getafe",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 14
-   },
-   "kickoff": "2026-11-29T16:00:00Z",
-   "timeConfirmed": false,
-   "home": "es-espanyol",
-   "away": "es-getafe",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "RCDE Stadium",
-     "ar": "ملعب آر سي دي إي"
-    },
-    "city": {
-     "en": "Cornellà de Llobregat",
-     "ar": "كورنيا دي يوبريغات"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "laliga",
-   "season": "2026-27",
-   "id": "laliga-2026-27-regular-r14-es-levante-es-racing-santander",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 14
-   },
-   "kickoff": "2026-11-29T16:00:00Z",
-   "timeConfirmed": false,
-   "home": "es-levante",
-   "away": "es-racing-santander",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Ciutat de València",
-     "ar": "ملعب سيوتات دي فالنسيا"
-    },
-    "city": {
-     "en": "Valencia",
-     "ar": "فالنسيا"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "laliga",
-   "season": "2026-27",
-   "id": "laliga-2026-27-regular-r14-es-malaga-es-athletic-club",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 14
-   },
-   "kickoff": "2026-11-29T16:00:00Z",
-   "timeConfirmed": false,
-   "home": "es-malaga",
-   "away": "es-athletic-club",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "La Rosaleda",
-     "ar": "ملعب لا روساليدا"
-    },
-    "city": {
-     "en": "Málaga",
-     "ar": "ملقة"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "laliga",
-   "season": "2026-27",
-   "id": "laliga-2026-27-regular-r14-es-real-betis-es-rayo-vallecano",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 14
-   },
-   "kickoff": "2026-11-29T16:00:00Z",
-   "timeConfirmed": false,
-   "home": "es-real-betis",
-   "away": "es-rayo-vallecano",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Estadio La Cartuja",
-     "ar": "ملعب لا كارتوخا"
-    },
-    "city": {
-     "en": "Seville",
-     "ar": "إشبيلية"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "laliga",
-   "season": "2026-27",
-   "id": "laliga-2026-27-regular-r14-es-real-madrid-es-alaves",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 14
-   },
-   "kickoff": "2026-11-29T16:00:00Z",
-   "timeConfirmed": false,
-   "home": "es-real-madrid",
-   "away": "es-alaves",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Santiago Bernabéu",
-     "ar": "ملعب سانتياغو برنابيو"
-    },
-    "city": {
-     "en": "Madrid",
-     "ar": "مدريد"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "laliga",
-   "season": "2026-27",
    "id": "laliga-2026-27-regular-r14-es-real-sociedad-es-sevilla",
    "stage": {
     "key": "regular",
@@ -45253,41 +45298,6 @@
    "neutral": false,
    "sources": [
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "laliga",
-   "season": "2026-27",
-   "id": "laliga-2026-27-regular-r14-es-valencia-es-osasuna",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 14
-   },
-   "kickoff": "2026-11-29T16:00:00Z",
-   "timeConfirmed": false,
-   "home": "es-valencia",
-   "away": "es-osasuna",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Mestalla",
-     "ar": "ملعب ميستايا"
-    },
-    "city": {
-     "en": "Valencia",
-     "ar": "فالنسيا"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
-    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01"
    ],
    "venueFrom": "home-ground"
   },
@@ -45324,6 +45334,78 @@
     "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261129"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r14-es-celta-vigo-es-villarreal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "es-celta-vigo",
+   "away": "es-villarreal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Abanca-Balaídos",
+     "ar": "ملعب أبانكا بالايدوس"
+    },
+    "city": {
+     "en": "Vigo",
+     "ar": "فيغو"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01",
+    "https://www.skysports.com/la-liga-scores-fixtures"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r14-es-espanyol-es-getafe",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-30T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-espanyol",
+   "away": "es-getafe",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "RCDE Stadium",
+     "ar": "ملعب آر سي دي إي"
+    },
+    "city": {
+     "en": "Cornellà de Llobregat",
+     "ar": "كورنيا دي يوبريغات"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01",
+    "https://www.skysports.com/la-liga-scores-fixtures"
    ],
    "venueFrom": "home-ground"
   },
