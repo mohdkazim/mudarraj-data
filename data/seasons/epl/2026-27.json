@@ -5164,6 +5164,236 @@
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?dates=20261129"
    ]
+  },
+  {
+   "id": "epl-2026-27-regular-r13-gb-eng-coventry-city-gb-eng-ipswich-town",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-01T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-coventry-city",
+   "away": "gb-eng-ipswich-town",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r13-gb-eng-chelsea-gb-eng-crystal-palace",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-chelsea",
+   "away": "gb-eng-crystal-palace",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r13-gb-eng-hull-city-gb-eng-nottingham-forest",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-hull-city",
+   "away": "gb-eng-nottingham-forest",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r13-gb-eng-liverpool-gb-eng-sunderland",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "gb-eng-sunderland",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r13-gb-eng-manchester-city-gb-eng-leeds-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "gb-eng-leeds-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r13-gb-eng-aston-villa-gb-eng-everton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T20:15:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "gb-eng-everton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r13-gb-eng-bournemouth-gb-eng-brighton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T20:15:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-bournemouth",
+   "away": "gb-eng-brighton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r13-gb-eng-brentford-gb-eng-arsenal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T20:15:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brentford",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r13-gb-eng-newcastle-united-gb-eng-manchester-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T20:15:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-newcastle-united",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "id": "epl-2026-27-regular-r13-gb-eng-tottenham-hotspur-gb-eng-fulham",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-03T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-tottenham-hotspur",
+   "away": "gb-eng-fulham",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
   }
  ]
 }

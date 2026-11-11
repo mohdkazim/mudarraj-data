@@ -1,0 +1,1209 @@
+{
+ "run": "2026-11-11T01:51:43Z",
+ "changes": [
+  {
+   "op": "result",
+   "match": "laliga-2026-27-regular-r12-es-atletico-madrid-es-barcelona",
+   "status": "FT",
+   "score": [
+    1,
+    2
+   ],
+   "ht": [
+    1,
+    1
+   ],
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Giuliano Simeone",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Fermín López",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "away",
+     "player": "Fermín López",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.laliga.com/en-ID/match/temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-fc-barcelona-12"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "laliga-2026-27-regular-r12-es-real-sociedad-es-rayo-vallecano",
+   "status": "FT",
+   "score": [
+    1,
+    0
+   ],
+   "ht": [
+    0,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "Orri Óskarsson",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/es/football/match/laliga-11/rayo-vallecano-real-sociedad-154-174-11"
+   ]
+  },
+  {
+   "op": "result",
+   "match": "laliga-2026-27-regular-r12-es-villarreal-es-getafe",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "ht": [
+    0,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Tajon Buchanan",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "home",
+     "player": "Carlos Romero",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/match/laliga-11/getafe-villarreal-133-140-11"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "laliga-2026-27-regular-r14-es-real-sociedad-es-sevilla",
+   "kickoff": "2026-11-29T20:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.laliga.com/en-GB/clubs/real-sociedad/next-matches"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "epl",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "gb-eng-coventry-city",
+   "away": "gb-eng-ipswich-town",
+   "kickoff": "2026-12-01T20:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "epl",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "gb-eng-chelsea",
+   "away": "gb-eng-crystal-palace",
+   "kickoff": "2026-12-02T19:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "epl",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "gb-eng-hull-city",
+   "away": "gb-eng-nottingham-forest",
+   "kickoff": "2026-12-02T19:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "epl",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "gb-eng-liverpool",
+   "away": "gb-eng-sunderland",
+   "kickoff": "2026-12-02T19:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "epl",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "gb-eng-manchester-city",
+   "away": "gb-eng-leeds-united",
+   "kickoff": "2026-12-02T19:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "epl",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "gb-eng-aston-villa",
+   "away": "gb-eng-everton",
+   "kickoff": "2026-12-02T20:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "epl",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "gb-eng-bournemouth",
+   "away": "gb-eng-brighton",
+   "kickoff": "2026-12-02T20:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "epl",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "gb-eng-brentford",
+   "away": "gb-eng-arsenal",
+   "kickoff": "2026-12-02T20:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "epl",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "gb-eng-newcastle-united",
+   "away": "gb-eng-manchester-united",
+   "kickoff": "2026-12-02T20:15:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "epl",
+   "season": "2026-27",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "round": 13
+   },
+   "home": "gb-eng-tottenham-hotspur",
+   "away": "gb-eng-fulham",
+   "kickoff": "2026-12-03T20:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr",
+   "kickoff": "2026-11-20T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "saudi-pro-league-2026-27-regular-r09-sa-al-riyadh-sa-al-hilal",
+   "kickoff": "2026-12-21T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "saudi-pro-league-2026-27-regular-r09-sa-al-ittihad-sa-al-shabab",
+   "kickoff": "2026-12-21T17:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r14-sa-al-ahli-saudi-sa-al-faisaly",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r14-sa-al-fayha-sa-al-fateh",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r14-sa-al-hilal-sa-al-diriyah",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r14-sa-al-khaleej-sa-al-ittihad",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r14-sa-al-nassr-sa-al-qadsiah",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r14-sa-al-riyadh-sa-al-hazem",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r14-sa-al-shabab-sa-al-ettifaq",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r14-sa-al-taawoun-sa-abha",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r14-sa-neom-sa-al-kholood",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r15-sa-abha-sa-al-riyadh",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r15-sa-al-diriyah-sa-al-fayha",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r15-sa-al-ettifaq-sa-al-hazem",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r15-sa-al-faisaly-sa-al-khaleej",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r15-sa-al-ittihad-sa-al-ahli-saudi",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r15-sa-al-kholood-sa-al-hilal",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r15-sa-al-nassr-sa-al-shabab",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r15-sa-al-qadsiah-sa-al-fateh",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "status",
+   "match": "saudi-pro-league-2026-27-regular-r15-sa-neom-sa-al-taawoun",
+   "status": "PST",
+   "sources": [
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "op": "delete",
+   "match": "uae-presidents-cup-2026-27-qf-ae-al-jazira-ae-al-wahda",
+   "reason": "Home and away reversed: organiser lists Al Wahda v Al Jazira (Emarat Al Youm 30 Oct 2026, Al Bayan 29 Oct 2026)"
+  },
+  {
+   "op": "delete",
+   "match": "uae-presidents-cup-2026-27-qf-ae-shabab-al-ahli-ae-al-wasl",
+   "reason": "Home and away reversed: organiser lists Al Wasl v Shabab Al Ahli (Emarat Al Youm 30 Oct 2026, Al Bayan 29 Oct 2026)"
+  },
+  {
+   "op": "delete",
+   "match": "uae-presidents-cup-2026-27-qf-ae-sharjah-ae-hatta",
+   "reason": "Home and away reversed: organiser lists Hatta v Sharjah (Emarat Al Youm 30 Oct 2026, Al Bayan 29 Oct 2026)"
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-presidents-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "qf",
+    "type": "knockout"
+   },
+   "home": "ae-al-wasl",
+   "away": "ae-shabab-al-ahli",
+   "kickoff": "2027-02-25T17:30:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Al Maktoum Stadium",
+     "ar": "استاد آل مكتوم"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-30-1.2097445",
+    "https://www.albayan.ae/sports/uae-stadiums/1561360"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-presidents-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "qf",
+    "type": "knockout"
+   },
+   "home": "ae-al-wahda",
+   "away": "ae-al-jazira",
+   "kickoff": "2027-02-26T17:30:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Hazza bin Zayed Stadium",
+     "ar": "استاد هزاع بن زايد"
+    },
+    "city": {
+     "en": "Al Ain",
+     "ar": "العين"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-30-1.2097445",
+    "https://www.albayan.ae/sports/uae-stadiums/1561360"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "uae-presidents-cup",
+   "season": "2026-27",
+   "stage": {
+    "key": "qf",
+    "type": "knockout"
+   },
+   "home": "ae-hatta",
+   "away": "ae-sharjah",
+   "kickoff": "2027-02-27T17:30:00Z",
+   "timeConfirmed": true,
+   "venue": {
+    "name": {
+     "en": "Kalba Stadium",
+     "ar": "استاد كلباء"
+    },
+    "city": {
+     "en": "Kalba",
+     "ar": "كلباء"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-30-1.2097445",
+    "https://www.albayan.ae/sports/uae-stadiums/1561360"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "uae-presidents-cup-2026-27-qf-ae-khorfakkan-ae-bani-yas",
+   "kickoff": "2027-02-28T17:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-30-1.2097445",
+    "https://www.albayan.ae/sports/uae-stadiums/1561360"
+   ]
+  },
+  {
+   "op": "venue",
+   "match": "uae-presidents-cup-2026-27-qf-ae-khorfakkan-ae-bani-yas",
+   "venue": {
+    "name": {
+     "en": "Zabeel Stadium",
+     "ar": "استاد زعبيل"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-30-1.2097445",
+    "https://www.albayan.ae/sports/uae-stadiums/1561360"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 2
+   },
+   "home": "kw-kazma",
+   "away": "ae-ajman",
+   "kickoff": "2026-10-27T15:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.albayan.ae/sports/arab-stadiums/1560582",
+    "https://www.emaratalyoum.com/sports/local/2026-10-27-1.2096676"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "home": "kw-kazma",
+   "away": "ae-ajman",
+   "date": "2026-10-27",
+   "status": "FT",
+   "score": [
+    1,
+    2
+   ],
+   "ht": [
+    0,
+    2
+   ],
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-27-1.2096676",
+    "https://www.albayan.ae/sports/uae-stadiums/1560975"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 2
+   },
+   "home": "ye-shaab-hadramaut",
+   "away": "qa-al-duhail",
+   "kickoff": "2026-10-28T15:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.albayan.ae/sports/arab-stadiums/1560582",
+    "https://thepeninsulaqatar.com/article/29/10/2026/al-duhail-edge-shaab-hadramout-to-maintain-winning-run-in-gccl"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 2
+   },
+   "home": "iq-al-zawraa",
+   "away": "ae-al-nasr",
+   "kickoff": "2026-10-28T15:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.albayan.ae/sports/arab-stadiums/1560582",
+    "https://www.emaratalyoum.com/sports/local/2026-10-28-1.2097084"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "home": "iq-al-zawraa",
+   "away": "ae-al-nasr",
+   "date": "2026-10-28",
+   "status": "FT",
+   "score": [
+    0,
+    1
+   ],
+   "ht": [
+    0,
+    0
+   ],
+   "goals": [
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Ramon Mierez",
+     "type": "goal"
+    }
+   ],
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-28-1.2097084",
+    "https://www.albayan.ae/sports/uae-stadiums/1561293"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 2
+   },
+   "home": "iq-erbil",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-10-28T15:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.albayan.ae/sports/arab-stadiums/1560582",
+    "https://www.khaleejtimes.com/world/gulf/football-body-saudi-club-defeat-150000-fine-missing-iraq-match"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "home": "iq-erbil",
+   "away": "sa-al-ettifaq",
+   "date": "2026-10-28",
+   "status": "AWD",
+   "score": [
+    3,
+    0
+   ],
+   "sources": [
+    "https://www.khaleejtimes.com/world/gulf/football-body-saudi-club-defeat-150000-fine-missing-iraq-match",
+    "https://www.365scores.com/en-us/football/match/gulf-club-champions-league-8400/al-ettifaq-erbil-fc-8254-8943-8400"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 3
+   },
+   "home": "sa-neom",
+   "away": "qa-al-duhail",
+   "kickoff": "2026-11-03T15:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "home": "sa-neom",
+   "away": "qa-al-duhail",
+   "date": "2026-11-03",
+   "status": "FT",
+   "score": [
+    3,
+    0
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://thepeninsulaqatar.com/pdf/20261104_1793745308-660.pdf"
+   ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Said Benrahma",
+     "type": "goal"
+    },
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Abdulmalik Al-Ayiri",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Said Benrahma",
+     "type": "goal"
+    }
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 3
+   },
+   "home": "om-al-shabab-oman",
+   "away": "ye-shaab-hadramaut",
+   "kickoff": "2026-11-03T15:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "home": "om-al-shabab-oman",
+   "away": "ye-shaab-hadramaut",
+   "date": "2026-11-03",
+   "status": "FT",
+   "score": [
+    4,
+    0
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://www.omandaily.om/article/1214225"
+   ],
+   "ht": [
+    2,
+    0
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 3
+   },
+   "home": "iq-al-zawraa",
+   "away": "bh-al-riffa",
+   "kickoff": "2026-11-03T15:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "home": "iq-al-zawraa",
+   "away": "bh-al-riffa",
+   "date": "2026-11-03",
+   "status": "FT",
+   "score": [
+    1,
+    1
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://www.gdnonline.com/Details/1411767/Riffa-escape-defeat"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 3
+   },
+   "home": "ae-al-nasr",
+   "away": "qa-qatar-sc",
+   "kickoff": "2026-11-04T15:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "home": "ae-al-nasr",
+   "away": "qa-qatar-sc",
+   "date": "2026-11-04",
+   "status": "FT",
+   "score": [
+    4,
+    1
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://thepeninsulaqatar.com/article/05/11/2026/qatar-sc-slump-to-4-1-defeat-against-al-nasr"
+   ],
+   "ht": [
+    2,
+    1
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 3
+   },
+   "home": "sa-al-ettifaq",
+   "away": "ae-ajman",
+   "kickoff": "2026-11-04T15:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "home": "sa-al-ettifaq",
+   "away": "ae-ajman",
+   "date": "2026-11-04",
+   "status": "FT",
+   "score": [
+    2,
+    0
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://www.albayan.ae/sports/uae-stadiums/1562849",
+    "https://www.emaratalyoum.com/sports/local/2026-11-05-1.2099369"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 3
+   },
+   "home": "iq-erbil",
+   "away": "kw-kazma",
+   "kickoff": "2026-11-04T15:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "result",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "home": "iq-erbil",
+   "away": "kw-kazma",
+   "date": "2026-11-04",
+   "status": "FT",
+   "score": [
+    6,
+    0
+   ],
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://alraimedia.com/article/1785090"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 4
+   },
+   "home": "bh-al-riffa",
+   "away": "iq-al-zawraa",
+   "kickoff": "2026-11-24T15:30:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 4
+   },
+   "home": "ae-ajman",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-11-24T17:30:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 4
+   },
+   "home": "qa-al-duhail",
+   "away": "sa-neom",
+   "kickoff": "2026-11-24T18:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 4
+   },
+   "home": "kw-kazma",
+   "away": "iq-erbil",
+   "kickoff": "2026-11-25T15:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 4
+   },
+   "home": "ye-shaab-hadramaut",
+   "away": "om-al-shabab-oman",
+   "kickoff": "2026-11-25T16:30:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 4
+   },
+   "home": "qa-qatar-sc",
+   "away": "ae-al-nasr",
+   "kickoff": "2026-11-25T18:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 5
+   },
+   "home": "kw-kazma",
+   "away": "sa-al-ettifaq",
+   "kickoff": "2026-12-08T15:00:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 5
+   },
+   "home": "iq-erbil",
+   "away": "ae-ajman",
+   "kickoff": "2026-12-08T16:30:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 5
+   },
+   "home": "om-al-shabab-oman",
+   "away": "qa-al-duhail",
+   "kickoff": "2026-12-08T17:30:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 5
+   },
+   "home": "bh-al-riffa",
+   "away": "ae-al-nasr",
+   "kickoff": "2026-12-09T15:15:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 5
+   },
+   "home": "ye-shaab-hadramaut",
+   "away": "sa-neom",
+   "kickoff": "2026-12-09T16:30:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "op": "fixture",
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 5
+   },
+   "home": "iq-al-zawraa",
+   "away": "qa-qatar-sc",
+   "kickoff": "2026-12-09T18:30:00Z",
+   "timeConfirmed": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  }
+ ],
+ "unconfirmed": [
+  {
+   "match": "gulf-club-cl-2026-27-groups-ga-r02-ye-shaab-hadramaut-qa-al-duhail",
+   "claim": "1-2",
+   "sources": [
+    "https://thepeninsulaqatar.com/article/29/10/2026/al-duhail-edge-shaab-hadramout-to-maintain-winning-run-in-gccl"
+   ]
+  }
+ ]
+}

@@ -343,6 +343,37 @@
    ]
   },
   {
+   "id": "gulf-club-cl-2026-27-groups-gc-r02-kw-kazma-ae-ajman",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 2
+   },
+   "kickoff": "2026-10-27T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "kw-kazma",
+   "away": "ae-ajman",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-27-1.2096676",
+    "https://www.albayan.ae/sports/uae-stadiums/1560975"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
    "id": "gulf-club-cl-2026-27-groups-ga-r02-om-al-shabab-oman-sa-neom",
    "stage": {
     "key": "groups",
@@ -402,6 +433,550 @@
     "https://www.gdnonline.com/Details/1411060/Saeed-hits-brace-to-fuel-Riffa-win"
    ],
    "updatedAt": "2026-10-30T01:48:35.494Z"
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-ga-r02-ye-shaab-hadramaut-qa-al-duhail",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 2
+   },
+   "kickoff": "2026-10-28T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "ye-shaab-hadramaut",
+   "away": "qa-al-duhail",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.albayan.ae/sports/arab-stadiums/1560582",
+    "https://thepeninsulaqatar.com/article/29/10/2026/al-duhail-edge-shaab-hadramout-to-maintain-winning-run-in-gccl"
+   ]
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gb-r02-iq-al-zawraa-ae-al-nasr",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 2
+   },
+   "kickoff": "2026-10-28T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "iq-al-zawraa",
+   "away": "ae-al-nasr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-28-1.2097084",
+    "https://www.albayan.ae/sports/uae-stadiums/1561293"
+   ],
+   "goals": [
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Ramon Mierez",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gc-r02-iq-erbil-sa-al-ettifaq",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 2
+   },
+   "kickoff": "2026-10-28T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "iq-erbil",
+   "away": "sa-al-ettifaq",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "AWD",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.khaleejtimes.com/world/gulf/football-body-saudi-club-defeat-150000-fine-missing-iraq-match",
+    "https://www.365scores.com/en-us/football/match/gulf-club-champions-league-8400/al-ettifaq-erbil-fc-8254-8943-8400"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-ga-r03-om-al-shabab-oman-ye-shaab-hadramaut",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 3
+   },
+   "kickoff": "2026-11-03T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "om-al-shabab-oman",
+   "away": "ye-shaab-hadramaut",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://www.omandaily.om/article/1214225"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-ga-r03-sa-neom-qa-al-duhail",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 3
+   },
+   "kickoff": "2026-11-03T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "sa-neom",
+   "away": "qa-al-duhail",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://thepeninsulaqatar.com/pdf/20261104_1793745308-660.pdf"
+   ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Said Benrahma",
+     "type": "goal"
+    },
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Abdulmalik Al-Ayiri",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Said Benrahma",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gb-r03-iq-al-zawraa-bh-al-riffa",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 3
+   },
+   "kickoff": "2026-11-03T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "iq-al-zawraa",
+   "away": "bh-al-riffa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://www.gdnonline.com/Details/1411767/Riffa-escape-defeat"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gb-r03-ae-al-nasr-qa-qatar-sc",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 3
+   },
+   "kickoff": "2026-11-04T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "ae-al-nasr",
+   "away": "qa-qatar-sc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1,
+    "ht": [
+     2,
+     1
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://thepeninsulaqatar.com/article/05/11/2026/qatar-sc-slump-to-4-1-defeat-against-al-nasr"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gc-r03-iq-erbil-kw-kazma",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 3
+   },
+   "kickoff": "2026-11-04T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "iq-erbil",
+   "away": "kw-kazma",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 6,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://alraimedia.com/article/1785090"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gc-r03-sa-al-ettifaq-ae-ajman",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 3
+   },
+   "kickoff": "2026-11-04T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "sa-al-ettifaq",
+   "away": "ae-ajman",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://www.albayan.ae/sports/uae-stadiums/1562849",
+    "https://www.emaratalyoum.com/sports/local/2026-11-05-1.2099369"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gb-r04-bh-al-riffa-iq-al-zawraa",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 4
+   },
+   "kickoff": "2026-11-24T15:30:00Z",
+   "timeConfirmed": false,
+   "home": "bh-al-riffa",
+   "away": "iq-al-zawraa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gc-r04-ae-ajman-sa-al-ettifaq",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 4
+   },
+   "kickoff": "2026-11-24T17:30:00Z",
+   "timeConfirmed": false,
+   "home": "ae-ajman",
+   "away": "sa-al-ettifaq",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-ga-r04-qa-al-duhail-sa-neom",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 4
+   },
+   "kickoff": "2026-11-24T18:00:00Z",
+   "timeConfirmed": false,
+   "home": "qa-al-duhail",
+   "away": "sa-neom",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gc-r04-kw-kazma-iq-erbil",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 4
+   },
+   "kickoff": "2026-11-25T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "kw-kazma",
+   "away": "iq-erbil",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-ga-r04-ye-shaab-hadramaut-om-al-shabab-oman",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 4
+   },
+   "kickoff": "2026-11-25T16:30:00Z",
+   "timeConfirmed": false,
+   "home": "ye-shaab-hadramaut",
+   "away": "om-al-shabab-oman",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gb-r04-qa-qatar-sc-ae-al-nasr",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 4
+   },
+   "kickoff": "2026-11-25T18:00:00Z",
+   "timeConfirmed": false,
+   "home": "qa-qatar-sc",
+   "away": "ae-al-nasr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gc-r05-kw-kazma-sa-al-ettifaq",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 5
+   },
+   "kickoff": "2026-12-08T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "kw-kazma",
+   "away": "sa-al-ettifaq",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gc-r05-iq-erbil-ae-ajman",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 5
+   },
+   "kickoff": "2026-12-08T16:30:00Z",
+   "timeConfirmed": false,
+   "home": "iq-erbil",
+   "away": "ae-ajman",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-ga-r05-om-al-shabab-oman-qa-al-duhail",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 5
+   },
+   "kickoff": "2026-12-08T17:30:00Z",
+   "timeConfirmed": false,
+   "home": "om-al-shabab-oman",
+   "away": "qa-al-duhail",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gb-r05-bh-al-riffa-ae-al-nasr",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 5
+   },
+   "kickoff": "2026-12-09T15:15:00Z",
+   "timeConfirmed": false,
+   "home": "bh-al-riffa",
+   "away": "ae-al-nasr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-ga-r05-ye-shaab-hadramaut-sa-neom",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 5
+   },
+   "kickoff": "2026-12-09T16:30:00Z",
+   "timeConfirmed": false,
+   "home": "ye-shaab-hadramaut",
+   "away": "sa-neom",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "id": "gulf-club-cl-2026-27-groups-gb-r05-iq-al-zawraa-qa-qatar-sc",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 5
+   },
+   "kickoff": "2026-12-09T18:30:00Z",
+   "timeConfirmed": false,
+   "home": "iq-al-zawraa",
+   "away": "qa-qatar-sc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
   }
  ]
 }

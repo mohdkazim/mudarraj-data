@@ -5008,6 +5008,32 @@
    ]
   },
   {
+   "id": "saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-11-20T17:00:00Z",
+   "timeConfirmed": false,
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-nassr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270306&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
    "id": "saudi-pro-league-2026-27-regular-r14-sa-al-ahli-saudi-sa-al-faisaly",
    "stage": {
     "key": "regular",
@@ -5021,12 +5047,14 @@
    "away": "sa-al-faisaly",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5043,12 +5071,14 @@
    "away": "sa-al-fateh",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5065,12 +5095,14 @@
    "away": "sa-al-diriyah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5087,12 +5119,14 @@
    "away": "sa-al-ittihad",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5109,13 +5143,15 @@
    "away": "sa-al-qadsiah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
-    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5132,13 +5168,15 @@
    "away": "sa-al-hazem",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
-    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5155,12 +5193,14 @@
    "away": "sa-al-ettifaq",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5177,12 +5217,14 @@
    "away": "sa-abha",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5199,12 +5241,14 @@
    "away": "sa-al-kholood",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5221,12 +5265,14 @@
    "away": "sa-al-riyadh",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5243,12 +5289,14 @@
    "away": "sa-al-fayha",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5265,13 +5313,15 @@
    "away": "sa-al-hazem",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
-    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5288,12 +5338,14 @@
    "away": "sa-al-khaleej",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5310,13 +5362,15 @@
    "away": "sa-al-ahli-saudi",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
-    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch"
+    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5333,12 +5387,14 @@
    "away": "sa-al-hilal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5355,13 +5411,15 @@
    "away": "sa-al-shabab",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
-    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5378,12 +5436,14 @@
    "away": "sa-al-fateh",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -5400,12 +5460,14 @@
    "away": "sa-al-taawoun",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -6036,30 +6098,6 @@
    ]
   },
   {
-   "id": "saudi-pro-league-2026-27-regular-r09-sa-al-riyadh-sa-al-hilal",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 9
-   },
-   "kickoff": "2026-12-19T14:45:00Z",
-   "timeConfirmed": true,
-   "home": "sa-al-riyadh",
-   "away": "sa-al-hilal",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261219&lang=en&region=us",
-    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
-    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9"
-   ]
-  },
-  {
    "id": "saudi-pro-league-2026-27-regular-r09-sa-al-ittihad-sa-al-shabab",
    "stage": {
     "key": "regular",
@@ -6067,8 +6105,8 @@
     "group": null,
     "round": 9
    },
-   "kickoff": "2026-12-19T17:30:00Z",
-   "timeConfirmed": true,
+   "kickoff": "2026-12-21T17:00:00Z",
+   "timeConfirmed": false,
    "home": "sa-al-ittihad",
    "away": "sa-al-shabab",
    "homePlaceholder": null,
@@ -6080,7 +6118,33 @@
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261219&lang=en&region=us",
     "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
-    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9"
+    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "id": "saudi-pro-league-2026-27-regular-r09-sa-al-riyadh-sa-al-hilal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-12-21T17:00:00Z",
+   "timeConfirmed": false,
+   "home": "sa-al-riyadh",
+   "away": "sa-al-hilal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261219&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
    ]
   },
   {
@@ -6682,31 +6746,6 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270225&limit=100"
-   ]
-  },
-  {
-   "id": "saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 9
-   },
-   "kickoff": "2027-03-06T19:00:00Z",
-   "timeConfirmed": true,
-   "home": "sa-al-ahli-saudi",
-   "away": "sa-al-nassr",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270306&lang=en&region=us",
-    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
-    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9",
-    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
    ]
   },
   {

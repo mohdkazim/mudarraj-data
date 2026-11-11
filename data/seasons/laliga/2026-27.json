@@ -5770,15 +5770,28 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"
+    "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11",
+    "https://www.365scores.com/es/football/match/laliga-11/rayo-vallecano-real-sociedad-154-174-11"
    ],
-   "updatedAt": "2026-11-08T21:38:03.680Z"
+   "updatedAt": "2026-11-08T21:38:03.680Z",
+   "goals": [
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "Orri Óskarsson",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r12-es-celta-vigo-es-levante",
@@ -5827,15 +5840,35 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.skysports.com/la-liga-scores-fixtures",
-    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11"
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11",
+    "https://www.365scores.com/en-us/football/match/laliga-11/getafe-villarreal-133-140-11"
    ],
-   "updatedAt": "2026-11-09T01:48:51.475Z"
+   "updatedAt": "2026-11-09T01:48:51.475Z",
+   "goals": [
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Tajon Buchanan",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "home",
+     "player": "Carlos Romero",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r12-es-atletico-madrid-es-barcelona",
@@ -5854,15 +5887,40 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 2
+    "away": 2,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.skysports.com/la-liga-scores-fixtures",
-    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11"
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11",
+    "https://www.laliga.com/en-ID/match/temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-fc-barcelona-12"
    ],
-   "updatedAt": "2026-11-09T01:48:51.475Z"
+   "updatedAt": "2026-11-09T01:48:51.475Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Giuliano Simeone",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Fermín López",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "away",
+     "player": "Fermín López",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "laliga-2026-27-regular-r13-es-athletic-club-es-espanyol",
@@ -6259,28 +6317,6 @@
    ]
   },
   {
-   "id": "laliga-2026-27-regular-r14-es-real-sociedad-es-sevilla",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 14
-   },
-   "kickoff": "2026-11-29T16:00:00Z",
-   "timeConfirmed": false,
-   "home": "es-real-sociedad",
-   "away": "es-sevilla",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14"
-   ]
-  },
-  {
    "id": "laliga-2026-27-regular-r14-es-celta-vigo-es-villarreal",
    "stage": {
     "key": "regular",
@@ -6302,6 +6338,29 @@
     "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
     "https://www.skysports.com/la-liga-scores-fixtures/2026-11-01",
     "https://www.skysports.com/la-liga-scores-fixtures"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r14-es-real-sociedad-es-sevilla",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-sociedad",
+   "away": "es-sevilla",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.laliga.com/en-GB/clubs/real-sociedad/next-matches"
    ]
   },
   {

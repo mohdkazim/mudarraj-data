@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-10T01:48:05.699Z",
+ "generatedAt": "2026-11-11T01:51:56.855Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
-  "matches": 1918,
-  "results": 891,
-  "pending": 0
+  "matches": 1950,
+  "results": 900,
+  "pending": 1
  },
  "teams": [
   {
@@ -55124,6 +55124,39 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gc-r02-kw-kazma-ae-ajman",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 2
+   },
+   "kickoff": "2026-10-27T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "kw-kazma",
+   "away": "ae-ajman",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-27-1.2096676",
+    "https://www.albayan.ae/sports/uae-stadiums/1560975"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
    "competition": "acl2",
    "season": "2026-27",
    "id": "acl2-2026-27-groups-gd-r03-om-al-seeb-in-east-bengal",
@@ -56282,6 +56315,101 @@
     "https://assets.the-afc.com/2026-27_ACL_Two/Downloads/AFC-Champions-League-Two-2026-27-Group-Stage-Match-Schedule-25Sep-upd.pdf"
    ],
    "updatedAt": "2026-10-28T22:40:05.637Z"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-ga-r02-ye-shaab-hadramaut-qa-al-duhail",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 2
+   },
+   "kickoff": "2026-10-28T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "ye-shaab-hadramaut",
+   "away": "qa-al-duhail",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.albayan.ae/sports/arab-stadiums/1560582",
+    "https://thepeninsulaqatar.com/article/29/10/2026/al-duhail-edge-shaab-hadramout-to-maintain-winning-run-in-gccl"
+   ]
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gb-r02-iq-al-zawraa-ae-al-nasr",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 2
+   },
+   "kickoff": "2026-10-28T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "iq-al-zawraa",
+   "away": "ae-al-nasr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-28-1.2097084",
+    "https://www.albayan.ae/sports/uae-stadiums/1561293"
+   ],
+   "goals": [
+    {
+     "minute": 64,
+     "side": "away",
+     "player": "Ramon Mierez",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gc-r02-iq-erbil-sa-al-ettifaq",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 2
+   },
+   "kickoff": "2026-10-28T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "iq-erbil",
+   "away": "sa-al-ettifaq",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "AWD",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.khaleejtimes.com/world/gulf/football-body-saudi-club-defeat-150000-fine-missing-iraq-match",
+    "https://www.365scores.com/en-us/football/match/gulf-club-champions-league-8400/al-ettifaq-erbil-fc-8254-8943-8400"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
   },
   {
    "competition": "acl2",
@@ -60759,6 +60887,137 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-ga-r03-om-al-shabab-oman-ye-shaab-hadramaut",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 3
+   },
+   "kickoff": "2026-11-03T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "om-al-shabab-oman",
+   "away": "ye-shaab-hadramaut",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
+   },
+   "venue": {
+    "name": {
+     "en": "Al Rustaq Sports Complex",
+     "ar": "مجمع الرستاق الرياضي"
+    },
+    "city": {
+     "en": "Rustaq",
+     "ar": "الرستاق"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://www.omandaily.om/article/1214225"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z",
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-ga-r03-sa-neom-qa-al-duhail",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 3
+   },
+   "kickoff": "2026-11-03T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "sa-neom",
+   "away": "qa-al-duhail",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
+   "venue": {
+    "name": {
+     "en": "King Khalid Sports City",
+     "ar": "مدينة الملك خالد الرياضية"
+    },
+    "city": {
+     "en": "Tabuk",
+     "ar": "تبوك"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://thepeninsulaqatar.com/pdf/20261104_1793745308-660.pdf"
+   ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Said Benrahma",
+     "type": "goal"
+    },
+    {
+     "minute": 11,
+     "side": "home",
+     "player": "Abdulmalik Al-Ayiri",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Said Benrahma",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z",
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gb-r03-iq-al-zawraa-bh-al-riffa",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 3
+   },
+   "kickoff": "2026-11-03T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "iq-al-zawraa",
+   "away": "bh-al-riffa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://www.gdnonline.com/Details/1411767/Riffa-escape-defeat"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
    "competition": "acl2",
    "season": "2026-27",
    "id": "acl2-2026-27-groups-gd-r04-jo-al-hussein-iq-al-shorta",
@@ -61687,6 +61946,118 @@
     }
    ],
    "updatedAt": "2026-11-04T21:42:24.302Z",
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gb-r03-ae-al-nasr-qa-qatar-sc",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 3
+   },
+   "kickoff": "2026-11-04T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "ae-al-nasr",
+   "away": "qa-qatar-sc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1,
+    "ht": [
+     2,
+     1
+    ]
+   },
+   "venue": {
+    "name": {
+     "en": "Al Maktoum Stadium",
+     "ar": "استاد آل مكتوم"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://thepeninsulaqatar.com/article/05/11/2026/qatar-sc-slump-to-4-1-defeat-against-al-nasr"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z",
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gc-r03-iq-erbil-kw-kazma",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 3
+   },
+   "kickoff": "2026-11-04T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "iq-erbil",
+   "away": "kw-kazma",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 6,
+    "away": 0
+   },
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://alraimedia.com/article/1785090"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gc-r03-sa-al-ettifaq-ae-ajman",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 3
+   },
+   "kickoff": "2026-11-04T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "sa-al-ettifaq",
+   "away": "ae-ajman",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
+   "venue": {
+    "name": {
+     "en": "Al-Ettifaq Club Stadium",
+     "ar": "ملعب نادي الاتفاق"
+    },
+    "city": {
+     "en": "Dammam",
+     "ar": "الدمام"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+    "https://www.albayan.ae/sports/uae-stadiums/1562849",
+    "https://www.emaratalyoum.com/sports/local/2026-11-05-1.2099369"
+   ],
+   "updatedAt": "2026-11-11T01:51:44.099Z",
    "venueFrom": "home-ground"
   },
   {
@@ -65155,7 +65526,11 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -65170,9 +65545,18 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11"
+    "https://www.365scores.com/en-us/football/match/laliga-11/celta-vigo-levante-150-158-11",
+    "https://www.365scores.com/es/football/match/laliga-11/rayo-vallecano-real-sociedad-154-174-11"
    ],
    "updatedAt": "2026-11-08T21:38:03.680Z",
+   "goals": [
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "Orri Óskarsson",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -65532,7 +65916,11 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -65547,9 +65935,25 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/la-liga-scores-fixtures",
-    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11"
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11",
+    "https://www.365scores.com/en-us/football/match/laliga-11/getafe-villarreal-133-140-11"
    ],
    "updatedAt": "2026-11-09T01:48:51.475Z",
+   "goals": [
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Tajon Buchanan",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "home",
+     "player": "Carlos Romero",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -65704,7 +66108,11 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 2
+    "away": 2,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": {
     "name": {
@@ -65719,9 +66127,30 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/la-liga-scores-fixtures",
-    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11"
+    "https://www.365scores.com/en-uk/football/match/laliga-11/real-madrid-valencia-131-139-11",
+    "https://www.laliga.com/en-ID/match/temporada-2026-2027-laliga-ea-sports-atletico-de-madrid-fc-barcelona-12"
    ],
    "updatedAt": "2026-11-09T01:48:51.475Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Giuliano Simeone",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "side": "away",
+     "player": "Fermín López",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "away",
+     "player": "Fermín López",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -66105,17 +66534,17 @@
   {
    "competition": "saudi-pro-league",
    "season": "2026-27",
-   "id": "saudi-pro-league-2026-27-regular-r14-sa-al-ahli-saudi-sa-al-faisaly",
+   "id": "saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr",
    "stage": {
     "key": "regular",
     "type": "league",
     "group": null,
-    "round": 14
+    "round": 9
    },
    "kickoff": "2026-11-20T17:00:00Z",
    "timeConfirmed": false,
    "home": "sa-al-ahli-saudi",
-   "away": "sa-al-faisaly",
+   "away": "sa-al-nassr",
    "homePlaceholder": null,
    "awayPlaceholder": null,
    "status": "NS",
@@ -66132,7 +66561,47 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270306&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "id": "saudi-pro-league-2026-27-regular-r14-sa-al-ahli-saudi-sa-al-faisaly",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-20T17:00:00Z",
+   "timeConfirmed": false,
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-faisaly",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "PST",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد مدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -66152,7 +66621,7 @@
    "away": "sa-al-fateh",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -66166,7 +66635,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -66186,7 +66657,7 @@
    "away": "sa-al-diriyah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -66200,7 +66671,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -66220,7 +66693,7 @@
    "away": "sa-al-ittihad",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -66234,7 +66707,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -66254,7 +66729,7 @@
    "away": "sa-al-qadsiah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -66269,7 +66744,9 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
-    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -66289,7 +66766,7 @@
    "away": "sa-al-hazem",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -66304,7 +66781,9 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
-    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -66324,7 +66803,7 @@
    "away": "sa-al-ettifaq",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -66338,7 +66817,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -66358,7 +66839,7 @@
    "away": "sa-abha",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -66372,7 +66853,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -66392,7 +66875,7 @@
    "away": "sa-al-kholood",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -66406,7 +66889,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -68326,6 +68811,30 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gb-r04-bh-al-riffa-iq-al-zawraa",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 4
+   },
+   "kickoff": "2026-11-24T15:30:00Z",
+   "timeConfirmed": false,
+   "home": "bh-al-riffa",
+   "away": "iq-al-zawraa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
    "competition": "acl2",
    "season": "2026-27",
    "id": "acl2-2026-27-groups-gd-r05-om-al-seeb-iq-al-shorta",
@@ -68396,6 +68905,40 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gc-r04-ae-ajman-sa-al-ettifaq",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 4
+   },
+   "kickoff": "2026-11-24T17:30:00Z",
+   "timeConfirmed": false,
+   "home": "ae-ajman",
+   "away": "sa-al-ettifaq",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Rashid bin Saeed Stadium",
+     "ar": "استاد راشد بن سعيد"
+    },
+    "city": {
+     "en": "Ajman",
+     "ar": "عجمان"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "ucl",
    "season": "2026-27",
    "id": "ucl-2026-27-league-phase-r05-no-bod-glimt-at-lask",
@@ -68462,6 +69005,40 @@
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-ga-r04-qa-al-duhail-sa-neom",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 4
+   },
+   "kickoff": "2026-11-24T18:00:00Z",
+   "timeConfirmed": false,
+   "home": "qa-al-duhail",
+   "away": "sa-neom",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Abdullah bin Khalifa Stadium",
+     "ar": "استاد عبدالله بن خليفة"
+    },
+    "city": {
+     "en": "Doha",
+     "ar": "الدوحة"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
    ],
    "venueFrom": "home-ground"
   },
@@ -68923,6 +69500,30 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gc-r04-kw-kazma-iq-erbil",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 4
+   },
+   "kickoff": "2026-11-25T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "kw-kazma",
+   "away": "iq-erbil",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
    "competition": "acl2",
    "season": "2026-27",
    "id": "acl2-2026-27-groups-ga-r05-kw-kuwait-sc-ae-al-wahda",
@@ -69063,6 +69664,30 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-ga-r04-ye-shaab-hadramaut-om-al-shabab-oman",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 4
+   },
+   "kickoff": "2026-11-25T16:30:00Z",
+   "timeConfirmed": false,
+   "home": "ye-shaab-hadramaut",
+   "away": "om-al-shabab-oman",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
    "competition": "ucl",
    "season": "2026-27",
    "id": "ucl-2026-27-league-phase-r05-az-sabah-es-barcelona",
@@ -69129,6 +69754,40 @@
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gb-r04-qa-qatar-sc-ae-al-nasr",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 4
+   },
+   "kickoff": "2026-11-25T18:00:00Z",
+   "timeConfirmed": false,
+   "home": "qa-qatar-sc",
+   "away": "ae-al-nasr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Suhaim bin Hamad Stadium",
+     "ar": "استاد سحيم بن حمد"
+    },
+    "city": {
+     "en": "Doha",
+     "ar": "الدوحة"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
    ],
    "venueFrom": "home-ground"
   },
@@ -69644,7 +70303,7 @@
    "away": "sa-al-riyadh",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -69658,7 +70317,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -69678,7 +70339,7 @@
    "away": "sa-al-fayha",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -69692,7 +70353,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -69712,7 +70375,7 @@
    "away": "sa-al-hazem",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -69727,7 +70390,9 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
-    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches"
+    "https://www.365scores.com/en-us/football/team/al-hazm-14895/matches",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -69747,7 +70412,7 @@
    "away": "sa-al-khaleej",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -69761,7 +70426,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -69781,7 +70448,7 @@
    "away": "sa-al-ahli-saudi",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -69796,7 +70463,9 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
-    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch"
+    "https://www.spl.com.sa/en/news/1080572/title-duels-derbies-debutants-10-matches-to-watch",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -69816,7 +70485,7 @@
    "away": "sa-al-hilal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -69830,7 +70499,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -69850,7 +70521,7 @@
    "away": "sa-al-shabab",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -69865,7 +70536,9 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
-    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -69885,7 +70558,7 @@
    "away": "sa-al-fateh",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -69899,7 +70572,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -69919,7 +70594,7 @@
    "away": "sa-al-taawoun",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
+   "status": "PST",
    "score": null,
    "venue": {
     "name": {
@@ -69933,7 +70608,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100"
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261126&limit=100",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
+    "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -70983,40 +71660,6 @@
    ]
   },
   {
-   "competition": "laliga",
-   "season": "2026-27",
-   "id": "laliga-2026-27-regular-r14-es-real-sociedad-es-sevilla",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 14
-   },
-   "kickoff": "2026-11-29T16:00:00Z",
-   "timeConfirmed": false,
-   "home": "es-real-sociedad",
-   "away": "es-sevilla",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Reale Arena",
-     "ar": "ملعب ريالي أرينا"
-    },
-    "city": {
-     "en": "San Sebastián",
-     "ar": "سان سيباستيان"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
    "competition": "bundesliga",
    "season": "2026-27",
    "id": "bundesliga-2026-27-regular-r11-de-tsg-hoffenheim-de-fc-augsburg",
@@ -71224,6 +71867,41 @@
    "sources": [
     "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata",
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261129&limit=37"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r14-es-real-sociedad-es-sevilla",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-11-29T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-real-sociedad",
+   "away": "es-sevilla",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Reale Arena",
+     "ar": "ملعب ريالي أرينا"
+    },
+    "city": {
+     "en": "San Sebastián",
+     "ar": "سان سيباستيان"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-14",
+    "https://www.laliga.com/en-GB/clubs/real-sociedad/next-matches"
    ],
    "venueFrom": "home-ground"
   },
@@ -71963,6 +72641,41 @@
    ]
   },
   {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r13-gb-eng-coventry-city-gb-eng-ipswich-town",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-01T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-coventry-city",
+   "away": "gb-eng-ipswich-town",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Coventry Building Society Arena",
+     "ar": "ملعب كوفنتري بيلدينغ سوسايتي أرينا"
+    },
+    "city": {
+     "en": "Coventry",
+     "ar": "كوفنتري"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "acl2",
    "season": "2026-27",
    "id": "acl2-2026-27-groups-ge-r06-kr-fc-seoul-au-melbourne-victory",
@@ -72153,6 +72866,146 @@
    ]
   },
   {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r13-gb-eng-chelsea-gb-eng-crystal-palace",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-chelsea",
+   "away": "gb-eng-crystal-palace",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Stamford Bridge",
+     "ar": "ملعب ستامفورد بريدج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r13-gb-eng-hull-city-gb-eng-nottingham-forest",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-hull-city",
+   "away": "gb-eng-nottingham-forest",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "MKM Stadium",
+     "ar": "ملعب إم كيه إم"
+    },
+    "city": {
+     "en": "Hull",
+     "ar": "هال"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r13-gb-eng-liverpool-gb-eng-sunderland",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "gb-eng-sunderland",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Anfield",
+     "ar": "ملعب أنفيلد"
+    },
+    "city": {
+     "en": "Liverpool",
+     "ar": "ليفربول"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r13-gb-eng-manchester-city-gb-eng-leeds-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "gb-eng-leeds-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Etihad Stadium",
+     "ar": "ملعب الاتحاد"
+    },
+    "city": {
+     "en": "Manchester",
+     "ar": "مانشستر"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "dfb-pokal",
    "season": "2026-27",
    "id": "dfb-pokal-2026-27-r16-de-eintracht-frankfurt-de-borussia-dortmund",
@@ -72225,6 +73078,146 @@
    "sources": [
     "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata"
    ]
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r13-gb-eng-aston-villa-gb-eng-everton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T20:15:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "gb-eng-everton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Villa Park",
+     "ar": "ملعب فيلا بارك"
+    },
+    "city": {
+     "en": "Birmingham",
+     "ar": "برمنغهام"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r13-gb-eng-bournemouth-gb-eng-brighton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T20:15:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-bournemouth",
+   "away": "gb-eng-brighton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Vitality Stadium",
+     "ar": "ملعب فيتاليتي"
+    },
+    "city": {
+     "en": "Bournemouth",
+     "ar": "بورنموث"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r13-gb-eng-brentford-gb-eng-arsenal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T20:15:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brentford",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Gtech Community Stadium",
+     "ar": "ملعب جيتك كوميونيتي"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r13-gb-eng-newcastle-united-gb-eng-manchester-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-02T20:15:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-newcastle-united",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "St James' Park",
+     "ar": "ملعب سانت جيمس بارك"
+    },
+    "city": {
+     "en": "Newcastle",
+     "ar": "نيوكاسل"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
+   ],
+   "venueFrom": "home-ground"
   },
   {
    "competition": "acl2",
@@ -72835,6 +73828,41 @@
    "neutral": false,
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261203&limit=100"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r13-gb-eng-tottenham-hotspur-gb-eng-fulham",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 13
+   },
+   "kickoff": "2026-12-03T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-tottenham-hotspur",
+   "away": "gb-eng-fulham",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Tottenham Hotspur Stadium",
+     "ar": "ملعب توتنهام هوتسبير"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december",
+    "https://www.skysports.com/football-scores-fixtures/2026-12-02"
    ],
    "venueFrom": "home-ground"
   },
@@ -73900,6 +74928,30 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gc-r05-kw-kazma-sa-al-ettifaq",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 5
+   },
+   "kickoff": "2026-12-08T15:00:00Z",
+   "timeConfirmed": false,
+   "home": "kw-kazma",
+   "away": "sa-al-ettifaq",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
    "competition": "acl2",
    "season": "2026-27",
    "id": "acl2-2026-27-groups-gd-r06-iq-al-shorta-in-east-bengal",
@@ -74001,6 +75053,64 @@
    "sources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261208",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=6&s=2026-2027"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gc-r05-iq-erbil-ae-ajman",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "C",
+    "round": 5
+   },
+   "kickoff": "2026-12-08T16:30:00Z",
+   "timeConfirmed": false,
+   "home": "iq-erbil",
+   "away": "ae-ajman",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-ga-r05-om-al-shabab-oman-qa-al-duhail",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 5
+   },
+   "kickoff": "2026-12-08T17:30:00Z",
+   "timeConfirmed": false,
+   "home": "om-al-shabab-oman",
+   "away": "qa-al-duhail",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Al Rustaq Sports Complex",
+     "ar": "مجمع الرستاق الرياضي"
+    },
+    "city": {
+     "en": "Rustaq",
+     "ar": "الرستاق"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
    ],
    "venueFrom": "home-ground"
   },
@@ -74429,6 +75539,30 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gb-r05-bh-al-riffa-ae-al-nasr",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 5
+   },
+   "kickoff": "2026-12-09T15:15:00Z",
+   "timeConfirmed": false,
+   "home": "bh-al-riffa",
+   "away": "ae-al-nasr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
    "competition": "acl2",
    "season": "2026-27",
    "id": "acl2-2026-27-groups-ga-r06-ae-al-wahda-uz-nasaf",
@@ -74569,6 +75703,30 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-ga-r05-ye-shaab-hadramaut-sa-neom",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "A",
+    "round": 5
+   },
+   "kickoff": "2026-12-09T16:30:00Z",
+   "timeConfirmed": false,
+   "home": "ye-shaab-hadramaut",
+   "away": "sa-neom",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
+  },
+  {
    "competition": "ucl",
    "season": "2026-27",
    "id": "ucl-2026-27-league-phase-r06-es-real-betis-it-como",
@@ -74637,6 +75795,30 @@
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=6&s=2026-2027"
    ],
    "venueFrom": "home-ground"
+  },
+  {
+   "competition": "gulf-club-cl",
+   "season": "2026-27",
+   "id": "gulf-club-cl-2026-27-groups-gb-r05-iq-al-zawraa-qa-qatar-sc",
+   "stage": {
+    "key": "groups",
+    "type": "group",
+    "group": "B",
+    "round": 5
+   },
+   "kickoff": "2026-12-09T18:30:00Z",
+   "timeConfirmed": false,
+   "home": "iq-al-zawraa",
+   "away": "qa-qatar-sc",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+   ]
   },
   {
    "competition": "laliga",
@@ -76869,42 +78051,6 @@
    "venueFrom": "home-ground"
   },
   {
-   "competition": "saudi-pro-league",
-   "season": "2026-27",
-   "id": "saudi-pro-league-2026-27-regular-r09-sa-al-riyadh-sa-al-hilal",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 9
-   },
-   "kickoff": "2026-12-19T14:45:00Z",
-   "timeConfirmed": true,
-   "home": "sa-al-riyadh",
-   "away": "sa-al-hilal",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Prince Faisal bin Fahd Sports City",
-     "ar": "ملعب مدينة الأمير فيصل بن فهد الرياضية"
-    },
-    "city": {
-     "en": "Riyadh",
-     "ar": "الرياض"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261219&lang=en&region=us",
-    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
-    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
    "competition": "saudi-super-cup",
    "season": "2026-27",
    "id": "saudi-super-cup-2026-27-sf-sa-al-qadsiah-sa-al-ahli-saudi",
@@ -76972,42 +78118,6 @@
    "neutral": false,
    "sources": [
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261219&limit=37"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "saudi-pro-league",
-   "season": "2026-27",
-   "id": "saudi-pro-league-2026-27-regular-r09-sa-al-ittihad-sa-al-shabab",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 9
-   },
-   "kickoff": "2026-12-19T17:30:00Z",
-   "timeConfirmed": true,
-   "home": "sa-al-ittihad",
-   "away": "sa-al-shabab",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "King Abdullah Sports City Stadium",
-     "ar": "استاد مدينة الملك عبدالله الرياضية"
-    },
-    "city": {
-     "en": "Jeddah",
-     "ar": "جدة"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261219&lang=en&region=us",
-    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
-    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9"
    ],
    "venueFrom": "home-ground"
   },
@@ -77249,6 +78359,80 @@
    "neutral": false,
    "sources": [
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261220&limit=37"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "id": "saudi-pro-league-2026-27-regular-r09-sa-al-ittihad-sa-al-shabab",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-12-21T17:00:00Z",
+   "timeConfirmed": false,
+   "home": "sa-al-ittihad",
+   "away": "sa-al-shabab",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "King Abdullah Sports City Stadium",
+     "ar": "استاد مدينة الملك عبدالله الرياضية"
+    },
+    "city": {
+     "en": "Jeddah",
+     "ar": "جدة"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261219&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "saudi-pro-league",
+   "season": "2026-27",
+   "id": "saudi-pro-league-2026-27-regular-r09-sa-al-riyadh-sa-al-hilal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-12-21T17:00:00Z",
+   "timeConfirmed": false,
+   "home": "sa-al-riyadh",
+   "away": "sa-al-hilal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Prince Faisal bin Fahd Sports City",
+     "ar": "ملعب مدينة الأمير فيصل بن فهد الرياضية"
+    },
+    "city": {
+     "en": "Riyadh",
+     "ar": "الرياض"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261219&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
    ],
    "venueFrom": "home-ground"
   },
@@ -87946,6 +89130,74 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "uae-presidents-cup",
+   "season": "2026-27",
+   "id": "uae-presidents-cup-2026-27-qf-ae-al-wasl-ae-shabab-al-ahli",
+   "stage": {
+    "key": "qf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-02-25T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-wasl",
+   "away": "ae-shabab-al-ahli",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Al Maktoum Stadium",
+     "ar": "استاد آل مكتوم"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-30-1.2097445",
+    "https://www.albayan.ae/sports/uae-stadiums/1561360"
+   ]
+  },
+  {
+   "competition": "uae-presidents-cup",
+   "season": "2026-27",
+   "id": "uae-presidents-cup-2026-27-qf-ae-al-wahda-ae-al-jazira",
+   "stage": {
+    "key": "qf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-02-26T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "ae-al-wahda",
+   "away": "ae-al-jazira",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Hazza bin Zayed Stadium",
+     "ar": "استاد هزاع بن زايد"
+    },
+    "city": {
+     "en": "Al Ain",
+     "ar": "العين"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-30-1.2097445",
+    "https://www.albayan.ae/sports/uae-stadiums/1561360"
+   ]
+  },
+  {
    "competition": "bundesliga",
    "season": "2026-27",
    "id": "bundesliga-2026-27-regular-r23-de-borussia-dortmund-de-union-berlin",
@@ -88230,6 +89482,40 @@
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20270227&limit=37"
    ],
    "venueFrom": "home-ground"
+  },
+  {
+   "competition": "uae-presidents-cup",
+   "season": "2026-27",
+   "id": "uae-presidents-cup-2026-27-qf-ae-hatta-ae-sharjah",
+   "stage": {
+    "key": "qf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-02-27T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "ae-hatta",
+   "away": "ae-sharjah",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Kalba Stadium",
+     "ar": "استاد كلباء"
+    },
+    "city": {
+     "en": "Kalba",
+     "ar": "كلباء"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-30-1.2097445",
+    "https://www.albayan.ae/sports/uae-stadiums/1561360"
+   ]
   },
   {
    "competition": "serie-a",
@@ -88570,6 +89856,46 @@
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20270228&limit=37"
    ],
    "venueFrom": "home-ground"
+  },
+  {
+   "competition": "uae-presidents-cup",
+   "season": "2026-27",
+   "id": "uae-presidents-cup-2026-27-qf-ae-khorfakkan-ae-bani-yas",
+   "stage": {
+    "key": "qf",
+    "type": "knockout",
+    "group": null,
+    "round": null
+   },
+   "kickoff": "2027-02-28T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "ae-khorfakkan",
+   "away": "ae-bani-yas",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Zabeel Stadium",
+     "ar": "استاد زعبيل"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
+   "neutral": true,
+   "sources": [
+    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1560330",
+    "https://www.emaratalyoum.com/sports/local/2026-10-25-1.2095918",
+    "https://www.emaratalyoum.com/sports/local/2026-10-30-1.2097445",
+    "https://www.albayan.ae/sports/uae-stadiums/1561360"
+   ],
+   "venueSources": [
+    "https://www.emaratalyoum.com/sports/local/2026-10-30-1.2097445",
+    "https://www.albayan.ae/sports/uae-stadiums/1561360"
+   ]
   },
   {
    "competition": "bundesliga",
@@ -89170,43 +90496,6 @@
    "neutral": false,
    "sources": [
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20270306&limit=37"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "saudi-pro-league",
-   "season": "2026-27",
-   "id": "saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 9
-   },
-   "kickoff": "2027-03-06T19:00:00Z",
-   "timeConfirmed": true,
-   "home": "sa-al-ahli-saudi",
-   "away": "sa-al-nassr",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "King Abdullah Sports City Stadium",
-     "ar": "استاد مدينة الملك عبدالله الرياضية"
-    },
-    "city": {
-     "en": "Jeddah",
-     "ar": "جدة"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270306&lang=en&region=us",
-    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
-    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9",
-    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches"
    ],
    "venueFrom": "home-ground"
   },
@@ -100018,106 +101307,6 @@
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20270530&limit=37"
    ],
    "venueFrom": "home-ground"
-  },
-  {
-   "competition": "uae-presidents-cup",
-   "season": "2026-27",
-   "id": "uae-presidents-cup-2026-27-qf-ae-al-jazira-ae-al-wahda",
-   "stage": {
-    "key": "qf",
-    "type": "knockout",
-    "group": null,
-    "round": null
-   },
-   "kickoff": null,
-   "timeConfirmed": false,
-   "home": "ae-al-jazira",
-   "away": "ae-al-wahda",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "TBD",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1560330",
-    "https://www.emaratalyoum.com/sports/local/2026-10-25-1.2095918"
-   ]
-  },
-  {
-   "competition": "uae-presidents-cup",
-   "season": "2026-27",
-   "id": "uae-presidents-cup-2026-27-qf-ae-khorfakkan-ae-bani-yas",
-   "stage": {
-    "key": "qf",
-    "type": "knockout",
-    "group": null,
-    "round": null
-   },
-   "kickoff": null,
-   "timeConfirmed": false,
-   "home": "ae-khorfakkan",
-   "away": "ae-bani-yas",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "TBD",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1560330",
-    "https://www.emaratalyoum.com/sports/local/2026-10-25-1.2095918"
-   ]
-  },
-  {
-   "competition": "uae-presidents-cup",
-   "season": "2026-27",
-   "id": "uae-presidents-cup-2026-27-qf-ae-shabab-al-ahli-ae-al-wasl",
-   "stage": {
-    "key": "qf",
-    "type": "knockout",
-    "group": null,
-    "round": null
-   },
-   "kickoff": null,
-   "timeConfirmed": false,
-   "home": "ae-shabab-al-ahli",
-   "away": "ae-al-wasl",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "TBD",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1560330",
-    "https://www.emaratalyoum.com/sports/local/2026-10-25-1.2095918"
-   ]
-  },
-  {
-   "competition": "uae-presidents-cup",
-   "season": "2026-27",
-   "id": "uae-presidents-cup-2026-27-qf-ae-sharjah-ae-hatta",
-   "stage": {
-    "key": "qf",
-    "type": "knockout",
-    "group": null,
-    "round": null
-   },
-   "kickoff": null,
-   "timeConfirmed": false,
-   "home": "ae-sharjah",
-   "away": "ae-hatta",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "TBD",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://www.albayan.ae/sports/uae-stadiums/presidents-cup/1560330",
-    "https://www.emaratalyoum.com/sports/local/2026-10-25-1.2095918"
-   ]
   }
  ],
  "news": {

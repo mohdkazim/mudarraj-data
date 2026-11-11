@@ -4407,3 +4407,80 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ fixture laliga-2026-27-regular-r14-es-deportivo-la-coruna-es-barcelona kick-off 2026-11-29T15:15:00Z
   - ✓ fixture laliga-2026-27-regular-r14-es-celta-vigo-es-villarreal kick-off 2026-11-29T17:30:00Z
   - ✓ fixture laliga-2026-27-regular-r14-es-espanyol-es-getafe kick-off 2026-11-30T20:00:00Z
+
+## 2026-11-11 (2026-11-11T01:51:43Z)
+- 74 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r12-es-atletico-madrid-es-barcelona added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r12-es-real-sociedad-es-rayo-vallecano added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r12-es-villarreal-es-getafe added half-time and scorers to the confirmed result
+  - ✓ fixture laliga-2026-27-regular-r14-es-real-sociedad-es-sevilla kick-off 2026-11-29T20:00:00Z
+  - ✓ fixture epl-2026-27-regular-r13-gb-eng-coventry-city-gb-eng-ipswich-town added
+  - ✓ fixture epl-2026-27-regular-r13-gb-eng-chelsea-gb-eng-crystal-palace added
+  - ✓ fixture epl-2026-27-regular-r13-gb-eng-hull-city-gb-eng-nottingham-forest added
+  - ✓ fixture epl-2026-27-regular-r13-gb-eng-liverpool-gb-eng-sunderland added
+  - ✓ fixture epl-2026-27-regular-r13-gb-eng-manchester-city-gb-eng-leeds-united added
+  - ✓ fixture epl-2026-27-regular-r13-gb-eng-aston-villa-gb-eng-everton added
+  - ✓ fixture epl-2026-27-regular-r13-gb-eng-bournemouth-gb-eng-brighton added
+  - ✓ fixture epl-2026-27-regular-r13-gb-eng-brentford-gb-eng-arsenal added
+  - ✓ fixture epl-2026-27-regular-r13-gb-eng-newcastle-united-gb-eng-manchester-united added
+  - ✓ fixture epl-2026-27-regular-r13-gb-eng-tottenham-hotspur-gb-eng-fulham added
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr kick-off 2026-11-20T17:00:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-riyadh-sa-al-hilal kick-off 2026-12-21T17:00:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-ittihad-sa-al-shabab kick-off 2026-12-21T17:00:00Z
+  - ✓ status saudi-pro-league-2026-27-regular-r14-sa-al-ahli-saudi-sa-al-faisaly PST
+  - ✓ status saudi-pro-league-2026-27-regular-r14-sa-al-fayha-sa-al-fateh PST
+  - ✓ status saudi-pro-league-2026-27-regular-r14-sa-al-hilal-sa-al-diriyah PST
+  - ✓ status saudi-pro-league-2026-27-regular-r14-sa-al-khaleej-sa-al-ittihad PST
+  - ✓ status saudi-pro-league-2026-27-regular-r14-sa-al-nassr-sa-al-qadsiah PST
+  - ✓ status saudi-pro-league-2026-27-regular-r14-sa-al-riyadh-sa-al-hazem PST
+  - ✓ status saudi-pro-league-2026-27-regular-r14-sa-al-shabab-sa-al-ettifaq PST
+  - ✓ status saudi-pro-league-2026-27-regular-r14-sa-al-taawoun-sa-abha PST
+  - ✓ status saudi-pro-league-2026-27-regular-r14-sa-neom-sa-al-kholood PST
+  - ✓ status saudi-pro-league-2026-27-regular-r15-sa-abha-sa-al-riyadh PST
+  - ✓ status saudi-pro-league-2026-27-regular-r15-sa-al-diriyah-sa-al-fayha PST
+  - ✓ status saudi-pro-league-2026-27-regular-r15-sa-al-ettifaq-sa-al-hazem PST
+  - ✓ status saudi-pro-league-2026-27-regular-r15-sa-al-faisaly-sa-al-khaleej PST
+  - ✓ status saudi-pro-league-2026-27-regular-r15-sa-al-ittihad-sa-al-ahli-saudi PST
+  - ✓ status saudi-pro-league-2026-27-regular-r15-sa-al-kholood-sa-al-hilal PST
+  - ✓ status saudi-pro-league-2026-27-regular-r15-sa-al-nassr-sa-al-shabab PST
+  - ✓ status saudi-pro-league-2026-27-regular-r15-sa-al-qadsiah-sa-al-fateh PST
+  - ✓ status saudi-pro-league-2026-27-regular-r15-sa-neom-sa-al-taawoun PST
+  - ✓ delete uae-presidents-cup-2026-27-qf-ae-al-jazira-ae-al-wahda deleted (Home and away reversed: organiser lists Al Wahda v Al Jazira (Emarat Al Youm 30 Oct 2026, Al Bayan 29 Oct 2026))
+  - ✓ delete uae-presidents-cup-2026-27-qf-ae-shabab-al-ahli-ae-al-wasl deleted (Home and away reversed: organiser lists Al Wasl v Shabab Al Ahli (Emarat Al Youm 30 Oct 2026, Al Bayan 29 Oct 2026))
+  - ✓ delete uae-presidents-cup-2026-27-qf-ae-sharjah-ae-hatta deleted (Home and away reversed: organiser lists Hatta v Sharjah (Emarat Al Youm 30 Oct 2026, Al Bayan 29 Oct 2026))
+  - ✓ fixture uae-presidents-cup-2026-27-qf-ae-al-wasl-ae-shabab-al-ahli added
+  - ✓ fixture uae-presidents-cup-2026-27-qf-ae-al-wahda-ae-al-jazira added
+  - ✓ fixture uae-presidents-cup-2026-27-qf-ae-hatta-ae-sharjah added
+  - ✓ fixture uae-presidents-cup-2026-27-qf-ae-khorfakkan-ae-bani-yas kick-off 2027-02-28T17:30:00Z
+  - ✓ venue uae-presidents-cup-2026-27-qf-ae-khorfakkan-ae-bani-yas venue Zabeel Stadium (neutral)
+  - ✓ fixture gulf-club-cl-2026-27-groups-gc-r02-kw-kazma-ae-ajman added
+  - ✓ result gulf-club-cl-2026-27-groups-gc-r02-kw-kazma-ae-ajman 1-2 FT
+  - ✓ fixture gulf-club-cl-2026-27-groups-ga-r02-ye-shaab-hadramaut-qa-al-duhail added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gb-r02-iq-al-zawraa-ae-al-nasr added
+  - ✓ result gulf-club-cl-2026-27-groups-gb-r02-iq-al-zawraa-ae-al-nasr 0-1 FT
+  - ✓ fixture gulf-club-cl-2026-27-groups-gc-r02-iq-erbil-sa-al-ettifaq added
+  - ✓ result gulf-club-cl-2026-27-groups-gc-r02-iq-erbil-sa-al-ettifaq 3-0 AWD
+  - ✓ fixture gulf-club-cl-2026-27-groups-ga-r03-sa-neom-qa-al-duhail added
+  - ✓ result gulf-club-cl-2026-27-groups-ga-r03-sa-neom-qa-al-duhail 3-0 FT
+  - ✓ fixture gulf-club-cl-2026-27-groups-ga-r03-om-al-shabab-oman-ye-shaab-hadramaut added
+  - ✓ result gulf-club-cl-2026-27-groups-ga-r03-om-al-shabab-oman-ye-shaab-hadramaut 4-0 FT
+  - ✓ fixture gulf-club-cl-2026-27-groups-gb-r03-iq-al-zawraa-bh-al-riffa added
+  - ✓ result gulf-club-cl-2026-27-groups-gb-r03-iq-al-zawraa-bh-al-riffa 1-1 FT
+  - ✓ fixture gulf-club-cl-2026-27-groups-gb-r03-ae-al-nasr-qa-qatar-sc added
+  - ✓ result gulf-club-cl-2026-27-groups-gb-r03-ae-al-nasr-qa-qatar-sc 4-1 FT
+  - ✓ fixture gulf-club-cl-2026-27-groups-gc-r03-sa-al-ettifaq-ae-ajman added
+  - ✓ result gulf-club-cl-2026-27-groups-gc-r03-sa-al-ettifaq-ae-ajman 2-0 FT
+  - ✓ fixture gulf-club-cl-2026-27-groups-gc-r03-iq-erbil-kw-kazma added
+  - ✓ result gulf-club-cl-2026-27-groups-gc-r03-iq-erbil-kw-kazma 6-0 FT
+  - ✓ fixture gulf-club-cl-2026-27-groups-gb-r04-bh-al-riffa-iq-al-zawraa added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gc-r04-ae-ajman-sa-al-ettifaq added
+  - ✓ fixture gulf-club-cl-2026-27-groups-ga-r04-qa-al-duhail-sa-neom added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gc-r04-kw-kazma-iq-erbil added
+  - ✓ fixture gulf-club-cl-2026-27-groups-ga-r04-ye-shaab-hadramaut-om-al-shabab-oman added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gb-r04-qa-qatar-sc-ae-al-nasr added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gc-r05-kw-kazma-sa-al-ettifaq added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gc-r05-iq-erbil-ae-ajman added
+  - ✓ fixture gulf-club-cl-2026-27-groups-ga-r05-om-al-shabab-oman-qa-al-duhail added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gb-r05-bh-al-riffa-ae-al-nasr added
+  - ✓ fixture gulf-club-cl-2026-27-groups-ga-r05-ye-shaab-hadramaut-sa-neom added
+  - ✓ fixture gulf-club-cl-2026-27-groups-gb-r05-iq-al-zawraa-qa-qatar-sc added
