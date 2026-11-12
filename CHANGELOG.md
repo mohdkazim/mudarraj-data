@@ -4484,3 +4484,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ fixture gulf-club-cl-2026-27-groups-gb-r05-bh-al-riffa-ae-al-nasr added
   - ✓ fixture gulf-club-cl-2026-27-groups-ga-r05-ye-shaab-hadramaut-sa-neom added
   - ✓ fixture gulf-club-cl-2026-27-groups-gb-r05-iq-al-zawraa-qa-qatar-sc added
+
+## 2026-11-12 (2026-11-12T01:37:06Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result gulf-club-cl-2026-27-groups-ga-r02-ye-shaab-hadramaut-qa-al-duhail 1-2 FT

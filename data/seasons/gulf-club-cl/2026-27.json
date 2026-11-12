@@ -448,14 +448,18 @@
    "away": "qa-al-duhail",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.albayan.ae/sports/arab-stadiums/1560582",
-    "https://thepeninsulaqatar.com/article/29/10/2026/al-duhail-edge-shaab-hadramout-to-maintain-winning-run-in-gccl"
-   ]
+    "https://thepeninsulaqatar.com/article/29/10/2026/al-duhail-edge-shaab-hadramout-to-maintain-winning-run-in-gccl",
+    "https://www.365scores.com/en-us/football/match/gulf-club-champions-league-8400/al-duhail-neom-sc-8329-55793-8400#id=4862005"
+   ],
+   "updatedAt": "2026-11-12T01:46:20.157Z"
   },
   {
    "id": "gulf-club-cl-2026-27-groups-gb-r02-iq-al-zawraa-ae-al-nasr",
