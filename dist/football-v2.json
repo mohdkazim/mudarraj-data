@@ -1,10 +1,10 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-12T01:46:20.302Z",
+ "generatedAt": "2026-11-13T01:46:17.296Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
-  "matches": 1950,
+  "matches": 1955,
   "results": 901,
   "pending": 0
  },
@@ -74444,6 +74444,40 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r14-gb-eng-nottingham-forest-gb-eng-brighton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-12-05T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-nottingham-forest",
+   "away": "gb-eng-brighton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "City Ground",
+     "ar": "ملعب سيتي غراوند"
+    },
+    "city": {
+     "en": "Nottingham",
+     "ar": "نوتينغهام"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "serie-a",
    "season": "2026-27",
    "id": "serie-a-2026-27-regular-r14-it-napoli-it-lecce",
@@ -74474,6 +74508,40 @@
    "neutral": false,
    "sources": [
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261205&limit=37"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r14-gb-eng-brentford-gb-eng-manchester-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-12-05T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brentford",
+   "away": "gb-eng-manchester-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Gtech Community Stadium",
+     "ar": "ملعب جيتك كوميونيتي"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december"
    ],
    "venueFrom": "home-ground"
   },
@@ -74512,6 +74580,74 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r14-gb-eng-everton-gb-eng-fulham",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-12-06T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-everton",
+   "away": "gb-eng-fulham",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Hill Dickinson Stadium",
+     "ar": "ملعب هيل ديكنسون"
+    },
+    "city": {
+     "en": "Liverpool",
+     "ar": "ليفربول"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r14-gb-eng-newcastle-united-gb-eng-sunderland",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-12-06T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-newcastle-united",
+   "away": "gb-eng-sunderland",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "St James' Park",
+     "ar": "ملعب سانت جيمس بارك"
+    },
+    "city": {
+     "en": "Newcastle",
+     "ar": "نيوكاسل"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "serie-a",
    "season": "2026-27",
    "id": "serie-a-2026-27-regular-r14-it-lazio-it-atalanta",
@@ -74543,6 +74679,40 @@
    "sources": [
     "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata",
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261206&limit=37"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r14-gb-eng-tottenham-hotspur-gb-eng-arsenal",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-12-06T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-tottenham-hotspur",
+   "away": "gb-eng-arsenal",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Tottenham Hotspur Stadium",
+     "ar": "ملعب توتنهام هوتسبير"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/football/news/13600880/premier-league-fixtures-on-sky-sports-arsenal-vs-man-utd-north-london-derby-and-man-city-vs-chelsea-live-in-december"
    ],
    "venueFrom": "home-ground"
   },

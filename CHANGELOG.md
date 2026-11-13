@@ -4488,3 +4488,11 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-12 (2026-11-12T01:37:06Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result gulf-club-cl-2026-27-groups-ga-r02-ye-shaab-hadramaut-qa-al-duhail 1-2 FT
+
+## 2026-11-13 (2026-11-13T01:46:17Z)
+- 5 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ fixture epl-2026-27-regular-r14-gb-eng-nottingham-forest-gb-eng-brighton added
+  - ✓ fixture epl-2026-27-regular-r14-gb-eng-brentford-gb-eng-manchester-city added
+  - ✓ fixture epl-2026-27-regular-r14-gb-eng-everton-gb-eng-fulham added
+  - ✓ fixture epl-2026-27-regular-r14-gb-eng-newcastle-united-gb-eng-sunderland added
+  - ✓ fixture epl-2026-27-regular-r14-gb-eng-tottenham-hotspur-gb-eng-arsenal added
