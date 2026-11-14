@@ -1123,13 +1123,18 @@
    "away": "ae-al-nasr",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/327b992e-7625-11f1-b32b-0289588efdb9"
-   ]
+    "https://www.uaeproleague.ae/ar/fixtures/327b992e-7625-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/ar/news-and-gallery/adib-cup-198"
+   ],
+   "updatedAt": "2026-11-14T17:42:35.999Z"
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r04-ae-hatta-ae-al-ain",

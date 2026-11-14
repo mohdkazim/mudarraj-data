@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-14T17:35:53Z",
+  "changes": [
+    { "op": "result", "match": "uae-league-cup-2026-27-league-phase-r04-ae-al-wasl-ae-al-nasr", "status": "FT", "score": [2,0],
+      "sources": ["https://www.uaeproleague.ae/ar/fixtures/327b992e-7625-11f1-b32b-0289588efdb9", "https://www.uaeproleague.ae/ar/news-and-gallery/adib-cup-198"] }
+  ],
+  "unconfirmed": []
+}
