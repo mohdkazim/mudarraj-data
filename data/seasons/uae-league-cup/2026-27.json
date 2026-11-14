@@ -1150,13 +1150,30 @@
    "away": "ae-al-ain",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/327b9926-7625-11f1-b32b-0289588efdb9"
-   ]
+    "https://www.uaeproleague.ae/ar/fixtures/327b9926-7625-11f1-b32b-0289588efdb9",
+    "https://www.albayan.ae/sports/uae-stadiums/1565111"
+   ],
+   "goals": [
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "عبدالكريم تراوري",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-14T18:42:45.246Z"
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r04-ae-al-wahda-ae-khorfakkan",

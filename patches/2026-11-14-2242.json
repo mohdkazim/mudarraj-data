@@ -1,0 +1,9 @@
+{
+  "run": "2026-11-14T18:42:45Z",
+  "changes": [
+    { "op": "result", "match": "uae-league-cup-2026-27-league-phase-r04-ae-hatta-ae-al-ain", "status": "FT", "score": [0,1], "ht": [0,0],
+      "goals": [ { "minute": 62, "side": "away", "player": "عبدالكريم تراوري", "type": "goal" } ],
+      "sources": ["https://www.uaeproleague.ae/ar/fixtures/327b9926-7625-11f1-b32b-0289588efdb9", "https://www.albayan.ae/sports/uae-stadiums/1565111"] }
+  ],
+  "unconfirmed": []
+}
