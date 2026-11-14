@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-14T15:43:41.913Z",
+ "generatedAt": "2026-11-14T16:36:53.819Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 842,
-  "results": 514,
-  "pending": 1
+  "results": 515,
+  "pending": 0
  },
  "teams": [
   {
@@ -42168,8 +42168,11 @@
    "away": "ae-ajman",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Hamdan bin Zayed Stadium",
@@ -42182,8 +42185,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/327b9924-7625-11f1-b32b-0289588efdb9"
+    "https://www.uaeproleague.ae/ar/fixtures/327b9924-7625-11f1-b32b-0289588efdb9",
+    "https://www.emaratalyoum.com/sports/local/2026-11-14-1.2102789"
    ],
+   "updatedAt": "2026-11-14T16:36:53.590Z",
    "venueFrom": "home-ground"
   },
   {

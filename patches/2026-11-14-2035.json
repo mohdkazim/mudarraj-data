@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-14T16:35:53Z",
+  "changes": [
+    { "op": "result", "match": "uae-league-cup-2026-27-league-phase-r04-ae-al-dhafra-ae-ajman", "status": "FT", "score": [1,0],
+      "sources": ["https://www.uaeproleague.ae/ar/fixtures/327b9924-7625-11f1-b32b-0289588efdb9", "https://www.emaratalyoum.com/sports/local/2026-11-14-1.2102789"] }
+  ],
+  "unconfirmed": []
+}

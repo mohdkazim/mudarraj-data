@@ -4511,3 +4511,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 
 ## 2026-11-14 (2026-11-14T15:43:41.769Z)
 - 0 change(s) applied, 0 rejected, 1 waiting for a second source
+
+## 2026-11-14 (2026-11-14T16:35:53Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result uae-league-cup-2026-27-league-phase-r04-ae-al-dhafra-ae-ajman 1-0 FT
