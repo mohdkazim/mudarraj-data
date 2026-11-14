@@ -1,0 +1,95 @@
+{
+ "run": "2026-11-14T01:37:22Z",
+ "changes": [
+  {
+   "op": "fixture",
+   "match": "saudi-kings-cup-2026-27-r16-sa-al-orobah-sa-al-okhdood",
+   "kickoff": "2027-01-11T13:50:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.saff.com.sa/en/championship.php?id=434",
+    "https://sabq.org/article/ax3wsze"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "saudi-kings-cup-2026-27-r16-sa-al-ula-sa-al-ahli-saudi",
+   "kickoff": "2027-01-11T14:05:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.saff.com.sa/en/championship.php?id=434",
+    "https://sabq.org/article/ax3wsze"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "saudi-kings-cup-2026-27-r16-sa-al-taawoun-sa-al-wehda",
+   "kickoff": "2027-01-11T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.saff.com.sa/en/championship.php?id=434",
+    "https://sabq.org/article/ax3wsze"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "saudi-kings-cup-2026-27-r16-sa-al-nassr-sa-al-kholood",
+   "kickoff": "2027-01-11T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.saff.com.sa/en/championship.php?id=434",
+    "https://sabq.org/article/ax3wsze"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "saudi-kings-cup-2026-27-r16-sa-al-riyadh-sa-al-fayha",
+   "kickoff": "2027-01-12T13:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.saff.com.sa/en/championship.php?id=434",
+    "https://sabq.org/article/ax3wsze"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "saudi-kings-cup-2026-27-r16-sa-al-jabalain-sa-al-ittihad",
+   "kickoff": "2027-01-12T13:50:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.saff.com.sa/en/championship.php?id=434",
+    "https://sabq.org/article/ax3wsze"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "saudi-kings-cup-2026-27-r16-sa-al-hilal-sa-al-hazem",
+   "kickoff": "2027-01-12T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.saff.com.sa/en/championship.php?id=434",
+    "https://sabq.org/article/ax3wsze"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "saudi-kings-cup-2026-27-r16-sa-al-qadsiah-sa-neom",
+   "kickoff": "2027-01-12T17:00:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.saff.com.sa/en/championship.php?id=434",
+    "https://sabq.org/article/ax3wsze"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr",
+   "kickoff": "2026-11-20T17:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
+   ]
+  }
+ ]
+}

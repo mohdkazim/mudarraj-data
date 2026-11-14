@@ -5008,32 +5008,6 @@
    ]
   },
   {
-   "id": "saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 9
-   },
-   "kickoff": "2026-11-20T17:00:00Z",
-   "timeConfirmed": false,
-   "home": "sa-al-ahli-saudi",
-   "away": "sa-al-nassr",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270306&lang=en&region=us",
-    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
-    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9",
-    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
-    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
-   ]
-  },
-  {
    "id": "saudi-pro-league-2026-27-regular-r14-sa-al-ahli-saudi-sa-al-faisaly",
    "stage": {
     "key": "regular",
@@ -5249,6 +5223,32 @@
     "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20261120&limit=100",
     "https://www.spl.com.sa/en/news/rsl-schedule-2026-27",
     "https://www.spl.com.sa/ar/news/rsl-schedule-2026-27"
+   ]
+  },
+  {
+   "id": "saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 9
+   },
+   "kickoff": "2026-11-20T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "sa-al-ahli-saudi",
+   "away": "sa-al-nassr",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270306&lang=en&region=us",
+    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
+    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9",
+    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
+    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
    ]
   },
   {

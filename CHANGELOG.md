@@ -4496,3 +4496,15 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ fixture epl-2026-27-regular-r14-gb-eng-everton-gb-eng-fulham added
   - ✓ fixture epl-2026-27-regular-r14-gb-eng-newcastle-united-gb-eng-sunderland added
   - ✓ fixture epl-2026-27-regular-r14-gb-eng-tottenham-hotspur-gb-eng-arsenal added
+
+## 2026-11-14 (2026-11-14T01:37:22Z)
+- 9 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-orobah-sa-al-okhdood kick-off 2027-01-11T13:50:00Z
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-ula-sa-al-ahli-saudi kick-off 2027-01-11T14:05:00Z
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-taawoun-sa-al-wehda kick-off 2027-01-11T17:00:00Z
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-nassr-sa-al-kholood kick-off 2027-01-11T17:00:00Z
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-riyadh-sa-al-fayha kick-off 2027-01-12T13:30:00Z
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-jabalain-sa-al-ittihad kick-off 2027-01-12T13:50:00Z
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-hilal-sa-al-hazem kick-off 2027-01-12T17:00:00Z
+  - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-qadsiah-sa-neom kick-off 2027-01-12T17:00:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr kick-off 2026-11-20T17:30:00Z
