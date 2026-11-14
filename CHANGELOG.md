@@ -4508,3 +4508,6 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-hilal-sa-al-hazem kick-off 2027-01-12T17:00:00Z
   - ✓ fixture saudi-kings-cup-2026-27-r16-sa-al-qadsiah-sa-neom kick-off 2027-01-12T17:00:00Z
   - ✓ fixture saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr kick-off 2026-11-20T17:30:00Z
+
+## 2026-11-14 (2026-11-14T15:43:41.769Z)
+- 0 change(s) applied, 0 rejected, 1 waiting for a second source
