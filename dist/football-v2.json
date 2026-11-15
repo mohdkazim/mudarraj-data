@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-15T01:45:25.487Z",
+ "generatedAt": "2026-11-15T15:36:48.730Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1955,
-  "results": 904,
-  "pending": 0
+  "results": 905,
+  "pending": 1
  },
  "teams": [
   {
@@ -66358,8 +66358,11 @@
    "away": "ae-sharjah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Al Maktoum Stadium",
@@ -66372,8 +66375,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/327b9928-7625-11f1-b32b-0289588efdb9"
+    "https://www.uaeproleague.ae/ar/fixtures/327b9928-7625-11f1-b32b-0289588efdb9",
+    "https://www.albayan.ae/sports/uae-stadiums/1565244"
    ],
+   "updatedAt": "2026-11-15T15:36:48.570Z",
    "venueFrom": "home-ground"
   },
   {
