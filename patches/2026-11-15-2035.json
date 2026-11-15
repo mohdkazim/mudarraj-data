@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-15T16:35:00Z",
+  "changes": [
+    { "op": "result", "match": "uae-league-cup-2026-27-league-phase-r04-ae-al-wahda-ae-khorfakkan", "status": "FT", "score": [3,1],
+      "sources": ["https://www.albayan.ae/sports/uae-stadiums/1565239", "https://www.emaratalyoum.com/sports/local/2026-11-15-1.2103093"] }
+  ],
+  "unconfirmed": []
+}

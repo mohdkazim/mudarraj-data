@@ -1211,13 +1211,18 @@
    "away": "ae-khorfakkan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/327b992a-7625-11f1-b32b-0289588efdb9"
-   ]
+    "https://www.albayan.ae/sports/uae-stadiums/1565239",
+    "https://www.emaratalyoum.com/sports/local/2026-11-15-1.2103093"
+   ],
+   "updatedAt": "2026-11-15T16:36:46.953Z"
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r04-ae-united-ae-sharjah",

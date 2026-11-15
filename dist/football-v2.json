@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-15T15:36:48.730Z",
+ "generatedAt": "2026-11-15T16:36:47.090Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1955,
-  "results": 905,
-  "pending": 1
+  "results": 906,
+  "pending": 0
  },
  "teams": [
   {
@@ -66324,8 +66324,11 @@
    "away": "ae-khorfakkan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Al Nahyan Stadium",
@@ -66338,8 +66341,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/327b992a-7625-11f1-b32b-0289588efdb9"
+    "https://www.albayan.ae/sports/uae-stadiums/1565239",
+    "https://www.emaratalyoum.com/sports/local/2026-11-15-1.2103093"
    ],
+   "updatedAt": "2026-11-15T16:36:46.953Z",
    "venueFrom": "home-ground"
   },
   {
