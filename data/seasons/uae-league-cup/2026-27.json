@@ -1287,13 +1287,17 @@
    "away": "ae-shabab-al-ahli",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/327b9930-7625-11f1-b32b-0289588efdb9"
-   ]
+    "https://www.uaeproleague.ae/ar/fixtures/327b9930-7625-11f1-b32b-0289588efdb9"
+   ],
+   "updatedAt": "2026-11-15T17:42:06.573Z"
   }
  ]
 }

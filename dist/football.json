@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-15T16:36:47.090Z",
+ "generatedAt": "2026-11-15T17:42:06.753Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 842,
-  "results": 519,
+  "results": 520,
   "pending": 0
  },
  "teams": [
@@ -42431,8 +42431,11 @@
    "away": "ae-shabab-al-ahli",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Kalba Stadium",
@@ -42445,8 +42448,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/327b9930-7625-11f1-b32b-0289588efdb9"
+    "https://www.uaeproleague.ae/ar/fixtures/327b9930-7625-11f1-b32b-0289588efdb9"
    ],
+   "updatedAt": "2026-11-15T17:42:06.573Z",
    "venueFrom": "home-ground"
   },
   {
