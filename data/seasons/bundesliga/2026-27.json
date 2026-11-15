@@ -4855,28 +4855,6 @@
    ]
   },
   {
-   "id": "bundesliga-2026-27-regular-r12-de-bayer-leverkusen-de-borussia-monchengladbach",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 12
-   },
-   "kickoff": "2026-12-05T14:30:00Z",
-   "timeConfirmed": false,
-   "home": "de-bayer-leverkusen",
-   "away": "de-borussia-monchengladbach",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
-   ]
-  },
-  {
    "id": "bundesliga-2026-27-regular-r12-de-bayern-munich-de-sc-paderborn",
    "stage": {
     "key": "regular",
@@ -4884,8 +4862,8 @@
     "group": null,
     "round": 12
    },
-   "kickoff": "2026-12-05T14:30:00Z",
-   "timeConfirmed": false,
+   "kickoff": "2026-12-04T19:30:00Z",
+   "timeConfirmed": true,
    "home": "de-bayern-munich",
    "away": "de-sc-paderborn",
    "homePlaceholder": null,
@@ -4895,7 +4873,31 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12/fc-bayern-muenchen-vs-sc-paderborn-07/liveticker"
+   ]
+  },
+  {
+   "id": "bundesliga-2026-27-regular-r12-de-bayer-leverkusen-de-borussia-monchengladbach",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-12-05T14:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-bayer-leverkusen",
+   "away": "de-borussia-monchengladbach",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12/bayer-04-leverkusen-vs-borussia-moenchengladbach/liveticker"
    ]
   },
   {
@@ -4987,28 +4989,6 @@
    ]
   },
   {
-   "id": "bundesliga-2026-27-regular-r12-de-schalke-04-de-borussia-dortmund",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 12
-   },
-   "kickoff": "2026-12-05T14:30:00Z",
-   "timeConfirmed": false,
-   "home": "de-schalke-04",
-   "away": "de-borussia-dortmund",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
-   ]
-  },
-  {
    "id": "bundesliga-2026-27-regular-r12-de-sv-elversberg-de-vfb-stuttgart",
    "stage": {
     "key": "regular",
@@ -5050,6 +5030,29 @@
    "neutral": false,
    "sources": [
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
+   ]
+  },
+  {
+   "id": "bundesliga-2026-27-regular-r12-de-schalke-04-de-borussia-dortmund",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-12-06T14:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-schalke-04",
+   "away": "de-borussia-dortmund",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
+    "https://www.bundesliga.com/en/bundesliga/news/confirmed-kick-off-times-dates-2026-27-fixtures-23955"
    ]
   },
   {

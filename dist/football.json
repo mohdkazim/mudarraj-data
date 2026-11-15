@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-14T18:42:45.412Z",
+ "generatedAt": "2026-11-15T01:45:25.487Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
@@ -42189,6 +42189,14 @@
     "https://www.emaratalyoum.com/sports/local/2026-11-14-1.2102789"
    ],
    "updatedAt": "2026-11-14T16:36:53.590Z",
+   "goals": [
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "محمد ابراهيم الحمادي",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -42228,6 +42236,20 @@
     "https://www.uaeproleague.ae/ar/news-and-gallery/adib-cup-198"
    ],
    "updatedAt": "2026-11-14T17:42:35.999Z",
+   "goals": [
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "ريناتو جونيور",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "برايان بالاسيوس",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {

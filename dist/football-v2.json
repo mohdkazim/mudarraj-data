@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-14T18:42:45.412Z",
+ "generatedAt": "2026-11-15T01:45:25.487Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
@@ -66194,6 +66194,14 @@
     "https://www.emaratalyoum.com/sports/local/2026-11-14-1.2102789"
    ],
    "updatedAt": "2026-11-14T16:36:53.590Z",
+   "goals": [
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "محمد ابراهيم الحمادي",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -66233,6 +66241,20 @@
     "https://www.uaeproleague.ae/ar/news-and-gallery/adib-cup-198"
    ],
    "updatedAt": "2026-11-14T17:42:35.999Z",
+   "goals": [
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "ريناتو جونيور",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "برايان بالاسيوس",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -73671,6 +73693,41 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "bundesliga",
+   "season": "2026-27",
+   "id": "bundesliga-2026-27-regular-r12-de-bayern-munich-de-sc-paderborn",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-12-04T19:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-bayern-munich",
+   "away": "de-sc-paderborn",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Allianz Arena",
+     "ar": "أليانز أرينا"
+    },
+    "city": {
+     "en": "Munich",
+     "ar": "ميونخ"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12/fc-bayern-muenchen-vs-sc-paderborn-07/liveticker"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "serie-a",
    "season": "2026-27",
    "id": "serie-a-2026-27-regular-r14-it-bologna-it-roma",
@@ -73784,7 +73841,7 @@
     "round": 12
    },
    "kickoff": "2026-12-05T14:30:00Z",
-   "timeConfirmed": false,
+   "timeConfirmed": true,
    "home": "de-bayer-leverkusen",
    "away": "de-borussia-monchengladbach",
    "homePlaceholder": null,
@@ -73803,41 +73860,8 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "bundesliga",
-   "season": "2026-27",
-   "id": "bundesliga-2026-27-regular-r12-de-bayern-munich-de-sc-paderborn",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 12
-   },
-   "kickoff": "2026-12-05T14:30:00Z",
-   "timeConfirmed": false,
-   "home": "de-bayern-munich",
-   "away": "de-sc-paderborn",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Allianz Arena",
-     "ar": "أليانز أرينا"
-    },
-    "city": {
-     "en": "Munich",
-     "ar": "ميونخ"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12/bayer-04-leverkusen-vs-borussia-moenchengladbach/liveticker"
    ],
    "venueFrom": "home-ground"
   },
@@ -73959,40 +73983,6 @@
     "city": {
      "en": "Freiburg im Breisgau",
      "ar": "فرايبورغ"
-    }
-   },
-   "neutral": false,
-   "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
-   ],
-   "venueFrom": "home-ground"
-  },
-  {
-   "competition": "bundesliga",
-   "season": "2026-27",
-   "id": "bundesliga-2026-27-regular-r12-de-schalke-04-de-borussia-dortmund",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 12
-   },
-   "kickoff": "2026-12-05T14:30:00Z",
-   "timeConfirmed": false,
-   "home": "de-schalke-04",
-   "away": "de-borussia-dortmund",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": {
-    "name": {
-     "en": "Veltins-Arena",
-     "ar": "فيلتينس أرينا"
-    },
-    "city": {
-     "en": "Gelsenkirchen",
-     "ar": "غيلسنكيرشن"
     }
    },
    "neutral": false,
@@ -74409,6 +74399,41 @@
    "sources": [
     "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata",
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261206&limit=37"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "bundesliga",
+   "season": "2026-27",
+   "id": "bundesliga-2026-27-regular-r12-de-schalke-04-de-borussia-dortmund",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-12-06T14:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-schalke-04",
+   "away": "de-borussia-dortmund",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Veltins-Arena",
+     "ar": "فيلتينس أرينا"
+    },
+    "city": {
+     "en": "Gelsenkirchen",
+     "ar": "غيلسنكيرشن"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
+    "https://www.bundesliga.com/en/bundesliga/news/confirmed-kick-off-times-dates-2026-27-fixtures-23955"
    ],
    "venueFrom": "home-ground"
   },

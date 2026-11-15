@@ -1,0 +1,48 @@
+{
+ "run": "2026-11-15T01:37:25Z",
+ "changes": [
+  {
+   "op": "result",
+   "match": "uae-league-cup-2026-27-league-phase-r04-ae-al-dhafra-ae-ajman",
+   "status": "FT",
+   "score": [1, 0],
+   "goals": [
+    { "minute": 58, "side": "home", "player": "محمد ابراهيم الحمادي", "type": "goal" }
+   ],
+   "sources": ["https://www.uaeproleague.ae/ar/fixtures/327b9924-7625-11f1-b32b-0289588efdb9"]
+  },
+  {
+   "op": "result",
+   "match": "uae-league-cup-2026-27-league-phase-r04-ae-al-wasl-ae-al-nasr",
+   "status": "FT",
+   "score": [2, 0],
+   "goals": [
+    { "minute": 34, "side": "home", "player": "ريناتو جونيور", "type": "goal" },
+    { "minute": 40, "side": "home", "player": "برايان بالاسيوس", "type": "goal" }
+   ],
+   "sources": ["https://www.uaeproleague.ae/ar/fixtures/327b992e-7625-11f1-b32b-0289588efdb9"]
+  },
+  {
+   "op": "fixture",
+   "match": "bundesliga-2026-27-regular-r12-de-bayern-munich-de-sc-paderborn",
+   "kickoff": "2026-12-04T19:30:00Z",
+   "timeConfirmed": true,
+   "sources": ["https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12/fc-bayern-muenchen-vs-sc-paderborn-07/liveticker"]
+  },
+  {
+   "op": "fixture",
+   "match": "bundesliga-2026-27-regular-r12-de-bayer-leverkusen-de-borussia-monchengladbach",
+   "kickoff": "2026-12-05T14:30:00Z",
+   "timeConfirmed": true,
+   "sources": ["https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12/bayer-04-leverkusen-vs-borussia-moenchengladbach/liveticker"]
+  },
+  {
+   "op": "fixture",
+   "match": "bundesliga-2026-27-regular-r12-de-schalke-04-de-borussia-dortmund",
+   "kickoff": "2026-12-06T14:30:00Z",
+   "timeConfirmed": true,
+   "sources": ["https://www.bundesliga.com/en/bundesliga/news/confirmed-kick-off-times-dates-2026-27-fixtures-23955"]
+  }
+ ],
+ "unconfirmed": []
+}

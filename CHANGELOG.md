@@ -4523,3 +4523,11 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-14 (2026-11-14T18:42:45Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result uae-league-cup-2026-27-league-phase-r04-ae-hatta-ae-al-ain 0-1 FT
+
+## 2026-11-15 (2026-11-15T01:37:25Z)
+- 5 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result uae-league-cup-2026-27-league-phase-r04-ae-al-dhafra-ae-ajman added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r04-ae-al-wasl-ae-al-nasr added scorers to the confirmed result
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-bayern-munich-de-sc-paderborn kick-off 2026-12-04T19:30:00Z
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-bayer-leverkusen-de-borussia-monchengladbach kick-off 2026-12-05T14:30:00Z
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-schalke-04-de-borussia-dortmund kick-off 2026-12-06T14:30:00Z

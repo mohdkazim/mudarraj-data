@@ -1107,7 +1107,15 @@
     "https://www.uaeproleague.ae/ar/fixtures/327b9924-7625-11f1-b32b-0289588efdb9",
     "https://www.emaratalyoum.com/sports/local/2026-11-14-1.2102789"
    ],
-   "updatedAt": "2026-11-14T16:36:53.590Z"
+   "updatedAt": "2026-11-14T16:36:53.590Z",
+   "goals": [
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "محمد ابراهيم الحمادي",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r04-ae-al-wasl-ae-al-nasr",
@@ -1134,7 +1142,21 @@
     "https://www.uaeproleague.ae/ar/fixtures/327b992e-7625-11f1-b32b-0289588efdb9",
     "https://www.uaeproleague.ae/ar/news-and-gallery/adib-cup-198"
    ],
-   "updatedAt": "2026-11-14T17:42:35.999Z"
+   "updatedAt": "2026-11-14T17:42:35.999Z",
+   "goals": [
+    {
+     "minute": 34,
+     "side": "home",
+     "player": "ريناتو جونيور",
+     "type": "goal"
+    },
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "برايان بالاسيوس",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-league-cup-2026-27-league-phase-r04-ae-hatta-ae-al-ain",
