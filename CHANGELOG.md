@@ -4543,3 +4543,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-15 (2026-11-15T17:35:00Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result uae-league-cup-2026-27-league-phase-r04-ae-kalba-ae-shabab-al-ahli 1-1 FT
+
+## 2026-11-15 (2026-11-15T18:35:00Z)
+- 2 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result uae-league-cup-2026-27-league-phase-r04-ae-al-jazira-ae-bani-yas 1-0 FT
+  - ✓ result uae-league-cup-2026-27-league-phase-r04-ae-al-wahda-ae-khorfakkan added scorers to the confirmed result

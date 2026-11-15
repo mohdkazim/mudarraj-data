@@ -1,0 +1,17 @@
+{
+  "run": "2026-11-15T18:35:00Z",
+  "changes": [
+    { "op": "result", "match": "uae-league-cup-2026-27-league-phase-r04-ae-al-jazira-ae-bani-yas", "status": "FT", "score": [1,0],
+      "goals": [ { "minute": 54, "side": "home", "player": "Vinicius Mello", "type": "goal" } ],
+      "sources": ["https://www.uaeproleague.ae/ar/fixtures/327b992c-7625-11f1-b32b-0289588efdb9", "https://www.emaratalyoum.com/sports/local/2026-11-15-1.2103117"] },
+    { "op": "result", "match": "uae-league-cup-2026-27-league-phase-r04-ae-al-wahda-ae-khorfakkan", "status": "FT", "score": [3,1],
+      "goals": [
+        { "minute": 22, "side": "home", "player": "Facundo Daniel", "type": "goal" },
+        { "minute": 48, "side": "home", "player": "Arnau Pradas", "type": "goal" },
+        { "minute": 54, "side": "home", "player": "Facundo Daniel", "type": "goal" },
+        { "minute": 67, "side": "away", "player": "Akram Nakach", "type": "goal" }
+      ],
+      "sources": ["https://www.uaeproleague.ae/ar/fixtures/327b992a-7625-11f1-b32b-0289588efdb9"] }
+  ],
+  "unconfirmed": []
+}
