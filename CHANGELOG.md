@@ -4548,3 +4548,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result uae-league-cup-2026-27-league-phase-r04-ae-al-jazira-ae-bani-yas 1-0 FT
   - ✓ result uae-league-cup-2026-27-league-phase-r04-ae-al-wahda-ae-khorfakkan added scorers to the confirmed result
+
+## 2026-11-16 (2026-11-16T01:37:06Z)
+- 2 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ table-check epl overall reference table epl overall (20 rows)
+  - ✓ table-check laliga overall reference table laliga overall (20 rows)

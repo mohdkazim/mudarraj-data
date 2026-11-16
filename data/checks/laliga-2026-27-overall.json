@@ -2,12 +2,12 @@
  "competition": "laliga",
  "season": "2026-27",
  "table": "overall",
- "asOf": "2026-11-08T08:00:00Z",
+ "asOf": "2026-11-09T00:00:00Z",
  "rows": [
   {
    "team": "es-barcelona",
-   "played": 11,
-   "points": 30
+   "played": 12,
+   "points": 33
   },
   {
    "team": "es-real-madrid",
@@ -16,18 +16,18 @@
   },
   {
    "team": "es-atletico-madrid",
-   "played": 11,
+   "played": 12,
    "points": 28
   },
   {
    "team": "es-real-betis",
-   "played": 11,
-   "points": 23
+   "played": 12,
+   "points": 26
   },
   {
    "team": "es-real-sociedad",
-   "played": 11,
-   "points": 19
+   "played": 12,
+   "points": 22
   },
   {
    "team": "es-sevilla",
@@ -40,6 +40,11 @@
    "points": 16
   },
   {
+   "team": "es-villarreal",
+   "played": 12,
+   "points": 15
+  },
+  {
    "team": "es-deportivo-la-coruna",
    "played": 12,
    "points": 15
@@ -50,19 +55,14 @@
    "points": 14
   },
   {
-   "team": "es-alaves",
+   "team": "es-celta-vigo",
    "played": 12,
    "points": 13
   },
   {
-   "team": "es-villarreal",
-   "played": 11,
-   "points": 12
-  },
-  {
-   "team": "es-celta-vigo",
-   "played": 11,
-   "points": 12
+   "team": "es-alaves",
+   "played": 12,
+   "points": 13
   },
   {
    "team": "es-espanyol",
@@ -71,12 +71,12 @@
   },
   {
    "team": "es-rayo-vallecano",
-   "played": 10,
+   "played": 11,
    "points": 12
   },
   {
    "team": "es-getafe",
-   "played": 11,
+   "played": 12,
    "points": 12
   },
   {
@@ -85,13 +85,13 @@
    "points": 12
   },
   {
-   "team": "es-elche",
-   "played": 11,
-   "points": 10
+   "team": "es-levante",
+   "played": 12,
+   "points": 11
   },
   {
-   "team": "es-levante",
-   "played": 11,
+   "team": "es-elche",
+   "played": 12,
    "points": 10
   },
   {
