@@ -4901,28 +4901,6 @@
    ]
   },
   {
-   "id": "bundesliga-2026-27-regular-r12-de-eintracht-frankfurt-de-werder-bremen",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 12
-   },
-   "kickoff": "2026-12-05T14:30:00Z",
-   "timeConfirmed": false,
-   "home": "de-eintracht-frankfurt",
-   "away": "de-werder-bremen",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
-   ]
-  },
-  {
    "id": "bundesliga-2026-27-regular-r12-de-fc-augsburg-de-fc-koln",
    "stage": {
     "key": "regular",
@@ -4931,7 +4909,7 @@
     "round": 12
    },
    "kickoff": "2026-12-05T14:30:00Z",
-   "timeConfirmed": false,
+   "timeConfirmed": true,
    "home": "de-fc-augsburg",
    "away": "de-fc-koln",
    "homePlaceholder": null,
@@ -4941,7 +4919,8 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
    ]
   },
   {
@@ -4953,7 +4932,7 @@
     "round": 12
    },
    "kickoff": "2026-12-05T14:30:00Z",
-   "timeConfirmed": false,
+   "timeConfirmed": true,
    "home": "de-rb-leipzig",
    "away": "de-mainz-05",
    "homePlaceholder": null,
@@ -4963,7 +4942,8 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
    ]
   },
   {
@@ -4975,7 +4955,7 @@
     "round": 12
    },
    "kickoff": "2026-12-05T14:30:00Z",
-   "timeConfirmed": false,
+   "timeConfirmed": true,
    "home": "de-sc-freiburg",
    "away": "de-tsg-hoffenheim",
    "homePlaceholder": null,
@@ -4985,29 +4965,8 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
-   ]
-  },
-  {
-   "id": "bundesliga-2026-27-regular-r12-de-sv-elversberg-de-vfb-stuttgart",
-   "stage": {
-    "key": "regular",
-    "type": "league",
-    "group": null,
-    "round": 12
-   },
-   "kickoff": "2026-12-05T14:30:00Z",
-   "timeConfirmed": false,
-   "home": "de-sv-elversberg",
-   "away": "de-vfb-stuttgart",
-   "homePlaceholder": null,
-   "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
-   "venue": null,
-   "neutral": false,
-   "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
    ]
   },
   {
@@ -5019,7 +4978,7 @@
     "round": 12
    },
    "kickoff": "2026-12-05T14:30:00Z",
-   "timeConfirmed": false,
+   "timeConfirmed": true,
    "home": "de-union-berlin",
    "away": "de-hamburger-sv",
    "homePlaceholder": null,
@@ -5029,7 +4988,31 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37"
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
+   ]
+  },
+  {
+   "id": "bundesliga-2026-27-regular-r12-de-eintracht-frankfurt-de-werder-bremen",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-12-05T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-eintracht-frankfurt",
+   "away": "de-werder-bremen",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
    ]
   },
   {
@@ -5053,6 +5036,29 @@
    "sources": [
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
     "https://www.bundesliga.com/en/bundesliga/news/confirmed-kick-off-times-dates-2026-27-fixtures-23955"
+   ]
+  },
+  {
+   "id": "bundesliga-2026-27-regular-r12-de-sv-elversberg-de-vfb-stuttgart",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 12
+   },
+   "kickoff": "2026-12-06T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "de-sv-elversberg",
+   "away": "de-vfb-stuttgart",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261205&limit=37",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
    ]
   },
   {

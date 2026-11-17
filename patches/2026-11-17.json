@@ -1,0 +1,60 @@
+{
+ "run": "2026-11-17T01:44:54Z",
+ "changes": [
+  {
+   "op": "fixture",
+   "match": "bundesliga-2026-27-regular-r12-de-eintracht-frankfurt-de-werder-bremen",
+   "kickoff": "2026-12-05T17:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "bundesliga-2026-27-regular-r12-de-fc-augsburg-de-fc-koln",
+   "kickoff": "2026-12-05T14:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "bundesliga-2026-27-regular-r12-de-rb-leipzig-de-mainz-05",
+   "kickoff": "2026-12-05T14:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "bundesliga-2026-27-regular-r12-de-sc-freiburg-de-tsg-hoffenheim",
+   "kickoff": "2026-12-05T14:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "bundesliga-2026-27-regular-r12-de-sv-elversberg-de-vfb-stuttgart",
+   "kickoff": "2026-12-06T16:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
+   ]
+  },
+  {
+   "op": "fixture",
+   "match": "bundesliga-2026-27-regular-r12-de-union-berlin-de-hamburger-sv",
+   "kickoff": "2026-12-05T14:30:00Z",
+   "timeConfirmed": true,
+   "sources": [
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/12"
+   ]
+  }
+ ],
+ "unconfirmed": []
+}

@@ -4553,3 +4553,12 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ table-check epl overall reference table epl overall (20 rows)
   - ✓ table-check laliga overall reference table laliga overall (20 rows)
+
+## 2026-11-17 (2026-11-17T01:44:54Z)
+- 6 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-eintracht-frankfurt-de-werder-bremen kick-off 2026-12-05T17:30:00Z
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-fc-augsburg-de-fc-koln kick-off 2026-12-05T14:30:00Z
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-rb-leipzig-de-mainz-05 kick-off 2026-12-05T14:30:00Z
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-sc-freiburg-de-tsg-hoffenheim kick-off 2026-12-05T14:30:00Z
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-sv-elversberg-de-vfb-stuttgart kick-off 2026-12-06T16:30:00Z
+  - ✓ fixture bundesliga-2026-27-regular-r12-de-union-berlin-de-hamburger-sv kick-off 2026-12-05T14:30:00Z
