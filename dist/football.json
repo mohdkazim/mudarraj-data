@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-17T01:44:55.002Z",
+ "generatedAt": "2026-11-18T01:46:58.816Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
@@ -42403,9 +42403,26 @@
    "neutral": false,
    "sources": [
     "https://www.uaeproleague.ae/ar/fixtures/327b9928-7625-11f1-b32b-0289588efdb9",
-    "https://www.albayan.ae/sports/uae-stadiums/1565244"
+    "https://www.albayan.ae/sports/uae-stadiums/1565244",
+    "https://www.uaeproleague.ae/en/news-and-gallery/united",
+    "https://www.365scores.com/ar/news/magazine/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%8A%D9%88%D9%86%D8%A7%D9%8A%D8%AA%D8%AF-%D8%B6%D8%AF-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D9%82%D8%A9/"
    ],
    "updatedAt": "2026-11-15T15:36:48.570Z",
+   "goals": [
+    {
+     "minute": 39,
+     "side": "home",
+     "player": "Dieu Mercy",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 5,
+     "side": "away",
+     "player": "Clinton Nsiala",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -42488,9 +42505,24 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.uaeproleague.ae/ar/fixtures/327b9930-7625-11f1-b32b-0289588efdb9"
+    "https://www.uaeproleague.ae/ar/fixtures/327b9930-7625-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en/news-and-gallery/shabab-ahli"
    ],
    "updatedAt": "2026-11-15T17:42:06.573Z",
+   "goals": [
+    {
+     "minute": 49,
+     "side": "away",
+     "player": "Mateus Lima",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "Benjamin Tetteh",
+     "type": "penalty"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {

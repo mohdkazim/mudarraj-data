@@ -4562,3 +4562,8 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ fixture bundesliga-2026-27-regular-r12-de-sc-freiburg-de-tsg-hoffenheim kick-off 2026-12-05T14:30:00Z
   - ✓ fixture bundesliga-2026-27-regular-r12-de-sv-elversberg-de-vfb-stuttgart kick-off 2026-12-06T16:30:00Z
   - ✓ fixture bundesliga-2026-27-regular-r12-de-union-berlin-de-hamburger-sv kick-off 2026-12-05T14:30:00Z
+
+## 2026-11-18 (2026-11-18T02:30:00Z)
+- 2 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result uae-league-cup-2026-27-league-phase-r04-ae-kalba-ae-shabab-al-ahli added scorers to the confirmed result
+  - ✓ result uae-league-cup-2026-27-league-phase-r04-ae-united-ae-sharjah added scorers to the confirmed result
