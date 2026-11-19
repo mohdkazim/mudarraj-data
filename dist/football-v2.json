@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-19T18:41:43.542Z",
+ "generatedAt": "2026-11-19T19:37:30.265Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1955,
-  "results": 909,
-  "pending": 1
+  "results": 910,
+  "pending": 0
  },
  "teams": [
   {
@@ -66606,8 +66606,15 @@
    "away": "ae-al-dhafra",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Hazza bin Zayed Stadium",
@@ -66620,9 +66627,30 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f83-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=9&s=2026-2027"
+    "https://www.emaratalyoum.com/sports/local/2026-11-19-1.2104592",
+    "https://www.albayan.ae/sports/uae-stadiums/1566332"
    ],
+   "goals": [
+    {
+     "minute": 43,
+     "side": "home",
+     "player": "Marcos André",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "home",
+     "player": "Houssine Rahimi",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "away",
+     "player": "Abdulla Al Karbi",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-19T19:37:30.102Z",
    "venueFrom": "home-ground"
   },
   {

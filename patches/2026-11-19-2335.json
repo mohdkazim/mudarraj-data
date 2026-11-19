@@ -1,0 +1,13 @@
+{
+  "run": "2026-11-19T19:35:00Z",
+  "changes": [
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r09-ae-al-ain-ae-al-dhafra", "status": "FT", "score": [2,1], "ht": [1,0],
+      "goals": [
+        { "minute": 43, "side": "home", "player": "Marcos André", "type": "goal" },
+        { "minute": 53, "side": "home", "player": "Houssine Rahimi", "type": "goal" },
+        { "minute": 66, "side": "away", "player": "Abdulla Al Karbi", "type": "goal" }
+      ],
+      "sources": ["https://www.emaratalyoum.com/sports/local/2026-11-19-1.2104592", "https://www.albayan.ae/sports/uae-stadiums/1566332"] }
+  ],
+  "unconfirmed": []
+}
