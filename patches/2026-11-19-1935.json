@@ -1,0 +1,13 @@
+{
+  "run": "2026-11-19T15:35:00Z",
+  "changes": [
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r09-ae-al-wasl-ae-hatta", "status": "FT", "score": [2,1],
+      "goals": [
+        { "minute": 16, "side": "home", "player": "Mehdi Taremi", "type": "goal" },
+        { "minute": 62, "side": "home", "player": "Sergio Pereira", "type": "goal" },
+        { "minute": 90, "extra": 7, "side": "away", "player": "Hugo Neto", "type": "own-goal" }
+      ],
+      "sources": ["https://www.uaeproleague.ae/en/fixtures/22e17f8b-7604-11f1-b32b-0289588efdb9", "https://www.emaratalyoum.com/sports/local/2026-11-19-1.2104508"] }
+  ],
+  "unconfirmed": []
+}
