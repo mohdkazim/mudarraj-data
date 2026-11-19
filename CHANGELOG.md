@@ -4571,3 +4571,6 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-19 (2026-11-19T15:35:00Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result uae-pro-league-2026-27-regular-r09-ae-al-wasl-ae-hatta 2-1 FT
+
+## 2026-11-19 (2026-11-19T18:35:00Z)
+- 0 change(s) applied, 0 rejected, 1 waiting for a second source
