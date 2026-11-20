@@ -1,0 +1,12 @@
+{
+  "run": "2026-11-20T01:37:00Z",
+  "changes": [
+    { "op": "fixture", "competition": "laliga", "season": "2026-27", "stage": {"key":"regular","type":"league","round":15},
+      "home": "es-alaves", "away": "es-espanyol", "kickoff": "2026-12-04T20:00:00Z", "timeConfirmed": true,
+      "sources": ["https://www.laliga.com/noticias/horarios-de-la-decimoquinta-jornada-de-laliga-ea-sports-2026-27"] },
+    { "op": "fixture", "competition": "laliga", "season": "2026-27", "stage": {"key":"regular","type":"league","round":15},
+      "home": "es-sevilla", "away": "es-malaga", "kickoff": "2026-12-07T20:00:00Z", "timeConfirmed": false,
+      "sources": ["https://www.laliga.com/noticias/horarios-de-la-decimoquinta-jornada-de-laliga-ea-sports-2026-27"] }
+  ],
+  "unconfirmed": []
+}

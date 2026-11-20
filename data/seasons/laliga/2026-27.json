@@ -6388,6 +6388,50 @@
    ]
   },
   {
+   "id": "laliga-2026-27-regular-r15-es-alaves-es-espanyol",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-04T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-alaves",
+   "away": "es-espanyol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/noticias/horarios-de-la-decimoquinta-jornada-de-laliga-ea-sports-2026-27"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r15-es-sevilla-es-malaga",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-07T20:00:00Z",
+   "timeConfirmed": false,
+   "home": "es-sevilla",
+   "away": "es-malaga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/noticias/horarios-de-la-decimoquinta-jornada-de-laliga-ea-sports-2026-27"
+   ]
+  },
+  {
    "id": "laliga-2026-27-regular-r08-es-rayo-vallecano-es-athletic-club",
    "stage": {
     "key": "regular",

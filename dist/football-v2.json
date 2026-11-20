@@ -1,10 +1,10 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-19T19:37:30.265Z",
+ "generatedAt": "2026-11-20T01:45:21.913Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
-  "matches": 1955,
+  "matches": 1957,
   "results": 910,
   "pending": 0
  },
@@ -73901,6 +73901,40 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r15-es-alaves-es-espanyol",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-04T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-alaves",
+   "away": "es-espanyol",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Mendizorroza",
+     "ar": "ملعب مينديزوروزا"
+    },
+    "city": {
+     "en": "Vitoria-Gasteiz",
+     "ar": "فيتوريا غاستيز"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/noticias/horarios-de-la-decimoquinta-jornada-de-laliga-ea-sports-2026-27"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "uae-pro-league",
    "season": "2026-27",
    "id": "uae-pro-league-2026-27-regular-r10-ae-hatta-ae-kalba",
@@ -74998,6 +75032,40 @@
    "neutral": false,
    "sources": [
     "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261207&limit=37"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r15-es-sevilla-es-malaga",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-07T20:00:00Z",
+   "timeConfirmed": false,
+   "home": "es-sevilla",
+   "away": "es-malaga",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Ramón Sánchez-Pizjuán",
+     "ar": "ملعب رامون سانشيز بيزخوان"
+    },
+    "city": {
+     "en": "Seville",
+     "ar": "إشبيلية"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/noticias/horarios-de-la-decimoquinta-jornada-de-laliga-ea-sports-2026-27"
    ],
    "venueFrom": "home-ground"
   },

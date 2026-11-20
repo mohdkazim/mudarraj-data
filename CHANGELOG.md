@@ -4578,3 +4578,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-19 (2026-11-19T19:35:00Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result uae-pro-league-2026-27-regular-r09-ae-al-ain-ae-al-dhafra 2-1 FT
+
+## 2026-11-20 (2026-11-20T01:37:00Z)
+- 2 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ fixture laliga-2026-27-regular-r15-es-alaves-es-espanyol added
+  - ✓ fixture laliga-2026-27-regular-r15-es-sevilla-es-malaga added
