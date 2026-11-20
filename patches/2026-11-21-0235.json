@@ -1,0 +1,16 @@
+{
+  "run": "2026-11-20T22:35:00Z",
+  "changes": [
+    { "op": "result", "match": "bundesliga-2026-27-regular-r10-de-bayern-munich-de-fc-koln",
+      "status": "FT", "score": [1,1], "ht": [1,1],
+      "goals": [
+        { "minute": 12, "side": "away", "player": "Mikey Moore", "type": "goal" },
+        { "minute": 37, "side": "home", "player": "Nathaniel Brown", "type": "goal" }
+      ],
+      "sources": [
+        "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10/fc-bayern-muenchen-vs-1-fc-koeln/liveticker",
+        "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-cologne-match-report-highlights-matchday-10-40058"
+      ] }
+  ],
+  "unconfirmed": []
+}

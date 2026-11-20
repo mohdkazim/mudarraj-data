@@ -4454,14 +4454,36 @@
    "away": "de-fc-koln",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261120&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10/fc-bayern-muenchen-vs-1-fc-koeln/liveticker",
+    "https://www.bundesliga.com/en/bundesliga/news/bayern-munich-cologne-match-report-highlights-matchday-10-40058"
+   ],
+   "goals": [
+    {
+     "minute": 12,
+     "side": "away",
+     "player": "Mikey Moore",
+     "type": "goal"
+    },
+    {
+     "minute": 37,
+     "side": "home",
+     "player": "Nathaniel Brown",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-20T22:42:11.260Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r10-de-bayer-leverkusen-de-sc-paderborn",
