@@ -4583,3 +4583,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ fixture laliga-2026-27-regular-r15-es-alaves-es-espanyol added
   - ✓ fixture laliga-2026-27-regular-r15-es-sevilla-es-malaga added
+
+## 2026-11-20 (2026-11-20T15:35:00Z)
+- 1 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result uae-pro-league-2026-27-regular-r09-ae-kalba-ae-sharjah 0-3 FT

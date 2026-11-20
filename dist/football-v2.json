@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-20T01:45:21.913Z",
+ "generatedAt": "2026-11-20T15:37:10.598Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 910,
+  "results": 911,
   "pending": 0
  },
  "teams": [
@@ -66669,8 +66669,15 @@
    "away": "ae-sharjah",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Kalba Stadium",
@@ -66683,9 +66690,30 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f8e-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=9&s=2026-2027"
+    "https://www.365scores.com/pt/football/match/arabian-gulf-league-549/ittihad-kalba-sharjah-sc-8351-8355-549",
+    "https://www.emaratalyoum.com/sports/local/2026-11-20-1.2104856"
    ],
+   "goals": [
+    {
+     "minute": 11,
+     "side": "away",
+     "player": "Cheickna Doumbia",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Kodjo Laba",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "away",
+     "player": "Kodjo Laba",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-20T15:37:10.400Z",
    "venueFrom": "home-ground"
   },
   {

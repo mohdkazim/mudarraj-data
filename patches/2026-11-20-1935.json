@@ -1,0 +1,13 @@
+{
+  "run": "2026-11-20T15:35:00Z",
+  "changes": [
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r09-ae-kalba-ae-sharjah", "status": "FT", "score": [0,3], "ht": [0,1],
+      "goals": [
+        { "minute": 11, "side": "away", "player": "Cheickna Doumbia", "type": "goal" },
+        { "minute": 82, "side": "away", "player": "Kodjo Laba", "type": "goal" },
+        { "minute": 87, "side": "away", "player": "Kodjo Laba", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/pt/football/match/arabian-gulf-league-549/ittihad-kalba-sharjah-sc-8351-8355-549", "https://www.emaratalyoum.com/sports/local/2026-11-20-1.2104856"] }
+  ],
+  "unconfirmed": []
+}
