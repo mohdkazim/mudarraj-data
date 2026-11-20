@@ -4591,3 +4591,6 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-20 (2026-11-20T18:35:00Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result uae-pro-league-2026-27-regular-r09-ae-shabab-al-ahli-ae-ajman 3-1 FT
+
+## 2026-11-21 (2026-11-20T20:35:00Z)
+- 0 change(s) applied, 0 rejected, 1 waiting for a second source
