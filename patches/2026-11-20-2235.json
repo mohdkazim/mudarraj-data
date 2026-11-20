@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-20T18:35:00Z",
+  "changes": [
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r09-ae-shabab-al-ahli-ae-ajman", "status": "FT", "score": [3,1], "ht": [2,0],
+      "sources": ["https://www.albayan.ae/sports/uae-stadiums/1566582", "https://www.emaratalyoum.com/sports/local/2026-11-20-1.2104892"] }
+  ],
+  "unconfirmed": []
+}

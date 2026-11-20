@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-20T15:37:10.598Z",
+ "generatedAt": "2026-11-20T18:42:36.051Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 911,
+  "results": 912,
   "pending": 0
  },
  "teams": [
@@ -66732,8 +66732,15 @@
    "away": "ae-ajman",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Rashid Stadium",
@@ -66746,9 +66753,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f89-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=9&s=2026-2027"
+    "https://www.albayan.ae/sports/uae-stadiums/1566582",
+    "https://www.emaratalyoum.com/sports/local/2026-11-20-1.2104892"
    ],
+   "updatedAt": "2026-11-20T18:42:35.860Z",
    "venueFrom": "home-ground"
   },
   {
