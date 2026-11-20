@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-20T20:37:16.485Z",
+ "generatedAt": "2026-11-20T21:37:50.287Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 912,
-  "pending": 1
+  "results": 913,
+  "pending": 0
  },
  "teams": [
   {
@@ -67101,8 +67101,11 @@
    "away": "sa-al-nassr",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "King Abdullah Sports City Stadium",
@@ -67115,12 +67118,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/ksa.1/scoreboard?dates=20270306&lang=en&region=us",
-    "https://www.spl.com.sa/news/spl-reschedules-three-rounds-to-support-national-team-s-gulf-cup-preps",
-    "https://www.spl.com.sa/en/news/spl-reschedules-three-fixtures-mw9",
-    "https://www.365scores.com/en-us/football/team/al-nassr-fc-riyadh-7549/matches",
-    "https://www.spl.com.sa/en/news/rsl-schedule-2026-27"
+    "https://www.arabnews.com/saudi-pro-league/al-nassr-rue-ronaldo-penalty-miss-as-toney-fires-al-ahli-to-comeback-win-3013220",
+    "https://www.365scores.com/pt-br/news/magazine/cr7-marca-perde-penalti-al-nassr-al-ahli/"
    ],
+   "updatedAt": "2026-11-20T21:37:50.081Z",
    "venueFrom": "home-ground"
   },
   {

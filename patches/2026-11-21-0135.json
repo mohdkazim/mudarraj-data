@@ -1,0 +1,9 @@
+{
+  "run": "2026-11-20T21:35:40Z",
+  "changes": [
+    { "op": "result", "match": "saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr", "status": "FT", "score": [3,1],
+      "sources": ["https://www.arabnews.com/saudi-pro-league/al-nassr-rue-ronaldo-penalty-miss-as-toney-fires-al-ahli-to-comeback-win-3013220",
+                  "https://www.365scores.com/pt-br/news/magazine/cr7-marca-perde-penalti-al-nassr-al-ahli/"] }
+  ],
+  "unconfirmed": []
+}
