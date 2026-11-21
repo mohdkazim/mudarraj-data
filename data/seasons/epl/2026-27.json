@@ -4974,9 +4974,36 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.arabnews.com/football/arsenal-held-by-newcastle-rally-and-lose-raya-to-injury-3013413"
+    "https://www.arabnews.com/football/arsenal-held-by-newcastle-rally-and-lose-raya-to-injury-3013413",
+    "https://www.skysports.com/football/newcastle-united-vs-arsenal/live/559552"
    ],
-   "updatedAt": "2026-11-21T20:41:35.801Z"
+   "updatedAt": "2026-11-21T20:41:35.801Z",
+   "goals": [
+    {
+     "minute": 33,
+     "side": "away",
+     "player": "E Eze",
+     "type": "goal"
+    },
+    {
+     "minute": 49,
+     "side": "home",
+     "player": "H Barnes",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "home",
+     "player": "M Thiaw",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "N Madueke",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-hull-city-gb-eng-brighton",

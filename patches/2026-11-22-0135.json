@@ -1,0 +1,20 @@
+{
+  "run": "2026-11-21T21:35:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-sevilla-es-real-betis", "status": "FT", "score": [1,1], "ht": [0,0],
+      "goals": [
+        { "minute": 50, "side": "away", "player": "Antony", "type": "goal" },
+        { "minute": 90, "extra": 1, "side": "home", "player": "Kike Salas", "type": "goal" }
+      ],
+      "sources": ["https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-sevilla-fc-real-betis-13", "https://www.skysports.com/football-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r11-gb-eng-newcastle-united-gb-eng-arsenal", "status": "FT", "score": [2,2],
+      "goals": [
+        { "minute": 33, "side": "away", "player": "E Eze", "type": "goal" },
+        { "minute": 49, "side": "home", "player": "H Barnes", "type": "goal" },
+        { "minute": 62, "side": "home", "player": "M Thiaw", "type": "goal" },
+        { "minute": 78, "side": "away", "player": "N Madueke", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/newcastle-united-vs-arsenal/live/559552"] }
+  ],
+  "unconfirmed": []
+}

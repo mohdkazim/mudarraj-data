@@ -6043,14 +6043,37 @@
    "away": "es-real-betis",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261121"
-   ]
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-sevilla-fc-real-betis-13",
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Antony",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "home",
+     "player": "Kike Salas",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T21:41:53.314Z"
   },
   {
    "id": "laliga-2026-27-regular-r13-es-real-madrid-es-celta-vigo",
