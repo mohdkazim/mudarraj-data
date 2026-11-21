@@ -1,50 +1,10 @@
 [
  {
-  "match": "serie-a-2026-27-regular-r12-it-como-it-cagliari",
-  "claim": "2-0",
+  "match": "laliga-2026-27-regular-r13-es-rayo-vallecano-es-valencia",
+  "claim": "0-1",
   "sources": [
-   "https://www.skysports.com/football-scores-fixtures"
+   "https://www.365scores.com/football/match/laliga-11/rayo-vallecano-valencia-139-174-11"
   ],
-  "seen": "2026-11-21T16:36:03Z"
- },
- {
-  "match": "epl-2026-27-regular-r11-gb-eng-aston-villa-gb-eng-sunderland",
-  "claim": "0-0",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures/2026-11-21"
-  ],
-  "seen": "2026-11-21T17:35:00Z"
- },
- {
-  "match": "epl-2026-27-regular-r11-gb-eng-chelsea-gb-eng-leeds-united",
-  "claim": "1-4",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures/2026-11-21"
-  ],
-  "seen": "2026-11-21T17:35:00Z"
- },
- {
-  "match": "epl-2026-27-regular-r11-gb-eng-tottenham-hotspur-gb-eng-ipswich-town",
-  "claim": "2-0",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures/2026-11-21"
-  ],
-  "seen": "2026-11-21T17:35:00Z"
- },
- {
-  "match": "epl-2026-27-regular-r11-gb-eng-coventry-city-gb-eng-crystal-palace",
-  "claim": "3-2",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures/2026-11-21"
-  ],
-  "seen": "2026-11-21T17:35:00Z"
- },
- {
-  "match": "epl-2026-27-regular-r11-gb-eng-bournemouth-gb-eng-nottingham-forest",
-  "claim": "2-0",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures/2026-11-21"
-  ],
-  "seen": "2026-11-21T17:35:00Z"
+  "seen": "2026-11-21T18:35:00Z"
  }
 ]

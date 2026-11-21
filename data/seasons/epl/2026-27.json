@@ -4759,14 +4759,20 @@
    "away": "gb-eng-sunderland",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
-   ]
+    "https://www.skysports.com/football-scores-fixtures/2026-11-21",
+    "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+   ],
+   "goals": [],
+   "updatedAt": "2026-11-21T18:38:01.515Z"
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-bournemouth-gb-eng-nottingham-forest",
@@ -4782,14 +4788,19 @@
    "away": "gb-eng-nottingham-forest",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
-   ]
+    "https://www.skysports.com/football-scores-fixtures/2026-11-21",
+    "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+   ],
+   "updatedAt": "2026-11-21T18:38:01.515Z"
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-chelsea-gb-eng-leeds-united",
@@ -4805,14 +4816,19 @@
    "away": "gb-eng-leeds-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
-   ]
+    "https://www.skysports.com/football-scores-fixtures/2026-11-21",
+    "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+   ],
+   "updatedAt": "2026-11-21T18:38:01.515Z"
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-coventry-city-gb-eng-crystal-palace",
@@ -4828,14 +4844,19 @@
    "away": "gb-eng-crystal-palace",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
-   ]
+    "https://www.skysports.com/football-scores-fixtures/2026-11-21",
+    "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+   ],
+   "updatedAt": "2026-11-21T18:38:01.515Z"
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-tottenham-hotspur-gb-eng-ipswich-town",
@@ -4851,14 +4872,19 @@
    "away": "gb-eng-ipswich-town",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
-   ]
+    "https://www.skysports.com/football-scores-fixtures/2026-11-21",
+    "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+   ],
+   "updatedAt": "2026-11-21T18:38:01.515Z"
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-newcastle-united-gb-eng-arsenal",

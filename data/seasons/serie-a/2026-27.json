@@ -5161,14 +5161,32 @@
    "away": "it-cagliari",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261121&limit=37"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/it/news/serie-a/como-cagliari-2-0-jacobo-ramon-e-da-cunha-valgono-il-4-posto/"
+   ],
+   "goals": [
+    {
+     "minute": 24,
+     "side": "home",
+     "player": "Jacobo Ramón",
+     "type": "goal"
+    },
+    {
+     "minute": 56,
+     "side": "home",
+     "player": "Lucas Da Cunha",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T18:38:01.515Z"
   },
   {
    "id": "serie-a-2026-27-regular-r12-it-lazio-it-lecce",

@@ -4627,3 +4627,12 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result bundesliga-2026-27-regular-r10-de-sv-elversberg-de-sc-freiburg 0-1 FT
   - ✓ result bundesliga-2026-27-regular-r10-de-borussia-monchengladbach-de-borussia-dortmund 0-1 FT
   - ✓ result uae-pro-league-2026-27-regular-r09-ae-united-ae-al-wahda 1-1 FT
+
+## 2026-11-21 (2026-11-21T18:35:00Z)
+- 6 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result serie-a-2026-27-regular-r12-it-como-it-cagliari 2-0 FT
+  - ✓ result epl-2026-27-regular-r11-gb-eng-aston-villa-gb-eng-sunderland 0-0 FT
+  - ✓ result epl-2026-27-regular-r11-gb-eng-chelsea-gb-eng-leeds-united 1-4 FT
+  - ✓ result epl-2026-27-regular-r11-gb-eng-tottenham-hotspur-gb-eng-ipswich-town 2-0 FT
+  - ✓ result epl-2026-27-regular-r11-gb-eng-coventry-city-gb-eng-crystal-palace 3-2 FT
+  - ✓ result epl-2026-27-regular-r11-gb-eng-bournemouth-gb-eng-nottingham-forest 2-0 FT
