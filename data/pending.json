@@ -1,1 +1,10 @@
-[]
+[
+ {
+  "match": "laliga-2026-27-regular-r13-es-alaves-es-deportivo-la-coruna",
+  "claim": "3-1",
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures"
+  ],
+  "seen": "2026-11-21T15:35:00Z"
+ }
+]

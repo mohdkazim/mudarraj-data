@@ -3024,14 +3024,17 @@
    "away": "ae-al-nasr",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f85-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=9&s=2026-2027"
-   ]
+    "https://www.uaeproleague.ae/en/fixtures/22e17f85-7604-11f1-b32b-0289588efdb9"
+   ],
+   "updatedAt": "2026-11-21T15:40:07.027Z"
   },
   {
    "id": "uae-pro-league-2026-27-regular-r09-ae-khorfakkan-ae-al-jazira",
@@ -3047,14 +3050,33 @@
    "away": "ae-al-jazira",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f8d-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=9&s=2026-2027"
-   ]
+    "https://www.uaeproleague.ae/en/fixtures/22e17f8d-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en/news-and-gallery/jazira-2"
+   ],
+   "goals": [
+    {
+     "minute": 65,
+     "side": "home",
+     "player": "Haliru Sarki",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 6,
+     "side": "away",
+     "player": "Vinicius Mello",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T15:40:07.027Z"
   },
   {
    "id": "uae-pro-league-2026-27-regular-r09-ae-united-ae-al-wahda",

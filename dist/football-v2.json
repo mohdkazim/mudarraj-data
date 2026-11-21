@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-21T01:45:30.625Z",
+ "generatedAt": "2026-11-21T15:40:07.173Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 914,
-  "pending": 0
+  "results": 917,
+  "pending": 1
  },
  "teams": [
   {
@@ -67259,8 +67259,15 @@
    "away": "gb-eng-fulham",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Etihad Stadium",
@@ -67273,9 +67280,25 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+    "https://www.365scores.com/football/match/premier-league-7/fulham-manchester-city-110-120-7",
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.thenationalnews.com/sport/football/2026/11/21/man-city-v-fulham-ratings-anderson-8-haaland-6-affengruber-9-muniz-8/"
    ],
+   "goals": [
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "Rodrigo Muniz",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Elliot Anderson",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T15:40:07.027Z",
    "venueFrom": "home-ground"
   },
   {
@@ -67294,8 +67317,11 @@
    "away": "ae-al-nasr",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Bani Yas Stadium",
@@ -67308,9 +67334,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f85-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=9&s=2026-2027"
+    "https://www.uaeproleague.ae/en/fixtures/22e17f85-7604-11f1-b32b-0289588efdb9"
    ],
+   "updatedAt": "2026-11-21T15:40:07.027Z",
    "venueFrom": "home-ground"
   },
   {
@@ -67329,8 +67355,11 @@
    "away": "ae-al-jazira",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Saqr bin Mohammed Al Qassimi Stadium",
@@ -67343,9 +67372,25 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f8d-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=9&s=2026-2027"
+    "https://www.uaeproleague.ae/en/fixtures/22e17f8d-7604-11f1-b32b-0289588efdb9",
+    "https://www.uaeproleague.ae/en/news-and-gallery/jazira-2"
    ],
+   "goals": [
+    {
+     "minute": 65,
+     "side": "home",
+     "player": "Haliru Sarki",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 6,
+     "side": "away",
+     "player": "Vinicius Mello",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T15:40:07.027Z",
    "venueFrom": "home-ground"
   },
   {

@@ -1,0 +1,22 @@
+{
+  "run": "2026-11-21T15:35:00Z",
+  "changes": [
+    { "op": "result", "match": "epl-2026-27-regular-r11-gb-eng-manchester-city-gb-eng-fulham", "status": "FT", "score": [1,1], "ht": [0,1],
+      "goals": [
+        { "minute": 16, "side": "away", "player": "Rodrigo Muniz", "type": "goal" },
+        { "minute": 57, "side": "home", "player": "Elliot Anderson", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/football/match/premier-league-7/fulham-manchester-city-110-120-7", "https://www.skysports.com/football-scores-fixtures", "https://www.thenationalnews.com/sport/football/2026/11/21/man-city-v-fulham-ratings-anderson-8-haaland-6-affengruber-9-muniz-8/"] },
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r09-ae-khorfakkan-ae-al-jazira", "status": "FT", "score": [1,1],
+      "goals": [
+        { "minute": 65, "side": "home", "player": "Haliru Sarki", "type": "goal" },
+        { "minute": 90, "extra": 6, "side": "away", "player": "Vinicius Mello", "type": "goal" }
+      ],
+      "sources": ["https://www.uaeproleague.ae/en/fixtures/22e17f8d-7604-11f1-b32b-0289588efdb9", "https://www.uaeproleague.ae/en/news-and-gallery/jazira-2"] },
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r09-ae-bani-yas-ae-al-nasr", "status": "FT", "score": [2,1],
+      "sources": ["https://www.uaeproleague.ae/en/fixtures/22e17f85-7604-11f1-b32b-0289588efdb9"] }
+  ],
+  "unconfirmed": [
+    { "match": "laliga-2026-27-regular-r13-es-alaves-es-deportivo-la-coruna", "claim": "3-1", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+  ]
+}

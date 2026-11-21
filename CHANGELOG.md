@@ -4607,3 +4607,9 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result uae-pro-league-2026-27-regular-r09-ae-shabab-al-ahli-ae-ajman added scorers to the confirmed result
   - ✓ venue uae-pro-league-2026-27-regular-r09-ae-united-ae-al-wahda venue Rashid Stadium
+
+## 2026-11-21 (2026-11-21T15:35:00Z)
+- 3 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result epl-2026-27-regular-r11-gb-eng-manchester-city-gb-eng-fulham 1-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r09-ae-khorfakkan-ae-al-jazira 1-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r09-ae-bani-yas-ae-al-nasr 2-1 FT

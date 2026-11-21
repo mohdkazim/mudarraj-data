@@ -4713,14 +4713,37 @@
    "away": "gb-eng-fulham",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/premier-league-7/fulham-manchester-city-110-120-7",
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.thenationalnews.com/sport/football/2026/11/21/man-city-v-fulham-ratings-anderson-8-haaland-6-affengruber-9-muniz-8/"
+   ],
+   "goals": [
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "Rodrigo Muniz",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Elliot Anderson",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T15:40:07.027Z"
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-aston-villa-gb-eng-sunderland",
