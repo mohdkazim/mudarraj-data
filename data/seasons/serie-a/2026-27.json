@@ -5184,14 +5184,42 @@
    "away": "it-lecce",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261121&limit=37"
-   ]
+    "https://www.365scores.com/it/news/serie-a/lazio-lecce-3-0-noslin-doppietta-gattuso-allunga/",
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "Noslin",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Noslin",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Frattesi",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T16:38:44.413Z"
   },
   {
    "id": "serie-a-2026-27-regular-r12-it-parma-it-roma",

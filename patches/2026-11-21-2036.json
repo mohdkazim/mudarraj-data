@@ -1,0 +1,25 @@
+{
+  "run": "2026-11-21T16:36:03Z",
+  "changes": [
+    { "op": "result", "match": "bundesliga-2026-27-regular-r10-de-union-berlin-de-rb-leipzig", "status": "FT", "score": [1,5], "ht": [1,1],
+      "goals": [
+        { "minute": 18, "side": "away", "player": "Antonio Nusa", "type": "penalty" },
+        { "minute": 41, "side": "home", "player": "Michel Aebischer", "type": "goal" },
+        { "minute": 50, "side": "away", "player": "Rômulo", "type": "goal" },
+        { "minute": 72, "side": "away", "player": "Brajan Gruda", "type": "goal" },
+        { "minute": 76, "side": "away", "player": "Rocco Reitz", "type": "goal" },
+        { "minute": 89, "side": "away", "player": "Ridle Baku", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10/1-fc-union-berlin-vs-rb-leipzig/liveticker"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r12-it-lazio-it-lecce", "status": "FT", "score": [3,0], "ht": [1,0],
+      "goals": [
+        { "minute": 25, "side": "home", "player": "Noslin", "type": "goal" },
+        { "minute": 68, "side": "home", "player": "Noslin", "type": "goal" },
+        { "minute": 90, "side": "home", "player": "Frattesi", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/it/news/serie-a/lazio-lecce-3-0-noslin-doppietta-gattuso-allunga/", "https://www.skysports.com/football-scores-fixtures"] }
+  ],
+  "unconfirmed": [
+    { "match": "serie-a-2026-27-regular-r12-it-como-it-cagliari", "claim": "2-0", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+  ]
+}

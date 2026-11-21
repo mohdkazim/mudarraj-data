@@ -4591,14 +4591,59 @@
    "away": "de-rb-leipzig",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 5,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261121&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10/1-fc-union-berlin-vs-rb-leipzig/liveticker"
+   ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Antonio Nusa",
+     "type": "penalty"
+    },
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Michel Aebischer",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Rômulo",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "away",
+     "player": "Brajan Gruda",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "away",
+     "player": "Rocco Reitz",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Ridle Baku",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T16:38:44.413Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r10-de-schalke-04-de-vfb-stuttgart",

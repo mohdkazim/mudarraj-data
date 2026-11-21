@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-21T15:40:07.173Z",
+ "generatedAt": "2026-11-21T16:38:44.565Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 917,
-  "pending": 1
+  "results": 919,
+  "pending": 2
  },
  "teams": [
   {
@@ -67479,8 +67479,15 @@
    "away": "it-lecce",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadio Olimpico",
@@ -67493,9 +67500,30 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261121&limit=37"
+    "https://www.365scores.com/it/news/serie-a/lazio-lecce-3-0-noslin-doppietta-gattuso-allunga/",
+    "https://www.skysports.com/football-scores-fixtures"
    ],
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "Noslin",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Noslin",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Frattesi",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T16:38:44.413Z",
    "venueFrom": "home-ground"
   },
   {
@@ -67654,8 +67682,15 @@
    "away": "de-rb-leipzig",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 5,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadion An der Alten Försterei",
@@ -67668,9 +67703,47 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261121&limit=37"
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10/1-fc-union-berlin-vs-rb-leipzig/liveticker"
    ],
+   "goals": [
+    {
+     "minute": 18,
+     "side": "away",
+     "player": "Antonio Nusa",
+     "type": "penalty"
+    },
+    {
+     "minute": 41,
+     "side": "home",
+     "player": "Michel Aebischer",
+     "type": "goal"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "Rômulo",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "away",
+     "player": "Brajan Gruda",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "away",
+     "player": "Rocco Reitz",
+     "type": "goal"
+    },
+    {
+     "minute": 89,
+     "side": "away",
+     "player": "Ridle Baku",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T16:38:44.413Z",
    "venueFrom": "home-ground"
   },
   {
