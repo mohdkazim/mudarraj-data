@@ -2981,7 +2981,34 @@
     "https://www.albayan.ae/sports/uae-stadiums/1566582",
     "https://www.emaratalyoum.com/sports/local/2026-11-20-1.2104892"
    ],
-   "updatedAt": "2026-11-20T18:42:35.860Z"
+   "updatedAt": "2026-11-20T18:42:35.860Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "Yuri César",
+     "type": "goal"
+    },
+    {
+     "minute": 27,
+     "side": "home",
+     "player": "Guilherme Bala",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "away",
+     "player": "Lithierry",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 7,
+     "side": "home",
+     "player": "Jahnoah Markelo",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "uae-pro-league-2026-27-regular-r09-ae-bani-yas-ae-al-nasr",
@@ -3045,11 +3072,23 @@
    "awayPlaceholder": null,
    "status": "NS",
    "score": null,
-   "venue": null,
+   "venue": {
+    "name": {
+     "en": "Rashid Stadium",
+     "ar": "استاد راشد"
+    },
+    "city": {
+     "en": "Dubai",
+     "ar": "دبي"
+    }
+   },
    "neutral": false,
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f87-7604-11f1-b32b-0289588efdb9",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=9&s=2026-2027"
+   ],
+   "venueSources": [
+    "https://www.albayan.ae/sports/uae-stadiums/1566533"
    ]
   },
   {

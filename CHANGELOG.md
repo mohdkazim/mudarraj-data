@@ -4602,3 +4602,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-21 (2026-11-20T22:35:00Z)
 - 1 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result bundesliga-2026-27-regular-r10-de-bayern-munich-de-fc-koln 1-1 FT
+
+## 2026-11-21 (2026-11-21T01:36:00Z)
+- 2 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result uae-pro-league-2026-27-regular-r09-ae-shabab-al-ahli-ae-ajman added scorers to the confirmed result
+  - ✓ venue uae-pro-league-2026-27-regular-r09-ae-united-ae-al-wahda venue Rashid Stadium

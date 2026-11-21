@@ -1,0 +1,18 @@
+{
+  "run": "2026-11-21T01:36:00Z",
+  "changes": [
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r09-ae-shabab-al-ahli-ae-ajman",
+      "status": "FT", "score": [3,1], "ht": [2,0],
+      "goals": [
+        { "minute": 15, "side": "home", "player": "Yuri César", "type": "goal" },
+        { "minute": 27, "side": "home", "player": "Guilherme Bala", "type": "goal" },
+        { "minute": 72, "side": "away", "player": "Lithierry", "type": "goal" },
+        { "minute": 90, "extra": 7, "side": "home", "player": "Jahnoah Markelo", "type": "goal" }
+      ],
+      "sources": ["https://www.albayan.ae/sports/uae-stadiums/1566582"] },
+    { "op": "venue", "match": "uae-pro-league-2026-27-regular-r09-ae-united-ae-al-wahda",
+      "venue": { "name": {"en": "Rashid Stadium", "ar": "استاد راشد"}, "city": {"en": "Dubai", "ar": "دبي"} },
+      "sources": ["https://www.albayan.ae/sports/uae-stadiums/1566533"] }
+  ],
+  "unconfirmed": []
+}
