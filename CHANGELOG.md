@@ -4636,3 +4636,11 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result epl-2026-27-regular-r11-gb-eng-tottenham-hotspur-gb-eng-ipswich-town 2-0 FT
   - ✓ result epl-2026-27-regular-r11-gb-eng-coventry-city-gb-eng-crystal-palace 3-2 FT
   - ✓ result epl-2026-27-regular-r11-gb-eng-bournemouth-gb-eng-nottingham-forest 2-0 FT
+
+## 2026-11-21 (2026-11-21T19:35:00Z)
+- 5 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r13-es-rayo-vallecano-es-valencia 0-1 FT
+  - ✓ result serie-a-2026-27-regular-r12-it-parma-it-roma 1-5 FT
+  - ✓ result epl-2026-27-regular-r11-gb-eng-tottenham-hotspur-gb-eng-ipswich-town added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r11-gb-eng-coventry-city-gb-eng-crystal-palace added scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r11-gb-eng-bournemouth-gb-eng-nottingham-forest added scorers to the confirmed result

@@ -6016,14 +6016,18 @@
    "away": "es-valencia",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261121"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/football/match/laliga-11/rayo-vallecano-valencia-139-174-11"
+   ],
+   "updatedAt": "2026-11-21T19:43:34.006Z"
   },
   {
    "id": "laliga-2026-27-regular-r13-es-sevilla-es-real-betis",

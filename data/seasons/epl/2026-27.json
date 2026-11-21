@@ -4798,9 +4798,25 @@
    "sources": [
     "https://www.skysports.com/football-scores-fixtures/2026-11-21",
     "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
-    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/",
+    "https://www.skysports.com/football/bournemouth-vs-nottingham-forest/8642671352875556232"
    ],
-   "updatedAt": "2026-11-21T18:38:01.515Z"
+   "updatedAt": "2026-11-21T18:38:01.515Z",
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Evanilson",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 3,
+     "side": "home",
+     "player": "J Kluivert",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-chelsea-gb-eng-leeds-united",
@@ -4854,9 +4870,43 @@
    "sources": [
     "https://www.skysports.com/football-scores-fixtures/2026-11-21",
     "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
-    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/",
+    "https://www.skysports.com/football/coventry-city-vs-crystal-palace/7087006116038406232"
    ],
-   "updatedAt": "2026-11-21T18:38:01.515Z"
+   "updatedAt": "2026-11-21T18:38:01.515Z",
+   "goals": [
+    {
+     "minute": 5,
+     "side": "home",
+     "player": "T Awoniyi",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Y Pino",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "T Sakamoto",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "away",
+     "player": "J Larsen",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "D McNeil",
+     "type": "own-goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-tottenham-hotspur-gb-eng-ipswich-town",
@@ -4882,9 +4932,24 @@
    "sources": [
     "https://www.skysports.com/football-scores-fixtures/2026-11-21",
     "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
-    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/",
+    "https://www.skysports.com/football/spurs-vs-ipswich/live/559553"
    ],
-   "updatedAt": "2026-11-21T18:38:01.515Z"
+   "updatedAt": "2026-11-21T18:38:01.515Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "L Williams-Barnett",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "D Solanke",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-newcastle-united-gb-eng-arsenal",

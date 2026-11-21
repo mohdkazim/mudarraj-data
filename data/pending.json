@@ -1,10 +1,18 @@
 [
  {
-  "match": "laliga-2026-27-regular-r13-es-rayo-vallecano-es-valencia",
-  "claim": "0-1",
+  "match": "epl-2026-27-regular-r11-gb-eng-newcastle-united-gb-eng-arsenal",
+  "claim": "2-2",
   "sources": [
-   "https://www.365scores.com/football/match/laliga-11/rayo-vallecano-valencia-139-174-11"
+   "https://www.skysports.com/football-scores-fixtures"
   ],
-  "seen": "2026-11-21T18:35:00Z"
+  "seen": "2026-11-21T19:35:00Z"
+ },
+ {
+  "match": "bundesliga-2026-27-regular-r10-de-schalke-04-de-vfb-stuttgart",
+  "claim": "0-0",
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures"
+  ],
+  "seen": "2026-11-21T19:35:00Z"
  }
 ]

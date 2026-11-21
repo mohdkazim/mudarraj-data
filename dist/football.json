@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-21T18:38:09.747Z",
+ "generatedAt": "2026-11-21T19:43:34.192Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 535,
-  "pending": 1
+  "results": 536,
+  "pending": 2
  },
  "teams": [
   {
@@ -43111,9 +43111,25 @@
    "sources": [
     "https://www.skysports.com/football-scores-fixtures/2026-11-21",
     "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
-    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/",
+    "https://www.skysports.com/football/bournemouth-vs-nottingham-forest/8642671352875556232"
    ],
    "updatedAt": "2026-11-21T18:38:01.515Z",
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Evanilson",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 3,
+     "side": "home",
+     "player": "J Kluivert",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -43191,9 +43207,43 @@
    "sources": [
     "https://www.skysports.com/football-scores-fixtures/2026-11-21",
     "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
-    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/",
+    "https://www.skysports.com/football/coventry-city-vs-crystal-palace/7087006116038406232"
    ],
    "updatedAt": "2026-11-21T18:38:01.515Z",
+   "goals": [
+    {
+     "minute": 5,
+     "side": "home",
+     "player": "T Awoniyi",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Y Pino",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "home",
+     "player": "T Sakamoto",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "away",
+     "player": "J Larsen",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "D McNeil",
+     "type": "own-goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -43231,9 +43281,24 @@
    "sources": [
     "https://www.skysports.com/football-scores-fixtures/2026-11-21",
     "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
-    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/",
+    "https://www.skysports.com/football/spurs-vs-ipswich/live/559553"
    ],
    "updatedAt": "2026-11-21T18:38:01.515Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "home",
+     "player": "L Williams-Barnett",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "D Solanke",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -43252,8 +43317,11 @@
    "away": "es-valencia",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Estadio de Vallecas",
@@ -43266,9 +43334,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261121"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/football/match/laliga-11/rayo-vallecano-valencia-139-174-11"
    ],
+   "updatedAt": "2026-11-21T19:43:34.006Z",
    "venueFrom": "home-ground"
   },
   {

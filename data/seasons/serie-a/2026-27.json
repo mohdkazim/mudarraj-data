@@ -5253,14 +5253,60 @@
    "away": "it-roma",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 5,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261121&limit=37"
-   ]
+    "https://www.365scores.com/it/news/serie-a/parma-roma-1-5-poker-di-malen-giallorossi-secondi/",
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 39,
+     "side": "away",
+     "player": "Donyell Malen",
+     "type": "goal"
+    },
+    {
+     "minute": 54,
+     "side": "home",
+     "player": "Elphege",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Donyell Malen",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "away",
+     "player": "Rodrigo Mora",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Donyell Malen",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "away",
+     "player": "Donyell Malen",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T19:43:34.006Z"
   },
   {
    "id": "serie-a-2026-27-regular-r12-it-napoli-it-torino",

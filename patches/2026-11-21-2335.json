@@ -1,0 +1,42 @@
+{
+  "run": "2026-11-21T19:35:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-rayo-vallecano-es-valencia", "status": "FT", "score": [0,1],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.365scores.com/football/match/laliga-11/rayo-vallecano-valencia-139-174-11"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r12-it-parma-it-roma", "status": "FT", "score": [1,5], "ht": [0,1],
+      "goals": [
+        { "minute": 39, "side": "away", "player": "Donyell Malen", "type": "goal" },
+        { "minute": 54, "side": "home", "player": "Elphege", "type": "goal" },
+        { "minute": 68, "side": "away", "player": "Donyell Malen", "type": "goal" },
+        { "minute": 71, "side": "away", "player": "Rodrigo Mora", "type": "goal" },
+        { "minute": 77, "side": "away", "player": "Donyell Malen", "type": "goal" },
+        { "minute": 90, "side": "away", "player": "Donyell Malen", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/it/news/serie-a/parma-roma-1-5-poker-di-malen-giallorossi-secondi/", "https://www.skysports.com/football-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r11-gb-eng-tottenham-hotspur-gb-eng-ipswich-town", "status": "FT", "score": [2,0],
+      "goals": [
+        { "minute": 15, "side": "home", "player": "L Williams-Barnett", "type": "goal" },
+        { "minute": 51, "side": "home", "player": "D Solanke", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/spurs-vs-ipswich/live/559553"] },
+    { "op": "result", "match": "epl-2026-27-regular-r11-gb-eng-coventry-city-gb-eng-crystal-palace", "status": "FT", "score": [3,2],
+      "goals": [
+        { "minute": 5, "side": "home", "player": "T Awoniyi", "type": "goal" },
+        { "minute": 13, "side": "away", "player": "Y Pino", "type": "goal" },
+        { "minute": 30, "side": "home", "player": "T Sakamoto", "type": "goal" },
+        { "minute": 45, "extra": 1, "side": "away", "player": "J Larsen", "type": "goal" },
+        { "minute": 85, "side": "home", "player": "D McNeil", "type": "own-goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/coventry-city-vs-crystal-palace/7087006116038406232"] },
+    { "op": "result", "match": "epl-2026-27-regular-r11-gb-eng-bournemouth-gb-eng-nottingham-forest", "status": "FT", "score": [2,0],
+      "goals": [
+        { "minute": 19, "side": "home", "player": "Evanilson", "type": "goal" },
+        { "minute": 45, "extra": 3, "side": "home", "player": "J Kluivert", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/bournemouth-vs-nottingham-forest/8642671352875556232"] }
+  ],
+  "unconfirmed": [
+    { "match": "epl-2026-27-regular-r11-gb-eng-newcastle-united-gb-eng-arsenal", "claim": "2-2", "sources": ["https://www.skysports.com/football-scores-fixtures"] },
+    { "match": "bundesliga-2026-27-regular-r10-de-schalke-04-de-vfb-stuttgart", "claim": "0-0", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+  ]
+}
