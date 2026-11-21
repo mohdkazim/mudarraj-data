@@ -3092,8 +3092,11 @@
    "away": "ae-al-wahda",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Rashid Stadium",
@@ -3106,12 +3109,12 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f87-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=9&s=2026-2027"
+    "https://www.uaeproleague.ae/en/fixtures/22e17f87-7604-11f1-b32b-0289588efdb9"
    ],
    "venueSources": [
     "https://www.albayan.ae/sports/uae-stadiums/1566533"
-   ]
+   ],
+   "updatedAt": "2026-11-21T17:44:34.045Z"
   },
   {
    "id": "uae-pro-league-2026-27-regular-r10-ae-al-wahda-ae-al-wasl",

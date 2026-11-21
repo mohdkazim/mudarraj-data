@@ -4499,14 +4499,44 @@
    "away": "de-sc-paderborn",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261121&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-paderborn-match-report-highlights-matchday-10-40072",
+    "https://www.bundesliga.com/en/bundesliga/matchday"
+   ],
+   "goals": [
+    {
+     "minute": 14,
+     "side": "home",
+     "player": "Afonso Moreira",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Afonso Moreira",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Patrik Schick",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Ezequiel Fernández",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T17:44:34.045Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r10-de-borussia-monchengladbach-de-borussia-dortmund",
@@ -4522,14 +4552,17 @@
    "away": "de-borussia-dortmund",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261121&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/matchday"
+   ],
+   "updatedAt": "2026-11-21T17:44:34.045Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r10-de-eintracht-frankfurt-de-tsg-hoffenheim",
@@ -4545,14 +4578,26 @@
    "away": "de-tsg-hoffenheim",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261121&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/eintracht-frankfurt-hoffenheim-match-report-highlights-matchday-10-burkardt-atubolu-40079",
+    "https://www.bundesliga.com/en/bundesliga/matchday"
+   ],
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "Jonathan Burkardt",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T17:44:34.045Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r10-de-sv-elversberg-de-sc-freiburg",
@@ -4568,14 +4613,30 @@
    "away": "de-sc-freiburg",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261121&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/elversberg-sport-club-freiburg-match-report-highlights-matchday-10-40077",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10/sv-elversberg-vs-sport-club-freiburg/liveticker"
+   ],
+   "goals": [
+    {
+     "minute": 68,
+     "side": "away",
+     "player": "Igor Matanović",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T17:44:34.045Z"
   },
   {
    "id": "bundesliga-2026-27-regular-r10-de-union-berlin-de-rb-leipzig",

@@ -1,0 +1,38 @@
+{
+  "run": "2026-11-21T17:35:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-alaves-es-deportivo-la-coruna", "status": "FT", "score": [3,1], "ht": [1,1],
+      "goals": [
+        { "minute": 2, "side": "home", "player": "Ángel Pérez", "type": "goal" },
+        { "minute": 41, "side": "away", "player": "Nahuel Tenaglia", "type": "own-goal" },
+        { "minute": 62, "side": "home", "player": "Lucas Boyé", "type": "goal" },
+        { "minute": 90, "side": "home", "player": "Denis Suárez", "type": "goal" }
+      ],
+      "sources": ["https://www.laliga.com/en-US/match/temporada-2026-2027-laliga-ea-sports-deportivo-alaves-rc-deportivo-13", "https://www.skysports.com/football-scores-fixtures"] },
+    { "op": "result", "match": "bundesliga-2026-27-regular-r10-de-bayer-leverkusen-de-sc-paderborn", "status": "FT", "score": [4,0],
+      "goals": [
+        { "minute": 14, "side": "home", "player": "Afonso Moreira", "type": "goal" },
+        { "minute": 48, "side": "home", "player": "Afonso Moreira", "type": "goal" },
+        { "minute": 51, "side": "home", "player": "Patrik Schick", "type": "goal" },
+        { "minute": 59, "side": "home", "player": "Ezequiel Fernández", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/bayer-leverkusen-paderborn-match-report-highlights-matchday-10-40072", "https://www.bundesliga.com/en/bundesliga/matchday"] },
+    { "op": "result", "match": "bundesliga-2026-27-regular-r10-de-eintracht-frankfurt-de-tsg-hoffenheim", "status": "FT", "score": [1,0],
+      "goals": [ { "minute": 25, "side": "home", "player": "Jonathan Burkardt", "type": "goal" } ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/eintracht-frankfurt-hoffenheim-match-report-highlights-matchday-10-burkardt-atubolu-40079", "https://www.bundesliga.com/en/bundesliga/matchday"] },
+    { "op": "result", "match": "bundesliga-2026-27-regular-r10-de-sv-elversberg-de-sc-freiburg", "status": "FT", "score": [0,1], "ht": [0,0],
+      "goals": [ { "minute": 68, "side": "away", "player": "Igor Matanović", "type": "goal" } ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/elversberg-sport-club-freiburg-match-report-highlights-matchday-10-40077", "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10/sv-elversberg-vs-sport-club-freiburg/liveticker"] },
+    { "op": "result", "match": "bundesliga-2026-27-regular-r10-de-borussia-monchengladbach-de-borussia-dortmund", "status": "FT", "score": [0,1],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/matchday"] },
+    { "op": "result", "match": "uae-pro-league-2026-27-regular-r09-ae-united-ae-al-wahda", "status": "FT", "score": [1,1],
+      "sources": ["https://www.uaeproleague.ae/en/fixtures/22e17f87-7604-11f1-b32b-0289588efdb9"] }
+  ],
+  "unconfirmed": [
+    { "match": "epl-2026-27-regular-r11-gb-eng-aston-villa-gb-eng-sunderland", "claim": "0-0", "sources": ["https://www.skysports.com/football-scores-fixtures/2026-11-21"] },
+    { "match": "epl-2026-27-regular-r11-gb-eng-chelsea-gb-eng-leeds-united", "claim": "1-4", "sources": ["https://www.skysports.com/football-scores-fixtures/2026-11-21"] },
+    { "match": "epl-2026-27-regular-r11-gb-eng-tottenham-hotspur-gb-eng-ipswich-town", "claim": "2-0", "sources": ["https://www.skysports.com/football-scores-fixtures/2026-11-21"] },
+    { "match": "epl-2026-27-regular-r11-gb-eng-coventry-city-gb-eng-crystal-palace", "claim": "3-2", "sources": ["https://www.skysports.com/football-scores-fixtures/2026-11-21"] },
+    { "match": "epl-2026-27-regular-r11-gb-eng-bournemouth-gb-eng-nottingham-forest", "claim": "2-0", "sources": ["https://www.skysports.com/football-scores-fixtures/2026-11-21"] }
+  ]
+}

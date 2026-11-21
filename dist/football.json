@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-21T16:38:55.714Z",
+ "generatedAt": "2026-11-21T17:44:34.237Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 528,
-  "pending": 2
+  "results": 530,
+  "pending": 6
  },
  "teams": [
   {
@@ -42982,8 +42982,15 @@
    "away": "es-deportivo-la-coruna",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Mendizorroza",
@@ -42996,9 +43003,36 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261121"
+    "https://www.laliga.com/en-US/match/temporada-2026-2027-laliga-ea-sports-deportivo-alaves-rc-deportivo-13",
+    "https://www.skysports.com/football-scores-fixtures"
    ],
+   "goals": [
+    {
+     "minute": 2,
+     "side": "home",
+     "player": "Ángel Pérez",
+     "type": "goal"
+    },
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Nahuel Tenaglia",
+     "type": "own-goal"
+    },
+    {
+     "minute": 62,
+     "side": "home",
+     "player": "Lucas Boyé",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "Denis Suárez",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T17:44:34.045Z",
    "venueFrom": "home-ground"
   },
   {
@@ -43227,8 +43261,11 @@
    "away": "ae-al-wahda",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Rashid Stadium",
@@ -43241,12 +43278,12 @@
    },
    "neutral": false,
    "sources": [
-    "https://uaeproleague.ae/en/fixtures/22e17f87-7604-11f1-b32b-0289588efdb9",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=9&s=2026-2027"
+    "https://www.uaeproleague.ae/en/fixtures/22e17f87-7604-11f1-b32b-0289588efdb9"
    ],
    "venueSources": [
     "https://www.albayan.ae/sports/uae-stadiums/1566533"
-   ]
+   ],
+   "updatedAt": "2026-11-21T17:44:34.045Z"
   },
   {
    "competition": "epl",

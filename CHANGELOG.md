@@ -4618,3 +4618,12 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 2 waiting for a second source
   - ✓ result bundesliga-2026-27-regular-r10-de-union-berlin-de-rb-leipzig 1-5 FT
   - ✓ result serie-a-2026-27-regular-r12-it-lazio-it-lecce 3-0 FT
+
+## 2026-11-21 (2026-11-21T17:35:00Z)
+- 6 change(s) applied, 0 rejected, 6 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r13-es-alaves-es-deportivo-la-coruna 3-1 FT
+  - ✓ result bundesliga-2026-27-regular-r10-de-bayer-leverkusen-de-sc-paderborn 4-0 FT
+  - ✓ result bundesliga-2026-27-regular-r10-de-eintracht-frankfurt-de-tsg-hoffenheim 1-0 FT
+  - ✓ result bundesliga-2026-27-regular-r10-de-sv-elversberg-de-sc-freiburg 0-1 FT
+  - ✓ result bundesliga-2026-27-regular-r10-de-borussia-monchengladbach-de-borussia-dortmund 0-1 FT
+  - ✓ result uae-pro-league-2026-27-regular-r09-ae-united-ae-al-wahda 1-1 FT
