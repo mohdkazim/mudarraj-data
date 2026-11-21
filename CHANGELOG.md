@@ -4654,3 +4654,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 0 waiting for a second source
   - ✓ result laliga-2026-27-regular-r13-es-sevilla-es-real-betis 1-1 FT
   - ✓ result epl-2026-27-regular-r11-gb-eng-newcastle-united-gb-eng-arsenal added scorers to the confirmed result
+
+## 2026-11-22 (2026-11-21T22:35:00Z)
+- 1 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r13-es-real-madrid-es-celta-vigo 2-1 FT

@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-21T21:41:53.507Z",
+ "generatedAt": "2026-11-21T22:37:44.483Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 538,
-  "pending": 0
+  "results": 539,
+  "pending": 1
  },
  "teams": [
   {
@@ -43520,8 +43520,11 @@
    "away": "es-celta-vigo",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Santiago Bernabéu",
@@ -43534,9 +43537,30 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261121"
+    "https://www.skysports.com/football/real-madrid-vs-celta-vigo/563052",
+    "https://365scores.com/pt-br/news/magazine/real-madrid-celta-vigo-virada-lideranca-espanhol"
    ],
+   "goals": [
+    {
+     "minute": 6,
+     "side": "away",
+     "player": "P Durán",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "J Bellingham",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "C Espí",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-21T22:37:44.308Z",
    "venueFrom": "home-ground"
   },
   {

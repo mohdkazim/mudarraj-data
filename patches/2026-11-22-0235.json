@@ -1,0 +1,15 @@
+{
+  "run": "2026-11-21T22:35:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-real-madrid-es-celta-vigo", "status": "FT", "score": [2,1],
+      "goals": [
+        { "minute": 6, "side": "away", "player": "P Durán", "type": "goal" },
+        { "minute": 66, "side": "home", "player": "J Bellingham", "type": "goal" },
+        { "minute": 85, "side": "home", "player": "C Espí", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/real-madrid-vs-celta-vigo/563052", "https://365scores.com/pt-br/news/magazine/real-madrid-celta-vigo-virada-lideranca-espanhol"] }
+  ],
+  "unconfirmed": [
+    { "match": "serie-a-2026-27-regular-r12-it-napoli-it-torino", "claim": "1-0", "sources": ["https://www.365scores.com/it/news/serie-a/napoli-torino-1-0-mctominay-decide-allegri-torna-a-vincere/"] }
+  ]
+}
