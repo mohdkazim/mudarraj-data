@@ -4965,14 +4965,18 @@
    "away": "gb-eng-arsenal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
-   ]
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.arabnews.com/football/arsenal-held-by-newcastle-rally-and-lose-raya-to-injury-3013413"
+   ],
+   "updatedAt": "2026-11-21T20:41:35.801Z"
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-hull-city-gb-eng-brighton",

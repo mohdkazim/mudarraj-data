@@ -1,18 +1,10 @@
 [
  {
-  "match": "epl-2026-27-regular-r11-gb-eng-newcastle-united-gb-eng-arsenal",
-  "claim": "2-2",
+  "match": "laliga-2026-27-regular-r13-es-sevilla-es-real-betis",
+  "claim": "1-1",
   "sources": [
    "https://www.skysports.com/football-scores-fixtures"
   ],
-  "seen": "2026-11-21T19:35:00Z"
- },
- {
-  "match": "bundesliga-2026-27-regular-r10-de-schalke-04-de-vfb-stuttgart",
-  "claim": "0-0",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures"
-  ],
-  "seen": "2026-11-21T19:35:00Z"
+  "seen": "2026-11-21T20:35:00Z"
  }
 ]

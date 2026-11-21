@@ -1,0 +1,12 @@
+{
+  "run": "2026-11-21T20:35:00Z",
+  "changes": [
+    { "op": "result", "match": "bundesliga-2026-27-regular-r10-de-schalke-04-de-vfb-stuttgart", "status": "FT", "score": [0,0], "ht": [0,0], "goals": [],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10/fc-schalke-04-vs-vfb-stuttgart/liveticker", "https://www.skysports.com/football-scores-fixtures"] },
+    { "op": "result", "match": "epl-2026-27-regular-r11-gb-eng-newcastle-united-gb-eng-arsenal", "status": "FT", "score": [2,2],
+      "sources": ["https://www.skysports.com/football-scores-fixtures", "https://www.arabnews.com/football/arsenal-held-by-newcastle-rally-and-lose-raya-to-injury-3013413"] }
+  ],
+  "unconfirmed": [
+    { "match": "laliga-2026-27-regular-r13-es-sevilla-es-real-betis", "claim": "1-1", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+  ]
+}

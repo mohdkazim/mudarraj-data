@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-21T19:43:34.192Z",
+ "generatedAt": "2026-11-21T20:41:35.937Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 933,
-  "pending": 2
+  "results": 935,
+  "pending": 1
  },
  "teams": [
   {
@@ -68301,8 +68301,15 @@
    "away": "de-vfb-stuttgart",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Veltins-Arena",
@@ -68315,9 +68322,11 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261121&limit=37"
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10/fc-schalke-04-vs-vfb-stuttgart/liveticker",
+    "https://www.skysports.com/football-scores-fixtures"
    ],
+   "goals": [],
+   "updatedAt": "2026-11-21T20:41:35.801Z",
    "venueFrom": "home-ground"
   },
   {
@@ -68336,8 +68345,11 @@
    "away": "gb-eng-arsenal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "St James' Park",
@@ -68350,9 +68362,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.arabnews.com/football/arsenal-held-by-newcastle-rally-and-lose-raya-to-injury-3013413"
    ],
+   "updatedAt": "2026-11-21T20:41:35.801Z",
    "venueFrom": "home-ground"
   },
   {
