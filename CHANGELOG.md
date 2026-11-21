@@ -4618,8 +4618,3 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 2 waiting for a second source
   - ✓ result bundesliga-2026-27-regular-r10-de-union-berlin-de-rb-leipzig 1-5 FT
   - ✓ result serie-a-2026-27-regular-r12-it-lazio-it-lecce 3-0 FT
-
-## 2026-11-21 (2026-11-21T16:36:03Z)
-- 2 change(s) applied, 0 rejected, 2 waiting for a second source
-  - ✓ result bundesliga-2026-27-regular-r10-de-union-berlin-de-rb-leipzig 1-5 FT
-  - ✓ result serie-a-2026-27-regular-r12-it-lazio-it-lecce 3-0 FT
