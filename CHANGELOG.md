@@ -4687,3 +4687,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 4 waiting for a second source
   - ✓ result laliga-2026-27-regular-r13-es-barcelona-es-villarreal 3-2 FT
   - ✓ result serie-a-2026-27-regular-r12-it-ac-milan-it-frosinone 5-1 FT
+
+## 2026-11-23 (2026-11-22T20:35:42Z)
+- 2 change(s) applied, 0 rejected, 5 waiting for a second source
+  - ✓ result bundesliga-2026-27-regular-r10-de-werder-bremen-de-hamburger-sv 4-0 FT
+  - ✓ result epl-2026-27-regular-r11-gb-eng-liverpool-gb-eng-manchester-united 4-0 FT

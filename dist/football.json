@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-22T19:42:50.656Z",
+ "generatedAt": "2026-11-22T20:39:35.068Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 541,
-  "pending": 4
+  "results": 542,
+  "pending": 5
  },
  "teams": [
   {
@@ -43707,8 +43707,11 @@
    "away": "gb-eng-manchester-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Anfield",
@@ -43721,9 +43724,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
+    "https://www.skysports.com/football/liverpool-vs-man-utd/5154073202367135232",
+    "https://gulfnews.com/sport/football/pochettino-gets-brutal-premier-league-welcome-back-as-liverpool-annihilate-united-4-0-1.500757342"
    ],
+   "updatedAt": "2026-11-22T20:39:34.943Z",
    "venueFrom": "home-ground"
   },
   {
