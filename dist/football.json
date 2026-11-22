@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-22T18:43:14.459Z",
+ "generatedAt": "2026-11-22T19:42:50.656Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 540,
-  "pending": 5
+  "results": 541,
+  "pending": 4
  },
  "teams": [
   {
@@ -43595,8 +43595,15 @@
    "away": "es-villarreal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": {
     "name": {
      "en": "Spotify Camp Nou",
@@ -43609,8 +43616,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13"
+    "https://www.365scores.com/football/match/laliga-11/fc-barcelona-villarreal-132-133-11",
+    "https://www.skysports.com/football-scores-fixtures/2026-11-22"
    ],
+   "updatedAt": "2026-11-22T19:42:50.455Z",
    "venueFrom": "home-ground"
   },
   {

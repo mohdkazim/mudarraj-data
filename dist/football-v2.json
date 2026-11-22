@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-22T18:43:14.459Z",
+ "generatedAt": "2026-11-22T19:42:50.656Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 941,
-  "pending": 5
+  "results": 943,
+  "pending": 4
  },
  "teams": [
   {
@@ -68680,8 +68680,15 @@
    "away": "es-villarreal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": {
     "name": {
      "en": "Spotify Camp Nou",
@@ -68694,8 +68701,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13"
+    "https://www.365scores.com/football/match/laliga-11/fc-barcelona-villarreal-132-133-11",
+    "https://www.skysports.com/football-scores-fixtures/2026-11-22"
    ],
+   "updatedAt": "2026-11-22T19:42:50.455Z",
    "venueFrom": "home-ground"
   },
   {
@@ -68989,8 +68998,15 @@
    "away": "it-frosinone",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 1,
+    "ht": [
+     2,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "San Siro",
@@ -69003,9 +69019,47 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261122&limit=37"
+    "https://365scores.com/it/news/serie-a/milan-frosinone-5-1-rabiot-firma-due-assist-rossoneri-quarti"
    ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Gabriele Calvani",
+     "type": "own-goal"
+    },
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Gonçalo Ramos",
+     "type": "goal"
+    },
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Patrizio Masini",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Ardon Jashari",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Alphadjo Cisse",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Christian Pulisic",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-22T19:42:50.455Z",
    "venueFrom": "home-ground"
   },
   {

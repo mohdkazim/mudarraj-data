@@ -5455,14 +5455,59 @@
    "away": "it-frosinone",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 1,
+    "ht": [
+     2,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261122&limit=37"
-   ]
+    "https://365scores.com/it/news/serie-a/milan-frosinone-5-1-rabiot-firma-due-assist-rossoneri-quarti"
+   ],
+   "goals": [
+    {
+     "minute": 4,
+     "side": "home",
+     "player": "Gabriele Calvani",
+     "type": "own-goal"
+    },
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Gonçalo Ramos",
+     "type": "goal"
+    },
+    {
+     "minute": 25,
+     "side": "away",
+     "player": "Patrizio Masini",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Ardon Jashari",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Alphadjo Cisse",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Christian Pulisic",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-22T19:42:50.455Z"
   },
   {
    "id": "serie-a-2026-27-regular-r12-it-atalanta-it-inter-milan",

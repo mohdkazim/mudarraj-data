@@ -6152,13 +6152,22 @@
    "away": "es-villarreal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13"
-   ]
+    "https://www.365scores.com/football/match/laliga-11/fc-barcelona-villarreal-132-133-11",
+    "https://www.skysports.com/football-scores-fixtures/2026-11-22"
+   ],
+   "updatedAt": "2026-11-22T19:42:50.455Z"
   },
   {
    "id": "laliga-2026-27-regular-r13-es-racing-santander-es-real-sociedad",

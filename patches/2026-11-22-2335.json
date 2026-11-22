@@ -1,0 +1,18 @@
+{
+  "run": "2026-11-22T19:35:46Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-barcelona-es-villarreal", "status": "FT", "score": [3,2], "ht": [0,2],
+      "sources": ["https://www.365scores.com/football/match/laliga-11/fc-barcelona-villarreal-132-133-11", "https://www.skysports.com/football-scores-fixtures/2026-11-22"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r12-it-ac-milan-it-frosinone", "status": "FT", "score": [5,1], "ht": [2,1],
+      "goals": [
+        { "minute": 4, "side": "home", "player": "Gabriele Calvani", "type": "own-goal" },
+        { "minute": 19, "side": "home", "player": "Gonçalo Ramos", "type": "goal" },
+        { "minute": 25, "side": "away", "player": "Patrizio Masini", "type": "goal" },
+        { "minute": 48, "side": "home", "player": "Ardon Jashari", "type": "goal" },
+        { "minute": 60, "side": "home", "player": "Alphadjo Cisse", "type": "goal" },
+        { "minute": 68, "side": "home", "player": "Christian Pulisic", "type": "goal" }
+      ],
+      "sources": ["https://365scores.com/it/news/serie-a/milan-frosinone-5-1-rabiot-firma-due-assist-rossoneri-quarti"] }
+  ],
+  "unconfirmed": []
+}
