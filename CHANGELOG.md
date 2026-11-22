@@ -4678,3 +4678,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-22 (2026-11-22T17:35:00Z)
 - 1 change(s) applied, 0 rejected, 2 waiting for a second source
   - ✓ result serie-a-2026-27-regular-r12-it-sassuolo-it-genoa 0-2 FT
+
+## 2026-11-22 (2026-11-22T18:36:00Z)
+- 1 change(s) applied, 0 rejected, 5 waiting for a second source
+  - ✓ result bundesliga-2026-27-regular-r10-de-fc-augsburg-de-mainz-05 3-1 FT

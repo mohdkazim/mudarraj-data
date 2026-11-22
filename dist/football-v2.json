@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-22T17:42:30.192Z",
+ "generatedAt": "2026-11-22T18:43:14.459Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 940,
-  "pending": 2
+  "results": 941,
+  "pending": 5
  },
  "teams": [
   {
@@ -68826,14 +68826,48 @@
    "away": "de-mainz-05",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261122&limit=37"
-   ]
+    "https://www.bundesliga.com/en/bundesliga/news/augsburg-mainz-match-report-highlights-matchday-10-40100",
+    "https://www.skysports.com/football-scores-fixtures/2026-11-22"
+   ],
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Michael Gregoritsch",
+     "type": "goal"
+    },
+    {
+     "minute": 36,
+     "side": "home",
+     "player": "Juma Bah",
+     "type": "goal"
+    },
+    {
+     "minute": 48,
+     "side": "home",
+     "player": "Michael Gregoritsch",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Ransford-Yeboah Königsdörffer",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-22T18:43:14.305Z"
   },
   {
    "competition": "laliga",

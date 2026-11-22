@@ -1,0 +1,18 @@
+{
+  "run": "2026-11-22T18:36:00Z",
+  "changes": [
+    { "op": "result", "match": "bundesliga-2026-27-regular-r10-de-fc-augsburg-de-mainz-05", "status": "FT", "score": [3,1], "ht": [2,0],
+      "goals": [
+        { "minute": 19, "side": "home", "player": "Michael Gregoritsch", "type": "goal" },
+        { "minute": 36, "side": "home", "player": "Juma Bah", "type": "goal" },
+        { "minute": 48, "side": "home", "player": "Michael Gregoritsch", "type": "goal" },
+        { "minute": 51, "side": "away", "player": "Ransford-Yeboah Königsdörffer", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/augsburg-mainz-match-report-highlights-matchday-10-40100", "https://www.skysports.com/football-scores-fixtures/2026-11-22"] }
+  ],
+  "unconfirmed": [
+    { "match": "laliga-2026-27-regular-r13-es-barcelona-es-villarreal", "claim": "3-2", "sources": ["https://www.skysports.com/football-scores-fixtures/2026-11-22"] },
+    { "match": "laliga-2026-27-regular-r13-es-racing-santander-es-real-sociedad", "claim": "3-2", "sources": ["https://www.skysports.com/football-scores-fixtures/2026-11-22"] },
+    { "match": "serie-a-2026-27-regular-r12-it-bologna-it-udinese", "claim": "1-1", "sources": ["https://www.skysports.com/football-scores-fixtures/2026-11-22"] }
+  ]
+}
