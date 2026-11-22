@@ -1,0 +1,14 @@
+{
+  "run": "2026-11-22T21:35:00Z",
+  "changes": [
+    { "op": "result", "match": "epl-2026-27-regular-r11-gb-eng-liverpool-gb-eng-manchester-united", "status": "FT", "score": [4,0],
+      "goals": [
+        { "minute": 10, "side": "home", "player": "Dominik Szoboszlai", "type": "goal" },
+        { "minute": 13, "side": "home", "player": "Florian Wirtz", "type": "goal" },
+        { "minute": 66, "side": "home", "player": "Rio Ngumoha", "type": "goal" },
+        { "minute": 82, "side": "home", "player": "V Muñoz", "type": "goal" }
+      ],
+      "sources": ["https://skysports.com/football/liverpool-vs-manchester-united/live/559550"] }
+  ],
+  "unconfirmed": []
+}

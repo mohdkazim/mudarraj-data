@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-22T20:39:35.068Z",
+ "generatedAt": "2026-11-22T21:37:58.608Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
@@ -43725,9 +43725,36 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football/liverpool-vs-man-utd/5154073202367135232",
-    "https://gulfnews.com/sport/football/pochettino-gets-brutal-premier-league-welcome-back-as-liverpool-annihilate-united-4-0-1.500757342"
+    "https://gulfnews.com/sport/football/pochettino-gets-brutal-premier-league-welcome-back-as-liverpool-annihilate-united-4-0-1.500757342",
+    "https://skysports.com/football/liverpool-vs-manchester-united/live/559550"
    ],
    "updatedAt": "2026-11-22T20:39:34.943Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "Dominik Szoboszlai",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "Florian Wirtz",
+     "type": "goal"
+    },
+    {
+     "minute": 66,
+     "side": "home",
+     "player": "Rio Ngumoha",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "home",
+     "player": "V Muñoz",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
