@@ -4658,3 +4658,9 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-22 (2026-11-21T22:35:00Z)
 - 1 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result laliga-2026-27-regular-r13-es-real-madrid-es-celta-vigo 2-1 FT
+
+## 2026-11-22 (2026-11-22T01:36:00Z)
+- 3 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r13-es-athletic-club-es-espanyol 0-1 FT
+  - ✓ result laliga-2026-27-regular-r13-es-rayo-vallecano-es-valencia added half-time and scorers to the confirmed result
+  - ✓ result saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr added half-time and scorers to the confirmed result

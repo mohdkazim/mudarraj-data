@@ -5242,15 +5242,47 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 1
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.arabnews.com/saudi-pro-league/al-nassr-rue-ronaldo-penalty-miss-as-toney-fires-al-ahli-to-comeback-win-3013220",
-    "https://www.365scores.com/pt-br/news/magazine/cr7-marca-perde-penalti-al-nassr-al-ahli/"
+    "https://www.365scores.com/pt-br/news/magazine/cr7-marca-perde-penalti-al-nassr-al-ahli/",
+    "https://www.365scores.com/es/football/match/saudi-arabia-professional-league-649/al-ahli-jeddah-al-nassr-fc-riyadh-8946-7549-649"
    ],
-   "updatedAt": "2026-11-20T21:37:50.081Z"
+   "updatedAt": "2026-11-20T21:37:50.081Z",
+   "goals": [
+    {
+     "minute": 14,
+     "side": "away",
+     "player": "Cristiano Ronaldo",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "home",
+     "player": "Galeno",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Ivan Toney",
+     "type": "penalty"
+    },
+    {
+     "minute": 75,
+     "side": "home",
+     "player": "Roger Ibañez",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "saudi-pro-league-2026-27-regular-r15-sa-abha-sa-al-riyadh",

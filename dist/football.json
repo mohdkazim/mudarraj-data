@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-21T22:37:44.483Z",
+ "generatedAt": "2026-11-22T01:44:27.308Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 539,
+  "results": 540,
   "pending": 1
  },
  "teams": [
@@ -42797,8 +42797,11 @@
    "away": "es-espanyol",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "San Mamés",
@@ -42811,9 +42814,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261120"
+    "https://www.laliga.com/en-GB/laliga-easports/results"
    ],
+   "updatedAt": "2026-11-22T01:44:27.142Z",
    "venueFrom": "home-ground"
   },
   {
@@ -43320,7 +43323,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": {
     "name": {
@@ -43335,9 +43342,18 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.365scores.com/football/match/laliga-11/rayo-vallecano-valencia-139-174-11"
+    "https://www.365scores.com/football/match/laliga-11/rayo-vallecano-valencia-139-174-11",
+    "https://www.laliga.com/es-NL/partido/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-valencia-cf-13"
    ],
    "updatedAt": "2026-11-21T19:43:34.006Z",
+   "goals": [
+    {
+     "minute": 41,
+     "side": "away",
+     "player": "Copete",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {

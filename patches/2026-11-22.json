@@ -1,0 +1,20 @@
+{
+  "run": "2026-11-22T01:36:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-athletic-club-es-espanyol", "status": "FT", "score": [0,1],
+      "sources": ["https://www.laliga.com/en-GB/laliga-easports/results"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-rayo-vallecano-es-valencia", "status": "FT", "score": [0,1], "ht": [0,1],
+      "goals": [ { "minute": 41, "side": "away", "player": "Copete", "type": "goal" } ],
+      "sources": ["https://www.laliga.com/es-NL/partido/temporada-2026-2027-laliga-ea-sports-rayo-vallecano-valencia-cf-13"] },
+    { "op": "result", "match": "saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr", "status": "FT", "score": [3,1], "ht": [1,1],
+      "goals": [
+        { "minute": 14, "side": "away", "player": "Cristiano Ronaldo", "type": "goal" },
+        { "minute": 45, "extra": 1, "side": "home", "player": "Galeno", "type": "goal" },
+        { "minute": 71, "side": "home", "player": "Ivan Toney", "type": "penalty" },
+        { "minute": 75, "side": "home", "player": "Roger Ibañez", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/es/football/match/saudi-arabia-professional-league-649/al-ahli-jeddah-al-nassr-fc-riyadh-8946-7549-649",
+                  "https://www.arabnews.com/saudi-pro-league/al-nassr-rue-ronaldo-penalty-miss-as-toney-fires-al-ahli-to-comeback-win-3013220"] }
+  ],
+  "unconfirmed": []
+}
