@@ -1,0 +1,14 @@
+{
+  "run": "2026-11-22T15:35:00Z",
+  "changes": [
+    { "op": "result", "match": "serie-a-2026-27-regular-r12-it-juventus-it-venezia", "status": "FT", "score": [4,0], "ht": [0,0],
+      "goals": [
+        { "minute": 53, "side": "home", "player": "Nick Woltemade", "type": "goal" },
+        { "minute": 59, "side": "home", "player": "Teun Koopmeiners", "type": "goal" },
+        { "minute": 65, "side": "home", "player": "Juan Cabal", "type": "goal" },
+        { "minute": 71, "side": "home", "player": "Randal Kolo Muani", "type": "penalty" }
+      ],
+      "sources": ["https://www.365scores.com/it/news/serie-a/juventus-venezia-4-0-woltemade-entra-e-cambia-la-partita/", "https://www.skysports.com/juventus-scores-fixtures"] }
+  ],
+  "unconfirmed": []
+}
