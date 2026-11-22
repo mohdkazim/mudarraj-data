@@ -5425,14 +5425,21 @@
    "away": "it-genoa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261122&limit=37"
-   ]
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/genoa-sassuolo-231-266-17"
+   ],
+   "updatedAt": "2026-11-22T17:42:29.976Z"
   },
   {
    "id": "serie-a-2026-27-regular-r12-it-ac-milan-it-frosinone",

@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-22T16:37:12.368Z",
+ "generatedAt": "2026-11-22T17:42:30.192Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 939,
+  "results": 940,
   "pending": 2
  },
  "teams": [
@@ -68784,8 +68784,15 @@
    "away": "it-genoa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2,
+    "ht": [
+     0,
+     2
+    ]
+   },
    "venue": {
     "name": {
      "en": "Mapei Stadium",
@@ -68798,9 +68805,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261122&limit=37"
+    "https://www.365scores.com/en-uk/football/match/serie-a-17/genoa-sassuolo-231-266-17"
    ],
+   "updatedAt": "2026-11-22T17:42:29.976Z",
    "venueFrom": "home-ground"
   },
   {
