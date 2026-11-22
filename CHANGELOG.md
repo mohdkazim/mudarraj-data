@@ -4664,3 +4664,6 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result laliga-2026-27-regular-r13-es-athletic-club-es-espanyol 0-1 FT
   - ✓ result laliga-2026-27-regular-r13-es-rayo-vallecano-es-valencia added half-time and scorers to the confirmed result
   - ✓ result saudi-pro-league-2026-27-regular-r09-sa-al-ahli-saudi-sa-al-nassr added half-time and scorers to the confirmed result
+
+## 2026-11-22 (2026-11-22T14:37:02.513Z)
+- 0 change(s) applied, 0 rejected, 2 waiting for a second source
