@@ -4707,3 +4707,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result epl-2026-27-regular-r11-gb-eng-chelsea-gb-eng-leeds-united added scorers to the confirmed result
   - ✓ result bundesliga-2026-27-regular-r10-de-borussia-monchengladbach-de-borussia-dortmund added half-time and scorers to the confirmed result
   - ✓ result laliga-2026-27-regular-r13-es-athletic-club-es-espanyol added half-time and scorers to the confirmed result
+
+## 2026-11-23 (2026-11-23T16:35:00Z)
+- 1 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result acle-2026-27-league-west-gwest-r05-uz-neftchi-fergana-sa-al-hilal 2-2 FT

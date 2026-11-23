@@ -2718,14 +2718,17 @@
    "away": "sa-al-hilal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-pfc-neftchi-uzb-2-2-al-hilal-sfc-ksa"
+   ],
+   "updatedAt": "2026-11-23T16:37:16.961Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r05-ae-al-ain-ir-esteghlal",

@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-23T16:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r05-uz-neftchi-fergana-sa-al-hilal", "status": "FT", "score": [2,2],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-pfc-neftchi-uzb-2-2-al-hilal-sfc-ksa"] }
+  ],
+  "unconfirmed": []
+}
