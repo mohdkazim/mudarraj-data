@@ -2842,14 +2842,21 @@
    "away": "qa-al-gharafa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/afc-champions-league-elite-623/al-gharafa-quwa-al-jawiya-6993-11283-623"
+   ],
+   "updatedAt": "2026-11-23T20:37:55.990Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r05-sa-al-ittihad-uz-pakhtakor",
@@ -2865,14 +2872,21 @@
    "away": "uz-pakhtakor",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/afc-champions-league-elite-623/ittihad-jeddah-pakhtakor-8593-10345-623"
+   ],
+   "updatedAt": "2026-11-23T20:37:55.990Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r05-au-newcastle-jets-jp-kashiwa-reysol",
