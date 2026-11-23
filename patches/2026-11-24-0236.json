@@ -1,0 +1,16 @@
+{
+  "run": "2026-11-23T22:36:00Z",
+  "changes": [
+    { "op": "result", "match": "serie-a-2026-27-regular-r12-it-monza-it-fiorentina", "status": "FT", "score": [3,0],
+      "goals": [
+        { "minute": 45, "side": "home", "player": "Gustavo Varela", "type": "penalty" },
+        { "minute": 51, "side": "home", "player": "Gustavo Varela", "type": "goal" },
+        { "minute": 59, "side": "home", "player": "Jay Robinson", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/it/news/serie-a/monza-fiorentina-3-0-varela-doppietta-juric-respira/", "https://www.skysports.com/football-scores-fixtures"] }
+  ],
+  "unconfirmed": [
+    { "match": "epl-2026-27-regular-r11-gb-eng-brentford-gb-eng-everton", "claim": "4-0", "sources": ["https://www.skysports.com/football/brentford-vs-everton/report/559546"] },
+    { "match": "laliga-2026-27-regular-r13-es-levante-es-elche", "claim": "1-1", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+  ]
+}

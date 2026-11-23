@@ -5625,14 +5625,38 @@
    "away": "it-fiorentina",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261123&limit=37"
-   ]
+    "https://www.365scores.com/it/news/serie-a/monza-fiorentina-3-0-varela-doppietta-juric-respira/",
+    "https://www.skysports.com/football-scores-fixtures"
+   ],
+   "goals": [
+    {
+     "minute": 45,
+     "side": "home",
+     "player": "Gustavo Varela",
+     "type": "penalty"
+    },
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Gustavo Varela",
+     "type": "goal"
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Jay Robinson",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-23T22:37:52.342Z"
   },
   {
    "id": "serie-a-2026-27-regular-r13-it-venezia-it-bologna",
