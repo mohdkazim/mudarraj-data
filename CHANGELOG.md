@@ -4696,3 +4696,14 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-23 (2026-11-22T21:35:00Z)
 - 1 change(s) applied, 0 rejected, 5 waiting for a second source
   - ✓ result epl-2026-27-regular-r11-gb-eng-liverpool-gb-eng-manchester-united added scorers to the confirmed result
+
+## 2026-11-23 (2026-11-23T01:36:54Z)
+- 8 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result serie-a-2026-27-regular-r12-it-napoli-it-torino 1-0 FT
+  - ✓ result serie-a-2026-27-regular-r12-it-atalanta-it-inter-milan 4-4 FT
+  - ✓ result serie-a-2026-27-regular-r12-it-bologna-it-udinese 1-1 FT
+  - ✓ result laliga-2026-27-regular-r13-es-racing-santander-es-real-sociedad 3-2 FT
+  - ✓ result laliga-2026-27-regular-r13-es-osasuna-es-malaga 1-0 FT
+  - ✓ result epl-2026-27-regular-r11-gb-eng-chelsea-gb-eng-leeds-united added scorers to the confirmed result
+  - ✓ result bundesliga-2026-27-regular-r10-de-borussia-monchengladbach-de-borussia-dortmund added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r13-es-athletic-club-es-espanyol added half-time and scorers to the confirmed result

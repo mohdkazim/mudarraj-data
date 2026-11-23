@@ -4555,14 +4555,27 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday"
+    "https://www.bundesliga.com/en/bundesliga/matchday",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10/borussia-moenchengladbach-vs-borussia-dortmund/liveticker"
    ],
-   "updatedAt": "2026-11-21T17:44:34.045Z"
+   "updatedAt": "2026-11-21T17:44:34.045Z",
+   "goals": [
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Felix Nmecha",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "bundesliga-2026-27-regular-r10-de-eintracht-frankfurt-de-tsg-hoffenheim",

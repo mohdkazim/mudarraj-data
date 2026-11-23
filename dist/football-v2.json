@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-22T21:37:58.608Z",
+ "generatedAt": "2026-11-23T01:47:11.905Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 945,
-  "pending": 5
+  "results": 950,
+  "pending": 2
  },
  "teams": [
   {
@@ -67259,7 +67259,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -67273,9 +67277,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results"
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.365scores.com/en-us/football/match/laliga-11/athletic-bilbao-espanyol-136-144-11"
    ],
    "updatedAt": "2026-11-22T01:44:27.142Z",
+   "goals": [
+    {
+     "minute": 66,
+     "side": "away",
+     "player": "Roberto Fernández",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -67697,7 +67710,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -67711,9 +67728,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday"
+    "https://www.bundesliga.com/en/bundesliga/matchday",
+    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10/borussia-moenchengladbach-vs-borussia-dortmund/liveticker"
    ],
    "updatedAt": "2026-11-21T17:44:34.045Z",
+   "goals": [
+    {
+     "minute": 80,
+     "side": "away",
+     "player": "Felix Nmecha",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -68026,9 +68052,43 @@
    "sources": [
     "https://www.skysports.com/football-scores-fixtures/2026-11-21",
     "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
-    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/",
+    "https://www.skysports.com/football/chelsea-vs-leeds-united/live/559547"
    ],
    "updatedAt": "2026-11-21T18:38:01.515Z",
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "E Emegha",
+     "type": "goal"
+    },
+    {
+     "minute": 28,
+     "side": "away",
+     "player": "N Okafor",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "D Calvert-Lewin",
+     "type": "penalty"
+    },
+    {
+     "minute": 58,
+     "side": "away",
+     "player": "N Okafor",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "away",
+     "player": "B Aaronson",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -68517,8 +68577,15 @@
    "away": "it-torino",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadio Diego Armando Maradona",
@@ -68531,9 +68598,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/quando-si-gioca-anticipi-e-posticipi-fino-alla-12a-giornata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261121&limit=37"
+    "https://www.365scores.com/football/match/serie-a-17/napoli-torino-234-235-17",
+    "https://www.365scores.com/it/news/serie-a/napoli-torino-1-0-mctominay-decide-allegri-torna-a-vincere/"
    ],
+   "goals": [
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Scott McTominay",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-23T01:47:11.767Z",
    "venueFrom": "home-ground"
   },
   {
@@ -68758,8 +68834,11 @@
    "away": "it-udinese",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Stadio Renato Dall'Ara",
@@ -68772,9 +68851,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.legaseriea.it/serie-a/news/anticipi-e-posticipi-fino-alla-fine-del-girone-di-andata",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261122&limit=37"
+    "https://www.skysports.com/football-scores-fixtures/2026-11-22",
+    "https://365scores.com/football/italy/serie-a/match/atalanta-inter-milan/224-232-17"
    ],
+   "updatedAt": "2026-11-23T01:47:11.767Z",
    "venueFrom": "home-ground"
   },
   {
@@ -68894,8 +68974,11 @@
    "away": "es-real-sociedad",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "El Sardinero",
@@ -68908,8 +68991,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13"
+    "https://www.skysports.com/football-scores-fixtures/2026-11-22",
+    "https://www.365scores.com/es/football/match/laliga-11/malaga-osasuna-143-152-11"
    ],
+   "updatedAt": "2026-11-23T01:47:11.767Z",
    "venueFrom": "home-ground"
   },
   {
@@ -69144,8 +69229,11 @@
    "away": "es-malaga",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "El Sadar",
@@ -69158,8 +69246,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13"
+    "https://www.skysports.com/football-scores-fixtures",
+    "https://www.365scores.com/en-us/football/match/laliga-11/athletic-bilbao-espanyol-136-144-11"
    ],
+   "updatedAt": "2026-11-23T01:47:11.767Z",
    "venueFrom": "home-ground"
   },
   {
@@ -69178,8 +69268,15 @@
    "away": "it-inter-milan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 4,
+    "ht": [
+     1,
+     2
+    ]
+   },
    "venue": {
     "name": {
      "en": "Gewiss Stadium",
@@ -69192,8 +69289,61 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261122&limit=37"
+    "https://365scores.com/football/italy/serie-a/match/atalanta-inter-milan/224-232-17",
+    "https://365scores.com/it/news/serie-a/le-pagelle-di-atalanta-inter-esposito-9-5-de-ketelaere-8-9"
    ],
+   "goals": [
+    {
+     "minute": 16,
+     "side": "away",
+     "player": "Pio Esposito",
+     "type": "goal"
+    },
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "Pio Esposito",
+     "type": "goal"
+    },
+    {
+     "minute": 35,
+     "side": "home",
+     "player": "Eljif Elmas",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "away",
+     "player": "Pio Esposito",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Charles de Ketelaere",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "away",
+     "player": "Petar Sucic",
+     "type": "penalty"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Charles de Ketelaere",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "home",
+     "player": "Franck Kessié",
+     "type": "penalty"
+    }
+   ],
+   "updatedAt": "2026-11-23T01:47:11.767Z",
    "venueFrom": "home-ground"
   },
   {

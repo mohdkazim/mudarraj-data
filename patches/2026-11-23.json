@@ -1,0 +1,42 @@
+{
+ "run": "2026-11-23T01:36:54Z",
+ "changes": [
+  {"op":"result","match":"serie-a-2026-27-regular-r12-it-napoli-it-torino","status":"FT","score":[1,0],"ht":[0,0],
+   "goals":[{"minute":73,"side":"home","player":"Scott McTominay","type":"goal"}],
+   "sources":["https://www.365scores.com/football/match/serie-a-17/napoli-torino-234-235-17","https://www.365scores.com/it/news/serie-a/napoli-torino-1-0-mctominay-decide-allegri-torna-a-vincere/"]},
+  {"op":"result","match":"serie-a-2026-27-regular-r12-it-atalanta-it-inter-milan","status":"FT","score":[4,4],"ht":[1,2],
+   "goals":[
+    {"minute":16,"side":"away","player":"Pio Esposito","type":"goal"},
+    {"minute":32,"side":"away","player":"Pio Esposito","type":"goal"},
+    {"minute":35,"side":"home","player":"Eljif Elmas","type":"goal"},
+    {"minute":52,"side":"away","player":"Pio Esposito","type":"goal"},
+    {"minute":72,"side":"home","player":"Charles de Ketelaere","type":"goal"},
+    {"minute":76,"side":"away","player":"Petar Sucic","type":"penalty"},
+    {"minute":80,"side":"home","player":"Charles de Ketelaere","type":"goal"},
+    {"minute":90,"extra":1,"side":"home","player":"Franck Kessié","type":"penalty"}],
+   "sources":["https://365scores.com/football/italy/serie-a/match/atalanta-inter-milan/224-232-17","https://365scores.com/it/news/serie-a/le-pagelle-di-atalanta-inter-esposito-9-5-de-ketelaere-8-9"]},
+  {"op":"result","match":"serie-a-2026-27-regular-r12-it-bologna-it-udinese","status":"FT","score":[1,1],
+   "sources":["https://www.skysports.com/football-scores-fixtures/2026-11-22","https://365scores.com/football/italy/serie-a/match/atalanta-inter-milan/224-232-17"]},
+  {"op":"result","match":"laliga-2026-27-regular-r13-es-racing-santander-es-real-sociedad","status":"FT","score":[3,2],
+   "sources":["https://www.skysports.com/football-scores-fixtures/2026-11-22","https://www.365scores.com/es/football/match/laliga-11/malaga-osasuna-143-152-11"]},
+  {"op":"result","match":"laliga-2026-27-regular-r13-es-osasuna-es-malaga","status":"FT","score":[1,0],
+   "sources":["https://www.skysports.com/football-scores-fixtures","https://www.365scores.com/en-us/football/match/laliga-11/athletic-bilbao-espanyol-136-144-11"]},
+  {"op":"result","match":"epl-2026-27-regular-r11-gb-eng-chelsea-gb-eng-leeds-united","status":"FT","score":[1,4],
+   "goals":[
+    {"minute":25,"side":"home","player":"E Emegha","type":"goal"},
+    {"minute":28,"side":"away","player":"N Okafor","type":"goal"},
+    {"minute":53,"side":"away","player":"D Calvert-Lewin","type":"penalty"},
+    {"minute":58,"side":"away","player":"N Okafor","type":"goal"},
+    {"minute":90,"extra":1,"side":"away","player":"B Aaronson","type":"goal"}],
+   "sources":["https://www.skysports.com/football/chelsea-vs-leeds-united/live/559547"]},
+  {"op":"result","match":"bundesliga-2026-27-regular-r10-de-borussia-monchengladbach-de-borussia-dortmund","status":"FT","score":[0,1],"ht":[0,0],
+   "goals":[{"minute":80,"side":"away","player":"Felix Nmecha","type":"goal"}],
+   "sources":["https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/10/borussia-moenchengladbach-vs-borussia-dortmund/liveticker"]},
+  {"op":"result","match":"laliga-2026-27-regular-r13-es-athletic-club-es-espanyol","status":"FT","score":[0,1],"ht":[0,0],
+   "goals":[{"minute":66,"side":"away","player":"Roberto Fernández","type":"goal"}],
+   "sources":["https://www.365scores.com/en-us/football/match/laliga-11/athletic-bilbao-espanyol-136-144-11"]}
+ ],
+ "unconfirmed":[
+  {"match":"laliga-2026-27-regular-r13-es-getafe-es-atletico-madrid","claim":"0-3","sources":["https://www.365scores.com/en-us/football/match/laliga-11/athletic-bilbao-espanyol-136-144-11"]}
+ ]
+}

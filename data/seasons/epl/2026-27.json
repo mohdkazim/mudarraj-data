@@ -4842,9 +4842,43 @@
    "sources": [
     "https://www.skysports.com/football-scores-fixtures/2026-11-21",
     "https://www.thenationalnews.com/sport/football/2026/11/21/premier-league-pressure-builds-on-xabi-alonso-after-chelsea-are-thrashed-at-home-by-leeds-united/",
-    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/"
+    "https://www.365scores.com/pt-br/news/magazine/resultados-premier-league-estevao-chelsea-leeds/",
+    "https://www.skysports.com/football/chelsea-vs-leeds-united/live/559547"
    ],
-   "updatedAt": "2026-11-21T18:38:01.515Z"
+   "updatedAt": "2026-11-21T18:38:01.515Z",
+   "goals": [
+    {
+     "minute": 25,
+     "side": "home",
+     "player": "E Emegha",
+     "type": "goal"
+    },
+    {
+     "minute": 28,
+     "side": "away",
+     "player": "N Okafor",
+     "type": "goal"
+    },
+    {
+     "minute": 53,
+     "side": "away",
+     "player": "D Calvert-Lewin",
+     "type": "penalty"
+    },
+    {
+     "minute": 58,
+     "side": "away",
+     "player": "N Okafor",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 1,
+     "side": "away",
+     "player": "B Aaronson",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-coventry-city-gb-eng-crystal-palace",
