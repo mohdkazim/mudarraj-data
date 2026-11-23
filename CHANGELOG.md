@@ -4711,3 +4711,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-23 (2026-11-23T16:35:00Z)
 - 1 change(s) applied, 0 rejected, 2 waiting for a second source
   - ✓ result acle-2026-27-league-west-gwest-r05-uz-neftchi-fergana-sa-al-hilal 2-2 FT
+
+## 2026-11-23 (2026-11-23T18:35:45Z)
+- 2 change(s) applied, 0 rejected, 3 waiting for a second source
+  - ✓ result acle-2026-27-league-west-gwest-r05-ae-al-ain-ir-esteghlal 1-1 FT
+  - ✓ result acle-2026-27-league-west-gwest-r05-ir-tractor-ae-al-wasl 1-5 FT

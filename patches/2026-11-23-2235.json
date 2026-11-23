@@ -1,0 +1,12 @@
+{
+  "run": "2026-11-23T18:35:45Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r05-ae-al-ain-ir-esteghlal", "status": "FT", "score": [1,1], "ht": [0,0],
+      "sources": ["https://www.emaratalyoum.com/sports/local/2026-11-23-1.2105673", "https://www.albayan.ae/sports/uae-stadiums/1567194"] },
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r05-ir-tractor-ae-al-wasl", "status": "FT", "score": [1,5], "ht": [0,1],
+      "sources": ["https://www.emaratalyoum.com/sports/local/2026-11-23-1.2105676", "https://www.albayan.ae/sports/uae-stadiums/1567195"] }
+  ],
+  "unconfirmed": [
+    { "match": "acle-2026-27-league-west-gwest-r05-qa-al-shamal-sa-al-ahli-saudi", "claim": "3-2", "sources": ["https://sabq.org/article/eikt4ud"] }
+  ]
+}

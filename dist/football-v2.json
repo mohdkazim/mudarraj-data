@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-23T16:37:17.126Z",
+ "generatedAt": "2026-11-23T18:38:14.515Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 951,
-  "pending": 2
+  "results": 953,
+  "pending": 3
  },
  "teams": [
   {
@@ -69434,8 +69434,15 @@
    "away": "ir-esteghlal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Hazza bin Zayed Stadium",
@@ -69448,9 +69455,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+    "https://www.emaratalyoum.com/sports/local/2026-11-23-1.2105673",
+    "https://www.albayan.ae/sports/uae-stadiums/1567194"
    ],
+   "updatedAt": "2026-11-23T18:38:14.346Z",
    "venueFrom": "home-ground"
   },
   {
@@ -69469,8 +69477,15 @@
    "away": "ae-al-wasl",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 5,
+    "ht": [
+     0,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Sultan Qaboos Sports Complex",
@@ -69483,13 +69498,14 @@
    },
    "neutral": true,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+    "https://www.emaratalyoum.com/sports/local/2026-11-23-1.2105676",
+    "https://www.albayan.ae/sports/uae-stadiums/1567195"
    ],
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
     "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf"
-   ]
+   ],
+   "updatedAt": "2026-11-23T18:38:14.346Z"
   },
   {
    "competition": "acle",
