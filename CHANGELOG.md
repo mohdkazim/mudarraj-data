@@ -4721,3 +4721,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 3 waiting for a second source
   - ✓ result acle-2026-27-league-west-gwest-r05-iq-al-quwa-al-jawiya-qa-al-gharafa 2-1 FT
   - ✓ result acle-2026-27-league-west-gwest-r05-sa-al-ittihad-uz-pakhtakor 2-0 FT
+
+## 2026-11-24 (2026-11-23T21:36:04Z)
+- 2 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result acle-2026-27-league-west-gwest-r05-qa-al-shamal-sa-al-ahli-saudi 3-2 FT
+  - ✓ result acle-2026-27-league-west-gwest-r05-sa-al-ittihad-uz-pakhtakor added scorers to the confirmed result

@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-23T20:37:56.155Z",
+ "generatedAt": "2026-11-23T21:37:55.697Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 955,
-  "pending": 3
+  "results": 956,
+  "pending": 2
  },
  "teams": [
   {
@@ -69523,8 +69523,11 @@
    "away": "sa-al-ahli-saudi",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Al Bayt Stadium",
@@ -69537,9 +69540,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+    "https://sabq.org/article/eikt4ud",
+    "https://www.365scores.com/football/match/afc-champions-league-elite-623/ittihad-jeddah-pakhtakor-8593-10345-623"
    ],
+   "updatedAt": "2026-11-23T21:37:55.547Z",
    "venueFrom": "home-ground"
   },
   {
@@ -69624,6 +69628,20 @@
     "https://www.365scores.com/football/match/afc-champions-league-elite-623/ittihad-jeddah-pakhtakor-8593-10345-623"
    ],
    "updatedAt": "2026-11-23T20:37:55.990Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Muhannad Shanqeeti",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "home",
+     "player": "George Ilenikhena",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {

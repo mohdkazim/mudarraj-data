@@ -2819,14 +2819,18 @@
    "away": "sa-al-ahli-saudi",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261123",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
-   ]
+    "https://sabq.org/article/eikt4ud",
+    "https://www.365scores.com/football/match/afc-champions-league-elite-623/ittihad-jeddah-pakhtakor-8593-10345-623"
+   ],
+   "updatedAt": "2026-11-23T21:37:55.547Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r05-iq-al-quwa-al-jawiya-qa-al-gharafa",
@@ -2886,7 +2890,21 @@
    "sources": [
     "https://www.365scores.com/football/match/afc-champions-league-elite-623/ittihad-jeddah-pakhtakor-8593-10345-623"
    ],
-   "updatedAt": "2026-11-23T20:37:55.990Z"
+   "updatedAt": "2026-11-23T20:37:55.990Z",
+   "goals": [
+    {
+     "minute": 7,
+     "side": "home",
+     "player": "Muhannad Shanqeeti",
+     "type": "goal"
+    },
+    {
+     "minute": 47,
+     "side": "home",
+     "player": "George Ilenikhena",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-east-geast-r05-au-newcastle-jets-jp-kashiwa-reysol",

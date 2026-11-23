@@ -1,0 +1,14 @@
+{
+  "run": "2026-11-23T21:36:04Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r05-qa-al-shamal-sa-al-ahli-saudi", "status": "FT", "score": [3,2],
+      "sources": ["https://sabq.org/article/eikt4ud", "https://www.365scores.com/football/match/afc-champions-league-elite-623/ittihad-jeddah-pakhtakor-8593-10345-623"] },
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r05-sa-al-ittihad-uz-pakhtakor", "status": "FT", "score": [2,0], "ht": [1,0],
+      "goals": [
+        { "minute": 7, "side": "home", "player": "Muhannad Shanqeeti", "type": "goal" },
+        { "minute": 47, "side": "home", "player": "George Ilenikhena", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/football/match/afc-champions-league-elite-623/ittihad-jeddah-pakhtakor-8593-10345-623"] }
+  ],
+  "unconfirmed": []
+}
