@@ -4745,3 +4745,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acle-2026-27-league-east-geast-r05-jp-kyoto-sanga-kr-pohang-steelers 1-0 FT
   - ✓ result acle-2026-27-league-east-geast-r05-kr-daejeon-hana-citizen-cn-beijing-guoan 3-2 FT
+
+## 2026-11-24 (2026-11-24T14:36:00Z)
+- 2 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acle-2026-27-league-east-geast-r05-cn-shanghai-port-th-buriram-united 3-1 FT
+  - ✓ result acle-2026-27-league-east-geast-r05-vn-cong-an-ha-noi-jp-vissel-kobe 3-1 FT

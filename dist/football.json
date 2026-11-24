@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-24T13:43:00.021Z",
+ "generatedAt": "2026-11-24T14:43:06.431Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 556,
+  "results": 558,
   "pending": 1
  },
  "teams": [
@@ -44388,8 +44388,15 @@
    "away": "th-buriram-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Pudong Football Stadium",
@@ -44402,9 +44409,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/buriram-united-shanghai-port-7747-10300-623#id=4818589"
    ],
+   "updatedAt": "2026-11-24T14:43:06.284Z",
    "venueFrom": "home-ground"
   },
   {
@@ -44458,8 +44465,15 @@
    "away": "jp-vissel-kobe",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Hang Day Stadium",
@@ -44472,9 +44486,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/cong-an-ha-noi-vissel-kobe-2151-72909-623#id=4853978"
    ],
+   "updatedAt": "2026-11-24T14:43:06.284Z",
    "venueFrom": "home-ground"
   },
   {

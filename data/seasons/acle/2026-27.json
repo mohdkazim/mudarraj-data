@@ -3022,14 +3022,21 @@
    "away": "th-buriram-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/buriram-united-shanghai-port-7747-10300-623#id=4818589"
+   ],
+   "updatedAt": "2026-11-24T14:43:06.284Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r05-th-ratchaburi-my-johor-darul-ta-zim",
@@ -3068,14 +3075,21 @@
    "away": "jp-vissel-kobe",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/cong-an-ha-noi-vissel-kobe-2151-72909-623#id=4853978"
+   ],
+   "updatedAt": "2026-11-24T14:43:06.284Z"
   },
   {
    "id": "acle-2026-27-league-west-gwest-r05-ae-shabab-al-ahli-sa-al-qadsiah",
