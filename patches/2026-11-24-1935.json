@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-24T15:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r05-th-ratchaburi-my-johor-darul-ta-zim", "status": "FT", "score": [1,1],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-ratchaburi-fc-tha-1-1-johor-darul-ta%E2%80%99zim-mas"] }
+  ],
+  "unconfirmed": []
+}

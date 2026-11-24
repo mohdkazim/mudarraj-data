@@ -3052,14 +3052,17 @@
    "away": "my-johor-darul-ta-zim",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-ratchaburi-fc-tha-1-1-johor-darul-ta%E2%80%99zim-mas"
+   ],
+   "updatedAt": "2026-11-24T15:38:18.375Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r05-vn-cong-an-ha-noi-jp-vissel-kobe",
