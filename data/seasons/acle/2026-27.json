@@ -2920,8 +2920,15 @@
    "away": "jp-kashiwa-reysol",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Central Coast Stadium",
@@ -2933,13 +2940,13 @@
     }
    },
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/kashiwa-reysol-newcastle-jets-fc-2145-2203-623#id=4818592"
    ],
    "venueSources": [
     "https://assets.the-afc.com/2026-27_ACL_Elite/Downloads/Match_Schedule/AFC-Champions-League-Elite-202627---League-Stage-Match-Schedule---Sep6upd.pdf",
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124"
-   ]
+   ],
+   "updatedAt": "2026-11-24T12:44:29.244Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r05-jp-kyoto-sanga-kr-pohang-steelers",

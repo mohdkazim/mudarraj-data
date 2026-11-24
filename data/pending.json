@@ -6,5 +6,21 @@
    "https://www.skysports.com/football-scores-fixtures"
   ],
   "seen": "2026-11-23T22:36:00Z"
+ },
+ {
+  "match": "acle-2026-27-league-east-geast-r05-jp-kyoto-sanga-kr-pohang-steelers",
+  "claim": "1-0",
+  "sources": [
+   "https://www.365scores.com/football/match/afc-champions-league-elite-623/kashiwa-reysol-newcastle-jets-fc-2145-2203-623#id=4818592"
+  ],
+  "seen": "2026-11-24T12:44:29Z"
+ },
+ {
+  "match": "acle-2026-27-league-east-geast-r05-kr-daejeon-hana-citizen-cn-beijing-guoan",
+  "claim": "3-2",
+  "sources": [
+   "https://www.365scores.com/football/match/afc-champions-league-elite-623/kashiwa-reysol-newcastle-jets-fc-2145-2203-623#id=4818592"
+  ],
+  "seen": "2026-11-24T12:44:29Z"
  }
 ]

@@ -4736,3 +4736,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result laliga-2026-27-regular-r13-es-getafe-es-atletico-madrid 0-3 FT
   - ✓ result epl-2026-27-regular-r11-gb-eng-hull-city-gb-eng-brighton 2-0 FT
   - ✓ result epl-2026-27-regular-r11-gb-eng-brentford-gb-eng-everton 4-0 FT
+
+## 2026-11-24 (2026-11-24T12:44:29Z)
+- 1 change(s) applied, 0 rejected, 3 waiting for a second source
+  - ✓ result acle-2026-27-league-east-geast-r05-au-newcastle-jets-jp-kashiwa-reysol 1-2 FT
