@@ -5053,14 +5053,34 @@
    "away": "gb-eng-brighton",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
-   ]
+    "https://www.skysports.com/premier-league-scores-fixtures",
+    "https://gulfnews.com/sport/by-the-numbers-the-best-stats-from-match-week-11-in-the-epl-1.500757892"
+   ],
+   "goals": [
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "home",
+     "player": "Oli McBurnie",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 5,
+     "side": "home",
+     "player": "Oli McBurnie",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-24T01:44:40.776Z"
   },
   {
    "id": "epl-2026-27-regular-r11-gb-eng-liverpool-gb-eng-manchester-united",
@@ -5130,14 +5150,18 @@
    "away": "gb-eng-everton",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=11&s=2026-2027"
-   ]
+    "https://www.skysports.com/football/brentford-vs-everton/report/559546",
+    "https://gulfnews.com/sport/football/brentford-hit-everton-for-four-to-soar-into-premier-league-top-6-1.500758597"
+   ],
+   "updatedAt": "2026-11-24T01:44:40.776Z"
   },
   {
    "id": "epl-2026-27-regular-r12-gb-eng-nottingham-forest-gb-eng-chelsea",

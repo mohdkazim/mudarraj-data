@@ -6250,13 +6250,17 @@
    "away": "es-atletico-madrid",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13"
-   ]
+    "https://www.laliga.com/en-GB/laliga-easports/results"
+   ],
+   "updatedAt": "2026-11-24T01:44:40.776Z"
   },
   {
    "id": "laliga-2026-27-regular-r13-es-levante-es-elche",

@@ -4730,3 +4730,9 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-24 (2026-11-23T22:36:00Z)
 - 1 change(s) applied, 0 rejected, 4 waiting for a second source
   - ✓ result serie-a-2026-27-regular-r12-it-monza-it-fiorentina 3-0 FT
+
+## 2026-11-24 (2026-11-24T01:50:00Z)
+- 3 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r13-es-getafe-es-atletico-madrid 0-3 FT
+  - ✓ result epl-2026-27-regular-r11-gb-eng-hull-city-gb-eng-brighton 2-0 FT
+  - ✓ result epl-2026-27-regular-r11-gb-eng-brentford-gb-eng-everton 4-0 FT

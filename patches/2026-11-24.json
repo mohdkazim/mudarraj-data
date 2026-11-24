@@ -1,0 +1,18 @@
+{
+  "run": "2026-11-24T01:50:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-getafe-es-atletico-madrid", "status": "FT", "score": [0,3],
+      "sources": ["https://www.laliga.com/en-GB/laliga-easports/results"] },
+    { "op": "result", "match": "epl-2026-27-regular-r11-gb-eng-hull-city-gb-eng-brighton", "status": "FT", "score": [2,0],
+      "goals": [
+        { "minute": 90, "extra": 2, "side": "home", "player": "Oli McBurnie", "type": "goal" },
+        { "minute": 90, "extra": 5, "side": "home", "player": "Oli McBurnie", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/premier-league-scores-fixtures", "https://gulfnews.com/sport/by-the-numbers-the-best-stats-from-match-week-11-in-the-epl-1.500757892"] },
+    { "op": "result", "match": "epl-2026-27-regular-r11-gb-eng-brentford-gb-eng-everton", "status": "FT", "score": [4,0],
+      "sources": ["https://www.skysports.com/football/brentford-vs-everton/report/559546", "https://gulfnews.com/sport/football/brentford-hit-everton-for-four-to-soar-into-premier-league-top-6-1.500758597"] }
+  ],
+  "unconfirmed": [
+    { "match": "laliga-2026-27-regular-r13-es-levante-es-elche", "claim": "1-1", "sources": ["https://www.skysports.com/football-scores-fixtures"] }
+  ]
+}
