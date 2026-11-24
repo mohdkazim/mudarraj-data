@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-24T16:37:34.143Z",
+ "generatedAt": "2026-11-24T17:37:03.284Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 560,
+  "results": 561,
   "pending": 1
  },
  "teams": [
@@ -44557,13 +44557,21 @@
    "away": "iq-al-zawraa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
-   ]
+    "https://www.365scores.com/football/match/gulf-club-champions-league-8400/al-zawraa-baghdad-riffa-club-8248-16935-8400"
+   ],
+   "updatedAt": "2026-11-24T17:37:03.126Z"
   },
   {
    "competition": "acl2",

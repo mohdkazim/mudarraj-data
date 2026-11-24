@@ -732,13 +732,21 @@
    "away": "iq-al-zawraa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 4,
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
-   ]
+    "https://www.365scores.com/football/match/gulf-club-champions-league-8400/al-zawraa-baghdad-riffa-club-8248-16935-8400"
+   ],
+   "updatedAt": "2026-11-24T17:37:03.126Z"
   },
   {
    "id": "gulf-club-cl-2026-27-groups-gc-r04-ae-ajman-sa-al-ettifaq",
