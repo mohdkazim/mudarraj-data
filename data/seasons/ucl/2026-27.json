@@ -3961,14 +3961,17 @@
    "away": "at-lask",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+   ],
+   "updatedAt": "2026-11-24T22:38:36.711Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-tr-galatasaray-gb-eng-aston-villa",
@@ -4020,14 +4023,17 @@
    "away": "fr-lens",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+   ],
+   "updatedAt": "2026-11-24T22:38:36.711Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-es-real-madrid-nl-psv-eindhoven",
@@ -4043,14 +4049,17 @@
    "away": "nl-psv-eindhoven",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+   ],
+   "updatedAt": "2026-11-24T22:38:36.711Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-gb-eng-arsenal-de-borussia-dortmund",
@@ -4066,14 +4075,17 @@
    "away": "de-borussia-dortmund",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+   ],
+   "updatedAt": "2026-11-24T22:38:36.711Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-gb-eng-manchester-city-it-napoli",
@@ -4089,14 +4101,17 @@
    "away": "it-napoli",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+   ],
+   "updatedAt": "2026-11-24T22:38:36.711Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-it-como-gr-aek-athens",
@@ -4112,14 +4127,30 @@
    "away": "gr-aek-athens",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/it/news/champions-league/como-aek-atene-1-0-milla-decide-fabregas-e-terzo-in-champions/",
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+   ],
+   "goals": [
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Luis Milla",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-24T22:38:36.711Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-nl-feyenoord-pt-porto",
@@ -4135,14 +4166,17 @@
    "away": "pt-porto",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+   ],
+   "updatedAt": "2026-11-24T22:38:36.711Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-sk-slovan-bratislava-es-real-betis",
@@ -4158,14 +4192,17 @@
    "away": "es-real-betis",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+   ],
+   "updatedAt": "2026-11-24T22:38:36.711Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-az-sabah-es-barcelona",

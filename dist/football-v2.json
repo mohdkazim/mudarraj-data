@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-24T21:38:27.426Z",
+ "generatedAt": "2026-11-24T22:38:46.688Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 973,
-  "pending": 3
+  "results": 981,
+  "pending": 2
  },
  "teams": [
   {
@@ -70273,8 +70273,11 @@
    "away": "at-lask",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Aspmyra Stadion",
@@ -70287,9 +70290,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
    ],
+   "updatedAt": "2026-11-24T22:38:36.711Z",
    "venueFrom": "home-ground"
   },
   {
@@ -70449,8 +70452,11 @@
    "away": "fr-lens",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Red Bull Arena",
@@ -70463,9 +70469,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
    ],
+   "updatedAt": "2026-11-24T22:38:36.711Z",
    "venueFrom": "home-ground"
   },
   {
@@ -70484,8 +70490,11 @@
    "away": "nl-psv-eindhoven",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 5,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Santiago Bernabéu",
@@ -70498,9 +70507,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
    ],
+   "updatedAt": "2026-11-24T22:38:36.711Z",
    "venueFrom": "home-ground"
   },
   {
@@ -70519,8 +70528,11 @@
    "away": "de-borussia-dortmund",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Emirates Stadium",
@@ -70533,9 +70545,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
    ],
+   "updatedAt": "2026-11-24T22:38:36.711Z",
    "venueFrom": "home-ground"
   },
   {
@@ -70554,8 +70566,11 @@
    "away": "it-napoli",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Etihad Stadium",
@@ -70568,9 +70583,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
    ],
+   "updatedAt": "2026-11-24T22:38:36.711Z",
    "venueFrom": "home-ground"
   },
   {
@@ -70589,8 +70604,15 @@
    "away": "gr-aek-athens",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadio Giuseppe Sinigaglia",
@@ -70603,9 +70625,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+    "https://www.365scores.com/it/news/champions-league/como-aek-atene-1-0-milla-decide-fabregas-e-terzo-in-champions/",
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
    ],
+   "goals": [
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Luis Milla",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-24T22:38:36.711Z",
    "venueFrom": "home-ground"
   },
   {
@@ -70624,8 +70655,11 @@
    "away": "pt-porto",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "De Kuip",
@@ -70638,9 +70672,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
    ],
+   "updatedAt": "2026-11-24T22:38:36.711Z",
    "venueFrom": "home-ground"
   },
   {
@@ -70659,8 +70693,11 @@
    "away": "es-real-betis",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Tehelné pole",
@@ -70673,9 +70710,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
    ],
+   "updatedAt": "2026-11-24T22:38:36.711Z",
    "venueFrom": "home-ground"
   },
   {
