@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-24T20:43:46.330Z",
+ "generatedAt": "2026-11-24T21:38:27.426Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 972,
-  "pending": 2
+  "results": 973,
+  "pending": 3
  },
  "teams": [
   {
@@ -70326,9 +70326,18 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football/news/13615959/galatasaray-1-0-aston-villa-deniz-guls-late-winner-in-champions-league-league-phase-extends-villas-winless-run",
-    "https://www.arabnews.com/football/bloodied-but-unbowed-galatasarays-gul-stuns-villa-3013919"
+    "https://www.arabnews.com/football/bloodied-but-unbowed-galatasarays-gul-stuns-villa-3013919",
+    "https://www.skysports.com/football/galatasaray-vs-aston-villa/live/577673"
    ],
    "updatedAt": "2026-11-24T20:43:46.116Z",
+   "goals": [
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "D Gül",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -70381,8 +70390,11 @@
    "away": "qa-al-sadd",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Al-Awwal Park",
@@ -70395,9 +70407,30 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-al-nassr-club-ksa-2-1-al-sadd-sc-qat",
+    "https://gulfnews.com/sport/football/cristiano-ronaldo-scores-987th-career-goal-but-joao-felix-steals-the-show-with-stunning-bicycle-kick-1.500759855"
    ],
+   "goals": [
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "Cristiano Ronaldo",
+     "type": "penalty"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Mohammed Waad",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "Joao Felix",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-24T21:38:27.220Z",
    "venueFrom": "home-ground"
   },
   {

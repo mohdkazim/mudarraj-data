@@ -4775,3 +4775,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 2 waiting for a second source
   - ✓ result acl2-2026-27-groups-gd-r05-om-al-seeb-iq-al-shorta 2-0 FT
   - ✓ result ucl-2026-27-league-phase-r05-tr-galatasaray-gb-eng-aston-villa 1-0 FT
+
+## 2026-11-25 (2026-11-24T21:35:00Z)
+- 2 change(s) applied, 0 rejected, 3 waiting for a second source
+  - ✓ result acle-2026-27-league-west-gwest-r05-sa-al-nassr-qa-al-sadd 2-1 FT
+  - ✓ result ucl-2026-27-league-phase-r05-tr-galatasaray-gb-eng-aston-villa added scorers to the confirmed result

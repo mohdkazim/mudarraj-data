@@ -3139,14 +3139,38 @@
    "away": "qa-al-sadd",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-al-nassr-club-ksa-2-1-al-sadd-sc-qat",
+    "https://gulfnews.com/sport/football/cristiano-ronaldo-scores-987th-career-goal-but-joao-felix-steals-the-show-with-stunning-bicycle-kick-1.500759855"
+   ],
+   "goals": [
+    {
+     "minute": 13,
+     "side": "home",
+     "player": "Cristiano Ronaldo",
+     "type": "penalty"
+    },
+    {
+     "minute": 22,
+     "side": "away",
+     "player": "Mohammed Waad",
+     "type": "goal"
+    },
+    {
+     "minute": 52,
+     "side": "home",
+     "player": "Joao Felix",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-24T21:38:27.220Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r05-jp-gamba-osaka-th-port-fc",

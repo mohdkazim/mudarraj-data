@@ -1,0 +1,22 @@
+{
+  "run": "2026-11-24T21:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r05-sa-al-nassr-qa-al-sadd", "status": "FT", "score": [2,1],
+      "goals": [
+        { "minute": 13, "side": "home", "player": "Cristiano Ronaldo", "type": "penalty" },
+        { "minute": 22, "side": "away", "player": "Mohammed Waad", "type": "goal" },
+        { "minute": 52, "side": "home", "player": "Joao Felix", "type": "goal" }
+      ],
+      "sources": [
+        "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-al-nassr-club-ksa-2-1-al-sadd-sc-qat",
+        "https://gulfnews.com/sport/football/cristiano-ronaldo-scores-987th-career-goal-but-joao-felix-steals-the-show-with-stunning-bicycle-kick-1.500759855"
+      ] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-tr-galatasaray-gb-eng-aston-villa", "status": "FT", "score": [1,0],
+      "goals": [ { "minute": 77, "side": "home", "player": "D Gül", "type": "goal" } ],
+      "sources": [ "https://www.skysports.com/football/galatasaray-vs-aston-villa/live/577673" ] }
+  ],
+  "unconfirmed": [
+    { "match": "gulf-club-cl-2026-27-groups-ga-r04-qa-al-duhail-sa-neom", "claim": "3-2",
+      "sources": [ "https://www.365scores.com/en-us/football/match/gulf-club-champions-league-8400/ajman-club-al-ettifaq-8652-8943-8400" ] }
+  ]
+}

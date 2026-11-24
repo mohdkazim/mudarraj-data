@@ -3993,9 +3993,18 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football/news/13615959/galatasaray-1-0-aston-villa-deniz-guls-late-winner-in-champions-league-league-phase-extends-villas-winless-run",
-    "https://www.arabnews.com/football/bloodied-but-unbowed-galatasarays-gul-stuns-villa-3013919"
+    "https://www.arabnews.com/football/bloodied-but-unbowed-galatasarays-gul-stuns-villa-3013919",
+    "https://www.skysports.com/football/galatasaray-vs-aston-villa/live/577673"
    ],
-   "updatedAt": "2026-11-24T20:43:46.116Z"
+   "updatedAt": "2026-11-24T20:43:46.116Z",
+   "goals": [
+    {
+     "minute": 77,
+     "side": "home",
+     "player": "D Gül",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-de-rb-leipzig-fr-lens",
