@@ -2810,14 +2810,21 @@
    "away": "iq-al-shorta",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-seeb-club-oma-2-0-al-shorta-irq"
+   ],
+   "updatedAt": "2026-11-24T20:43:46.116Z"
   },
   {
    "id": "acl2-2026-27-groups-ge-r05-au-melbourne-victory-vn-the-cong-viettel",

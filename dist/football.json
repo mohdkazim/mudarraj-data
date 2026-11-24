@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-24T19:42:32.922Z",
+ "generatedAt": "2026-11-24T20:43:46.330Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 563,
-  "pending": 1
+  "results": 565,
+  "pending": 2
  },
  "teams": [
   {
@@ -44589,8 +44589,15 @@
    "away": "iq-al-shorta",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Al Seeb Stadium",
@@ -44603,9 +44610,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-seeb-club-oma-2-0-al-shorta-irq"
    ],
+   "updatedAt": "2026-11-24T20:43:46.116Z",
    "venueFrom": "home-ground"
   },
   {
@@ -44744,8 +44751,11 @@
    "away": "gb-eng-aston-villa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "RAMS Park",
@@ -44758,9 +44768,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+    "https://www.skysports.com/football/news/13615959/galatasaray-1-0-aston-villa-deniz-guls-late-winner-in-champions-league-league-phase-extends-villas-winless-run",
+    "https://www.arabnews.com/football/bloodied-but-unbowed-galatasarays-gul-stuns-villa-3013919"
    ],
+   "updatedAt": "2026-11-24T20:43:46.116Z",
    "venueFrom": "home-ground"
   },
   {

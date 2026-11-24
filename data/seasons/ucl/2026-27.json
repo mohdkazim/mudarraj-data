@@ -3984,14 +3984,18 @@
    "away": "gb-eng-aston-villa",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.skysports.com/football/news/13615959/galatasaray-1-0-aston-villa-deniz-guls-late-winner-in-champions-league-league-phase-extends-villas-winless-run",
+    "https://www.arabnews.com/football/bloodied-but-unbowed-galatasarays-gul-stuns-villa-3013919"
+   ],
+   "updatedAt": "2026-11-24T20:43:46.116Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-de-rb-leipzig-fr-lens",

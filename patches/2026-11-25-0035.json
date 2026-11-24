@@ -1,0 +1,13 @@
+{
+  "run": "2026-11-24T20:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-gd-r05-om-al-seeb-iq-al-shorta", "status": "FT", "score": [2, 0], "ht": [1, 0],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-al-seeb-club-oma-2-0-al-shorta-irq"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-tr-galatasaray-gb-eng-aston-villa", "status": "FT", "score": [1, 0],
+      "sources": ["https://www.skysports.com/football/news/13615959/galatasaray-1-0-aston-villa-deniz-guls-late-winner-in-champions-league-league-phase-extends-villas-winless-run",
+                  "https://www.arabnews.com/football/bloodied-but-unbowed-galatasarays-gul-stuns-villa-3013919"] }
+  ],
+  "unconfirmed": [
+    { "match": "ucl-2026-27-league-phase-r05-no-bod-glimt-at-lask", "claim": "1-0", "sources": ["https://www.365scores.com/en-us/football/team/bodo-glimt-1978"] }
+  ]
+}
