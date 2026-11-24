@@ -1,0 +1,10 @@
+{
+  "run": "2026-11-24T16:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-gd-r05-in-east-bengal-jo-al-hussein", "status": "FT", "score": [1,0],
+      "goals": [ { "minute": 87, "side": "home", "player": "Jeakson Singh", "type": "goal" } ],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-1-0-al-hussein-jor",
+                  "https://www.365scores.com/football/team/east-bengal-15458"] }
+  ],
+  "unconfirmed": []
+}

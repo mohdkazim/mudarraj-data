@@ -2775,14 +2775,26 @@
    "away": "jo-al-hussein",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-1-0-al-hussein-jor",
+    "https://www.365scores.com/football/team/east-bengal-15458"
+   ],
+   "goals": [
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Jeakson Singh",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-24T16:37:33.941Z"
   },
   {
    "id": "acl2-2026-27-groups-gd-r05-om-al-seeb-iq-al-shorta",

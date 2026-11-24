@@ -4754,3 +4754,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-24 (2026-11-24T15:35:00Z)
 - 1 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acle-2026-27-league-east-geast-r05-th-ratchaburi-my-johor-darul-ta-zim 1-1 FT
+
+## 2026-11-24 (2026-11-24T16:35:00Z)
+- 1 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acl2-2026-27-groups-gd-r05-in-east-bengal-jo-al-hussein 1-0 FT
