@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-24T18:36:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r05-ae-shabab-al-ahli-sa-al-qadsiah", "status": "FT", "score": [1,5], "ht": [0,2],
+      "sources": ["https://www.365scores.com/es/football/team/qadisiya-8947", "https://www.albayan.ae/sports/uae-stadiums/1567436"] }
+  ],
+  "unconfirmed": []
+}
