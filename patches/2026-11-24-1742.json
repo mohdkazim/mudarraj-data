@@ -1,0 +1,11 @@
+{
+  "run": "2026-11-24T13:42:59Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r05-jp-kyoto-sanga-kr-pohang-steelers", "status": "FT", "score": [1,0],
+      "goals": [ { "minute": 71, "side": "home", "player": "Masaya Okugawa", "type": "goal" } ],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-kyoto-sanga-fc-jpn-1-0-fc-pohang-steelers-kor"] },
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r05-kr-daejeon-hana-citizen-cn-beijing-guoan", "status": "FT", "score": [3,2],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-daejeon-hana-citizen-fc-kor-3-2-beijing-fc-chn"] }
+  ],
+  "unconfirmed": []
+}

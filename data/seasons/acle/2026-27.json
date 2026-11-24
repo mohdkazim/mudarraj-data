@@ -2962,14 +2962,25 @@
    "away": "kr-pohang-steelers",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-kyoto-sanga-fc-jpn-1-0-fc-pohang-steelers-kor"
+   ],
+   "goals": [
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Masaya Okugawa",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-24T13:42:59.885Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r05-kr-daejeon-hana-citizen-cn-beijing-guoan",
@@ -2985,14 +2996,17 @@
    "away": "cn-beijing-guoan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261124",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-daejeon-hana-citizen-fc-kor-3-2-beijing-fc-chn"
+   ],
+   "updatedAt": "2026-11-24T13:42:59.885Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r05-cn-shanghai-port-th-buriram-united",
