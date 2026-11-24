@@ -4766,3 +4766,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-24 (2026-11-24T18:36:00Z)
 - 1 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acle-2026-27-league-west-gwest-r05-ae-shabab-al-ahli-sa-al-qadsiah 1-5 FT
+
+## 2026-11-24 (2026-11-24T19:35:00Z)
+- 1 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result gulf-club-cl-2026-27-groups-gc-r04-ae-ajman-sa-al-ettifaq 1-2 FT

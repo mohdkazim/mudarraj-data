@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-24T18:38:21.095Z",
+ "generatedAt": "2026-11-24T19:42:32.922Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 562,
+  "results": 563,
   "pending": 1
  },
  "teams": [
@@ -44667,8 +44667,15 @@
    "away": "sa-al-ettifaq",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Rashid bin Saeed Stadium",
@@ -44681,8 +44688,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+    "https://www.365scores.com/en-us/football/match/gulf-club-champions-league-8400/ajman-club-al-ettifaq-8652-8943-8400"
    ],
+   "updatedAt": "2026-11-24T19:42:32.758Z",
    "venueFrom": "home-ground"
   },
   {

@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-24T19:35:00Z",
+  "changes": [
+    { "op": "result", "match": "gulf-club-cl-2026-27-groups-gc-r04-ae-ajman-sa-al-ettifaq", "status": "FT", "score": [1,2], "ht": [1,1],
+      "sources": ["https://www.365scores.com/en-us/football/match/gulf-club-champions-league-8400/ajman-club-al-ettifaq-8652-8943-8400"] }
+  ],
+  "unconfirmed": []
+}

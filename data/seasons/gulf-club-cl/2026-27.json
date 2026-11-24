@@ -762,13 +762,21 @@
    "away": "sa-al-ettifaq",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
-   ]
+    "https://www.365scores.com/en-us/football/match/gulf-club-champions-league-8400/ajman-club-al-ettifaq-8652-8943-8400"
+   ],
+   "updatedAt": "2026-11-24T19:42:32.758Z"
   },
   {
    "id": "gulf-club-cl-2026-27-groups-ga-r04-qa-al-duhail-sa-neom",
