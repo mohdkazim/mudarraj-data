@@ -3209,14 +3209,41 @@
    "away": "kr-jeonbuk-hyundai-motors",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/afc-champions-league-elite-623/jeonbuk-motors-kashima-antlers-2146-8592-623"
+   ],
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Ryoya Ogawa",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Kaito Chida",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Yuma Suzuki",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-25T12:37:27.355Z"
   },
   {
    "id": "acle-2026-27-league-east-geast-r06-jp-kashiwa-reysol-vn-cong-an-ha-noi",

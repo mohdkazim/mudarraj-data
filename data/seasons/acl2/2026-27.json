@@ -2840,8 +2840,11 @@
    "away": "vn-the-cong-viettel",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Kardinia Park Stadium",
@@ -2853,13 +2856,14 @@
     }
    },
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-melbourne-victory-aus-0-0-the-cong-viettel-fc-vie"
    ],
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
     "https://melbournevictory.com.au/?p=359251"
-   ]
+   ],
+   "goals": [],
+   "updatedAt": "2026-11-25T12:37:27.355Z"
   },
   {
    "id": "acl2-2026-27-groups-ge-r05-id-persib-bandung-kr-fc-seoul",

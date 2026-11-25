@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-25T01:48:25.481Z",
+ "generatedAt": "2026-11-25T12:37:27.505Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 575,
+  "results": 577,
   "pending": 1
  },
  "teams": [
@@ -45396,8 +45396,11 @@
    "away": "vn-the-cong-viettel",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Kardinia Park Stadium",
@@ -45409,13 +45412,14 @@
     }
    },
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-melbourne-victory-aus-0-0-the-cong-viettel-fc-vie"
    ],
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
     "https://melbournevictory.com.au/?p=359251"
-   ]
+   ],
+   "goals": [],
+   "updatedAt": "2026-11-25T12:37:27.355Z"
   },
   {
    "competition": "acle",
@@ -45468,8 +45472,15 @@
    "away": "kr-jeonbuk-hyundai-motors",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Kashima Soccer Stadium",
@@ -45482,9 +45493,29 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.champions/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4719&r=5&s=2026-2027"
+    "https://www.365scores.com/football/match/afc-champions-league-elite-623/jeonbuk-motors-kashima-antlers-2146-8592-623"
    ],
+   "goals": [
+    {
+     "minute": 17,
+     "side": "home",
+     "player": "Ryoya Ogawa",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "Kaito Chida",
+     "type": "goal"
+    },
+    {
+     "minute": 73,
+     "side": "home",
+     "player": "Yuma Suzuki",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-25T12:37:27.355Z",
    "venueFrom": "home-ground"
   },
   {
