@@ -4334,14 +4334,18 @@
    "away": "es-villarreal",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572",
+    "https://www.skysports.com/football/slavia-prague-vs-villarreal/9091404031337954232"
+   ],
+   "updatedAt": "2026-11-25T22:38:16.194Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-be-club-brugge-gb-eng-liverpool",
@@ -4357,14 +4361,38 @@
    "away": "gb-eng-liverpool",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572",
+    "https://skysports.com/football/club-brugge-vs-liverpool/report/577679"
+   ],
+   "goals": [
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Alexander Isak",
+     "type": "goal"
+    },
+    {
+     "minute": 79,
+     "side": "away",
+     "player": "Florian Wirtz",
+     "type": "goal"
+    },
+    {
+     "minute": 82,
+     "side": "away",
+     "player": "Alexander Isak",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-25T22:38:16.194Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-es-atletico-madrid-no-viking",
@@ -4380,14 +4408,17 @@
    "away": "no-viking",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"
+   ],
+   "updatedAt": "2026-11-25T22:38:16.194Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-fr-lille-de-bayern-munich",
@@ -4403,14 +4434,17 @@
    "away": "de-bayern-munich",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"
+   ],
+   "updatedAt": "2026-11-25T22:38:16.194Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-fr-paris-saint-germain-it-roma",
@@ -4426,14 +4460,17 @@
    "away": "it-roma",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"
+   ],
+   "updatedAt": "2026-11-25T22:38:16.194Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-it-inter-milan-de-vfb-stuttgart",
@@ -4449,14 +4486,17 @@
    "away": "de-vfb-stuttgart",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"
+   ],
+   "updatedAt": "2026-11-25T22:38:16.194Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-pt-sporting-cp-gb-eng-manchester-united",
@@ -4472,14 +4512,44 @@
    "away": "gb-eng-manchester-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572",
+    "https://www.skysports.com/football/sporting-lisbon-vs-manchester-united/5722422440954158232"
+   ],
+   "goals": [
+    {
+     "minute": 33,
+     "side": "home",
+     "player": "Luis Suárez",
+     "type": "penalty"
+    },
+    {
+     "minute": 48,
+     "side": "away",
+     "player": "B. Borges Fernandes",
+     "type": "penalty"
+    },
+    {
+     "minute": 50,
+     "side": "away",
+     "player": "B. Borges Fernandes",
+     "type": "goal"
+    },
+    {
+     "minute": 80,
+     "side": "home",
+     "player": "Luis Suárez",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-25T22:38:16.194Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-ua-shakhtar-donetsk-tr-fenerbahce",
@@ -4495,8 +4565,11 @@
    "away": "tr-fenerbahce",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Stamford Bridge",
@@ -4509,8 +4582,7 @@
    },
    "neutral": true,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"
    ],
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915406",
@@ -4518,7 +4590,8 @@
     "https://shakhtar.com/en/news/2026/august/21_news/21_shakhtar_stamford_bridge/",
     "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
     "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
-   ]
+   ],
+   "updatedAt": "2026-11-25T22:38:16.194Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r06-es-villarreal-az-sabah",

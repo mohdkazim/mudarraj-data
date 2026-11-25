@@ -1,0 +1,28 @@
+{
+  "run": "2026-11-25T22:35:00Z",
+  "changes": [
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-cz-slavia-prague-es-villarreal", "status": "FT", "score": [0,1],
+      "sources": ["https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572", "https://www.skysports.com/football/slavia-prague-vs-villarreal/9091404031337954232"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-be-club-brugge-gb-eng-liverpool", "status": "FT", "score": [0,3],
+      "goals": [
+        { "minute": 13, "side": "away", "player": "Alexander Isak", "type": "goal" },
+        { "minute": 79, "side": "away", "player": "Florian Wirtz", "type": "goal" },
+        { "minute": 82, "side": "away", "player": "Alexander Isak", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572", "https://skysports.com/football/club-brugge-vs-liverpool/report/577679"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-pt-sporting-cp-gb-eng-manchester-united", "status": "FT", "score": [2,2],
+      "goals": [
+        { "minute": 33, "side": "home", "player": "Luis Suárez", "type": "penalty" },
+        { "minute": 48, "side": "away", "player": "B. Borges Fernandes", "type": "penalty" },
+        { "minute": 50, "side": "away", "player": "B. Borges Fernandes", "type": "goal" },
+        { "minute": 80, "side": "home", "player": "Luis Suárez", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572", "https://www.skysports.com/football/sporting-lisbon-vs-manchester-united/5722422440954158232"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-es-atletico-madrid-no-viking", "status": "FT", "score": [2,0], "sources": ["https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-fr-lille-de-bayern-munich", "status": "FT", "score": [2,1], "sources": ["https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-ua-shakhtar-donetsk-tr-fenerbahce", "status": "FT", "score": [0,1], "sources": ["https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-fr-paris-saint-germain-it-roma", "status": "FT", "score": [2,2], "sources": ["https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-it-inter-milan-de-vfb-stuttgart", "status": "FT", "score": [2,0], "sources": ["https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"] }
+  ],
+  "unconfirmed": []
+}

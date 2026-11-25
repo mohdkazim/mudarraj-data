@@ -4841,3 +4841,14 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 2 waiting for a second source
   - ✓ result ucl-2026-27-league-phase-r05-az-sabah-es-barcelona 1-4 FT
   - ✓ result gulf-club-cl-2026-27-groups-gb-r04-qa-qatar-sc-ae-al-nasr 2-0 FT
+
+## 2026-11-26 (2026-11-25T22:35:00Z)
+- 8 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result ucl-2026-27-league-phase-r05-cz-slavia-prague-es-villarreal 0-1 FT
+  - ✓ result ucl-2026-27-league-phase-r05-be-club-brugge-gb-eng-liverpool 0-3 FT
+  - ✓ result ucl-2026-27-league-phase-r05-pt-sporting-cp-gb-eng-manchester-united 2-2 FT
+  - ✓ result ucl-2026-27-league-phase-r05-es-atletico-madrid-no-viking 2-0 FT
+  - ✓ result ucl-2026-27-league-phase-r05-fr-lille-de-bayern-munich 2-1 FT
+  - ✓ result ucl-2026-27-league-phase-r05-ua-shakhtar-donetsk-tr-fenerbahce 0-1 FT
+  - ✓ result ucl-2026-27-league-phase-r05-fr-paris-saint-germain-it-roma 2-2 FT
+  - ✓ result ucl-2026-27-league-phase-r05-it-inter-milan-de-vfb-stuttgart 2-0 FT
