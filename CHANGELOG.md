@@ -4821,3 +4821,9 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-25 (2026-11-25T17:35:00Z)
 - 1 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acl2-2026-27-groups-ga-r05-uz-nasaf-bh-al-khaldiya added half-time and scorers to the confirmed result
+
+## 2026-11-25 (2026-11-25T18:36:00Z)
+- 3 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acl2-2026-27-groups-ga-r05-kw-kuwait-sc-ae-al-wahda 1-2 FT
+  - ✓ result acl2-2026-27-groups-gb-r05-ae-al-jazira-ir-gol-gohar-sirjan 1-0 FT
+  - ✓ result gulf-club-cl-2026-27-groups-gc-r04-kw-kazma-iq-erbil 1-1 FT

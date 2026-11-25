@@ -814,13 +814,21 @@
    "away": "iq-erbil",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
-   ]
+    "https://www.365scores.com/football/match/gulf-club-champions-league-8400/erbil-fc-kazma-sc-8254-10293-8400#id=4862006"
+   ],
+   "updatedAt": "2026-11-25T18:39:22.611Z"
   },
   {
    "id": "gulf-club-cl-2026-27-groups-ga-r04-ye-shaab-hadramaut-om-al-shabab-oman",

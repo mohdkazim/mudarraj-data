@@ -1,0 +1,13 @@
+{
+  "run": "2026-11-25T18:36:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-ga-r05-kw-kuwait-sc-ae-al-wahda", "status": "FT", "score": [1,2],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-a-kuwait-sc-kuw-1-2-al-wahda-fc-uae"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gb-r05-ae-al-jazira-ir-gol-gohar-sirjan", "status": "FT", "score": [1,0],
+      "goals": [ { "minute": 40, "side": "home", "player": "Anderson Talisca", "type": "goal" } ],
+      "sources": ["https://365scores.com/ar/news/magazine/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%B6%D8%AF-%D8%BA%D9%88%D9%84-%D8%BA%D9%88%D9%87%D8%A7"] },
+    { "op": "result", "match": "gulf-club-cl-2026-27-groups-gc-r04-kw-kazma-iq-erbil", "status": "FT", "score": [1,1], "ht": [1,0],
+      "sources": ["https://www.365scores.com/football/match/gulf-club-champions-league-8400/erbil-fc-kazma-sc-8254-10293-8400#id=4862006"] }
+  ],
+  "unconfirmed": []
+}

@@ -2948,14 +2948,17 @@
    "away": "ae-al-wahda",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-a-kuwait-sc-kuw-1-2-al-wahda-fc-uae"
+   ],
+   "updatedAt": "2026-11-25T18:39:22.611Z"
   },
   {
    "id": "acl2-2026-27-groups-gb-r05-ae-al-jazira-ir-gol-gohar-sirjan",
@@ -2971,14 +2974,25 @@
    "away": "ir-gol-gohar-sirjan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
-   ]
+    "https://365scores.com/ar/news/magazine/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%B6%D8%AF-%D8%BA%D9%88%D9%84-%D8%BA%D9%88%D9%87%D8%A7"
+   ],
+   "goals": [
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "Anderson Talisca",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-25T18:39:22.611Z"
   },
   {
    "id": "acl2-2026-27-groups-gb-r05-bh-al-muharraq-tm-arkadag",

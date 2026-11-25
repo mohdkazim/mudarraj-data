@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-25T17:38:02.647Z",
+ "generatedAt": "2026-11-25T18:39:22.776Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 987,
+  "results": 990,
   "pending": 1
  },
  "teams": [
@@ -71191,13 +71191,21 @@
    "away": "iq-erbil",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
-   ]
+    "https://www.365scores.com/football/match/gulf-club-champions-league-8400/erbil-fc-kazma-sc-8254-10293-8400#id=4862006"
+   ],
+   "updatedAt": "2026-11-25T18:39:22.611Z"
   },
   {
    "competition": "acl2",
@@ -71215,8 +71223,11 @@
    "away": "ae-al-wahda",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 2
+   },
    "venue": {
     "name": {
      "en": "Jaber Al-Mubarak Al-Sabah Stadium",
@@ -71229,9 +71240,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-a-kuwait-sc-kuw-1-2-al-wahda-fc-uae"
    ],
+   "updatedAt": "2026-11-25T18:39:22.611Z",
    "venueFrom": "home-ground"
   },
   {
@@ -71250,8 +71261,11 @@
    "away": "ir-gol-gohar-sirjan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Mohammed bin Zayed Stadium",
@@ -71264,9 +71278,17 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+    "https://365scores.com/ar/news/magazine/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D8%B6%D8%AF-%D8%BA%D9%88%D9%84-%D8%BA%D9%88%D9%87%D8%A7"
    ],
+   "goals": [
+    {
+     "minute": 40,
+     "side": "home",
+     "player": "Anderson Talisca",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-25T18:39:22.611Z",
    "venueFrom": "home-ground"
   },
   {
