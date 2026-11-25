@@ -4832,3 +4832,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acl2-2026-27-groups-gb-r05-bh-al-muharraq-tm-arkadag 2-4 FT
   - ✓ result acl2-2026-27-groups-gc-r05-jo-al-faisaly-qa-al-rayyan 0-1 FT
+
+## 2026-11-26 (2026-11-25T20:35:00Z)
+- 1 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result acl2-2026-27-groups-gc-r05-sa-al-taawoun-om-al-nahda 0-0 FT

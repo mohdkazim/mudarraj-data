@@ -3060,14 +3060,22 @@
    "away": "om-al-nahda",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
-   ]
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/al-nahda-al-taawoun-8941-12184-568"
+   ],
+   "goals": [],
+   "updatedAt": "2026-11-25T20:38:34.254Z"
   },
   {
    "id": "acl2-2026-27-groups-gg-r05-sg-tampines-rovers-cn-shanghai-shenhua",

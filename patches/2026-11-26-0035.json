@@ -1,0 +1,11 @@
+{
+  "run": "2026-11-25T20:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-gc-r05-sa-al-taawoun-om-al-nahda", "status": "FT", "score": [0,0], "ht": [0,0], "goals": [],
+      "sources": ["https://www.365scores.com/football/match/afc-champions-league-two-568/al-nahda-al-taawoun-8941-12184-568"] }
+  ],
+  "unconfirmed": [
+    { "match": "ucl-2026-27-league-phase-r05-az-sabah-es-barcelona", "claim": "1-4",
+      "sources": ["https://www.arabnews.com/football/gordon-double-helps-barcelona-cruise-past-sabah-4-1-in-champions-league-3014048"] }
+  ]
+}
