@@ -2879,14 +2879,21 @@
    "away": "kr-fc-seoul",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 1,
+    "ht": [
+     2,
+     1
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-persib-bandung-idn-3-1-fc-seoul-kor"
+   ],
+   "updatedAt": "2026-11-25T15:37:36.821Z"
   },
   {
    "id": "acl2-2026-27-groups-ga-r05-uz-nasaf-bh-al-khaldiya",

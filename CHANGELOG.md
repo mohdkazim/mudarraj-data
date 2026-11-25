@@ -4808,3 +4808,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acle-2026-27-league-east-geast-r05-jp-kashima-antlers-kr-jeonbuk-hyundai-motors 3-0 FT
   - ✓ result acl2-2026-27-groups-ge-r05-au-melbourne-victory-vn-the-cong-viettel 0-0 FT
+
+## 2026-11-25 (2026-11-25T15:35:00Z)
+- 2 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acle-2026-27-league-east-geast-r05-jp-gamba-osaka-th-port-fc 2-0 FT
+  - ✓ result acl2-2026-27-groups-ge-r05-id-persib-bandung-kr-fc-seoul 3-1 FT

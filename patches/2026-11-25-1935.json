@@ -1,0 +1,10 @@
+{
+  "run": "2026-11-25T15:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acle-2026-27-league-east-geast-r05-jp-gamba-osaka-th-port-fc", "status": "FT", "score": [2,0], "ht": [0,0],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/md5-gamba-osaka-jpn-2-0-port-fc-tha"] },
+    { "op": "result", "match": "acl2-2026-27-groups-ge-r05-id-persib-bandung-kr-fc-seoul", "status": "FT", "score": [3,1], "ht": [2,1],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-e-persib-bandung-idn-3-1-fc-seoul-kor"] }
+  ],
+  "unconfirmed": []
+}
