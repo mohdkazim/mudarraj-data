@@ -4791,3 +4791,15 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result ucl-2026-27-league-phase-r05-it-como-gr-aek-athens 1-0 FT
   - ✓ result ucl-2026-27-league-phase-r05-nl-feyenoord-pt-porto 0-1 FT
   - ✓ result ucl-2026-27-league-phase-r05-sk-slovan-bratislava-es-real-betis 0-2 FT
+
+## 2026-11-25 (2026-11-25T02:30:00Z)
+- 9 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result laliga-2026-27-regular-r13-es-levante-es-elche 1-1 FT
+  - ✓ result laliga-2026-27-regular-r13-es-barcelona-es-villarreal added scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r13-es-racing-santander-es-real-sociedad added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r13-es-osasuna-es-malaga added half-time and scorers to the confirmed result
+  - ✓ result laliga-2026-27-regular-r13-es-getafe-es-atletico-madrid added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r05-es-real-madrid-nl-psv-eindhoven added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r05-no-bod-glimt-at-lask added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r05-nl-feyenoord-pt-porto added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r05-sk-slovan-bratislava-es-real-betis added half-time and scorers to the confirmed result

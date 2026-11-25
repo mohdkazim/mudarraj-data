@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-24T22:38:46.688Z",
+ "generatedAt": "2026-11-25T01:48:25.481Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 981,
-  "pending": 2
+  "results": 982,
+  "pending": 1
  },
  "teams": [
   {
@@ -68778,9 +68778,42 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/football/match/laliga-11/fc-barcelona-villarreal-132-133-11",
-    "https://www.skysports.com/football-scores-fixtures/2026-11-22"
+    "https://www.skysports.com/football-scores-fixtures/2026-11-22",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-fc-barcelona-villarreal-cf-13"
    ],
    "updatedAt": "2026-11-22T19:42:50.455Z",
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Tajon Buchanan",
+     "type": "goal"
+    },
+    {
+     "minute": 7,
+     "side": "away",
+     "player": "Tani Oluwaseyi",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Gerard Martín",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "home",
+     "player": "Fermín López",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "Pau Navarro",
+     "type": "own-goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -68997,7 +69030,11 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 2
+    "away": 2,
+    "ht": [
+     2,
+     1
+    ]
    },
    "venue": {
     "name": {
@@ -69012,9 +69049,43 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures/2026-11-22",
-    "https://www.365scores.com/es/football/match/laliga-11/malaga-osasuna-143-152-11"
+    "https://www.365scores.com/es/football/match/laliga-11/malaga-osasuna-143-152-11",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-r-racing-club-real-sociedad-13"
    ],
    "updatedAt": "2026-11-23T01:47:11.767Z",
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "Yassir Zabiri",
+     "type": "goal"
+    },
+    {
+     "minute": 8,
+     "side": "home",
+     "player": "Yassir Zabiri",
+     "type": "goal"
+    },
+    {
+     "minute": 45,
+     "extra": 1,
+     "side": "away",
+     "player": "Mikel Oyarzabal",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "away",
+     "player": "Gonçalo Guedes",
+     "type": "goal"
+    },
+    {
+     "minute": 68,
+     "side": "home",
+     "player": "Sergio Canales",
+     "type": "penalty"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -69252,7 +69323,11 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -69267,9 +69342,18 @@
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football-scores-fixtures",
-    "https://www.365scores.com/en-us/football/match/laliga-11/athletic-bilbao-espanyol-136-144-11"
+    "https://www.365scores.com/en-us/football/match/laliga-11/athletic-bilbao-espanyol-136-144-11",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-ca-osasuna-malaga-cf-13"
    ],
    "updatedAt": "2026-11-23T01:47:11.767Z",
+   "goals": [
+    {
+     "minute": 20,
+     "side": "home",
+     "player": "Ante Budimir",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -69385,7 +69469,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 3
+    "away": 3,
+    "ht": [
+     0,
+     2
+    ]
    },
    "venue": {
     "name": {
@@ -69399,9 +69487,31 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results"
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-getafe-cf-atletico-de-madrid-13"
    ],
    "updatedAt": "2026-11-24T01:44:40.776Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "away",
+     "player": "Álex Baena",
+     "type": "goal"
+    },
+    {
+     "minute": 30,
+     "side": "away",
+     "player": "Johnny Cardoso",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "away",
+     "player": "Alejandro Grimaldo",
+     "type": "penalty"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -69782,8 +69892,15 @@
    "away": "es-elche",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Ciutat de València",
@@ -69796,9 +69913,25 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.laliga.com/en-GB/laliga-easports/results/2026-27/gameweek-13",
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/scoreboard?dates=20261123"
+    "https://www.laliga.com/en-GB/laliga-easports/results",
+    "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-levante-ud-elche-cf-13",
+    "https://www.skysports.com/football-scores-fixtures"
    ],
+   "goals": [
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Roy Revivo",
+     "type": "goal"
+    },
+    {
+     "minute": 88,
+     "side": "home",
+     "player": "Dani Requena",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-25T01:48:25.310Z",
    "venueFrom": "home-ground"
   },
   {
@@ -70276,7 +70409,11 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -70290,9 +70427,19 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/",
+    "https://www.skysports.com/football/bodo-glimt-vs-linz-ask/577670"
    ],
    "updatedAt": "2026-11-24T22:38:36.711Z",
+   "goals": [
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "home",
+     "player": "Melayro Bogarde",
+     "type": "own-goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -70493,7 +70640,11 @@
    "status": "FT",
    "score": {
     "home": 5,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": {
     "name": {
@@ -70507,9 +70658,48 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/",
+    "https://www.skysports.com/football/real-madrid-vs-psv-eindhoven/live/577676"
    ],
    "updatedAt": "2026-11-24T22:38:36.711Z",
+   "goals": [
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "I Perisic",
+     "type": "penalty"
+    },
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "F Valverde",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "J Bellingham",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "K Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "home",
+     "player": "K Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Vinícius Júnior",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -70658,7 +70848,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": {
     "name": {
@@ -70672,9 +70866,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/",
+    "https://www.skysports.com/football/feyenoord-vs-fc-porto/577672"
    ],
    "updatedAt": "2026-11-24T22:38:36.711Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "away",
+     "player": "Oussama Targhalline",
+     "type": "own-goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -70696,7 +70899,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": {
     "name": {
@@ -70710,9 +70917,24 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/",
+    "https://www.skysports.com/football/sk-slovan-bratislava-vs-real-betis/577677"
    ],
    "updatedAt": "2026-11-24T22:38:36.711Z",
+   "goals": [
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Cucho Hernández",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Cucho Hernández",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {

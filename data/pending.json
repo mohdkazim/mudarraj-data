@@ -1,13 +1,5 @@
 [
  {
-  "match": "laliga-2026-27-regular-r13-es-levante-es-elche",
-  "claim": "1-1",
-  "sources": [
-   "https://www.skysports.com/football-scores-fixtures"
-  ],
-  "seen": "2026-11-23T22:36:00Z"
- },
- {
   "match": "gulf-club-cl-2026-27-groups-ga-r04-qa-al-duhail-sa-neom",
   "claim": "3-2",
   "sources": [

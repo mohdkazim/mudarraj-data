@@ -3964,14 +3964,28 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/",
+    "https://www.skysports.com/football/bodo-glimt-vs-linz-ask/577670"
    ],
-   "updatedAt": "2026-11-24T22:38:36.711Z"
+   "updatedAt": "2026-11-24T22:38:36.711Z",
+   "goals": [
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "home",
+     "player": "Melayro Bogarde",
+     "type": "own-goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-tr-galatasaray-gb-eng-aston-villa",
@@ -4052,14 +4066,57 @@
    "status": "FT",
    "score": {
     "home": 5,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/",
+    "https://www.skysports.com/football/real-madrid-vs-psv-eindhoven/live/577676"
    ],
-   "updatedAt": "2026-11-24T22:38:36.711Z"
+   "updatedAt": "2026-11-24T22:38:36.711Z",
+   "goals": [
+    {
+     "minute": 32,
+     "side": "away",
+     "player": "I Perisic",
+     "type": "penalty"
+    },
+    {
+     "minute": 50,
+     "side": "home",
+     "player": "F Valverde",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "home",
+     "player": "J Bellingham",
+     "type": "goal"
+    },
+    {
+     "minute": 64,
+     "side": "home",
+     "player": "K Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 84,
+     "side": "home",
+     "player": "K Mbappé",
+     "type": "goal"
+    },
+    {
+     "minute": 87,
+     "side": "home",
+     "player": "Vinícius Júnior",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-gb-eng-arsenal-de-borussia-dortmund",
@@ -4169,14 +4226,27 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/",
+    "https://www.skysports.com/football/feyenoord-vs-fc-porto/577672"
    ],
-   "updatedAt": "2026-11-24T22:38:36.711Z"
+   "updatedAt": "2026-11-24T22:38:36.711Z",
+   "goals": [
+    {
+     "minute": 2,
+     "side": "away",
+     "player": "Oussama Targhalline",
+     "type": "own-goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-sk-slovan-bratislava-es-real-betis",
@@ -4195,14 +4265,33 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 2
+    "away": 2,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/",
+    "https://www.skysports.com/football/sk-slovan-bratislava-vs-real-betis/577677"
    ],
-   "updatedAt": "2026-11-24T22:38:36.711Z"
+   "updatedAt": "2026-11-24T22:38:36.711Z",
+   "goals": [
+    {
+     "minute": 43,
+     "side": "away",
+     "player": "Cucho Hernández",
+     "type": "goal"
+    },
+    {
+     "minute": 57,
+     "side": "away",
+     "player": "Cucho Hernández",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-az-sabah-es-barcelona",

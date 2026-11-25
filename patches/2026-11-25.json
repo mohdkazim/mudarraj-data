@@ -1,0 +1,70 @@
+{
+  "run": "2026-11-25T02:30:00Z",
+  "changes": [
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-levante-es-elche", "status": "FT", "score": [1,1], "ht": [0,0],
+      "goals": [
+        { "minute": 62, "side": "away", "player": "Roy Revivo", "type": "goal" },
+        { "minute": 88, "side": "home", "player": "Dani Requena", "type": "goal" }
+      ],
+      "sources": ["https://www.laliga.com/en-GB/laliga-easports/results", "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-levante-ud-elche-cf-13", "https://www.skysports.com/football-scores-fixtures"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-barcelona-es-villarreal", "status": "FT", "score": [3,2], "ht": [0,2],
+      "goals": [
+        { "minute": 5, "side": "away", "player": "Tajon Buchanan", "type": "goal" },
+        { "minute": 7, "side": "away", "player": "Tani Oluwaseyi", "type": "goal" },
+        { "minute": 57, "side": "home", "player": "Gerard Martín", "type": "goal" },
+        { "minute": 61, "side": "home", "player": "Fermín López", "type": "goal" },
+        { "minute": 67, "side": "home", "player": "Pau Navarro", "type": "own-goal" }
+      ],
+      "sources": ["https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-fc-barcelona-villarreal-cf-13"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-racing-santander-es-real-sociedad", "status": "FT", "score": [3,2], "ht": [2,1],
+      "goals": [
+        { "minute": 6, "side": "home", "player": "Yassir Zabiri", "type": "goal" },
+        { "minute": 8, "side": "home", "player": "Yassir Zabiri", "type": "goal" },
+        { "minute": 45, "extra": 1, "side": "away", "player": "Mikel Oyarzabal", "type": "goal" },
+        { "minute": 60, "side": "away", "player": "Gonçalo Guedes", "type": "goal" },
+        { "minute": 68, "side": "home", "player": "Sergio Canales", "type": "penalty" }
+      ],
+      "sources": ["https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-r-racing-club-real-sociedad-13"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-osasuna-es-malaga", "status": "FT", "score": [1,0], "ht": [1,0],
+      "goals": [
+        { "minute": 20, "side": "home", "player": "Ante Budimir", "type": "goal" }
+      ],
+      "sources": ["https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-ca-osasuna-malaga-cf-13"] },
+    { "op": "result", "match": "laliga-2026-27-regular-r13-es-getafe-es-atletico-madrid", "status": "FT", "score": [0,3], "ht": [0,2],
+      "goals": [
+        { "minute": 10, "side": "away", "player": "Álex Baena", "type": "goal" },
+        { "minute": 30, "side": "away", "player": "Johnny Cardoso", "type": "goal" },
+        { "minute": 90, "extra": 2, "side": "away", "player": "Alejandro Grimaldo", "type": "penalty" }
+      ],
+      "sources": ["https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-ea-sports-getafe-cf-atletico-de-madrid-13"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-es-real-madrid-nl-psv-eindhoven", "status": "FT", "score": [5,1], "ht": [0,1],
+      "goals": [
+        { "minute": 32, "side": "away", "player": "I Perisic", "type": "penalty" },
+        { "minute": 50, "side": "home", "player": "F Valverde", "type": "goal" },
+        { "minute": 60, "side": "home", "player": "J Bellingham", "type": "goal" },
+        { "minute": 64, "side": "home", "player": "K Mbappé", "type": "goal" },
+        { "minute": 84, "side": "home", "player": "K Mbappé", "type": "goal" },
+        { "minute": 87, "side": "home", "player": "Vinícius Júnior", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/real-madrid-vs-psv-eindhoven/live/577676"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-no-bod-glimt-at-lask", "status": "FT", "score": [1,0], "ht": [0,0],
+      "goals": [
+        { "minute": 90, "extra": 2, "side": "home", "player": "Melayro Bogarde", "type": "own-goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/bodo-glimt-vs-linz-ask/577670"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-nl-feyenoord-pt-porto", "status": "FT", "score": [0,1], "ht": [0,1],
+      "goals": [
+        { "minute": 2, "side": "away", "player": "Oussama Targhalline", "type": "own-goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/feyenoord-vs-fc-porto/577672"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-sk-slovan-bratislava-es-real-betis", "status": "FT", "score": [0,2], "ht": [0,1],
+      "goals": [
+        { "minute": 43, "side": "away", "player": "Cucho Hernández", "type": "goal" },
+        { "minute": 57, "side": "away", "player": "Cucho Hernández", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/sk-slovan-bratislava-vs-real-betis/577677"] }
+  ],
+  "unconfirmed": [
+    { "match": "gulf-club-cl-2026-27-groups-ga-r04-qa-al-duhail-sa-neom", "claim": "3-2", "sources": ["https://www.365scores.com/en-us/football/match/gulf-club-champions-league-8400/ajman-club-al-ettifaq-8652-8943-8400"] }
+  ]
+}
