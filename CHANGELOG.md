@@ -4827,3 +4827,8 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result acl2-2026-27-groups-ga-r05-kw-kuwait-sc-ae-al-wahda 1-2 FT
   - ✓ result acl2-2026-27-groups-gb-r05-ae-al-jazira-ir-gol-gohar-sirjan 1-0 FT
   - ✓ result gulf-club-cl-2026-27-groups-gc-r04-kw-kazma-iq-erbil 1-1 FT
+
+## 2026-11-25 (2026-11-25T19:35:00Z)
+- 2 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acl2-2026-27-groups-gb-r05-bh-al-muharraq-tm-arkadag 2-4 FT
+  - ✓ result acl2-2026-27-groups-gc-r05-jo-al-faisaly-qa-al-rayyan 0-1 FT

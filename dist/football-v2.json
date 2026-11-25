@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-25T18:39:22.776Z",
+ "generatedAt": "2026-11-25T19:42:49.542Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 990,
+  "results": 992,
   "pending": 1
  },
  "teams": [
@@ -71307,8 +71307,11 @@
    "away": "tm-arkadag",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4
+   },
    "venue": {
     "name": {
      "en": "Bahrain National Stadium",
@@ -71321,9 +71324,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-b-al-muharraq-sc-bhr-2-4-fc-arkadag-tkm"
    ],
+   "updatedAt": "2026-11-25T19:42:49.382Z",
    "venueFrom": "home-ground"
   },
   {
@@ -71342,8 +71345,11 @@
    "away": "qa-al-rayyan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": {
     "name": {
      "en": "Amman International Stadium",
@@ -71356,9 +71362,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-c-al-faisaly-jor-0-1-al-rayyan-sc-qat"
    ],
+   "updatedAt": "2026-11-25T19:42:49.382Z",
    "venueFrom": "home-ground"
   },
   {

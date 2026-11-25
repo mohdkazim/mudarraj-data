@@ -3008,14 +3008,17 @@
    "away": "tm-arkadag",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 4
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-b-al-muharraq-sc-bhr-2-4-fc-arkadag-tkm"
+   ],
+   "updatedAt": "2026-11-25T19:42:49.382Z"
   },
   {
    "id": "acl2-2026-27-groups-gc-r05-jo-al-faisaly-qa-al-rayyan",
@@ -3031,14 +3034,17 @@
    "away": "qa-al-rayyan",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 1
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-c-al-faisaly-jor-0-1-al-rayyan-sc-qat"
+   ],
+   "updatedAt": "2026-11-25T19:42:49.382Z"
   },
   {
    "id": "acl2-2026-27-groups-gc-r05-sa-al-taawoun-om-al-nahda",
