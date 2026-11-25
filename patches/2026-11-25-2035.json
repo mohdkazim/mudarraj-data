@@ -1,0 +1,8 @@
+{
+  "run": "2026-11-25T16:35:47Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-ga-r05-uz-nasaf-bh-al-khaldiya", "status": "FT", "score": [1,0],
+      "sources": ["https://www.365scores.com/en-us/football/league/afc-champions-league-two-568"] }
+  ],
+  "unconfirmed": []
+}

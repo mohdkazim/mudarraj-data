@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-25T15:37:36.970Z",
+ "generatedAt": "2026-11-25T16:37:12.155Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 986,
+  "results": 987,
   "pending": 1
  },
  "teams": [
@@ -71140,8 +71140,11 @@
    "away": "bh-al-khaldiya",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Markaziy Stadium",
@@ -71154,9 +71157,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+    "https://www.365scores.com/en-us/football/league/afc-champions-league-two-568"
    ],
+   "updatedAt": "2026-11-25T16:37:12.002Z",
    "venueFrom": "home-ground"
   },
   {
