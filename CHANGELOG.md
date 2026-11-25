@@ -4836,3 +4836,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-26 (2026-11-25T20:35:00Z)
 - 1 change(s) applied, 0 rejected, 2 waiting for a second source
   - ✓ result acl2-2026-27-groups-gc-r05-sa-al-taawoun-om-al-nahda 0-0 FT
+
+## 2026-11-26 (2026-11-25T21:36:00Z)
+- 2 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result ucl-2026-27-league-phase-r05-az-sabah-es-barcelona 1-4 FT
+  - ✓ result gulf-club-cl-2026-27-groups-gb-r04-qa-qatar-sc-ae-al-nasr 2-0 FT

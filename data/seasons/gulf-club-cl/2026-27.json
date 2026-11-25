@@ -866,13 +866,36 @@
    "away": "ae-al-nasr",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
-   ]
+    "https://www.365scores.com/football/match/gulf-club-champions-league-8400/al-nasr-dubai-qatar-sc-7086-8349-8400",
+    "https://365scores.com/ar/news/magazine/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%82%D8%B7%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88"
+   ],
+   "goals": [
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Faïz Selemani",
+     "type": "penalty"
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Aron Gunnarsson",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-25T21:42:35.946Z"
   },
   {
    "id": "gulf-club-cl-2026-27-groups-gc-r05-kw-kazma-sa-al-ettifaq",

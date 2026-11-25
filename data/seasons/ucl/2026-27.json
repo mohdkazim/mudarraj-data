@@ -4307,14 +4307,18 @@
    "away": "es-barcelona",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
-   ]
+    "https://www.arabnews.com/football/gordon-double-helps-barcelona-cruise-past-sabah-4-1-in-champions-league-3014048",
+    "https://www.skysports.com/champions-league-scores-fixtures"
+   ],
+   "updatedAt": "2026-11-25T21:42:35.946Z"
   },
   {
    "id": "ucl-2026-27-league-phase-r05-cz-slavia-prague-es-villarreal",

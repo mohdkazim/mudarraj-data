@@ -1,11 +1,11 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-25T20:38:34.463Z",
+ "generatedAt": "2026-11-25T21:42:36.127Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 586,
+  "results": 588,
   "pending": 2
  },
  "teams": [
@@ -45850,8 +45850,11 @@
    "away": "es-barcelona",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 4
+   },
    "venue": {
     "name": {
      "en": "Baku Olympic Stadium",
@@ -45864,9 +45867,10 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?dates=20261125",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4480&r=5&s=2026-2027"
+    "https://www.arabnews.com/football/gordon-double-helps-barcelona-cruise-past-sabah-4-1-in-champions-league-3014048",
+    "https://www.skysports.com/champions-league-scores-fixtures"
    ],
+   "updatedAt": "2026-11-25T21:42:35.946Z",
    "venueFrom": "home-ground"
   },
   {
@@ -45920,8 +45924,15 @@
    "away": "ae-al-nasr",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Suhaim bin Hamad Stadium",
@@ -45934,8 +45945,24 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
+    "https://www.365scores.com/football/match/gulf-club-champions-league-8400/al-nasr-dubai-qatar-sc-7086-8349-8400",
+    "https://365scores.com/ar/news/magazine/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%82%D8%B7%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88"
    ],
+   "goals": [
+    {
+     "minute": 21,
+     "side": "home",
+     "player": "Faïz Selemani",
+     "type": "penalty"
+    },
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Aron Gunnarsson",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-25T21:42:35.946Z",
    "venueFrom": "home-ground"
   },
   {

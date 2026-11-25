@@ -1,0 +1,19 @@
+{
+  "run": "2026-11-25T21:36:00Z",
+  "changes": [
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-az-sabah-es-barcelona", "status": "FT", "score": [1,4],
+      "sources": ["https://www.arabnews.com/football/gordon-double-helps-barcelona-cruise-past-sabah-4-1-in-champions-league-3014048",
+                  "https://www.skysports.com/champions-league-scores-fixtures"] },
+    { "op": "result", "match": "gulf-club-cl-2026-27-groups-gb-r04-qa-qatar-sc-ae-al-nasr", "status": "FT", "score": [2,0], "ht": [1,0],
+      "goals": [
+        { "minute": 21, "side": "home", "player": "Faïz Selemani", "type": "penalty" },
+        { "minute": 59, "side": "home", "player": "Aron Gunnarsson", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/football/match/gulf-club-champions-league-8400/al-nasr-dubai-qatar-sc-7086-8349-8400",
+                  "https://365scores.com/ar/news/magazine/%D9%85%D9%84%D8%AE%D8%B5-%D9%88%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%82%D8%B7%D8%B1-%D8%B6%D8%AF-%D8%A7%D9%84%D9%86%D8%B5%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%88"] }
+  ],
+  "unconfirmed": [
+    { "match": "ucl-2026-27-league-phase-r05-cz-slavia-prague-es-villarreal", "claim": "0-1",
+      "sources": ["https://www.skysports.com/football/slavia-prague-vs-villarreal/9091404031337954232"] }
+  ]
+}
