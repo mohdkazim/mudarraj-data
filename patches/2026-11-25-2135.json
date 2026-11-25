@@ -1,0 +1,9 @@
+{
+  "run": "2026-11-25T17:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-ga-r05-uz-nasaf-bh-al-khaldiya", "status": "FT", "score": [1,0], "ht": [0,0],
+      "goals": [ { "minute": 51, "side": "home", "player": "Abbos Gʻulomov", "type": "goal" } ],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/al-khalidiyah-nasaf-qarshi-8596-68794-568#id=4818651"] }
+  ],
+  "unconfirmed": []
+}

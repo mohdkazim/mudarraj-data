@@ -1,6 +1,6 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-25T16:37:12.155Z",
+ "generatedAt": "2026-11-25T17:38:02.647Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
@@ -45586,7 +45586,11 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -45600,9 +45604,18 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/afc-champions-league-two-568"
+    "https://www.365scores.com/en-us/football/league/afc-champions-league-two-568",
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-two-568/al-khalidiyah-nasaf-qarshi-8596-68794-568#id=4818651"
    ],
    "updatedAt": "2026-11-25T16:37:12.002Z",
+   "goals": [
+    {
+     "minute": 51,
+     "side": "home",
+     "player": "Abbos Gʻulomov",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {

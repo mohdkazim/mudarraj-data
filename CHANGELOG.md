@@ -4817,3 +4817,7 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-25 (2026-11-25T16:35:47Z)
 - 1 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acl2-2026-27-groups-ga-r05-uz-nasaf-bh-al-khaldiya 1-0 FT
+
+## 2026-11-25 (2026-11-25T17:35:00Z)
+- 1 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acl2-2026-27-groups-ga-r05-uz-nasaf-bh-al-khaldiya added half-time and scorers to the confirmed result
