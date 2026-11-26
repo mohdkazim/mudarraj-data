@@ -1,0 +1,58 @@
+{
+  "run": "2026-11-26T01:36:00Z",
+  "changes": [
+    { "op": "result", "match": "gulf-club-cl-2026-27-groups-ga-r04-qa-al-duhail-sa-neom", "status": "FT", "score": [3,2], "ht": [2,0],
+      "sources": ["https://www.365scores.com/football/match/gulf-club-champions-league-8400/al-duhail-neom-sc-8329-55793-8400", "https://sabq.org/article/oqrork7"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-gb-eng-arsenal-de-borussia-dortmund", "status": "FT", "score": [1,1],
+      "goals": [
+        { "minute": 10, "side": "home", "player": "V Gyökeres", "type": "goal" },
+        { "minute": 55, "side": "away", "player": "M Beier", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/arsenal-vs-borussia-dortmund/live/577669"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-gb-eng-manchester-city-it-napoli", "status": "FT", "score": [2,2],
+      "goals": [
+        { "minute": 55, "side": "away", "player": "R Højlund", "type": "goal" },
+        { "minute": 67, "side": "home", "player": "A Bouaddi", "type": "goal" },
+        { "minute": 76, "side": "away", "player": "N Lang", "type": "goal" },
+        { "minute": 86, "side": "home", "player": "R Cherki", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/manchester-city-vs-napoli/live/577674"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-fr-paris-saint-germain-it-roma", "status": "FT", "score": [2,2],
+      "goals": [
+        { "minute": 5, "side": "away", "player": "Mario Hermoso", "type": "goal" },
+        { "minute": 31, "side": "home", "player": "Illia Zabarnyi", "type": "goal" },
+        { "minute": 62, "side": "home", "player": "Ousmane Dembélé", "type": "penalty" },
+        { "minute": 78, "side": "away", "player": "Donyell Malen", "type": "penalty" }
+      ],
+      "sources": ["https://www.skysports.com/football/paris-saint-germain-vs-roma/live/577682"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-it-inter-milan-de-vfb-stuttgart", "status": "FT", "score": [2,0], "ht": [0,0],
+      "goals": [
+        { "minute": 57, "side": "home", "player": "Petar Sucic", "type": "penalty" },
+        { "minute": 74, "side": "home", "player": "Lautaro Martínez", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/inter-milan-vs-stuttgart/577680"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-es-atletico-madrid-no-viking", "status": "FT", "score": [2,0], "ht": [2,0],
+      "goals": [
+        { "minute": 19, "side": "home", "player": "Alexander Sorloth", "type": "goal" },
+        { "minute": 24, "side": "home", "player": "Julián Álvarez", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/es/football/match/uefa-champions-league-572/atletico-madrid-viking-134-1980-572"] },
+    { "op": "result", "match": "epl-2026-27-regular-r11-gb-eng-brentford-gb-eng-everton", "status": "FT", "score": [4,0], "ht": [2,0],
+      "goals": [
+        { "minute": 23, "side": "home", "player": "K Lewis-Potter", "type": "goal" },
+        { "minute": 26, "side": "home", "player": "K Lewis-Potter", "type": "goal" },
+        { "minute": 67, "side": "home", "player": "V Janelt", "type": "goal" },
+        { "minute": 90, "side": "home", "player": "F Carvalho", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/brentford-vs-everton/8814700554283960232"] },
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r05-ae-al-ain-ir-esteghlal", "status": "FT", "score": [1,1], "ht": [0,0],
+      "goals": [
+        { "minute": 51, "side": "away", "player": "Saman Fallah", "type": "goal" },
+        { "minute": 58, "side": "home", "player": "Matias Palacios", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/al-ain-esteghlal-fc-tehran-8353-9358-623"] }
+  ],
+  "unconfirmed": [
+    { "match": "gulf-club-cl-2026-27-groups-ga-r04-ye-shaab-hadramaut-om-al-shabab-oman", "claim": "1-0", "sources": ["https://www.365scores.com/football/match/gulf-club-champions-league-8400/al-shabab-sha'ab-hadramaut-11492-12185-8400"] }
+  ]
+}

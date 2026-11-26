@@ -5153,15 +5153,46 @@
    "status": "FT",
    "score": {
     "home": 4,
-    "away": 0
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.skysports.com/football/brentford-vs-everton/report/559546",
-    "https://gulfnews.com/sport/football/brentford-hit-everton-for-four-to-soar-into-premier-league-top-6-1.500758597"
+    "https://gulfnews.com/sport/football/brentford-hit-everton-for-four-to-soar-into-premier-league-top-6-1.500758597",
+    "https://www.skysports.com/football/brentford-vs-everton/8814700554283960232"
    ],
-   "updatedAt": "2026-11-24T01:44:40.776Z"
+   "updatedAt": "2026-11-24T01:44:40.776Z",
+   "goals": [
+    {
+     "minute": 23,
+     "side": "home",
+     "player": "K Lewis-Potter",
+     "type": "goal"
+    },
+    {
+     "minute": 26,
+     "side": "home",
+     "player": "K Lewis-Potter",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "V Janelt",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "side": "home",
+     "player": "F Carvalho",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "epl-2026-27-regular-r12-gb-eng-nottingham-forest-gb-eng-chelsea",

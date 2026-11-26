@@ -4140,9 +4140,24 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/",
+    "https://www.skysports.com/football/arsenal-vs-borussia-dortmund/live/577669"
    ],
-   "updatedAt": "2026-11-24T22:38:36.711Z"
+   "updatedAt": "2026-11-24T22:38:36.711Z",
+   "goals": [
+    {
+     "minute": 10,
+     "side": "home",
+     "player": "V Gyökeres",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "M Beier",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-gb-eng-manchester-city-it-napoli",
@@ -4166,9 +4181,36 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/",
+    "https://www.skysports.com/football/manchester-city-vs-napoli/live/577674"
    ],
-   "updatedAt": "2026-11-24T22:38:36.711Z"
+   "updatedAt": "2026-11-24T22:38:36.711Z",
+   "goals": [
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "R Højlund",
+     "type": "goal"
+    },
+    {
+     "minute": 67,
+     "side": "home",
+     "player": "A Bouaddi",
+     "type": "goal"
+    },
+    {
+     "minute": 76,
+     "side": "away",
+     "player": "N Lang",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "home",
+     "player": "R Cherki",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-it-como-gr-aek-athens",
@@ -4411,14 +4453,33 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572",
+    "https://www.365scores.com/es/football/match/uefa-champions-league-572/atletico-madrid-viking-134-1980-572"
    ],
-   "updatedAt": "2026-11-25T22:38:16.194Z"
+   "updatedAt": "2026-11-25T22:38:16.194Z",
+   "goals": [
+    {
+     "minute": 19,
+     "side": "home",
+     "player": "Alexander Sorloth",
+     "type": "goal"
+    },
+    {
+     "minute": 24,
+     "side": "home",
+     "player": "Julián Álvarez",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-fr-lille-de-bayern-munich",
@@ -4468,9 +4529,36 @@
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572",
+    "https://www.skysports.com/football/paris-saint-germain-vs-roma/live/577682"
    ],
-   "updatedAt": "2026-11-25T22:38:16.194Z"
+   "updatedAt": "2026-11-25T22:38:16.194Z",
+   "goals": [
+    {
+     "minute": 5,
+     "side": "away",
+     "player": "Mario Hermoso",
+     "type": "goal"
+    },
+    {
+     "minute": 31,
+     "side": "home",
+     "player": "Illia Zabarnyi",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "home",
+     "player": "Ousmane Dembélé",
+     "type": "penalty"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Donyell Malen",
+     "type": "penalty"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-it-inter-milan-de-vfb-stuttgart",
@@ -4489,14 +4577,33 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 0
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572",
+    "https://www.skysports.com/football/inter-milan-vs-stuttgart/577680"
    ],
-   "updatedAt": "2026-11-25T22:38:16.194Z"
+   "updatedAt": "2026-11-25T22:38:16.194Z",
+   "goals": [
+    {
+     "minute": 57,
+     "side": "home",
+     "player": "Petar Sucic",
+     "type": "penalty"
+    },
+    {
+     "minute": 74,
+     "side": "home",
+     "player": "Lautaro Martínez",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-pt-sporting-cp-gb-eng-manchester-united",

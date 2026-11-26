@@ -792,13 +792,22 @@
    "away": "sa-neom",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2,
+    "ht": [
+     2,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
-   ]
+    "https://www.365scores.com/football/match/gulf-club-champions-league-8400/al-duhail-neom-sc-8329-55793-8400",
+    "https://sabq.org/article/oqrork7"
+   ],
+   "updatedAt": "2026-11-26T01:48:46.392Z"
   },
   {
    "id": "gulf-club-cl-2026-27-groups-gc-r04-kw-kazma-iq-erbil",

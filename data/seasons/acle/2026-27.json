@@ -2757,9 +2757,24 @@
    "neutral": false,
    "sources": [
     "https://www.emaratalyoum.com/sports/local/2026-11-23-1.2105673",
-    "https://www.albayan.ae/sports/uae-stadiums/1567194"
+    "https://www.albayan.ae/sports/uae-stadiums/1567194",
+    "https://www.365scores.com/en-us/football/match/afc-champions-league-elite-623/al-ain-esteghlal-fc-tehran-8353-9358-623"
    ],
-   "updatedAt": "2026-11-23T18:38:14.346Z"
+   "updatedAt": "2026-11-23T18:38:14.346Z",
+   "goals": [
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Saman Fallah",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "home",
+     "player": "Matias Palacios",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r05-ir-tractor-ae-al-wasl",

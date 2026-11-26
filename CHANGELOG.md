@@ -4852,3 +4852,14 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result ucl-2026-27-league-phase-r05-ua-shakhtar-donetsk-tr-fenerbahce 0-1 FT
   - ✓ result ucl-2026-27-league-phase-r05-fr-paris-saint-germain-it-roma 2-2 FT
   - ✓ result ucl-2026-27-league-phase-r05-it-inter-milan-de-vfb-stuttgart 2-0 FT
+
+## 2026-11-26 (2026-11-26T01:36:00Z)
+- 8 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result gulf-club-cl-2026-27-groups-ga-r04-qa-al-duhail-sa-neom 3-2 FT
+  - ✓ result ucl-2026-27-league-phase-r05-gb-eng-arsenal-de-borussia-dortmund added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r05-gb-eng-manchester-city-it-napoli added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r05-fr-paris-saint-germain-it-roma added scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r05-it-inter-milan-de-vfb-stuttgart added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r05-es-atletico-madrid-no-viking added half-time and scorers to the confirmed result
+  - ✓ result epl-2026-27-regular-r11-gb-eng-brentford-gb-eng-everton added half-time and scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r05-ae-al-ain-ir-esteghlal added scorers to the confirmed result
