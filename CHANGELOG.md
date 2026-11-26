@@ -4863,3 +4863,9 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result ucl-2026-27-league-phase-r05-es-atletico-madrid-no-viking added half-time and scorers to the confirmed result
   - ✓ result epl-2026-27-regular-r11-gb-eng-brentford-gb-eng-everton added half-time and scorers to the confirmed result
   - ✓ result acle-2026-27-league-west-gwest-r05-ae-al-ain-ir-esteghlal added scorers to the confirmed result
+
+## 2026-11-26 (2026-11-26T12:35:00Z)
+- 3 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acl2-2026-27-groups-gg-r05-sg-tampines-rovers-cn-shanghai-shenhua 1-7 FT
+  - ✓ result acl2-2026-27-groups-gh-r05-kr-gangwon-fc-hk-kitchee 3-2 FT
+  - ✓ result acl2-2026-27-groups-gh-r05-my-kuching-city-kh-phnom-penh-crown 3-0 FT

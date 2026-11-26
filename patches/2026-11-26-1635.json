@@ -1,0 +1,12 @@
+{
+  "run": "2026-11-26T12:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-gg-r05-sg-tampines-rovers-cn-shanghai-shenhua", "status": "FT", "score": [1,7],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-tampines-rovers-fc-sgp-1-7-shanghai-shenhua-fc-chn"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gh-r05-kr-gangwon-fc-hk-kitchee", "status": "FT", "score": [3,2],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-gangwon-fc-kor-3-2-kitchee-sc-hkg"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gh-r05-my-kuching-city-kh-phnom-penh-crown", "status": "FT", "score": [3,0],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-kuching-city-fc-mas-3-0-phnom-penh-crown-fc-cam"] }
+  ],
+  "unconfirmed": []
+}

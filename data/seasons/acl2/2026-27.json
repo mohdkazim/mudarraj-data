@@ -3091,14 +3091,17 @@
    "away": "cn-shanghai-shenhua",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 7
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-tampines-rovers-fc-sgp-1-7-shanghai-shenhua-fc-chn"
+   ],
+   "updatedAt": "2026-11-26T12:38:09.183Z"
   },
   {
    "id": "acl2-2026-27-groups-gh-r05-kr-gangwon-fc-hk-kitchee",
@@ -3114,14 +3117,17 @@
    "away": "hk-kitchee",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-gangwon-fc-kor-3-2-kitchee-sc-hkg"
+   ],
+   "updatedAt": "2026-11-26T12:38:09.183Z"
   },
   {
    "id": "acl2-2026-27-groups-gh-r05-my-kuching-city-kh-phnom-penh-crown",
@@ -3137,14 +3143,17 @@
    "away": "kh-phnom-penh-crown",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 0
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
-   ]
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-h-kuching-city-fc-mas-3-0-phnom-penh-crown-fc-cam"
+   ],
+   "updatedAt": "2026-11-26T12:38:09.183Z"
   },
   {
    "id": "acl2-2026-27-groups-gf-r05-hk-tai-po-au-adelaide-united",
