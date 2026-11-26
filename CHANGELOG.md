@@ -4869,3 +4869,7 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ result acl2-2026-27-groups-gg-r05-sg-tampines-rovers-cn-shanghai-shenhua 1-7 FT
   - ✓ result acl2-2026-27-groups-gh-r05-kr-gangwon-fc-hk-kitchee 3-2 FT
   - ✓ result acl2-2026-27-groups-gh-r05-my-kuching-city-kh-phnom-penh-crown 3-0 FT
+
+## 2026-11-26 (2026-11-26T15:35:00Z)
+- 1 change(s) applied, 0 rejected, 3 waiting for a second source
+  - ✓ result acl2-2026-27-groups-gf-r05-hk-tai-po-au-adelaide-united 1-7 FT

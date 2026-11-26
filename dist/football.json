@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-26T12:38:09.356Z",
+ "generatedAt": "2026-11-26T15:38:08.650Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
   "matches": 844,
-  "results": 600,
-  "pending": 1
+  "results": 601,
+  "pending": 3
  },
  "teams": [
   {
@@ -46624,8 +46624,15 @@
    "away": "au-adelaide-united",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 1,
+    "away": 7,
+    "ht": [
+     0,
+     3
+    ]
+   },
    "venue": {
     "name": {
      "en": "Mong Kok Stadium",
@@ -46638,9 +46645,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+    "https://www.365scores.com/football/match/afc-champions-league-two-568/adelaide-united-fc-tai-po-fc-2200-16976-568"
    ],
+   "updatedAt": "2026-11-26T15:38:08.493Z",
    "venueFrom": "home-ground"
   },
   {
