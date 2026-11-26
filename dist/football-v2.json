@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-26T15:38:08.650Z",
+ "generatedAt": "2026-11-26T16:42:30.341Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1957,
-  "results": 1008,
-  "pending": 3
+  "results": 1010,
+  "pending": 1
  },
  "teams": [
   {
@@ -72223,8 +72223,11 @@
    "away": "sg-lion-city-sailors",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 3
+   },
    "venue": {
     "name": {
      "en": "BG Stadium",
@@ -72237,9 +72240,9 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-f-bg-pathum-united-tha-0-3-lion-city-sailors-fc-sgp"
    ],
+   "updatedAt": "2026-11-26T16:42:30.155Z",
    "venueFrom": "home-ground"
   },
   {
@@ -72258,8 +72261,11 @@
    "away": "jp-machida-zelvia",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 0
+   },
    "venue": {
     "name": {
      "en": "Morodok Techo National Stadium",
@@ -72272,9 +72278,23 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.api.espn.com/apis/site/v2/sports/soccer/afc.cup/scoreboard?dates=20261126",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4804&r=5&s=2026-2027"
+    "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-preah-khan-reach-svay-rieng-fc-cam-2-0-fc-machida-zelvia-jpn"
    ],
+   "goals": [
+    {
+     "minute": 59,
+     "side": "home",
+     "player": "Martins Junior",
+     "type": "goal"
+    },
+    {
+     "minute": 72,
+     "side": "home",
+     "player": "Tiago Alves",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-26T16:42:30.155Z",
    "venueFrom": "home-ground"
   },
   {

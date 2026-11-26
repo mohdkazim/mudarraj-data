@@ -4873,3 +4873,8 @@ One entry per run: what was added or corrected, what was rejected and why.
 ## 2026-11-26 (2026-11-26T15:35:00Z)
 - 1 change(s) applied, 0 rejected, 3 waiting for a second source
   - ✓ result acl2-2026-27-groups-gf-r05-hk-tai-po-au-adelaide-united 1-7 FT
+
+## 2026-11-26 (2026-11-26T16:35:00Z)
+- 2 change(s) applied, 0 rejected, 1 waiting for a second source
+  - ✓ result acl2-2026-27-groups-gf-r05-th-bg-pathum-united-sg-lion-city-sailors 0-3 FT
+  - ✓ result acl2-2026-27-groups-gg-r05-kh-pkr-svay-rieng-jp-machida-zelvia 2-0 FT

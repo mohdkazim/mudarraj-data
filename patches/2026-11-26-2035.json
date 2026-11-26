@@ -1,0 +1,14 @@
+{
+  "run": "2026-11-26T16:35:00Z",
+  "changes": [
+    { "op": "result", "match": "acl2-2026-27-groups-gf-r05-th-bg-pathum-united-sg-lion-city-sailors", "status": "FT", "score": [0,3],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-f-bg-pathum-united-tha-0-3-lion-city-sailors-fc-sgp"] },
+    { "op": "result", "match": "acl2-2026-27-groups-gg-r05-kh-pkr-svay-rieng-jp-machida-zelvia", "status": "FT", "score": [2,0],
+      "goals": [
+        { "minute": 59, "side": "home", "player": "Martins Junior", "type": "goal" },
+        { "minute": 72, "side": "home", "player": "Tiago Alves", "type": "goal" }
+      ],
+      "sources": ["https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-g-preah-khan-reach-svay-rieng-fc-cam-2-0-fc-machida-zelvia-jpn"] }
+  ],
+  "unconfirmed": []
+}
