@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-26T16:42:30.341Z",
+ "generatedAt": "2026-11-27T01:49:31.615Z",
  "counts": {
   "teams": 317,
   "competitions": 11,
-  "matches": 844,
-  "results": 603,
-  "pending": 1
+  "matches": 861,
+  "results": 604,
+  "pending": 0
  },
  "teams": [
   {
@@ -44832,9 +44832,48 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/es/football/team/qadisiya-8947",
-    "https://www.albayan.ae/sports/uae-stadiums/1567436"
+    "https://www.albayan.ae/sports/uae-stadiums/1567436",
+    "https://www.365scores.com/es/football/match/afc-champions-league-elite-623/qadisiya-shabab-al-ahly-8347-8947-623"
    ],
    "updatedAt": "2026-11-24T18:38:20.883Z",
+   "goals": [
+    {
+     "minute": 3,
+     "side": "away",
+     "player": "Julian Quiñones",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Julian Quiñones",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Mateusão",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "away",
+     "player": "Abdullah Al Salem",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -45100,7 +45139,11 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 1
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -45114,9 +45157,37 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/",
+    "https://www.skysports.com/football/rb-leipzig-vs-rc-lens/577675"
    ],
    "updatedAt": "2026-11-24T22:38:36.711Z",
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "David Raum",
+     "type": "goal"
+    },
+    {
+     "minute": 9,
+     "side": "home",
+     "player": "Antonio Nusa",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "away",
+     "player": "Matthieu Udol",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 4,
+     "side": "home",
+     "player": "Antonio Nusa",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -45923,13 +45994,21 @@
    "away": "om-al-shabab-oman",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 2,
+    "away": 1,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400"
-   ]
+    "https://www.365scores.com/football/match/gulf-club-champions-league-8400/al-shabab-sha'ab-hadramaut-11492-12185-8400"
+   ],
+   "updatedAt": "2026-11-27T01:49:28.694Z"
   },
   {
    "competition": "ucl",
@@ -45950,7 +46029,11 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 4
+    "away": 4,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": {
     "name": {
@@ -45965,9 +46048,42 @@
    "neutral": false,
    "sources": [
     "https://www.arabnews.com/football/gordon-double-helps-barcelona-cruise-past-sabah-4-1-in-champions-league-3014048",
-    "https://www.skysports.com/champions-league-scores-fixtures"
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://www.skysports.com/football/sabah-vs-barcelona/577683"
    ],
    "updatedAt": "2026-11-25T21:42:35.946Z",
+   "goals": [
+    {
+     "minute": 31,
+     "side": "away",
+     "player": "Anthony Gordon",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Anthony Gordon",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Karim Adeyemi",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "away",
+     "player": "Gabriel Jesus",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Joy-Lance Mickels",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -45989,7 +46105,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -46004,9 +46124,18 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572",
-    "https://www.skysports.com/football/slavia-prague-vs-villarreal/9091404031337954232"
+    "https://www.skysports.com/football/slavia-prague-vs-villarreal/9091404031337954232",
+    "https://www.skysports.com/football/slavia-prague-vs-villarreal/577685"
    ],
    "updatedAt": "2026-11-25T22:38:16.194Z",
+   "goals": [
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Tajon Buchanan",
+     "type": "goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -46244,7 +46373,11 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": {
     "name": {
@@ -46258,9 +46391,30 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572",
+    "https://www.skysports.com/football/lille-vs-bayern-munich/577681"
    ],
    "updatedAt": "2026-11-25T22:38:16.194Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "Dayot Upamecano",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "home",
+     "player": "Ayase Ueda",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "home",
+     "player": "Aleksandar Pavlovic",
+     "type": "own-goal"
+    }
+   ],
    "venueFrom": "home-ground"
   },
   {
@@ -46469,7 +46623,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -46483,7 +46641,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572",
+    "https://www.skysports.com/football/shakhtar-donetsk-vs-fenerbahce/577684"
    ],
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915406",
@@ -46492,7 +46651,15 @@
     "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
     "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
    ],
-   "updatedAt": "2026-11-25T22:38:16.194Z"
+   "updatedAt": "2026-11-25T22:38:16.194Z",
+   "goals": [
+    {
+     "minute": 56,
+     "side": "away",
+     "player": "Vedat Muriqi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "competition": "acl2",
@@ -48574,6 +48741,40 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r14-gb-eng-chelsea-gb-eng-liverpool",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-12-05T12:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-chelsea",
+   "away": "gb-eng-liverpool",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Stamford Bridge",
+     "ar": "ملعب ستامفورد بريدج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "uae-pro-league",
    "season": "2026-27",
    "id": "uae-pro-league-2026-27-regular-r10-ae-hatta-ae-kalba",
@@ -48605,6 +48806,142 @@
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17f96-7604-11f1-b32b-0289588efdb9",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=10&s=2026-2027"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r14-gb-eng-aston-villa-gb-eng-crystal-palace",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-12-05T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-aston-villa",
+   "away": "gb-eng-crystal-palace",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Villa Park",
+     "ar": "ملعب فيلا بارك"
+    },
+    "city": {
+     "en": "Birmingham",
+     "ar": "برمنغهام"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r14-gb-eng-bournemouth-gb-eng-hull-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-12-05T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-bournemouth",
+   "away": "gb-eng-hull-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Vitality Stadium",
+     "ar": "ملعب فيتاليتي"
+    },
+    "city": {
+     "en": "Bournemouth",
+     "ar": "بورنموث"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r14-gb-eng-leeds-united-gb-eng-ipswich-town",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-12-05T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-leeds-united",
+   "away": "gb-eng-ipswich-town",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Elland Road",
+     "ar": "ملعب إيلاند رود"
+    },
+    "city": {
+     "en": "Leeds",
+     "ar": "ليدز"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r14-gb-eng-manchester-united-gb-eng-coventry-city",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 14
+   },
+   "kickoff": "2026-12-05T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-united",
+   "away": "gb-eng-coventry-city",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Old Trafford",
+     "ar": "ملعب أولد ترافورد"
+    },
+    "city": {
+     "en": "Manchester",
+     "ar": "مانشستر"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
    ],
    "venueFrom": "home-ground"
   },
@@ -50273,6 +50610,40 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r16-es-elche-es-sevilla",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 16
+   },
+   "kickoff": "2026-12-11T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-elche",
+   "away": "es-sevilla",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Martínez Valero",
+     "ar": "ملعب مارتينيز فاليرو"
+    },
+    "city": {
+     "en": "Elche",
+     "ar": "إلتشي"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/es-US/noticias/horarios-de-la-decimosexta-jornada-de-laliga-ea-sports-2026-27"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "uae-pro-league",
    "season": "2026-27",
    "id": "uae-pro-league-2026-27-regular-r11-ae-al-ain-ae-hatta",
@@ -50343,6 +50714,108 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r15-gb-eng-fulham-gb-eng-brentford",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-12T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-fulham",
+   "away": "gb-eng-brentford",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Craven Cottage",
+     "ar": "ملعب كرافن كوتيج"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r15-gb-eng-ipswich-town-gb-eng-newcastle-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-12T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-ipswich-town",
+   "away": "gb-eng-newcastle-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Portman Road",
+     "ar": "ملعب بورتمان رود"
+    },
+    "city": {
+     "en": "Ipswich",
+     "ar": "إيبسويتش"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r15-gb-eng-liverpool-gb-eng-leeds-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-12T15:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-liverpool",
+   "away": "gb-eng-leeds-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Anfield",
+     "ar": "ملعب أنفيلد"
+    },
+    "city": {
+     "en": "Liverpool",
+     "ar": "ليفربول"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "uae-pro-league",
    "season": "2026-27",
    "id": "uae-pro-league-2026-27-regular-r11-ae-al-wasl-ae-sharjah",
@@ -50374,6 +50847,40 @@
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17fa5-7604-11f1-b32b-0289588efdb9",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=11&s=2026-2027"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r15-gb-eng-manchester-city-gb-eng-chelsea",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-12T17:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-manchester-city",
+   "away": "gb-eng-chelsea",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Etihad Stadium",
+     "ar": "ملعب الاتحاد"
+    },
+    "city": {
+     "en": "Manchester",
+     "ar": "مانشستر"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
    ],
    "venueFrom": "home-ground"
   },
@@ -50448,6 +50955,108 @@
    "venueFrom": "home-ground"
   },
   {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r15-gb-eng-arsenal-gb-eng-bournemouth",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-13T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-arsenal",
+   "away": "gb-eng-bournemouth",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Emirates Stadium",
+     "ar": "ملعب الإمارات"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r15-gb-eng-brighton-gb-eng-everton",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-13T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-brighton",
+   "away": "gb-eng-everton",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "American Express Stadium",
+     "ar": "ملعب أمريكان إكسبريس"
+    },
+    "city": {
+     "en": "Brighton",
+     "ar": "برايتون"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r15-gb-eng-sunderland-gb-eng-nottingham-forest",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-13T14:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-sunderland",
+   "away": "gb-eng-nottingham-forest",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Stadium of Light",
+     "ar": "ملعب النور"
+    },
+    "city": {
+     "en": "Sunderland",
+     "ar": "سندرلاند"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
    "competition": "uae-pro-league",
    "season": "2026-27",
    "id": "uae-pro-league-2026-27-regular-r11-ae-al-dhafra-ae-al-nasr",
@@ -50514,6 +51123,142 @@
    "sources": [
     "https://uaeproleague.ae/en/fixtures/22e17fa3-7604-11f1-b32b-0289588efdb9",
     "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4678&r=11&s=2026-2027"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r15-gb-eng-coventry-city-gb-eng-aston-villa",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-13T16:30:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-coventry-city",
+   "away": "gb-eng-aston-villa",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Coventry Building Society Arena",
+     "ar": "ملعب كوفنتري بيلدينغ سوسايتي أرينا"
+    },
+    "city": {
+     "en": "Coventry",
+     "ar": "كوفنتري"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r15-gb-eng-crystal-palace-gb-eng-manchester-united",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-13T19:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-crystal-palace",
+   "away": "gb-eng-manchester-united",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "Selhurst Park",
+     "ar": "ملعب سيلهرست بارك"
+    },
+    "city": {
+     "en": "London",
+     "ar": "لندن"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "epl",
+   "season": "2026-27",
+   "id": "epl-2026-27-regular-r15-gb-eng-hull-city-gb-eng-tottenham-hotspur",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 15
+   },
+   "kickoff": "2026-12-14T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "gb-eng-hull-city",
+   "away": "gb-eng-tottenham-hotspur",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "MKM Stadium",
+     "ar": "ملعب إم كيه إم"
+    },
+    "city": {
+     "en": "Hull",
+     "ar": "هال"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"
+   ],
+   "venueFrom": "home-ground"
+  },
+  {
+   "competition": "laliga",
+   "season": "2026-27",
+   "id": "laliga-2026-27-regular-r16-es-espanyol-es-celta-vigo",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 16
+   },
+   "kickoff": "2026-12-14T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-espanyol",
+   "away": "es-celta-vigo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": {
+    "name": {
+     "en": "RCDE Stadium",
+     "ar": "ملعب آر سي دي إي"
+    },
+    "city": {
+     "en": "Cornellà de Llobregat",
+     "ar": "كورنيا دي يوبريغات"
+    }
+   },
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/es-US/noticias/horarios-de-la-decimosexta-jornada-de-laliga-ea-sports-2026-27"
    ],
    "venueFrom": "home-ground"
   },

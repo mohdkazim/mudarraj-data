@@ -6727,6 +6727,50 @@
     "https://www.skysports.com/la-liga-results",
     "https://www.laliga.com/en-GB/clubs/rayo-vallecano/next-matches"
    ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r16-es-elche-es-sevilla",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 16
+   },
+   "kickoff": "2026-12-11T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-elche",
+   "away": "es-sevilla",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/es-US/noticias/horarios-de-la-decimosexta-jornada-de-laliga-ea-sports-2026-27"
+   ]
+  },
+  {
+   "id": "laliga-2026-27-regular-r16-es-espanyol-es-celta-vigo",
+   "stage": {
+    "key": "regular",
+    "type": "league",
+    "group": null,
+    "round": 16
+   },
+   "kickoff": "2026-12-14T20:00:00Z",
+   "timeConfirmed": true,
+   "home": "es-espanyol",
+   "away": "es-celta-vigo",
+   "homePlaceholder": null,
+   "awayPlaceholder": null,
+   "status": "NS",
+   "score": null,
+   "venue": null,
+   "neutral": false,
+   "sources": [
+    "https://www.laliga.com/es-US/noticias/horarios-de-la-decimosexta-jornada-de-laliga-ea-sports-2026-27"
+   ]
   }
  ]
 }

@@ -1,0 +1,65 @@
+{
+  "run": "2026-11-27T01:36:00Z",
+  "changes": [
+    { "op": "result", "match": "gulf-club-cl-2026-27-groups-ga-r04-ye-shaab-hadramaut-om-al-shabab-oman", "status": "FT", "score": [2,1], "ht": [1,0],
+      "sources": ["https://www.365scores.com/football/match/gulf-club-champions-league-8400/al-shabab-sha'ab-hadramaut-11492-12185-8400"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-de-rb-leipzig-fr-lens", "status": "FT", "score": [3,1], "ht": [2,0],
+      "goals": [
+        { "minute": 6, "side": "home", "player": "David Raum", "type": "goal" },
+        { "minute": 9, "side": "home", "player": "Antonio Nusa", "type": "goal" },
+        { "minute": 58, "side": "away", "player": "Matthieu Udol", "type": "goal" },
+        { "minute": 90, "extra": 4, "side": "home", "player": "Antonio Nusa", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/rb-leipzig-vs-rc-lens/577675"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-az-sabah-es-barcelona", "status": "FT", "score": [1,4], "ht": [0,1],
+      "goals": [
+        { "minute": 31, "side": "away", "player": "Anthony Gordon", "type": "goal" },
+        { "minute": 51, "side": "away", "player": "Anthony Gordon", "type": "goal" },
+        { "minute": 55, "side": "away", "player": "Karim Adeyemi", "type": "goal" },
+        { "minute": 60, "side": "away", "player": "Gabriel Jesus", "type": "goal" },
+        { "minute": 63, "side": "home", "player": "Joy-Lance Mickels", "type": "goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/sabah-vs-barcelona/577683"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-cz-slavia-prague-es-villarreal", "status": "FT", "score": [0,1], "ht": [0,0],
+      "goals": [ { "minute": 62, "side": "away", "player": "Tajon Buchanan", "type": "goal" } ],
+      "sources": ["https://www.skysports.com/football/slavia-prague-vs-villarreal/577685"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-fr-lille-de-bayern-munich", "status": "FT", "score": [2,1], "ht": [0,1],
+      "goals": [
+        { "minute": 15, "side": "away", "player": "Dayot Upamecano", "type": "goal" },
+        { "minute": 62, "side": "home", "player": "Ayase Ueda", "type": "goal" },
+        { "minute": 65, "side": "home", "player": "Aleksandar Pavlovic", "type": "own-goal" }
+      ],
+      "sources": ["https://www.skysports.com/football/lille-vs-bayern-munich/577681"] },
+    { "op": "result", "match": "ucl-2026-27-league-phase-r05-ua-shakhtar-donetsk-tr-fenerbahce", "status": "FT", "score": [0,1], "ht": [0,0],
+      "goals": [ { "minute": 56, "side": "away", "player": "Vedat Muriqi", "type": "goal" } ],
+      "sources": ["https://www.skysports.com/football/shakhtar-donetsk-vs-fenerbahce/577684"] },
+    { "op": "result", "match": "acle-2026-27-league-west-gwest-r05-ae-shabab-al-ahli-sa-al-qadsiah", "status": "FT", "score": [1,5], "ht": [0,2],
+      "goals": [
+        { "minute": 3, "side": "away", "player": "Julian Quiñones", "type": "goal" },
+        { "minute": 13, "side": "away", "player": "Julian Quiñones", "type": "goal" },
+        { "minute": 61, "side": "away", "player": "Tijjani Reijnders", "type": "goal" },
+        { "minute": 71, "side": "home", "player": "Mateusão", "type": "goal" },
+        { "minute": 77, "side": "away", "player": "Tijjani Reijnders", "type": "goal" },
+        { "minute": 86, "side": "away", "player": "Abdullah Al Salem", "type": "goal" }
+      ],
+      "sources": ["https://www.365scores.com/es/football/match/afc-champions-league-elite-623/qadisiya-shabab-al-ahly-8347-8947-623"] }
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":14},"home":"gb-eng-chelsea","away":"gb-eng-liverpool","kickoff":"2026-12-05T12:30:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":14},"home":"gb-eng-aston-villa","away":"gb-eng-crystal-palace","kickoff":"2026-12-05T15:00:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":14},"home":"gb-eng-bournemouth","away":"gb-eng-hull-city","kickoff":"2026-12-05T15:00:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":14},"home":"gb-eng-leeds-united","away":"gb-eng-ipswich-town","kickoff":"2026-12-05T15:00:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":14},"home":"gb-eng-manchester-united","away":"gb-eng-coventry-city","kickoff":"2026-12-05T15:00:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":15},"home":"gb-eng-fulham","away":"gb-eng-brentford","kickoff":"2026-12-12T15:00:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":15},"home":"gb-eng-ipswich-town","away":"gb-eng-newcastle-united","kickoff":"2026-12-12T15:00:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":15},"home":"gb-eng-liverpool","away":"gb-eng-leeds-united","kickoff":"2026-12-12T15:00:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":15},"home":"gb-eng-manchester-city","away":"gb-eng-chelsea","kickoff":"2026-12-12T17:30:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":15},"home":"gb-eng-arsenal","away":"gb-eng-bournemouth","kickoff":"2026-12-13T14:00:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":15},"home":"gb-eng-brighton","away":"gb-eng-everton","kickoff":"2026-12-13T14:00:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":15},"home":"gb-eng-sunderland","away":"gb-eng-nottingham-forest","kickoff":"2026-12-13T14:00:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":15},"home":"gb-eng-coventry-city","away":"gb-eng-aston-villa","kickoff":"2026-12-13T16:30:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":15},"home":"gb-eng-crystal-palace","away":"gb-eng-manchester-united","kickoff":"2026-12-13T19:00:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"epl","season":"2026-27","stage":{"key":"regular","type":"league","round":15},"home":"gb-eng-hull-city","away":"gb-eng-tottenham-hotspur","kickoff":"2026-12-14T20:00:00Z","timeConfirmed":true,"sources":["https://www.skysports.com/premier-league-scores-fixtures/2026-12-01"]}
+    ,{"op":"fixture","competition":"laliga","season":"2026-27","stage":{"key":"regular","type":"league","round":16},"home":"es-elche","away":"es-sevilla","kickoff":"2026-12-11T20:00:00Z","timeConfirmed":true,"sources":["https://www.laliga.com/es-US/noticias/horarios-de-la-decimosexta-jornada-de-laliga-ea-sports-2026-27"]}
+    ,{"op":"fixture","competition":"laliga","season":"2026-27","stage":{"key":"regular","type":"league","round":16},"home":"es-espanyol","away":"es-celta-vigo","kickoff":"2026-12-14T20:00:00Z","timeConfirmed":true,"sources":["https://www.laliga.com/es-US/noticias/horarios-de-la-decimosexta-jornada-de-laliga-ea-sports-2026-27"]}
+  ],
+  "unconfirmed": []
+}

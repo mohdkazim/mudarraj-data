@@ -4040,14 +4040,46 @@
    "status": "FT",
    "score": {
     "home": 3,
-    "away": 1
+    "away": 1,
+    "ht": [
+     2,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/"
+    "https://www.365scores.com/pt-br/news/magazine/city-arsenal-tropecam-casa-veja-resultados-champions/",
+    "https://www.skysports.com/football/rb-leipzig-vs-rc-lens/577675"
    ],
-   "updatedAt": "2026-11-24T22:38:36.711Z"
+   "updatedAt": "2026-11-24T22:38:36.711Z",
+   "goals": [
+    {
+     "minute": 6,
+     "side": "home",
+     "player": "David Raum",
+     "type": "goal"
+    },
+    {
+     "minute": 9,
+     "side": "home",
+     "player": "Antonio Nusa",
+     "type": "goal"
+    },
+    {
+     "minute": 58,
+     "side": "away",
+     "player": "Matthieu Udol",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 4,
+     "side": "home",
+     "player": "Antonio Nusa",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-es-real-madrid-nl-psv-eindhoven",
@@ -4352,15 +4384,52 @@
    "status": "FT",
    "score": {
     "home": 1,
-    "away": 4
+    "away": 4,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.arabnews.com/football/gordon-double-helps-barcelona-cruise-past-sabah-4-1-in-champions-league-3014048",
-    "https://www.skysports.com/champions-league-scores-fixtures"
+    "https://www.skysports.com/champions-league-scores-fixtures",
+    "https://www.skysports.com/football/sabah-vs-barcelona/577683"
    ],
-   "updatedAt": "2026-11-25T21:42:35.946Z"
+   "updatedAt": "2026-11-25T21:42:35.946Z",
+   "goals": [
+    {
+     "minute": 31,
+     "side": "away",
+     "player": "Anthony Gordon",
+     "type": "goal"
+    },
+    {
+     "minute": 51,
+     "side": "away",
+     "player": "Anthony Gordon",
+     "type": "goal"
+    },
+    {
+     "minute": 55,
+     "side": "away",
+     "player": "Karim Adeyemi",
+     "type": "goal"
+    },
+    {
+     "minute": 60,
+     "side": "away",
+     "player": "Gabriel Jesus",
+     "type": "goal"
+    },
+    {
+     "minute": 63,
+     "side": "home",
+     "player": "Joy-Lance Mickels",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-cz-slavia-prague-es-villarreal",
@@ -4379,15 +4448,28 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
     "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572",
-    "https://www.skysports.com/football/slavia-prague-vs-villarreal/9091404031337954232"
+    "https://www.skysports.com/football/slavia-prague-vs-villarreal/9091404031337954232",
+    "https://www.skysports.com/football/slavia-prague-vs-villarreal/577685"
    ],
-   "updatedAt": "2026-11-25T22:38:16.194Z"
+   "updatedAt": "2026-11-25T22:38:16.194Z",
+   "goals": [
+    {
+     "minute": 62,
+     "side": "away",
+     "player": "Tajon Buchanan",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-be-club-brugge-gb-eng-liverpool",
@@ -4498,14 +4580,39 @@
    "status": "FT",
    "score": {
     "home": 2,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     1
+    ]
    },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572",
+    "https://www.skysports.com/football/lille-vs-bayern-munich/577681"
    ],
-   "updatedAt": "2026-11-25T22:38:16.194Z"
+   "updatedAt": "2026-11-25T22:38:16.194Z",
+   "goals": [
+    {
+     "minute": 15,
+     "side": "away",
+     "player": "Dayot Upamecano",
+     "type": "goal"
+    },
+    {
+     "minute": 62,
+     "side": "home",
+     "player": "Ayase Ueda",
+     "type": "goal"
+    },
+    {
+     "minute": 65,
+     "side": "home",
+     "player": "Aleksandar Pavlovic",
+     "type": "own-goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r05-fr-paris-saint-germain-it-roma",
@@ -4675,7 +4782,11 @@
    "status": "FT",
    "score": {
     "home": 0,
-    "away": 1
+    "away": 1,
+    "ht": [
+     0,
+     0
+    ]
    },
    "venue": {
     "name": {
@@ -4689,7 +4800,8 @@
    },
    "neutral": true,
    "sources": [
-    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572"
+    "https://www.365scores.com/en-us/football/match/uefa-champions-league-572/barcelona-sabah-132-50201-572",
+    "https://www.skysports.com/football/shakhtar-donetsk-vs-fenerbahce/577684"
    ],
    "venueSources": [
     "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard/401915406",
@@ -4698,7 +4810,15 @@
     "https://tribune.com.pk/story/2634958/shakhtar-make-winning-start-at-new-champions-league-home",
     "https://www.maspero.eg/sport/2026/08/22/982493/ملعب-تشيلسي-يستضيف-فريق-شاختار-فى-مباريات-دورى-الأبطال"
    ],
-   "updatedAt": "2026-11-25T22:38:16.194Z"
+   "updatedAt": "2026-11-25T22:38:16.194Z",
+   "goals": [
+    {
+     "minute": 56,
+     "side": "away",
+     "player": "Vedat Muriqi",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "ucl-2026-27-league-phase-r06-es-villarreal-az-sabah",

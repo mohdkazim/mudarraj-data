@@ -3136,9 +3136,48 @@
    "neutral": false,
    "sources": [
     "https://www.365scores.com/es/football/team/qadisiya-8947",
-    "https://www.albayan.ae/sports/uae-stadiums/1567436"
+    "https://www.albayan.ae/sports/uae-stadiums/1567436",
+    "https://www.365scores.com/es/football/match/afc-champions-league-elite-623/qadisiya-shabab-al-ahly-8347-8947-623"
    ],
-   "updatedAt": "2026-11-24T18:38:20.883Z"
+   "updatedAt": "2026-11-24T18:38:20.883Z",
+   "goals": [
+    {
+     "minute": 3,
+     "side": "away",
+     "player": "Julian Quiñones",
+     "type": "goal"
+    },
+    {
+     "minute": 13,
+     "side": "away",
+     "player": "Julian Quiñones",
+     "type": "goal"
+    },
+    {
+     "minute": 61,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 71,
+     "side": "home",
+     "player": "Mateusão",
+     "type": "goal"
+    },
+    {
+     "minute": 77,
+     "side": "away",
+     "player": "Tijjani Reijnders",
+     "type": "goal"
+    },
+    {
+     "minute": 86,
+     "side": "away",
+     "player": "Abdullah Al Salem",
+     "type": "goal"
+    }
+   ]
   },
   {
    "id": "acle-2026-27-league-west-gwest-r05-sa-al-nassr-qa-al-sadd",

@@ -4878,3 +4878,30 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 1 waiting for a second source
   - ✓ result acl2-2026-27-groups-gf-r05-th-bg-pathum-united-sg-lion-city-sailors 0-3 FT
   - ✓ result acl2-2026-27-groups-gg-r05-kh-pkr-svay-rieng-jp-machida-zelvia 2-0 FT
+
+## 2026-11-27 (2026-11-27T01:36:00Z)
+- 24 change(s) applied, 0 rejected, 0 waiting for a second source
+  - ✓ result gulf-club-cl-2026-27-groups-ga-r04-ye-shaab-hadramaut-om-al-shabab-oman 2-1 FT
+  - ✓ result ucl-2026-27-league-phase-r05-de-rb-leipzig-fr-lens added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r05-az-sabah-es-barcelona added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r05-cz-slavia-prague-es-villarreal added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r05-fr-lille-de-bayern-munich added half-time and scorers to the confirmed result
+  - ✓ result ucl-2026-27-league-phase-r05-ua-shakhtar-donetsk-tr-fenerbahce added half-time and scorers to the confirmed result
+  - ✓ result acle-2026-27-league-west-gwest-r05-ae-shabab-al-ahli-sa-al-qadsiah added scorers to the confirmed result
+  - ✓ fixture epl-2026-27-regular-r14-gb-eng-chelsea-gb-eng-liverpool added
+  - ✓ fixture epl-2026-27-regular-r14-gb-eng-aston-villa-gb-eng-crystal-palace added
+  - ✓ fixture epl-2026-27-regular-r14-gb-eng-bournemouth-gb-eng-hull-city added
+  - ✓ fixture epl-2026-27-regular-r14-gb-eng-leeds-united-gb-eng-ipswich-town added
+  - ✓ fixture epl-2026-27-regular-r14-gb-eng-manchester-united-gb-eng-coventry-city added
+  - ✓ fixture epl-2026-27-regular-r15-gb-eng-fulham-gb-eng-brentford added
+  - ✓ fixture epl-2026-27-regular-r15-gb-eng-ipswich-town-gb-eng-newcastle-united added
+  - ✓ fixture epl-2026-27-regular-r15-gb-eng-liverpool-gb-eng-leeds-united added
+  - ✓ fixture epl-2026-27-regular-r15-gb-eng-manchester-city-gb-eng-chelsea added
+  - ✓ fixture epl-2026-27-regular-r15-gb-eng-arsenal-gb-eng-bournemouth added
+  - ✓ fixture epl-2026-27-regular-r15-gb-eng-brighton-gb-eng-everton added
+  - ✓ fixture epl-2026-27-regular-r15-gb-eng-sunderland-gb-eng-nottingham-forest added
+  - ✓ fixture epl-2026-27-regular-r15-gb-eng-coventry-city-gb-eng-aston-villa added
+  - ✓ fixture epl-2026-27-regular-r15-gb-eng-crystal-palace-gb-eng-manchester-united added
+  - ✓ fixture epl-2026-27-regular-r15-gb-eng-hull-city-gb-eng-tottenham-hotspur added
+  - ✓ fixture laliga-2026-27-regular-r16-es-elche-es-sevilla added
+  - ✓ fixture laliga-2026-27-regular-r16-es-espanyol-es-celta-vigo added
