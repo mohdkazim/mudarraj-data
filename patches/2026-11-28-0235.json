@@ -1,0 +1,23 @@
+{
+  "run": "2026-11-27T22:35:00Z",
+  "changes": [
+    { "op": "result", "match": "bundesliga-2026-27-regular-r11-de-werder-bremen-de-borussia-monchengladbach",
+      "status": "FT", "score": [3,3], "ht": [1,1],
+      "goals": [
+        { "minute": 27, "side": "away", "player": "Kevin Diks", "type": "penalty" },
+        { "minute": 38, "side": "home", "player": "Eren Dinkçi", "type": "goal" },
+        { "minute": 46, "side": "away", "player": "Franck Honorat", "type": "goal" },
+        { "minute": 78, "side": "away", "player": "Franck Honorat", "type": "goal" },
+        { "minute": 85, "side": "home", "player": "Eren Dinkçi", "type": "goal" },
+        { "minute": 90, "extra": 2, "side": "home", "player": "Niclas Füllkrug", "type": "goal" }
+      ],
+      "sources": ["https://www.bundesliga.com/en/bundesliga/news/werder-bremen-borussia-monchengladbach-match-report-highlights-matchday-11-fullkrug-40169", "https://www.skysports.com/football-scores-fixtures/2026-11-27"] },
+    { "op": "result", "match": "serie-a-2026-27-regular-r13-it-venezia-it-bologna",
+      "status": "FT", "score": [0,0], "ht": [0,0], "goals": [],
+      "sources": ["https://www.365scores.com/it/news/serie-a/venezia-bologna-0-0-il-var-annulla-il-gol-di-juan-jesus/", "https://www.skysports.com/football-scores-fixtures/2026-11-27"] }
+  ],
+  "unconfirmed": [
+    { "match": "epl-2026-27-regular-r12-gb-eng-nottingham-forest-gb-eng-chelsea", "claim": "3-2", "sources": ["https://www.skysports.com/football-scores-fixtures/2026-11-27"] },
+    { "match": "laliga-2026-27-regular-r14-es-levante-es-racing-santander", "claim": "1-3", "sources": ["https://www.skysports.com/football-scores-fixtures/2026-11-27"] }
+  ]
+}

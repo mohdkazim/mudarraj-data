@@ -4905,3 +4905,8 @@ One entry per run: what was added or corrected, what was rejected and why.
   - ✓ fixture epl-2026-27-regular-r15-gb-eng-hull-city-gb-eng-tottenham-hotspur added
   - ✓ fixture laliga-2026-27-regular-r16-es-elche-es-sevilla added
   - ✓ fixture laliga-2026-27-regular-r16-es-espanyol-es-celta-vigo added
+
+## 2026-11-28 (2026-11-27T22:35:00Z)
+- 2 change(s) applied, 0 rejected, 2 waiting for a second source
+  - ✓ result bundesliga-2026-27-regular-r11-de-werder-bremen-de-borussia-monchengladbach 3-3 FT
+  - ✓ result serie-a-2026-27-regular-r13-it-venezia-it-bologna 0-0 FT

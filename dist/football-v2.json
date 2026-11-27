@@ -1,12 +1,12 @@
 {
  "format": "mudarraj-football@1",
- "generatedAt": "2026-11-27T01:49:31.615Z",
+ "generatedAt": "2026-11-27T22:37:47.282Z",
  "counts": {
   "teams": 317,
   "competitions": 18,
   "matches": 1974,
-  "results": 1011,
-  "pending": 0
+  "results": 1013,
+  "pending": 2
  },
  "teams": [
   {
@@ -72807,8 +72807,15 @@
    "away": "de-borussia-monchengladbach",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 3,
+    "ht": [
+     1,
+     1
+    ]
+   },
    "venue": {
     "name": {
      "en": "Weserstadion",
@@ -72821,9 +72828,49 @@
    },
    "neutral": false,
    "sources": [
-    "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/11",
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ger.1/scoreboard?dates=20261127&limit=37"
+    "https://www.bundesliga.com/en/bundesliga/news/werder-bremen-borussia-monchengladbach-match-report-highlights-matchday-11-fullkrug-40169",
+    "https://www.skysports.com/football-scores-fixtures/2026-11-27"
    ],
+   "goals": [
+    {
+     "minute": 27,
+     "side": "away",
+     "player": "Kevin Diks",
+     "type": "penalty"
+    },
+    {
+     "minute": 38,
+     "side": "home",
+     "player": "Eren Dinkçi",
+     "type": "goal"
+    },
+    {
+     "minute": 46,
+     "side": "away",
+     "player": "Franck Honorat",
+     "type": "goal"
+    },
+    {
+     "minute": 78,
+     "side": "away",
+     "player": "Franck Honorat",
+     "type": "goal"
+    },
+    {
+     "minute": 85,
+     "side": "home",
+     "player": "Eren Dinkçi",
+     "type": "goal"
+    },
+    {
+     "minute": 90,
+     "extra": 2,
+     "side": "home",
+     "player": "Niclas Füllkrug",
+     "type": "goal"
+    }
+   ],
+   "updatedAt": "2026-11-27T22:37:47.136Z",
    "venueFrom": "home-ground"
   },
   {
@@ -72842,8 +72889,15 @@
    "away": "it-bologna",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 0,
+    "away": 0,
+    "ht": [
+     0,
+     0
+    ]
+   },
    "venue": {
     "name": {
      "en": "Stadio Pier Luigi Penzo",
@@ -72856,8 +72910,11 @@
    },
    "neutral": false,
    "sources": [
-    "https://site.web.api.espn.com/apis/site/v2/sports/soccer/ita.1/scoreboard?dates=20261127&limit=37"
+    "https://www.365scores.com/it/news/serie-a/venezia-bologna-0-0-il-var-annulla-il-gol-di-juan-jesus/",
+    "https://www.skysports.com/football-scores-fixtures/2026-11-27"
    ],
+   "goals": [],
+   "updatedAt": "2026-11-27T22:37:47.136Z",
    "venueFrom": "home-ground"
   },
   {
