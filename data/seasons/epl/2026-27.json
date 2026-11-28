@@ -5208,14 +5208,23 @@
    "away": "gb-eng-chelsea",
    "homePlaceholder": null,
    "awayPlaceholder": null,
-   "status": "NS",
-   "score": null,
+   "status": "FT",
+   "score": {
+    "home": 3,
+    "away": 2,
+    "ht": [
+     1,
+     0
+    ]
+   },
    "venue": null,
    "neutral": false,
    "sources": [
-    "https://www.skysports.com/premier-league-scores-fixtures/2026-11-01",
-    "https://www.thesportsdb.com/api/v1/json/123/eventsround.php?id=4328&r=12&s=2026-2027"
-   ]
+    "https://www.365scores.com/fr/football/match/premier-league-7/chelsea-nottingham-forest-29-106-7",
+    "https://www.arabnews.com/football/chelsea-suffer-third-successive-loss-as-gibbs-white-grabs-double-for-nottingham-forest-3014324",
+    "https://www.skysports.com/football/news/13613199/nottingham-forest-3-2-chelsea-morgan-gibbs-white-brace-heaps-pressure-on-xabi-alonso-as-wesley-fofana-is-booed"
+   ],
+   "updatedAt": "2026-11-28T01:49:55.095Z"
   },
   {
    "id": "epl-2026-27-regular-r12-gb-eng-leeds-united-gb-eng-coventry-city",

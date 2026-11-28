@@ -4910,3 +4910,26 @@ One entry per run: what was added or corrected, what was rejected and why.
 - 2 change(s) applied, 0 rejected, 2 waiting for a second source
   - ✓ result bundesliga-2026-27-regular-r11-de-werder-bremen-de-borussia-monchengladbach 3-3 FT
   - ✓ result serie-a-2026-27-regular-r13-it-venezia-it-bologna 0-0 FT
+
+## 2026-11-28 (2026-11-28T01:36:00Z)
+- 20 change(s) applied, 0 rejected, 4 waiting for a second source
+  - ✓ result epl-2026-27-regular-r12-gb-eng-nottingham-forest-gb-eng-chelsea 3-2 FT
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej kick-off 2026-11-27T12:15:00Z
+  - ✓ result saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej 2-1 FT
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha kick-off 2026-11-27T14:20:00Z
+  - ✓ result saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha 2-0 FT
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-ittihad-sa-neom kick-off 2026-11-27T17:30:00Z
+  - ✓ result saudi-pro-league-2026-27-regular-r13-sa-al-ittihad-sa-neom 1-0 FT
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-hazem-sa-al-nassr kick-off 2026-11-28T12:15:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-ettifaq-sa-al-hilal kick-off 2026-11-28T14:20:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r13-sa-al-ahli-saudi-sa-al-taawoun kick-off 2026-11-28T17:30:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-shabab-sa-al-ettifaq kick-off 2026-12-03T14:40:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-taawoun-sa-abha kick-off 2026-12-03T14:45:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-hilal-sa-al-diriyah kick-off 2026-12-03T17:30:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-neom-sa-al-kholood kick-off 2026-12-04T12:40:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-khaleej-sa-al-ittihad kick-off 2026-12-04T12:55:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-ahli-saudi-sa-al-faisaly kick-off 2026-12-04T15:15:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r14-sa-al-nassr-sa-al-qadsiah kick-off 2026-12-04T17:30:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r16-sa-al-fayha-sa-al-nassr kick-off 2026-12-16T17:30:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r17-sa-al-ittihad-sa-al-taawoun kick-off 2026-12-31T17:30:00Z
+  - ✓ fixture saudi-pro-league-2026-27-regular-r17-sa-neom-sa-al-ahli-saudi kick-off 2027-01-01T14:00:00Z

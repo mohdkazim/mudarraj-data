@@ -1,0 +1,51 @@
+{
+  "run": "2026-11-28T01:36:00Z",
+  "changes": [
+    { "op": "result", "match": "epl-2026-27-regular-r12-gb-eng-nottingham-forest-gb-eng-chelsea",
+      "status": "FT", "score": [3,2], "ht": [1,0],
+      "sources": ["https://www.365scores.com/fr/football/match/premier-league-7/chelsea-nottingham-forest-29-106-7",
+                  "https://www.arabnews.com/football/chelsea-suffer-third-successive-loss-as-gibbs-white-grabs-double-for-nottingham-forest-3014324",
+                  "https://www.skysports.com/football/news/13613199/nottingham-forest-3-2-chelsea-morgan-gibbs-white-brace-heaps-pressure-on-xabi-alonso-as-wesley-fofana-is-booed"] },
+
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej", "kickoff": "2026-11-27T12:15:00Z", "timeConfirmed": false,
+      "sources": ["https://www.365scores.com/football/match/saudi-league-649/al-feiha-qadisiya-8947-20733-649"] },
+    { "op": "result", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-kholood-sa-al-khaleej", "kickoff": "2026-11-27T12:15:00Z",
+      "status": "FT", "score": [2,1], "ht": [1,1],
+      "sources": ["https://www.365scores.com/en-us/football/match/saudi-league-649/al-khaleej-club-al-khlood-12138-55800-649",
+                  "https://www.365scores.com/football/league/saudi-league-649"] },
+
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha", "kickoff": "2026-11-27T14:20:00Z", "timeConfirmed": false,
+      "sources": ["https://www.365scores.com/football/match/saudi-league-649/al-feiha-qadisiya-8947-20733-649"] },
+    { "op": "result", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-qadsiah-sa-al-fayha", "kickoff": "2026-11-27T14:20:00Z",
+      "status": "FT", "score": [2,0],
+      "sources": ["https://www.365scores.com/en-us/football/match/saudi-league-649/al-feiha-al-nassr-fc-riyadh-7549-20733-649",
+                  "https://www.365scores.com/football/league/saudi-league-649"] },
+
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-ittihad-sa-neom", "kickoff": "2026-11-27T17:30:00Z", "timeConfirmed": false,
+      "sources": ["https://www.365scores.com/football/match/saudi-league-649/ittihad-jeddah-neom-sc-8593-55793-649"] },
+    { "op": "result", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-ittihad-sa-neom", "kickoff": "2026-11-27T17:30:00Z",
+      "status": "FT", "score": [1,0],
+      "sources": ["https://www.365scores.com/football/league/saudi-league-649"] },
+
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-hazem-sa-al-nassr", "kickoff": "2026-11-28T12:15:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/football/league/saudi-league-649"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-ettifaq-sa-al-hilal", "kickoff": "2026-11-28T14:20:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/football/league/saudi-league-649"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r13-sa-al-ahli-saudi-sa-al-taawoun", "kickoff": "2026-11-28T17:30:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/football/league/saudi-league-649", "https://www.365scores.com/en-us/football/match/saudi-league-649/al-ahli-jeddah-neom-sc-8946-55793-649"] },
+
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r14-sa-al-shabab-sa-al-ettifaq", "kickoff": "2026-12-03T14:40:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/football/league/saudi-league-649"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r14-sa-al-taawoun-sa-abha", "kickoff": "2026-12-03T14:45:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/football/league/saudi-league-649"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r14-sa-al-hilal-sa-al-diriyah", "kickoff": "2026-12-03T17:30:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/football/league/saudi-league-649"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r14-sa-neom-sa-al-kholood", "kickoff": "2026-12-04T12:40:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/football/league/saudi-league-649"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r14-sa-al-khaleej-sa-al-ittihad", "kickoff": "2026-12-04T12:55:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/football/league/saudi-league-649"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r14-sa-al-ahli-saudi-sa-al-faisaly", "kickoff": "2026-12-04T15:15:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/football/league/saudi-league-649"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r14-sa-al-nassr-sa-al-qadsiah", "kickoff": "2026-12-04T17:30:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/football/league/saudi-league-649"] },
+
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r16-sa-al-fayha-sa-al-nassr", "kickoff": "2026-12-16T17:30:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/en-us/football/match/saudi-league-649/al-feiha-al-nassr-fc-riyadh-7549-20733-649"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r17-sa-al-ittihad-sa-al-taawoun", "kickoff": "2026-12-31T17:30:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/es/football/match/saudi-league-649/al-taawoun-ittihad-jeddah-8593-8941-649"] },
+    { "op": "fixture", "match": "saudi-pro-league-2026-27-regular-r17-sa-neom-sa-al-ahli-saudi", "kickoff": "2027-01-01T14:00:00Z", "timeConfirmed": false, "sources": ["https://www.365scores.com/en-us/football/match/saudi-league-649/al-ahli-jeddah-neom-sc-8946-55793-649"] }
+  ],
+  "unconfirmed": [
+    { "match": "saudi-pro-league-2026-27-regular-r13-sa-al-fateh-sa-al-riyadh", "claim": "1-0", "note": "played 26 Nov 2026 per 365Scores; kick-off time not shown — record with the actual kickoff once a page gives it", "sources": ["https://www.365scores.com/football/match/saudi-league-649/al-fateh-al-riyadh-sc-8942-12135-649"] },
+    { "match": "saudi-pro-league-2026-27-regular-r13-sa-abha-sa-al-shabab", "claim": "0-1", "note": "played 26 Nov 2026 per 365Scores (HT 0-1, Josh Brownhill 39'); kick-off time not shown", "sources": ["https://www.365scores.com/en-uk/football/match/saudi-league-649/abha-club-al-shabab-riyadh-8945-14898-649"] },
+    { "match": "saudi-pro-league-2026-27-regular-r13-sa-al-faisaly-sa-al-diriyah", "claim": "2-2", "note": "played 26 Nov 2026 per 365Scores (HT 0-2); kick-off time not shown", "sources": ["https://www.365scores.com/en-us/football/match/saudi-league-649/al-faysaly-diriyah-8949-13801-649"] }
+  ]
+}
